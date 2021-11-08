@@ -1,1 +1,1 @@
-# NED-using-KG
+# Named Entity Disambiguation (NED) using Knowledge Graphs (KG)
