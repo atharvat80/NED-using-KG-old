@@ -38,15 +38,15 @@ class BasicFlairNED(NED):
         self.emb.embed(s)
         return s.get_embedding()
 
-    def link(self, mention, context, candidates=None):
+    def link(self, mention, context, candidates=None, top_only=True, as_df=True, filter=True):
         # 1. Generate candidate entities
         if candidates is None:
             candidates = [(i['label'], i['description'])
                           for i in self.generateCandidates(mention)]
 
         # 2. Encode context-mention and candidates
-        context = self.encodeSentence(context)
-        candidateEnc = {i: self.encodeSentence(j) for i, j in candidates}
+        context = self.encodeSentence(context, filter=filter)
+        candidateEnc = {i: self.encodeSentence(j, filter=filter) for i, j in candidates}
 
         # 3. Candidate Ranking
         ranking = []
@@ -56,4 +56,10 @@ class BasicFlairNED(NED):
             ranking.append([candidate[0], candidate[1], score.item()])
 
         ranking.sort(key=lambda x: x[2], reverse=True)
-        return pd.DataFrame(ranking, columns=['Entity', 'Description', 'Confidence'])
+        if top_only:
+            return ranking[0]
+        else:
+            if as_df:
+                return pd.DataFrame(ranking, columns=['Entity', 'Description', 'Confidence'])
+            else:
+                return ranking
