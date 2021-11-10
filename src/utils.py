@@ -62,8 +62,21 @@ def WikiDataSearch(query, num_results=10):
     }
     url = service_url + '?' + urllib.parse.urlencode(params)
     response = json.loads(urllib.request.urlopen(url).read())
-    results = [i for i in response['search']
-               if 'disambiguation' not in i['description']]
+    results = [i for i in response['search'] if 'disambiguation' not in i['description']]
+    # add wikipedia url to results
+    params = {
+        'action': 'wbgetentities',
+        'ids': '|'.join([i['id'] for i in results]),
+        'props': 'sitelinks',
+        'sitefilter': 'enwiki',
+        'format': 'json',
+    }
+    url = service_url + '?' + urllib.parse.urlencode(params)
+    response = json.loads(urllib.request.urlopen(url).read())
+    response = list(response['entities'].values())
+    for i in range(len(results)):
+        results[i]['label'] = response[i]['sitelinks']['enwiki']['title']
+        
     return results
 
 
