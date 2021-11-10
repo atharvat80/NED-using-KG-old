@@ -1,0 +1,6 @@
+**/__pycache__
+.api_key
+/datasets/AIDA/raw/*
+/datasets/AIDA/mentions/*.csv
+/datasets/AIDA/candidates/*.csv
+/datasets/Kensho/*.zip
