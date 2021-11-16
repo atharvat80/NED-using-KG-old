@@ -5,11 +5,11 @@ from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 from flair.data import Sentence
 
-from src.utils import GoogleSearch, WikiDataSearch
+from src.utils import GoogleSearch, WikiSearch
 
 
 class NED:
-    def __init__(self, cand_source='wikidata', num_cands=5):
+    def __init__(self, cand_source='wiki', num_cands=5):
         self.stop_words = set(stopwords.words('english'))
         self.tokenizer = RegexpTokenizer(r'\w+')
         self.cand_source = cand_source
@@ -20,8 +20,8 @@ class NED:
         return [w for w in word_tokens if not w.lower() in self.stop_words]
 
     def generateCandidates(self, mention):
-        if self.cand_source == 'wikidata':
-            return WikiDataSearch(mention, self.num_cands)
+        if self.cand_source == 'wiki':
+            return WikiSearch(mention, self.num_cands)
         elif self.cand_source == 'google':
             return GoogleSearch(mention, self.num_cands)
         else:
@@ -29,24 +29,30 @@ class NED:
 
 
 class BasicFlairNED(NED):
-    def __init__(self, emb, cand_source='wikidata', num_cands=5):
+    def __init__(self, emb, cased=True, filter_stopwords=True, cand_source='wiki', num_cands=5):
         super().__init__(cand_source, num_cands)
         self.emb = emb
+        self.cased = cased
+        self.filter_stopwords = filter_stopwords
 
-    def encodeSentence(self, s, filter=True):
-        s = Sentence(self.filter(s)) if filter else Sentence(s)
+    def encodeSentence(self, s):
+        if self.cased == False:
+            s = s.lower()
+        if self.filter_stopwords:
+            s = Sentence(self.filter(s))
+        else:
+            s = Sentence(s)
         self.emb.embed(s)
         return s.get_embedding()
 
-    def link(self, mention, context, candidates=None, top_only=True, as_df=True, filter=True):
+    def link(self, mention, context, candidates=None, top_only=True, as_df=True,):
         # 1. Generate candidate entities
         if candidates is None:
-            candidates = [(i['label'], i['description'])
-                          for i in self.generateCandidates(mention)]
+            candidates = [(i['label'], i['description']) for i in self.generateCandidates(mention)]
 
         # 2. Encode context-mention and candidates
-        context = self.encodeSentence(context, filter=filter)
-        candidateEnc = {i: self.encodeSentence(j, filter=filter) for i, j in candidates}
+        context = self.encodeSentence(context)
+        candidateEnc = {i: self.encodeSentence(j) for i, j in candidates}
 
         # 3. Candidate Ranking
         ranking = []
