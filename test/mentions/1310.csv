@@ -1,0 +1,21 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+U.S.,us,UNK,true,Q1310,1310,U.S.,http://en.wikipedia.org/wiki/United_States
+WASHINGTON,washington,UNK,true,Q1310,1310,WASHINGTON,"http://en.wikipedia.org/wiki/Washington,_D.C."
+United States,united-states,UNK,true,Q1310,1310,United States,http://en.wikipedia.org/wiki/United_States
+Greek,greek,UNK,true,Q1310,1310,Greek,http://en.wikipedia.org/wiki/Greece
+Palestinian,palestinian,UNK,true,Q1310,1310,Palestinian,http://en.wikipedia.org/wiki/State_of_Palestine
+State Department,state-department,UNK,true,Q1310,1310,State Department,http://en.wikipedia.org/wiki/United_States_Department_of_State
+Nicholas Burns,nicholas-burns,UNK,true,Q1310,1310,Nicholas Burns,http://en.wikipedia.org/wiki/R._Nicholas_Burns
+Greece,greece,UNK,true,Q1310,1310,Greece,http://en.wikipedia.org/wiki/Greece
+Nicholas Burns,nicholas-burns,UNK,true,Q1310,1310,Burns,http://en.wikipedia.org/wiki/R._Nicholas_Burns
+Clinton,clinton,UNK,true,Q1310,1310,Clinton,http://en.wikipedia.org/wiki/Bill_Clinton
+Korydallos,korydallos,UNK,true,Q1310,1310,Korydallos,NIL
+Athens,athens,UNK,true,Q1310,1310,Athens,http://en.wikipedia.org/wiki/Athens
+Olympic Airways,olympic-airways,UNK,true,Q1310,1310,Olympic Airways,http://en.wikipedia.org/wiki/Olympic_Airlines
+Cairo,cairo,UNK,true,Q1310,1310,Cairo,http://en.wikipedia.org/wiki/Cairo
+Tunis,tunis,UNK,true,Q1310,1310,Tunis,http://en.wikipedia.org/wiki/Tunis
+Pan American,pan-american,UNK,true,Q1310,1310,Pan American,http://en.wikipedia.org/wiki/Pan_American_World_Airways
+Abu Ibrahim,abu-ibrahim,UNK,true,Q1310,1310,Abu Ibrahim,NIL
+FBI,fbi,UNK,true,Q1310,1310,FBI,http://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation
+Brazil,brazil,UNK,true,Q1310,1310,Brazil,http://en.wikipedia.org/wiki/Brazil
+TWA,twa,UNK,true,Q1310,1310,TWA,http://en.wikipedia.org/wiki/Trans_World_Airlines

@@ -1,0 +1,33 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+SCOTTISH,scottish,UNK,true,Q1066,1066,SCOTTISH,http://en.wikipedia.org/wiki/Scotland
+LONDON,london,UNK,true,Q1066,1066,LONDON,http://en.wikipedia.org/wiki/London
+Scottish,scottish,UNK,true,Q1066,1066,Scottish,http://en.wikipedia.org/wiki/Scotland
+Greenock Morton,greenock-morton,UNK,true,Q1066,1066,Greenock Morton,http://en.wikipedia.org/wiki/Greenock_Morton_F.C.
+Dundee,dundee,UNK,true,Q1066,1066,Dundee,http://en.wikipedia.org/wiki/Dundee_F.C.
+St Johnstone,st-johnstone,UNK,true,Q1066,1066,St Johnstone,http://en.wikipedia.org/wiki/St._Johnstone_F.C.
+St Mirren,st-mirren,UNK,true,Q1066,1066,St Mirren,http://en.wikipedia.org/wiki/St._Mirren_F.C.
+Airdrieonians,airdrieonians,UNK,true,Q1066,1066,Airdrieonians,http://en.wikipedia.org/wiki/Airdrieonians_F.C.
+Falkirk,falkirk,UNK,true,Q1066,1066,Falkirk,http://en.wikipedia.org/wiki/Falkirk_F.C.
+Clydebank,clydebank,UNK,true,Q1066,1066,Clydebank,http://en.wikipedia.org/wiki/Clydebank_F.C.
+Partick,partick,UNK,true,Q1066,1066,Partick,http://en.wikipedia.org/wiki/Partick_Thistle_F.C.
+East Stirling,east-stirling,UNK,true,Q1066,1066,Stirling,http://en.wikipedia.org/wiki/Stirling_Albion_F.C.
+East Fife,east-fife,UNK,true,Q1066,1066,East Fife,http://en.wikipedia.org/wiki/East_Fife_F.C.
+Livingston,livingston,UNK,true,Q1066,1066,Livingston,http://en.wikipedia.org/wiki/Livingston_F.C.
+Ayr,ayr,UNK,true,Q1066,1066,Ayr,http://en.wikipedia.org/wiki/Ayr_United_F.C.
+Stenhousemuir,stenhousemuir,UNK,true,Q1066,1066,Stenhousemuir,http://en.wikipedia.org/wiki/Stenhousemuir_F.C.
+Hamilton,hamilton,UNK,true,Q1066,1066,Hamilton,http://en.wikipedia.org/wiki/Hamilton_Academical_F.C.
+Stranraer,stranraer,UNK,true,Q1066,1066,Stranraer,http://en.wikipedia.org/wiki/Stranraer_F.C.
+Brechin,brechin,UNK,true,Q1066,1066,Brechin,http://en.wikipedia.org/wiki/Brechin_City_F.C.
+Clyde,clyde,UNK,true,Q1066,1066,Clyde,http://en.wikipedia.org/wiki/Clyde_F.C.
+Dumbarton,dumbarton,UNK,true,Q1066,1066,Dumbarton,http://en.wikipedia.org/wiki/Dumbarton_F.C.
+Berwick,berwick,UNK,true,Q1066,1066,Berwick,http://en.wikipedia.org/wiki/Berwick_Rangers_F.C.
+Albion,albion,UNK,true,Q1066,1066,Albion,http://en.wikipedia.org/wiki/West_Bromwich_Albion_F.C.
+Forfar,forfar,UNK,true,Q1066,1066,Forfar,http://en.wikipedia.org/wiki/Forfar_Athletic_F.C.
+Cowdenbeath,cowdenbeath,UNK,true,Q1066,1066,Cowdenbeath,http://en.wikipedia.org/wiki/Cowdenbeath_F.C.
+Arbroath,arbroath,UNK,true,Q1066,1066,Arbroath,http://en.wikipedia.org/wiki/Arbroath_F.C.
+Alloa,alloa,UNK,true,Q1066,1066,Alloa,http://en.wikipedia.org/wiki/Alloa_Athletic_F.C.
+Queen's Park,queens-park,UNK,true,Q1066,1066,Queen's Park,NIL
+Montrose,montrose,UNK,true,Q1066,1066,Montrose,http://en.wikipedia.org/wiki/Montrose_F.C.
+Inverness Thistle,inverness-thistle,UNK,true,Q1066,1066,Inverness Thistle,http://en.wikipedia.org/wiki/Inverness_Thistle_F.C.
+East Stirling,east-stirling,UNK,true,Q1066,1066,East Stirling,http://en.wikipedia.org/wiki/East_Stirlingshire_F.C.
+Ross County,ross-county,UNK,true,Q1066,1066,Ross County,http://en.wikipedia.org/wiki/Ross_County_F.C.

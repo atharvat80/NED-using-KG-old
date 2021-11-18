@@ -1,0 +1,4 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+London,london,UNK,true,Q69,69,London,http://en.wikipedia.org/wiki/London
+LONDON,london,UNK,true,Q69,69,LONDON,http://en.wikipedia.org/wiki/London
+Greek,greek,UNK,true,Q69,69,Greek,http://en.wikipedia.org/wiki/Greece

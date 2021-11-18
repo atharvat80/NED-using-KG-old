@@ -1,0 +1,8 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+Greek,greek,UNK,true,Q221,221,Greek,http://en.wikipedia.org/wiki/Greece
+ATHENS,athens,UNK,true,Q221,221,ATHENS,http://en.wikipedia.org/wiki/Athens
+Republic,republic,UNK,true,Q221,221,Republic,NIL
+Costis Stephanopoulos,costis-stephanopoulos,UNK,true,Q221,221,Costis Stephanopoulos,http://en.wikipedia.org/wiki/Konstantinos_Stephanopoulos
+Costas Simitis,costas-simitis,UNK,true,Q221,221,Costas Simitis,http://en.wikipedia.org/wiki/Costas_Simitis
+European Union,european-union,UNK,true,Q221,221,European Union,http://en.wikipedia.org/wiki/European_Union
+Turkey,turkey,UNK,true,Q221,221,Turkey,NIL

@@ -1,0 +1,5 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+Taiwan,taiwan,UNK,true,Q922,922,Taiwan,http://en.wikipedia.org/wiki/Taiwan
+TAIPEI,taipei,UNK,true,Q922,922,TAIPEI,http://en.wikipedia.org/wiki/Taipei
+U.S.,us,UNK,true,Q922,922,U.S.,http://en.wikipedia.org/wiki/United_States
+US$,us$,UNK,true,Q922,922,US$,http://en.wikipedia.org/wiki/United_States_dollar

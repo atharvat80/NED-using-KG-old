@@ -1,0 +1,4 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+USDA,usda,UNK,true,Q1273,1273,USDA,http://en.wikipedia.org/wiki/United_States_Department_of_Agriculture
+Fed,fed,UNK,true,Q1273,1273,Fed,http://en.wikipedia.org/wiki/Federal_Reserve_System
+NASS,nass,UNK,true,Q1273,1273,NASS,NIL

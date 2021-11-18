@@ -1,0 +1,15 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+NYMEX,nymex,UNK,true,Q1280,1280,NYMEX,http://en.wikipedia.org/wiki/New_York_Mercantile_Exchange
+NEW YORK,new-york,UNK,true,Q1280,1280,NEW YORK,http://en.wikipedia.org/wiki/New_York_City
+Henry Hub,henry-hub,UNK,true,Q1280,1280,Henry Hub,http://en.wikipedia.org/wiki/Henry_Hub
+National Weather Service,national-weather-service,UNK,true,Q1280,1280,National Weather Service,http://en.wikipedia.org/wiki/National_Weather_Service
+British,british,UNK,true,Q1280,1280,British,http://en.wikipedia.org/wiki/United_Kingdom
+U.S.,us,UNK,true,Q1280,1280,U.S.,http://en.wikipedia.org/wiki/United_States
+NWS,nws,UNK,true,Q1280,1280,NWS,http://en.wikipedia.org/wiki/National_Weather_Service
+Gulf Coast,gulf-coast,UNK,true,Q1280,1280,Gulf Coast,NIL
+New York,new-york,UNK,true,Q1280,1280,New York,http://en.wikipedia.org/wiki/New_York_City
+Alberta,alberta,UNK,true,Q1280,1280,Alberta,NIL
+AECO,aeco,UNK,true,Q1280,1280,AECO,NIL
+Canada,canada,UNK,true,Q1280,1280,Canada,http://en.wikipedia.org/wiki/Canada
+Permian,permian,UNK,true,Q1280,1280,Permian,NIL
+Waha,waha,UNK,true,Q1280,1280,Waha,NIL

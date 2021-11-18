@@ -1,0 +1,13 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+India,india,UNK,true,Q111,111,India,http://en.wikipedia.org/wiki/India
+Kashmir,kashmir,UNK,true,Q111,111,Kashmir,http://en.wikipedia.org/wiki/Kashmir
+SRINAGAR,srinagar,UNK,true,Q111,111,SRINAGAR,http://en.wikipedia.org/wiki/Srinagar
+Pakistan,pakistan,UNK,true,Q111,111,Pakistan,http://en.wikipedia.org/wiki/Pakistan
+Jammu,jammu,UNK,true,Q111,111,Jammu,NIL
+Kashmir,kashmir,UNK,true,Q111,111,Kashmir,NIL
+Srinagar,srinagar,UNK,true,Q111,111,Srinagar,http://en.wikipedia.org/wiki/Srinagar
+New Delhi,new-delhi,UNK,true,Q111,111,New Delhi,http://en.wikipedia.org/wiki/New_Delhi
+Islamabad,islamabad,UNK,true,Q111,111,Islamabad,NIL
+Gupta,gupta,UNK,true,Q111,111,Gupta,http://en.wikipedia.org/wiki/Indrajit_Gupta
+Britain,britain,UNK,true,Q111,111,Britain,http://en.wikipedia.org/wiki/United_Kingdom
+H.D. Deve Gowda,hd-deve-gowda,UNK,true,Q111,111,H.D. Deve Gowda,http://en.wikipedia.org/wiki/H._D._Deve_Gowda

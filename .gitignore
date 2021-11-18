@@ -2,7 +2,7 @@
 .api_key
 
 /test/raw/*
-/test/mentions/*.csv
+# /test/mentions/*.csv
 /test/candidates/*.csv
 /results/*
 
@@ -11,5 +11,6 @@
 
 /data/*.ttl
 /data/*.csv
+!/data/entity_desc.csv
 
 temp.ipynb

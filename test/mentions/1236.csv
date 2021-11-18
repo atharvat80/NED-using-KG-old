@@ -1,0 +1,9 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+NYC,nyc,UNK,true,Q1236,1236,NYC,http://en.wikipedia.org/wiki/New_York_City
+Euro,euro,UNK,true,Q1236,1236,Euro,NIL
+NEW YORK,new-york,UNK,true,Q1236,1236,NEW YORK,http://en.wikipedia.org/wiki/New_York_City
+New York City,new-york-city,UNK,true,Q1236,1236,New York City,http://en.wikipedia.org/wiki/New_York_City
+European,european,UNK,true,Q1236,1236,European,http://en.wikipedia.org/wiki/Europe
+"Goldman, Sachs",goldman-sachs,UNK,true,Q1236,1236,"Goldman, Sachs",NIL
+U.S.,us,UNK,true,Q1236,1236,U.S.,http://en.wikipedia.org/wiki/United_States
+London Stock Exchange,london-stock-exchange,UNK,true,Q1236,1236,London Stock Exchange,http://en.wikipedia.org/wiki/London_Stock_Exchange

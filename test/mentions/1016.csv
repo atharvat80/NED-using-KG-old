@@ -1,0 +1,7 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+RMS Titanic,rms-titanic,UNK,true,Q1016,1016,Titanic,http://en.wikipedia.org/wiki/RMS_Titanic
+NEW YORK,new-york,UNK,true,Q1016,1016,NEW YORK,http://en.wikipedia.org/wiki/New_York_City
+RMS Titanic,rms-titanic,UNK,true,Q1016,1016,RMS Titanic,http://en.wikipedia.org/wiki/RMS_Titanic
+Newfoundland,newfoundland,UNK,true,Q1016,1016,Newfoundland,http://en.wikipedia.org/wiki/Newfoundland
+Canada,canada,UNK,true,Q1016,1016,Canada,http://en.wikipedia.org/wiki/Canada
+Boston-based,boston-based,UNK,true,Q1016,1016,Boston-based,http://en.wikipedia.org/wiki/Boston

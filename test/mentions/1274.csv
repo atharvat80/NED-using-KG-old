@@ -1,0 +1,7 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+Hartford,hartford,UNK,true,Q1274,1274,Hartford,"http://en.wikipedia.org/wiki/Hartford,_Connecticut"
+Conn,conn,UNK,true,Q1274,1274,Conn,NIL
+HARTFORD,hartford,UNK,true,Q1274,1274,HARTFORD,"http://en.wikipedia.org/wiki/Hartford,_Connecticut"
+CONNECTICUT,connecticut,UNK,true,Q1274,1274,CONNECTICUT,NIL
+S&P,s-p,UNK,true,Q1274,1274,S&P,http://en.wikipedia.org/wiki/Standard_&_Poor's
+FSA,fsa,UNK,true,Q1274,1274,FSA,http://en.wikipedia.org/wiki/Financial_Services_Authority

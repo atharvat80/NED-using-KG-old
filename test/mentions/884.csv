@@ -1,0 +1,11 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+SEATTLE,seattle,UNK,true,Q884,884,SEATTLE,http://en.wikipedia.org/wiki/Seattle
+San Jose,san-jose,UNK,true,Q884,884,San Jose,"http://en.wikipedia.org/wiki/San_Jose,_California"
+Calif.,calif,UNK,true,Q884,884,Calif.,http://en.wikipedia.org/wiki/California
+PMC-Sierra,pmc-sierra,UNK,true,Q884,884,PMC-Sierra,NIL
+Scott Randall,scott-randall,UNK,true,Q884,884,Scott Randall,NIL
+Scott Randall,scott-randall,UNK,true,Q884,884,Randall,NIL
+Hambrecht & Quist,hambrecht-quist,UNK,true,Q884,884,Hambrecht & Quist,http://en.wikipedia.org/wiki/Hambrecht_&_Quist
+PMC-Sierra,pmc-sierra,UNK,true,Q884,884,PMC-Sierra,http://en.wikipedia.org/wiki/PMC-Sierra
+PMC,pmc,UNK,true,Q884,884,PMC,NIL
+Seattle,seattle,UNK,true,Q884,884,Seattle,http://en.wikipedia.org/wiki/Seattle

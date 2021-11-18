@@ -1,0 +1,11 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+SOFIA,sofia,UNK,true,Q456,456,SOFIA,http://en.wikipedia.org/wiki/Sofia
+Bulgarian,bulgarian,UNK,true,Q456,456,Bulgarian,http://en.wikipedia.org/wiki/Bulgaria
+Bulgaria,bulgaria,UNK,true,Q456,456,Bulgaria,http://en.wikipedia.org/wiki/Bulgaria
+Europe,europe,UNK,true,Q456,456,Europe,http://en.wikipedia.org/wiki/Europe
+Middle,middle,UNK,true,Q456,456,Middle,http://en.wikipedia.org/wiki/Middle_East
+Far East,far-east,UNK,true,Q456,456,Far East,NIL
+Balkan Airlines,balkan-airlines,UNK,true,Q456,456,Balkan Airlines,http://en.wikipedia.org/wiki/Balkan_Bulgarian_Airlines
+Black Sea,black-sea,UNK,true,Q456,456,Black Sea,http://en.wikipedia.org/wiki/Black_Sea
+Balkan,balkan,UNK,true,Q456,456,Balkan,NIL
+English,english,UNK,true,Q456,456,English,http://en.wikipedia.org/wiki/English_language

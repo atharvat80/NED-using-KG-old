@@ -1,0 +1,22 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+London,london,UNK,true,Q512,512,London,http://en.wikipedia.org/wiki/London
+LONDON,london,UNK,true,Q512,512,LONDON,http://en.wikipedia.org/wiki/London
+European,european,UNK,true,Q512,512,European,http://en.wikipedia.org/wiki/Europe
+wall Street,wall-street,UNK,true,Q512,512,wall Street,http://en.wikipedia.org/wiki/New_York_Stock_Exchange
+Tokyo,tokyo,UNK,true,Q512,512,Tokyo,http://en.wikipedia.org/wiki/Tokyo
+Japanese,japanese,UNK,true,Q512,512,Japanese,http://en.wikipedia.org/wiki/Japan
+Tankan,tankan,UNK,true,Q512,512,Tankan,NIL
+FTSE,ftse,UNK,true,Q512,512,FTSE,http://en.wikipedia.org/wiki/FTSE_100_Index
+Wall Street,wall-street,UNK,true,Q512,512,Wall Street,http://en.wikipedia.org/wiki/New_York_Stock_Exchange
+Frankfurt,frankfurt,UNK,true,Q512,512,Frankfurt,http://en.wikipedia.org/wiki/DAX
+Europe,europe,UNK,true,Q512,512,Europe,http://en.wikipedia.org/wiki/Europe
+IBIS,ibis,UNK,true,Q512,512,IBIS,NIL
+French,french,UNK,true,Q512,512,French,http://en.wikipedia.org/wiki/France
+U.S.,us,UNK,true,Q512,512,U.S.,http://en.wikipedia.org/wiki/United_States
+UK,uk,UNK,true,Q512,512,UK,NIL
+EMU,emu,UNK,true,Q512,512,EMU,NIL
+British,british,UNK,true,Q512,512,British,http://en.wikipedia.org/wiki/United_Kingdom
+Paris,paris,UNK,true,Q512,512,Paris,http://en.wikipedia.org/wiki/Paris
+CAC-40,cac-40,UNK,true,Q512,512,CAC-40,NIL
+DAX,dax,UNK,true,Q512,512,DAX,http://en.wikipedia.org/wiki/DAX
+Frankfurt,frankfurt,UNK,true,Q512,512,Frankfurt,http://en.wikipedia.org/wiki/Frankfurt

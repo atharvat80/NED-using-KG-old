@@ -1,0 +1,5 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+Kansas,kansas,UNK,true,Q581,581,Kansas,http://en.wikipedia.org/wiki/Kansas
+USDA,usda,UNK,true,Q581,581,USDA,http://en.wikipedia.org/wiki/United_States_Department_of_Agriculture
+DODGE CITY,dodge-city,UNK,true,Q581,581,DODGE CITY,"http://en.wikipedia.org/wiki/Dodge_City,_Kansas"
+Chicago,chicago,UNK,true,Q581,581,Chicago,http://en.wikipedia.org/wiki/Chicago

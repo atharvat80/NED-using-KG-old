@@ -1,0 +1,14 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+Euro,euro,UNK,true,Q203,203,Euro,NIL
+LONDON,london,UNK,true,Q203,203,LONDON,http://en.wikipedia.org/wiki/London
+European,european,UNK,true,Q203,203,European,http://en.wikipedia.org/wiki/European_Union
+U.S.,us,UNK,true,Q203,203,U.S.,http://en.wikipedia.org/wiki/United_States
+Japanese,japanese,UNK,true,Q203,203,Japanese,http://en.wikipedia.org/wiki/Japan
+GMT,gmt,UNK,true,Q203,203,GMT,http://en.wikipedia.org/wiki/Greenwich_Mean_Time
+Bundesbank,bundesbank,UNK,true,Q203,203,Bundesbank,http://en.wikipedia.org/wiki/Deutsche_Bundesbank
+Britain,britain,UNK,true,Q203,203,Britain,http://en.wikipedia.org/wiki/United_Kingdom
+Italy,italy,UNK,true,Q203,203,Italy,http://en.wikipedia.org/wiki/Italy
+Spain,spain,UNK,true,Q203,203,Spain,http://en.wikipedia.org/wiki/Spain
+Sweden,sweden,UNK,true,Q203,203,Sweden,http://en.wikipedia.org/wiki/Sweden
+Germany,germany,UNK,true,Q203,203,Germany,http://en.wikipedia.org/wiki/Germany
+France,france,UNK,true,Q203,203,France,http://en.wikipedia.org/wiki/France

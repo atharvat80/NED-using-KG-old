@@ -1,0 +1,9 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+YUGOSLAV,yugoslav,UNK,true,Q339,339,YUGOSLAV,http://en.wikipedia.org/wiki/Yugoslavia
+BELGRADE,belgrade,UNK,true,Q339,339,BELGRADE,http://en.wikipedia.org/wiki/Belgrade
+Yugoslav,yugoslav,UNK,true,Q339,339,Yugoslav,http://en.wikipedia.org/wiki/Yugoslavia
+Vojvodina,vojvodina,UNK,true,Q339,339,Vojvodina,http://en.wikipedia.org/wiki/FK_Vojvodina
+Partizan,partizan,UNK,true,Q339,339,Partizan,http://en.wikipedia.org/wiki/FK_Partizan
+Crvena zvezda,crvena-zvezda,UNK,true,Q339,339,Crvena zvezda,http://en.wikipedia.org/wiki/Red_Star_Belgrade
+Proleter,proleter,UNK,true,Q339,339,Proleter,http://en.wikipedia.org/wiki/FK_Proleter_Zrenjanin
+Rudar,rudar,UNK,true,Q339,339,Rudar,http://en.wikipedia.org/wiki/FK_Rudar_Pljevlja

@@ -1,0 +1,6 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+Texas,texas,UNK,true,Q1306,1306,Texas,http://en.wikipedia.org/wiki/Texas
+Okla,okla,UNK,true,Q1306,1306,Okla,http://en.wikipedia.org/wiki/Oklahoma
+USDA,usda,UNK,true,Q1306,1306,USDA,http://en.wikipedia.org/wiki/United_States_Department_of_Agriculture
+AMARILLO,amarillo,UNK,true,Q1306,1306,AMARILLO,"http://en.wikipedia.org/wiki/Amarillo,_Texas"
+Panhandle,panhandle,UNK,true,Q1306,1306,Panhandle,NIL
