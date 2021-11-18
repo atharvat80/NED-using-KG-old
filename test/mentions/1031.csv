@@ -1,0 +1,28 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+NEW YORK,new-york,UNK,true,Q1031,1031,NEW YORK,http://en.wikipedia.org/wiki/New_York_City
+London,london,UNK,true,Q1031,1031,London,http://en.wikipedia.org/wiki/London
+Nikkei,nikkei,UNK,true,Q1031,1031,Nikkei,http://en.wikipedia.org/wiki/Nikkei_225
+Brent,brent,UNK,true,Q1031,1031,Brent,NIL
+FTSE 100,ftse-100,UNK,true,Q1031,1031,FTSE,http://en.wikipedia.org/wiki/FTSE_100_Index
+German,german,UNK,true,Q1031,1031,German,http://en.wikipedia.org/wiki/Germany
+Japanese,japanese,UNK,true,Q1031,1031,Japanese,http://en.wikipedia.org/wiki/Japan
+Dow Jones,dow-jones,UNK,true,Q1031,1031,Dow Jones,http://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average
+New York Stock Exchange,new-york-stock-exchange,UNK,true,Q1031,1031,New York Stock Exchange,http://en.wikipedia.org/wiki/New_York_Stock_Exchange
+Treasury,treasury,UNK,true,Q1031,1031,Treasury,http://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury
+Raymond James,raymond-james,UNK,true,Q1031,1031,Raymond James,http://en.wikipedia.org/wiki/Raymond_James_Financial
+Dow Jones,dow-jones,UNK,true,Q1031,1031,Dow,http://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average
+Wall Street,wall-street,UNK,true,Q1031,1031,Wall Street,http://en.wikipedia.org/wiki/Wall_Street
+David Shulman,david-shulman,UNK,true,Q1031,1031,David Shulman,NIL
+Fed,fed,UNK,true,Q1031,1031,Fed,http://en.wikipedia.org/wiki/Federal_Reserve_System
+Commerce Department,commerce-department,UNK,true,Q1031,1031,Commerce Department,http://en.wikipedia.org/wiki/United_States_Department_of_Commerce
+Clinton,clinton,UNK,true,Q1031,1031,Clinton,http://en.wikipedia.org/wiki/Bill_Clinton
+Dick Morris,dick-morris,UNK,true,Q1031,1031,Dick Morris,http://en.wikipedia.org/wiki/Dick_Morris
+Republican,republican,UNK,true,Q1031,1031,Republican,http://en.wikipedia.org/wiki/Republican_Party_(United_States)
+Democratic,democratic,UNK,true,Q1031,1031,Democratic,http://en.wikipedia.org/wiki/Democratic_Party_(United_States)
+Dick Morris,dick-morris,UNK,true,Q1031,1031,Morris,http://en.wikipedia.org/wiki/Dick_Morris
+Iraq,iraq,UNK,true,Q1031,1031,Iraq,http://en.wikipedia.org/wiki/Iraq
+New York Mercantile Exchange,new-york-mercantile-exchange,UNK,true,Q1031,1031,New York Mercantile Exchange,http://en.wikipedia.org/wiki/New_York_Mercantile_Exchange
+New York Cotton Exchange,new-york-cotton-exchange,UNK,true,Q1031,1031,New York Cotton Exchange,http://en.wikipedia.org/wiki/New_York_Cotton_Exchange
+U.S.,us,UNK,true,Q1031,1031,U.S.,http://en.wikipedia.org/wiki/United_States
+FTSE 100,ftse-100,UNK,true,Q1031,1031,FTSE 100,http://en.wikipedia.org/wiki/FTSE_100_Index
+Tokyo,tokyo,UNK,true,Q1031,1031,Tokyo,http://en.wikipedia.org/wiki/Tokyo

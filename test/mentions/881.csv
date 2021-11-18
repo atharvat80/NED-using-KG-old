@@ -1,0 +1,4 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+DENVER,denver,UNK,true,Q881,881,DENVER,http://en.wikipedia.org/wiki/Denver
+Boulder,boulder,UNK,true,Q881,881,Boulder,"http://en.wikipedia.org/wiki/Boulder,_Colorado"
+Colo.,colo,UNK,true,Q881,881,Colo.,http://en.wikipedia.org/wiki/Colorado

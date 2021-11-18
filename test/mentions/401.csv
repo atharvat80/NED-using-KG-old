@@ -1,0 +1,8 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+Dow Jones,dow-jones,UNK,true,Q401,401,Dow,http://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average
+Philip Morris,philip-morris,UNK,true,Q401,401,Philip Morris,http://en.wikipedia.org/wiki/Philip_Morris_International
+NEW YORK,new-york,UNK,true,Q401,401,NEW YORK,http://en.wikipedia.org/wiki/New_York_City
+Dow Jones,dow-jones,UNK,true,Q401,401,Dow Jones,http://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average
+New York Stock Exchange,new-york-stock-exchange,UNK,true,Q401,401,New York Stock Exchange,http://en.wikipedia.org/wiki/New_York_Stock_Exchange
+NASDAQ,nasdaq,UNK,true,Q401,401,NASDAQ,http://en.wikipedia.org/wiki/NASDAQ
+U.S. Treasury,us-treasury,UNK,true,Q401,401,U.S. Treasury,http://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury

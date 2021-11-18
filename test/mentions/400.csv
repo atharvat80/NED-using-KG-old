@@ -1,0 +1,10 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+SAN DIEGO,san-diego,UNK,true,Q400,400,SAN DIEGO,http://en.wikipedia.org/wiki/San_Diego
+San Diego,san-diego,UNK,true,Q400,400,San Diego,http://en.wikipedia.org/wiki/San_Diego
+Creedmoor,creedmoor,UNK,true,Q400,400,Creedmoor,"http://en.wikipedia.org/wiki/Creedmoor,_North_Carolina"
+N.C.,nc,UNK,true,Q400,400,N.C.,NIL
+Hampshire,hampshire,UNK,true,Q400,400,Hampshire,http://en.wikipedia.org/wiki/Hampshire
+England,england,UNK,true,Q400,400,England,http://en.wikipedia.org/wiki/England
+Tijuana,tijuana,UNK,true,Q400,400,Tijuana,http://en.wikipedia.org/wiki/Tijuana
+Mexico,mexico,UNK,true,Q400,400,Mexico,http://en.wikipedia.org/wiki/Mexico
+Eli Lilly,eli-lilly,UNK,true,Q400,400,Eli Lilly,NIL

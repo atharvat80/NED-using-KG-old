@@ -1,0 +1,7 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+LONDON,london,UNK,true,Q1219,1219,LONDON,http://en.wikipedia.org/wiki/London
+UK,uk,UNK,true,Q1219,1219,UK,NIL
+Department of Transport,department-of-transport,UNK,true,Q1219,1219,Department of Transport,NIL
+U.S.,us,UNK,true,Q1219,1219,U.S.,http://en.wikipedia.org/wiki/United_States
+DOT,dot,UNK,true,Q1219,1219,DOT,NIL
+Reuters,reuters,UNK,true,Q1219,1219,Reuters,http://en.wikipedia.org/wiki/Reuters

@@ -1,0 +1,12 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+FSA,fsa,UNK,true,Q759,759,FSA,NIL
+NEW YORK,new-york,UNK,true,Q759,759,NEW YORK,http://en.wikipedia.org/wiki/New_York_City
+Paris,paris,UNK,true,Q759,759,Paris,"http://en.wikipedia.org/wiki/Paris,_Arkansas"
+Ark,ark,UNK,true,Q759,759,Ark,NIL
+St Ansgar,st-ansgar,UNK,true,Q759,759,St Ansgar,NIL
+Iowa,iowa,UNK,true,Q759,759,Iowa,NIL
+Avalon Borough,avalon-borough,UNK,true,Q759,759,Avalon Borough,"http://en.wikipedia.org/wiki/Avalon,_New_Jersey"
+N.J.,nj,UNK,true,Q759,759,N.J.,http://en.wikipedia.org/wiki/New_Jersey
+N.Y.,ny,UNK,true,Q759,759,N.Y.,http://en.wikipedia.org/wiki/New_York
+Akron,akron,UNK,true,Q759,759,Akron,"http://en.wikipedia.org/wiki/Akron,_Ohio"
+Ohio,ohio,UNK,true,Q759,759,Ohio,http://en.wikipedia.org/wiki/Ohio

@@ -1,0 +1,4 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+IPO,ipo,UNK,true,Q615,615,IPO,http://en.wikipedia.org/wiki/Intellectual_Property_Owners_Association
+WASHINGTON,washington,UNK,true,Q615,615,WASHINGTON,"http://en.wikipedia.org/wiki/Washington,_D.C."
+Nasdaq,nasdaq,UNK,true,Q615,615,Nasdaq,http://en.wikipedia.org/wiki/NASDAQ

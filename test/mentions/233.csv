@@ -1,0 +1,7 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+HONG KONG,hong-kong,UNK,true,Q233,233,HONG KONG,http://en.wikipedia.org/wiki/Hong_Kong
+HK$,hk$,UNK,true,Q233,233,HK$,http://en.wikipedia.org/wiki/Hong_Kong_dollar
+H.K.,hk,UNK,true,Q233,233,H.K.,http://en.wikipedia.org/wiki/Hong_Kong
+Holdings,holdings,UNK,true,Q233,233,Holdings,http://en.wikipedia.org/wiki/Holding_company
+Ltd,ltd,UNK,true,Q233,233,Ltd,http://en.wikipedia.org/wiki/Limited_company
+Stock Exchange,stock-exchange,UNK,true,Q233,233,Stock Exchange,NIL

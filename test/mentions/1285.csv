@@ -1,0 +1,12 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+American,american,UNK,true,Q1285,1285,American,http://en.wikipedia.org/wiki/United_States
+CHICAGO,chicago,UNK,true,Q1285,1285,CHICAGO,http://en.wikipedia.org/wiki/Chicago
+United States,united-states,UNK,true,Q1285,1285,United States,http://en.wikipedia.org/wiki/United_States
+Columbus,columbus,UNK,true,Q1285,1285,Columbus,"http://en.wikipedia.org/wiki/Columbus,_Ohio"
+Ohio,ohio,UNK,true,Q1285,1285,Ohio,http://en.wikipedia.org/wiki/Ohio
+American Veterinary Medical Association,american-veterinary-medical-association,UNK,true,Q1285,1285,American Veterinary Medical Association,http://en.wikipedia.org/wiki/American_Veterinary_Medical_Association
+Rottweilers,rottweilers,UNK,true,Q1285,1285,Rottweilers,NIL
+German shepherds,german-shepherds,UNK,true,Q1285,1285,German shepherds,http://en.wikipedia.org/wiki/German_Shepherd
+cocker spaniels,cocker-spaniels,UNK,true,Q1285,1285,cocker spaniels,http://en.wikipedia.org/wiki/Cocker_Spaniel
+Dalmatians,dalmatians,UNK,true,Q1285,1285,Dalmatians,http://en.wikipedia.org/wiki/Dalmatian_dog
+Doberman,doberman,UNK,true,Q1285,1285,Doberman,http://en.wikipedia.org/wiki/Doberman_Pinscher

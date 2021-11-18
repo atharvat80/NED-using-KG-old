@@ -1,0 +1,22 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+EU,eu,UNK,true,Q1,1,EU,NIL
+German,german,UNK,true,Q1,1,German,http://en.wikipedia.org/wiki/Germany
+British,british,UNK,true,Q1,1,British,http://en.wikipedia.org/wiki/United_Kingdom
+Peter Blackburn,peter-blackburn,UNK,true,Q1,1,Peter Blackburn,NIL
+BRUSSELS,brussels,UNK,true,Q1,1,BRUSSELS,http://en.wikipedia.org/wiki/Brussels
+European Commission,european-commission,UNK,true,Q1,1,European Commission,http://en.wikipedia.org/wiki/European_Commission
+Germany,germany,UNK,true,Q1,1,Germany,http://en.wikipedia.org/wiki/Germany
+European Union,european-union,UNK,true,Q1,1,European Union,http://en.wikipedia.org/wiki/European_Union
+Britain,britain,UNK,true,Q1,1,Britain,http://en.wikipedia.org/wiki/United_Kingdom
+European Commission,european-commission,UNK,true,Q1,1,Commission,http://en.wikipedia.org/wiki/European_Commission
+Franz Fischler,franz-fischler,UNK,true,Q1,1,Franz Fischler,http://en.wikipedia.org/wiki/Franz_Fischler
+Fischler,fischler,UNK,true,Q1,1,Fischler,NIL
+France,france,UNK,true,Q1,1,France,http://en.wikipedia.org/wiki/France
+Bovine Spongiform Encephalopathy,bovine-spongiform-encephalopathy,UNK,true,Q1,1,Bovine Spongiform Encephalopathy,NIL
+BSE,bse,UNK,true,Q1,1,BSE,http://en.wikipedia.org/wiki/Bovine_spongiform_encephalopathy
+Spanish,spanish,UNK,true,Q1,1,Spanish,http://en.wikipedia.org/wiki/Spain
+Loyola de Palacio,loyola-de-palacio,UNK,true,Q1,1,Loyola de Palacio,http://en.wikipedia.org/wiki/Loyola_de_Palacio
+Europe,europe,UNK,true,Q1,1,Europe,http://en.wikipedia.org/wiki/Europe
+John Lloyd Jones,john-lloyd-jones,UNK,true,Q1,1,John Lloyd Jones,NIL
+BBC radio,bbc-radio,UNK,true,Q1,1,BBC radio,NIL
+Bonn,bonn,UNK,true,Q1,1,Bonn,http://en.wikipedia.org/wiki/Bonn

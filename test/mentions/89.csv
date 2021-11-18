@@ -1,0 +1,11 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+Colombian,colombian,UNK,true,Q89,89,Colombian,http://en.wikipedia.org/wiki/Colombia
+BOGOTA,bogota,UNK,true,Q89,89,BOGOTA,http://en.wikipedia.org/wiki/Bogotá
+Colombia,colombia,UNK,true,Q89,89,Colombia,http://en.wikipedia.org/wiki/Colombia
+Coast Guard,coast-guard,UNK,true,Q89,89,Coast Guard,http://en.wikipedia.org/wiki/Coast_guard
+Pacific,pacific,UNK,true,Q89,89,Pacific,NIL
+Gorgona,gorgona,UNK,true,Q89,89,Gorgona,"http://en.wikipedia.org/wiki/Gorgona_Island,_Colombia"
+Narino,narino,UNK,true,Q89,89,Narino,NIL
+Ecuador,ecuador,UNK,true,Q89,89,Ecuador,http://en.wikipedia.org/wiki/Ecuador
+Navy,navy,UNK,true,Q89,89,Navy,NIL
+Buenaventura,buenaventura,UNK,true,Q89,89,Buenaventura,"http://en.wikipedia.org/wiki/Buenaventura,_Valle_del_Cauca"

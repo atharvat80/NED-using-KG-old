@@ -1,0 +1,4 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+EPA,epa,UNK,true,Q1337,1337,EPA,NIL
+TOKYO,tokyo,UNK,true,Q1337,1337,TOKYO,http://en.wikipedia.org/wiki/Tokyo
+Japan,japan,UNK,true,Q1337,1337,Japan,http://en.wikipedia.org/wiki/Japan

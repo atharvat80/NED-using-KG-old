@@ -1,0 +1,9 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+LONDON,london,UNK,true,Q7,7,LONDON,http://en.wikipedia.org/wiki/London
+Toronto Dominion,toronto-dominion,UNK,true,Q7,7,Toronto Dominion,NIL
+BAYERISCHE VEREINSBANK,bayerische-vereinsbank,UNK,true,Q7,7,BAYERISCHE VEREINSBANK,http://en.wikipedia.org/wiki/HypoVereinsbank
+S&P,s-p,UNK,true,Q7,7,S&P,NIL
+US,us,UNK,true,Q7,7,US,NIL
+UK,uk,UNK,true,Q7,7,UK,NIL
+CA,ca,UNK,true,Q7,7,CA,NIL
+GERMAN,german,UNK,true,Q7,7,GERMAN,http://en.wikipedia.org/wiki/Germany

@@ -1,0 +1,17 @@
+text,normalName,predictedType,q,qid,docId,origText,url
+SWISS,swiss,UNK,true,Q360,360,SWISS,http://en.wikipedia.org/wiki/Switzerland
+GENEVA,geneva,UNK,true,Q360,360,GENEVA,http://en.wikipedia.org/wiki/Geneva
+Swiss,swiss,UNK,true,Q360,360,Swiss,http://en.wikipedia.org/wiki/Switzerland
+Aarau,aarau,UNK,true,Q360,360,Aarau,http://en.wikipedia.org/wiki/FC_Aarau
+Young Boys,young-boys,UNK,true,Q360,360,Young Boys,http://en.wikipedia.org/wiki/BSC_Young_Boys
+Grasshopper,grasshopper,UNK,true,Q360,360,Grasshopper,http://en.wikipedia.org/wiki/Grasshopper_Club_Zürich
+Lucerne,lucerne,UNK,true,Q360,360,Lucerne,http://en.wikipedia.org/wiki/FC_Luzern
+Lugano,lugano,UNK,true,Q360,360,Lugano,http://en.wikipedia.org/wiki/FC_Lugano
+Basle,basle,UNK,true,Q360,360,Basle,NIL
+Neuchatel,neuchatel,UNK,true,Q360,360,Neuchatel,NIL
+St Gallen,st-gallen,UNK,true,Q360,360,St Gallen,http://en.wikipedia.org/wiki/FC_St._Gallen
+Sion,sion,UNK,true,Q360,360,Sion,http://en.wikipedia.org/wiki/FC_Sion
+Servette,servette,UNK,true,Q360,360,Servette,http://en.wikipedia.org/wiki/Servette_FC
+St.,st,UNK,true,Q360,360,St.,NIL
+Lausanne,lausanne,UNK,true,Q360,360,Lausanne,http://en.wikipedia.org/wiki/FC_Lausanne-Sport
+Zurich,zurich,UNK,true,Q360,360,Zurich,NIL
