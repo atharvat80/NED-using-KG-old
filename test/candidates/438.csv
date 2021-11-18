@@ -1,0 +1,444 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+CUBS,6654,7063,1098,18213;2140;20153;21728;9713559;300747;6654;23741;9713764;6669;6671;24270;6082884;849629;182778;1360083;2456377;2456474;28416;28417;11278;5107869;13894;23408844,http://en.wikipedia.org/wiki/Chicago_Cubs,Chicago Cubs,chicago-cubs,chicago-cubs,UNK
+BRAVES,2140,6254,884,849629;1821553;18213;1360083;2456377;2456474;2140;28416;28417;20153;3138;1035796;11278;5107869;21728;13894;300747;6654;933906;23741;9713764;6669;6671;24270;857813;3005044;23408844,http://en.wikipedia.org/wiki/Atlanta_Braves,Atlanta Braves,atlanta-braves,atlanta-braves,UNK
+ATLANTA,3138,13067,1125,2140;3138;12865008;5399;111530;914151;18933066;23170240;18110;403899;507179;676303;2456474;20733060;34340070;274851,http://en.wikipedia.org/wiki/Atlanta,Atlanta,atlanta,atlanta,GPE
+ATLANTA,3691582,8,34,,"http://en.wikipedia.org/wiki/Atlanta,_Knoxville_and_Northern_Railway","Atlanta, Knoxville and Northern Railway",atlanta-knoxville-and-northern-railway,atlanta-knoxville-and-northern-railway,UNK
+ATLANTA,124397,57,83,,"http://en.wikipedia.org/wiki/Atlanta_Township,_Becker_County,_Minnesota","Atlanta Township, Becker County, Minnesota",atlanta-township-becker-county-minnesota,atlanta-township-becker-county-minnesota,GPE
+ATLANTA,122884,29,54,,"http://en.wikipedia.org/wiki/Atlanta,_Missouri","Atlanta, Missouri",atlanta-missouri,atlanta-missouri,GPE
+ATLANTA,1475674,15,29,,http://en.wikipedia.org/wiki/Atlanta_Nights,Atlanta Nights,atlanta-nights,atlanta-nights,UNK
+ATLANTA,111530,80,84,9765073;3138;23741,"http://en.wikipedia.org/wiki/Atlanta,_Illinois","Atlanta, Illinois",atlanta-illinois,atlanta-illinois,GPE
+ATLANTA,437818,48,80,450101;403899;236101;28504,http://en.wikipedia.org/wiki/USS_Atlanta_(CL-104),USS Atlanta,uss-atlanta,uss-atlanta-cl-104,UNK
+ATLANTA,20107213,2,3,,http://en.wikipedia.org/wiki/Atlanta_(singer),Atlanta,atlanta,atlanta-singer,UNK
+ATLANTA,2140,6254,884,849629;1821553;18213;1360083;2456377;2456474;2140;28416;28417;20153;3138;1035796;11278;5107869;21728;13894;300747;6654;933906;23741;9713764;6669;6671;24270;857813;3005044;23408844,http://en.wikipedia.org/wiki/Atlanta_Braves,Atlanta Braves,atlanta-braves,atlanta-braves,UNK
+ATLANTA,9088582,23,46,374336,"http://en.wikipedia.org/wiki/Atlanta,_Idaho","Atlanta, Idaho",atlanta-idaho,atlanta-idaho,GPE
+ATLANTA,914170,29,38,236101,http://en.wikipedia.org/wiki/USS_Atlanta_(1884),USS Atlanta,uss-atlanta,uss-atlanta-1884,UNK
+ATLANTA,114499,54,77,,"http://en.wikipedia.org/wiki/Atlanta,_Kansas","Atlanta, Kansas",atlanta-kansas,atlanta-kansas,GPE
+ATLANTA,21786538,2,6,,"http://en.wikipedia.org/wiki/Atlanta,_Nova_Scotia","Atlanta, Nova Scotia",atlanta-nova-scotia,atlanta-nova-scotia,GPE
+ATLANTA,274851,290,253,3138,http://en.wikipedia.org/wiki/Metropolitan_Atlanta_Rapid_Transit_Authority,Metropolitan Atlanta Rapid Transit Authority,metropolitan-atlanta-rapid-transit-authority,metropolitan-atlanta-rapid-transit-authority,UNK
+ATLANTA,20733060,6,46,3138,http://en.wikipedia.org/wiki/University_of_Atlanta,University of Atlanta,university-of-atlanta,university-of-atlanta,UNK
+ATLANTA,34340070,71,217,3138,http://en.wikipedia.org/wiki/Geography_of_Atlanta,Geography of Atlanta,geography-of-atlanta,geography-of-atlanta,UNK
+ATLANTA,25350997,48,53,,"http://en.wikipedia.org/wiki/Atlanta,_California","Atlanta, California",atlanta-california,atlanta-california,GPE
+ATLANTA,236101,9,13,914170;437818;1077941;403899;914151,http://en.wikipedia.org/wiki/USS_Atlanta,USS Atlanta,uss-atlanta,uss-atlanta,UNK
+ATLANTA,32078094,173,185,,http://en.wikipedia.org/wiki/Atlanta_(steamboat_1908),Atlanta,atlanta,atlanta-steamboat-1908,UNK
+ATLANTA,676303,775,237,18933066;3138,http://en.wikipedia.org/wiki/Atlanta_Motor_Speedway,Atlanta Motor Speedway,atlanta-motor-speedway,atlanta-motor-speedway,UNK
+ATLANTA,914151,58,157,3138;236101,http://en.wikipedia.org/wiki/USS_Atlanta_(1861),USS Atlanta,uss-atlanta,uss-atlanta-1861,UNK
+ATLANTA,33673747,9,220,507179,http://en.wikipedia.org/wiki/Atlanta_Hotel,Atlanta Hotel,atlanta-hotel,atlanta-hotel,UNK
+ATLANTA,118243,46,46,,"http://en.wikipedia.org/wiki/Atlanta,_Michigan","Atlanta, Michigan",atlanta-michigan,atlanta-michigan,GPE
+ATLANTA,4033457,17,20,,http://en.wikipedia.org/wiki/Atlanta_(band),Atlanta,atlanta,atlanta-band,UNK
+ATLANTA,139660,44,63,,"http://en.wikipedia.org/wiki/Atlanta,_Wisconsin","Atlanta, Wisconsin",atlanta-wisconsin,atlanta-wisconsin,GPE
+ATLANTA,507179,226,189,3138;33673747,http://en.wikipedia.org/wiki/Atlanta_Marriott_Marquis,Atlanta Marriott Marquis,atlanta-marriott-marquis,atlanta-marriott-marquis,UNK
+ATLANTA,403899,55,101,614231;556546;3138;437818;236101,http://en.wikipedia.org/wiki/USS_Atlanta_(CL-51),USS Atlanta,uss-atlanta,uss-atlanta-cl-51,UNK
+ATLANTA,3694290,28,9,,"http://en.wikipedia.org/wiki/Atlanta,_Stone_Mountain_and_Lithonia_Railway","Atlanta, Stone Mountain and Lithonia Railway",atlanta-stone-mountain-and-lithonia-railway,atlanta-stone-mountain-and-lithonia-railway,UNK
+ATLANTA,135649,146,85,28416;6669,"http://en.wikipedia.org/wiki/Atlanta,_Texas","Atlanta, Texas",atlanta-texas,atlanta-texas,GPE
+ATLANTA,124114,32,56,,"http://en.wikipedia.org/wiki/Atlanta,_Nebraska","Atlanta, Nebraska",atlanta-nebraska,atlanta-nebraska,GPE
+ATLANTA,25387678,14,21,,"http://en.wikipedia.org/wiki/Atlanta,_Arkansas","Atlanta, Arkansas",atlanta-arkansas,atlanta-arkansas,UNK
+ATLANTA,23170240,67,48,3138;23170240;8246460,http://en.wikipedia.org/wiki/Atlanta_(magazine),Atlanta,atlanta,atlanta-magazine,ORG
+ATLANTA,25387901,18,26,,"http://en.wikipedia.org/wiki/Atlanta,_Kentucky","Atlanta, Kentucky",atlanta-kentucky,atlanta-kentucky,UNK
+ATLANTA,3673970,255,259,3673948,"http://en.wikipedia.org/wiki/Atlanta,_Birmingham_and_Coast_Railroad","Atlanta, Birmingham and Coast Railroad",atlanta-birmingham-and-coast-railroad,atlanta-birmingham-and-coast-railroad,UNK
+ATLANTA,112296,51,60,,"http://en.wikipedia.org/wiki/Atlanta,_Indiana","Atlanta, Indiana",atlanta-indiana,atlanta-indiana,GPE
+ATLANTA,12865008,27,13,3138,http://en.wikipedia.org/wiki/Atlanta_Opera,Atlanta Opera,atlanta-opera,atlanta-opera,UNK
+ATLANTA,374336,3,18,9088582,http://en.wikipedia.org/wiki/Atlanta_Airport_(Idaho),Atlanta Airport,atlanta-airport,atlanta-airport-idaho,UNK
+ATLANTA,115847,29,26,,"http://en.wikipedia.org/wiki/Atlanta,_Louisiana","Atlanta, Louisiana",atlanta-louisiana,atlanta-louisiana,UNK
+ATLANTA,3673948,253,246,3673970,"http://en.wikipedia.org/wiki/Atlanta,_Birmingham_and_Atlantic_Railway","Atlanta, Birmingham and Atlantic Railway",atlanta-birmingham-and-atlantic-railway,atlanta-birmingham-and-atlantic-railway,UNK
+ATLANTA,9765073,53,310,96256;111530,"http://en.wikipedia.org/wiki/Atlanta_Township,_Logan_County,_Illinois","Atlanta Township, Logan County, Illinois",atlanta-township-logan-county-illinois,atlanta-township-logan-county-illinois,UNK
+ATLANTA,23222629,139,159,,"http://en.wikipedia.org/wiki/Atlanta,_Delaware","Atlanta, Delaware",atlanta-delaware,atlanta-delaware,UNK
+ATLANTA,1077941,70,82,444868;432512;804426;236101,http://en.wikipedia.org/wiki/USS_Atlanta_(SSN-712),USS Atlanta,uss-atlanta,uss-atlanta-ssn-712,UNK
+ATLANTA,12151060,20,58,,http://en.wikipedia.org/wiki/Atlanta_(gastropod),Atlanta,atlanta,atlanta-gastropod,UNK
+Brian McRae,6082884,142,223,6654;300747;21728;13894;6669,http://en.wikipedia.org/wiki/Brian_McRae,Brian McRae,brian-mcrae,brian-mcrae,PER
+Tyler Houston,9713764,90,127,6654;2140;23741;18213,http://en.wikipedia.org/wiki/Tyler_Houston,Tyler Houston,tyler-houston,tyler-houston,PER
+Chicago Cubs,6654,7063,1098,18213;2140;20153;21728;9713559;300747;6654;23741;9713764;6669;6671;24270;6082884;849629;182778;1360083;2456377;2456474;28416;28417;11278;5107869;13894;23408844,http://en.wikipedia.org/wiki/Chicago_Cubs,Chicago Cubs,chicago-cubs,chicago-cubs,UNK
+Atlanta Braves,2140,6254,884,849629;1821553;18213;1360083;2456377;2456474;2140;28416;28417;20153;3138;1035796;11278;5107869;21728;13894;300747;6654;933906;23741;9713764;6669;6671;24270;857813;3005044;23408844,http://en.wikipedia.org/wiki/Atlanta_Braves,Atlanta Braves,atlanta-braves,atlanta-braves,UNK
+Braves,2140,6254,884,849629;1821553;18213;1360083;2456377;2456474;2140;28416;28417;20153;3138;1035796;11278;5107869;21728;13894;300747;6654;933906;23741;9713764;6669;6671;24270;857813;3005044;23408844,http://en.wikipedia.org/wiki/Atlanta_Braves,Atlanta Braves,atlanta-braves,atlanta-braves,UNK
+Kevin Foster,9713559,28,20,23741;6654;12163489,http://en.wikipedia.org/wiki/Kevin_Foster_(baseball),Kevin Foster,kevin-foster,kevin-foster-baseball,PER
+Kevin Foster,12163489,1,4,12144810;26516914;39199128;9713559,http://en.wikipedia.org/wiki/Kevin_Foster,Kevin Foster,kevin-foster,kevin-foster,PER
+Kevin Foster,29199971,0,76,,http://en.wikipedia.org/wiki/Kevin_Foster_(cyclist),Kevin Foster,kevin-foster,kevin-foster-cyclist,PER
+Kevin Foster,26516914,3,20,12163489,http://en.wikipedia.org/wiki/Kevin_Foster_(fraudster),Kevin Foster,kevin-foster,kevin-foster-fraudster,PER
+Kevin Foster,12144810,4,13,12163489,http://en.wikipedia.org/wiki/Kevin_Foster_(murderer),Kevin Foster,kevin-foster,kevin-foster-murderer,UNK
+Kevin Foster,39199128,18,22,12163489,http://en.wikipedia.org/wiki/Kevin_Foster_(basketball),Kevin Foster,kevin-foster,kevin-foster-basketball,UNK
+Foster,23502742,47,54,134326,"http://en.wikipedia.org/wiki/Foster_Center,_Rhode_Island","Foster Center, Rhode Island",foster-center-rhode-island,foster-center-rhode-island,UNK
+Foster,19127847,0,2,19127743;1043251,http://en.wikipedia.org/wiki/Foster_Island,Foster Island,foster-island,foster-island,UNK
+Foster,1359052,88,13,1359052;387721,http://en.wikipedia.org/wiki/Fosterage,Fosterage,fosterage,fosterage,UNK
+Foster,2832490,8,6,,http://en.wikipedia.org/wiki/Doctor_Foster,Doctor Foster,doctor-foster,doctor-foster,UNK
+Foster,11973873,288,295,,http://en.wikipedia.org/wiki/S._A._Foster_House_and_Stable,S. A. Foster House and Stable,s-a-foster-house-and-stable,s-a-foster-house-and-stable,UNK
+Foster,29715625,43,60,,"http://en.wikipedia.org/wiki/Foster,_Virginia","Foster, Virginia",foster-virginia,foster-virginia,GPE
+Foster,22631684,4,31,24167607,http://en.wikipedia.org/wiki/Arthur_Foster,Arthur Foster,arthur-foster,arthur-foster,PER
+Foster,1845150,0,180,,"http://en.wikipedia.org/wiki/Foster,_You're_Dead!","Foster, You're Dead!",foster-youre-dead,foster-youre-dead,UNK
+Foster,24167607,4,11,22631684,http://en.wikipedia.org/wiki/Arthur_Foster_(footballer_born_1869),Arthur Foster,arthur-foster,arthur-foster-footballer-born-1869,PER
+Foster,387721,718,290,1359052,http://en.wikipedia.org/wiki/Foster_care,Foster care,foster-care,foster-care,ORG
+Foster,22052516,0,11,1219502;5659659,http://en.wikipedia.org/wiki/Edward_Foster,Edward Foster,edward-foster,edward-foster,PER
+Foster,5072357,45,53,138825,"http://en.wikipedia.org/wiki/Foster,_Eau_Claire_County,_Wisconsin","Foster, Eau Claire County, Wisconsin",foster-eau-claire-county-wisconsin,foster-eau-claire-county-wisconsin,GPE
+Foster,19127743,15,23,19127847,http://en.wikipedia.org/wiki/Foster_Islands_(Tasmania),Foster Islands,foster-islands,foster-islands-tasmania,UNK
+Foster,141459,2,3,,"http://en.wikipedia.org/wiki/Foster_Township,_Pennsylvania","Foster Township, Pennsylvania",foster-township-pennsylvania,foster-township-pennsylvania,GPE
+Foster,39106603,1,2,36451822;36404890,"http://en.wikipedia.org/wiki/Foster,_Kentucky","Foster, Kentucky",foster-kentucky,foster-kentucky,GPE
+Foster,19933744,31,50,,"http://en.wikipedia.org/wiki/Foster,_Oregon","Foster, Oregon",foster-oregon,foster-oregon,GPE
+Foster,10857820,40,297,337488;96256,"http://en.wikipedia.org/wiki/Foster_Township,_Marion_County,_Illinois","Foster Township, Marion County, Illinois",foster-township-marion-county-illinois,foster-township-marion-county-illinois,UNK
+Foster,22402207,1,7,,"http://en.wikipedia.org/wiki/Foster,_Washington","Foster, Washington",foster-washington,foster-washington,UNK
+Foster,36451822,32,47,39106603,"http://en.wikipedia.org/wiki/Foster,_Casey_County,_Kentucky","Foster, Casey County, Kentucky",foster-casey-county-kentucky,foster-casey-county-kentucky,UNK
+Foster,134326,189,121,23502742,"http://en.wikipedia.org/wiki/Foster,_Rhode_Island","Foster, Rhode Island",foster-rhode-island,foster-rhode-island,GPE
+Foster,3792101,45,66,,"http://en.wikipedia.org/wiki/Foster,_Indiana","Foster, Indiana",foster-indiana,foster-indiana,GPE
+Foster,512472,131,73,,http://en.wikipedia.org/wiki/Al_Foster,Al Foster,al-foster,al-foster,UNK
+Foster,138825,81,89,5072357,"http://en.wikipedia.org/wiki/Foster,_Clark_County,_Wisconsin","Foster, Clark County, Wisconsin",foster-clark-county-wisconsin,foster-clark-county-wisconsin,GPE
+Foster,1219502,6,14,22052516,http://en.wikipedia.org/wiki/Edward_Foster_(VC),Edward Foster,edward-foster,edward-foster-vc,PER
+Foster,30206245,1,97,,http://en.wikipedia.org/wiki/Foster_School,Foster School,foster-school,foster-school,ORG
+Foster,122520,43,63,,"http://en.wikipedia.org/wiki/Foster,_Missouri","Foster, Missouri",foster-missouri,foster-missouri,GPE
+Foster,29142602,5,30,,http://en.wikipedia.org/wiki/Foster_Street,Foster Street,foster-street,foster-street,GPE
+Foster,24268304,3,136,,http://en.wikipedia.org/wiki/Foster_Building,Foster Building,foster-building,foster-building,UNK
+Foster,22894601,0,2,,"http://en.wikipedia.org/wiki/Foster,_California","Foster, California",foster-california,foster-california,GPE
+Foster,11911713,75,322,337488;96256,"http://en.wikipedia.org/wiki/Foster_Township,_Madison_County,_Illinois","Foster Township, Madison County, Illinois",foster-township-madison-county-illinois,foster-township-madison-county-illinois,UNK
+Foster,29551971,0,14,,http://en.wikipedia.org/wiki/Foster_Peninsula,Foster Peninsula,foster-peninsula,foster-peninsula,UNK
+Foster,16337062,21,40,,"http://en.wikipedia.org/wiki/Foster,_Oklahoma","Foster, Oklahoma",foster-oklahoma,foster-oklahoma,GPE
+Foster,1486369,20,14,,"http://en.wikipedia.org/wiki/Foster,_Rastrick_and_Company","Foster, Rastrick and Company",foster-rastrick-and-company,foster-rastrick-and-company,UNK
+Foster,27510555,88,107,,"http://en.wikipedia.org/wiki/Foster,_West_Virginia","Foster, West Virginia",foster-west-virginia,foster-west-virginia,GPE
+Foster,337488,0,8,10857820;11911713,http://en.wikipedia.org/wiki/Foster_Township,Foster Township,foster-township,foster-township,GPE
+Foster,1043251,5,8,19127847,http://en.wikipedia.org/wiki/Foster_Island_(Washington),Foster Island,foster-island,foster-island-washington,UNK
+Foster,36404890,23,39,39106603,"http://en.wikipedia.org/wiki/Foster,_Bracken_County,_Kentucky","Foster, Bracken County, Kentucky",foster-bracken-county-kentucky,foster-bracken-county-kentucky,GPE
+Foster,19237750,22,27,,http://en.wikipedia.org/wiki/Mount_Foster,Mount Foster,mount-foster,mount-foster,UNK
+Foster,5659659,5,19,22052516,http://en.wikipedia.org/wiki/Edward_Foster_(cricketer),Edward Foster,edward-foster,edward-foster-cricketer,UNK
+Foster,16998723,46,64,13774,"http://en.wikipedia.org/wiki/Foster,_Fort_Bend_County,_Texas","Foster, Fort Bend County, Texas",foster-fort-bend-county-texas,foster-fort-bend-county-texas,GPE
+Foster,124120,17,31,,"http://en.wikipedia.org/wiki/Foster,_Nebraska","Foster, Nebraska",foster-nebraska,foster-nebraska,GPE
+Foster,2645961,69,54,,"http://en.wikipedia.org/wiki/Foster,_Victoria","Foster, Victoria",foster-victoria,foster-victoria,UNK
+Foster,141240,0,2,,"http://en.wikipedia.org/wiki/Foster_Township,_Minnesota","Foster Township, Minnesota",foster-township-minnesota,foster-township-minnesota,UNK
+Foster,24231785,1,4,,http://en.wikipedia.org/wiki/Foster_Bay,Foster Bay,foster-bay,foster-bay,UNK
+Colorado,6669,2522,383,6082884;849629;182778;5107869;21728;2379644;18213;1360083;2456377;5399;2456474;135649;13894;3947815;6654;933906;2140;28416;28417;23741;6250;20153;6669;24270;6671;6017954;181548;1035796;1983742;11278;23408844;394237,http://en.wikipedia.org/wiki/Colorado_Rockies,Colorado Rockies,colorado-rockies,colorado-rockies,UNK
+Colorado,23531115,1,4,,http://en.wikipedia.org/wiki/Colorado_River_(Maipo),Colorado River,colorado-river,colorado-river-maipo,UNK
+Colorado,588655,138,55,588643;588655,http://en.wikipedia.org/wiki/Colorado_Party_(Paraguay),Colorado Party,colorado-party,colorado-party-paraguay,ORG
+Colorado,379210,46,221,5399,http://en.wikipedia.org/wiki/Colorado_potato_beetle,Colorado potato beetle,colorado-potato-beetle,colorado-potato-beetle,UNK
+Colorado,4622247,8,12,,http://en.wikipedia.org/wiki/Colorado_River_(Costa_Rica),Colorado River,colorado-river,colorado-river-costa-rica,UNK
+Colorado,23531112,1,4,,http://en.wikipedia.org/wiki/Colorado_River_(Lontué),Colorado River,colorado-river,colorado-river-lontue,UNK
+Colorado,1097945,63,45,191925,http://en.wikipedia.org/wiki/USS_Colorado_(1856),USS Colorado,uss-colorado,uss-colorado-1856,UNK
+Colorado,27209811,1,11,27209811,http://en.wikipedia.org/wiki/El_Colorado_(Santiago_del_Estero),El Colorado,el-colorado,el-colorado-santiago-del-estero,UNK
+Colorado,223219,735,83,5399;181548;223219,http://en.wikipedia.org/wiki/University_of_Colorado,University of Colorado,university-of-colorado,university-of-colorado,UNK
+Colorado,21216986,23,31,191925,http://en.wikipedia.org/wiki/USS_Colorado_(SSN-788),USS Colorado,uss-colorado,uss-colorado-ssn-788,UNK
+Colorado,180968,1749,604,18110;5399;21760649;28504;27003223;18933066,http://en.wikipedia.org/wiki/Colorado_River,Colorado River,colorado-river,colorado-river,UNK
+Colorado,181548,928,325,6250;6669;5399;181548;5486454;223219,http://en.wikipedia.org/wiki/Colorado_College,Colorado College,colorado-college,colorado-college,ORG
+Colorado,136380,319,350,151173;13774,"http://en.wikipedia.org/wiki/Colorado_City,_Texas","Colorado City, Texas",colorado-city-texas,colorado-city-texas,GPE
+Colorado,180969,450,213,91625,http://en.wikipedia.org/wiki/Colorado_River_(Texas),Colorado River,colorado-river,colorado-river-texas,UNK
+Colorado,21760649,65,94,180968;5399,http://en.wikipedia.org/wiki/Colorado_Group,Colorado Group,colorado-group,colorado-group,UNK
+Colorado,23506855,4,7,,http://en.wikipedia.org/wiki/Colorado_River_(Rondônia),Colorado River,colorado-river,colorado-river-rondonia,UNK
+Colorado,5399,17573,1186,3138;16280518;5399;6250;6669;379210;5486454;108626;196775;18933066;191925;21760649;8580682;19296082;223219;6017954;180968;181548,http://en.wikipedia.org/wiki/Colorado,Colorado,colorado,colorado,UNK
+Colorado,6250,3628,450,181548;5486454;5399;6669,"http://en.wikipedia.org/wiki/Colorado_Springs,_Colorado","Colorado Springs, Colorado",colorado-springs-colorado,colorado-springs-colorado,GPE
+Colorado,16046809,467,479,,"http://en.wikipedia.org/wiki/Colorado,_Rio_Grande_do_Sul","Colorado, Rio Grande do Sul",colorado-rio-grande-do-sul,colorado-rio-grande-do-sul,UNK
+Colorado,25553568,325,387,25553569,"http://en.wikipedia.org/wiki/Colorado,_Paraná","Colorado, Paraná",colorado-parana,colorado-parana,GPE
+Colorado,38428076,2,9,,http://en.wikipedia.org/wiki/Colorado_River_(Potosi),Colorado River,colorado-river,colorado-river-potosi,UNK
+Colorado,91625,490,406,91625;13774;180969,"http://en.wikipedia.org/wiki/Colorado_County,_Texas","Colorado County, Texas",colorado-county-texas,colorado-county-texas,GPE
+Colorado,106670,116,145,,"http://en.wikipedia.org/wiki/Colorado_City,_Arizona","Colorado City, Arizona",colorado-city-arizona,colorado-city-arizona,GPE
+Colorado,36164203,2,15,,http://en.wikipedia.org/wiki/Colorado_International,Colorado International,colorado-international,colorado-international,UNK
+Colorado,23531110,16,22,,http://en.wikipedia.org/wiki/Colorado_River_(Aconcagua),Colorado River,colorado-river,colorado-river-aconcagua,UNK
+Colorado,40508627,1,100,,http://en.wikipedia.org/wiki/Colorado_Airport,Colorado Airport,colorado-airport,colorado-airport,UNK
+Colorado,8580682,9,33,5399,http://en.wikipedia.org/wiki/Colorado_(RTD),Colorado,colorado,colorado-rtd,UNK
+Colorado,588643,247,62,588643;588655,http://en.wikipedia.org/wiki/Colorado_Party_(Uruguay),Colorado Party,colorado-party,colorado-party-uruguay,UNK
+Colorado,207962,30,51,191925;196775,http://en.wikipedia.org/wiki/USS_Colorado_(ACR-7),USS Colorado,uss-colorado,uss-colorado-acr-7,UNK
+Colorado,27164189,9,7,27164189,http://en.wikipedia.org/wiki/El_Colorado,El Colorado,el-colorado,el-colorado,UNK
+Colorado,180967,1,19,,"http://en.wikipedia.org/wiki/Colorado_River,_Argentina","Colorado River, Argentina",colorado-river-argentina,colorado-river-argentina,UNK
+Colorado,5486454,876,255,6250;5399;181548,http://en.wikipedia.org/wiki/Geography_of_Colorado,Geography of Colorado,geography-of-colorado,geography-of-colorado,UNK
+Colorado,21791530,0,7,,http://en.wikipedia.org/wiki/Colorado_Lake,Colorado Lake,colorado-lake,colorado-lake,UNK
+Colorado,24495315,29,36,,"http://en.wikipedia.org/wiki/Colorado,_Texas","Colorado, Texas",colorado-texas,colorado-texas,GPE
+Colorado,23339016,2,3,,http://en.wikipedia.org/wiki/Colorado_River_(Tempisque_River),Colorado River,colorado-river,colorado-river-tempisque-river,UNK
+Colorado,108626,34,47,5399,"http://en.wikipedia.org/wiki/Colorado_City,_Colorado","Colorado City, Colorado",colorado-city-colorado,colorado-city-colorado,GPE
+Colorado,22954470,114,116,22852886,"http://en.wikipedia.org/wiki/Colorado,_California","Colorado, California",colorado-california,colorado-california,UNK
+Colorado,19296082,1,81,5399,http://en.wikipedia.org/wiki/Colorado_Building,Colorado Building,colorado-building,colorado-building,UNK
+Colorado,196775,86,72,5399;191925;49728;207962,http://en.wikipedia.org/wiki/USS_Colorado_(BB-45),USS Colorado,uss-colorado,uss-colorado-bb-45,UNK
+Colorado,191925,7,5,207962;1097945;5399;21216986;196775,http://en.wikipedia.org/wiki/USS_Colorado,USS Colorado,uss-colorado,uss-colorado,UNK
+Vinny Castilla,933906,297,247,390781;2140;28417;857813;13894;6669;18213,http://en.wikipedia.org/wiki/Vinny_Castilla,Vinny Castilla,vinny-castilla,vinny-castilla,PER
+Larry Walker,394237,470,361,857813;1035796;390781;23408844;20153;6669,http://en.wikipedia.org/wiki/Larry_Walker,Larry Walker,larry-walker,larry-walker,PER
+RBI,300747,4084,204,6082884;182778;18213;1360083;2140;28416;6654;18604283;23741,http://en.wikipedia.org/wiki/Run_(baseball),Run,run,run-baseball,UNK
+Colorado Rockies,6669,2522,383,6082884;849629;182778;5107869;21728;2379644;18213;1360083;2456377;5399;2456474;135649;13894;3947815;6654;933906;2140;28416;28417;23741;6250;20153;6669;24270;6671;6017954;181548;1035796;1983742;11278;23408844;394237,http://en.wikipedia.org/wiki/Colorado_Rockies,Colorado Rockies,colorado-rockies,colorado-rockies,UNK
+Colorado Rockies,6017954,495,177,5399;70551;6017954;274458;6669,http://en.wikipedia.org/wiki/Colorado_Rockies_(NHL),Colorado Rockies,colorado-rockies,colorado-rockies-nhl,UNK
+Pittsburgh Pirates,24270,7349,1155,18213;3947815;20648690;2140;20153;40238452;21728;20070483;6654;23741;6669;6671;24270;12572554;849629;390781;1360083;2456377;2456474;28416;28417;28456794;11278;13894;274458;23408844,http://en.wikipedia.org/wiki/Pittsburgh_Pirates,Pittsburgh Pirates,pittsburgh-pirates,pittsburgh-pirates,UNK
+Pittsburgh Pirates,40238452,998,356,20070483;274458;24270,http://en.wikipedia.org/wiki/Pittsburgh_Pirates_(NBL),Pittsburgh Pirates,pittsburgh-pirates,pittsburgh-pirates-nbl,UNK
+Pittsburgh Pirates,20070483,1079,489,274458;24270;40238452;20648690,http://en.wikipedia.org/wiki/Pittsburgh_Pirates_(WPHL),Pittsburgh Pirates,pittsburgh-pirates,pittsburgh-pirates-wphl,UNK
+Pittsburgh Pirates,274458,1265,636,70551;20070483;274458;24270;6017954;40238452;20648690,http://en.wikipedia.org/wiki/Pittsburgh_Pirates_(NHL),Pittsburgh Pirates,pittsburgh-pirates,pittsburgh-pirates-nhl,UNK
+Castilla,933906,297,247,390781;2140;28417;857813;13894;6669;18213,http://en.wikipedia.org/wiki/Vinny_Castilla,Vinny Castilla,vinny-castilla,vinny-castilla,PER
+Castilla,17019638,68,85,,http://en.wikipedia.org/wiki/Castilla_District,Castilla District,castilla-district,castilla-district,UNK
+Castilla,2098757,27,36,,"http://en.wikipedia.org/wiki/Castilla,_Sorsogon","Castilla, Sorsogon",castilla-sorsogon,castilla-sorsogon,UNK
+Castilla,8790795,10,15,,http://en.wikipedia.org/wiki/Castilla_(plant),Castilla,castilla,castilla-plant,UNK
+Castilla,16725741,3,18,,http://en.wikipedia.org/wiki/Spanish_ship_Castilla_(L52),Spanish ship Castilla,spanish-ship-castilla,spanish-ship-castilla-l52,ORG
+Castilla,11176555,135,43,,http://en.wikipedia.org/wiki/Castilla_Province,Castilla Province,castilla-province,castilla-province,GPE
+Castilla,22734539,2,18,,http://en.wikipedia.org/wiki/Castilla_(Vino_de_la_Tierra),Castilla,castilla,castilla-vino-de-la-tierra,UNK
+Marc Wilkins,12572554,21,16,24270;19738961,http://en.wikipedia.org/wiki/Marc_Wilkins_(baseball),Marc Wilkins,marc-wilkins,marc-wilkins-baseball,PER
+Marc Wilkins,19738961,0,2,12572554;19739045,http://en.wikipedia.org/wiki/Marc_Wilkins,Marc Wilkins,marc-wilkins,marc-wilkins,PER
+Marc Wilkins,19739045,5,26,19738961,http://en.wikipedia.org/wiki/Marc_Wilkins_(geneticist),Marc Wilkins,marc-wilkins,marc-wilkins-geneticist,PER
+Colorado,6017954,495,177,5399;70551;6017954;274458;6669,http://en.wikipedia.org/wiki/Colorado_Rockies_(NHL),Colorado Rockies,colorado-rockies,colorado-rockies-nhl,UNK
+John Ericks,28456794,81,127,24270,http://en.wikipedia.org/wiki/John_Ericks,John Ericks,john-ericks,john-ericks,PER
+John Ericks,3782145,0,17,3782194,http://en.wikipedia.org/wiki/John_Erickson,John Erickson,john-erickson,john-erickson,PER
+John Ericks,3782194,73,20,3782145,http://en.wikipedia.org/wiki/John_Erickson_(historian),John Erickson,john-erickson,john-erickson-historian,PER
+Florida,11278,1205,616,6654;70551;849629;2140;182778;21728;28416;28417;23741;18933066;20153;6669;24270;6671;18213;1360083;2456377;2456474;13894;3947815;11278;23408844,http://en.wikipedia.org/wiki/Miami_Marlins,Miami Marlins,miami-marlins,miami-marlins,UNK
+Florida,15274776,50,62,,"http://en.wikipedia.org/wiki/Florida,_Indiana","Florida, Indiana",florida-indiana,florida-indiana,GPE
+Florida,126930,125,131,126650;141348,"http://en.wikipedia.org/wiki/Florida,_Orange_County,_New_York","Florida, Orange County, New York",florida-orange-county-new-york,florida-orange-county-new-york,GPE
+Florida,3056453,32,30,,http://en.wikipedia.org/wiki/Florida_Province,Florida Province,florida-province,florida-province,UNK
+Florida,10707182,66,68,,"http://en.wikipedia.org/wiki/La_Florida,_Nariño","La Florida, Nariño",la-florida-narino,la-florida-narino,UNK
+Florida,28190991,73,80,18933066,http://en.wikipedia.org/wiki/French_Florida,French Florida,french-florida,french-florida,GPE
+Florida,10719816,57,49,,"http://en.wikipedia.org/wiki/Florida,_Valle_del_Cauca","Florida, Valle del Cauca",florida-valle-del-cauca,florida-valle-del-cauca,GPE
+Florida,37977909,147,165,,http://en.wikipedia.org/wiki/Florida_(30_Rock),Florida,florida,florida-30-rock,UNK
+Florida,654432,174,155,654432,"http://en.wikipedia.org/wiki/Florida,_Puerto_Rico","Florida, Puerto Rico",florida-puerto-rico,florida-puerto-rico,UNK
+Florida,2227875,65,26,,"http://en.wikipedia.org/wiki/Florida,_Uruguay","Florida, Uruguay",florida-uruguay,florida-uruguay,GPE
+Florida,116682,72,121,,"http://en.wikipedia.org/wiki/Florida,_Massachusetts","Florida, Massachusetts",florida-massachusetts,florida-massachusetts,GPE
+Florida,1180233,4,4,1180233;18933066,"http://en.wikipedia.org/wiki/Florida,_Georgia_and_Western_Railway","Florida, Georgia and Western Railway",florida-georgia-and-western-railway,florida-georgia-and-western-railway,UNK
+Florida,126650,57,67,18933066;141348;126930,"http://en.wikipedia.org/wiki/Florida,_Montgomery_County,_New_York","Florida, Montgomery County, New York",florida-montgomery-county-new-york,florida-montgomery-county-new-york,GPE
+Florida,675044,36,57,189818;18933066,http://en.wikipedia.org/wiki/USS_Florida_(SSGN-728),USS Florida,uss-florida,uss-florida-ssgn-728,UNK
+Florida,27207101,2,7,27207101,"http://en.wikipedia.org/wiki/La_Florida,_San_Luis","La Florida, San Luis",la-florida-san-luis,la-florida-san-luis,GPE
+Florida,5871383,192,158,,"http://en.wikipedia.org/wiki/Florida,_Buenos_Aires","Florida, Buenos Aires",florida-buenos-aires,florida-buenos-aires,GPE
+Florida,1691888,69,371,,"http://en.wikipedia.org/wiki/Florida,_Gauteng","Florida, Gauteng",florida-gauteng,florida-gauteng,UNK
+Florida,25553569,323,387,25553568,"http://en.wikipedia.org/wiki/Flórida,_Paraná","Flórida, Paraná",florida-parana,florida-parana,GPE
+Florida,28682585,4,14,,http://en.wikipedia.org/wiki/Florida_Taj_Mahal_scandal,Florida Taj Mahal scandal,florida-taj-mahal-scandal,florida-taj-mahal-scandal,UNK
+Florida,141348,5,2,126650;126930,"http://en.wikipedia.org/wiki/Florida,_New_York","Florida, New York",florida-new-york,florida-new-york,UNK
+Florida,8156646,56,63,,http://en.wikipedia.org/wiki/Florida_(Petipa/Pugni),Florida,florida,florida-petipa-pugni,UNK
+Florida,70551,2153,512,70551;18933066;274458;6017954;11278,http://en.wikipedia.org/wiki/Florida_Panthers,Florida Panthers,florida-panthers,florida-panthers,UNK
+Florida,250947,142,124,,http://en.wikipedia.org/wiki/Florida_election_recount,Florida election recount,florida-election-recount,florida-election-recount,ORG
+Florida,6921868,86,103,,"http://en.wikipedia.org/wiki/Florida_District,_Peru","Florida District, Peru",florida-district-peru,florida-district-peru,UNK
+Florida,674738,3,24,189818;18933066,http://en.wikipedia.org/wiki/USS_Florida_(1850),USS Florida,uss-florida,uss-florida-1850,UNK
+Florida,4445423,24,23,,"http://en.wikipedia.org/wiki/Florida,_Cuba","Florida, Cuba",florida-cuba,florida-cuba,GPE
+Florida,129421,35,49,,"http://en.wikipedia.org/wiki/Florida,_Ohio","Florida, Ohio",florida-ohio,florida-ohio,GPE
+Florida,28371733,66,88,841972;28371733,"http://en.wikipedia.org/wiki/Florida,_Chile","Florida, Chile",florida-chile,florida-chile,GPE
+Florida,2049562,122,87,841972,"http://en.wikipedia.org/wiki/La_Florida,_Chile","La Florida, Chile",la-florida-chile,la-florida-chile,GPE
+Florida,2181857,118,225,18933066,http://en.wikipedia.org/wiki/Florida_State_Capitol,Florida State Capitol,florida-state-capitol,florida-state-capitol,UNK
+Florida,10822892,6,11,,http://en.wikipedia.org/wiki/Florida_Suite,Florida Suite,florida-suite,florida-suite,UNK
+Florida,20962070,5,23,18933066,http://en.wikipedia.org/wiki/Florida_(Where_the_Sawgrass_Meets_the_Sky),Florida,florida,florida-where-the-sawgrass-meets-the-sky,UNK
+Florida,18933066,34312,1143,70551;1180233;3138;5399;2181857;11278;13774;2379644;20962070;28190991;109564;3584406;18933066;189818;182778;676303;303600;180968;126650;18988773;674738;675044,http://en.wikipedia.org/wiki/Florida,Florida,florida,florida,GPE
+Florida,189820,66,87,674935;189818,http://en.wikipedia.org/wiki/USS_Florida_(BB-30),USS Florida,uss-florida,uss-florida-bb-30,UNK
+Florida,2342582,25,33,,"http://en.wikipedia.org/wiki/Florida,_Copán","Florida, Copán",florida-copan,florida-copan,GPE
+Florida,674935,15,36,189818;189820,http://en.wikipedia.org/wiki/USS_Florida_(BM-9),USS Florida,uss-florida,uss-florida-bm-9,UNK
+Florida,31198229,1,12,,http://en.wikipedia.org/wiki/La_Florida_(park),La Florida,la-florida,la-florida-park,UNK
+Florida,189818,12,18,674935;189820;18933066;674738;675044,http://en.wikipedia.org/wiki/USS_Florida,USS Florida,uss-florida,uss-florida,UNK
+Florida,122926,24,52,,"http://en.wikipedia.org/wiki/Florida,_Missouri","Florida, Missouri",florida-missouri,florida-missouri,GPE
+Florida,31919663,10,18,,"http://en.wikipedia.org/wiki/Florida,_Atlantic_and_Gulf_Central_Railroad","Florida, Atlantic and Gulf Central Railroad",florida-atlantic-and-gulf-central-railroad,florida-atlantic-and-gulf-central-railroad,UNK
+Florida,109564,131,233,18933066,"http://en.wikipedia.org/wiki/Windermere,_Florida","Windermere, Florida",windermere-florida,windermere-florida,GPE
+Edgar Renteria,849629,307,297,6654;2140;21728;28416;28417;13894;3947815;23741;11278;23408844;20153;6669;6671;24270;18213,http://en.wikipedia.org/wiki/Edgar_Rentería,Edgar Rentería,edgar-renteria,edgar-renteria,PER
+Jesus Tavarez,18604283,15,22,300747;49728;18941458,http://en.wikipedia.org/wiki/Jesús_Tavárez,Jesús Tavárez,jesus-tavarez,jesus-tavarez,PER
+Florida Marlins,11278,1205,616,6654;70551;849629;2140;182778;21728;28416;28417;23741;18933066;20153;6669;24270;6671;18213;1360083;2456377;2456474;13894;3947815;11278;23408844,http://en.wikipedia.org/wiki/Miami_Marlins,Miami Marlins,miami-marlins,miami-marlins,UNK
+Cincinnati Reds,6671,6341,909,849629;18213;1360083;2456377;2456474;2140;28416;28417;20153;11278;21728;13894;7573287;6654;1509218;23741;6669;6671;24270;23408844,http://en.wikipedia.org/wiki/Cincinnati_Reds,Cincinnati Reds,cincinnati-reds,cincinnati-reds,UNK
+Cincinnati Reds,7573287,66,95,6671;20153,http://en.wikipedia.org/wiki/Cincinnati_Reds_(1876–80),Cincinnati Reds,cincinnati-reds,cincinnati-reds-1876–80,UNK
+Cincinnati Reds,239731,117,60,,http://en.wikipedia.org/wiki/Cincinnati_Reds_(NFL),Cincinnati Reds,cincinnati-reds,cincinnati-reds-nfl,ORG
+Edgar,9549,2491,488,9549;28698178,http://en.wikipedia.org/wiki/Edgar_Allan_Poe,Edgar Allan Poe,edgar-allan-poe,edgar-allan-poe,UNK
+Edgar,303600,269,383,28698178;18933066,http://en.wikipedia.org/wiki/Edgar_Mitchell,Edgar Mitchell,edgar-mitchell,edgar-mitchell,PER
+Edgar,123803,39,54,15840376,"http://en.wikipedia.org/wiki/Edgar,_Nebraska","Edgar, Nebraska",edgar-nebraska,edgar-nebraska,GPE
+Edgar,148034,167,119,54218;47399,"http://en.wikipedia.org/wiki/Edgar,_King_of_Scotland","Edgar, King of Scotland",edgar-king-of-scotland,edgar-king-of-scotland,PER
+Edgar,15840376,32,43,123803;28402501,"http://en.wikipedia.org/wiki/Edgar_Township,_Clay_County,_Nebraska","Edgar Township, Clay County, Nebraska",edgar-township-clay-county-nebraska,edgar-township-clay-county-nebraska,GPE
+Edgar,3708393,4,12,28698178,http://en.wikipedia.org/wiki/Don_Edgar,Don Edgar,don-edgar,don-edgar,UNK
+Edgar,5580878,285,169,,http://en.wikipedia.org/wiki/Edgar_Street,Edgar Street,edgar-street,edgar-street,UNK
+Edgar,18988773,25,34,18933066,"http://en.wikipedia.org/wiki/Edgar,_Florida","Edgar, Florida",edgar-florida,edgar-florida,GPE
+Edgar,1923364,37,53,,http://en.wikipedia.org/wiki/Edgar_(opera),Edgar,edgar,edgar-opera,UNK
+Edgar,54218,130,76,28698178;148034;47399,http://en.wikipedia.org/wiki/Edgar_the_Ætheling,Edgar the Ætheling,edgar-the-ætheling,edgar-the-ætheling,PER
+Edgar,13050257,79,110,,http://en.wikipedia.org/wiki/Edgar_of_Hereford,Edgar of Hereford,edgar-of-hereford,edgar-of-hereford,UNK
+Edgar,139339,134,140,,"http://en.wikipedia.org/wiki/Edgar,_Wisconsin","Edgar, Wisconsin",edgar-wisconsin,edgar-wisconsin,GPE
+Edgar,28698178,23,63,3708393;47399;9549;54218;303600;6839880,http://en.wikipedia.org/wiki/Edgar,Edgar,edgar,edgar,UNK
+Edgar,18577496,1,20,,http://en.wikipedia.org/wiki/Lake_Edgar,Lake Edgar,lake-edgar,lake-edgar,UNK
+Edgar,208942,62,17,,http://en.wikipedia.org/wiki/EDGAR,EDGAR,edgar,edgar,UNK
+Edgar,28402501,0,2,4980433;15840376,http://en.wikipedia.org/wiki/Edgar_Township,Edgar Township,edgar-township,edgar-township,GPE
+Edgar,4980433,36,47,28402501;96256,"http://en.wikipedia.org/wiki/Edgar_Township,_Edgar_County,_Illinois","Edgar Township, Edgar County, Illinois",edgar-township-edgar-county-illinois,edgar-township-edgar-county-illinois,UNK
+Edgar,27493279,135,143,,"http://en.wikipedia.org/wiki/Edgar,_Virginia","Edgar, Virginia",edgar-virginia,edgar-virginia,GPE
+Edgar,22852886,113,118,22954470,"http://en.wikipedia.org/wiki/Edgar,_California","Edgar, California",edgar-california,edgar-california,GPE
+Edgar,16280518,3,10,5399,http://en.wikipedia.org/wiki/Edgar_Church,Edgar Church,edgar-church,edgar-church,PER
+Edgar,47399,423,292,28698178;148034;54218,http://en.wikipedia.org/wiki/Edgar_the_Peaceful,Edgar the Peaceful,edgar-the-peaceful,edgar-the-peaceful,PER
+Edgar,6839880,153,155,28698178,http://en.wikipedia.org/wiki/Judge_Edgar,Judge Edgar,judge-edgar,judge-edgar,UNK
+Edgar,96256,1318,336,4980433;9765073;96256;10857820;11911713,"http://en.wikipedia.org/wiki/Edgar_County,_Illinois","Edgar County, Illinois",edgar-county-illinois,edgar-county-illinois,GPE
+Edgar,7290062,1,0,,http://en.wikipedia.org/wiki/King_Edgar,King Edgar,king-edgar,king-edgar,PER
+Edgar,31578606,1,76,,http://en.wikipedia.org/wiki/Edgar_Building,Edgar Building,edgar-building,edgar-building,UNK
+Edgar,18803538,26,40,,"http://en.wikipedia.org/wiki/Edgar,_Montana","Edgar, Montana",edgar-montana,edgar-montana,GPE
+Edgar,35518454,95,108,,"http://en.wikipedia.org/wiki/Edgar,_West_Virginia","Edgar, West Virginia",edgar-west-virginia,edgar-west-virginia,GPE
+Edgar,2625689,78,78,,http://en.wikipedia.org/wiki/Edgar_Manucharyan,Edgar Manucharyan,edgar-manucharyan,edgar-manucharyan,PER
+Tavarez,18941458,0,7,18604283,http://en.wikipedia.org/wiki/Tavarez,Tavarez,tavarez,tavarez,UNK
+John Boles,3947815,26,79,11278;6669;24270;849629;18213;6017811,http://en.wikipedia.org/wiki/John_Boles_(baseball),John Boles,john-boles,john-boles-baseball,PER
+John Boles,5928105,104,82,6017811,http://en.wikipedia.org/wiki/John_Boles_(actor),John Boles,john-boles,john-boles-actor,PER
+John Boles,15219265,11,6,6017811,http://en.wikipedia.org/wiki/John_Boles_(sport_shooter),John Boles,john-boles,john-boles-sport-shooter,PER
+John Boles,6017811,1,4,3947815;15219265;5928105,http://en.wikipedia.org/wiki/John_Boles,John Boles,john-boles,john-boles,PER
+San Francisco,49728,20846,1223,562398;9297443;27735580;379213;412214;79734;22926654;9966680;203551;322524;1035796;196775;2840793;2343602;18110;49728;614231;250462;28416;28504;556546;27003223;11334192;26973;26974;13501933;18604283,http://en.wikipedia.org/wiki/San_Francisco,San Francisco,san-francisco,san-francisco,GPE
+San Francisco,5265832,57,38,,"http://en.wikipedia.org/wiki/San_Francisco,_Córdoba","San Francisco, Córdoba",san-francisco-cordoba,san-francisco-cordoba,GPE
+San Francisco,804426,84,95,432512;1077941;444868;615391,http://en.wikipedia.org/wiki/USS_San_Francisco_(SSN-711),USS San Francisco,uss-san-francisco,uss-san-francisco-ssn-711,UNK
+San Francisco,23278664,3,11,,http://en.wikipedia.org/wiki/San_Francisco_Church_(Antigua_Guatemala),San Francisco Church,san-francisco-church,san-francisco-church-antigua-guatemala,UNK
+San Francisco,615391,8,10,804426;556546;3584406,http://en.wikipedia.org/wiki/USS_San_Francisco,USS San Francisco,uss-san-francisco,uss-san-francisco,UNK
+San Francisco,2161323,119,60,,"http://en.wikipedia.org/wiki/San_Francisco,_Quezon","San Francisco, Quezon",san-francisco-quezon,san-francisco-quezon,UNK
+San Francisco,28168930,4,11,,http://en.wikipedia.org/wiki/San_Francisco_(Puerto_Rico),San Francisco,san-francisco,san-francisco-puerto-rico,UNK
+San Francisco,7094276,3,8,,http://en.wikipedia.org/wiki/San_Francisco_Temple,San Francisco Temple,san-francisco-temple,san-francisco-temple,UNK
+San Francisco,2043671,90,74,28273378,"http://en.wikipedia.org/wiki/San_Francisco,_Cebu","San Francisco, Cebu",san-francisco-cebu,san-francisco-cebu,UNK
+San Francisco,2342126,12,15,28273378,"http://en.wikipedia.org/wiki/San_Francisco,_Atlántida","San Francisco, Atlántida",san-francisco-atlantida,san-francisco-atlantida,GPE
+San Francisco,9297443,106,112,49728,http://en.wikipedia.org/wiki/W_San_Francisco,W San Francisco,w-san-francisco,w-san-francisco,UNK
+San Francisco,28273378,0,7,2343602;2043671;10704810;2342126;2393521;10733676;2155940,http://en.wikipedia.org/wiki/San_Francisco_Municipality,San Francisco Municipality,san-francisco-municipality,san-francisco-municipality,GPE
+San Francisco,9966680,33,43,49728,"http://en.wikipedia.org/wiki/San_Francisco,_Minnesota","San Francisco, Minnesota",san-francisco-minnesota,san-francisco-minnesota,GPE
+San Francisco,27735580,17,13,49728,http://en.wikipedia.org/wiki/Theme_from_San_Francisco,Theme from San Francisco,theme-from-san-francisco,theme-from-san-francisco,UNK
+San Francisco,2155940,40,37,28273378,"http://en.wikipedia.org/wiki/San_Francisco,_Southern_Leyte","San Francisco, Southern Leyte",san-francisco-southern-leyte,san-francisco-southern-leyte,UNK
+San Francisco,23531488,8,9,313678,http://en.wikipedia.org/wiki/San_Francisco_River_(Argentina),San Francisco River,san-francisco-river,san-francisco-river-argentina,UNK
+San Francisco,11334192,175,118,26974;28416;49728,http://en.wikipedia.org/wiki/San_Francisco_4th_and_King_Street_Station,San Francisco 4th and King Street Station,san-francisco-4th-and-king-street-station,san-francisco-4th-and-king-street-station,UNK
+San Francisco,5124136,180,109,,http://en.wikipedia.org/wiki/San_Francisco_F.C.,San Francisco F.C.,san-francisco-fc,san-francisco-fc,UNK
+San Francisco,26973,2140,367,250462;28416;556546;922066;26973;26974;49728,http://en.wikipedia.org/wiki/San_Francisco_Bay,San Francisco Bay,san-francisco-bay,san-francisco-bay,UNK
+San Francisco,26365589,13,58,,http://en.wikipedia.org/wiki/Old_San_Francisco,Old San Francisco,old-san-francisco,old-san-francisco,UNK
+San Francisco,10704810,18,20,28273378,"http://en.wikipedia.org/wiki/San_Francisco,_Putumayo","San Francisco, Putumayo",san-francisco-putumayo,san-francisco-putumayo,GPE
+San Francisco,3584406,95,126,556546;3584406;615391;18933066,http://en.wikipedia.org/wiki/USS_San_Francisco_(C-5),USS San Francisco,uss-san-francisco,uss-san-francisco-c-5,UNK
+San Francisco,13501933,9,26,49728,"http://en.wikipedia.org/wiki/San_Francisco,_Napa_and_Calistoga_Railway","San Francisco, Napa and Calistoga Railway",san-francisco-napa-and-calistoga-railway,san-francisco-napa-and-calistoga-railway,UNK
+San Francisco,23573135,4,8,23573135,"http://en.wikipedia.org/wiki/San_Francisco,_Nayarit","San Francisco, Nayarit",san-francisco-nayarit,san-francisco-nayarit,UNK
+San Francisco,556546,112,207,3584406;403899;26973;28504;615391;49728,http://en.wikipedia.org/wiki/USS_San_Francisco_(CA-38),USS San Francisco,uss-san-francisco,uss-san-francisco-ca-38,UNK
+San Francisco,2050414,42,33,,"http://en.wikipedia.org/wiki/San_Francisco,_Agusan_del_Sur","San Francisco, Agusan del Sur",san-francisco-agusan-del-sur,san-francisco-agusan-del-sur,UNK
+San Francisco,4856089,17,19,,http://en.wikipedia.org/wiki/San_Francisco_(Bilbao),San Francisco,san-francisco,san-francisco-bilbao,UNK
+San Francisco,21573145,1,2,,"http://en.wikipedia.org/wiki/San_Francisco,_San_Pablo","San Francisco, San Pablo",san-francisco-san-pablo,san-francisco-san-pablo,UNK
+San Francisco,2343602,31,34,49728;28273378,"http://en.wikipedia.org/wiki/San_Francisco,_Lempira","San Francisco, Lempira",san-francisco-lempira,san-francisco-lempira,GPE
+San Francisco,26974,943,243,250462;28504;27003223;18110;79734;11334192;26973;49728,http://en.wikipedia.org/wiki/San_Francisco_Peninsula,San Francisco Peninsula,san-francisco-peninsula,san-francisco-peninsula,UNK
+San Francisco,21757786,0,9,,http://en.wikipedia.org/wiki/San_Francisco_Lake,San Francisco Lake,san-francisco-lake,san-francisco-lake,UNK
+San Francisco,12732558,95,77,,http://en.wikipedia.org/wiki/Nevado_San_Francisco,Nevado San Francisco,nevado-san-francisco,nevado-san-francisco,UNK
+San Francisco,2393521,18,22,28273378,"http://en.wikipedia.org/wiki/San_Francisco,_El_Petén","San Francisco, El Petén",san-francisco-el-peten,san-francisco-el-peten,GPE
+San Francisco,313678,51,32,23531488,http://en.wikipedia.org/wiki/San_Francisco_River,San Francisco River,san-francisco-river,san-francisco-river,UNK
+San Francisco,250462,660,308,263650;18131;26973;26974;49728,http://en.wikipedia.org/wiki/San_Francisco_International_Airport,San Francisco International Airport,san-francisco-international-airport,san-francisco-international-airport,UNK
+San Francisco,7921420,63,60,,http://en.wikipedia.org/wiki/San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair),San Francisco,san-francisco,san-francisco-be-sure-to-wear-flowers-in-your-hair,UNK
+San Francisco,2128200,39,39,,"http://en.wikipedia.org/wiki/San_Francisco,_Surigao_del_Norte","San Francisco, Surigao del Norte",san-francisco-surigao-del-norte,san-francisco-surigao-del-norte,UNK
+San Francisco,379213,682,163,4870046;1532647;49728,http://en.wikipedia.org/wiki/San_Francisco_Opera,San Francisco Opera,san-francisco-opera,san-francisco-opera,UNK
+San Francisco,2514002,143,134,,"http://en.wikipedia.org/wiki/San_Francisco,_Antioquia","San Francisco, Antioquia",san-francisco-antioquia,san-francisco-antioquia,GPE
+San Francisco,14588704,0,40,,http://en.wikipedia.org/wiki/San_Francisco_(You've_Got_Me),San Francisco,san-francisco,san-francisco-youve-got-me,UNK
+San Francisco,33806392,0,178,,"http://en.wikipedia.org/wiki/San_Francisco,_Bohol","San Francisco, Bohol",san-francisco-bohol,san-francisco-bohol,UNK
+San Francisco,10733676,137,138,28273378,"http://en.wikipedia.org/wiki/San_Francisco,_Cundinamarca","San Francisco, Cundinamarca",san-francisco-cundinamarca,san-francisco-cundinamarca,UNK
+San Francisco,22926654,0,1,49728,"http://en.wikipedia.org/wiki/San_Francisco,_US-CA","San Francisco, US-CA",san-francisco-us-ca,san-francisco-us-ca,UNK
+San Francisco,2840793,191,196,18573990;1014417;49728,http://en.wikipedia.org/wiki/City_of_San_Francisco_(train),City of San Francisco,city-of-san-francisco,city-of-san-francisco-train,UNK
+Trenidad Hubbard,5107869,38,30,6669;28416;28417;2140;13894;6654;18213,http://en.wikipedia.org/wiki/Trenidad_Hubbard,Trenidad Hubbard,trenidad-hubbard,trenidad-hubbard,PER
+San Francisco Giants,28416,6819,1166,2379644;18213;2140;20153;72893;49728;21728;13281191;300747;6654;23741;6669;6671;24270;3005044;849629;182778;1360083;2456377;2456474;28416;28417;1035796;11334192;11278;26973;5107869;135649;13894;23408844,http://en.wikipedia.org/wiki/San_Francisco_Giants,San Francisco Giants,san-francisco-giants,san-francisco-giants,UNK
+Montreal Expos,20153,2325,482,849629;21728;18213;1360083;2456377;2456474;13894;7573287;6654;2140;28416;28417;23741;20153;6669;24270;6671;11278;23408844;394237,http://en.wikipedia.org/wiki/Montreal_Expos,Montreal Expos,montreal-expos,montreal-expos,UNK
+Fernandez,14447718,66,101,4742887,http://en.wikipedia.org/wiki/German_Fernandez,German Fernandez,german-fernandez,german-fernandez,UNK
+Fernandez,9594056,260,290,3175780,http://en.wikipedia.org/wiki/Jean_Fernandez,Jean Fernandez,jean-fernandez,jean-fernandez,PER
+Fernandez,3175780,338,326,8922829;4742887;9594056,http://en.wikipedia.org/wiki/Luis_Fernández,Luis Fernández,luis-fernandez,luis-fernandez,PER
+Fernandez,6826572,280,231,72893;4742887,http://en.wikipedia.org/wiki/Rudy_Fernández_(basketball),Rudy Fernández,rudy-fernandez,rudy-fernandez-basketball,UNK
+Fernandez,8922829,282,319,3175780,http://en.wikipedia.org/wiki/Enrique_Fernández_Viola,Enrique Fernández Viola,enrique-fernandez-viola,enrique-fernandez-viola,PER
+Fernandez,29592278,1,10,,"http://en.wikipedia.org/wiki/Fernández,_Salto","Fernández, Salto",fernandez-salto,fernandez-salto,GPE
+Fernandez,4742887,11,77,14447718;6826572;3175780,http://en.wikipedia.org/wiki/Fernández,Fernández,fernandez,fernandez,UNK
+Fernandez,29201931,2,4,,http://en.wikipedia.org/wiki/Fernandez_Hospital,Fernandez Hospital,fernandez-hospital,fernandez-hospital,GPE
+Fernandez,27209822,5,8,27209822,"http://en.wikipedia.org/wiki/Fernández,_Santiago_del_Estero","Fernández, Santiago del Estero",fernandez-santiago-del-estero,fernandez-santiago-del-estero,GPE
+Montreal,20153,2325,482,849629;21728;18213;1360083;2456377;2456474;13894;7573287;6654;2140;28416;28417;23741;20153;6669;24270;6671;11278;23408844;394237,http://en.wikipedia.org/wiki/Montreal_Expos,Montreal Expos,montreal-expos,montreal-expos,UNK
+Los Angeles,18110,41728,1243,3138;72893;79734;359028;1532647;18131;18110;18213;25059046;28504;26974;31927;12790532;1014417;13281191;37765;1360083;32016569;49728;117171;34542645;27003223;180865;180968;3317826;432512,http://en.wikipedia.org/wiki/Los_Angeles,Los Angeles,los-angeles,los-angeles,GPE
+Los Angeles,33751002,0,178,,"http://en.wikipedia.org/wiki/Los_Angeles,_Bohol","Los Angeles, Bohol",los-angeles-bohol,los-angeles-bohol,UNK
+Los Angeles,18131,1315,683,18131;18110;13281191;79734;13774;359028;250462;180865;37765;3317826;263650,http://en.wikipedia.org/wiki/Los_Angeles_International_Airport,Los Angeles International Airport,los-angeles-international-airport,los-angeles-international-airport,UNK
+Los Angeles,3317826,192,88,3317826;18131;18110;359028,http://en.wikipedia.org/wiki/Los_Angeles_Railway,Los Angeles Railway,los-angeles-railway,los-angeles-railway,UNK
+Los Angeles,17864807,15,55,18213;72893;79734,http://en.wikipedia.org/wiki/Los_Angeles_Stadium,Los Angeles Stadium,los-angeles-stadium,los-angeles-stadium,UNK
+Los Angeles,1532647,239,97,379213;18110,http://en.wikipedia.org/wiki/Los_Angeles_Opera,Los Angeles Opera,los-angeles-opera,los-angeles-opera,UNK
+Los Angeles,40151750,3,9,,http://en.wikipedia.org/wiki/Old_Los_Angeles,Old Los Angeles,old-los-angeles,old-los-angeles,UNK
+Los Angeles,5057862,1,9,5057862,"http://en.wikipedia.org/wiki/Los_Ángeles,_Nuevo_León","Los Ángeles, Nuevo León",los-angeles-nuevo-leon,los-angeles-nuevo-leon,UNK
+Los Angeles,10417060,19,41,,http://en.wikipedia.org/wiki/Los_Angeles_Theatre,Los Angeles Theatre,los-angeles-theatre,los-angeles-theatre,UNK
+Los Angeles,19404136,2192,251,,http://en.wikipedia.org/wiki/Angel,Angel,angel,angel,UNK
+Los Angeles,443932,82,81,562398;431694;21876549,http://en.wikipedia.org/wiki/USS_Los_Angeles_(ZR-3),USS Los Angeles,uss-los-angeles,uss-los-angeles-zr-3,UNK
+Los Angeles,25059046,9,19,18110,"http://en.wikipedia.org/wiki/Los_Angeles,_Texas","Los Angeles, Texas",los-angeles-texas,los-angeles-texas,GPE
+Los Angeles,37765,4705,687,18131;18110;490310;79734;72893;13281191;31927;37765,"http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles","University of California, Los Angeles",university-of-california-los-angeles,university-of-california-los-angeles,ORG
+Los Angeles,841972,119,127,2049562;28371733,"http://en.wikipedia.org/wiki/Los_Ángeles,_Bío_Bío","Los Ángeles, Bío Bío",los-angeles-bio-bio,los-angeles-bio-bio,GPE
+Los Angeles,79734,2995,908,17864807;18131;18110;9033121;79734;117171;359028;28504;27003223;180865;37765;26974;49728,"http://en.wikipedia.org/wiki/Los_Angeles_County,_California","Los Angeles County, California",los-angeles-county-california,los-angeles-county-california,GPE
+Los Angeles,9517830,3,17,,http://en.wikipedia.org/wiki/Los_Angeles_School,Los Angeles School,los-angeles-school,los-angeles-school,UNK
+Los Angeles,27972376,175,168,,http://en.wikipedia.org/wiki/Los_Angeles_Emmy_Award,Los Angeles Emmy Award,los-angeles-emmy-award,los-angeles-emmy-award,UNK
+Los Angeles,3549363,12,17,,http://en.wikipedia.org/wiki/Los_Angeles_Symphony_Orchestra,Los Angeles Symphony Orchestra,los-angeles-symphony-orchestra,los-angeles-symphony-orchestra,UNK
+Los Angeles,34542645,1,4,18110,http://en.wikipedia.org/wiki/Los_Angeles_CA,Los Angeles CA,los-angeles-ca,los-angeles-ca,ORG
+Los Angeles,9033121,103,110,79734,http://en.wikipedia.org/wiki/Los_Angeles_Street,Los Angeles Street,los-angeles-street,los-angeles-street,UNK
+Los Angeles,12790532,15,79,18110,http://en.wikipedia.org/wiki/Los_Angeles_Pobladores,Los Angeles Pobladores,los-angeles-pobladores,los-angeles-pobladores,PER
+Los Angeles,432512,79,84,18110;431694;804426;1077941;444868,http://en.wikipedia.org/wiki/USS_Los_Angeles_(SSN-688),USS Los Angeles,uss-los-angeles,uss-los-angeles-ssn-688,UNK
+Los Angeles,431694,8,4,21876549;432512;562398;443932,http://en.wikipedia.org/wiki/USS_Los_Angeles,USS Los Angeles,uss-los-angeles,uss-los-angeles,UNK
+Los Angeles,72893,3716,653,17864807;18110;412214;18213;1360083;28416;28417;72893;13281191;574666;37765;6826572,http://en.wikipedia.org/wiki/Los_Angeles_Lakers,Los Angeles Lakers,los-angeles-lakers,los-angeles-lakers,UNK
+Los Angeles,18213,6544,976,2379644;1821553;18110;18213;3947815;2140;20153;72893;21728;13281191;300747;6654;574666;23741;9713764;6669;24270;6671;3005044;849629;182778;17864807;1360083;2456377;2456474;28416;28417;4516364;1035796;11278;5107869;13894;933906;23408844,http://en.wikipedia.org/wiki/Los_Angeles_Dodgers,Los Angeles Dodgers,los-angeles-dodgers,los-angeles-dodgers,UNK
+Los Angeles,180865,597,336,13281191;18131;18110;79734;117171;2702810,http://en.wikipedia.org/wiki/Los_Angeles_River,Los Angeles River,los-angeles-river,los-angeles-river,UNK
+Los Angeles,359028,646,257,3317826;27003223;18131;18110;79734;359028,http://en.wikipedia.org/wiki/Los_Angeles_County_Metropolitan_Transportation_Authority,Los Angeles County Metropolitan Transportation Authority,los-angeles-county-metropolitan-transportation-authority,los-angeles-county-metropolitan-transportation-authority,UNK
+Los Angeles,1360083,3383,550,1821553;18110;18213;1360083;2456377;2456474;2140;28416;28417;20153;1035796;6333192;11278;72893;21728;13281191;13894;300747;6654;23741;6669;24270;6671;23408844,http://en.wikipedia.org/wiki/Los_Angeles_Angels_of_Anaheim,Los Angeles Angels of Anaheim,los-angeles-angels-of-anaheim,los-angeles-angels-of-anaheim,UNK
+Los Angeles,11232666,3,7,,"http://en.wikipedia.org/wiki/Los_Ángeles,_Región_Autónoma_del_Atlántico_Sur","Los Ángeles, Región Autónoma del Atlántico Sur",los-angeles-region-autonoma-del-atlantico-sur,los-angeles-region-autonoma-del-atlantico-sur,UNK
+Los Angeles,21876549,3,35,443932;431694,http://en.wikipedia.org/wiki/USS_Los_Angeles_(ID-1470),USS Los Angeles,uss-los-angeles,uss-los-angeles-id-1470,UNK
+Los Angeles,18573990,25,44,1014417;2840793,http://en.wikipedia.org/wiki/Los_Angeles_Limited,Los Angeles Limited,los-angeles-limited,los-angeles-limited,UNK
+Los Angeles,117171,256,367,18110;79734;180865,"http://en.wikipedia.org/wiki/Lake_Los_Angeles,_California","Lake Los Angeles, California",lake-los-angeles-california,lake-los-angeles-california,GPE
+Los Angeles,1014417,61,71,18573990;18110;2840793,http://en.wikipedia.org/wiki/City_of_Los_Angeles_(train),City of Los Angeles,city-of-los-angeles,city-of-los-angeles-train,UNK
+Los Angeles,562398,32,71,443932;431694;49728,http://en.wikipedia.org/wiki/USS_Los_Angeles_(CA-135),USS Los Angeles,uss-los-angeles,uss-los-angeles-ca-135,UNK
+Los Angeles,27241490,1,5,,"http://en.wikipedia.org/wiki/Los_Ángeles,_Catamarca","Los Ángeles, Catamarca",los-angeles-catamarca,los-angeles-catamarca,GPE
+Los Angeles,8246460,155,36,23170240;8246460,http://en.wikipedia.org/wiki/Los_Angeles_(magazine),Los Angeles,los-angeles,los-angeles-magazine,ORG
+Los Angeles,13281191,305,321,1360083;28416;28417;28504;18131;18110;180865;72893;37765;18213,http://en.wikipedia.org/wiki/Sports_in_Los_Angeles,Sports in Los Angeles,sports-in-los-angeles,sports-in-los-angeles,UNK
+Greg Gagne,4516364,90,84,2976208;18213,http://en.wikipedia.org/wiki/Greg_Gagne_(baseball),Greg Gagne,greg-gagne,greg-gagne-baseball,PER
+Greg Gagne,2976208,0,2,1983742;4516364,http://en.wikipedia.org/wiki/Greg_Gagne,Greg Gagne,greg-gagne,greg-gagne,PER
+Greg Gagne,1983742,61,45,6669;2976208,http://en.wikipedia.org/wiki/Greg_Gagne_(wrestler),Greg Gagne,greg-gagne,greg-gagne-wrestler,PER
+Chad Curtis,1821553,90,89,1360083;2140;18213,http://en.wikipedia.org/wiki/Chad_Curtis,Chad Curtis,chad-curtis,chad-curtis,PER
+Los Angeles Dodgers,18213,6544,976,2379644;1821553;18110;18213;3947815;2140;20153;72893;21728;13281191;300747;6654;574666;23741;9713764;6669;24270;6671;3005044;849629;182778;17864807;1360083;2456377;2456474;28416;28417;4516364;1035796;11278;5107869;13894;933906;23408844,http://en.wikipedia.org/wiki/Los_Angeles_Dodgers,Los Angeles Dodgers,los-angeles-dodgers,los-angeles-dodgers,UNK
+New York Mets,21728,5117,654,6082884;849629;182778;18213;1360083;2456377;2456474;2140;28416;28417;20153;6333192;11278;21728;13894;6654;574666;23741;6669;6671;24270;23408844,http://en.wikipedia.org/wiki/New_York_Mets,New York Mets,new-york-mets,new-york-mets,UNK
+Dodgers,18213,6544,976,2379644;1821553;18110;18213;3947815;2140;20153;72893;21728;13281191;300747;6654;574666;23741;9713764;6669;24270;6671;3005044;849629;182778;17864807;1360083;2456377;2456474;28416;28417;4516364;1035796;11278;5107869;13894;933906;23408844,http://en.wikipedia.org/wiki/Los_Angeles_Dodgers,Los Angeles Dodgers,los-angeles-dodgers,los-angeles-dodgers,UNK
+Bill Russell,3005044,169,140,2140;182778;28416;18213,http://en.wikipedia.org/wiki/Bill_Russell_(baseball),Bill Russell,bill-russell,bill-russell-baseball,PER
+Bill Russell,412214,1423,1218,72893;49728,http://en.wikipedia.org/wiki/Bill_Russell,Bill Russell,bill-russell,bill-russell,UNK
+Bill Russell,32593748,18,13,,http://en.wikipedia.org/wiki/Bill_Russell_(lyricist),Bill Russell,bill-russell,bill-russell-lyricist,UNK
+Bill Russell,3977736,7,23,,http://en.wikipedia.org/wiki/Bill_Russell_(composer),Bill Russell,bill-russell,bill-russell-composer,PER
+Mike Piazza,182778,495,387,6654;21728;28416;28417;857813;18933066;3005044;11278;390781;300747;6669;18213,http://en.wikipedia.org/wiki/Mike_Piazza,Mike Piazza,mike-piazza,mike-piazza,PER
+San Diego,28504,9713,1036,18110;623149;437818;263650;32016569;49728;286083;13281191;1509218;574666;857813;79734;615377;28417;28504;556546;27003223;180968;922066;203551;151173;26974;4870046;31927;6600912;2702810,http://en.wikipedia.org/wiki/San_Diego,San Diego,san-diego,san-diego,GPE
+San Diego,2345668,11,16,,"http://en.wikipedia.org/wiki/San_Diego,_Zacapa","San Diego, Zacapa",san-diego-zacapa,san-diego-zacapa,GPE
+San Diego,286083,1785,351,286083;28417;28504;574666;27003223;31927,http://en.wikipedia.org/wiki/San_Diego_State_University,San Diego State University,san-diego-state-university,san-diego-state-university,ORG
+San Diego,623149,226,253,922066;1716205;28417;28504;574666;27003223;263650,http://en.wikipedia.org/wiki/Marine_Corps_Recruit_Depot_San_Diego,Marine Corps Recruit Depot San Diego,marine-corps-recruit-depot-san-diego,marine-corps-recruit-depot-san-diego,UNK
+San Diego,263650,252,190,922066;18131;250462;28417;28504;623149;27003223,http://en.wikipedia.org/wiki/San_Diego_International_Airport,San Diego International Airport,san-diego-international-airport,san-diego-international-airport,UNK
+San Diego,1105924,8,8,2702810;16452438,"http://en.wikipedia.org/wiki/San_Diego,_Carabobo","San Diego, Carabobo",san-diego-carabobo,san-diego-carabobo,UNK
+San Diego,22382955,70,77,,"http://en.wikipedia.org/wiki/San_Diego,_Distrito_Nacional","San Diego, Distrito Nacional",san-diego-distrito-nacional,san-diego-distrito-nacional,GPE
+San Diego,18765549,17,37,615377,http://en.wikipedia.org/wiki/USS_San_Diego_(AFS-6),USS San Diego,uss-san-diego,uss-san-diego-afs-6,UNK
+San Diego,31927,1876,501,286083;18110;490310;28504;574666;27003223;31927;37765,"http://en.wikipedia.org/wiki/University_of_California,_San_Diego","University of California, San Diego",university-of-california-san-diego,university-of-california-san-diego,ORG
+San Diego,29609330,1,10,29609330,http://en.wikipedia.org/wiki/San_Diego_(Bogotá),San Diego,san-diego,san-diego-bogota,UNK
+San Diego,574666,671,220,286083;21728;28417;28504;623149;27003223;31927;18213;922066;72893,http://en.wikipedia.org/wiki/University_of_San_Diego,University of San Diego,university-of-san-diego,university-of-san-diego,ORG
+San Diego,2702810,104,55,922066;180865;28504;27003223;1105924,http://en.wikipedia.org/wiki/San_Diego_River,San Diego River,san-diego-river,san-diego-river,UNK
+San Diego,615377,8,3,614231;28504;18765549;1716205,http://en.wikipedia.org/wiki/USS_San_Diego,USS San Diego,uss-san-diego,uss-san-diego,UNK
+San Diego,922066,270,60,2702810;26973;28417;28504;574666;623149;27003223;263650,http://en.wikipedia.org/wiki/San_Diego_Bay,San Diego Bay,san-diego-bay,san-diego-bay,UNK
+San Diego,4870046,99,49,379213;28504,http://en.wikipedia.org/wiki/San_Diego_Opera,San Diego Opera,san-diego-opera,san-diego-opera,UNK
+San Diego,27003223,2773,756,286083;18110;17736759;79734;359028;28417;28504;574666;623149;27003223;180968;31927;922066;6600912;322524;263650;2702810;26974;49728,"http://en.wikipedia.org/wiki/San_Diego_County,_California","San Diego County, California",san-diego-county-california,san-diego-county-california,GPE
+San Diego,1716205,22,37,623149;615377,http://en.wikipedia.org/wiki/USS_San_Diego_(LPD-22),USS San Diego,uss-san-diego,uss-san-diego-lpd-22,UNK
+San Diego,21558831,0,1,,"http://en.wikipedia.org/wiki/San_Diego,_San_Pablo","San Diego, San Pablo",san-diego-san-pablo,san-diego-san-pablo,UNK
+San Diego,9394913,39,32,,"http://en.wikipedia.org/wiki/San_Diego,_Cesar","San Diego, Cesar",san-diego-cesar,san-diego-cesar,GPE
+San Diego,151173,309,386,28504;136380;13774,"http://en.wikipedia.org/wiki/San_Diego,_Texas","San Diego, Texas",san-diego-texas,san-diego-texas,GPE
+San Diego,32016569,89,139,18110;28504,http://en.wikipedia.org/wiki/The_Real_World:_San_Diego_(2011),The Real World: San Diego,the-real-world-san-diego,the-real-world-san-diego-2011,UNK
+San Diego,614231,30,93,450101;403899;615377;49728,http://en.wikipedia.org/wiki/USS_San_Diego_(CL-53),USS San Diego,uss-san-diego,uss-san-diego-cl-53,UNK
+San Diego,20398616,2,4,,http://en.wikipedia.org/wiki/San_Diego_River_(Cuba),San Diego River,san-diego-river,san-diego-river-cuba,UNK
+San Diego,16452438,6,14,1105924,http://en.wikipedia.org/wiki/San_Diego_Municipality,San Diego Municipality,san-diego-municipality,san-diego-municipality,UNK
+San Diego,6600912,50,72,28504;27003223,http://en.wikipedia.org/wiki/San_Diego_Gas_&_Electric,San Diego Gas & Electric,san-diego-gas-electric,san-diego-gas-electric,UNK
+San Diego,28417,3743,598,849629;182778;2379644;490310;390781;18213;1360083;2456377;2456474;2140;28416;28417;28504;623149;27003223;20153;922066;1035796;263650;6333192;11278;72893;286083;5107869;21728;13281191;13894;6654;933906;1509218;574666;23741;6669;6671;24270;857813;23408844,http://en.wikipedia.org/wiki/San_Diego_Padres,San Diego Padres,san-diego-padres,san-diego-padres,UNK
+San Diego,17736759,3,23,27003223,"http://en.wikipedia.org/wiki/San_Diego_County,_California_Probation","San Diego County, California Probation",san-diego-county-california-probation,san-diego-county-california-probation,UNK
+Steve Finley,1035796,211,179,1360083;23408844;2140;28416;28417;857813;13894;6669;394237;23741;18213;49728,http://en.wikipedia.org/wiki/Steve_Finley,Steve Finley,steve-finley,steve-finley,PER
+Jody Reed,2379644,53,53,28416;28417;6669;18933066;18213,http://en.wikipedia.org/wiki/Jody_Reed,Jody Reed,jody-reed,jody-reed,PER
+San Diego Padres,28417,3743,598,849629;182778;2379644;490310;390781;18213;1360083;2456377;2456474;2140;28416;28417;28504;623149;27003223;20153;922066;1035796;263650;6333192;11278;72893;286083;5107869;21728;13281191;13894;6654;933906;1509218;574666;23741;6669;6671;24270;857813;23408844,http://en.wikipedia.org/wiki/San_Diego_Padres,San Diego Padres,san-diego-padres,san-diego-padres,UNK
+San Diego Padres,1509218,124,27,28417;28504;6671;23741,http://en.wikipedia.org/wiki/San_Diego_Padres_(PCL),San Diego Padres,san-diego-padres,san-diego-padres-pcl,ORG
+Philadelphia Phillies,23741,6706,868,18213;20648690;2140;20153;21728;9713559;300747;6654;1509218;23741;9713764;6669;24270;6671;849629;1360083;2456377;2456474;28416;28417;111530;1035796;11278;13894;23408844,http://en.wikipedia.org/wiki/Philadelphia_Phillies,Philadelphia Phillies,philadelphia-phillies,philadelphia-phillies,UNK
+Philadelphia Phillies,20648690,412,460,23741;20070483;274458;24270,http://en.wikipedia.org/wiki/Philadelphia_Phillies_(NFL),Philadelphia Phillies,philadelphia-phillies,philadelphia-phillies-nfl,UNK
+Ken Caminiti,857813,189,174,933906;390781;2140;182778;28417;13894;28504;1035796;394237,http://en.wikipedia.org/wiki/Ken_Caminiti,Ken Caminiti,ken-caminiti,ken-caminiti,PER
+Padres,28417,3743,598,849629;182778;2379644;490310;390781;18213;1360083;2456377;2456474;2140;28416;28417;28504;623149;27003223;20153;922066;1035796;263650;6333192;11278;72893;286083;5107869;21728;13281191;13894;6654;933906;1509218;574666;23741;6669;6671;24270;857813;23408844,http://en.wikipedia.org/wiki/San_Diego_Padres,San Diego Padres,san-diego-padres,san-diego-padres,UNK
+Padres,1509218,124,27,28417;28504;6671;23741,http://en.wikipedia.org/wiki/San_Diego_Padres_(PCL),San Diego Padres,san-diego-padres,san-diego-padres-pcl,ORG
+National League West,2456474,1150,275,6654;2140;21728;28416;28417;23741;20153;6669;24270;6671;18213;1360083;2456377;3138;13894;11278;23408844;13774,http://en.wikipedia.org/wiki/National_League_West,National League West,national-league-west,national-league-west,UNK
+Houston,13774,11661,992,18862626;16998723;18131;490310;122239;105540;120237;3358728;33419225;1002190;5928682;390781;2456474;1068764;203551;322524;151173;91625;136380;33750241;13894;13774;18933066;107176;18067702;61620,http://en.wikipedia.org/wiki/Houston,Houston,houston,houston,GPE
+Houston,328833,0,2,,http://en.wikipedia.org/wiki/Houston_International_Airport,Houston International Airport,houston-international-airport,houston-international-airport,UNK
+Houston,120237,65,76,13774,"http://en.wikipedia.org/wiki/Houston,_Minnesota","Houston, Minnesota",houston-minnesota,houston-minnesota,GPE
+Houston,21247684,4,10,,http://en.wikipedia.org/wiki/Houston_Street_(IRT_Ninth_Avenue_Line),Houston Street,houston-street,houston-street-irt-ninth-avenue-line,UNK
+Houston,15173428,49,62,,"http://en.wikipedia.org/wiki/Houston,_Indiana","Houston, Indiana",houston-indiana,houston-indiana,GPE
+Houston,5554037,16,22,,"http://en.wikipedia.org/wiki/Houston,_Georgia","Houston, Georgia",houston-georgia,houston-georgia,UNK
+Houston,5532870,14,26,61620,http://en.wikipedia.org/wiki/Houston_Street_(IRT_Broadway_–_Seventh_Avenue_Line),Houston Street,houston-street,houston-street-irt-broadway-–-seventh-avenue-line,UNK
+Houston,3358728,43,49,13774,"http://en.wikipedia.org/wiki/Houston,_Ohio","Houston, Ohio",houston-ohio,houston-ohio,UNK
+Houston,36599551,23,32,,"http://en.wikipedia.org/wiki/Houston,_Alabama","Houston, Alabama",houston-alabama,houston-alabama,GPE
+Houston,3855685,115,105,25325071,"http://en.wikipedia.org/wiki/Houston,_British_Columbia","Houston, British Columbia",houston-british-columbia,houston-british-columbia,GPE
+Houston,19220087,0,175,,http://en.wikipedia.org/wiki/Houston_(I'm_Comin'_to_See_You),Houston,houston,houston-im-comin-to-see-you,UNK
+Houston,24188354,1,4,,http://en.wikipedia.org/wiki/Edward_Houston,Edward Houston,edward-houston,edward-houston,PER
+Houston,5928682,230,201,490310;13774;1068764,http://en.wikipedia.org/wiki/Geography_of_Houston,Geography of Houston,geography-of-houston,geography-of-houston,UNK
+Houston,25758915,0,24,,http://en.wikipedia.org/wiki/Houston_(Means_I'm_One_Day_Closer_to_You),Houston,houston,houston-means-im-one-day-closer-to-you,UNK
+Houston,203551,113,113,450101;203543;13774;28504;49728,http://en.wikipedia.org/wiki/USS_Houston_(CA-30),USS Houston,uss-houston,uss-houston-ca-30,UNK
+Houston,24755310,3,12,,http://en.wikipedia.org/wiki/Houston_County_(band),Houston County,houston-county,houston-county-band,UNK
+Houston,1002190,58,116,13774,"http://en.wikipedia.org/wiki/Houston,_Houston,_Do_You_Read?","Houston, Houston, Do You Read?",houston-houston-do-you-read,houston-houston-do-you-read,UNK
+Houston,1353821,0,3,,http://en.wikipedia.org/wiki/Houston_Airport,Houston Airport,houston-airport,houston-airport,UNK
+Houston,8681869,59,66,,"http://en.wikipedia.org/wiki/Houston,_West_Street_and_Pavonia_Ferry_Railroad","Houston, West Street and Pavonia Ferry Railroad",houston-west-street-and-pavonia-ferry-railroad,houston-west-street-and-pavonia-ferry-railroad,UNK
+Houston,21245863,4,12,,http://en.wikipedia.org/wiki/Houston_Street_(IRT_Third_Avenue_Line),Houston Street,houston-street,houston-street-irt-third-avenue-line,UNK
+Houston,3541686,0,11,,"http://en.wikipedia.org/wiki/Houston,_We've_Got_a_Problem","Houston, We've Got a Problem",houston-weve-got-a-problem,houston-weve-got-a-problem,UNK
+Houston,33750241,0,11,13774,"http://en.wikipedia.org/wiki/Mount_Houston,_Texas","Mount Houston, Texas",mount-houston-texas,mount-houston-texas,UNK
+Houston,100003447,0,0,,"http://en.wikipedia.org/wiki/Houston,_We_Have_a_Party","Houston, We Have a Party",houston-we-have-a-party,houston-we-have-a-party,UKN
+Houston,25325071,1,10,3855685,"http://en.wikipedia.org/wiki/Houston,_British_Columbia_railway_station","Houston, British Columbia railway station",houston-british-columbia-railway-station,houston-british-columbia-railway-station,UNK
+Houston,1068764,188,28,5928682;13774;322524,http://en.wikipedia.org/wiki/Lake_Houston,Lake Houston,lake-houston,lake-houston,UNK
+Houston,1039754,60,124,,"http://en.wikipedia.org/wiki/Houston,_Renfrewshire","Houston, Renfrewshire",houston-renfrewshire,houston-renfrewshire,GPE
+Houston,123280,171,167,,"http://en.wikipedia.org/wiki/Houston,_Missouri","Houston, Missouri",houston-missouri,houston-missouri,GPE
+Houston,9176009,69,79,,"http://en.wikipedia.org/wiki/Houston_Township,_Adams_County,_Illinois","Houston Township, Adams County, Illinois",houston-township-adams-county-illinois,houston-township-adams-county-illinois,UNK
+Houston,203543,8,10,444868;450101;203551;12786582,http://en.wikipedia.org/wiki/USS_Houston,USS Houston,uss-houston,uss-houston,UNK
+Houston,108894,180,83,,"http://en.wikipedia.org/wiki/Houston,_Delaware","Houston, Delaware",houston-delaware,houston-delaware,GPE
+Houston,12786582,6,21,203543,http://en.wikipedia.org/wiki/USS_Houston_(AK-1),USS Houston,uss-houston,uss-houston-ak-1,UNK
+Houston,105540,60,59,13774,"http://en.wikipedia.org/wiki/Houston,_Alaska","Houston, Alaska",houston-alaska,houston-alaska,GPE
+Houston,2104331,32,39,,http://en.wikipedia.org/wiki/Houston_(singer),Houston,houston,houston-singer,UNK
+Houston,37869477,5,9,,http://en.wikipedia.org/wiki/Houston_Street_(Dallas),Houston Street,houston-street,houston-street-dallas,UNK
+Houston,35708611,135,124,,http://en.wikipedia.org/wiki/Houston_Street_(San_Antonio),Houston Street,houston-street,houston-street-san-antonio,UNK
+Houston,1513735,9,18,,http://en.wikipedia.org/wiki/Houston_(pornographic_actress),Houston,houston,houston-pornographic-actress,PER
+Houston,134057,151,227,,"http://en.wikipedia.org/wiki/Houston,_Pennsylvania","Houston, Pennsylvania",houston-pennsylvania,houston-pennsylvania,GPE
+Houston,107176,21,38,13774,"http://en.wikipedia.org/wiki/Houston,_Arkansas","Houston, Arkansas",houston-arkansas,houston-arkansas,GPE
+Houston,450101,83,84,614231;203543;203551;437818,http://en.wikipedia.org/wiki/USS_Houston_(CL-81),USS Houston,uss-houston,uss-houston-cl-81,UNK
+Houston,33419225,5,10,13774,http://en.wikipedia.org/wiki/Houston_Club,Houston Club,houston-club,houston-club,UNK
+Houston,25784114,23,38,,"http://en.wikipedia.org/wiki/Houston,_Tennessee","Houston, Tennessee",houston-tennessee,houston-tennessee,GPE
+Houston,490310,2490,177,5928682;490310;13774;28417;31927;37765;322524,http://en.wikipedia.org/wiki/University_of_Houston,University of Houston,university-of-houston,university-of-houston,ORG
+Houston,18761995,21,34,,http://en.wikipedia.org/wiki/Mr._Houston,Mr. Houston,mr-houston,mr-houston,UNK
+Houston,18862626,165,175,18067702;13774,http://en.wikipedia.org/wiki/Houston_Tower,Houston Tower,houston-tower,houston-tower,UNK
+Houston,444868,79,94,432512;804426;1077941;203543,http://en.wikipedia.org/wiki/USS_Houston_(SSN-713),USS Houston,uss-houston,uss-houston-ssn-713,UNK
+Houston,322524,764,460,27003223;490310;1068764;13894;13774;49728,http://en.wikipedia.org/wiki/Greater_Houston,Greater Houston,greater-houston,greater-houston,UNK
+Houston,122239,67,39,13774,"http://en.wikipedia.org/wiki/Houston,_Mississippi","Houston, Mississippi",houston-mississippi,houston-mississippi,GPE
+Houston,61620,206,206,13774;5532870,http://en.wikipedia.org/wiki/Houston_Street,Houston Street,houston-street,houston-street,UNK
+Houston,18067702,86,100,18862626;13774,http://en.wikipedia.org/wiki/Houston_Center,Houston Center,houston-center,houston-center,UNK
+Jeff Bagwell,390781,474,427,933906;182778;28417;857813;13894;13774;24270;394237,http://en.wikipedia.org/wiki/Jeff_Bagwell,Jeff Bagwell,jeff-bagwell,jeff-bagwell,PER
+Donne Wall,6333192,115,89,21728;1360083;28417;13894,http://en.wikipedia.org/wiki/Donne_Wall,Donne Wall,donne-wall,donne-wall,PER
+Houston Astros,13894,4025,656,6082884;849629;390781;18213;1360083;2456377;2456474;2140;28416;28417;20153;322524;1035796;6333192;11278;5107869;21728;13894;13774;6654;933906;23741;6669;6671;24270;857813;23408844,http://en.wikipedia.org/wiki/Houston_Astros,Houston Astros,houston-astros,houston-astros,UNK
+St. Louis Cardinals,23408844,7084,960,18213;2140;20153;21728;6654;23741;6669;6671;24270;849629;1360083;2456377;2456474;28416;28417;1035796;11278;394237;13894;23408844,http://en.wikipedia.org/wiki/St._Louis_Cardinals,St. Louis Cardinals,st-louis-cardinals,st-louis-cardinals,UNK
+Wall,6333192,115,89,21728;1360083;28417;13894,http://en.wikipedia.org/wiki/Donne_Wall,Donne Wall,donne-wall,donne-wall,PER
+Astros,13894,4025,656,6082884;849629;390781;18213;1360083;2456377;2456474;2140;28416;28417;20153;322524;1035796;6333192;11278;5107869;21728;13894;13774;6654;933906;23741;6669;6671;24270;857813;23408844,http://en.wikipedia.org/wiki/Houston_Astros,Houston Astros,houston-astros,houston-astros,UNK
+Cardinals,23408844,7084,960,18213;2140;20153;21728;6654;23741;6669;6671;24270;849629;1360083;2456377;2456474;28416;28417;1035796;11278;394237;13894;23408844,http://en.wikipedia.org/wiki/St._Louis_Cardinals,St. Louis Cardinals,st-louis-cardinals,st-louis-cardinals,UNK
+National League Central,2456377,892,176,6654;2140;21728;28416;28417;23741;20153;6669;24270;6671;18213;1360083;2456474;13894;11278;23408844,http://en.wikipedia.org/wiki/National_League_Central,National League Central,national-league-central,national-league-central,ORG

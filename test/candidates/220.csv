@@ -1,0 +1,19 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Boskalis,15842094,40,57,21148;121173,http://en.wikipedia.org/wiki/Royal_Boskalis_Westminster,Royal Boskalis Westminster,royal-boskalis-westminster,royal-boskalis-westminster,UNK
+GMT,12701,3323,226,21148,http://en.wikipedia.org/wiki/Greenwich_Mean_Time,Greenwich Mean Time,greenwich-mean-time,greenwich-mean-time,UNK
+GMT,8465437,5,10,,http://en.wikipedia.org/wiki/GMT_Records,GMT Records,gmt-records,gmt-records,ORG
+GMT,8984512,57,45,,http://en.wikipedia.org/wiki/GMT360,GMT360,gmt360,gmt360,UNK
+GMT,26207611,229,250,,http://en.wikipedia.org/wiki/GMT_(programme),GMT,gmt,gmt-programme,UNK
+PAPENDRECHT,121173,111,85,15842094;21148,http://en.wikipedia.org/wiki/Papendrecht,Papendrecht,papendrecht,papendrecht,GPE
+Netherlands,21148,78333,1147,12701;27483885;21332;21148;21161;169683;1553658;9647657;475061;15842094;2164343;5434703;18949613;121173,http://en.wikipedia.org/wiki/Netherlands,Netherlands,netherlands,netherlands,GPE
+Netherlands,21161,153,222,21332;18949613;21148;21161;5434703,http://en.wikipedia.org/wiki/Transport_in_the_Netherlands,Transport in the Netherlands,transport-in-the-netherlands,transport-in-the-netherlands,UNK
+Netherlands,18949613,1365,341,1553658;5434703;21332;21148;21161,http://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands,Kingdom of the Netherlands,kingdom-of-the-netherlands,kingdom-of-the-netherlands,GPE
+Netherlands,169683,33,39,21148,http://en.wikipedia.org/wiki/Capital_of_the_Netherlands,Capital of the Netherlands,capital-of-the-netherlands,capital-of-the-netherlands,GPE
+Netherlands,5434703,71,174,21148;21161;475061;9647657;18949613,http://en.wikipedia.org/wiki/Netherlands_(toponymy),Netherlands,netherlands,netherlands-toponymy,UNK
+Netherlands,9647657,3010,688,5434703;9647657;27483885;2164343;21148,http://en.wikipedia.org/wiki/Netherlands_national_football_team,Netherlands national football team,netherlands-national-football-team,netherlands-national-football-team,UNK
+Netherlands,27483885,513,309,9647657;21148,http://en.wikipedia.org/wiki/Netherlands_national_under-19_football_team,Netherlands national under-19 football team,netherlands-national-under-19-football-team,netherlands-national-under-19-football-team,UNK
+Netherlands,475061,100,133,21148;5434703,http://en.wikipedia.org/wiki/Greater_Netherlands,Greater Netherlands,greater-netherlands,greater-netherlands,UNK
+Netherlands,21332,1952,394,18949613;21148;21161,http://en.wikipedia.org/wiki/Netherlands_Antilles,Netherlands Antilles,netherlands-antilles,netherlands-antilles,GPE
+Netherlands,2164343,701,337,9647657;21148,http://en.wikipedia.org/wiki/Netherlands_national_cricket_team,Netherlands national cricket team,netherlands-national-cricket-team,netherlands-national-cricket-team,UNK
+Netherlands,1553658,68,12,21148;18949613,http://en.wikipedia.org/wiki/European_Netherlands,European Netherlands,european-netherlands,european-netherlands,UNK
+Netherlands,10477250,25,56,,http://en.wikipedia.org/wiki/Great_Depression_in_the_Netherlands,Great Depression in the Netherlands,great-depression-in-the-netherlands,great-depression-in-the-netherlands,UNK

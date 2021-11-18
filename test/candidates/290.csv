@@ -1,0 +1,146 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Nepal,171166,16037,441,313169;243871;1214527;5758321;6931621;5405;37966;320375;40626443;171166;2224021;1255834;18603746;11545946;3434750;39061223;160195;5154680;21324;54753;40015111;23237;737850;26756;249458;31516,http://en.wikipedia.org/wiki/Nepal,Nepal,nepal,nepal,GPE
+Nepal,21324,441,363,37966;171166;31516;5405;320375;54753;6931621;3434750;160195;23237,http://en.wikipedia.org/wiki/Geography_of_Nepal,Geography of Nepal,geography-of-nepal,geography-of-nepal,UNK
+Nepal,1214527,75,82,171166,http://en.wikipedia.org/wiki/Nepal_Airlines,Nepal Airlines,nepal-airlines,nepal-airlines,ORG
+Nepal,6152294,18,45,,http://en.wikipedia.org/wiki/Nepal_(band),Nepal,nepal,nepal-band,UNK
+Nepal,40626443,106,134,160195;171166;31516,http://en.wikipedia.org/wiki/Greater_Nepal,Greater Nepal,greater-nepal,greater-nepal,UNK
+Nepal,40015111,1,6,171166;40015111,http://en.wikipedia.org/wiki/Nepal_(magazine),Nepal,nepal,nepal-magazine,UNK
+Nepal,160195,414,78,171166;31516;11545946;40626443;21324;313169,http://en.wikipedia.org/wiki/Kingdom_of_Nepal,Kingdom of Nepal,kingdom-of-nepal,kingdom-of-nepal,GPE
+Nepal,5758321,147,152,171166,http://en.wikipedia.org/wiki/All_Nepal_Football_Association,All Nepal Football Association,all-nepal-football-association,all-nepal-football-association,ORG
+Nepal,11545946,285,44,160195;171166;11545946;313169,http://en.wikipedia.org/wiki/Nepalese_royal_massacre,Nepalese royal massacre,nepalese-royal-massacre,nepalese-royal-massacre,UNK
+Tibet,31516,5450,340,28450446;217487;243871;320375;40626443;1197992;24657;261949;266210;6931621;964617;367843;26756;171166;2224021;160195;35698902;5405;5154680;21996658;249458;152827;21324;5751;54753;31613954;6966;37966;31516;27394863;23237,http://en.wikipedia.org/wiki/Tibet,Tibet,tibet,tibet,GPE
+Tibet,16811033,3,13,2224021,http://en.wikipedia.org/wiki/Tibet_Museum_(South_Korea),Tibet Museum,tibet-museum,tibet-museum-south-korea,UNK
+Tibet,54753,2010,335,171166;28450446;35698902;52980;18603746;243871;5405;320375;5154680;21996658;249458;152827;24657;21324;261949;5751;266210;54753;5866686;37966;31516;27394863;19359;23237,http://en.wikipedia.org/wiki/Tibet_Autonomous_Region,Tibet Autonomous Region,tibet-autonomous-region,tibet-autonomous-region,UNK
+Tibet,39584288,1,6,5405,http://en.wikipedia.org/wiki/Tibet_Museum_(Dharamsala),Tibet Museum,tibet-museum,tibet-museum-dharamsala,UNK
+Tibet,27394863,88,88,54753;5866686;31516;2224021,http://en.wikipedia.org/wiki/Tibet_Museum_(Lhasa),Tibet Museum,tibet-museum,tibet-museum-lhasa,UNK
+Tibet,35698902,4,9,21996658;5405;54753;31516,http://en.wikipedia.org/wiki/Tibet_Area_(administrative_division),Tibet Area,tibet-area,tibet-area-administrative-division,UNK
+Tibet,28450446,91,150,54753;18603746;5751;31516;243871;5405,http://en.wikipedia.org/wiki/Tibet_Airlines,Tibet Airlines,tibet-airlines,tibet-airlines,UNK
+Tibet,5866686,203,148,18603746;24657;27394863;261949;54753;249458;266210,http://en.wikipedia.org/wiki/Tibet_University,Tibet University,tibet-university,tibet-university,UNK
+Tibet,21996658,19,153,54753;249458;31516;35698902;5405;320375;5154680,http://en.wikipedia.org/wiki/Tibet_(1912–51),Tibet,tibet,tibet-1912–51,GPE
+Tibet,320375,46,209,37966;171166;31516;2224021;320375;21324;5154680;21996658;54753;249458;23237,http://en.wikipedia.org/wiki/Geography_of_Tibet,Geography of Tibet,geography-of-tibet,geography-of-tibet,UNK
+Tibet,22475672,11,22,,http://en.wikipedia.org/wiki/Admiral_Tibet,Admiral Tibet,admiral-tibet,admiral-tibet,UNK
+China,5405,76886,1206,5405;5751;2259195;6966;32204074;26207532;1255834;415070;29031717;28450446;156154;18603746;2800359;266210;964617;19359;33167689;21324;6108359;23237;24657;152827;153825;31516;2149749;313169;37966;171166;48999;52980;32919758;35698902;4463189;682573;54753;19682699;5029525;3733255;4096888;40710796;475046;3434750;1197992;332456;39584288;217487;243871;601694;2224021;1231558;261949;367843;21996658;11641871;737850;372983;249458;124485;19476473,http://en.wikipedia.org/wiki/China,China,china,china,GPE
+China,367843,339,506,31516;5405;372983;152827;159669;153825;217487;367843;33167689;156154;261949;5751;23237,http://en.wikipedia.org/wiki/Religion_in_China,Religion in China,religion-in-china,religion-in-china,UNK
+China,36907282,1,7,,http://en.wikipedia.org/wiki/BBC_China,BBC China,bbc-china,bbc-china,UNK
+China,30809009,1,14,,http://en.wikipedia.org/wiki/China_(footballer_born_1964),China,china,china-footballer-born-1964,PER
+China,601694,143,45,261949;5751;266210;5405;24657;19682699;23237,http://en.wikipedia.org/wiki/Greater_China,Greater China,greater-china,greater-china,UNK
+China,3676975,33,38,,http://en.wikipedia.org/wiki/China_Kantner,China Kantner,china-kantner,china-kantner,PER
+China,32215636,132,153,,"http://en.wikipedia.org/wiki/China,_IL","China, IL",china-il,china-il,UNK
+China,11641871,21,20,5405,http://en.wikipedia.org/wiki/China_Team,China Team,china-team,china-team,ORG
+China,3733255,99,95,5751;5405;3434750,http://en.wikipedia.org/wiki/China_Institute,China Institute,china-institute,china-institute,UNK
+China,33167689,655,414,153825;217487;156154;18603746;5405;55668;367843;184224;261949;266210;23237,http://en.wikipedia.org/wiki/Republic_of_China_(1912–49),Republic of China,republic-of-china,republic-of-china-1912–49,GPE
+China,6108359,52,54,5405,http://en.wikipedia.org/wiki/China_(Epcot),China,china,china-epcot,UNK
+China,332456,4,14,5405,http://en.wikipedia.org/wiki/China_Hotel,China Hotel,china-hotel,china-hotel,UNK
+China,2259195,63,130,737850;18603746;5751;5405,http://en.wikipedia.org/wiki/Recognition_of_same-sex_unions_in_China,Recognition of same-sex unions in China,recognition-of-same-sex-unions-in-china,recognition-of-same-sex-unions-in-china,GPE
+China,184224,201,253,18603746;33167689;261949;249458;152827;5751;266210;124485,http://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China,Flag of the Republic of China,flag-of-the-republic-of-china,flag-of-the-republic-of-china,UNK
+China,689521,269,153,,http://en.wikipedia.org/wiki/China_Beach,China Beach,china-beach,china-beach,UNK
+China,5865836,201,77,,http://en.wikipedia.org/wiki/Chin,Chin,chin,chin,UNK
+China,23237,408,328,18603746;37966;171166;31516;5405;917647;320375;54753;152827;3434750;153825;217487;367843;601694;33167689;21324,http://en.wikipedia.org/wiki/Geography_of_China,Geography of China,geography-of-china,geography-of-china,UNK
+China,29668485,209,261,,http://en.wikipedia.org/wiki/China_(The_Office),China,china,china-the-office,UNK
+China,1231558,12,53,5405,http://en.wikipedia.org/wiki/China_Poblana,China Poblana,china-poblana,china-poblana,UNK
+China,1002769,48,20,,http://en.wikipedia.org/wiki/China_Records,China Records,china-records,china-records,UNK
+China,9041110,9,11,266210,http://en.wikipedia.org/wiki/China_Club,China Club,china-club,china-club,UNK
+China,20500198,0,22,,http://en.wikipedia.org/wiki/China_(footballer_born_1980),China,china,china-footballer-born-1980,PER
+China,40710796,6,16,5405,http://en.wikipedia.org/wiki/China_Association,China Association,china-association,china-association,ORG
+China,6421885,57,48,,"http://en.wikipedia.org/wiki/China,_Nuevo_León","China, Nuevo León",china-nuevo-leon,china-nuevo-leon,GPE
+China,29031717,42,83,5405,http://en.wikipedia.org/wiki/China_(Superleague_Formula_team),China,china,china-superleague-formula-team,UNK
+China,33089020,4,14,,http://en.wikipedia.org/wiki/On_China,On China,on-china,on-china,UNK
+China,124485,570,414,5405;184224;261949;266210;124485,http://en.wikipedia.org/wiki/China_Airlines,China Airlines,china-airlines,china-airlines,UNK
+China,32919758,2,19,5405,http://en.wikipedia.org/wiki/China_Information,China Information,china-information,china-information,ORG
+China,217487,320,734,737850;153825;217487;33167689;156154;18603746;31516;5405;249458;152827;367843;23237,http://en.wikipedia.org/wiki/Human_rights_in_China,Human rights in China,human-rights-in-china,human-rights-in-china,ORG
+China,21265151,4,9,,http://en.wikipedia.org/wiki/China_Beach_(Canada),China Beach,china-beach,china-beach-canada,UNK
+BEIJING,18603746,17387,1124,5405;5751;2259195;32204074;1216759;26207532;4237048;5866686;34423576;171166;28450446;156154;52980;18603746;3434750;1197992;964617;19359;33167689;4463189;54753;19682699;13371938;23237;737850;217487;24657;184224;152827;277570;1455431;917647,http://en.wikipedia.org/wiki/Beijing,Beijing,beijing,beijing,GPE
+BEIJING,917647,38,156,34423576;18603746;23237,http://en.wikipedia.org/wiki/Geography_of_Beijing,Geography of Beijing,geography-of-beijing,geography-of-beijing,UNK
+BEIJING,1216759,19,28,266210;261949;18603746,http://en.wikipedia.org/wiki/Beijing_Hotel,Beijing Hotel,beijing-hotel,beijing-hotel,UNK
+BEIJING,13371938,36,44,18603746,http://en.wikipedia.org/wiki/Beijing_(locomotive),Beijing,beijing,beijing-locomotive,UNK
+BEIJING,26207532,507,339,18603746;5405;4237048;24657;261949;266210,http://en.wikipedia.org/wiki/Beijing_National_Stadium,Beijing National Stadium,beijing-national-stadium,beijing-national-stadium,UNK
+BEIJING,34423576,36,125,18603746;5751;917647,http://en.wikipedia.org/wiki/Names_of_Beijing,Names of Beijing,names-of-beijing,names-of-beijing,ORG
+BEIJING,4463189,80,121,261949;18603746;266210;5405,http://en.wikipedia.org/wiki/Beijing_Ancient_Observatory,Beijing Ancient Observatory,beijing-ancient-observatory,beijing-ancient-observatory,UNK
+Birendra,313169,242,92,160195;171166;5405;11545946,http://en.wikipedia.org/wiki/Birendra_of_Nepal,Birendra of Nepal,birendra-of-nepal,birendra-of-nepal,PER
+Birendra,39061223,1,5,171166,http://en.wikipedia.org/wiki/Birendra_Museum,Birendra Museum,birendra-museum,birendra-museum,UNK
+Tibetan,31516,5450,340,28450446;217487;243871;320375;40626443;1197992;24657;261949;266210;6931621;964617;367843;26756;171166;2224021;160195;35698902;5405;5154680;21996658;249458;152827;21324;5751;54753;31613954;6966;37966;31516;27394863;23237,http://en.wikipedia.org/wiki/Tibet,Tibet,tibet,tibet,GPE
+Tibetan,26756,1226,406,171166;31613954;475046;52980;31516;249458;152827;24657;5751;19359,http://en.wikipedia.org/wiki/Sino-Tibetan_languages,Sino-Tibetan languages,sino-tibetan-languages,sino-tibetan-languages,UNK
+Tibetan,38922086,5,5,243871,http://en.wikipedia.org/wiki/Tibetan_(Unicode_block),Tibetan,tibetan,tibetan-unicode-block,UNK
+Tibetan,2224021,106,270,37966;171166;31516;5405;16811033;27394863;320375;5154680;249458,http://en.wikipedia.org/wiki/Tibetan_culture,Tibetan culture,tibetan-culture,tibetan-culture,UNK
+Tibetan,249458,827,287,171166;2224021;372983;54753;217487;5866686;52980;31516;243871;5405;320375;5154680;21996658;249458;152827;3434750;26756;184224;5751,http://en.wikipedia.org/wiki/Tibetan_people,Tibetan people,tibetan-people,tibetan-people,UNK
+Tibetan,243871,890,462,171166;54753;31613954;28450446;31516;5405;249458;38922086;261949;266210,http://en.wikipedia.org/wiki/Tibetan_alphabet,Tibetan alphabet,tibetan-alphabet,tibetan-alphabet,UNK
+Tibetan,31613954,35,35,475046;26756;31516;243871,http://en.wikipedia.org/wiki/Old_Tibetan,Old Tibetan,old-tibetan,old-tibetan,UNK
+Tibetan,5154680,195,175,37966;171166;31516;2224021;320375;21996658;54753;249458;6931621,http://en.wikipedia.org/wiki/Tibetan_cuisine,Tibetan cuisine,tibetan-cuisine,tibetan-cuisine,UNK
+Beijing,18603746,17387,1124,5405;5751;2259195;32204074;1216759;26207532;4237048;5866686;34423576;171166;28450446;156154;52980;18603746;3434750;1197992;964617;19359;33167689;4463189;54753;19682699;13371938;23237;737850;217487;24657;184224;152827;277570;1455431;917647,http://en.wikipedia.org/wiki/Beijing,Beijing,beijing,beijing,GPE
+Beijing,917647,38,156,34423576;18603746;23237,http://en.wikipedia.org/wiki/Geography_of_Beijing,Geography of Beijing,geography-of-beijing,geography-of-beijing,UNK
+Beijing,1216759,19,28,266210;261949;18603746,http://en.wikipedia.org/wiki/Beijing_Hotel,Beijing Hotel,beijing-hotel,beijing-hotel,UNK
+Beijing,13371938,36,44,18603746,http://en.wikipedia.org/wiki/Beijing_(locomotive),Beijing,beijing,beijing-locomotive,UNK
+Beijing,26207532,507,339,18603746;5405;4237048;24657;261949;266210,http://en.wikipedia.org/wiki/Beijing_National_Stadium,Beijing National Stadium,beijing-national-stadium,beijing-national-stadium,UNK
+Beijing,34423576,36,125,18603746;5751;917647,http://en.wikipedia.org/wiki/Names_of_Beijing,Names of Beijing,names-of-beijing,names-of-beijing,ORG
+Beijing,4463189,80,121,261949;18603746;266210;5405,http://en.wikipedia.org/wiki/Beijing_Ancient_Observatory,Beijing Ancient Observatory,beijing-ancient-observatory,beijing-ancient-observatory,UNK
+China Daily,737850,887,52,737850;171166;2259195;217487;19682699;18603746;5405;3434750;261949;5751;266210,http://en.wikipedia.org/wiki/China_Daily,China Daily,china-daily,china-daily,UNK
+Nepalese,171166,16037,441,313169;243871;1214527;5758321;6931621;5405;37966;320375;40626443;171166;2224021;1255834;18603746;11545946;3434750;39061223;160195;5154680;21324;54753;40015111;23237;737850;26756;249458;31516,http://en.wikipedia.org/wiki/Nepal,Nepal,nepal,nepal,GPE
+Nepalese,11545946,285,44,160195;171166;11545946;313169,http://en.wikipedia.org/wiki/Nepalese_royal_massacre,Nepalese royal massacre,nepalese-royal-massacre,nepalese-royal-massacre,UNK
+Nepalese,6931621,562,448,171166;31516;5154680;6931621;21324,http://en.wikipedia.org/wiki/Nepalese_cuisine,Nepalese cuisine,nepalese-cuisine,nepalese-cuisine,ORG
+Himalayan,37966,2972,253,320375;33956983;171166;2224021;5405;5154680;21324;54753;31516;23237,http://en.wikipedia.org/wiki/Himalayas,Himalayas,himalayas,himalayas,UNK
+Himalayan,40000898,20,16,40000898,http://en.wikipedia.org/wiki/Himalayan_University,Himalayan University,himalayan-university,himalayan-university,UNK
+Himalayan,33956983,2,5,37966;146031,http://en.wikipedia.org/wiki/Himalayan_rabbit,Himalayan rabbit,himalayan-rabbit,himalayan-rabbit,PER
+Himalayan,146031,7,138,33956983;3434750,http://en.wikipedia.org/wiki/Himalayan_cat,Himalayan cat,himalayan-cat,himalayan-cat,UNK
+Chinese,5405,76886,1206,5405;5751;2259195;6966;32204074;26207532;1255834;415070;29031717;28450446;156154;18603746;2800359;266210;964617;19359;33167689;21324;6108359;23237;24657;152827;153825;31516;2149749;313169;37966;171166;48999;52980;32919758;35698902;4463189;682573;54753;19682699;5029525;3733255;4096888;40710796;475046;3434750;1197992;332456;39584288;217487;243871;601694;2224021;1231558;261949;367843;21996658;11641871;737850;372983;249458;124485;19476473,http://en.wikipedia.org/wiki/China,China,china,china,GPE
+Chinese,1524543,202,123,964617;6966;156154,http://en.wikipedia.org/wiki/Chinese_mathematics,Chinese mathematics,chinese-mathematics,chinese-mathematics,UNK
+Chinese,266210,20339,452,243871;5405;5751;6966;1216759;26207532;5866686;601694;415070;475046;52980;1197992;261949;159669;964617;19359;33167689;4463189;682573;54753;19682699;737850;24657;184224;9041110;152827;277570;124485;31516,http://en.wikipedia.org/wiki/Traditional_Chinese_characters,Traditional Chinese characters,traditional-chinese-characters,traditional-chinese-characters,UNK
+Chinese,1255834,278,347,171166;5405;1255834;152827;48999;2149749;5751;52980;19682699;19359,http://en.wikipedia.org/wiki/British_Chinese,British Chinese,british-chinese,british-chinese,UNK
+Chinese,19682699,847,261,737850;372983;2149749;6966;156154;19682699;18603746;5405;1255834;152827;159669;3434750;601694;24657;261949;5751;266210,http://en.wikipedia.org/wiki/Chinese_New_Year,Chinese New Year,chinese-new-year,chinese-new-year,UNK
+Chinese,682573,62,20,261949;24657;152827;5751;266210;5405,http://en.wikipedia.org/wiki/Chinese_clan,Chinese clan,chinese-clan,chinese-clan,ORG
+Chinese,4544971,13,18,,http://en.wikipedia.org/wiki/Chinese_Village_(Tsarskoe_Selo),Chinese Village,chinese-village,chinese-village-tsarskoe-selo,UNK
+Chinese,26175377,2,15,372983,http://en.wikipedia.org/wiki/Chinese_Museum_(Boston),Chinese Museum,chinese-museum,chinese-museum-boston,UNK
+Chinese,2278861,53,103,5751;52980;24657;19359,http://en.wikipedia.org/wiki/General_Chinese,General Chinese,general-chinese,general-chinese,UNK
+Chinese,2149749,151,209,5405;1255834;372983;152827;52980;19682699;48999,http://en.wikipedia.org/wiki/Chinese_Cambodian,Chinese Cambodian,chinese-cambodian,chinese-cambodian,UNK
+Chinese,19476473,8,39,5405;1197992;153825;5751,http://en.wikipedia.org/wiki/Chinese_encyclopedia,Chinese encyclopedia,chinese-encyclopedia,chinese-encyclopedia,UNK
+Chinese,277570,405,121,18603746;152827;156154;261949;1455431;266210,http://en.wikipedia.org/wiki/Chinese_opera,Chinese opera,chinese-opera,chinese-opera,UNK
+Chinese,152827,2162,405,372983;217487;2149749;156154;52980;18603746;5405;249458;3434750;48999;24657;184224;261949;5751;266210;277570;682573;54753;153825;19682699;31516;1255834;964617;367843;26756;19359;23237,http://en.wikipedia.org/wiki/Han_Chinese,Han Chinese,han-chinese,han-chinese,UNK
+Chinese,19359,2193,324,475046;52980;18603746;5405;152827;48999;24657;261949;5751;266210;54753;1255834;2278861;26756,http://en.wikipedia.org/wiki/Mandarin_Chinese,Mandarin Chinese,mandarin-chinese,mandarin-chinese,UNK
+Chinese,48999,1281,537,2149749;52980;5405;1255834;152827;55668;3434750;48999;24657;5751;19359,http://en.wikipedia.org/wiki/Chinese_American,Chinese American,chinese-american,chinese-american,UNK
+Chinese,159669,299,101,367843;6966;156154;261949;5751;266210;19682699,http://en.wikipedia.org/wiki/Chinese_astrology,Chinese astrology,chinese-astrology,chinese-astrology,UNK
+Chinese,261949,18715,481,243871;5405;5751;6966;1216759;26207532;5866686;601694;415070;475046;52980;3434750;1197992;266210;159669;964617;367843;19359;33167689;4463189;682573;54753;19682699;737850;24657;184224;152827;277570;124485;31516,http://en.wikipedia.org/wiki/Simplified_Chinese_characters,Simplified Chinese characters,simplified-chinese-characters,simplified-chinese-characters,UNK
+Chinese,475046,370,290,5405;31613954;24657;26756;261949;5751;266210;52980;19359,http://en.wikipedia.org/wiki/Old_Chinese,Old Chinese,old-chinese,old-chinese,UNK
+Chinese,32204074,4,10,18603746;5405;372983;32204074,http://en.wikipedia.org/wiki/Chinese_Bridge,Chinese Bridge,chinese-bridge,chinese-bridge,UNK
+Chinese,24657,5837,255,1144453;475046;156154;52980;18603746;993845;1197992;261949;266210;5866686;2278861;601694;26756;19359;5405;152827;48999;5751;682573;54753;153825;19682699;31516;26207532,http://en.wikipedia.org/wiki/Standard_Chinese,Standard Chinese,standard-chinese,standard-chinese,UNK
+Chinese,55668,341,418,372983;48999;33167689,http://en.wikipedia.org/wiki/Chinese_Exclusion_Act,Chinese Exclusion Act,chinese-exclusion-act,chinese-exclusion-act,UNK
+Chinese,19328658,45,28,,http://en.wikipedia.org/wiki/Chinese_temple,Chinese temple,chinese-temple,chinese-temple,UNK
+Chinese,4237048,198,167,964617;18603746;156154;5751;26207532,http://en.wikipedia.org/wiki/Chinese_ceramics,Chinese ceramics,chinese-ceramics,chinese-ceramics,UNK
+Chinese,6966,3181,258,156154;261949;266210;159669;964617;5405;1524543;19682699;31516,http://en.wikipedia.org/wiki/Chinese_calendar,Chinese calendar,chinese-calendar,chinese-calendar,GPE
+Chinese,1169486,21,17,,http://en.wikipedia.org/wiki/Chinese_water_torture,Chinese water torture,chinese-water-torture,chinese-water-torture,UNK
+Chinese,153825,719,549,217487;33167689;156154;5405;19476473;152827;3434750;367843;1197992;24657;5751;23237,http://en.wikipedia.org/wiki/Chinese_literature,Chinese literature,chinese-literature,chinese-literature,UNK
+Chinese,372983,2922,16,2149749;5405;249458;152827;55668;26175377;32204074;19682699;367843,http://en.wikipedia.org/wiki/Chinese_people,Chinese people,chinese-people,chinese-people,ORG
+Chinese,5751,23061,442,3733255;5405;5751;2259195;4237048;2278861;601694;34423576;48999;1255834;415070;28450446;475046;156154;52980;18603746;3434750;1197992;261949;266210;159669;964617;367843;19359;682573;54753;19682699;737850;24657;184224;26756;249458;152827;153825;31516;19476473,http://en.wikipedia.org/wiki/Chinese_language,Chinese language,chinese-language,chinese-language,UNK
+Chinese,1144453,23,12,24657,http://en.wikipedia.org/wiki/Chinese_school,Chinese school,chinese-school,chinese-school,UNK
+Chinese,1455431,93,160,18603746;277570,http://en.wikipedia.org/wiki/Chinese_orchestra,Chinese orchestra,chinese-orchestra,chinese-orchestra,UNK
+Chinese,52980,571,222,18603746;5405;1255834;54753;249458;152827;48999;2278861;2149749;475046;1197992;24657;26756;261949;5751;266210;19359,http://en.wikipedia.org/wiki/Hakka_Chinese,Hakka Chinese,hakka-chinese,hakka-chinese,UNK
+Chinese,415070,439,194,5405;261949;5751;266210,http://en.wikipedia.org/wiki/Chinese_herbology,Chinese herbology,chinese-herbology,chinese-herbology,UNK
+Chinese,31970550,25,23,,"http://en.wikipedia.org/wiki/Chinese_Museum,_Melbourne","Chinese Museum, Melbourne",chinese-museum-melbourne,chinese-museum-melbourne,UNK
+Chinese,2800359,32,35,3434750;5405,http://en.wikipedia.org/wiki/Chinese_hamster,Chinese hamster,chinese-hamster,chinese-hamster,UNK
+Chinese,964617,294,220,18603746;31516;5405;1524543;152827;4237048;6966;156154;261949;5751;266210,http://en.wikipedia.org/wiki/Chinese_architecture,Chinese architecture,chinese-architecture,chinese-architecture,UNK
+Chinese,156154,599,272,18603746;5405;1524543;152827;4237048;159669;153825;217487;964617;367843;1197992;24657;33167689;6966;5751;19682699;277570,http://en.wikipedia.org/wiki/Chinese_culture,Chinese culture,chinese-culture,chinese-culture,UNK
+Chinese,1197992,146,195,18603746;31516;5405;1197992;24657;19476473;156154;261949;5751;266210;52980;3434750;153825,http://en.wikipedia.org/wiki/Chinese_Wikipedia,Chinese Wikipedia,chinese-wikipedia,chinese-wikipedia,UNK
+United States,3434750,529967,1252,5405;5751;22033;21324;23237;1134236;39529;40570;48999;65508;146031;152827;153825;171166;1197992;261949;249458;3663136;7422188;431669;3434750;461232;18603746;2800359;5029525;3733255;6174697;2719448;737850;19682699;4096888;14863992;895667;993845,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+United States,195550,101,127,195515,http://en.wikipedia.org/wiki/USS_United_States_(1797),USS United States,uss-united-states,uss-united-states-1797,UNK
+United States,2719448,16,46,3434750,http://en.wikipedia.org/wiki/United_States_Live,United States Live,united-states-live,united-states-live,UNK
+United States,195515,9,7,195637;461232;195550,http://en.wikipedia.org/wiki/USS_United_States,USS United States,uss-united-states,uss-united-states,UNK
+United States,5029525,27,254,5405;3434750,http://en.wikipedia.org/wiki/Ethanol_fuel_in_the_United_States,Ethanol fuel in the United States,ethanol-fuel-in-the-united-states,ethanol-fuel-in-the-united-states,UNK
+United States,40570,857,545,431669;39529;3434750;40570,"http://en.wikipedia.org/wiki/United_States_presidential_election,_1980","United States presidential election, 1980",united-states-presidential-election-1980,united-states-presidential-election-1980,UNK
+United States,431669,2237,285,431669;39529;3434750;40570;6174697,http://en.wikipedia.org/wiki/Northeastern_United_States,Northeastern United States,northeastern-united-states,northeastern-united-states,UNK
+United States,22033,135,97,3434750,http://en.wikipedia.org/wiki/Nicaragua_v._United_States,Nicaragua v. United States,nicaragua-v-united-states,nicaragua-v-united-states,PER
+United States,7422188,509,575,1134236;3434750,"http://en.wikipedia.org/wiki/United_States_Senate_elections,_2012","United States Senate elections, 2012",united-states-senate-elections-2012,united-states-senate-elections-2012,UNK
+United States,4096888,712,458,5405;4096888;3434750;39529,"http://en.wikipedia.org/wiki/United_States_elections,_2006","United States elections, 2006",united-states-elections-2006,united-states-elections-2006,UNK
+United States,195637,31,45,195515,http://en.wikipedia.org/wiki/USS_United_States_(CVA-58),USS United States,uss-united-states,uss-united-states-cva-58,UNK
+United States,636847,221,42,65508,http://en.wikipedia.org/wiki/United_States_Customs_Service,United States Customs Service,united-states-customs-service,united-states-customs-service,ORG
+United States,14863992,10,221,3434750;14863992,http://en.wikipedia.org/wiki/United_States_withdrawal_from_the_United_Nations,United States withdrawal from the United Nations,united-states-withdrawal-from-the-united-nations,united-states-withdrawal-from-the-united-nations,UNK
+United States,2111551,11,25,,http://en.wikipedia.org/wiki/Cramer_v._United_States,Cramer v. United States,cramer-v-united-states,cramer-v-united-states,UNK
+United States,993845,746,312,3434750;993845;24657,http://en.wikipedia.org/wiki/United_States_nationality_law,United States nationality law,united-states-nationality-law,united-states-nationality-law,UNK
+United States,65508,277,275,3434750;636847,http://en.wikipedia.org/wiki/Great_Seal_of_the_United_States,Great Seal of the United States,great-seal-of-the-united-states,great-seal-of-the-united-states,UNK
+United States,1380075,391,371,,http://en.wikipedia.org/wiki/Reynolds_v._United_States,Reynolds v. United States,reynolds-v-united-states,reynolds-v-united-states,UNK
+United States,10341263,6,88,10341263,http://en.wikipedia.org/wiki/United_States_raw_milk_debate,United States raw milk debate,united-states-raw-milk-debate,united-states-raw-milk-debate,GPE
+United States,6174697,566,530,431669;6174697;3434750,http://en.wikipedia.org/wiki/Territorial_evolution_of_the_United_States,Territorial evolution of the United States,territorial-evolution-of-the-united-states,territorial-evolution-of-the-united-states,UNK
+United States,39529,1083,393,431669;4096888;3434750;40570,"http://en.wikipedia.org/wiki/United_States_presidential_election,_1992","United States presidential election, 1992",united-states-presidential-election-1992,united-states-presidential-election-1992,UNK
+United States,3663136,242,335,3434750;3663136,http://en.wikipedia.org/wiki/High-speed_rail_in_the_United_States,High-speed rail in the United States,high-speed-rail-in-the-united-states,high-speed-rail-in-the-united-states,UNK
+United States,461232,241,384,3434750;195515,http://en.wikipedia.org/wiki/SS_United_States,SS United States,ss-united-states,ss-united-states,UNK
+United States,1134236,415,587,7422188;3434750,"http://en.wikipedia.org/wiki/United_States_Senate_elections,_2010","United States Senate elections, 2010",united-states-senate-elections-2010,united-states-senate-elections-2010,UNK
+United States,895667,46,133,3434750,http://en.wikipedia.org/wiki/United_States_Olympic_Hall_of_Fame,United States Olympic Hall of Fame,united-states-olympic-hall-of-fame,united-states-olympic-hall-of-fame,UNK
+United States,244351,94,228,,http://en.wikipedia.org/wiki/Korematsu_v._United_States,Korematsu v. United States,korematsu-v-united-states,korematsu-v-united-states,UNK
+Birenda,313169,242,92,160195;171166;5405;11545946,http://en.wikipedia.org/wiki/Birendra_of_Nepal,Birendra of Nepal,birendra-of-nepal,birendra-of-nepal,PER

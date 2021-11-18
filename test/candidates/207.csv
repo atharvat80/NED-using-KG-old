@@ -1,0 +1,59 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+DOHUK,566384,182,171,80777;21972546;7515928,http://en.wikipedia.org/wiki/Dohuk,Dohuk,dohuk,dohuk,GPE
+DOHUK,21972546,165,158,7515928;566384,http://en.wikipedia.org/wiki/Dohuk_District,Dohuk District,dohuk-district,dohuk-district,UNK
+DOHUK,6491036,109,89,7515928,http://en.wikipedia.org/wiki/Dohuk_SC,Dohuk SC,dohuk-sc,dohuk-sc,UNK
+Iraq,7515928,18884,662,30920463;69680;11125639;40316;6212702;2322115;201936;5043324;80777;21972546;14665;1038799;566384;33264850;4184636;2900620;6037917;7515928;26793252;30199;246612;3913469;6491036,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+Iraq,246612,247,253,5043324;14665;2900620;2322115;1038799;201936;40316;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_dinar,Iraqi dinar,iraqi-dinar,iraqi-dinar,UNK
+Iraq,10013089,0,8,5043324,http://en.wikipedia.org/wiki/Iraq_the_model,Iraq the model,iraq-the-model,iraq-the-model,UNK
+Iraq,1038799,151,365,2900620;246612;2322115;40316;26793252;11125639;6037917;5043324;14665;1038799;201936;7515928;4184636,http://en.wikipedia.org/wiki/Mandatory_Iraq,Mandatory Iraq,mandatory-iraq,mandatory-iraq,GPE
+Iraq,26793252,147,159,5043324;14665;2900620;246612;2322115;1038799;201936;40316;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_Republic_(1958–68),Iraqi Republic,iraqi-republic,iraqi-republic-1958–68,GPE
+Iraq,14665,219,271,11125639;30199;80777;5043324;14665;2900620;246612;2322115;1038799;201936;40316;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Geography_of_Iraq,Geography of Iraq,geography-of-iraq,geography-of-iraq,UNK
+Iraq,201936,2386,848,26793252;69680;201936;40316;11125639;5043324;7515928;246612;14665;1038799;4184636;2900620;2322115,http://en.wikipedia.org/wiki/2003_invasion_of_Iraq,2003 invasion of Iraq,2003-invasion-of-iraq,2003-invasion-of-iraq,UNK
+Iraq,30920463,349,324,7515928,http://en.wikipedia.org/wiki/2011_Iraqi_protests,2011 Iraqi protests,2011-iraqi-protests,2011-iraqi-protests,UNK
+Iraq,5043324,6133,1280,11125639;40316;4184636;2900620;2322115;201936;5043324;7515928;26793252;246612;14665;1038799;10013089,http://en.wikipedia.org/wiki/Iraq_War,Iraq War,iraq-war,iraq-war,UNK
+Iraq,2900620,479,199,2900620;246612;2322115;40316;26793252;5043324;14665;1038799;201936;7515928;4184636,http://en.wikipedia.org/wiki/Kingdom_of_Iraq,Kingdom of Iraq,kingdom-of-iraq,kingdom-of-iraq,GPE
+Islamist,6037917,20084,792,11125639;80777;1038799;4184636;6037917;7515928;3913469,http://en.wikipedia.org/wiki/Islam,Islam,islam,islam,UNK
+Islamist,11145385,14,65,,http://en.wikipedia.org/wiki/The_Islamist,The Islamist,the-islamist,the-islamist,UNK
+Kurdistan Workers Party,69680,0,330,11125639;80777;201936;1328699;7515928,http://en.wikipedia.org/wiki/Kurdistan_Workers'_Party,Kurdistan Workers' Party,kurdistan-workers-party,kurdistan-workers-party,UNK
+PKK,69680,0,330,11125639;80777;201936;1328699;7515928,http://en.wikipedia.org/wiki/Kurdistan_Workers'_Party,Kurdistan Workers' Party,kurdistan-workers-party,kurdistan-workers-party,UNK
+Iraqi,7515928,18884,662,30920463;69680;11125639;40316;6212702;2322115;201936;5043324;80777;21972546;14665;1038799;566384;33264850;4184636;2900620;6037917;7515928;26793252;30199;246612;3913469;6491036,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+Iraqi,33264850,3,6,7515928,http://en.wikipedia.org/wiki/Iraqi_University,Iraqi University,iraqi-university,iraqi-university,UNK
+Iraqi,4184636,513,263,6212702;2900620;246612;2322115;40316;26793252;11125639;6037917;5043324;14665;1038799;201936;7515928,http://en.wikipedia.org/wiki/Iraqi_people,Iraqi people,iraqi-people,iraqi-people,UNK
+Iraqi,6212702,363,290,7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_biradri,Iraqi biradri,iraqi-biradri,iraqi-biradri,UNK
+Iraqi,2322115,544,632,246612;26793252;14665;1038799;201936;4184636;2900620;40316;11125639;5043324;7515928,http://en.wikipedia.org/wiki/Iraqi_cuisine,Iraqi cuisine,iraqi-cuisine,iraqi-cuisine,UNK
+Dohuk,566384,182,171,80777;21972546;7515928,http://en.wikipedia.org/wiki/Dohuk,Dohuk,dohuk,dohuk,GPE
+Dohuk,21972546,165,158,7515928;566384,http://en.wikipedia.org/wiki/Dohuk_District,Dohuk District,dohuk-district,dohuk-district,UNK
+Dohuk,6491036,109,89,7515928,http://en.wikipedia.org/wiki/Dohuk_SC,Dohuk SC,dohuk-sc,dohuk-sc,UNK
+Turkey,9112329,237,88,9112329,http://en.wikipedia.org/wiki/Dustin_the_Turkey,Dustin the Turkey,dustin-the-turkey,dustin-the-turkey,UNK
+Turkey,11496730,59,107,11495681,http://en.wikipedia.org/wiki/USS_Turkey_(AM-13),USS Turkey,uss-turkey,uss-turkey-am-13,UNK
+Turkey,27291963,49,48,11125639,http://en.wikipedia.org/wiki/Turkey_Party,Turkey Party,turkey-party,turkey-party,UNK
+Turkey,30199,342,394,11125639;30199;14665;7515928,http://en.wikipedia.org/wiki/Geography_of_Turkey,Geography of Turkey,geography-of-turkey,geography-of-turkey,UNK
+Turkey,296928,427,140,11125639;24513964;72821,http://en.wikipedia.org/wiki/Domesticated_turkey,Domesticated turkey,domesticated-turkey,domesticated-turkey,UNK
+Turkey,34786292,28,36,,"http://en.wikipedia.org/wiki/Turkey,_Kentucky","Turkey, Kentucky",turkey-kentucky,turkey-kentucky,GPE
+Turkey,13824333,0,37,11125639,http://en.wikipedia.org/wiki/Turkey_International,Turkey International,turkey-international,turkey-international,UNK
+Turkey,16094744,4,4,16747837,http://en.wikipedia.org/wiki/Turkey_Mountain_(New_York),Turkey Mountain,turkey-mountain,turkey-mountain-new-york,UNK
+Turkey,4772844,179,211,4772844,http://en.wikipedia.org/wiki/Turkey_Hill_(company),Turkey Hill,turkey-hill,turkey-hill-company,UNK
+Turkey,11495681,4,4,11497678;11496730,http://en.wikipedia.org/wiki/USS_Turkey,USS Turkey,uss-turkey,uss-turkey,UNK
+Turkey,15444730,37,33,,http://en.wikipedia.org/wiki/The_Turkey,The Turkey,the-turkey,the-turkey,UNK
+Turkey,10267070,0,2,10267784;5448213,http://en.wikipedia.org/wiki/Turkey_River,Turkey River,turkey-river,turkey-river,UNK
+Turkey,20414892,2,41,,"http://en.wikipedia.org/wiki/Turkey_Hill_(Linthicum_Heights,_Maryland)",Turkey Hill,turkey-hill,turkey-hill-linthicum-heights-maryland,UNK
+Turkey,72821,410,138,128233;11125639;296928;24513964;11497678,http://en.wikipedia.org/wiki/Turkey_(bird),Turkey,turkey,turkey-bird,UNK
+Turkey,5448213,7,14,10267070,http://en.wikipedia.org/wiki/Turkey_River_(New_Hampshire),Turkey River,turkey-river,turkey-river-new-hampshire,UNK
+Turkey,11497678,74,126,11495681;72821,http://en.wikipedia.org/wiki/USS_Turkey_(AMS-56),USS Turkey,uss-turkey,uss-turkey-ams-56,UNK
+Turkey,24513964,72,183,296928;72821,http://en.wikipedia.org/wiki/Turkey_meat,Turkey meat,turkey-meat,turkey-meat,UNK
+Turkey,3790633,15,10,,http://en.wikipedia.org/wiki/Little_Turkey,Little Turkey,little-turkey,little-turkey,PER
+Turkey,128233,24,48,11125639;72821,"http://en.wikipedia.org/wiki/Turkey,_North_Carolina","Turkey, North Carolina",turkey-north-carolina,turkey-north-carolina,GPE
+Turkey,27648807,0,19,,"http://en.wikipedia.org/wiki/Turkey_Beach,_Queensland","Turkey Beach, Queensland",turkey-beach-queensland,turkey-beach-queensland,UNK
+Turkey,135979,26,27,,"http://en.wikipedia.org/wiki/Turkey,_Texas","Turkey, Texas",turkey-texas,turkey-texas,GPE
+Turkey,37318848,38,53,,"http://en.wikipedia.org/wiki/Turkey,_Limpopo","Turkey, Limpopo",turkey-limpopo,turkey-limpopo,UNK
+Turkey,2730305,91,11,11125639,http://en.wikipedia.org/wiki/Communist_Labour_Party_of_Turkey/Leninist,Communist Labour Party of Turkey/Leninist,communist-labour-party-of-turkey-leninist,communist-labour-party-of-turkey-leninist,UNK
+Turkey,16747837,0,2,16094744,http://en.wikipedia.org/wiki/Turkey_Mountain,Turkey Mountain,turkey-mountain,turkey-mountain,UNK
+Turkey,10267784,20,24,10267070,http://en.wikipedia.org/wiki/Turkey_River_(Iowa),Turkey River,turkey-river,turkey-river-iowa,UNK
+Turkey,743577,1890,521,11125639;743577,http://en.wikipedia.org/wiki/Turkey_national_football_team,Turkey national football team,turkey-national-football-team,turkey-national-football-team,ORG
+Turkey,11125639,51709,902,11125639;14665;4184636;30199;13824333;3913469;40316;5043324;296928;69680;72821;2322115;201936;80777;1328699;27291963;1038799;6037917;2730305;7515928;128233;743577,http://en.wikipedia.org/wiki/Turkey,Turkey,turkey,turkey,GPE
+Turkey,11554626,118,100,,http://en.wikipedia.org/wiki/Turkey_Point_Light,Turkey Point Light,turkey-point-light,turkey-point-light,UNK
+Necmettin Erbakan,1328699,265,122,11125639;69680,http://en.wikipedia.org/wiki/Necmettin_Erbakan,Necmettin Erbakan,necmettin-erbakan,necmettin-erbakan,UNK
+Kurdish,80777,838,300,3913469;80777;14665;69680;40316;11125639;6037917;7515928;566384,http://en.wikipedia.org/wiki/Kurdistan,Kurdistan,kurdistan,kurdistan,UNK
+Kurdish,40316,423,416,2900620;246612;2322115;3913469;40316;26793252;11125639;80777;5043324;14665;1038799;201936;7515928;4184636,http://en.wikipedia.org/wiki/Kurdish_languages,Kurdish languages,kurdish-languages,kurdish-languages,UNK
+Kurdish,3913469,89,115,11125639;80777;6037917;3913469;40316;7515928,http://en.wikipedia.org/wiki/Kurdish_culture,Kurdish culture,kurdish-culture,kurdish-culture,UNK
+Erbakan,1328699,265,122,11125639;69680,http://en.wikipedia.org/wiki/Necmettin_Erbakan,Necmettin Erbakan,necmettin-erbakan,necmettin-erbakan,UNK

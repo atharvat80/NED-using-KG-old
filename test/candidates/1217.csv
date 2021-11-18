@@ -1,0 +1,204 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+WARSAW,32908,16012,776,32908;5321;9239;11867;112404;4329310;637432;74608;635098;3967014;11157563;11555574;15335256;260198;260197;122528;28878684;1028194;22975;22936;129059;250204;771860;867865;4776201;31717,http://en.wikipedia.org/wiki/Warsaw,Warsaw,warsaw,warsaw,GPE
+WARSAW,115116,159,237,137739,"http://en.wikipedia.org/wiki/Warsaw,_Kentucky","Warsaw, Kentucky",warsaw-kentucky,warsaw-kentucky,GPE
+WARSAW,41212449,1,11,129059,http://en.wikipedia.org/wiki/Warsaw_Hotel,Warsaw Hotel,warsaw-hotel,warsaw-hotel,UNK
+WARSAW,120103,57,74,141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Goodhue_County,_Minnesota","Warsaw Township, Goodhue County, Minnesota",warsaw-township-goodhue-county-minnesota,warsaw-township-goodhue-county-minnesota,GPE
+WARSAW,8285297,1,5,,http://en.wikipedia.org/wiki/Warsaw_Bridge,Warsaw Bridge,warsaw-bridge,warsaw-bridge,UNK
+WARSAW,3495456,1,4,,http://en.wikipedia.org/wiki/Little_Warsaw,Little Warsaw,little-warsaw,little-warsaw,PER
+WARSAW,10389748,59,74,141311;111265,"http://en.wikipedia.org/wiki/Warsaw_Township,_Hancock_County,_Illinois","Warsaw Township, Hancock County, Illinois",warsaw-township-hancock-county-illinois,warsaw-township-hancock-county-illinois,UNK
+WARSAW,141311,0,4,120103;10389748;132787;121578,http://en.wikipedia.org/wiki/Warsaw_Township,Warsaw Township,warsaw-township,warsaw-township,GPE
+WARSAW,25139728,35,60,121578,"http://en.wikipedia.org/wiki/Warsaw,_Minnesota","Warsaw, Minnesota",warsaw-minnesota,warsaw-minnesota,UNK
+WARSAW,111265,98,81,10389748,"http://en.wikipedia.org/wiki/Warsaw,_Illinois","Warsaw, Illinois",warsaw-illinois,warsaw-illinois,GPE
+WARSAW,122528,199,188,32908,"http://en.wikipedia.org/wiki/Warsaw,_Missouri","Warsaw, Missouri",warsaw-missouri,warsaw-missouri,GPE
+WARSAW,260197,63,57,32908;260198,"http://en.wikipedia.org/wiki/Warsaw_(village),_New_York","Warsaw (village), New York",warsaw-village-new-york,warsaw-village-new-york,GPE
+WARSAW,4091374,1,1,,http://en.wikipedia.org/wiki/Warsaw_Airport,Warsaw Airport,warsaw-airport,warsaw-airport,UNK
+WARSAW,112404,282,310,22936;32908,"http://en.wikipedia.org/wiki/Warsaw,_Indiana","Warsaw, Indiana",warsaw-indiana,warsaw-indiana,GPE
+WARSAW,11157563,624,221,22975;637432;32908,http://en.wikipedia.org/wiki/University_of_Warsaw,University of Warsaw,university-of-warsaw,university-of-warsaw,ORG
+WARSAW,22858084,238,243,,"http://en.wikipedia.org/wiki/Warsaw,_California","Warsaw, California",warsaw-california,warsaw-california,UNK
+WARSAW,3967014,139,60,32908;22975;22936,http://en.wikipedia.org/wiki/Warsaw_Philharmonic_Orchestra,Warsaw Philharmonic Orchestra,warsaw-philharmonic-orchestra,warsaw-philharmonic-orchestra,UNK
+WARSAW,18746673,0,1,,"http://en.wikipedia.org/wiki/Warsaw,_IN_µSA","Warsaw, IN µSA",warsaw-in-µsa,warsaw-in-µsa,PER
+WARSAW,127877,48,42,,"http://en.wikipedia.org/wiki/Warsaw,_North_Carolina","Warsaw, North Carolina",warsaw-north-carolina,warsaw-north-carolina,GPE
+WARSAW,129059,62,71,32908;41212449,"http://en.wikipedia.org/wiki/Warsaw,_Ohio","Warsaw, Ohio",warsaw-ohio,warsaw-ohio,GPE
+WARSAW,1028194,1,31,32908;22936,http://en.wikipedia.org/wiki/Warsaw_School_(mathematics),Warsaw School,warsaw-school,warsaw-school-mathematics,UNK
+WARSAW,260198,31,68,32908;260197;22936,"http://en.wikipedia.org/wiki/Warsaw,_New_York","Warsaw, New York",warsaw-new-york,warsaw-new-york,GPE
+WARSAW,137739,326,277,115116,"http://en.wikipedia.org/wiki/Warsaw,_Virginia","Warsaw, Virginia",warsaw-virginia,warsaw-virginia,GPE
+WARSAW,121578,38,58,25139728;141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Rice_County,_Minnesota","Warsaw Township, Rice County, Minnesota",warsaw-township-rice-county-minnesota,warsaw-township-rice-county-minnesota,GPE
+WARSAW,4244153,30,36,22975;22936,"http://en.wikipedia.org/wiki/Warsaw,_North_Dakota","Warsaw, North Dakota",warsaw-north-dakota,warsaw-north-dakota,GPE
+WARSAW,132787,45,56,141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Jefferson_County,_Pennsylvania","Warsaw Township, Jefferson County, Pennsylvania",warsaw-township-jefferson-county-pennsylvania,warsaw-township-jefferson-county-pennsylvania,GPE
+WARSAW,867865,785,470,32908;22975;4329310,http://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising,Warsaw Ghetto Uprising,warsaw-ghetto-uprising,warsaw-ghetto-uprising,UNK
+WARSAW,10280546,1,1,,"http://en.wikipedia.org/wiki/Warsaw,_IN_μSA","Warsaw, IN μSA",warsaw-in-μsa,warsaw-in-μsa,PER
+Polish,22936,115021,1647,5321;5322;9239;32805561;11867;13083;28878684;4244153;3074893;22975;22936;31717;41676124;32908;325070;13659804;49732;7037495;21493015;10339758;637432;74608;635098;18972507;636823;10082478;11787932;31477385;40620438;390467;8929174;112404;365338;855087;1107413;11555574;150133;151873;34841465;42187354;9889109;4329310;15335256;9387653;12185856;1187515;15843786;3967014;1194702;1028194;771860;4689264;459244;729739;260198;250204,http://en.wikipedia.org/wiki/Poland,Poland,poland,poland,GPE
+Polish,8338304,6,8,,http://en.wikipedia.org/wiki/Polish_Mountain,Polish Mountain,polish-mountain,polish-mountain,UNK
+Polish,40620438,4,12,22936,http://en.wikipedia.org/wiki/Polish_International,Polish International,polish-international,polish-international,PER
+Polish,2447796,35,22,,http://en.wikipedia.org/wiki/Maxwell_Street_Polish,Maxwell Street Polish,maxwell-street-polish,maxwell-street-polish,UNK
+Polish,4329310,803,549,32908;22936;867865,http://en.wikipedia.org/wiki/Polish_resistance_movement_in_World_War_II,Polish resistance movement in World War II,polish-resistance-movement-in-world-war-ii,polish-resistance-movement-in-world-war-ii,UNK
+Polish,4776201,153,140,4776201;32908;4689264;11867,http://en.wikipedia.org/wiki/Polish_nationality_law,Polish nationality law,polish-nationality-law,polish-nationality-law,UNK
+Polish,220464,118,15,5757742,http://en.wikipedia.org/wiki/Polishing,Polishing,polishing,polishing,ORG
+Polish,9387653,8,12,22936,http://en.wikipedia.org/wiki/Polish_chicken,Polish chicken,polish-chicken,polish-chicken,UNK
+Polish,22975,9904,454,7037495;28878684;32908;4244153;2966446;5321;6343;3074893;22975;22936;1313740;10339758;771860;11867;13083;74608;867865;75971;635098;3967014;11157563;1194702;31717;11555574;4689264;636823,http://en.wikipedia.org/wiki/Polish_language,Polish language,polish-language,polish-language,UNK
+Polish,42187354,20,81,22936;2793759;11867,http://en.wikipedia.org/wiki/Polish_Party,Polish Party,polish-party,polish-party,UNK
+Polish,2966446,220,292,22975;7514548,http://en.wikipedia.org/wiki/Polish_Hill,Polish Hill,polish-hill,polish-hill,UNK
+Polish,11555574,12,225,22975;22936;32908,http://en.wikipedia.org/wiki/Polish_opera,Polish opera,polish-opera,polish-opera,GPE
+Polish,1313740,128,107,22975;3349006,http://en.wikipedia.org/wiki/Polish_Wikipedia,Polish Wikipedia,polish-wikipedia,polish-wikipedia,UNK
+Polish,15335256,26,41,32908;22936;11867,"http://en.wikipedia.org/wiki/Polish_Museum,_Rapperswil","Polish Museum, Rapperswil",polish-museum-rapperswil,polish-museum-rapperswil,UNK
+Polish,5757742,200,24,220464,http://en.wikipedia.org/wiki/Polishing_(metalworking),Polishing,polishing,polishing-metalworking,UNK
+Polish,1107413,479,531,22936,http://en.wikipedia.org/wiki/Polish_Club,Polish Club,polish-club,polish-club,PER
+Zywiec,365338,21,23,8929174;150133;4793292;390467;22936,http://en.wikipedia.org/wiki/Żywiec_Brewery,Żywiec Brewery,zywiec-brewery,zywiec-brewery,UNK
+Zywiec,390467,205,88,7037495;635098;32805561;150133;22936;11867;365338,http://en.wikipedia.org/wiki/Żywiec,Żywiec,zywiec,zywiec,GPE
+Zywiec,32805561,3,9,390467;22936,http://en.wikipedia.org/wiki/Żywiec_Lake,Żywiec Lake,zywiec-lake,zywiec-lake,UNK
+Zywiec,7037495,181,80,7037495;74608;22975;390467;22936,http://en.wikipedia.org/wiki/Żywiec_County,Żywiec County,zywiec-county,zywiec-county,GPE
+Reuters,18998750,9093,418,18998750;13058;2171552;31717,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750;31717,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Van Boxmeer,5868352,41,29,,http://en.wikipedia.org/wiki/John_Van_Boxmeer,John Van Boxmeer,john-van-boxmeer,john-van-boxmeer,PER
+Poland,22936,115021,1647,5321;5322;9239;32805561;11867;13083;28878684;4244153;3074893;22975;22936;31717;41676124;32908;325070;13659804;49732;7037495;21493015;10339758;637432;74608;635098;18972507;636823;10082478;11787932;31477385;40620438;390467;8929174;112404;365338;855087;1107413;11555574;150133;151873;34841465;42187354;9889109;4329310;15335256;9387653;12185856;1187515;15843786;3967014;1194702;1028194;771860;4689264;459244;729739;260198;250204,http://en.wikipedia.org/wiki/Poland,Poland,poland,poland,GPE
+Poland,126523,58,56,126255;141360,"http://en.wikipedia.org/wiki/Poland,_Herkimer_County,_New_York","Poland, Herkimer County, New York",poland-herkimer-county-new-york,poland-herkimer-county-new-york,GPE
+Poland,115861,87,98,,"http://en.wikipedia.org/wiki/Poland,_Maine","Poland, Maine",poland-maine,poland-maine,GPE
+Poland,37910099,204,218,,http://en.wikipedia.org/wiki/Poland_(sculpture),Poland,poland,poland-sculpture,UNK
+Poland,3074893,567,26,635098;22975;22936;3074893;636823,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1385–1569),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1385–1569,GPE
+Poland,28878684,182,266,1187515;28878684;22975;21493015;22936;11867;32908;5321,http://en.wikipedia.org/wiki/Geography_of_Poland,Geography of Poland,geography-of-poland,geography-of-poland,UNK
+Poland,10339758,3,14,22975;22936,"http://en.wikipedia.org/wiki/Poland,_Kiribati","Poland, Kiribati",poland-kiribati,poland-kiribati,GPE
+Poland,2521075,49,66,65865,"http://en.wikipedia.org/wiki/Poland_Township,_Mahoning_County,_Ohio","Poland Township, Mahoning County, Ohio",poland-township-mahoning-county-ohio,poland-township-mahoning-county-ohio,GPE
+Poland,13083,591,81,1194702;22975;22936;11867;10082478,http://en.wikipedia.org/wiki/Greater_Poland,Greater Poland,greater-poland,greater-poland,GPE
+Poland,17716699,63,83,,"http://en.wikipedia.org/wiki/Poland,_Indiana","Poland, Indiana",poland-indiana,poland-indiana,GPE
+Poland,771860,2358,602,74608;9239;729739;33166;32908;250204;22975;31717;22936;11867;4689264,http://en.wikipedia.org/wiki/Poland_national_football_team,Poland national football team,poland-national-football-team,poland-national-football-team,UNK
+Poland,141360,0,2,126255;126523,"http://en.wikipedia.org/wiki/Poland,_New_York","Poland, New York",poland-new-york,poland-new-york,UNK
+Poland,10082478,464,208,13083;13058;33166;22936;10082478,http://en.wikipedia.org/wiki/Flight_and_expulsion_of_Germans_from_Poland_during_and_after_World_War_II,Flight and expulsion of Germans from Poland during and after World War II,flight-and-expulsion-of-germans-from-poland-during-and-after-world-war-ii,flight-and-expulsion-of-germans-from-poland-during-and-after-world-war-ii,GPE
+Poland,14616196,30,41,,"http://en.wikipedia.org/wiki/Poland_Township,_Buena_Vista_County,_Iowa","Poland Township, Buena Vista County, Iowa",poland-township-buena-vista-county-iowa,poland-township-buena-vista-county-iowa,GPE
+Poland,3965238,1,6,,http://en.wikipedia.org/wiki/Little_Poland,Little Poland,little-poland,little-poland,GPE
+Poland,65865,89,70,2521075,"http://en.wikipedia.org/wiki/Poland,_Ohio","Poland, Ohio",poland-ohio,poland-ohio,GPE
+Poland,12552161,8,9,,http://en.wikipedia.org/wiki/Poland_China,Poland China,poland-china,poland-china,ORG
+Poland,636823,306,32,635098;22975;22936;3074893,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1025–1385),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1025–1385,GPE
+Poland,27482253,66,80,,"http://en.wikipedia.org/wiki/Poland,_Wisconsin","Poland, Wisconsin",poland-wisconsin,poland-wisconsin,GPE
+Poland,635098,9,135,636823;635098;32908;22975;390467;22936;3074893,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1916–18),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1916–18,GPE
+Poland,126255,72,81,126523;141360,"http://en.wikipedia.org/wiki/Poland,_Chautauqua_County,_New_York","Poland, Chautauqua County, New York",poland-chautauqua-county-new-york,poland-chautauqua-county-new-york,GPE
+Europe,9239,51349,1032,5321;5322;17891966;9239;23620443;11867;13058;158019;3499945;22936;150133;151873;152256;20272716;31717;8113702;32908;13530298;21493015;628999;1187515;358518;755102;87187;335703;20611325;771860;4689264;459244;13562519;250204,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+Europe,87187,825,370,5805422;87187;31717;11867;9239,http://en.wikipedia.org/wiki/European_Court_of_Justice,European Court of Justice,european-court-of-justice,european-court-of-justice,ORG
+Europe,17891966,192,242,9239,http://en.wikipedia.org/wiki/Europe_(anthem),Europe,europe,europe-anthem,UNK
+Europe,1659361,12,34,,http://en.wikipedia.org/wiki/European_Patent_Litigation_Agreement,European Patent Litigation Agreement,european-patent-litigation-agreement,european-patent-litigation-agreement,UNK
+Europe,15132000,13,28,,"http://en.wikipedia.org/wiki/Old_Europe,_New_Europe,_Core_Europe","Old Europe, New Europe, Core Europe",old-europe-new-europe-core-europe,old-europe-new-europe-core-europe,UNK
+Europe,2826281,77,84,,http://en.wikipedia.org/wiki/Europe_GAA,Europe GAA,europe-gaa,europe-gaa,GPE
+Europe,7514548,108,319,31717;2966446,http://en.wikipedia.org/wiki/Europe_Street,Europe Street,europe-street,europe-street,GPE
+Europe,855087,344,374,31717;22936;11867;5321;4689264,http://en.wikipedia.org/wiki/Europe_(dinghy),Europe,europe,europe-dinghy,UNK
+Europe,11787932,277,273,31717;22936;11867;5321,http://en.wikipedia.org/wiki/European_driving_licence,European driving licence,european-driving-licence,european-driving-licence,UNK
+Europe,1187515,306,383,13562519;21493015;31717;22936;11867;5321;9239;1187515;28878684;13530298;459244,http://en.wikipedia.org/wiki/Geography_of_Europe,Geography of Europe,geography-of-europe,geography-of-europe,UNK
+Europe,5805422,293,153,87187,http://en.wikipedia.org/wiki/European_Union_Microsoft_competition_case,European Union Microsoft competition case,european-union-microsoft-competition-case,european-union-microsoft-competition-case,ORG
+Europe,14051635,1,6,,http://en.wikipedia.org/wiki/DJ_Europe,DJ Europe,dj-europe,dj-europe,UNK
+Europe,628999,133,18,9239;20272716,"http://en.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa","Europe, the Middle East and Africa",europe-the-middle-east-and-africa,europe-the-middle-east-and-africa,UNK
+Europe,304821,111,138,31717;304821,http://en.wikipedia.org/wiki/2003_European_heat_wave,2003 European heat wave,2003-european-heat-wave,2003-european-heat-wave,UNK
+Europe,755102,85,158,9239;13530298,http://en.wikipedia.org/wiki/Old_Europe_(archaeology),Old Europe,old-europe,old-europe-archaeology,UNK
+Europe,358518,602,118,358518;9239,http://en.wikipedia.org/wiki/Europe_(band),Europe,europe,europe-band,UNK
+Europe,12586001,1,13,,http://en.wikipedia.org/wiki/Europe_Lake,Europe Lake,europe-lake,europe-lake,UNK
+Europe,503907,29,46,,http://en.wikipedia.org/wiki/Europe_(Paris_Métro),Europe,europe,europe-paris-metro,UNK
+Europe,13562519,17,304,9239;1187515;20611325;459244,http://en.wikipedia.org/wiki/Greater_Europe,Greater Europe,greater-europe,greater-europe,ORG
+Europe,406269,18,53,31717;11867,http://en.wikipedia.org/wiki/Old_Europe_(politics),Old Europe,old-europe,old-europe-politics,ORG
+Europe,20272716,1,11,20272716;628999;9239,"http://en.wikipedia.org/wiki/Europe,_Middle_East,_Africa_and_Latin_America","Europe, Middle East, Africa and Latin America",europe-middle-east-africa-and-latin-america,europe-middle-east-africa-and-latin-america,UNK
+Europe,13659804,72,126,5321;22936;11867,http://en.wikipedia.org/wiki/European_Youth_Chess_Championship,European Youth Chess Championship,european-youth-chess-championship,european-youth-chess-championship,PER
+Europe,26450398,2,11,31717,http://en.wikipedia.org/wiki/Europe/London,Europe/London,europe-london,europe-london,PER
+Europe,3499945,3,21,9239,http://en.wikipedia.org/wiki/Europe_(story),Europe,europe,europe-story,UNK
+Europe,23620443,13,20,9239,http://en.wikipedia.org/wiki/Europe_(magazine),Europe,europe,europe-magazine,UNK
+Germany,11867,167535,1367,5321;5322;9239;11867;13083;13058;28878684;6108409;22975;22936;2793759;31717;8113702;33166;32908;13659804;49732;27138927;4776201;5064191;21493015;87187;11787932;390467;11788963;883816;855087;131046;2118061;406269;151873;42187354;15335256;190797;12185856;1187515;480153;771860;4689264;1490969;729739;3190225;250204,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+Germany,26004346,1,6,,http://en.wikipedia.org/wiki/Germany_Foundation,Germany Foundation,germany-foundation,germany-foundation,UNK
+Germany,11159076,19,29,33166,"http://en.wikipedia.org/wiki/Germany,_Pale_Mother","Germany, Pale Mother",germany-pale-mother,germany-pale-mother,UNK
+Germany,40919574,2,12,40919574,"http://en.wikipedia.org/wiki/Germany,_Texas","Germany, Texas",germany-texas,germany-texas,UNK
+Germany,21493015,248,403,13058;33166;21493015;22936;11867;1490969;5321;9239;190797;1187515;28878684,http://en.wikipedia.org/wiki/Geography_of_Germany,Geography of Germany,geography-of-germany,geography-of-germany,UNK
+Germany,13058,10184,611,1490969;3190225;33166;21493015;5322;9239;18998750;250204;11867;1810963;13058;151873;31717;10082478,http://en.wikipedia.org/wiki/East_Germany,East Germany,east-germany,east-germany,GPE
+Germany,1490969,272,272,13058;33166;21493015;11867;1490969,http://en.wikipedia.org/wiki/Religion_in_Germany,Religion in Germany,religion-in-germany,religion-in-germany,UNK
+Germany,6108409,53,68,11867,http://en.wikipedia.org/wiki/Germany_(Epcot),Germany,germany,germany-epcot,UNK
+Germany,1271511,0,0,,"http://en.wikipedia.org/wiki/Little_Germany,_Ontario","Little Germany, Ontario",little-germany-ontario,little-germany-ontario,UNK
+Germany,884716,1,4,8113702,http://en.wikipedia.org/wiki/Little_Germany,Little Germany,little-germany,little-germany,UNK
+Germany,27138927,71,105,27138927;11867,http://en.wikipedia.org/wiki/The_Biggest_Loser_Germany,The Biggest Loser Germany,the-biggest-loser-germany,the-biggest-loser-germany,ORG
+Germany,131046,77,98,13530298;11867,"http://en.wikipedia.org/wiki/Germany_Township,_Adams_County,_Pennsylvania","Germany Township, Adams County, Pennsylvania",germany-township-adams-county-pennsylvania,germany-township-adams-county-pennsylvania,GPE
+Germany,33166,17376,488,1490969;21493015;5322;11867;1810963;13058;11159076;3190225;250204;771860;151873;31717;10082478,http://en.wikipedia.org/wiki/West_Germany,West Germany,west-germany,west-germany,GPE
+Germany,2793759,83,197,409543;42187354;11867,http://en.wikipedia.org/wiki/Communist_Party_of_Germany_(1990),Communist Party of Germany,communist-party-of-germany,communist-party-of-germany-1990,UNK
+Germany,250204,3856,681,9239;729739;33166;32908;250204;771860;11867;13058;22936,http://en.wikipedia.org/wiki/Germany_national_football_team,Germany national football team,germany-national-football-team,germany-national-football-team,UNK
+Germany,8113702,170,233,9239;884716;11867,"http://en.wikipedia.org/wiki/Little_Germany,_Bradford","Little Germany, Bradford",little-germany-bradford,little-germany-bradford,UNK
+Germany,11947058,137,165,,http://en.wikipedia.org/wiki/Germany_Valley,Germany Valley,germany-valley,germany-valley,UNK
+Germany,883816,158,187,11867,"http://en.wikipedia.org/wiki/Little_Germany,_Manhattan","Little Germany, Manhattan",little-germany-manhattan,little-germany-manhattan,UNK
+Germany,3190225,341,109,13058;33166;11867,http://en.wikipedia.org/wiki/Kingdom_of_Germany,Kingdom of Germany,kingdom-of-germany,kingdom-of-germany,GPE
+Germany,5064191,123,136,11867,"http://en.wikipedia.org/wiki/Germany,_Year_Zero","Germany, Year Zero",germany-year-zero,germany-year-zero,UNK
+Germany,41476893,1,36,,http://en.wikipedia.org/wiki/Germany_Kent,Germany Kent,germany-kent,germany-kent,PER
+Britain,31717,184306,1536,5321;5322;9239;11867;13058;13525;22975;22936;31717;33166;32908;49732;304821;65836;87187;7514548;18950948;8007505;11787932;26450398;18998750;855087;17271126;412419;158019;409543;406269;151873;152256;13530298;1187515;480153;1194702;771860;2171552;4689264,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+Britain,38279445,148,154,,"http://en.wikipedia.org/wiki/Little_Britain,_Pennsylvania","Little Britain, Pennsylvania",little-britain-pennsylvania,little-britain-pennsylvania,GPE
+Britain,3365792,82,95,,"http://en.wikipedia.org/wiki/Britain,_Virginia","Britain, Virginia",britain-virginia,britain-virginia,GPE
+Britain,25191544,6,11,,http://en.wikipedia.org/wiki/Mr._Britain,Mr. Britain,mr-britain,mr-britain,UNK
+Britain,12386536,24,23,,"http://en.wikipedia.org/wiki/Little_Britain,_London","Little Britain, London",little-britain-london,little-britain-london,GPE
+Britain,412419,404,297,31717;412419,http://en.wikipedia.org/wiki/Captain_Britain,Captain Britain,captain-britain,captain-britain,UNK
+Britain,480153,370,113,31717;11867;4689264,http://en.wikipedia.org/wiki/Little_Britain,Little Britain,little-britain,little-britain,UNK
+Britain,158019,6631,401,13530298;158019;9239;17271126;152256;13525;31717;4689264,http://en.wikipedia.org/wiki/Kingdom_of_Great_Britain,Kingdom of Great Britain,kingdom-of-great-britain,kingdom-of-great-britain,GPE
+Britain,152256,8595,755,13530298;158019;9239;17271126;152256;13525;31717,http://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland,United Kingdom of Great Britain and Ireland,united-kingdom-of-great-britain-and-ireland,united-kingdom-of-great-britain-and-ireland,GPE
+Britain,17271126,68,172,158019;13530298;152256;31717;13525,http://en.wikipedia.org/wiki/Britain_(placename),Britain,britain,britain-placename,UNK
+Britain,1185144,86,82,,"http://en.wikipedia.org/wiki/Little_Britain,_New_York","Little Britain, New York",little-britain-new-york,little-britain-new-york,UNK
+Britain,409543,134,241,31717;2793759;5322,http://en.wikipedia.org/wiki/New_Communist_Party_of_Britain,New Communist Party of Britain,new-communist-party-of-britain,new-communist-party-of-britain,UNK
+Britain,20823802,57,65,,"http://en.wikipedia.org/wiki/Britain,_Australia_and_the_Bomb","Britain, Australia and the Bomb",britain-australia-and-the-bomb,britain-australia-and-the-bomb,UNK
+Britain,7954202,68,60,,"http://en.wikipedia.org/wiki/Little_Britain,_Ontario","Little Britain, Ontario",little-britain-ontario,little-britain-ontario,UNK
+Britain,13525,2496,556,13530298;152256;13525;158019;31717;17271126,http://en.wikipedia.org/wiki/Roman_Britain,Roman Britain,roman-britain,roman-britain,ORG
+Britain,13530298,15528,510,1187515;9239;755102;13525;158019;131046;17271126;152256;31717,http://en.wikipedia.org/wiki/Great_Britain,Great Britain,great-britain,great-britain,UNK
+Heineken,150133,174,139,9239;22936;325070;365338;4793292;390467,http://en.wikipedia.org/wiki/Heineken_International,Heineken International,heineken-international,heineken-international,UNK
+Heineken,4793292,359,24,150133;365338,http://en.wikipedia.org/wiki/Heineken,Heineken,heineken,heineken,UNK
+Carlsberg,325070,462,165,8929174;37300615;22936;2473950;150133;22520728;9889109;11520550,http://en.wikipedia.org/wiki/Carlsberg_Group,Carlsberg Group,carlsberg-group,carlsberg-group,UNK
+Carlsberg,37300615,59,79,325070;22520728,http://en.wikipedia.org/wiki/Carlsberg_Museum,Carlsberg Museum,carlsberg-museum,carlsberg-museum,UNK
+Carlsberg,11788963,56,99,11788963;11867,"http://en.wikipedia.org/wiki/Carlsberg,_Germany","Carlsberg, Germany",carlsberg-germany,carlsberg-germany,UNK
+Carlsberg,2473950,3,6,325070,http://en.wikipedia.org/wiki/Carlsberg_Croatia,Carlsberg Croatia,carlsberg-croatia,carlsberg-croatia,UNK
+Carlsberg,22520728,177,248,37300615;22520728;325070;11520550,http://en.wikipedia.org/wiki/Carlsberg_(district),Carlsberg,carlsberg,carlsberg-district,UNK
+Carlsberg,11520550,61,10,325070;22520728,http://en.wikipedia.org/wiki/Carlsberg_Foundation,Carlsberg Foundation,carlsberg-foundation,carlsberg-foundation,UNK
+Okocim,9889109,18,27,8929174;325070;22936,http://en.wikipedia.org/wiki/Okocim,Okocim,okocim,okocim,GPE
+Okocim,8929174,13,25,365338;9889109;325070;22936,http://en.wikipedia.org/wiki/Okocim_Brewery,Okocim Brewery,okocim-brewery,okocim-brewery,PER
+SAB,419331,107,89,31477385,http://en.wikipedia.org/wiki/South_African_Breweries,South African Breweries,south-african-breweries,south-african-breweries,UNK
+SAB,52268,157,96,,http://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre,Sabra and Shatila massacre,sabra-and-shatila-massacre,sabra-and-shatila-massacre,UNK
+SAB,587519,19,24,,http://en.wikipedia.org/wiki/Joseph_Sabine,Joseph Sabine,joseph-sabine,joseph-sabine,PER
+SAB,75971,505,164,22975,http://en.wikipedia.org/wiki/Sabre,Sabre,sabre,sabre,UNK
+SAB,1146980,248,335,,http://en.wikipedia.org/wiki/Sabarmati_Ashram,Sabarmati Ashram,sabarmati-ashram,sabarmati-ashram,ORG
+Lech,1194702,256,228,13083;22975;31717;22936;151873;34841465;5321;41676124,"http://en.wikipedia.org/wiki/Lech,_Čech,_and_Rus","Lech, Čech, and Rus",lech-cech-and-rus,lech-cech-and-rus,UNK
+Lech,2118061,7,134,190797;2118061;11867,http://en.wikipedia.org/wiki/Lech_(Vorarlberg),Lech,lech,lech-vorarlberg,UNK
+Lech,34841465,2,13,1194702;22936,http://en.wikipedia.org/wiki/Lech_(Bohemian_prince),Lech,lech,lech-bohemian-prince,PER
+Lech,31477385,10,35,419331;74608;22936,http://en.wikipedia.org/wiki/Lech_Brewery_Wielkopolski,Lech Brewery Wielkopolski,lech-brewery-wielkopolski,lech-brewery-wielkopolski,UNK
+Lech,41676124,70,76,1194702;22936,http://en.wikipedia.org/wiki/Lech_II,Lech II,lech-ii,lech-ii,UNK
+Lech,21910342,0,20,,http://en.wikipedia.org/wiki/Lech_(demo),Lech,lech,lech-demo,UNK
+Lech,190797,174,103,2118061;21493015;11867,http://en.wikipedia.org/wiki/Lech_(river),Lech,lech,lech-river,UNK
+Lech,15843786,0,11,22936,http://en.wikipedia.org/wiki/Lech_(airship),Lech,lech,lech-airship,UNK
+Lech,637432,490,211,22936;32908;5321;11157563,http://en.wikipedia.org/wiki/Lech_Kaczyński,Lech Kaczyński,lech-kaczynski,lech-kaczynski,PER
+Tychy,74608,212,109,7037495;771860;22975;22936;31477385;32908;42408105,http://en.wikipedia.org/wiki/Tychy,Tychy,tychy,tychy,GPE
+Tychy,42408105,2,5,74608,http://en.wikipedia.org/wiki/Tychy_Brewery,Tychy Brewery,tychy-brewery,tychy-brewery,UNK
+Australia,4689264,136194,1016,9239;11867;7214224;22975;22936;31717;49732;4776201;65836;18950948;26451470;26451467;26451463;26451498;26451490;855087;620967;158019;151873;450955;185052;480153;27960950;20611325;771860;4689264;243669;984508,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australia,450955,49,106,4689264,http://en.wikipedia.org/wiki/Gun_politics_in_Australia,Gun politics in Australia,gun-politics-in-australia,gun-politics-in-australia,UNK
+Australia,49732,126,120,4689264;31717;22936;11867;5321,http://en.wikipedia.org/wiki/Australia_Group,Australia Group,australia-group,australia-group,ORG
+Australia,26451467,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Sydney,Australia/Sydney,australia-sydney,australia-sydney,PER
+Australia,8007505,169,194,31717,http://en.wikipedia.org/wiki/Australia_Station,Australia Station,australia-station,australia-station,ORG
+Australia,23335381,10,15,,http://en.wikipedia.org/wiki/Australia_EP,Australia EP,australia-ep,australia-ep,UNK
+Australia,185052,236,108,4689264,http://en.wikipedia.org/wiki/Australia_Party,Australia Party,australia-party,australia-party,ORG
+Australia,33114696,6,16,,http://en.wikipedia.org/wiki/For_Australia,For Australia,for-australia,for-australia,UNK
+Australia,20214173,19,31,,http://en.wikipedia.org/wiki/Australia_(schooner),Australia,australia,australia-schooner,UNK
+Australia,38961514,2,7,,http://en.wikipedia.org/wiki/Mr._Australia,Mr. Australia,mr-australia,mr-australia,ORG
+Australia,65836,173,290,4689264;31717,http://en.wikipedia.org/wiki/Republicanism_in_Australia,Republicanism in Australia,republicanism-in-australia,republicanism-in-australia,UNK
+Australia,26451490,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Adelaide,Australia/Adelaide,australia-adelaide,australia-adelaide,PER
+Australia,984508,214,355,4689264,http://en.wikipedia.org/wiki/Internet_censorship_in_Australia,Internet censorship in Australia,internet-censorship-in-australia,internet-censorship-in-australia,UNK
+Australia,243669,51,155,4689264,http://en.wikipedia.org/wiki/Australia_II,Australia II,australia-ii,australia-ii,UNK
+Australia,42450678,37,51,,"http://en.wikipedia.org/wiki/Australia,_Mississippi","Australia, Mississippi",australia-mississippi,australia-mississippi,GPE
+Australia,620967,2240,477,4689264,http://en.wikipedia.org/wiki/Australia_national_rugby_union_team,Australia national rugby union team,australia-national-rugby-union-team,australia-national-rugby-union-team,UNK
+Australia,26451463,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Melbourne,Australia/Melbourne,australia-melbourne,australia-melbourne,PER
+Australia,27960950,4,21,4689264;27960950,http://en.wikipedia.org/wiki/MS_Australia,MS Australia,ms-australia,ms-australia,UNK
+Australia,7214224,5,22,4689264,http://en.wikipedia.org/wiki/National_Police_Memorial_Australia,National Police Memorial Australia,national-police-memorial-australia,national-police-memorial-australia,UNK
+Australia,10680720,15,21,,http://en.wikipedia.org/wiki/Australia_Hotel,Australia Hotel,australia-hotel,australia-hotel,UNK
+Australia,1460635,58,63,,"http://en.wikipedia.org/wiki/Wittenoom,_Western_Australia","Wittenoom, Western Australia",wittenoom-western-australia,wittenoom-western-australia,UNK
+Australia,37398196,0,1,,http://en.wikipedia.org/wiki/Australia_(KA-5),Australia,australia,australia-ka-5,PER
+Australia,26451470,2,10,4689264,http://en.wikipedia.org/wiki/Australia/Brisbane,Australia/Brisbane,australia-brisbane,australia-brisbane,PER
+Australia,42585823,126,145,,http://en.wikipedia.org/wiki/Australia_(Modern_Family),Australia,australia,australia-modern-family,UNK
+Australia,18950948,203,272,4689264;31717;18950948;20611325,http://en.wikipedia.org/wiki/Geography_of_Australia,Geography of Australia,geography-of-australia,geography-of-australia,UNK
+Australia,26451498,2,9,4689264,http://en.wikipedia.org/wiki/Australia/Perth,Australia/Perth,australia-perth,australia-perth,PER
+Australia,20611325,466,326,13562519;18950948;9239;4689264;20611325,http://en.wikipedia.org/wiki/Australia_(continent),Australia,australia,australia-continent,UNK
+EB,14615630,37,28,25310167,http://en.wikipedia.org/wiki/EB-5_visa,EB-5 visa,eb-5-visa,eb-5-visa,UNK
+EB,25310167,30,32,14615630,http://en.wikipedia.org/wiki/EB-1_visa,EB-1 visa,eb-1-visa,eb-1-visa,PER
+EB,1313957,69,58,,http://en.wikipedia.org/wiki/EMC_EA/EB,EMC EA/EB,emc-ea-eb,emc-ea-eb,UNK
+Czech Republic,5321,46127,800,21493015;5321;5322;12185856;6343;1187515;9239;11867;1810963;637432;3861344;1194702;335703;28878684;22975;22936;151873;31717;459244;729739;32908;11787932;13659804;855087;49732,http://en.wikipedia.org/wiki/Czech_Republic,Czech Republic,czech-republic,czech-republic,GPE
+Czech Republic,729739,1240,491,6343;250204;771860;22936;11867;5321;5322;729739,http://en.wikipedia.org/wiki/Czech_Republic_national_football_team,Czech Republic national football team,czech-republic-national-football-team,czech-republic-national-football-team,ORG
+Czech,5321,46127,800,21493015;5321;5322;12185856;6343;1187515;9239;11867;1810963;637432;3861344;1194702;335703;28878684;22975;22936;151873;31717;459244;729739;32908;11787932;13659804;855087;49732,http://en.wikipedia.org/wiki/Czech_Republic,Czech Republic,czech-republic,czech-republic,GPE
+Czech,3861344,22,56,5321;5322,http://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog,Czechoslovakian Wolfdog,czechoslovakian-wolfdog,czechoslovakian-wolfdog,UNK
+Czech,5322,17420,257,729739;33166;5321;6343;9239;11867;1810963;13058;3861344;335703;409543;22936;151873;31717;459244,http://en.wikipedia.org/wiki/Czechoslovakia,Czechoslovakia,czechoslovakia,czechoslovakia,GPE
+Czech,6343,4508,375,335703;729739;3349006;1810963;151873;5321;5322;6343;22975,http://en.wikipedia.org/wiki/Czech_language,Czech language,czech-language,czech-language,UNK
+Czech,3349006,107,103,1313740;6343;3349006,http://en.wikipedia.org/wiki/Czech_Wikipedia,Czech Wikipedia,czech-wikipedia,czech-wikipedia,UNK
+Czech,1810963,476,232,13058;33166;6343;5321;5322,http://en.wikipedia.org/wiki/Czechoslovak_Socialist_Republic,Czechoslovak Socialist Republic,czechoslovak-socialist-republic,czechoslovak-socialist-republic,GPE
+Czech,12185856,3,63,5321;22936;11867,http://en.wikipedia.org/wiki/Czech_International,Czech International,czech-international,czech-international,UNK
+Czech,151873,2051,225,13058;5321;5322;9239;33166;6343;1194702;31717;22936;11867;4689264,http://en.wikipedia.org/wiki/Czechs,Czechs,czechs,czechs,UNK
+Czech,18972507,48,57,22936,"http://en.wikipedia.org/wiki/Czech,_Łódź_Voivodeship","Czech, Łódź Voivodeship",czech-lodz-voivodeship,czech-lodz-voivodeship,GPE
+Czech,335703,476,361,6343;5321;5322;9239,http://en.wikipedia.org/wiki/Czech_Airlines,Czech Airlines,czech-airlines,czech-airlines,ORG
+CEFTA,459244,169,228,9239;1187515;13562519;22936;459244;5321;5322,http://en.wikipedia.org/wiki/Central_European_Free_Trade_Agreement,Central European Free Trade Agreement,central-european-free-trade-agreement,central-european-free-trade-agreement,UNK

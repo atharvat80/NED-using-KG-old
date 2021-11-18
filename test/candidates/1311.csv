@@ -1,0 +1,33 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+ALBUQUERQUE,51278,3556,449,436095;10903844;964545;3206605;2929310;404570;1313940;51278;3442539;8661403;21649;1185364;7322029,"http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico","Albuquerque, New Mexico",albuquerque-new-mexico,albuquerque-new-mexico,GPE
+ALBUQUERQUE,964545,79,99,436095;51278,http://en.wikipedia.org/wiki/USS_Albuquerque_(SSN-706),USS Albuquerque,uss-albuquerque,uss-albuquerque-ssn-706,UNK
+ALBUQUERQUE,1576,215,173,,http://en.wikipedia.org/wiki/Afonso_de_Albuquerque,Afonso de Albuquerque,afonso-de-albuquerque,afonso-de-albuquerque,PER
+ALBUQUERQUE,7322029,32,14,51278;21649,http://en.wikipedia.org/wiki/Albuquerque_Museum,Albuquerque Museum,albuquerque-museum,albuquerque-museum,UNK
+ALBUQUERQUE,1313940,20,11,8661403;51278;404570,http://en.wikipedia.org/wiki/University_of_Albuquerque,University of Albuquerque,university-of-albuquerque,university-of-albuquerque,UNK
+ALBUQUERQUE,3442539,138,193,436095;51278,http://en.wikipedia.org/wiki/USS_Albuquerque_(PF-7),USS Albuquerque,uss-albuquerque,uss-albuquerque-pf-7,UNK
+ALBUQUERQUE,2929310,217,9,51278;21649,http://en.wikipedia.org/wiki/Albuquerque_Journal,Albuquerque Journal,albuquerque-journal,albuquerque-journal,ORG
+ALBUQUERQUE,436095,4,6,51278;964545;3442539,http://en.wikipedia.org/wiki/USS_Albuquerque,USS Albuquerque,uss-albuquerque,uss-albuquerque,UNK
+N.M.,21649,11605,803,10903844;191146;191144;404570;51278;21649;1185364;7322029;2929310;8661403;14385107,http://en.wikipedia.org/wiki/New_Mexico,New Mexico,new-mexico,new-mexico,UNK
+N.M.,696325,7,21,,http://en.wikipedia.org/wiki/Nm_(Unix),Nm,nm,nm-unix,UNK
+New Mexico,21649,11605,803,10903844;191146;191144;404570;51278;21649;1185364;7322029;2929310;8661403;14385107,http://en.wikipedia.org/wiki/New_Mexico,New Mexico,new-mexico,new-mexico,UNK
+New Mexico,17392127,48,60,,"http://en.wikipedia.org/wiki/New_Mexico,_Maryland","New Mexico, Maryland",new-mexico-maryland,new-mexico-maryland,GPE
+New Mexico,191144,7,11,1185364;21649;191146,http://en.wikipedia.org/wiki/USS_New_Mexico,USS New Mexico,uss-new-mexico,uss-new-mexico,UNK
+New Mexico,10903844,17,185,51278;21649,http://en.wikipedia.org/wiki/New_Mexico_Airlines,New Mexico Airlines,new-mexico-airlines,new-mexico-airlines,ORG
+New Mexico,191146,105,96,21649;191144,http://en.wikipedia.org/wiki/USS_New_Mexico_(BB-40),USS New Mexico,uss-new-mexico,uss-new-mexico-bb-40,UNK
+New Mexico,1185364,35,52,8661403;51278;21649;191144,http://en.wikipedia.org/wiki/USS_New_Mexico_(SSN-779),USS New Mexico,uss-new-mexico,uss-new-mexico-ssn-779,UNK
+New Mexico,404570,1844,256,21649;404570;1313940;51278,http://en.wikipedia.org/wiki/University_of_New_Mexico,University of New Mexico,university-of-new-mexico,university-of-new-mexico,ORG
+St Pius X High School,1897828,32,50,3206605,http://en.wikipedia.org/wiki/St._Pius_X_High_School_(Ottawa),St. Pius X High School,st-pius-x-high-school,st-pius-x-high-school-ottawa,UNK
+St Pius X High School,8095645,87,92,3206605,"http://en.wikipedia.org/wiki/St._Pius_X_High_School_(Houston,_Texas)",St. Pius X High School,st-pius-x-high-school,st-pius-x-high-school-houston-texas,ORG
+St Pius X High School,6649065,111,28,,"http://en.wikipedia.org/wiki/St._Pius_X_High_School_(Festus,_Missouri)",St. Pius X High School,st-pius-x-high-school,st-pius-x-high-school-festus-missouri,UNK
+St Pius X High School,42496602,1,9,,"http://en.wikipedia.org/wiki/St._Pius_X_High_School,_Mumbai","St. Pius X High School, Mumbai",st-pius-x-high-school-mumbai,st-pius-x-high-school-mumbai,ORG
+St Pius X High School,8661403,47,46,8661403;1313940;14385107;1185364;51278;3206605;21649,http://en.wikipedia.org/wiki/St._Pius_X_High_School_(Albuquerque),St. Pius X High School,st-pius-x-high-school,st-pius-x-high-school-albuquerque,ORG
+St Pius X High School,3206605,0,14,8095645;1897828;8661403;51278,http://en.wikipedia.org/wiki/St._Pius_X_High_School,St. Pius X High School,st-pius-x-high-school,st-pius-x-high-school,ORG
+Albuquerque,51278,3556,449,436095;10903844;964545;3206605;2929310;404570;1313940;51278;3442539;8661403;21649;1185364;7322029,"http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico","Albuquerque, New Mexico",albuquerque-new-mexico,albuquerque-new-mexico,GPE
+Albuquerque,964545,79,99,436095;51278,http://en.wikipedia.org/wiki/USS_Albuquerque_(SSN-706),USS Albuquerque,uss-albuquerque,uss-albuquerque-ssn-706,UNK
+Albuquerque,1576,215,173,,http://en.wikipedia.org/wiki/Afonso_de_Albuquerque,Afonso de Albuquerque,afonso-de-albuquerque,afonso-de-albuquerque,PER
+Albuquerque,7322029,32,14,51278;21649,http://en.wikipedia.org/wiki/Albuquerque_Museum,Albuquerque Museum,albuquerque-museum,albuquerque-museum,UNK
+Albuquerque,1313940,20,11,8661403;51278;404570,http://en.wikipedia.org/wiki/University_of_Albuquerque,University of Albuquerque,university-of-albuquerque,university-of-albuquerque,UNK
+Albuquerque,3442539,138,193,436095;51278,http://en.wikipedia.org/wiki/USS_Albuquerque_(PF-7),USS Albuquerque,uss-albuquerque,uss-albuquerque-pf-7,UNK
+Albuquerque,2929310,217,9,51278;21649,http://en.wikipedia.org/wiki/Albuquerque_Journal,Albuquerque Journal,albuquerque-journal,albuquerque-journal,ORG
+Albuquerque,436095,4,6,51278;964545;3442539,http://en.wikipedia.org/wiki/USS_Albuquerque,USS Albuquerque,uss-albuquerque,uss-albuquerque,UNK
+New Mexico Activities Association,14385107,108,94,21649;8661403,http://en.wikipedia.org/wiki/New_Mexico_Activities_Association,New Mexico Activities Association,new-mexico-activities-association,new-mexico-activities-association,ORG

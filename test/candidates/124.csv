@@ -1,0 +1,48 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+INDONESIAN,14579,33512,439,212635;10573440;66906;18170761;15783711;14579;16275;9148874;7786306;1632552;1010736;37042;237564;15304101;24317092;55182;3957345,http://en.wikipedia.org/wiki/Indonesia,Indonesia,indonesia,indonesia,GPE
+INDONESIAN,1632552,73,112,14579;16275;212635,http://en.wikipedia.org/wiki/Indonesian_Airlines,Indonesian Airlines,indonesian-airlines,indonesian-airlines,ORG
+INDONESIAN,37042,2555,219,6572302;15783711;7786306;14579;212635;10573440;16275;2399593,http://en.wikipedia.org/wiki/Indonesian_language,Indonesian language,indonesian-language,indonesian-language,UNK
+INDONESIAN,9148874,263,265,14579,http://en.wikipedia.org/wiki/Indonesian_passport,Indonesian passport,indonesian-passport,indonesian-passport,UNK
+INDONESIAN,2399593,107,115,16275;37042;2399593,http://en.wikipedia.org/wiki/Indonesian_Wikipedia,Indonesian Wikipedia,indonesian-wikipedia,indonesian-wikipedia,UNK
+INDONESIAN,15783711,122,176,16275;37042;14579;66906;18170761,http://en.wikipedia.org/wiki/Indonesian_occupation_of_East_Timor,Indonesian occupation of East Timor,indonesian-occupation-of-east-timor,indonesian-occupation-of-east-timor,UNK
+INDONESIAN,7786306,128,105,14579;37042,http://en.wikipedia.org/wiki/Indonesian_Institute_of_Sciences,Indonesian Institute of Sciences,indonesian-institute-of-sciences,indonesian-institute-of-sciences,ORG
+INDONESIAN,18170761,62,173,16275;15783711;14579;66906;212635,http://en.wikipedia.org/wiki/Indonesian_killings_of_1965–66,Indonesian killings of 1965–66,indonesian-killings-of-1965–66,indonesian-killings-of-1965–66,UNK
+INDONESIAN,10573440,250,272,37042;14579,http://en.wikipedia.org/wiki/Indonesian_literature,Indonesian literature,indonesian-literature,indonesian-literature,UNK
+INDONESIAN,66906,1120,535,14579;212635;16275;15783711;18170761;35814685,http://en.wikipedia.org/wiki/Indonesian_National_Revolution,Indonesian National Revolution,indonesian-national-revolution,indonesian-national-revolution,UNK
+JAKARTA,16275,5918,554,6572302;212635;24317092;18170761;15783711;66906;1632552;37042;14579;55182;3957345;2399593,http://en.wikipedia.org/wiki/Jakarta,Jakarta,jakarta,jakarta,GPE
+JAKARTA,16866266,39,63,,http://en.wikipedia.org/wiki/Jakarta_(band),Jakarta,jakarta,jakarta-band,UNK
+JAKARTA,55182,142,126,14579;16275;55182,http://en.wikipedia.org/wiki/Jakarta_Project,Jakarta Project,jakarta-project,jakarta-project,UNK
+JAKARTA,29553338,75,60,,http://en.wikipedia.org/wiki/Jakarta_(mango),Jakarta,jakarta,jakarta-mango,UNK
+JAKARTA,24317092,30,77,14579;16275,http://en.wikipedia.org/wiki/Greater_Jakarta,Greater Jakarta,greater-jakarta,greater-jakarta,UNK
+JAKARTA,6572302,51,10,37042;16275,http://en.wikipedia.org/wiki/Jakarta_Bay,Jakarta Bay,jakarta-bay,jakarta-bay,UNK
+JAKARTA,24092727,3,13,,http://en.wikipedia.org/wiki/Jakarta_(DJ),Jakarta,jakarta,jakarta-dj,UNK
+JAKARTA,3957345,7,82,14579;16275,http://en.wikipedia.org/wiki/Jakarta_Tower,Jakarta Tower,jakarta-tower,jakarta-tower,UNK
+Indonesian,14579,33512,439,212635;10573440;66906;18170761;15783711;14579;16275;9148874;7786306;1632552;1010736;37042;237564;15304101;24317092;55182;3957345,http://en.wikipedia.org/wiki/Indonesia,Indonesia,indonesia,indonesia,GPE
+Indonesian,1632552,73,112,14579;16275;212635,http://en.wikipedia.org/wiki/Indonesian_Airlines,Indonesian Airlines,indonesian-airlines,indonesian-airlines,ORG
+Indonesian,37042,2555,219,6572302;15783711;7786306;14579;212635;10573440;16275;2399593,http://en.wikipedia.org/wiki/Indonesian_language,Indonesian language,indonesian-language,indonesian-language,UNK
+Indonesian,9148874,263,265,14579,http://en.wikipedia.org/wiki/Indonesian_passport,Indonesian passport,indonesian-passport,indonesian-passport,UNK
+Indonesian,2399593,107,115,16275;37042;2399593,http://en.wikipedia.org/wiki/Indonesian_Wikipedia,Indonesian Wikipedia,indonesian-wikipedia,indonesian-wikipedia,UNK
+Indonesian,15783711,122,176,16275;37042;14579;66906;18170761,http://en.wikipedia.org/wiki/Indonesian_occupation_of_East_Timor,Indonesian occupation of East Timor,indonesian-occupation-of-east-timor,indonesian-occupation-of-east-timor,UNK
+Indonesian,7786306,128,105,14579;37042,http://en.wikipedia.org/wiki/Indonesian_Institute_of_Sciences,Indonesian Institute of Sciences,indonesian-institute-of-sciences,indonesian-institute-of-sciences,ORG
+Indonesian,18170761,62,173,16275;15783711;14579;66906;212635,http://en.wikipedia.org/wiki/Indonesian_killings_of_1965–66,Indonesian killings of 1965–66,indonesian-killings-of-1965–66,indonesian-killings-of-1965–66,UNK
+Indonesian,10573440,250,272,37042;14579,http://en.wikipedia.org/wiki/Indonesian_literature,Indonesian literature,indonesian-literature,indonesian-literature,UNK
+Indonesian,66906,1120,535,14579;212635;16275;15783711;18170761;35814685,http://en.wikipedia.org/wiki/Indonesian_National_Revolution,Indonesian National Revolution,indonesian-national-revolution,indonesian-national-revolution,UNK
+Jakarta,16275,5918,554,6572302;212635;24317092;18170761;15783711;66906;1632552;37042;14579;55182;3957345;2399593,http://en.wikipedia.org/wiki/Jakarta,Jakarta,jakarta,jakarta,GPE
+Jakarta,16866266,39,63,,http://en.wikipedia.org/wiki/Jakarta_(band),Jakarta,jakarta,jakarta-band,UNK
+Jakarta,55182,142,126,14579;16275;55182,http://en.wikipedia.org/wiki/Jakarta_Project,Jakarta Project,jakarta-project,jakarta-project,UNK
+Jakarta,29553338,75,60,,http://en.wikipedia.org/wiki/Jakarta_(mango),Jakarta,jakarta,jakarta-mango,UNK
+Jakarta,24317092,30,77,14579;16275,http://en.wikipedia.org/wiki/Greater_Jakarta,Greater Jakarta,greater-jakarta,greater-jakarta,UNK
+Jakarta,6572302,51,10,37042;16275,http://en.wikipedia.org/wiki/Jakarta_Bay,Jakarta Bay,jakarta-bay,jakarta-bay,UNK
+Jakarta,24092727,3,13,,http://en.wikipedia.org/wiki/Jakarta_(DJ),Jakarta,jakarta,jakarta-dj,UNK
+Jakarta,3957345,7,82,14579;16275,http://en.wikipedia.org/wiki/Jakarta_Tower,Jakarta Tower,jakarta-tower,jakarta-tower,UNK
+Indonesian Democratic Party,1010736,56,61,237564;14579,http://en.wikipedia.org/wiki/Indonesian_Democratic_Party,Indonesian Democratic Party,indonesian-democratic-party,indonesian-democratic-party,UNK
+Megawati Sukarnoputri,237564,166,83,1010736;14579,http://en.wikipedia.org/wiki/Megawati_Sukarnoputri,Megawati Sukarnoputri,megawati-sukarnoputri,megawati-sukarnoputri,PER
+Dow Jones,47361,425,319,46638,http://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average,Dow Jones Industrial Average,dow-jones-industrial-average,dow-jones-industrial-average,UNK
+Dow Jones,46638,524,126,47361,http://en.wikipedia.org/wiki/Dow_Jones_&_Company,Dow Jones & Company,dow-jones-company,dow-jones-company,UNK
+Dow Jones,23151272,29,24,23151272,http://en.wikipedia.org/wiki/Dow_Jones_Sustainability_Index,Dow Jones Sustainability Index,dow-jones-sustainability-index,dow-jones-sustainability-index,ORG
+Van Der Horst,3238639,68,50,26191087,http://en.wikipedia.org/wiki/Robert_van_der_Horst,Robert van der Horst,robert-van-der-horst,robert-van-der-horst,UNK
+Van Der Horst,22294715,21,97,26191087,http://en.wikipedia.org/wiki/Pieter_Willem_van_der_Horst,Pieter Willem van der Horst,pieter-willem-van-der-horst,pieter-willem-van-der-horst,PER
+Van Der Horst,26191087,2,15,3238639;22294715,http://en.wikipedia.org/wiki/Van_der_Horst,Van der Horst,van-der-horst,van-der-horst,UNK
+Surabaya,212635,1235,180,37042;15304101;14579;16275;18170761;35814685;66906;1632552,http://en.wikipedia.org/wiki/Surabaya,Surabaya,surabaya,surabaya,GPE
+Surabaya,35814685,1,23,66906;212635,http://en.wikipedia.org/wiki/Surabaya_(fictional_work),Surabaya,surabaya,surabaya-fictional-work,UNK
+Surabaya,15304101,89,84,14579;212635,http://en.wikipedia.org/wiki/University_of_Surabaya,University of Surabaya,university-of-surabaya,university-of-surabaya,ORG

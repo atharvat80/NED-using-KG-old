@@ -1,0 +1,79 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+BELGIAN,3343,55772,902,31064861;3343;842033;3708;32934542;6733132;1537131;410720;134033;12341;844674;269753;575501;23003352;268040;2107074;1521107;152336;152348;154882;155167;2890443;175267;175163;175135;175228;1433845;1434036;1437246;1437580;659438;195823;58186;1744402;1459417;16859131;4318956;12152672;3817718;9669849;28195378;26584259;259724;259837;119195;3470620;115080;27931386;129697;32149462;990794,http://en.wikipedia.org/wiki/Belgium,Belgium,belgium,belgium,GPE
+BELGIAN,659438,13,94,659438;3343,http://en.wikipedia.org/wiki/Belgian_horse,Belgian horse,belgian-horse,belgian-horse,UNK
+BELGIAN,31064861,31,183,3343,http://en.wikipedia.org/wiki/Belgian_Building,Belgian Building,belgian-building,belgian-building,UNK
+BELGIAN,12152672,4,96,3343,http://en.wikipedia.org/wiki/Belgian_International,Belgian International,belgian-international,belgian-international,UNK
+BRUSSELS,3708,11851,706,175228;26584259;1459417;3343;3708;269753;575501;28195378;27931386;1452159;58186;410720;32149462;152336;152348;12341;154882;4318956,http://en.wikipedia.org/wiki/Brussels,Brussels,brussels,brussels,GPE
+BRUSSELS,1459417,22,24,3343;3708,http://en.wikipedia.org/wiki/Brussels_Park,Brussels Park,brussels-park,brussels-park,UNK
+BRUSSELS,28439418,49,63,138956,"http://en.wikipedia.org/wiki/Brussels_(community),_Wisconsin","Brussels (community), Wisconsin",brussels-community-wisconsin,brussels-community-wisconsin,GPE
+BRUSSELS,110853,44,56,,"http://en.wikipedia.org/wiki/Brussels,_Illinois","Brussels, Illinois",brussels-illinois,brussels-illinois,GPE
+BRUSSELS,269753,596,457,152336;152348;12341;3817718;32149462;575501;3343;28195378;3708;4318956,http://en.wikipedia.org/wiki/Brussels_Airport,Brussels Airport,brussels-airport,brussels-airport,UNK
+BRUSSELS,27931386,48,110,3708;3343,http://en.wikipedia.org/wiki/District_of_Brussels,District of Brussels,district-of-brussels,district-of-brussels,UNK
+BRUSSELS,138956,61,80,28439418,"http://en.wikipedia.org/wiki/Brussels,_Wisconsin","Brussels, Wisconsin",brussels-wisconsin,brussels-wisconsin,GPE
+BRUSSELS,410720,96,101,3708;3343,http://en.wikipedia.org/wiki/Brussels_sprout,Brussels sprout,brussels-sprout,brussels-sprout,UNK
+BRUSSELS,232832,25,25,,"http://en.wikipedia.org/wiki/Brussels,_Ontario","Brussels, Ontario",brussels-ontario,brussels-ontario,GPE
+BRUSSELS,28195378,170,130,269753;3708;575501;152336;152348;3343,http://en.wikipedia.org/wiki/Brussels_International_(1897),Brussels International,brussels-international,brussels-international-1897,PER
+BRUSSELS,4547759,8,13,,http://en.wikipedia.org/wiki/Brussels_cheese,Brussels cheese,brussels-cheese,brussels-cheese,UNK
+BRUSSELS,4318956,462,343,269753;3343;3708,http://en.wikipedia.org/wiki/Brussels_Airlines,Brussels Airlines,brussels-airlines,brussels-airlines,ORG
+BRUSSELS,29334066,2,17,,http://en.wikipedia.org/wiki/Brussels_II,Brussels II,brussels-ii,brussels-ii,UNK
+BRUSSELS,575501,203,76,269753;28195378;3708;152336;152348;3343,http://en.wikipedia.org/wiki/City_of_Brussels,City of Brussels,city-of-brussels,city-of-brussels,UNK
+Belgian,3343,55772,902,31064861;3343;842033;3708;32934542;6733132;1537131;410720;134033;12341;844674;269753;575501;23003352;268040;2107074;1521107;152336;152348;154882;155167;2890443;175267;175163;175135;175228;1433845;1434036;1437246;1437580;659438;195823;58186;1744402;1459417;16859131;4318956;12152672;3817718;9669849;28195378;26584259;259724;259837;119195;3470620;115080;27931386;129697;32149462;990794,http://en.wikipedia.org/wiki/Belgium,Belgium,belgium,belgium,GPE
+Belgian,659438,13,94,659438;3343,http://en.wikipedia.org/wiki/Belgian_horse,Belgian horse,belgian-horse,belgian-horse,UNK
+Belgian,31064861,31,183,3343,http://en.wikipedia.org/wiki/Belgian_Building,Belgian Building,belgian-building,belgian-building,UNK
+Belgian,12152672,4,96,3343,http://en.wikipedia.org/wiki/Belgian_International,Belgian International,belgian-international,belgian-international,UNK
+Standard Liege,990794,1430,543,990794;1521107;32934542;1437246;1437580;1433845;26584259;1434036;3343;842033,http://en.wikipedia.org/wiki/Standard_Liège,Standard Liège,standard-liege,standard-liege,UNK
+Standard Liege,32934542,63,71,990794;3343,http://en.wikipedia.org/wiki/Standard_Liège_(women),Standard Liège,standard-liege,standard-liege-women,UNK
+Molenbeek,1452159,64,11,3708,http://en.wikipedia.org/wiki/R._White_Daring_Molenbeek,R. White Daring Molenbeek,r-white-daring-molenbeek,r-white-daring-molenbeek,UNK
+Molenbeek,152348,106,81,269753;28195378;3708;575501;152336;3343,http://en.wikipedia.org/wiki/Sint-Jans-Molenbeek,Sint-Jans-Molenbeek,sint-jans-molenbeek,sint-jans-molenbeek,UNK
+Molenbeek,35337497,20,23,,http://en.wikipedia.org/wiki/Molenbeek_(Erpe-Mere_Bovenschelde),Molenbeek,molenbeek,molenbeek-erpe-mere-bovenschelde,UNK
+Anderlecht,26584259,1649,699,990794;152336;1433845;1434036;1521107;1437580;26584259;3343;842033;3708,http://en.wikipedia.org/wiki/R.S.C._Anderlecht,R.S.C. Anderlecht,rsc-anderlecht,rsc-anderlecht,UNK
+Anderlecht,152336,365,117,269753;26584259;575501;3343;28195378;3708;152348,http://en.wikipedia.org/wiki/Anderlecht,Anderlecht,anderlecht,anderlecht,UNK
+Lokeren,1437580,542,514,990794;1521107;1433845;26584259;1434036;3343;842033;155167,http://en.wikipedia.org/wiki/K.S.C._Lokeren_Oost-Vlaanderen,K.S.C. Lokeren Oost-Vlaanderen,ksc-lokeren-oost-vlaanderen,ksc-lokeren-oost-vlaanderen,UNK
+Lokeren,155167,215,103,154882;12341;3343;1437580,http://en.wikipedia.org/wiki/Lokeren,Lokeren,lokeren,lokeren,UNK
+Cercle Brugge,1434036,438,387,1433845;58186;26584259;990794;1521107;3343;842033;1437580,http://en.wikipedia.org/wiki/Cercle_Brugge_K.S.V.,Cercle Brugge K.S.V.,cercle-brugge-ksv,cercle-brugge-ksv,UNK
+Mouscron,1434546,222,37,175267,http://en.wikipedia.org/wiki/R.E._Mouscron,R.E. Mouscron,re-mouscron,re-mouscron,UNK
+Mouscron,175267,215,126,1434546;3343;175228,http://en.wikipedia.org/wiki/Mouscron,Mouscron,mouscron,mouscron,UNK
+Antwerp,2107074,287,75,1437246;1537131;32149462;3343,http://en.wikipedia.org/wiki/Royal_Antwerp_F.C.,Royal Antwerp F.C.,royal-antwerp-fc,royal-antwerp-fc,UNK
+Antwerp,2861051,45,60,32149462,"http://en.wikipedia.org/wiki/Antwerp,_Victoria","Antwerp, Victoria",antwerp-victoria,antwerp-victoria,UNK
+Antwerp,3817718,46,46,269753;58186;3343;32149462,http://en.wikipedia.org/wiki/Antwerp_International_Airport,Antwerp International Airport,antwerp-international-airport,antwerp-international-airport,UNK
+Antwerp,259837,6,75,259835;3343;32149462,"http://en.wikipedia.org/wiki/Antwerp,_New_York","Antwerp, New York",antwerp-new-york,antwerp-new-york,GPE
+Antwerp,2890443,12,9,3343;32149462,http://en.wikipedia.org/wiki/Antwerp_Six,Antwerp Six,antwerp-six,antwerp-six,UNK
+Antwerp,119195,36,52,3343;32149462,"http://en.wikipedia.org/wiki/Antwerp_Township,_Michigan","Antwerp Township, Michigan",antwerp-township-michigan,antwerp-township-michigan,GPE
+Antwerp,259835,73,74,259837,"http://en.wikipedia.org/wiki/Antwerp_(village),_New_York","Antwerp (village), New York",antwerp-village-new-york,antwerp-village-new-york,GPE
+Antwerp,6733132,16,24,3343;32149462;58186;1744402,http://en.wikipedia.org/wiki/Antwerp_(district),Antwerp,antwerp,antwerp-district,UNK
+Antwerp,32149462,6128,797,2890443;1744402;175228;2861051;3343;842033;259837;3708;119195;3817718;269753;6733132;2107074;129697;58186;11068844;12341;844674;154882,http://en.wikipedia.org/wiki/Antwerp,Antwerp,antwerp,antwerp,UNK
+Antwerp,129697,51,67,3343;32149462,"http://en.wikipedia.org/wiki/Antwerp,_Ohio","Antwerp, Ohio",antwerp-ohio,antwerp-ohio,GPE
+Antwerp,844674,228,116,268040;58186;32149462;3343,http://en.wikipedia.org/wiki/University_of_Antwerp,University of Antwerp,university-of-antwerp,university-of-antwerp,ORG
+Antwerp,11068844,22,60,32149462,http://en.wikipedia.org/wiki/Antwerp_school,Antwerp school,antwerp-school,antwerp-school,PER
+Antwerp,58186,481,222,844674;1434036;32149462;3343;842033;6733132;3708;12341;1744402;3817718,http://en.wikipedia.org/wiki/Antwerp_(province),Antwerp,antwerp,antwerp-province,UNK
+Lommel,3470620,64,6,175163;3343,http://en.wikipedia.org/wiki/K.F.C._Lommel_S.K.,K.F.C. Lommel S.K.,kfc-lommel-sk,kfc-lommel-sk,UNK
+Lommel,175163,159,78,175135;3343;3470620,http://en.wikipedia.org/wiki/Lommel,Lommel,lommel,lommel,UNK
+Lommel,13763527,5,14,,http://en.wikipedia.org/wiki/Lommel_function,Lommel function,lommel-function,lommel-function,UNK
+Ghent,1521107,725,451,990794;12341;1437580;1433845;26584259;1434036;3343;842033,http://en.wikipedia.org/wiki/K.A.A._Gent,K.A.A. Gent,kaa-gent,kaa-gent,UNK
+Ghent,16859131,4,13,3343;12341,http://en.wikipedia.org/wiki/Ghent_system,Ghent system,ghent-system,ghent-system,ORG
+Ghent,195823,91,191,12341;3343,http://en.wikipedia.org/wiki/Ghent_Altarpiece,Ghent Altarpiece,ghent-altarpiece,ghent-altarpiece,UNK
+Ghent,23238410,96,103,,"http://en.wikipedia.org/wiki/Ghent,_California","Ghent, California",ghent-california,ghent-california,UNK
+Ghent,120610,40,58,12341,"http://en.wikipedia.org/wiki/Ghent,_Minnesota","Ghent, Minnesota",ghent-minnesota,ghent-minnesota,GPE
+Ghent,115080,20,46,3343;12341,"http://en.wikipedia.org/wiki/Ghent,_Kentucky","Ghent, Kentucky",ghent-kentucky,ghent-kentucky,GPE
+Ghent,12341,2682,280,175135;175228;269753;5751380;195823;10962721;1521107;120610;154882;58186;32149462;3343;115080;268040;259724;3708;16859131;155167,http://en.wikipedia.org/wiki/Ghent,Ghent,ghent,ghent,UNK
+Ghent,1556680,43,57,,"http://en.wikipedia.org/wiki/Ghent,_Ohio","Ghent, Ohio",ghent-ohio,ghent-ohio,GPE
+Ghent,268040,392,240,844674;3343;12341,http://en.wikipedia.org/wiki/Ghent_University,Ghent University,ghent-university,ghent-university,ORG
+Ghent,259723,42,60,259724,"http://en.wikipedia.org/wiki/Ghent_(CDP),_New_York","Ghent (CDP), New York",ghent-cdp-new-york,ghent-cdp-new-york,GPE
+Ghent,259724,82,68,259723;12341;3343,"http://en.wikipedia.org/wiki/Ghent,_New_York","Ghent, New York",ghent-new-york,ghent-new-york,GPE
+Ghent,5751380,10,181,12341,http://en.wikipedia.org/wiki/Ghent_(Norfolk),Ghent,ghent,ghent-norfolk,UNK
+Ghent,2916987,176,185,,"http://en.wikipedia.org/wiki/Ghent,_West_Virginia","Ghent, West Virginia",ghent-west-virginia,ghent-west-virginia,GPE
+Aalst,1537131,71,64,1437246;154882;3343;2107074,http://en.wikipedia.org/wiki/SC_Eendracht_Aalst,SC Eendracht Aalst,sc-eendracht-aalst,sc-eendracht-aalst,UNK
+Aalst,2362131,6,12,,"http://en.wikipedia.org/wiki/Aalst,_North_Brabant","Aalst, North Brabant",aalst-north-brabant,aalst-north-brabant,GPE
+Aalst,5814030,5,14,,"http://en.wikipedia.org/wiki/Aalst,_Zaltbommel","Aalst, Zaltbommel",aalst-zaltbommel,aalst-zaltbommel,GPE
+Aalst,5709221,3,16,,"http://en.wikipedia.org/wiki/Aalst,_Buren","Aalst, Buren",aalst-buren,aalst-buren,GPE
+Aalst,9669849,74,66,3343;154882,http://en.wikipedia.org/wiki/Arrondissement_of_Aalst,Arrondissement of Aalst,arrondissement-of-aalst,arrondissement-of-aalst,UNK
+Aalst,10962721,6,23,154882;12341,http://en.wikipedia.org/wiki/Aalst_(play),Aalst,aalst,aalst-play,PER
+Aalst,154882,282,138,3708;1537131;9669849;10962721;32149462;12341;155167;3343,"http://en.wikipedia.org/wiki/Aalst,_Belgium","Aalst, Belgium",aalst-belgium,aalst-belgium,UNK
+Lierse,842033,563,254,1433845;58186;26584259;1434036;32149462;990794;1521107;3343;1437580,http://en.wikipedia.org/wiki/Lierse_S.K.,Lierse S.K.,lierse-sk,lierse-sk,ORG
+Charleroi,1433845,540,263,26584259;1434036;990794;1521107;3343;842033;1437246;175228;1437580,http://en.wikipedia.org/wiki/R._Charleroi_S.C.,R. Charleroi S.C.,r-charleroi-sc,r-charleroi-sc,ORG
+Charleroi,23003352,3,10,3343;175228,http://en.wikipedia.org/wiki/FC_Charleroi,FC Charleroi,fc-charleroi,fc-charleroi,UNK
+Charleroi,134033,242,271,3343;175228,"http://en.wikipedia.org/wiki/Charleroi,_Pennsylvania","Charleroi, Pennsylvania",charleroi-pennsylvania,charleroi-pennsylvania,GPE
+Charleroi,175228,822,227,23003352;175267;12341;1433845;32149462;3343;3708;134033,http://en.wikipedia.org/wiki/Charleroi,Charleroi,charleroi,charleroi,UNK
+Sint Truiden,1437246,360,82,1433845;1537131;990794;3343;2107074;175135,http://en.wikipedia.org/wiki/K._Sint-Truidense_V.V.,K. Sint-Truidense V.V.,k-sint-truidense-vv,k-sint-truidense-vv,UNK
+Sint Truiden,175135,233,108,1437246;12341;175163;3343,http://en.wikipedia.org/wiki/Sint-Truiden,Sint-Truiden,sint-truiden,sint-truiden,UNK
+Ekeren,1744402,53,38,58186;3343;32149462;6733132,http://en.wikipedia.org/wiki/Ekeren,Ekeren,ekeren,ekeren,UNK

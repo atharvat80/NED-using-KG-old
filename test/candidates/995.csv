@@ -1,0 +1,150 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Belarus,3457,19811,467,8017778;1338528;38261117;3457;1009113;26009212;7995089;525972;525971;14288231;411908;9143555;9239;9317;2277815;723059;18933243;353011;156589;51593;20611504;19004;408413;610876;859757;25702;25391;4751135;18020135;26779,http://en.wikipedia.org/wiki/Belarus,Belarus,belarus,belarus,GPE
+Belarus,1009113,864,352,51593;3457;3434750;25391;25127146;9239;26779,http://en.wikipedia.org/wiki/Belarus_national_football_team,Belarus national football team,belarus-national-football-team,belarus-national-football-team,ORG
+Belarus,14288231,217,218,19004;14288231;9317;26779;3457;156589;25391,http://en.wikipedia.org/wiki/Belarus–Russia_relations,Belarus–Russia relations,belarus–russia-relations,belarus–russia-relations,UNK
+Belarus,7995089,1,16,3457;7995089;156589,http://en.wikipedia.org/wiki/For_Belarus!,For Belarus!,for-belarus,for-belarus,UNK
+Belarus,26009212,3,5,3457;26779,http://en.wikipedia.org/wiki/Belarus_(pianos),Belarus,belarus,belarus-pianos,ORG
+Belarus,610876,10,16,3457;51593,http://en.wikipedia.org/wiki/Belarus_(tractor),Belarus,belarus,belarus-tractor,UNK
+Belarus,408413,151,49,3457;156589;51593;408413,http://en.wikipedia.org/wiki/Communist_Party_of_Belarus,Communist Party of Belarus,communist-party-of-belarus,communist-party-of-belarus,UNK
+Belarus,18933243,136,174,20611504;9239;25702;3457;156589;18933243;3434750;25391,http://en.wikipedia.org/wiki/Geography_of_Belarus,Geography of Belarus,geography-of-belarus,geography-of-belarus,UNK
+MINSK,51593,3323,524,411908;156589;8017778;9143555;38261117;3434750;25391;9239;9317;625864;3457;1009113;20611504;19004;26779;408413;610876;859757;2251793,http://en.wikipedia.org/wiki/Minsk,Minsk,minsk,minsk,GPE
+MINSK,859757,15,31,3457;26779;51593;19004,http://en.wikipedia.org/wiki/Minsk_(motorcycle),Minsk,minsk,minsk-motorcycle,UNK
+MINSK,2251793,2,4,5431835;51593,http://en.wikipedia.org/wiki/Mińsk,Mińsk,minsk,minsk,UNK
+MINSK,9143555,1,4,3457;51593,http://en.wikipedia.org/wiki/Minsk_(bandy_club),Minsk,minsk,minsk-bandy-club,UNK
+MINSK,8017778,450,253,51593;3457,http://en.wikipedia.org/wiki/FC_Minsk,FC Minsk,fc-minsk,fc-minsk,ORG
+MINSK,411908,92,68,20611504;3457;51593,http://en.wikipedia.org/wiki/Minsk_Region,Minsk Region,minsk-region,minsk-region,UNK
+MINSK,5431835,418,75,5431835;2251793,http://en.wikipedia.org/wiki/Mińsk_County,Mińsk County,minsk-county,minsk-county,GPE
+MINSK,38261117,22,29,3457;51593;3434750,http://en.wikipedia.org/wiki/Minsk_(band),Minsk,minsk,minsk-band,UNK
+Alexander Lukashenko,156589,454,187,14288231;51593;408413;10892530;7995089;3457;156589;18933243;25391;9317;26779,http://en.wikipedia.org/wiki/Alexander_Lukashenko,Alexander Lukashenko,alexander-lukashenko,alexander-lukashenko,UNK
+Soviet,26779,47970,815,2253373;1338528;625864;3457;1526308;26009212;14288231;9239;80197;37160847;635611;353011;156589;3434750;20611504;19004;588941;25702;25391;4751135;26779;25127146;1009113;2277815;723059;3402034;51593;9384268;859757;25230692;18020135;4091317,http://en.wikipedia.org/wiki/Soviet_Union,Soviet Union,soviet-union,soviet-union,UNK
+Soviet,625864,241,58,635611;51593;26779;2253373;625864;25391,http://en.wikipedia.org/wiki/Soviet_(council),Soviet,soviet,soviet-council,GPE
+Soviet,4751135,587,597,80197;635611;4751135;3457;25391;20611504;26779,http://en.wikipedia.org/wiki/Soviet_war_crimes,Soviet war crimes,soviet-war-crimes,soviet-war-crimes,UNK
+Soviet,80197,1587,877,3434750;25391;9317;80197;4751135;20611504;26779,http://en.wikipedia.org/wiki/Soviet_war_in_Afghanistan,Soviet war in Afghanistan,soviet-war-in-afghanistan,soviet-war-in-afghanistan,UNK
+Soviet,723059,390,412,3457;3434750;25391;20611504;9317;26779,http://en.wikipedia.org/wiki/Soviet_space_program,Soviet space program,soviet-space-program,soviet-space-program,UNK
+Soviet,7638944,46,77,,http://en.wikipedia.org/wiki/Soviet_Song,Soviet Song,soviet-song,soviet-song,UNK
+Soviet,2253373,218,145,635611;26779;2253373;625864,http://en.wikipedia.org/wiki/Soviet_democracy,Soviet democracy,soviet-democracy,soviet-democracy,UNK
+Reuters,18998750,9093,418,3434750;1526308;10341263;18998750;2171552;4091317;1134236,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Lukashenko,156589,454,187,14288231;51593;408413;10892530;7995089;3457;156589;18933243;25391;9317;26779,http://en.wikipedia.org/wiki/Alexander_Lukashenko,Alexander Lukashenko,alexander-lukashenko,alexander-lukashenko,UNK
+European,9239,51349,1032,3457;9239;9317;19004;25702;25391;26779;18933243;51593;191684;1553658;1168603;1338528;4096888;3434750;20611504;25996692;1009113;8707335,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+European,1553658,68,12,9239,http://en.wikipedia.org/wiki/European_Netherlands,European Netherlands,european-netherlands,european-netherlands,UNK
+European,1739264,4,7,674507,"http://en.wikipedia.org/wiki/European_School,_Bergen","European School, Bergen",european-school-bergen,european-school-bergen,ORG
+European,7432187,9,22,7432187;9317,http://en.wikipedia.org/wiki/European_Union_Public_Licence,European Union Public Licence,european-union-public-licence,european-union-public-licence,UNK
+European,23454667,3,4,674507,"http://en.wikipedia.org/wiki/European_School,_Luxembourg_II","European School, Luxembourg II",european-school-luxembourg-ii,european-school-luxembourg-ii,UNK
+European,1338528,556,124,4091317;3457;25391;20611504;19004;9239;26779;25702,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+European,8599208,322,346,9317;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Ireland)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-ireland,UNK
+European,2333629,3,14,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Varese","European School, Varese",european-school-varese,european-school-varese,ORG
+European,674507,33,58,1739264;1991050;2333629;23454667;36091903;1014388;25996692;191684,http://en.wikipedia.org/wiki/European_School,European School,european-school,european-school,UNK
+European,31465880,8,18,,http://en.wikipedia.org/wiki/The_European_(2009_magazine),The European,the-european,the-european-2009-magazine,UNK
+European,11696187,17,37,,http://en.wikipedia.org/wiki/European_Song,European Song,european-song,european-song,UNK
+European,3402034,1943,727,3402034;3434750;25391;19004;26779,http://en.wikipedia.org/wiki/European_Figure_Skating_Championships,European Figure Skating Championships,european-figure-skating-championships,european-figure-skating-championships,UNK
+European,36091903,3,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Brussels_III","European School, Brussels III",european-school-brussels-iii,european-school-brussels-iii,ORG
+European,22546545,14,61,,http://en.wikipedia.org/wiki/European_University,European University,european-university,european-university,ORG
+European,15125201,307,276,9317;8599208;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Portugal)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-portugal,UNK
+European,20919804,2,28,20919804,http://en.wikipedia.org/wiki/The_European_(1953_magazine),The European,the-european,the-european-1953-magazine,ORG
+European,1014388,7,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Munich","European School, Munich",european-school-munich,european-school-munich,ORG
+European,616004,129,58,9317;616004,http://en.wikipedia.org/wiki/European_Foundation_(think_tank),European Foundation,european-foundation,european-foundation-think-tank,ORG
+European,17428699,4,24,,http://en.wikipedia.org/wiki/European_Institute,European Institute,european-institute,european-institute,ORG
+European,191684,95,91,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Culham","European School, Culham",european-school-culham,european-school-culham,ORG
+European,9317,19822,836,8599208;3457;8707335;1014388;7432187;14288231;9239;9317;80197;723059;36091903;156589;51593;3434750;191684;19004;616004;15125201;25391;2333629;25996692;1168603,http://en.wikipedia.org/wiki/European_Union,European Union,european-union,european-union,UNK
+European,41345734,1,9,41345734,http://en.wikipedia.org/wiki/European_Group,European Group,european-group,european-group,UNK
+European,4042903,39,29,,http://en.wikipedia.org/wiki/European_Party_(Cyprus),European Party,european-party,european-party-cyprus,UNK
+European,25996692,3,35,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Karlsruhe","European School, Karlsruhe",european-school-karlsruhe,european-school-karlsruhe,UNK
+European,1168603,28,107,9239;9317;3434750,http://en.wikipedia.org/wiki/European_Round_Table_of_Industrialists,European Round Table of Industrialists,european-round-table-of-industrialists,european-round-table-of-industrialists,UNK
+European,1991050,8,12,674507,"http://en.wikipedia.org/wiki/European_School,_Mol","European School, Mol",european-school-mol,european-school-mol,UNK
+European,8707335,5,14,9317;9239,http://en.wikipedia.org/wiki/European_Journal,European Journal,european-journal,european-journal,UNK
+European,1338717,69,62,,http://en.wikipedia.org/wiki/The_European_(newspaper),The European,the-european,the-european-newspaper,UNK
+Russia,25391,96899,1757,3457;1526308;14288231;9239;9317;37160847;156589;19004;588941;25702;25391;4751135;26779;25127146;525972;525971;2277815;3402034;18933243;51593;9384268;21805600;1338528;625864;6796762;27532914;10892530;80197;10761758;635611;3434750;20611504;7873254;6174697;3821983;1009113;723059;2818394;25230692;18020135;4091317,http://en.wikipedia.org/wiki/Russia,Russia,russia,russia,GPE
+Russia,121404,79,101,3434750,"http://en.wikipedia.org/wiki/Russia_Township,_Polk_County,_Minnesota","Russia Township, Polk County, Minnesota",russia-township-polk-county-minnesota,russia-township-polk-county-minnesota,GPE
+Russia,7873254,176,179,19004;13607661;25391,http://en.wikipedia.org/wiki/Russian_Chess_Championship,Russian Chess Championship,russian-chess-championship,russian-chess-championship,UNK
+Russia,525972,31,17,3457;10892530;25391;525971,http://en.wikipedia.org/wiki/Great_Russia,Great Russia,great-russia,great-russia,UNK
+Russia,1526308,569,334,1526308;25391;20611504;588941;26779;18998750,http://en.wikipedia.org/wiki/Russian_Air_Force,Russian Air Force,russian-air-force,russian-air-force,ORG
+Russia,18020135,97,115,20611504;10892530;3457;18020135;26779;25391,http://en.wikipedia.org/wiki/Greater_Russia,Greater Russia,greater-russia,greater-russia,UNK
+Russia,21805600,0,70,19004;25391,http://en.wikipedia.org/wiki/Russia-K,Russia-K,russia-k,russia-k,ORG
+Russia,11471837,31,16,19004;525971,"http://en.wikipedia.org/wiki/Little_Russia,_London","Little Russia, London",little-russia-london,little-russia-london,GPE
+Russia,25127146,1379,474,3434750;25391;1009113;19004;26779,http://en.wikipedia.org/wiki/Russia_national_football_team,Russia national football team,russia-national-football-team,russia-national-football-team,ORG
+Russia,20611504,12186,703,1338528;3457;1526308;525971;411908;9239;80197;723059;18933243;51593;3434750;20611504;19004;25702;25391;4751135;18020135;26779;4091317,http://en.wikipedia.org/wiki/Russian_Empire,Russian Empire,russian-empire,russian-empire,GPE
+Russia,10892530,33,74,10892530;19004;18020135;25391;156589;525972,http://en.wikipedia.org/wiki/Great_Russia_(political_party),Great Russia,great-russia,great-russia-political-party,UNK
+Russia,129821,48,76,3434750,"http://en.wikipedia.org/wiki/Russia,_Ohio","Russia, Ohio",russia-ohio,russia-ohio,GPE
+Russia,9384268,7,195,19004;26779;25391,http://en.wikipedia.org/wiki/Russia-1,Russia-1,russia-1,russia-1,UNK
+Russia,4091317,202,519,4091317;25391;20611504;19004;26779;25702;18998750;1338528,http://en.wikipedia.org/wiki/LGBT_rights_in_Russia,LGBT rights in Russia,lgbt-rights-in-russia,lgbt-rights-in-russia,UNK
+Russia,525971,186,136,20611504;525972;11471837;3457;25391,http://en.wikipedia.org/wiki/Little_Russia,Little Russia,little-russia,little-russia,UNK
+Russia,2818394,130,157,19004;2818394;25391,http://en.wikipedia.org/wiki/Russia_Tower,Russia Tower,russia-tower,russia-tower,UNK
+Russia,21599323,3,24,,http://en.wikipedia.org/wiki/Mr_Russia,Mr Russia,mr-russia,mr-russia,UNK
+Russia,3821983,291,173,19004;3821983;25391,http://en.wikipedia.org/wiki/1998_Russian_financial_crisis,1998 Russian financial crisis,1998-russian-financial-crisis,1998-russian-financial-crisis,UNK
+Russia,25702,339,588,4091317;3457;18933243;25391;20611504;19004;9239;26779;25702;1338528,http://en.wikipedia.org/wiki/Geography_of_Russia,Geography of Russia,geography-of-russia,geography-of-russia,UNK
+Russia,126524,53,68,3434750,"http://en.wikipedia.org/wiki/Russia,_New_York","Russia, New York",russia-new-york,russia-new-york,GPE
+Russia,10761758,242,162,19004;25391;10761758,http://en.wikipedia.org/wiki/Church_of_Scientology_Moscow_v._Russia,Church of Scientology Moscow v. Russia,church-of-scientology-moscow-v-russia,church-of-scientology-moscow-v-russia,UNK
+Russia,588941,130,294,19004;26779;1526308;3434750;25391,http://en.wikipedia.org/wiki/Russia_and_weapons_of_mass_destruction,Russia and weapons of mass destruction,russia-and-weapons-of-mass-destruction,russia-and-weapons-of-mass-destruction,UNK
+Russia,1338528,556,124,4091317;3457;25391;20611504;19004;9239;26779;25702,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+Soviet Union,26779,47970,815,2253373;1338528;625864;3457;1526308;26009212;14288231;9239;80197;37160847;635611;353011;156589;3434750;20611504;19004;588941;25702;25391;4751135;26779;25127146;1009113;2277815;723059;3402034;51593;9384268;859757;25230692;18020135;4091317,http://en.wikipedia.org/wiki/Soviet_Union,Soviet Union,soviet-union,soviet-union,UNK
+Soviet Union,353011,103,156,26779;3457,http://en.wikipedia.org/wiki/Territories_of_Poland_annexed_by_the_Soviet_Union,Territories of Poland annexed by the Soviet Union,territories-of-poland-annexed-by-the-soviet-union,territories-of-poland-annexed-by-the-soviet-union,UNK
+Soviet Union,635611,403,318,4751135;25391;19004;26779;2253373;625864,http://en.wikipedia.org/wiki/Collectivization_in_the_Soviet_Union,Collectivization in the Soviet Union,collectivization-in-the-soviet-union,collectivization-in-the-soviet-union,UNK
+Moscow,19004,23220,1147,3821983;1338528;6796762;3457;10892530;2398572;14288231;9239;9317;2277815;11471837;3402034;10761758;37160847;635611;51593;3434750;20611504;19004;9384268;859757;7873254;53542;588941;25702;28796442;2818394;25391;25230692;26779;4091317;25127146;4019738;21805600,http://en.wikipedia.org/wiki/Moscow,Moscow,moscow,moscow,GPE
+Moscow,25230692,53,101,19004;26779;3434750;25391,http://en.wikipedia.org/wiki/Moscow_Ladies_Open,Moscow Ladies Open,moscow-ladies-open,moscow-ladies-open,UNK
+Moscow,31955789,22,38,3434750,"http://en.wikipedia.org/wiki/Moscow,_Arkansas","Moscow, Arkansas",moscow-arkansas,moscow-arkansas,UNK
+Moscow,5900922,40,68,4202847,"http://en.wikipedia.org/wiki/Moscow,_Camden_and_San_Augustine_Railroad","Moscow, Camden and San Augustine Railroad",moscow-camden-and-san-augustine-railroad,moscow-camden-and-san-augustine-railroad,UNK
+Moscow,12567323,4,9,,"http://en.wikipedia.org/wiki/Moscow,_Virginia","Moscow, Virginia",moscow-virginia,moscow-virginia,UNK
+Moscow,14369204,35,45,3434750,"http://en.wikipedia.org/wiki/Moscow,_Indiana","Moscow, Indiana",moscow-indiana,moscow-indiana,GPE
+Moscow,24886469,0,1,,"http://en.wikipedia.org/wiki/Moscow,_ID_µSA","Moscow, ID µSA",moscow-id-µsa,moscow-id-µsa,PER
+Moscow,4202847,23,30,3434750;5900922,"http://en.wikipedia.org/wiki/Moscow,_Texas","Moscow, Texas",moscow-texas,moscow-texas,GPE
+Moscow,37256686,38,56,3434750;120069,"http://en.wikipedia.org/wiki/Moscow,_Minnesota","Moscow, Minnesota",moscow-minnesota,moscow-minnesota,UNK
+Moscow,132851,82,76,53542;3434750,"http://en.wikipedia.org/wiki/Moscow,_Pennsylvania","Moscow, Pennsylvania",moscow-pennsylvania,moscow-pennsylvania,GPE
+Moscow,117582,33,50,16165081;3434750,"http://en.wikipedia.org/wiki/Moscow_Township,_Michigan","Moscow Township, Michigan",moscow-township-michigan,moscow-township-michigan,GPE
+Moscow,120069,41,58,16165081;37256686;3434750,"http://en.wikipedia.org/wiki/Moscow_Township,_Freeborn_County,_Minnesota","Moscow Township, Freeborn County, Minnesota",moscow-township-freeborn-county-minnesota,moscow-township-freeborn-county-minnesota,GPE
+Moscow,116186,66,78,3434750,"http://en.wikipedia.org/wiki/Moscow,_Maine","Moscow, Maine",moscow-maine,moscow-maine,GPE
+Moscow,15811914,15,29,3434750,"http://en.wikipedia.org/wiki/Moscow,_Mississippi","Moscow, Mississippi",moscow-mississippi,moscow-mississippi,GPE
+Moscow,2620677,1,11,,"http://en.wikipedia.org/wiki/Moscow,_India","Moscow, India",moscow-india,moscow-india,GPE
+Moscow,2277815,278,159,19004;26779;3457;25391,http://en.wikipedia.org/wiki/FC_Moscow,FC Moscow,fc-moscow,fc-moscow,ORG
+Moscow,38624095,77,97,,http://en.wikipedia.org/wiki/Moscow_(Tchaikovsky),Moscow,moscow,moscow-tchaikovsky,UNK
+Moscow,139134,49,67,32712606;3434750,"http://en.wikipedia.org/wiki/Moscow,_Wisconsin","Moscow, Wisconsin",moscow-wisconsin,moscow-wisconsin,GPE
+Moscow,28796442,38,46,19004,http://en.wikipedia.org/wiki/Moscow_Railway,Moscow Railway,moscow-railway,moscow-railway,UNK
+Moscow,16165081,0,7,117582;120069;41713012,http://en.wikipedia.org/wiki/Moscow_Township,Moscow Township,moscow-township,moscow-township,GPE
+Moscow,4019738,4,41,19004,"http://en.wikipedia.org/wiki/Moscow,_Scotland","Moscow, Scotland",moscow-scotland,moscow-scotland,GPE
+Moscow,114960,7,215,3434750,"http://en.wikipedia.org/wiki/Moscow,_Kansas","Moscow, Kansas",moscow-kansas,moscow-kansas,GPE
+Moscow,39550847,21,32,3434750,http://en.wikipedia.org/wiki/Governor_Moscow,Governor Moscow,governor-moscow,governor-moscow,UNK
+Moscow,135166,33,55,3434750,"http://en.wikipedia.org/wiki/Moscow,_Tennessee","Moscow, Tennessee",moscow-tennessee,moscow-tennessee,GPE
+Moscow,3631681,27,116,3434750,"http://en.wikipedia.org/wiki/Moscow,_West_Virginia","Moscow, West Virginia",moscow-west-virginia,moscow-west-virginia,GPE
+Moscow,17470934,8,11,,"http://en.wikipedia.org/wiki/Moscow,_Belgium","Moscow, Belgium",moscow-belgium,moscow-belgium,UNK
+Moscow,27532914,13,41,25391,http://en.wikipedia.org/wiki/Little_Moscow,Little Moscow,little-moscow,little-moscow,UNK
+Moscow,1250523,0,11,,http://en.wikipedia.org/wiki/MoSCoW_method,MoSCoW method,moscow-method,moscow-method,UNK
+Moscow,2398572,1,4,19004,http://en.wikipedia.org/wiki/Greater_Moscow,Greater Moscow,greater-moscow,greater-moscow,UNK
+Moscow,15871574,0,2,,http://en.wikipedia.org/wiki/Moscow_Province,Moscow Province,moscow-province,moscow-province,UNK
+Moscow,14908097,20,26,3434750,"http://en.wikipedia.org/wiki/Moscow,_Vermont","Moscow, Vermont",moscow-vermont,moscow-vermont,UNK
+Moscow,18057555,42,51,41713012;53542;3434750,"http://en.wikipedia.org/wiki/Moscow,_Iowa","Moscow, Iowa",moscow-iowa,moscow-iowa,GPE
+Moscow,37160847,42,23,19004;26779;25391,http://en.wikipedia.org/wiki/Moscow_Bridge,Moscow Bridge,moscow-bridge,moscow-bridge,UNK
+Moscow,6796762,1,17,19004;3434750;53542;25391,http://en.wikipedia.org/wiki/Moscow_Airport,Moscow Airport,moscow-airport,moscow-airport,UNK
+Moscow,21746015,62,75,3434750,"http://en.wikipedia.org/wiki/Moscow,_Maryland","Moscow, Maryland",moscow-maryland,moscow-maryland,GPE
+Moscow,20563791,50,63,3434750,"http://en.wikipedia.org/wiki/Moscow,_Alabama","Moscow, Alabama",moscow-alabama,moscow-alabama,GPE
+Moscow,32712606,46,62,139134;3434750,"http://en.wikipedia.org/wiki/Moscow_(community),_Wisconsin","Moscow (community), Wisconsin",moscow-community-wisconsin,moscow-community-wisconsin,GPE
+Moscow,21064485,2,2,,http://en.wikipedia.org/wiki/Moscow_District,Moscow District,moscow-district,moscow-district,UNK
+Moscow,6080500,107,122,,"http://en.wikipedia.org/wiki/Moscow,_Cheryomushki","Moscow, Cheryomushki",moscow-cheryomushki,moscow-cheryomushki,UNK
+Moscow,129020,52,71,3434750,"http://en.wikipedia.org/wiki/Moscow,_Ohio","Moscow, Ohio",moscow-ohio,moscow-ohio,GPE
+Moscow,41713012,5,38,16165081;18057555;3434750,"http://en.wikipedia.org/wiki/Moscow_Township,_Muscatine_County,_Iowa","Moscow Township, Muscatine County, Iowa",moscow-township-muscatine-county-iowa,moscow-township-muscatine-county-iowa,GPE
+Moscow,13607661,139,126,7873254,http://en.wikipedia.org/wiki/Moscow_City_Chess_Championship,Moscow City Chess Championship,moscow-city-chess-championship,moscow-city-chess-championship,UNK
+Moscow,53542,790,241,132851;3434750;19004;18057555;6796762,"http://en.wikipedia.org/wiki/Moscow,_Idaho","Moscow, Idaho",moscow-idaho,moscow-idaho,GPE
+United States,3434750,529967,1252,9239;9317;19004;22033;25391;26779;1134236;18057555;39529;40570;3402034;18933243;51593;53542;1168603;65508;6796762;80197;18998750;121404;120069;117582;116186;114960;129821;129020;126524;132851;135166;139134;3631681;4202847;3663136;7422188;431669;38261117;3434750;14369204;461232;20563791;588941;5029525;31955789;39550847;25127146;20611504;6174697;723059;2719448;25230692;14908097;4096888;14863992;895667;21746015;41713012;1009113;37256686;15811914;993845;32712606,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+United States,195550,101,127,195515,http://en.wikipedia.org/wiki/USS_United_States_(1797),USS United States,uss-united-states,uss-united-states-1797,UNK
+United States,2719448,16,46,3434750,http://en.wikipedia.org/wiki/United_States_Live,United States Live,united-states-live,united-states-live,UNK
+United States,5029525,27,254,3434750,http://en.wikipedia.org/wiki/Ethanol_fuel_in_the_United_States,Ethanol fuel in the United States,ethanol-fuel-in-the-united-states,ethanol-fuel-in-the-united-states,UNK
+United States,195515,9,7,195637;461232;195550,http://en.wikipedia.org/wiki/USS_United_States,USS United States,uss-united-states,uss-united-states,UNK
+United States,4096888,712,458,4096888;3434750;9239;39529,"http://en.wikipedia.org/wiki/United_States_elections,_2006","United States elections, 2006",united-states-elections-2006,united-states-elections-2006,UNK
+United States,10341263,6,88,18998750;10341263,http://en.wikipedia.org/wiki/United_States_raw_milk_debate,United States raw milk debate,united-states-raw-milk-debate,united-states-raw-milk-debate,GPE
+United States,40570,857,545,431669;39529;3434750;40570,"http://en.wikipedia.org/wiki/United_States_presidential_election,_1980","United States presidential election, 1980",united-states-presidential-election-1980,united-states-presidential-election-1980,UNK
+United States,431669,2237,285,431669;39529;3434750;40570;6174697,http://en.wikipedia.org/wiki/Northeastern_United_States,Northeastern United States,northeastern-united-states,northeastern-united-states,UNK
+United States,22033,135,97,3434750,http://en.wikipedia.org/wiki/Nicaragua_v._United_States,Nicaragua v. United States,nicaragua-v-united-states,nicaragua-v-united-states,PER
+United States,993845,746,312,3434750;993845,http://en.wikipedia.org/wiki/United_States_nationality_law,United States nationality law,united-states-nationality-law,united-states-nationality-law,UNK
+United States,7422188,509,575,1134236;3434750,"http://en.wikipedia.org/wiki/United_States_Senate_elections,_2012","United States Senate elections, 2012",united-states-senate-elections-2012,united-states-senate-elections-2012,UNK
+United States,195637,31,45,195515,http://en.wikipedia.org/wiki/USS_United_States_(CVA-58),USS United States,uss-united-states,uss-united-states-cva-58,UNK
+United States,636847,221,42,65508,http://en.wikipedia.org/wiki/United_States_Customs_Service,United States Customs Service,united-states-customs-service,united-states-customs-service,ORG
+United States,6174697,566,530,431669;6174697;3434750;25391,http://en.wikipedia.org/wiki/Territorial_evolution_of_the_United_States,Territorial evolution of the United States,territorial-evolution-of-the-united-states,territorial-evolution-of-the-united-states,UNK
+United States,14863992,10,221,3434750;14863992,http://en.wikipedia.org/wiki/United_States_withdrawal_from_the_United_Nations,United States withdrawal from the United Nations,united-states-withdrawal-from-the-united-nations,united-states-withdrawal-from-the-united-nations,UNK
+United States,2111551,11,25,,http://en.wikipedia.org/wiki/Cramer_v._United_States,Cramer v. United States,cramer-v-united-states,cramer-v-united-states,UNK
+United States,1134236,415,587,7422188;3434750;18998750,"http://en.wikipedia.org/wiki/United_States_Senate_elections,_2010","United States Senate elections, 2010",united-states-senate-elections-2010,united-states-senate-elections-2010,UNK
+United States,65508,277,275,3434750;636847,http://en.wikipedia.org/wiki/Great_Seal_of_the_United_States,Great Seal of the United States,great-seal-of-the-united-states,great-seal-of-the-united-states,UNK
+United States,1380075,391,371,,http://en.wikipedia.org/wiki/Reynolds_v._United_States,Reynolds v. United States,reynolds-v-united-states,reynolds-v-united-states,UNK
+United States,39529,1083,393,431669;4096888;3434750;40570,"http://en.wikipedia.org/wiki/United_States_presidential_election,_1992","United States presidential election, 1992",united-states-presidential-election-1992,united-states-presidential-election-1992,UNK
+United States,3663136,242,335,3434750;3663136,http://en.wikipedia.org/wiki/High-speed_rail_in_the_United_States,High-speed rail in the United States,high-speed-rail-in-the-united-states,high-speed-rail-in-the-united-states,UNK
+United States,461232,241,384,3434750;195515,http://en.wikipedia.org/wiki/SS_United_States,SS United States,ss-united-states,ss-united-states,UNK
+United States,895667,46,133,3434750,http://en.wikipedia.org/wiki/United_States_Olympic_Hall_of_Fame,United States Olympic Hall of Fame,united-states-olympic-hall-of-fame,united-states-olympic-hall-of-fame,UNK
+United States,244351,94,228,,http://en.wikipedia.org/wiki/Korematsu_v._United_States,Korematsu v. United States,korematsu-v-united-states,korematsu-v-united-states,UNK

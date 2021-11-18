@@ -33,7 +33,7 @@ def process_doc(docId):
 def generate_candidates():
 	for i in range(1, 1394):
 		entities, candidates = process_doc(i)
-		entities.to_csv(f'./mentions/{i}.csv', index=False)
+		# entities.to_csv(f'./mentions/{i}.csv', index=False)
 		candidates.to_csv(f'./candidates/{i}.csv', index=False)
 
 

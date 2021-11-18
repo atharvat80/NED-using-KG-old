@@ -1,0 +1,283 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+EDBERG,391932,1053,425,483554;91195;197638;65961;26964606;161972;5489;166170;22576;1723598;21526340;5058739;82729;25445;3434750;26667;21148,http://en.wikipedia.org/wiki/Stefan_Edberg,Stefan Edberg,stefan-edberg,stefan-edberg,PER
+WIMBLEDON,91195,4014,428,5166586;52828;166170;94392;3434750;1443478;3062115;26667;391932;197638;65961;3930198;5573;21526340;2805420;82729;300468;4036370;928220;483554;534624;1111175;161972;22576;1723598;5058739;476312,"http://en.wikipedia.org/wiki/The_Championships,_Wimbledon","The Championships, Wimbledon",the-championships-wimbledon,the-championships-wimbledon,UNK
+WIMBLEDON,16839050,3,9,,"http://en.wikipedia.org/wiki/Wimbledon,_New_Zealand","Wimbledon, New Zealand",wimbledon-new-zealand,wimbledon-new-zealand,GPE
+WIMBLEDON,740757,1557,480,94392;26830;8689602;740757,http://en.wikipedia.org/wiki/Wimbledon_F.C.,Wimbledon F.C.,wimbledon-fc,wimbledon-fc,UNK
+WIMBLEDON,5166586,372,407,5489;91195;5573;94392;5058739;18951905;25445;3434750;197638;26667;26830;21148;26964606,http://en.wikipedia.org/wiki/2007_Wimbledon_Championships,2007 Wimbledon Championships,2007-wimbledon-championships,2007-wimbledon-championships,UNK
+WIMBLEDON,31421367,177,208,94392,http://en.wikipedia.org/wiki/Wimbledon_Studios,Wimbledon Studios,wimbledon-studios,wimbledon-studios,UNK
+WIMBLEDON,11556510,3,4,94392,http://en.wikipedia.org/wiki/Wimbledon_(ecclesiastical_parish),Wimbledon,wimbledon,wimbledon-ecclesiastical-parish,UNK
+WIMBLEDON,3020099,84,95,94392,http://en.wikipedia.org/wiki/Wimbledon_College,Wimbledon College,wimbledon-college,wimbledon-college,ORG
+WIMBLEDON,476312,628,454,91195;94392,http://en.wikipedia.org/wiki/Wimbledon_station,Wimbledon station,wimbledon-station,wimbledon-station,UNK
+WIMBLEDON,128433,82,230,3434750,"http://en.wikipedia.org/wiki/Wimbledon,_North_Dakota","Wimbledon, North Dakota",wimbledon-north-dakota,wimbledon-north-dakota,GPE
+WIMBLEDON,1881708,241,154,94392;8689602,http://en.wikipedia.org/wiki/Wimbledon_Park,Wimbledon Park,wimbledon-park,wimbledon-park,GPE
+WIMBLEDON,94392,1264,538,91195;11556510;5166586;3020099;1881708;476312;31421367;8689602;740757;8210131,"http://en.wikipedia.org/wiki/Wimbledon,_London","Wimbledon, London",wimbledon-london,wimbledon-london,GPE
+WIMBLEDON,8689602,111,45,94392;740757;1881708,http://en.wikipedia.org/wiki/Wimbledon_Stadium,Wimbledon Stadium,wimbledon-stadium,wimbledon-stadium,UNK
+Larry Fine,1173403,8,5,589925,http://en.wikipedia.org/wiki/Larry_Fine_(pianos),Larry Fine,larry-fine,larry-fine-pianos,UNK
+Larry Fine,589925,391,108,1173403,http://en.wikipedia.org/wiki/Larry_Fine,Larry Fine,larry-fine,larry-fine,PER
+NEW YORK,645042,77367,1542,2499282;2933230;21148;26667;8210131;27746113;26035579;667548;816554;441501;2416949;3880857;351876;7402167;79717;197638;75235;3434750;2585447;83410;82729;645042;13141861;598652;17292183;606772;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+NEW YORK,39062092,3,8,,http://en.wikipedia.org/wiki/New_York_EP,New York EP,new-york-ep,new-york-ep,UNK
+NEW YORK,5710132,2,12,,"http://en.wikipedia.org/wiki/New_York,_Auburn_and_Lansing_Railroad","New York, Auburn and Lansing Railroad",new-york-auburn-and-lansing-railroad,new-york-auburn-and-lansing-railroad,UNK
+NEW YORK,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+NEW YORK,8210131,70636,932,2499282;2933230;8210131;667548;816554;2416949;3880857;351876;7402167;75235;3434750;82729;891699;645042;223854;94392;5938405;13141861;598652;605077;606772;26964606,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+NEW YORK,2001239,3,3,,"http://en.wikipedia.org/wiki/New_York,_Newfoundland_and_London_Telegraph_Company","New York, Newfoundland and London Telegraph Company",new-york-newfoundland-and-london-telegraph-company,new-york-newfoundland-and-london-telegraph-company,UNK
+NEW YORK,1159194,10,261,,"http://en.wikipedia.org/wiki/New_York,_Lincolnshire","New York, Lincolnshire",new-york-lincolnshire,new-york-lincolnshire,UNK
+NEW YORK,13288448,14,23,3434750,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+NEW YORK,7402167,6,16,8210131;645042;3434750,"http://en.wikipedia.org/wiki/New_York,_New_York_(So_Good_They_Named_It_Twice)","New York, New York",new-york-new-york,new-york-new-york-so-good-they-named-it-twice,UNK
+NEW YORK,17292183,104,126,645042,"http://en.wikipedia.org/wiki/New_York,_I_Love_You","New York, I Love You",new-york-i-love-you,new-york-i-love-you,UNK
+NEW YORK,27746113,5,109,13141861;3434750;645042,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railroad_Administration_Building","New York, Westchester and Boston Railroad Administration Building",new-york-westchester-and-boston-railroad-administration-building,new-york-westchester-and-boston-railroad-administration-building,UNK
+NEW YORK,21310853,2,74,351876;3434750,"http://en.wikipedia.org/wiki/New_York,_New_Haven_&_Hartford_Passenger_Depot","New York, New Haven & Hartford Passenger Depot",new-york-new-haven-hartford-passenger-depot,new-york-new-haven-hartford-passenger-depot,UNK
+NEW YORK,351876,647,399,21310853;2585447;891699;645042;13141861;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_New_Haven_and_Hartford_Railroad","New York, New Haven and Hartford Railroad",new-york-new-haven-and-hartford-railroad,new-york-new-haven-and-hartford-railroad,UNK
+NEW YORK,816554,492,446,891699;351876;645042;2499282;8210131;26723573,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_and_Western_Railway","New York, Susquehanna and Western Railway",new-york-susquehanna-and-western-railway,new-york-susquehanna-and-western-railway,UNK
+NEW YORK,26723573,3,85,816554;3434750,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_&_Western_Railroad_ALCO_Type_S-2_Locomotive","New York, Susquehanna & Western Railroad ALCO Type S-2 Locomotive",new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,UNK
+NEW YORK,26035579,0,1,645042,"http://en.wikipedia.org/wiki/New_York,_US-NY","New York, US-NY",new-york-us-ny,new-york-us-ny,UNK
+NEW YORK,3880857,301,536,82729;3434750;645042;197638;2933230;8210131;26964606,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+NEW YORK,606772,30,81,8210131;3434750;645042,http://en.wikipedia.org/wiki/New_York:_A_Documentary_Film,New York: A Documentary Film,new-york-a-documentary-film,new-york-a-documentary-film,UNK
+NEW YORK,1470149,50,16,,http://en.wikipedia.org/wiki/New_York_&_Company,New York & Company,new-york-company,new-york-company,UNK
+NEW YORK,891699,493,307,351876;3434750;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_Chicago_and_St._Louis_Railroad","New York, Chicago and St. Louis Railroad",new-york-chicago-and-st-louis-railroad,new-york-chicago-and-st-louis-railroad,UNK
+NEW YORK,1555877,17,13,31747730,"http://en.wikipedia.org/wiki/New_York,_New_York_(On_the_Town)","New York, New York",new-york-new-york,new-york-new-york-on-the-town,UNK
+NEW YORK,667548,10,36,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_Rio,_and_Buenos_Aires_Line","New York, Rio, and Buenos Aires Line",new-york-rio-and-buenos-aires-line,new-york-rio-and-buenos-aires-line,ORG
+NEW YORK,598652,483,197,645042;598652;8210131,http://en.wikipedia.org/wiki/New_York_School,New York School,new-york-school,new-york-school,UNK
+NEW YORK,31747730,135,373,1555877;645042,http://en.wikipedia.org/wiki/New_York_(Glee),New York,new-york,new-york-glee,UNK
+NEW YORK,493759,93,39,,"http://en.wikipedia.org/wiki/New_York,_Tyne_and_Wear","New York, Tyne and Wear",new-york-tyne-and-wear,new-york-tyne-and-wear,GPE
+NEW YORK,2499282,360,314,891699;351876;645042;816554;8210131,"http://en.wikipedia.org/wiki/New_York,_Ontario_and_Western_Railway","New York, Ontario and Western Railway",new-york-ontario-and-western-railway,new-york-ontario-and-western-railway,UNK
+NEW YORK,2585447,38,55,351876;645042,"http://en.wikipedia.org/wiki/New_York,_Providence_and_Boston_Railroad","New York, Providence and Boston Railroad",new-york-providence-and-boston-railroad,new-york-providence-and-boston-railroad,UNK
+NEW YORK,13141861,113,149,351876;8210131;645042;27746113,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railway","New York, Westchester and Boston Railway",new-york-westchester-and-boston-railway,new-york-westchester-and-boston-railway,UNK
+NEW YORK,7112349,30,43,3434750,"http://en.wikipedia.org/wiki/New_York,_Texas","New York, Texas",new-york-texas,new-york-texas,GPE
+Stefan Edberg,391932,1053,425,483554;91195;197638;65961;26964606;161972;5489;166170;22576;1723598;21526340;5058739;82729;25445;3434750;26667;21148,http://en.wikipedia.org/wiki/Stefan_Edberg,Stefan Edberg,stefan-edberg,stefan-edberg,PER
+Grand Slams,197638,7843,537,52828;3434750;4878756;1443478;65961;5489;82729;300468;21148;928220;483554;645042;1111175;161972;224580;2989618;5166586;650360;166170;25445;26667;26830;391932;91195;3880857;3523882;21526340;534624;5058739,http://en.wikipedia.org/wiki/Grand_Slam_(tennis),Grand Slam,grand-slam,grand-slam-tennis,UNK
+Grand Slams,3933705,387,177,,http://en.wikipedia.org/wiki/Grand_Slam_(rugby_union),Grand Slam,grand-slam,grand-slam-rugby-union,ORG
+Grand Slams,2989618,820,379,197638;224580,http://en.wikipedia.org/wiki/Grand_slam_(baseball),Grand slam,grand-slam,grand-slam-baseball,UNK
+Wimbledon,91195,4014,428,5166586;52828;166170;94392;3434750;1443478;3062115;26667;391932;197638;65961;3930198;5573;21526340;2805420;82729;300468;4036370;928220;483554;534624;1111175;161972;22576;1723598;5058739;476312,"http://en.wikipedia.org/wiki/The_Championships,_Wimbledon","The Championships, Wimbledon",the-championships-wimbledon,the-championships-wimbledon,UNK
+Wimbledon,16839050,3,9,,"http://en.wikipedia.org/wiki/Wimbledon,_New_Zealand","Wimbledon, New Zealand",wimbledon-new-zealand,wimbledon-new-zealand,GPE
+Wimbledon,740757,1557,480,94392;26830;8689602;740757,http://en.wikipedia.org/wiki/Wimbledon_F.C.,Wimbledon F.C.,wimbledon-fc,wimbledon-fc,UNK
+Wimbledon,5166586,372,407,5489;91195;5573;94392;5058739;18951905;25445;3434750;197638;26667;26830;21148;26964606,http://en.wikipedia.org/wiki/2007_Wimbledon_Championships,2007 Wimbledon Championships,2007-wimbledon-championships,2007-wimbledon-championships,UNK
+Wimbledon,31421367,177,208,94392,http://en.wikipedia.org/wiki/Wimbledon_Studios,Wimbledon Studios,wimbledon-studios,wimbledon-studios,UNK
+Wimbledon,11556510,3,4,94392,http://en.wikipedia.org/wiki/Wimbledon_(ecclesiastical_parish),Wimbledon,wimbledon,wimbledon-ecclesiastical-parish,UNK
+Wimbledon,3020099,84,95,94392,http://en.wikipedia.org/wiki/Wimbledon_College,Wimbledon College,wimbledon-college,wimbledon-college,ORG
+Wimbledon,476312,628,454,91195;94392,http://en.wikipedia.org/wiki/Wimbledon_station,Wimbledon station,wimbledon-station,wimbledon-station,UNK
+Wimbledon,128433,82,230,3434750,"http://en.wikipedia.org/wiki/Wimbledon,_North_Dakota","Wimbledon, North Dakota",wimbledon-north-dakota,wimbledon-north-dakota,GPE
+Wimbledon,1881708,241,154,94392;8689602,http://en.wikipedia.org/wiki/Wimbledon_Park,Wimbledon Park,wimbledon-park,wimbledon-park,GPE
+Wimbledon,94392,1264,538,91195;11556510;5166586;3020099;1881708;476312;31421367;8689602;740757;8210131,"http://en.wikipedia.org/wiki/Wimbledon,_London","Wimbledon, London",wimbledon-london,wimbledon-london,GPE
+Wimbledon,8689602,111,45,94392;740757;1881708,http://en.wikipedia.org/wiki/Wimbledon_Stadium,Wimbledon Stadium,wimbledon-stadium,wimbledon-stadium,UNK
+Richard Krajicek,161972,606,230,483554;91195;166170;1723598;5058739;82729;3434750;197638;26667;391932;21148;65961;26964606,http://en.wikipedia.org/wiki/Richard_Krajicek,Richard Krajicek,richard-krajicek,richard-krajicek,PER
+U.S. Open,82729,3836,304,52828;166170;3434750;1443478;26964606;3062115;18951905;26667;391932;8210131;91195;3880857;197638;65961;3930198;5489;21526340;2805420;82726;300468;4036370;928220;483554;645042;534624;1111175;161972;1723598,http://en.wikipedia.org/wiki/US_Open_(tennis),US Open,us-open,us-open-tennis,UNK
+U.S. Open,10999302,69,83,82726;3434750,http://en.wikipedia.org/wiki/U.S._Open_Badminton_Championships,U.S. Open Badminton Championships,us-open-badminton-championships,us-open-badminton-championships,ORG
+U.S. Open,13568864,33,36,82726,http://en.wikipedia.org/wiki/U.S._Open_(swimming),U.S. Open,us-open,us-open-swimming,UNK
+U.S. Open,223854,2609,485,2349327;82726;3434750;18951905;224580;8210131,http://en.wikipedia.org/wiki/U.S._Open_(golf),U.S. Open,us-open,us-open-golf,UNK
+U.S. Open,7399665,92,38,82726,http://en.wikipedia.org/wiki/U.S._Open_(bowling),U.S. Open,us-open,us-open-bowling,PER
+U.S. Open,7294077,7,16,18951905;3434750,http://en.wikipedia.org/wiki/U.S._Open_Cycling_Championships,U.S. Open Cycling Championships,us-open-cycling-championships,us-open-cycling-championships,UNK
+U.S. Open,8844691,122,41,21148;82726;3434750,http://en.wikipedia.org/wiki/US_Open_(darts),US Open,us-open,us-open-darts,PER
+U.S. Open,82726,7,18,82729;10999302;8844691;3434750;7399665;223854;13568864,http://en.wikipedia.org/wiki/U.S._Open,U.S. Open,us-open,us-open,UNK
+Edberg,391932,1053,425,483554;91195;197638;65961;26964606;161972;5489;166170;22576;1723598;21526340;5058739;82729;25445;3434750;26667;21148,http://en.wikipedia.org/wiki/Stefan_Edberg,Stefan Edberg,stefan-edberg,stefan-edberg,PER
+Grand Slam,197638,7843,537,52828;3434750;4878756;1443478;65961;5489;82729;300468;21148;928220;483554;645042;1111175;161972;224580;2989618;5166586;650360;166170;25445;26667;26830;391932;91195;3880857;3523882;21526340;534624;5058739,http://en.wikipedia.org/wiki/Grand_Slam_(tennis),Grand Slam,grand-slam,grand-slam-tennis,UNK
+Grand Slam,13262906,196,202,,http://en.wikipedia.org/wiki/Grand_Slam_(G.I._Joe),Grand Slam,grand-slam,grand-slam-gi-joe,UNK
+Grand Slam,1513329,191,206,,http://en.wikipedia.org/wiki/Grand_Slam_Championship,Grand Slam Championship,grand-slam-championship,grand-slam-championship,UNK
+Grand Slam,995824,35,86,995824,http://en.wikipedia.org/wiki/Grand_Slam_(bomb),Grand Slam,grand-slam,grand-slam-bomb,UNK
+Grand Slam,4878756,10,14,3434750;197638,http://en.wikipedia.org/wiki/Grand_Slam_(real_tennis),Grand Slam,grand-slam,grand-slam-real-tennis,UNK
+Grand Slam,13528394,2,11,13528394,http://en.wikipedia.org/wiki/Grand_Slam_(Fly-Fishing_Caribbean),Grand Slam,grand-slam,grand-slam-fly-fishing-caribbean,UNK
+Grand Slam,34002563,100,82,,http://en.wikipedia.org/wiki/Grand_Slam_(shinty),Grand Slam,grand-slam,grand-slam-shinty,PER
+Grand Slam,224580,130,109,2989618;223854;197638;5058739;224580;3434750,http://en.wikipedia.org/wiki/Grand_Slam_(golf),Grand Slam,grand-slam,grand-slam-golf,UNK
+Grand Slam,21526340,26,71,82729;65961;91195;52828;21526340;391932;197638,http://en.wikipedia.org/wiki/Grand_Slam_Tennis,Grand Slam Tennis,grand-slam-tennis,grand-slam-tennis,UNK
+Grand Slam,21398919,174,164,,http://en.wikipedia.org/wiki/Capital_One_Grand_Slam_of_Curling,Capital One Grand Slam of Curling,capital-one-grand-slam-of-curling,capital-one-grand-slam-of-curling,PER
+Grand Slam,5823091,562,68,,http://en.wikipedia.org/wiki/Grand_Slam_(PBA),Grand Slam,grand-slam,grand-slam-pba,UNK
+Grand Slam,2989618,820,379,197638;224580,http://en.wikipedia.org/wiki/Grand_slam_(baseball),Grand slam,grand-slam,grand-slam-baseball,UNK
+Grand Slam,3933705,387,177,,http://en.wikipedia.org/wiki/Grand_Slam_(rugby_union),Grand Slam,grand-slam,grand-slam-rugby-union,ORG
+Grand Slam,8850894,74,30,,http://en.wikipedia.org/wiki/Grand_Slam_(band),Grand Slam,grand-slam,grand-slam-band,UNK
+Dutchman,21148,78333,1147,3062115;5573;697710;695226;1956163;717197;715240;21148;161972;22576;25445;26667;26830;32374;27765303;454699;5166586;166170;534624;681620;928220;679755;483554;7029634;197638;3434750;1443478;645042;18951905;5058739;595137;12154144;18147649;8844691;391932;609825;1111175;1723598;3313708;1842607;26964606,http://en.wikipedia.org/wiki/Netherlands,Netherlands,netherlands,netherlands,GPE
+Dutchman,35636490,47,60,3434750,"http://en.wikipedia.org/wiki/Dutchman,_West_Virginia","Dutchman, West Virginia",dutchman-west-virginia,dutchman-west-virginia,GPE
+Dutchman,9642560,15,8,,http://en.wikipedia.org/wiki/Dutchman_(play),Dutchman,dutchman,dutchman-play,UNK
+Dutchman,1842607,12,23,21148,http://en.wikipedia.org/wiki/The_Dutchman,The Dutchman,the-dutchman,the-dutchman,UNK
+Dutchman,717197,255,319,26667;21148;717197,http://en.wikipedia.org/wiki/Flying_Dutchman,Flying Dutchman,flying-dutchman,flying-dutchman,UNK
+Swede,5058739,77359,853,3062115;5573;697710;695226;715240;21148;161972;22576;25445;26667;26830;454699;5166586;166170;534624;928220;679755;187221;10505271;65961;483554;7029634;197638;24554128;224580;91195;5058739;595137;12154144;18147649;1856192;391932;609825;1111175;1723598;3313708;26964606,http://en.wikipedia.org/wiki/Sweden,Sweden,sweden,sweden,GPE
+U.S.,3434750,529967,1252,5489;5573;21148;22576;26667;26830;32374;33877579;52828;65961;67542;6788184;82726;82729;18951905;91195;2349327;1111175;128433;26964606;161972;166170;187221;197638;223854;224580;215892;238192;233474;4663484;21310853;300468;10328578;392816;391932;454699;2398503;435793;436898;483554;483857;7402167;3434750;1443478;459362;13288448;3930198;2805420;534624;3868301;545250;3880857;645042;7294077;595137;605077;606772;609825;697710;35636490;695226;715240;8210131;7112349;5166586;681620;679755;1723598;3062115;1956163;10999302;891699;26723573;1856192;4878756;27746113;928220;5938405;8844691,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S.,10328578,210,402,435793;10328648;10328590;3434750;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S.,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S.,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S.,16304842,112,175,8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S.,233474,102,93,3434750,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S.,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S.,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;70780;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S.,429750,276,240,887108;441501;79717;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S.,10328648,378,412,903062;10328590;10328578;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S.,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S.,21559355,95,143,,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S.,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S.,444113,128,143,,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S.,902392,245,190,22398962;436898;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S.,6737193,115,173,887108,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S.,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;645042;887108;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S.,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S.,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S.,889284,455,321,889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S.,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S.,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S.,435793,251,290,889461;498188;888778;447879;436898;10328578;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S.,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S.,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;645042;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;8210131;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S.,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S.,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S.,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S.,889461,178,203,887108;441501;79717;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S.,903385,68,230,903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S.,447879,394,337,16304842;889461;903062;888778;435793;436898;75235;10328575;887108;9180009;441501;79717;428913;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S.,70780,396,232,889461;888778;435793;447879;436898;215892;75235;887108;441501;2440624;79717;483857;428913;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S.,79717,694,442,889461;435793;645042;887108;9180009;441501;889284;429750;3868301;888778;447879;436898;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+U.S.,2440624,133,162,70780;3868301,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S.,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S.,605077,301,341,8210131;3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S.,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S.,3868301,350,531,3434750;2440624;79717;70780,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S.,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S.,436898,769,483,889461;435793;887108;441501;889284;429750;902392;888778;447879;3434750;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S.,238192,394,239,889461;888778;435793;447879;436898;10328648;3434750;10328620;75235;10328575;887108;441501;79717;428913;70780;903385;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S.,6310196,592,545,435793;10328648;10328590;10328578;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+U.S.,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+National Tennis Centre,3523882,14,16,197638,http://en.wikipedia.org/wiki/National_Tennis_Centre_(United_Kingdom),National Tennis Centre,national-tennis-centre,national-tennis-centre-united-kingdom,UNK
+National Tennis Centre,2933282,43,7,,http://en.wikipedia.org/wiki/National_Tennis_Centre_(Canada),National Tennis Centre,national-tennis-centre,national-tennis-centre-canada,UNK
+Krajicek,161972,606,230,483554;91195;166170;1723598;5058739;82729;3434750;197638;26667;391932;21148;65961;26964606,http://en.wikipedia.org/wiki/Richard_Krajicek,Richard Krajicek,richard-krajicek,richard-krajicek,PER
+Richard,161972,606,230,483554;91195;166170;1723598;5058739;82729;3434750;197638;26667;391932;21148;65961;26964606,http://en.wikipedia.org/wiki/Richard_Krajicek,Richard Krajicek,richard-krajicek,richard-krajicek,PER
+Pete Sampras,65961,1094,245,483554;91195;197638;26964606;161972;5489;166170;1723598;21526340;5058739;82729;300468;25445;3434750;26667;391932,http://en.wikipedia.org/wiki/Pete_Sampras,Pete Sampras,pete-sampras,pete-sampras,UNK
+Jimy Szymanski,3930825,34,13,32374,http://en.wikipedia.org/wiki/Jimy_Szymanski,Jimy Szymanski,jimy-szymanski,jimy-szymanski,PER
+Venezuela,32374,25839,719,5489;3930825;3229791;3434750;21148;1016971;18951905;32374;32454;28173700;459362;454699;2474817,http://en.wikipedia.org/wiki/Venezuela,Venezuela,venezuela,venezuela,GPE
+Venezuela,3229791,65,96,459362;32374;2474817,http://en.wikipedia.org/wiki/First_Republic_of_Venezuela,First Republic of Venezuela,first-republic-of-venezuela,first-republic-of-venezuela,GPE
+Venezuela,2474817,48,71,459362;3229791;32374,http://en.wikipedia.org/wiki/Second_Republic_of_Venezuela,Second Republic of Venezuela,second-republic-of-venezuela,second-republic-of-venezuela,GPE
+Venezuela,459362,181,76,2474817;3229791;32374;32454;3434750,http://en.wikipedia.org/wiki/Flag_of_Venezuela,Flag of Venezuela,flag-of-venezuela,flag-of-venezuela,UNK
+Venezuela,7875797,16,20,,"http://en.wikipedia.org/wiki/Venezuela,_Cuba","Venezuela, Cuba",venezuela-cuba,venezuela-cuba,GPE
+Venezuela,28866106,3,13,,http://en.wikipedia.org/wiki/Venezuela_(Pueblo),Venezuela,venezuela,venezuela-pueblo,UNK
+Venezuela,1016971,1078,333,32374;454699;697710;5489;18951905;26667,http://en.wikipedia.org/wiki/Venezuela_national_football_team,Venezuela national football team,venezuela-national-football-team,venezuela-national-football-team,UNK
+Venezuela,32454,107,140,459362;67337;32374;67318;32454,http://en.wikipedia.org/wiki/Geography_of_Venezuela,Geography of Venezuela,geography-of-venezuela,geography-of-venezuela,UNK
+Venezuela,28173700,33,28,32374,http://en.wikipedia.org/wiki/Venezuela_Province,Venezuela Province,venezuela-province,venezuela-province,UNK
+Adrian Voinea,4036370,181,19,91195;82729;25445;26964606,http://en.wikipedia.org/wiki/Adrian_Voinea,Adrian Voinea,adrian-voinea,adrian-voinea,PER
+Romania,25445,52892,1099,979061;2983;3062115;5573;2805420;4036370;21148;266894;22576;25637;25445;273633;26667;26830;454699;5166586;166170;39834541;534624;545250;297151;681620;928220;679755;187221;65961;483554;197638;24554128;1443478;18951905;5058739;18147649;392816;391932;36158269;1111175;1723598;3313708;26964606,http://en.wikipedia.org/wiki/Romania,Romania,romania,romania,GPE
+Romania,392816,477,279,297151;25445;3434750;392816;25637;2983;1917091,http://en.wikipedia.org/wiki/Greater_Romania,Greater Romania,greater-romania,greater-romania,UNK
+Romania,679755,2112,718,715240;979061;454699;5489;681620;25445;3434750;21148;695226;609825;697710;26964606;5058739;18951905;26667,http://en.wikipedia.org/wiki/Romania_national_football_team,Romania national football team,romania-national-football-team,romania-national-football-team,UNK
+Romania,25637,831,266,297151;392816;25637;5575;27329;25445;67542,http://en.wikipedia.org/wiki/Geography_of_Romania,Geography of Romania,geography-of-romania,geography-of-romania,ORG
+Romania,297151,1394,246,297151;392816;25637;2983;25445,http://en.wikipedia.org/wiki/Kingdom_of_Romania,Kingdom of Romania,kingdom-of-romania,kingdom-of-romania,GPE
+Romania,979061,881,345,18951905;25445;26667;679755;773452,http://en.wikipedia.org/wiki/Romania_national_rugby_union_team,Romania national rugby union team,romania-national-rugby-union-team,romania-national-rugby-union-team,UNK
+Romania,39834541,27,36,25445,http://en.wikipedia.org/wiki/F.C._Romania,F.C. Romania,fc-romania,fc-romania,ORG
+Thomas Muster,166170,612,194,5489;483554;91195;5573;1723598;5058739;18951905;82729;25445;3434750;197638;26667;391932;21148;65961;26964606;161972,http://en.wikipedia.org/wiki/Thomas_Muster,Thomas Muster,thomas-muster,thomas-muster,PER
+Austria,26964606,55411,711,1030;2983;3062115;5575;5573;695226;2805420;3368467;4036370;715240;21148;266894;161972;22576;25445;273633;27329;26667;26830;8210131;27765303;5166586;166170;169412;534624;681620;928220;679755;3880857;187221;65961;67542;483554;24554128;3434750;1443478;11887947;82729;8419772;5058739;5938405;595137;12154144;391932;609825;1111175;1723598;3313708;26964606;2489166;6490870;6490884,http://en.wikipedia.org/wiki/Austria,Austria,austria,austria,GPE
+Austria,25224993,6,31,,http://en.wikipedia.org/wiki/Austria_(Lombard),Austria,austria,austria-lombard,UNK
+Austria,6490870,478,182,2489166;67542;11887947;8419772;2983;187221;26964606;266894;6490884,http://en.wikipedia.org/wiki/Archduchy_of_Austria,Archduchy of Austria,archduchy-of-austria,archduchy-of-austria,GPE
+Austria,6490884,203,126,6490870;8419772;26830;2983;2489166;187221;67542;26964606;266894,http://en.wikipedia.org/wiki/Duchy_of_Austria,Duchy of Austria,duchy-of-austria,duchy-of-austria,GPE
+Austria,695226,1890,498,715240;454699;5489;27765303;681620;5573;3434750;21148;609825;697710;2983;26964606;5058739;18951905;26667;679755,http://en.wikipedia.org/wiki/Austria_national_football_team,Austria national football team,austria-national-football-team,austria-national-football-team,UNK
+Austria,8419772,231,177,6490870;8419772;2983;2489166;187221;67542;26964606;266894;6490884,http://en.wikipedia.org/wiki/Religion_in_Austria,Religion in Austria,religion-in-austria,religion-in-austria,ORG
+Austria,169412,20,48,26964606,"http://en.wikipedia.org/wiki/Fucking,_Austria","Fucking, Austria",fucking-austria,fucking-austria,UNK
+Austria,1030,723,262,2630062;26964606;266894;1030,http://en.wikipedia.org/wiki/Austrian_School,Austrian School,austrian-school,austrian-school,UNK
+Austria,2416949,10,29,8210131;645042,http://en.wikipedia.org/wiki/SS_Austria,SS Austria,ss-austria,ss-austria,UNK
+Austria,27765303,256,226,21148;24554128;695226;26964606,http://en.wikipedia.org/wiki/Austria_national_under-19_football_team,Austria national under-19 football team,austria-national-under-19-football-team,austria-national-under-19-football-team,UNK
+Austria,67542,223,341,5575;27329;2489166;67542;3434750;6490870;8419772;26830;25637;2983;187221;26964606;266894;6490884,http://en.wikipedia.org/wiki/Geography_of_Austria,Geography of Austria,geography-of-austria,geography-of-austria,UNK
+Austria,2983,7373,824,297151;2983;11887947;5575;5573;67542;266894;25445;695226;392816;26964606;2489166;26830;1917091;187221;8419772;6490870;6490884,http://en.wikipedia.org/wiki/Austria-Hungary,Austria-Hungary,austria-hungary,austria-hungary,GPE
+Javier Frana,3930198,393,104,91195;22576;18951905;82729;3434750;534624,http://en.wikipedia.org/wiki/Javier_Frana,Javier Frana,javier-frana,javier-frana,PER
+Argentina,18951905,56491,1191,979061;3062115;5489;697710;16400606;695226;26357457;3930198;2805420;715240;21148;22576;25445;26667;26830;32374;454699;5166586;166170;534624;52828;545250;681620;300468;928220;679755;187221;67318;67337;483554;7029634;3434750;82729;223854;7294077;1016971;773452;18951905;609825;1111175;1723598;27209756,http://en.wikipedia.org/wiki/Argentina,Argentina,argentina,argentina,GPE
+Argentina,67337,84,262,5489;67318;18951905;67337;32454;7029634,http://en.wikipedia.org/wiki/Geography_of_Argentina,Geography of Argentina,geography-of-argentina,geography-of-argentina,UNK
+Argentina,26156177,2,7,,http://en.wikipedia.org/wiki/Argentina_(river),Argentina,argentina,argentina-river,GPE
+Argentina,16400606,212,223,18951905,http://en.wikipedia.org/wiki/Argentina_Park,Argentina Park,argentina-park,argentina-park,UNK
+Argentina,773452,1505,435,979061;454699;5489;18951905,http://en.wikipedia.org/wiki/Argentina_national_rugby_union_team,Argentina national rugby union team,argentina-national-rugby-union-team,argentina-national-rugby-union-team,ORG
+Argentina,9429089,10,8,,http://en.wikipedia.org/wiki/ARA_La_Argentina,ARA La Argentina,ara-la-argentina,ara-la-argentina,UNK
+Argentina,2354007,10,14,,http://en.wikipedia.org/wiki/Argentina_(plant),Argentina,argentina,argentina-plant,UNK
+Argentina,466071,2,33,26667,http://en.wikipedia.org/wiki/La_Argentina_(dancer),La Argentina,la-argentina,la-argentina-dancer,PER
+Argentina,454699,3259,1022,1016971;25445;3434750;773452;695226;609825;18951905;26667;679755;715240;5489;681620;21148;32374;697710;5058739,http://en.wikipedia.org/wiki/Argentina_national_football_team,Argentina national football team,argentina-national-football-team,argentina-national-football-team,ORG
+Argentina,7029634,78,174,21148;5058739;18951905;67337;26667;7029634,http://en.wikipedia.org/wiki/LGBT_rights_in_Argentina,LGBT rights in Argentina,lgbt-rights-in-argentina,lgbt-rights-in-argentina,UNK
+Argentina,27209756,3,7,18951905;27209756,http://en.wikipedia.org/wiki/Argentina_(Santiago_del_Estero),Argentina,argentina,argentina-santiago-del-estero,GPE
+Argentina,35307420,9,17,,http://en.wikipedia.org/wiki/Argentina_(fish),Argentina,argentina,argentina-fish,PER
+Argentina,10711398,39,43,,"http://en.wikipedia.org/wiki/La_Argentina,_Huila","La Argentina, Huila",la-argentina-huila,la-argentina-huila,UNK
+Marcelo Rios,483554,469,284,5489;91195;5573;166170;1723598;5058739;18951905;82729;300468;25445;3434750;197638;26667;391932;21148;65961;26964606;161972,http://en.wikipedia.org/wiki/Marcelo_Ríos,Marcelo Ríos,marcelo-rios,marcelo-rios,PER
+Chile,5489,30071,686,65961;5489;67318;67337;483554;697710;695226;26357457;197638;3434750;715240;82729;13890620;1016971;773452;24633369;18951905;26667;32374;454699;5166586;166170;391932;545250;609825;679755;187221,http://en.wikipedia.org/wiki/Chile,Chile,chile,chile,GPE
+Chile,545250,514,252,5489;26357457;18951905;25445;3434750;26667,http://en.wikipedia.org/wiki/University_of_Chile,University of Chile,university-of-chile,university-of-chile,ORG
+Chile,26357457,319,399,5489;545250;26357457;18951905,http://en.wikipedia.org/wiki/2010_Chile_earthquake,2010 Chile earthquake,2010-chile-earthquake,2010-chile-earthquake,UNK
+Chile,24633369,39,39,5489,http://en.wikipedia.org/wiki/SM-Chile,SM-Chile,sm-chile,sm-chile,GPE
+Chile,67318,127,225,5489;67318;18951905;67337;32454,http://en.wikipedia.org/wiki/Geography_of_Chile,Geography of Chile,geography-of-chile,geography-of-chile,UNK
+Chile,13890620,78,94,5489,"http://en.wikipedia.org/wiki/Chilean_presidential_election,_1910","Chilean presidential election, 1910",chilean-presidential-election-1910,chilean-presidential-election-1910,PER
+Chile,697710,2016,468,715240;454699;1016971;5489;681620;5573;3434750;21148;695226;609825;5058739;18951905;26667;679755,http://en.wikipedia.org/wiki/Chile_national_football_team,Chile national football team,chile-national-football-team,chile-national-football-team,UNK
+Rios,483554,469,284,5489;91195;5573;166170;1723598;5058739;18951905;82729;300468;25445;3434750;197638;26667;391932;21148;65961;26964606;161972,http://en.wikipedia.org/wiki/Marcelo_Ríos,Marcelo Ríos,marcelo-rios,marcelo-rios,PER
+Andrei Pavel,1723598,614,217,483554;91195;5573;166170;1723598;5058739;18951905;82729;25445;3434750;26667;391932;21148;65961;26964606;36158269;161972,http://en.wikipedia.org/wiki/Andrei_Pavel,Andrei Pavel,andrei-pavel,andrei-pavel,PER
+Andrei Pavel,36158269,1,31,25445;1723598,http://en.wikipedia.org/wiki/Andrei_Pavel_(footballer),Andrei Pavel,andrei-pavel,andrei-pavel-footballer,PER
+Monica Seles,300468,834,432,483554;91195;534624;197638;52828;1111175;1443478;65961;3062115;18951905;2805420;82729;3434750;26667;928220,http://en.wikipedia.org/wiki/Monica_Seles,Monica Seles,monica-seles,monica-seles,PER
+Anne Miller,29833261,0,1,,http://en.wikipedia.org/wiki/Anne_Miller,Anne Miller,anne-miller,anne-miller,PER
+Spain,26667,100383,1235,3062115;5489;5573;2805420;1956163;21148;22576;25445;273633;26667;26830;33877579;534624;52828;545250;300468;65961;7029634;82729;645042;18951905;91195;5058739;595137;391932;609825;1111175;3313708;26964606;10293321;979061;697710;695226;717197;715240;161972;454699;5166586;166170;928220;679755;483554;197638;24554128;3434750;1443478;466071;1016971;215892;459319;18147649;4663484;1723598,http://en.wikipedia.org/wiki/Spain,Spain,spain,spain,GPE
+Spain,4663484,17,38,3434750;26667,http://en.wikipedia.org/wiki/Spain_(band),Spain,spain,spain-band,UNK
+Spain,273633,300,182,26667;26830;25445;26964606,http://en.wikipedia.org/wiki/Communist_Party_of_Spain,Communist Party of Spain,communist-party-of-spain,communist-party-of-spain,UNK
+Spain,459319,361,284,26667,http://en.wikipedia.org/wiki/Flag_of_Spain,Flag of Spain,flag-of-spain,flag-of-spain,UNK
+Spain,33877579,5,33,3434750;26667,http://en.wikipedia.org/wiki/Spain..._on_the_Road_Again,Spain... on the Road Again,spain-on-the-road-again,spain-on-the-road-again,UNK
+Spain,609825,3430,790,3434750;695226;609825;27663544;26964606;18951905;26667;26830;679755;715240;454699;5489;681620;21148;697710;5058739;3313708,http://en.wikipedia.org/wiki/Spain_national_football_team,Spain national football team,spain-national-football-team,spain-national-football-team,UNK
+Spain,27663544,87,8,3313708;609825,http://en.wikipedia.org/wiki/Spain_national_youth_football_team,Spain national youth football team,spain-national-youth-football-team,spain-national-youth-football-team,UNK
+Spain,10293321,265,185,26667,http://en.wikipedia.org/wiki/Solar_power_in_Spain,Solar power in Spain,solar-power-in-spain,solar-power-in-spain,UNK
+Spain,484051,22,63,,http://en.wikipedia.org/wiki/Spain_(composition),Spain,spain,spain-composition,UNK
+Spain,8740160,51,50,,http://en.wikipedia.org/wiki/Spain_(Auden),Spain,spain,spain-auden,UNK
+Spain,3313708,922,317,609825;27663544;26964606;5058739;25445;18147649;26667;26830;21148,http://en.wikipedia.org/wiki/Spain_national_under-21_football_team,Spain national under-21 football team,spain-national-under-21-football-team,spain-national-under-21-football-team,UNK
+Arantxa Sanchez Vicario,534624,1047,457,91195;197638;52828;1111175;1443478;3930198;26964606;5573;3062115;5058739;18951905;2805420;82729;300468;25445;3434750;26667;26830;21148;928220,http://en.wikipedia.org/wiki/Arantxa_Sánchez_Vicario,Arantxa Sánchez Vicario,arantxa-sanchez-vicario,arantxa-sanchez-vicario,PER
+Olympic,650360,838,357,197638;22576;4187191;1856192,http://en.wikipedia.org/wiki/Olympic_sports,Olympic sports,olympic-sports,olympic-sports,UNK
+Olympic,595137,333,377,1519860;22576;927703;550718;5058739;4037753;32982273;3434750;1233952;26667;2179597;1956163;21148;26964606;1243315,http://en.wikipedia.org/wiki/Olympic_Stadium,Olympic Stadium,olympic-stadium,olympic-stadium,UNK
+Olympic,2349327,177,85,223854;3434750,http://en.wikipedia.org/wiki/Olympic_Club,Olympic Club,olympic-club,olympic-club,UNK
+Olympic,4037753,73,60,22576;595137,http://en.wikipedia.org/wiki/Olympic_Stadium_(Ashgabat),Olympic Stadium,olympic-stadium,olympic-stadium-ashgabat,UNK
+Olympic,483857,665,192,215892;3434750;70780,http://en.wikipedia.org/wiki/Olympic_Peninsula,Olympic Peninsula,olympic-peninsula,olympic-peninsula,UNK
+Olympic,22219189,41,19,,http://en.wikipedia.org/wiki/Olympic_Park_(Village),Olympic Park,olympic-park,olympic-park-village,UNK
+Olympic,10196072,115,75,,http://en.wikipedia.org/wiki/Olympic_Theatre,Olympic Theatre,olympic-theatre,olympic-theatre,UNK
+Olympic,856061,58,51,22576,http://en.wikipedia.org/wiki/Olympic_Museum,Olympic Museum,olympic-museum,olympic-museum,UNK
+Olympic,20420437,34,43,550718;28000637;1243315,http://en.wikipedia.org/wiki/Olympic_Village_(Montreal),Olympic Village,olympic-village,olympic-village-montreal,UNK
+Olympic,11393463,33,38,,http://en.wikipedia.org/wiki/Olympic_Bridge,Olympic Bridge,olympic-bridge,olympic-bridge,UNK
+Olympic,1233952,245,199,3316516;28000637;22576;595137;1243315,http://en.wikipedia.org/wiki/Olympic_Park,Olympic Park,olympic-park,olympic-park,UNK
+Olympic,24644975,3,15,,http://en.wikipedia.org/wiki/USS_Olympic_(SP-260),USS Olympic,uss-olympic,uss-olympic-sp-260,UNK
+Olympic,32982273,34,33,595137,http://en.wikipedia.org/wiki/Olympic_Stadium_(Grenoble),Olympic Stadium,olympic-stadium,olympic-stadium-grenoble,UNK
+Olympic,6030157,39,38,1243315,"http://en.wikipedia.org/wiki/Olympic_Village,_Munich","Olympic Village, Munich",olympic-village-munich,olympic-village-munich,UNK
+Olympic,1856192,409,219,22576;5058739;3434750;650360;4187191,http://en.wikipedia.org/wiki/Baseball_at_the_Summer_Olympics,Baseball at the Summer Olympics,baseball-at-the-summer-olympics,baseball-at-the-summer-olympics,UNK
+Olympic,3726838,42,47,,http://en.wikipedia.org/wiki/Wellington_Olympic_AFC,Wellington Olympic AFC,wellington-olympic-afc,wellington-olympic-afc,UNK
+Olympic,28000637,140,140,550718;20420437;1233952,"http://en.wikipedia.org/wiki/Olympic_Park,_Montreal","Olympic Park, Montreal",olympic-park-montreal,olympic-park-montreal,UNK
+Olympic,31613148,3,7,,http://en.wikipedia.org/wiki/Olympic_Club_(Barbacena),Olympic Club,olympic-club,olympic-club-barbacena,ORG
+Olympic,4229706,69,72,,http://en.wikipedia.org/wiki/Olympic_FC,Olympic FC,olympic-fc,olympic-fc,ORG
+Olympic,526942,90,267,,http://en.wikipedia.org/wiki/Olympic_Airlines,Olympic Airlines,olympic-airlines,olympic-airlines,ORG
+Olympic,11305145,3,16,,http://en.wikipedia.org/wiki/Olympic_Group,Olympic Group,olympic-group,olympic-group,UNK
+Olympic,10505271,114,82,5058739,http://en.wikipedia.org/wiki/Olympic_Stadium_(Wrocław),Olympic Stadium,olympic-stadium,olympic-stadium-wroclaw,UNK
+Olympic,1391178,214,216,22576,http://en.wikipedia.org/wiki/Olympic_Station,Olympic Station,olympic-station,olympic-station,UNK
+Olympic,927703,599,365,1519860;550718;2179597;1956163;595137,http://en.wikipedia.org/wiki/Olympic_Stadium_(Athens),Olympic Stadium,olympic-stadium,olympic-stadium-athens,UNK
+Olympic,2398503,67,61,3434750,http://en.wikipedia.org/wiki/Olympic_College,Olympic College,olympic-college,olympic-college,ORG
+Olympic,1041281,715,402,1041281,http://en.wikipedia.org/wiki/Olympic_Studios,Olympic Studios,olympic-studios,olympic-studios,UNK
+Olympic,1290793,35,39,,http://en.wikipedia.org/wiki/Olympic_Park_(Buffalo),Olympic Park,olympic-park,olympic-park-buffalo,UNK
+Olympic,2179597,703,647,927703;550718;1519860;1956163;595137,http://en.wikipedia.org/wiki/Olympic_Stadium_(London),Olympic Stadium,olympic-stadium,olympic-stadium-london,UNK
+Olympic,550718,838,716,28000637;927703;20420437;1519860;22576;2179597;1956163;595137,http://en.wikipedia.org/wiki/Olympic_Stadium_(Montreal),Olympic Stadium,olympic-stadium,olympic-stadium-montreal,UNK
+Olympic,1956163,625,628,927703;550718;1519860;3434750;26667;26830;2179597;21148;595137,http://en.wikipedia.org/wiki/Olympic_Stadium_(Amsterdam),Olympic Stadium,olympic-stadium,olympic-stadium-amsterdam,UNK
+Olympic,215892,232,201,3434750;26667;483857;70780,http://en.wikipedia.org/wiki/Olympic_Mountains,Olympic Mountains,olympic-mountains,olympic-mountains,UNK
+Olympic,4187191,665,197,22576;650360;1856192,http://en.wikipedia.org/wiki/Figure_skating_at_the_Olympic_Games,Figure skating at the Olympic Games,figure-skating-at-the-olympic-games,figure-skating-at-the-olympic-games,UNK
+Olympic,3316516,123,57,1233952;1519860,"http://en.wikipedia.org/wiki/Olympic_Park,_Seoul","Olympic Park, Seoul",olympic-park-seoul,olympic-park-seoul,UNK
+Olympic,34137567,0,1,,http://en.wikipedia.org/wiki/Olympic_Park_(Washington_State),Olympic Park,olympic-park,olympic-park-washington-state,UNK
+Olympic,1519860,345,357,3316516;927703;550718;2179597;1956163;595137,http://en.wikipedia.org/wiki/Olympic_Stadium_(Seoul),Olympic Stadium,olympic-stadium,olympic-stadium-seoul,UNK
+Olympic,39443467,12,15,,http://en.wikipedia.org/wiki/Olympic_(band),Olympic,olympic,olympic-band,UNK
+Olympic,6788184,2,14,3434750,http://en.wikipedia.org/wiki/Olympic_Stadium_(Hoquiam),Olympic Stadium,olympic-stadium,olympic-stadium-hoquiam,UNK
+Olympic,2015711,35,23,,http://en.wikipedia.org/wiki/Olympic_Stadium_(Phnom_Penh),Olympic Stadium,olympic-stadium,olympic-stadium-phnom-penh,UNK
+Olympic,7439700,436,400,,http://en.wikipedia.org/wiki/Olympic_Stadium_(Moscow),Olympic Stadium,olympic-stadium,olympic-stadium-moscow,UNK
+Olympic,1243315,239,196,6030157;22576;595137;20420437;1233952,http://en.wikipedia.org/wiki/Olympic_Village,Olympic Village,olympic-village,olympic-village,UNK
+Olympic,2933230,15,15,3880857;8210131;645042,http://en.wikipedia.org/wiki/Olympic_Tower,Olympic Tower,olympic-tower,olympic-tower,UNK
+Olympic,22576,19249,1017,5573;595137;1856192;391932;3930198;4037753;1391178;856061;3434750;1443478;21148;22576;1233952;650360;25445;4187191;26964606;18951905;26667;26830;91195;550718;1243315;5058739,http://en.wikipedia.org/wiki/Olympic_Games,Olympic Games,olympic-games,olympic-games,UNK
+Olympic,83410,435,291,645042,http://en.wikipedia.org/wiki/RMS_Olympic,RMS Olympic,rms-olympic,rms-olympic,UNK
+Lindsay Davenport,52828,1010,405,91195;534624;197638;1111175;1443478;21526340;3062115;18951905;82729;300468;3434750;26667;928220,http://en.wikipedia.org/wiki/Lindsay_Davenport,Lindsay Davenport,lindsay-davenport,lindsay-davenport,PER
+Karina Habsudova,3062115,475,204,91195;5573;5058739;18951905;82729;300468;25445;3434750;534624;26667;26830;21148;52828;1111175;1443478;26964606,http://en.wikipedia.org/wiki/Karina_Habšudová,Karina Habšudová,karina-habsudova,karina-habsudova,PER
+Slovakia,26830,28262,776,2983;3062115;5573;67542;197638;1956163;3434750;1443478;21148;266894;22576;25445;273633;27329;18951905;26667;26830;5058739;18147649;5166586;534624;609825;681620;928220;1111175;3313708;26964606;2489166;740757;187221;6490884,http://en.wikipedia.org/wiki/Slovakia,Slovakia,slovakia,slovakia,GPE
+Slovakia,27329,2755,238,25637;5575;67542;26964606;27329;26830,http://en.wikipedia.org/wiki/Geography_of_Slovakia,Geography of Slovakia,geography-of-slovakia,geography-of-slovakia,UNK
+Slovakia,18147649,370,245,681620;5573;5058739;25445;26667;26830;3313708;21148,http://en.wikipedia.org/wiki/Slovakia_national_under-21_football_team,Slovakia national under-21 football team,slovakia-national-under-21-football-team,slovakia-national-under-21-football-team,ORG
+Slovakia,681620,1113,404,609825;715240;454699;697710;26964606;681620;18951905;25445;3434750;18147649;26830;679755;21148;695226,http://en.wikipedia.org/wiki/Slovakia_national_football_team,Slovakia national football team,slovakia-national-football-team,slovakia-national-football-team,UNK
+Austrian,26964606,55411,711,1030;2983;3062115;5575;5573;695226;2805420;3368467;4036370;715240;21148;266894;161972;22576;25445;273633;27329;26667;26830;8210131;27765303;5166586;166170;169412;534624;681620;928220;679755;3880857;187221;65961;67542;483554;24554128;3434750;1443478;11887947;82729;8419772;5058739;5938405;595137;12154144;391932;609825;1111175;1723598;3313708;26964606;2489166;6490870;6490884,http://en.wikipedia.org/wiki/Austria,Austria,austria,austria,GPE
+Austrian,12154144,3,108,21148;5058739;26964606,http://en.wikipedia.org/wiki/Austrian_International,Austrian International,austrian-international,austrian-international,ORG
+Austrian,3368467,566,400,146972;26964606,http://en.wikipedia.org/wiki/Austrian_Airlines,Austrian Airlines,austrian-airlines,austrian-airlines,ORG
+Austrian,187221,1261,251,6490870;2983;26964606;266894;6490884;5489;5573;5058739;18951905;2489166;25445;67542;3434750;5938405;8419772;26830,http://en.wikipedia.org/wiki/Austrians,Austrians,austrians,austrians,UNK
+Austrian,2489166,173,320,67542;6490870;8419772;26830;2983;187221;26964606;266894;6490884,http://en.wikipedia.org/wiki/Austrian_literature,Austrian literature,austrian-literature,austrian-literature,UNK
+Austrian,1030,723,262,2630062;26964606;266894;1030,http://en.wikipedia.org/wiki/Austrian_School,Austrian School,austrian-school,austrian-school,UNK
+Austrian,2630062,62,117,1030;2630062,http://en.wikipedia.org/wiki/Austrian_business_cycle_theory,Austrian business cycle theory,austrian-business-cycle-theory,austrian-business-cycle-theory,UNK
+Austrian,266894,3523,444,1030;25445;5938405;2983;26964606;2489166;26830;11887947;187221;5573;67542;8419772;6490870;6490884,http://en.wikipedia.org/wiki/Austrian_Empire,Austrian Empire,austrian-empire,austrian-empire,GPE
+Austrian,5938405,146,330,3434750;187221;8210131;26964606;266894,http://en.wikipedia.org/wiki/Austrian_American,Austrian American,austrian-american,austrian-american,UNK
+Austrian,536843,389,89,,http://en.wikipedia.org/wiki/Austrian_Netherlands,Austrian Netherlands,austrian-netherlands,austrian-netherlands,GPE
+Judith Wiesner,2805420,253,65,534624;26667;91195;18951905;1443478;82729;300468;25445;26964606;3434750,http://en.wikipedia.org/wiki/Judith_Wiesner,Judith Wiesner,judith-wiesner,judith-wiesner,PER
+Iva Majoli,928220,443,105,91195;5573;5058739;18951905;82729;300468;25445;3434750;534624;197638;26667;26830;21148;52828;1111175;1443478;26964606,http://en.wikipedia.org/wiki/Iva_Majoli,Iva Majoli,iva-majoli,iva-majoli,PER
+Croatia,5573,32159,1248,2983;3062115;2085716;5575;5573;483554;146972;697710;695226;6724307;24554128;3434750;1443478;715240;11887947;21148;266894;2582233;22576;25445;26667;26830;91195;5058739;18147649;5166586;166170;1917091;534624;928220;1111175;1723598;26964606;187221,http://en.wikipedia.org/wiki/Croatia,Croatia,croatia,croatia,GPE
+Croatia,1917091,222,158,11887947;392816;5573;2983,http://en.wikipedia.org/wiki/Greater_Croatia,Greater Croatia,greater-croatia,greater-croatia,UNK
+Croatia,11887947,315,187,2582233;6724307;5575;5573;6490870;2983;26964606;266894;1917091,http://en.wikipedia.org/wiki/Kingdom_of_Croatia_(Habsburg),Kingdom of Croatia,kingdom-of-croatia,kingdom-of-croatia-habsburg,GPE
+Croatia,2085716,201,53,5573,http://en.wikipedia.org/wiki/Croatia_Records,Croatia Records,croatia-records,croatia-records,UNK
+Croatia,146972,390,320,5573;3368467,http://en.wikipedia.org/wiki/Croatia_Airlines,Croatia Airlines,croatia-airlines,croatia-airlines,ORG
+Croatia,715240,1540,634,715240;454699;5489;681620;5573;3434750;21148;695226;609825;697710;24554128;26964606;5058739;18951905;26667;679755,http://en.wikipedia.org/wiki/Croatia_national_football_team,Croatia national football team,croatia-national-football-team,croatia-national-football-team,ORG
+Croatia,5575,274,570,2582233;6724307;5575;5573;27329;67542;11887947;25637;2983;26964606,http://en.wikipedia.org/wiki/Geography_of_Croatia,Geography of Croatia,geography-of-croatia,geography-of-croatia,UNK
+Croatia,24554128,349,229,27765303;5573;5058739;25445;715240;26667;26964606,http://en.wikipedia.org/wiki/Croatia_national_under-19_football_team,Croatia national under-19 football team,croatia-national-under-19-football-team,croatia-national-under-19-football-team,UNK
+Croatia,6724307,20,305,11887947;5575;5573,http://en.wikipedia.org/wiki/Croatia_proper,Croatia proper,croatia-proper,croatia-proper,UNK
+Croatia,2582233,119,256,11887947;2582233;5575;5573,http://en.wikipedia.org/wiki/Kingdom_of_Croatia_(925–1102),Kingdom of Croatia,kingdom-of-croatia,kingdom-of-croatia-925–1102,GPE
+Majoli,928220,443,105,91195;5573;5058739;18951905;82729;300468;25445;3434750;534624;197638;26667;26830;21148;52828;1111175;1443478;26964606,http://en.wikipedia.org/wiki/Iva_Majoli,Iva Majoli,iva-majoli,iva-majoli,PER
+Anke Huber,1443478,404,99,91195;5573;22576;3062115;2805420;82729;300468;25445;3434750;534624;197638;26667;26830;21148;52828;1111175;26964606;928220,http://en.wikipedia.org/wiki/Anke_Huber,Anke Huber,anke-huber,anke-huber,PER
+Magdalena Maleeva,1111175,533,302,91195;5573;3062115;5058739;18951905;82729;300468;25445;3434750;534624;197638;26667;26830;21148;52828;1443478;26964606;928220,http://en.wikipedia.org/wiki/Magdalena_Maleeva,Magdalena Maleeva,magdalena-maleeva,magdalena-maleeva,PER

@@ -1,0 +1,154 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Karachi,17123,5555,1074,5019042;265059;374012;993655;28770946;17123;24751;23397776;429283;51153;3863559;1026286;15684890;31347934;409087;3662295;4687;2707882;125315;14904290;1791959;6375316;15294;93764;1965925;759295;14533;1030551;193737;23363;23235,http://en.wikipedia.org/wiki/Karachi,Karachi,karachi,karachi,GPE
+Karachi,31347934,42,42,28770946;23363;17123;23235;32954258,http://en.wikipedia.org/wiki/Geography_of_Karachi,Geography of Karachi,geography-of-karachi,geography-of-karachi,GPE
+Karachi,5019042,144,62,17123;4687;24751;5019023;5019004;1791959;23235,http://en.wikipedia.org/wiki/Karachi_Division,Karachi Division,karachi-division,karachi-division,UNK
+Karachi,1791959,454,246,5019042;1030551;1791959;1026286;409053;17123;23235,http://en.wikipedia.org/wiki/University_of_Karachi,University of Karachi,university-of-karachi,university-of-karachi,ORG
+KARACHI,17123,5555,1074,5019042;265059;374012;993655;28770946;17123;24751;23397776;429283;51153;3863559;1026286;15684890;31347934;409087;3662295;4687;2707882;125315;14904290;1791959;6375316;15294;93764;1965925;759295;14533;1030551;193737;23363;23235,http://en.wikipedia.org/wiki/Karachi,Karachi,karachi,karachi,GPE
+KARACHI,31347934,42,42,28770946;23363;17123;23235;32954258,http://en.wikipedia.org/wiki/Geography_of_Karachi,Geography of Karachi,geography-of-karachi,geography-of-karachi,GPE
+KARACHI,5019042,144,62,17123;4687;24751;5019023;5019004;1791959;23235,http://en.wikipedia.org/wiki/Karachi_Division,Karachi Division,karachi-division,karachi-division,UNK
+KARACHI,1791959,454,246,5019042;1030551;1791959;1026286;409053;17123;23235,http://en.wikipedia.org/wiki/University_of_Karachi,University of Karachi,university-of-karachi,university-of-karachi,ORG
+Pakistan,23235,33617,1132,28647430;28770946;10748937;764545;31347934;4687;3177624;1965925;3550581;11320241;3863559;15294;1887624;759295;14533;4301339;28171281;265059;14923769;17123;32954258;1026286;409053;409058;409087;407754;14124765;1030551;23363;6037917;23235;24717;24751;464417;15684890;93764;1648117;23397776;13920327;2458049;14904290;377428;6375316;8431743;2959312;5019042;5019023;5019004;993655;51153;4213548;1791959;2275631;2275628;2275634;193737;374012;429283;39849556;3662295;125315;988673;988668;17275084,http://en.wikipedia.org/wiki/Pakistan,Pakistan,pakistan,pakistan,GPE
+Pakistan,6375316,856,581,15294;15684890;28171281;429283;409053;409058;51153;1965925;759295;14533;3662295;265059;1648117;374012;993655;1030551;1026286;2275634;23363;17123;6375316;23235,http://en.wikipedia.org/wiki/Nuclear_power_in_Pakistan,Nuclear power in Pakistan,nuclear-power-in-pakistan,nuclear-power-in-pakistan,UNK
+Pakistan,759295,1423,649,15684890;3662295;265059;125315;17123;6375316;407754;429283;93764;1965925;759295;14533;1026286;23363;23235,http://en.wikipedia.org/wiki/Pakistan_national_cricket_team,Pakistan national cricket team,pakistan-national-cricket-team,pakistan-national-cricket-team,ORG
+Pakistan,1965925,2031,377,28171281;409053;409058;3662295;265059;1648117;374012;125315;993655;2275634;17123;24751;6375316;429283;51153;93764;988668;1965925;759295;14533;1030551;1026286;193737;23363;23235,http://en.wikipedia.org/wiki/Pakistan_Army,Pakistan Army,pakistan-army,pakistan-army,ORG
+Pakistan,23363,415,510,15684890;31347934;28171281;429283;5019023;1030551;1026286;2275634;32954258;409053;409058;51153;24717;28770946;23363;17123;93764;1965925;6375316;759295;14533;3662295;265059;23235,http://en.wikipedia.org/wiki/Geography_of_Pakistan,Geography of Pakistan,geography-of-pakistan,geography-of-pakistan,GPE
+Pakistan,1026286,1055,367,15684890;28171281;429283;5019023;409053;409058;409087;988668;1965925;759295;14533;4687;265059;125315;1030551;1791959;1026286;2275634;24717;23363;17123;6037917;24751;6375316;23235,http://en.wikipedia.org/wiki/Pakistan_Movement,Pakistan Movement,pakistan-movement,pakistan-movement,ORG
+Pakistan,3662295,473,123,24442938;374012;23397776;28171281;993655;429283;1030551;2275634;409053;409058;193737;24717;23363;17123;6037917;24751;1965925;6375316;759295;265059;23235,http://en.wikipedia.org/wiki/Dominion_of_Pakistan,Dominion of Pakistan,dominion-of-pakistan,dominion-of-pakistan,GPE
+Pakistan,24442938,2,14,3662295;265059;14533,"http://en.wikipedia.org/wiki/Pakistan,_India","Pakistan, India",pakistan-india,pakistan-india,UNK
+Pakistan,464417,6,20,23235;51153,http://en.wikipedia.org/wiki/Pakistan_International,Pakistan International,pakistan-international,pakistan-international,UNK
+Pakistani,23235,33617,1132,28647430;28770946;10748937;764545;31347934;4687;3177624;1965925;3550581;11320241;3863559;15294;1887624;759295;14533;4301339;28171281;265059;14923769;17123;32954258;1026286;409053;409058;409087;407754;14124765;1030551;23363;6037917;23235;24717;24751;464417;15684890;93764;1648117;23397776;13920327;2458049;14904290;377428;6375316;8431743;2959312;5019042;5019023;5019004;993655;51153;4213548;1791959;2275631;2275628;2275634;193737;374012;429283;39849556;3662295;125315;988673;988668;17275084,http://en.wikipedia.org/wiki/Pakistan,Pakistan,pakistan,pakistan,GPE
+Pakistani,429283,790,804,15684890;28171281;429283;409053;409058;51153;1965925;759295;3662295;265059;125315;1030551;1026286;2275634;24717;23363;17123;6037917;24751;6375316;23235,http://en.wikipedia.org/wiki/Pakistani_cuisine,Pakistani cuisine,pakistani-cuisine,pakistani-cuisine,UNK
+Pakistani,15684890,259,96,409053;409058;51153;23363;17123;6037917;125315;6375316;28171281;759295;429283;265059;1030551;1026286;2275634;23235,http://en.wikipedia.org/wiki/Pakistani_architecture,Pakistani architecture,pakistani-architecture,pakistani-architecture,ORG
+Pakistani,28171281,671,333,15684890;429283;1965925;3662295;265059;1026286;193737;24717;23363;6375316;23235,http://en.wikipedia.org/wiki/Pakistani_people,Pakistani people,pakistani-people,pakistani-people,GPE
+Benazir Bhutto,193737,759,373,28171281;409053;409058;409087;1965925;8431743;3662295;265059;374012;14923769;14904290;993655;1030551;377428;2275631;17123;24751;17275084;23235,http://en.wikipedia.org/wiki/Benazir_Bhutto,Benazir Bhutto,benazir-bhutto,benazir-bhutto,PER
+Benazir Bhutto,377428,155,113,51153;193737;24751;15294;4301339;23235;32954258,http://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport,Benazir Bhutto International Airport,benazir-bhutto-international-airport,benazir-bhutto-international-airport,UNK
+Benazir Bhutto,2882793,2,7,51153,http://en.wikipedia.org/wiki/Benazir_Bhutto_Road,Benazir Bhutto Road,benazir-bhutto-road,benazir-bhutto-road,UNK
+Benazir Bhutto,14904290,319,440,374012;993655;409053;193737;17123;14533;17275084;23235,http://en.wikipedia.org/wiki/Assassination_of_Benazir_Bhutto,Assassination of Benazir Bhutto,assassination-of-benazir-bhutto,assassination-of-benazir-bhutto,UNK
+Benazir Bhutto,14923769,1,14,193737;23235,http://en.wikipedia.org/wiki/Benazir_Bhutto_Hospital,Benazir Bhutto Hospital,benazir-bhutto-hospital,benazir-bhutto-hospital,ORG
+Islamabad,51153,3028,454,374012;24717;17123;24751;464417;429283;32954258;51153;2959312;15684890;4687;2707882;125315;377428;2882793;6375316;15294;93764;1965925;14533;1030551;23363;6037917;23235,http://en.wikipedia.org/wiki/Islamabad,Islamabad,islamabad,islamabad,GPE
+Islamabad,15294,589,205,15294;3177624;125315;2959312;377428;32954258;409053;51153;409087;24717;17123;6037917;24751;93764;6375316;4687;23235,http://en.wikipedia.org/wiki/Islamabad_Capital_Territory,Islamabad Capital Territory,islamabad-capital-territory,islamabad-capital-territory,UNK
+Islamabad,6037917,20084,792,10748937;23397776;13920327;5042765;15294;14533;993655;32954258;51153;1026286;409087;2275634;6037917;23235;374012;7515857;24717;24751;429283;15684890;3662295;31405,http://en.wikipedia.org/wiki/Islam,Islam,islam,islam,UNK
+Islamabad,32954258,70,131,31347934;51153;23363;28770946;6037917;15294;377428;125315;23235,http://en.wikipedia.org/wiki/Geography_of_Islamabad,Geography of Islamabad,geography-of-islamabad,geography-of-islamabad,UNK
+God,5042765,5355,640,5042765;7515857;1813169;1658436;9135463;11003920;11932491;5359259;31405;6037917,http://en.wikipedia.org/wiki/God,God,god,god,UNK
+God,5359259,62,123,5042765;7515857;11003920;11932491;1813169,http://en.wikipedia.org/wiki/God_(word),God,god,god-word,UNK
+God,5184906,4,14,,http://en.wikipedia.org/wiki/God_(sculpture),God,god,god-sculpture,UNK
+God,24867436,8,20,24867436,http://en.wikipedia.org/wiki/God-Building,God-Building,god-building,god-building,ORG
+God,1813169,96,266,5042765;7515857;5359259;27040774;14533;11003920;11932491,http://en.wikipedia.org/wiki/God_(male_deity),God,god,god-male-deity,PER
+God,7515857,1393,422,5042765;25793095;11003920;5359259;11932491;6037917;1813169,http://en.wikipedia.org/wiki/God_in_Islam,God in Islam,god-in-islam,god-in-islam,UNK
+God,8683423,1,2,,"http://en.wikipedia.org/wiki/God,_Sex_&_Apple_Pie","God, Sex & Apple Pie",god-sex-apple-pie,god-sex-apple-pie,UNK
+God,2797193,14,18,,http://en.wikipedia.org/wiki/God_(Australian_band),God,god,god-australian-band,UNK
+God,11003920,974,385,5042765;5359259;37853250;11932491;37825334;7515857;1813169,http://en.wikipedia.org/wiki/God_in_Christianity,God in Christianity,god-in-christianity,god-in-christianity,UNK
+God,9135463,1,9,5042765,"http://en.wikipedia.org/wiki/God,_Inc.","God, Inc.",god-inc,god-inc,UNK
+God,91141,93,99,,http://en.wikipedia.org/wiki/God_K,God K,god-k,god-k,PER
+God,1658436,86,43,5042765,"http://en.wikipedia.org/wiki/God,_the_Devil_and_Bob","God, the Devil and Bob",god-the-devil-and-bob,god-the-devil-and-bob,UNK
+God,39569926,117,111,,"http://en.wikipedia.org/wiki/God,_Guns_&_Automobiles","God, Guns & Automobiles",god-guns-automobiles,god-guns-automobiles,UNK
+God,17013213,31,41,17013213,http://en.wikipedia.org/wiki/God_(British_band),God,god,god-british-band,UNK
+God,4996373,105,48,,http://en.wikipedia.org/wiki/G.o.d.,G.o.d.,god,god,PER
+God,11164326,1,2,,"http://en.wikipedia.org/wiki/God,_Guns_&_Rock_and_Roll","God, Guns & Rock and Roll",god-guns-rock-and-roll,god-guns-rock-and-roll,UNK
+God,10456992,4,6,,"http://en.wikipedia.org/wiki/God,_A_Guide_for_the_Perplexed","God, A Guide for the Perplexed",god-a-guide-for-the-perplexed,god-a-guide-for-the-perplexed,UNK
+God,33819569,1,5,,http://en.wikipedia.org/wiki/God_Bay,God Bay,god-bay,god-bay,UNK
+God,42625839,3,14,,"http://en.wikipedia.org/wiki/God,_Country_and_My_Baby","God, Country and My Baby",god-country-and-my-baby,god-country-and-my-baby,UNK
+God,17545531,2,8,,"http://en.wikipedia.org/wiki/God,_the_Omnipotent!","God, the Omnipotent!",god-the-omnipotent,god-the-omnipotent,UNK
+God,33084080,0,7,,"http://en.wikipedia.org/wiki/God,_No!","God, No!",god-no,god-no,UNK
+God,22109988,49,60,,"http://en.wikipedia.org/wiki/God,_Time_and_Causality","God, Time and Causality",god-time-and-causality,god-time-and-causality,UNK
+God,6725478,5,4,,http://en.wikipedia.org/wiki/God_(play),God,god,god-play,UNK
+God,23495114,16,26,,"http://en.wikipedia.org/wiki/G.O.D._(Gold,_Oil_&_Diamonds)",G.O.D.,god,god-gold-oil-diamonds,UNK
+God,37825334,13,116,11003920;37853250,http://en.wikipedia.org/wiki/Kingdom_of_God_(Christianity),Kingdom of God,kingdom-of-god,kingdom-of-god-christianity,UNK
+God,1057267,85,212,,http://en.wikipedia.org/wiki/Göd,Göd,god,god,UNK
+God,37853250,5,113,11003920;37825334,http://en.wikipedia.org/wiki/Kingdom_of_God_(Christian_denominational_variations),Kingdom of God,kingdom-of-god,kingdom-of-god-christian-denominational-variations,UNK
+God,10240962,0,60,,"http://en.wikipedia.org/wiki/God,_That's_Good","God, That's Good",god-thats-good,god-thats-good,UNK
+God,22441124,12,42,,http://en.wikipedia.org/wiki/River_God,River God,river-god,river-god,UNK
+God,27040774,242,239,1813169,http://en.wikipedia.org/wiki/God_(MUD),God,god,god-mud,PER
+God,11932491,708,565,5042765;11003920;5359259;7515857;1813169,http://en.wikipedia.org/wiki/God_in_Judaism,God in Judaism,god-in-judaism,god-in-judaism,UNK
+God,31405,9,32,5042765;6037917;31405,http://en.wikipedia.org/wiki/The_nature_of_God_in_Western_theology,The nature of God in Western theology,the-nature-of-god-in-western-theology,the-nature-of-god-in-western-theology,UNK
+God,5503439,1,4,,"http://en.wikipedia.org/wiki/God,_Heaven,_and_Har_Magedon","God, Heaven, and Har Magedon",god-heaven-and-har-magedon,god-heaven-and-har-magedon,UNK
+God,25793095,24,66,7515857;25793095,http://en.wikipedia.org/wiki/National_god,National god,national-god,national-god,ORG
+Benazir,193737,759,373,28171281;409053;409058;409087;1965925;8431743;3662295;265059;374012;14923769;14904290;993655;1030551;377428;2275631;17123;24751;17275084;23235,http://en.wikipedia.org/wiki/Benazir_Bhutto,Benazir Bhutto,benazir-bhutto,benazir-bhutto,PER
+Benazir,377428,155,113,51153;193737;24751;15294;4301339;23235;32954258,http://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport,Benazir Bhutto International Airport,benazir-bhutto-international-airport,benazir-bhutto-international-airport,UNK
+Benazir,2882793,2,7,51153,http://en.wikipedia.org/wiki/Benazir_Bhutto_Road,Benazir Bhutto Road,benazir-bhutto-road,benazir-bhutto-road,UNK
+Benazir,14904290,319,440,374012;993655;409053;193737;17123;14533;17275084;23235,http://en.wikipedia.org/wiki/Assassination_of_Benazir_Bhutto,Assassination of Benazir Bhutto,assassination-of-benazir-bhutto,assassination-of-benazir-bhutto,UNK
+Benazir,14923769,1,14,193737;23235,http://en.wikipedia.org/wiki/Benazir_Bhutto_Hospital,Benazir Bhutto Hospital,benazir-bhutto-hospital,benazir-bhutto-hospital,ORG
+Bhutto,193737,759,373,28171281;409053;409058;409087;1965925;8431743;3662295;265059;374012;14923769;14904290;993655;1030551;377428;2275631;17123;24751;17275084;23235,http://en.wikipedia.org/wiki/Benazir_Bhutto,Benazir Bhutto,benazir-bhutto,benazir-bhutto,PER
+Bhutto,377428,155,113,51153;193737;24751;15294;4301339;23235;32954258,http://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport,Benazir Bhutto International Airport,benazir-bhutto-international-airport,benazir-bhutto-international-airport,UNK
+Bhutto,2882793,2,7,51153,http://en.wikipedia.org/wiki/Benazir_Bhutto_Road,Benazir Bhutto Road,benazir-bhutto-road,benazir-bhutto-road,UNK
+Bhutto,14904290,319,440,374012;993655;409053;193737;17123;14533;17275084;23235,http://en.wikipedia.org/wiki/Assassination_of_Benazir_Bhutto,Assassination of Benazir Bhutto,assassination-of-benazir-bhutto,assassination-of-benazir-bhutto,UNK
+Bhutto,14923769,1,14,193737;23235,http://en.wikipedia.org/wiki/Benazir_Bhutto_Hospital,Benazir Bhutto Hospital,benazir-bhutto-hospital,benazir-bhutto-hospital,ORG
+Asif Ali,28425694,121,57,14533,http://en.wikipedia.org/wiki/Asif_Ali,Asif Ali,asif-ali,asif-ali,PER
+Zardari,993655,537,216,374012;125315;14904290;993655;1030551;409053;193737;17123;6037917;24751;1965925;6375316;14533;17275084;3662295;265059;23235,http://en.wikipedia.org/wiki/Asif_Ali_Zardari,Asif Ali Zardari,asif-ali-zardari,asif-ali-zardari,PER
+Zardari,17275084,13,30,193737;14904290;993655;23235;4495200;17275084,http://en.wikipedia.org/wiki/Zardari_family,Zardari family,zardari-family,zardari-family,UNK
+Zardari,4495200,5,6,8431743;17275084,http://en.wikipedia.org/wiki/Zardari_tribe,Zardari tribe,zardari-tribe,zardari-tribe,UNK
+Nawaz Sharif,374012,724,495,409053;409058;51153;409087;1965925;14533;3662295;4687;265059;125315;14904290;993655;2275631;2275628;2275634;193737;17123;6037917;24751;6375316;23235,http://en.wikipedia.org/wiki/Nawaz_Sharif,Nawaz Sharif,nawaz-sharif,nawaz-sharif,PER
+Pakistan Muslim League,409053,498,429,15294;15684890;429283;409058;409087;1965925;14533;3662295;4687;265059;14124765;374012;125315;14904290;993655;1030551;1791959;2275631;2275628;1026286;2275634;193737;23363;24751;6375316;23235,http://en.wikipedia.org/wiki/Pakistan_Muslim_League_(N),Pakistan Muslim League,pakistan-muslim-league,pakistan-muslim-league-n,ORG
+Pakistan Muslim League,409087,191,154,14124765;409053;409058;193737;17123;6037917;15294;374012;125315;14533;1030551;2275631;2275628;1026286;2275634;23235,http://en.wikipedia.org/wiki/Pakistan_Muslim_League,Pakistan Muslim League,pakistan-muslim-league,pakistan-muslim-league,UNK
+Pakistan Muslim League,2275631,31,58,374012;14124765;1030551;409053;409058;409087;193737;2275628;2275634;23235,http://en.wikipedia.org/wiki/Pakistan_Muslim_League_(J),Pakistan Muslim League,pakistan-muslim-league,pakistan-muslim-league-j,ORG
+Pakistan Muslim League,2275634,112,303,14124765;409053;409058;409087;23363;6037917;374012;1965925;15684890;6375316;3662295;429283;265059;1030551;2275631;2275628;1026286;23235,http://en.wikipedia.org/wiki/Pakistan_Muslim_League_(F),Pakistan Muslim League,pakistan-muslim-league,pakistan-muslim-league-f,ORG
+Pakistan Muslim League,409058,361,332,14124765;374012;15684890;429283;1030551;2275631;2275628;1026286;2275634;409053;409087;193737;23363;1965925;6375316;8431743;3662295;265059;23235,http://en.wikipedia.org/wiki/Pakistan_Muslim_League_(Q),Pakistan Muslim League,pakistan-muslim-league,pakistan-muslim-league-q,ORG
+Pakistan Muslim League,2275628,82,61,14124765;409053;409058;409087;374012;1030551;2275631;2275634;23235,http://en.wikipedia.org/wiki/Pakistan_Muslim_League_(Z),Pakistan Muslim League,pakistan-muslim-league,pakistan-muslim-league-z,UNK
+Pakistan Muslim League,14124765,9,49,1030551;409053;409058;409087;2275631;2275628;2275634;23235,http://en.wikipedia.org/wiki/Pakistan_Muslim_League_(Jinnah),Pakistan Muslim League,pakistan-muslim-league,pakistan-muslim-league-jinnah,ORG
+Sharif,374012,724,495,409053;409058;51153;409087;1965925;14533;3662295;4687;265059;125315;14904290;993655;2275631;2275628;2275634;193737;17123;6037917;24751;6375316;23235,http://en.wikipedia.org/wiki/Nawaz_Sharif,Nawaz Sharif,nawaz-sharif,nawaz-sharif,PER
+Balochistan,4687,942,194,15294;3550581;5019042;5019023;5019004;988673;409053;51153;93764;11320241;8431743;4687;374012;125315;1026286;17123;24751;23235,"http://en.wikipedia.org/wiki/Balochistan,_Pakistan","Balochistan, Pakistan",balochistan-pakistan,balochistan-pakistan,UNK
+Balochistan,8431743,516,137,409058;193737;24717;93764;11320241;4495200;4687;23235,http://en.wikipedia.org/wiki/Balochistan,Balochistan,balochistan,balochistan,UNK
+Balochistan,11320241,5,71,8431743;4687;23235,"http://en.wikipedia.org/wiki/Balochistan,_Afghanistan","Balochistan, Afghanistan",balochistan-afghanistan,balochistan-afghanistan,ORG
+Balochistan,3550581,64,11,988673;4687;23235;93764,http://en.wikipedia.org/wiki/University_of_Balochistan,University of Balochistan,university-of-balochistan,university-of-balochistan,ORG
+Quetta,93764,1069,219,15294;3550581;5019004;988673;51153;93764;1965925;759295;8431743;4687;125315;23363;17123;24751;4301339;23235,http://en.wikipedia.org/wiki/Quetta,Quetta,quetta,quetta,UNK
+Quetta,988673,168,85,93764;3550581;4301339;4687;5019004;23235,http://en.wikipedia.org/wiki/Quetta_District,Quetta District,quetta-district,quetta-district,UNK
+Quetta,4301339,58,58,377428;988673;23235;93764,http://en.wikipedia.org/wiki/Quetta_International_Airport,Quetta International Airport,quetta-international-airport,quetta-international-airport,UNK
+Quetta,5019004,40,55,988673;4687;5019042;23235;24751;93764;5019023,http://en.wikipedia.org/wiki/Quetta_Division,Quetta Division,quetta-division,quetta-division,UNK
+Punjab,24751,2710,433,2458049;5019042;5019023;5019004;409053;3662295;4687;265059;374012;125315;993655;377428;24717;28770946;17123;24751;15294;3177624;23397776;429283;51153;93764;988668;1965925;14533;2959312;1026286;193737;6037917;23235,"http://en.wikipedia.org/wiki/Punjab,_Pakistan","Punjab, Pakistan",punjab-pakistan,punjab-pakistan,UNK
+Punjab,24717,1572,277,28171281;1996872;3662295;265059;125315;24751;10748937;15294;3177624;23397776;429283;51153;988668;8431743;14533;13920327;1026286;23363;6037917;23235,http://en.wikipedia.org/wiki/Punjab_region,Punjab region,punjab-region,punjab-region,GPE
+Punjab,3863559,3,231,17123;23235,http://en.wikipedia.org/wiki/Punjab_Town,Punjab Town,punjab-town,punjab-town,UNK
+Punjab,1967654,0,2,3177624,http://en.wikipedia.org/wiki/Punjab_Province,Punjab Province,punjab-province,punjab-province,GPE
+Punjab,1648117,626,222,5046427;1965925;6375316;14533;23235,http://en.wikipedia.org/wiki/Punjab_Regiment_(Pakistan),Punjab Regiment,punjab-regiment,punjab-regiment-pakistan,ORG
+Punjab,2179445,75,79,5046427;14533,http://en.wikipedia.org/wiki/Punjab_Regiment_(India),Punjab Regiment,punjab-regiment,punjab-regiment-india,ORG
+Punjab,23397776,2357,403,3662295;265059;125315;408215;24717;17123;24751;3177624;23397776;14533;6037917;23235,"http://en.wikipedia.org/wiki/Punjab,_India","Punjab, India",punjab-india,punjab-india,GPE
+Punjab,5046427,6,34,2179445;1648117,http://en.wikipedia.org/wiki/Punjab_Regiment,Punjab Regiment,punjab-regiment,punjab-regiment,UNK
+Punjab,1887624,34,50,28770946;125315;23235,http://en.wikipedia.org/wiki/Punjab_Stadium,Punjab Stadium,punjab-stadium,punjab-stadium,UNK
+Punjab,3177624,221,79,24717;24751;15294;988668;23397776;125315;14533;265059;1967654;23235,http://en.wikipedia.org/wiki/Punjab_Province_(British_India),Punjab Province,punjab-province,punjab-province-british-india,UNK
+Punjab,667382,6,5,,http://en.wikipedia.org/wiki/Punjab_University,Punjab University,punjab-university,punjab-university,ORG
+Lahore,125315,5071,594,5019023;28647430;265059;374012;993655;24717;28770946;17123;24751;23397776;429283;32954258;51153;4213548;13920327;2959312;1026286;2458049;15684890;409053;409087;4687;125315;15294;3177624;1887624;93764;988668;1965925;759295;23235,http://en.wikipedia.org/wiki/Lahore,Lahore,lahore,lahore,GPE
+Lahore,4213548,0,11,125315;23235,http://en.wikipedia.org/wiki/Lahore_pigeon,Lahore pigeon,lahore-pigeon,lahore-pigeon,UNK
+Lahore,5019023,133,139,14533;23363;4687;5019042;24751;988668;5019004;1026286;125315;23235,http://en.wikipedia.org/wiki/Lahore_Division,Lahore Division,lahore-division,lahore-division,UNK
+Lahore,28647430,17,28,125315;23235,"http://en.wikipedia.org/wiki/Lahore,_Virginia","Lahore, Virginia",lahore-virginia,lahore-virginia,GPE
+Lahore,2458049,63,88,28770946;24751;125315;23235,http://en.wikipedia.org/wiki/Lahore_Museum,Lahore Museum,lahore-museum,lahore-museum,UNK
+Lahore,2959312,108,85,2959312;51153;28770946;24751;15294;125315;23235,http://en.wikipedia.org/wiki/University_of_Lahore,University of Lahore,university-of-lahore,university-of-lahore,ORG
+Lahore,28770946,108,92,1887624;2959312;31347934;23363;17123;24751;2458049;125315;23235;32954258,http://en.wikipedia.org/wiki/Geography_of_Lahore,Geography of Lahore,geography-of-lahore,geography-of-lahore,PER
+Lahore,988668,386,169,3177624;125315;5019023;1026286;24717;24751;1965925;14533;23235,http://en.wikipedia.org/wiki/Lahore_District,Lahore District,lahore-district,lahore-district,UNK
+MQM,1030551,412,330,14124765;15684890;993655;429283;1791959;2275631;2275628;1026286;2275634;409053;409058;51153;409087;193737;23363;17123;1965925;6375316;14533;3662295;265059;23235,http://en.wikipedia.org/wiki/Muttahida_Qaumi_Movement,Muttahida Qaumi Movement,muttahida-qaumi-movement,muttahida-qaumi-movement,UNK
+India,14533,128644,998,1965925;14533;265059;17123;4181941;23363;23235;24717;24751;1648117;14904290;5019023;51153;13472210;1329287;24442938;6037917;27264339;4125366;23397776;28425694;374012;3816837;1813169;11804183;409053;409087;408215;407754;10748937;764545;2179445;3177624;759295;1026286;1030551;2707882;6375316;1996872;993655;4971438;988668,http://en.wikipedia.org/wiki/India,India,india,india,GPE
+India,23859009,202,238,,http://en.wikipedia.org/wiki/India_Longford,India Longford,india-longford,india-longford,UNK
+India,1996872,237,210,24717;14533;764545,http://en.wikipedia.org/wiki/Greater_India,Greater India,greater-india,greater-india,UNK
+India,408215,1702,412,265059;2707882;23397776;14533,http://en.wikipedia.org/wiki/Communist_Party_of_India,Communist Party of India,communist-party-of-india,communist-party-of-india,UNK
+India,37474285,35,33,,http://en.wikipedia.org/wiki/India:_Matri_Bhumi,India: Matri Bhumi,india-matri-bhumi,india-matri-bhumi,UNK
+India,2707882,294,379,408215;51153;17123;14533;265059;764545,http://en.wikipedia.org/wiki/Indian_maritime_history,Indian maritime history,indian-maritime-history,indian-maritime-history,UNK
+India,13472210,4,3,14533,"http://en.wikipedia.org/wiki/India,_China_&_America_Institute","India, China & America Institute",india-china-america-institute,india-china-america-institute,ORG
+India,33347419,30,51,,http://en.wikipedia.org/wiki/India_Song,India Song,india-song,india-song,UNK
+India,764545,43,179,2707882;1996872;14533;265059;23235,http://en.wikipedia.org/wiki/Names_of_India,Names of India,names-of-india,names-of-india,UNK
+India,37053158,18,18,,http://en.wikipedia.org/wiki/India?,India?,india,india,UNK
+India,32553670,2,105,,"http://en.wikipedia.org/wiki/India,_India","India, India",india-india,india-india,UNK
+India,10748937,370,470,24717;6037917;14533;23235,http://en.wikipedia.org/wiki/British_Indian,British Indian,british-indian,british-indian,UNK
+India,4971438,68,93,14533,http://en.wikipedia.org/wiki/India_(cat),India,india,india-cat,UNK
+India,32416870,0,14,,http://en.wikipedia.org/wiki/India_(battle_honour),India,india,india-battle-honour,UNK
+India,1707982,153,57,,http://en.wikipedia.org/wiki/Indian_Health_Service,Indian Health Service,indian-health-service,indian-health-service,ORG
+India,4181941,48,91,4181941;14533,http://en.wikipedia.org/wiki/2006_H5N1_outbreak_in_India,2006 H5N1 outbreak in India,2006-h5n1-outbreak-in-india,2006-h5n1-outbreak-in-india,UNK
+India,11804183,207,175,14533,http://en.wikipedia.org/wiki/India_Tower,India Tower,india-tower,india-tower,UNK
+India,407754,1582,520,759295;14533;23235,http://en.wikipedia.org/wiki/India_national_cricket_team,India national cricket team,india-national-cricket-team,india-national-cricket-team,ORG
+India,4267804,5,7,,http://en.wikipedia.org/wiki/India_(entertainer),India,india,india-entertainer,UNK
+India,27264339,44,56,14533,http://en.wikipedia.org/wiki/India_(East_Syrian_Ecclesiastical_Province),India,india,india-east-syrian-ecclesiastical-province,UNK
+India,13920327,163,208,24717;6037917;125315;23235,http://en.wikipedia.org/wiki/Mongol_invasions_of_India,Mongol invasions of India,mongol-invasions-of-india,mongol-invasions-of-india,UNK
+India,39849556,4,24,23235,http://en.wikipedia.org/wiki/India_(Herodotus),India,india,india-herodotus,UNK
+India,4125366,66,63,14533,http://en.wikipedia.org/wiki/Mr._India,Mr. India,mr-india,mr-india,UNK
+India,1342972,179,87,,http://en.wikipedia.org/wiki/La_India,La India,la-india,la-india,PER
+India,3816837,39,84,14533,http://en.wikipedia.org/wiki/Indian_Science_Congress_Association,Indian Science Congress Association,indian-science-congress-association,indian-science-congress-association,UNK
+India,1329287,3,10,14533,http://en.wikipedia.org/wiki/India_Inc.,India Inc.,india-inc,india-inc,UNK
+Partition,265059,2888,751,28171281;374012;993655;24717;17123;24751;764545;24442938;23397776;429283;12106301;1026286;15684890;409053;409058;3662295;2707882;125315;408215;2275634;6375316;3177624;1965925;759295;14533;1030551;193737;23363;23235,http://en.wikipedia.org/wiki/Partition_of_India,Partition of India,partition-of-india,partition-of-india,UNK
+Partition,55380,211,63,,http://en.wikipedia.org/wiki/Disk_partitioning,Disk partitioning,disk-partitioning,disk-partitioning,UNK
+Partition,16846849,37,78,312252;312255;104790,http://en.wikipedia.org/wiki/Partition_function_(mathematics),Partition function,partition-function,partition-function-mathematics,UNK
+Partition,1983101,97,49,,http://en.wikipedia.org/wiki/Partition_(database),Partition,partition,partition-database,UNK
+Partition,3269567,14,26,340240,http://en.wikipedia.org/wiki/Partition_problem,Partition problem,partition-problem,partition-problem,UNK
+Partition,312252,112,101,16846849;312255,http://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics),Partition function,partition-function,partition-function-statistical-mechanics,UNK
+Partition,104790,171,80,16846849;340240,http://en.wikipedia.org/wiki/Partition_(number_theory),Partition,partition,partition-number-theory,UNK
+Partition,2058731,116,69,,http://en.wikipedia.org/wiki/Partition_(law),Partition,partition,partition-law,UNK
+Partition,340240,206,40,3269567;104790,http://en.wikipedia.org/wiki/Partition_of_a_set,Partition of a set,partition-of-a-set,partition-of-a-set,UNK
+Partition,12106301,91,58,265059;12106301,http://en.wikipedia.org/wiki/Partition_(politics),Partition,partition,partition-politics,UNK
+Partition,312255,81,103,16846849;312252,http://en.wikipedia.org/wiki/Partition_function_(quantum_field_theory),Partition function,partition-function,partition-function-quantum-field-theory,UNK
+Partition,2301383,13,36,,http://en.wikipedia.org/wiki/Logical_partition_(virtual_computing_platform),Logical partition,logical-partition,logical-partition-virtual-computing-platform,UNK

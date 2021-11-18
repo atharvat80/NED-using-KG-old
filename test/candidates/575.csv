@@ -1,0 +1,50 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+China,5405,76886,1206,5405;2259195;26207532;29031717;18603746;33167689;6108359;23237;155516;14891223;32919758;50821;4463189;919199;32368554;11312909;3733255;40710796;332456;217487;601694;1231558;367843;11641871;250109;124485,http://en.wikipedia.org/wiki/China,China,china,china,GPE
+China,9041110,9,11,,http://en.wikipedia.org/wiki/China_Club,China Club,china-club,china-club,UNK
+China,36907282,1,7,,http://en.wikipedia.org/wiki/BBC_China,BBC China,bbc-china,bbc-china,UNK
+China,30809009,1,14,,http://en.wikipedia.org/wiki/China_(footballer_born_1964),China,china,china-footballer-born-1964,PER
+China,3676975,33,38,,http://en.wikipedia.org/wiki/China_Kantner,China Kantner,china-kantner,china-kantner,PER
+China,32215636,132,153,,"http://en.wikipedia.org/wiki/China,_IL","China, IL",china-il,china-il,UNK
+China,11641871,21,20,5405,http://en.wikipedia.org/wiki/China_Team,China Team,china-team,china-team,ORG
+China,6108359,52,54,5405,http://en.wikipedia.org/wiki/China_(Epcot),China,china,china-epcot,UNK
+China,332456,4,14,5405,http://en.wikipedia.org/wiki/China_Hotel,China Hotel,china-hotel,china-hotel,UNK
+China,33167689,655,414,217487;250109;50821;18603746;5405;155516;367843;184224;23237,http://en.wikipedia.org/wiki/Republic_of_China_(1912–49),Republic of China,republic-of-china,republic-of-china-1912–49,GPE
+China,689521,269,153,,http://en.wikipedia.org/wiki/China_Beach,China Beach,china-beach,china-beach,UNK
+China,5865836,201,77,,http://en.wikipedia.org/wiki/Chin,Chin,chin,chin,UNK
+China,2259195,63,130,18603746;5405,http://en.wikipedia.org/wiki/Recognition_of_same-sex_unions_in_China,Recognition of same-sex unions in China,recognition-of-same-sex-unions-in-china,recognition-of-same-sex-unions-in-china,GPE
+China,29668485,209,261,,http://en.wikipedia.org/wiki/China_(The_Office),China,china,china-the-office,UNK
+China,1231558,12,53,5405,http://en.wikipedia.org/wiki/China_Poblana,China Poblana,china-poblana,china-poblana,UNK
+China,1002769,48,20,,http://en.wikipedia.org/wiki/China_Records,China Records,china-records,china-records,UNK
+China,20500198,0,22,,http://en.wikipedia.org/wiki/China_(footballer_born_1980),China,china,china-footballer-born-1980,PER
+China,40710796,6,16,5405,http://en.wikipedia.org/wiki/China_Association,China Association,china-association,china-association,ORG
+China,6421885,57,48,,"http://en.wikipedia.org/wiki/China,_Nuevo_León","China, Nuevo León",china-nuevo-leon,china-nuevo-leon,GPE
+China,29031717,42,83,5405,http://en.wikipedia.org/wiki/China_(Superleague_Formula_team),China,china,china-superleague-formula-team,UNK
+China,33089020,4,14,,http://en.wikipedia.org/wiki/On_China,On China,on-china,on-china,UNK
+China,367843,339,506,5405;217487;155516;367843;33167689;23237,http://en.wikipedia.org/wiki/Religion_in_China,Religion in China,religion-in-china,religion-in-china,UNK
+China,184224,201,253,18603746;33167689;124485,http://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China,Flag of the Republic of China,flag-of-the-republic-of-china,flag-of-the-republic-of-china,UNK
+China,217487,320,734,217487;33167689;18603746;5405;367843;23237,http://en.wikipedia.org/wiki/Human_rights_in_China,Human rights in China,human-rights-in-china,human-rights-in-china,ORG
+China,23237,408,328,18603746;5405;917647;217487;155516;367843;601694;33167689;50821,http://en.wikipedia.org/wiki/Geography_of_China,Geography of China,geography-of-china,geography-of-china,UNK
+China,3733255,99,95,5405,http://en.wikipedia.org/wiki/China_Institute,China Institute,china-institute,china-institute,UNK
+China,32919758,2,19,5405,http://en.wikipedia.org/wiki/China_Information,China Information,china-information,china-information,ORG
+China,124485,570,414,5405;11312909;184224;124485,http://en.wikipedia.org/wiki/China_Airlines,China Airlines,china-airlines,china-airlines,UNK
+China,601694,143,45,5405;23237,http://en.wikipedia.org/wiki/Greater_China,Greater China,greater-china,greater-china,UNK
+China,21265151,4,9,,http://en.wikipedia.org/wiki/China_Beach_(Canada),China Beach,china-beach,china-beach-canada,UNK
+BEIJING,18603746,17387,1124,5405;2259195;1216759;26207532;34423576;658408;14891223;18603746;50821;33167689;4463189;13371938;23237;217487;184224;250109;919199;917647;32368554;155516,http://en.wikipedia.org/wiki/Beijing,Beijing,beijing,beijing,GPE
+BEIJING,34423576,36,125,155516;18603746;917647,http://en.wikipedia.org/wiki/Names_of_Beijing,Names of Beijing,names-of-beijing,names-of-beijing,ORG
+BEIJING,917647,38,156,34423576;18603746;23237,http://en.wikipedia.org/wiki/Geography_of_Beijing,Geography of Beijing,geography-of-beijing,geography-of-beijing,UNK
+BEIJING,13371938,36,44,18603746,http://en.wikipedia.org/wiki/Beijing_(locomotive),Beijing,beijing,beijing-locomotive,UNK
+BEIJING,4463189,80,121,18603746;5405,http://en.wikipedia.org/wiki/Beijing_Ancient_Observatory,Beijing Ancient Observatory,beijing-ancient-observatory,beijing-ancient-observatory,UNK
+BEIJING,1216759,19,28,18603746,http://en.wikipedia.org/wiki/Beijing_Hotel,Beijing Hotel,beijing-hotel,beijing-hotel,UNK
+BEIJING,26207532,507,339,18603746;5405,http://en.wikipedia.org/wiki/Beijing_National_Stadium,Beijing National Stadium,beijing-national-stadium,beijing-national-stadium,UNK
+Liaoning,155516,2358,338,2059173;33167689;18603746;5405;919199;919201;250109;50821;32368554;155516;367843;34423576;23237;658408,http://en.wikipedia.org/wiki/Liaoning,Liaoning,liaoning,liaoning,UNK
+Liaoning,919199,171,173,155516;18603746;919201;5405;250109;50821;658408,http://en.wikipedia.org/wiki/Liaoning_University,Liaoning University,liaoning-university,liaoning-university,ORG
+Tiantan,14891223,0,8,18603746;5405,http://en.wikipedia.org/wiki/Tiantan_Stadium,Tiantan Stadium,tiantan-stadium,tiantan-stadium,UNK
+Dalian,250109,1262,672,2059173;33167689;18603746;5405;919199;919201;50821;32368554;155516,http://en.wikipedia.org/wiki/Dalian,Dalian,dalian,dalian,GPE
+Dalian,2059173,22,33,155516;250109,http://en.wikipedia.org/wiki/Dalian_Bay,Dalian Bay,dalian-bay,dalian-bay,UNK
+Dalian,32368554,79,65,155516;18603746;5405;250109;11312909,http://en.wikipedia.org/wiki/Dalian_Airlines,Dalian Airlines,dalian-airlines,dalian-airlines,UNK
+Dalian,919201,61,44,155516;919199;250109,http://en.wikipedia.org/wiki/Dalian_University,Dalian University,dalian-university,dalian-university,GPE
+Tianjin,50821,2741,669,33167689;31859318;18603746;5405;11312909;919199;250109;50821;23747846;155516;23237;658408,http://en.wikipedia.org/wiki/Tianjin,Tianjin,tianjin,tianjin,GPE
+Tianjin,11312909,442,367,5405;32368554;50821;124485,http://en.wikipedia.org/wiki/Tianjin_Airlines,Tianjin Airlines,tianjin-airlines,tianjin-airlines,ORG
+Tianjin,31859318,3,8,50821,http://en.wikipedia.org/wiki/Tianjin_Grand_Bridge,Tianjin Grand Bridge,tianjin-grand-bridge,tianjin-grand-bridge,UNK
+Tianjin,658408,177,202,155516;919199;18603746;50821;658408,http://en.wikipedia.org/wiki/Tianjin_University,Tianjin University,tianjin-university,tianjin-university,ORG
+Tianjin,23747846,13,25,50821,http://en.wikipedia.org/wiki/Tianjin_Museum,Tianjin Museum,tianjin-museum,tianjin-museum,UNK

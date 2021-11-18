@@ -1,0 +1,34 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Khmer Rouge,17049,870,229,42818904;334751;23960727;30130;30128;24326;868969;5437;222456;5429;1160532;1364336;35804510;5216;27973333;350579;17049;350603;843843;1429661,http://en.wikipedia.org/wiki/Khmer_Rouge,Khmer Rouge,khmer-rouge,khmer-rouge,UNK
+Ieng Sary,1160532,66,42,5216;868969;17049;334751;222456;24326;350603,http://en.wikipedia.org/wiki/Ieng_Sary,Ieng Sary,ieng-sary,ieng-sary,UNK
+Pol Pot,24326,490,338,868969;334751;222456;1160532;5216;23960727;30130;350579;30128;17049;350603;1429661,http://en.wikipedia.org/wiki/Pol_Pot,Pol Pot,pol-pot,pol-pot,UNK
+Thailand,30128,32096,645,350579;350603;5437;5429;5216;27973333;843843;334751;17049;222431;24326;2178404;30130;30128;1429661;20925168;1110063,http://en.wikipedia.org/wiki/Thailand,Thailand,thailand,thailand,GPE
+Thailand,30130,151,254,30130;30128;17049;20925168;334751;5429;24326;222431;1429661,http://en.wikipedia.org/wiki/Geography_of_Thailand,Geography of Thailand,geography-of-thailand,geography-of-thailand,UNK
+Thailand,1110063,1800,460,30128,http://en.wikipedia.org/wiki/Thailand_national_football_team,Thailand national football team,thailand-national-football-team,thailand-national-football-team,UNK
+Thailand,20925168,400,272,222431;30130;30128;20925168,http://en.wikipedia.org/wiki/Monarchy_of_Thailand,Monarchy of Thailand,monarchy-of-thailand,monarchy-of-thailand,GPE
+Cambodian,334751,9020,692,334751;350579;17049;350603;23960727;868969;1160532;5437;5429;222431;35804510;5216;24326;1429661;2178404;533342;30130;30128;1364336;27973333;843843;42818904;30495652;1591347,http://en.wikipedia.org/wiki/Cambodia,Cambodia,cambodia,cambodia,GPE
+Cambodian,27973333,252,224,30128;17049;334751;1364336;2178404;5216;1429661,http://en.wikipedia.org/wiki/Cambodian_Canadian,Cambodian Canadian,cambodian-canadian,cambodian-canadian,UNK
+Cambodian,1364336,116,117,5216;17049;27973333;334751;1429661;2178404,http://en.wikipedia.org/wiki/Cambodian_American,Cambodian American,cambodian-american,cambodian-american,UNK
+Cambodian,843843,408,479,42818904;334751;5437;5216;350579;30128;17049;350603;1429661,http://en.wikipedia.org/wiki/Cambodian_cuisine,Cambodian cuisine,cambodian-cuisine,cambodian-cuisine,UNK
+Ta Mok,222456,43,38,5216;868969;17049;24326;1160532;1429661,http://en.wikipedia.org/wiki/Ta_Mok,Ta Mok,ta-mok,ta-mok,PER
+Son Sen,868969,38,62,5216;17049;334751;222456;24326;1160532;350603,http://en.wikipedia.org/wiki/Son_Sen,Son Sen,son-sen,son-sen,PER
+Reuters,18998750,9093,418,18998750;2171552,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Khmer,1429661,420,234,334751;5437;222456;222431;1364336;5216;27973333;30130;30128;17049;24326;2178404;843843,http://en.wikipedia.org/wiki/Khmer_people,Khmer people,khmer-people,khmer-people,UNK
+Khmer,5216,1397,259,42818904;334751;533342;30128;24326;868969;222456;1160532;222431;1364336;5216;27973333;1591347;350579;17049;350603;843843;1429661,http://en.wikipedia.org/wiki/Khmer_language,Khmer language,khmer-language,khmer-language,UNK
+Khmer,533342,362,444,334751;5216;38922420,http://en.wikipedia.org/wiki/Khmer_alphabet,Khmer alphabet,khmer-alphabet,khmer-alphabet,UNK
+Khmer,38922420,5,3,533342,http://en.wikipedia.org/wiki/Khmer_(Unicode_block),Khmer,khmer,khmer-unicode-block,UNK
+Khmer,222431,769,305,334751;30130;30128;20925168;5437;5216;350579;350603;1429661,http://en.wikipedia.org/wiki/Khmer_Empire,Khmer Empire,khmer-empire,khmer-empire,GPE
+Khmer,17049,870,229,42818904;334751;23960727;30130;30128;24326;868969;5437;222456;5429;1160532;1364336;35804510;5216;27973333;350579;17049;350603;843843;1429661,http://en.wikipedia.org/wiki/Khmer_Rouge,Khmer Rouge,khmer-rouge,khmer-rouge,UNK
+Khmer,5437,78,160,350579;30128;42818904;17049;334751;222431;350603;843843;1429661,http://en.wikipedia.org/wiki/Khmer_architecture,Khmer architecture,khmer-architecture,khmer-architecture,UNK
+Khmer,35813752,1,1,,http://en.wikipedia.org/wiki/Khmer_(food),Khmer,khmer,khmer-food,PER
+Cambodia,334751,9020,692,334751;350579;17049;350603;23960727;868969;1160532;5437;5429;222431;35804510;5216;24326;1429661;2178404;533342;30130;30128;1364336;27973333;843843;42818904;30495652;1591347,http://en.wikipedia.org/wiki/Cambodia,Cambodia,cambodia,cambodia,GPE
+Cambodia,35804510,108,316,17049;334751;35804510;2178404,http://en.wikipedia.org/wiki/Little_Cambodia,Little Cambodia,little-cambodia,little-cambodia,UNK
+Cambodia,1591347,22,35,334751;5216,http://en.wikipedia.org/wiki/Cambodia_Airlines,Cambodia Airlines,cambodia-airlines,cambodia-airlines,ORG
+Cambodia,23960727,0,15,334751;24326;17049,"http://en.wikipedia.org/wiki/Cambodia,_Pol_Pot,_and_the_United_States","Cambodia, Pol Pot, and the United States",cambodia-pol-pot-and-the-united-states,cambodia-pol-pot-and-the-united-states,UNK
+Cambodia,350579,103,122,30128;5216;42818904;17049;843843;334751;5437;5429;24326;222431;350603,http://en.wikipedia.org/wiki/Modern_Cambodia,Modern Cambodia,modern-cambodia,modern-cambodia,UNK
+Cambodia,42818904,23,82,350579;5216;17049;843843;5437;334751;5429;350603,http://en.wikipedia.org/wiki/Kingdom_of_Cambodia_(1975–76),Kingdom of Cambodia,kingdom-of-cambodia,kingdom-of-cambodia-1975–76,GPE
+Cambodia,350603,40,181,350579;30128;5216;868969;42818904;17049;843843;334751;5437;5429;24326;1160532;222431,http://en.wikipedia.org/wiki/Kingdom_of_Cambodia_(1953–70),Kingdom of Cambodia,kingdom-of-cambodia,kingdom-of-cambodia-1953–70,GPE
+Cambodia,2178404,109,307,30128;334751;1364336;35804510;27973333;1429661,"http://en.wikipedia.org/wiki/Cambodia_Town,_Long_Beach,_California","Cambodia Town, Long Beach, California",cambodia-town-long-beach-california,cambodia-town-long-beach-california,UNK
+Cambodia,30495652,9,19,334751,http://en.wikipedia.org/wiki/University_of_Cambodia,University of Cambodia,university-of-cambodia,university-of-cambodia,UNK
+Cambodia,5429,95,104,30130;350579;30128;42818904;17049;334751;350603,http://en.wikipedia.org/wiki/Geography_of_Cambodia,Geography of Cambodia,geography-of-cambodia,geography-of-cambodia,UNK

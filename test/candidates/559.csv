@@ -1,0 +1,56 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Estonian,28222445,21079,1385,522384;670051;28222445;424689;347511;7004569;379555;11444440;379531;9052109;10223;9388;9391;18998750;11691277;1006164;11439522;353011;5639489;39624644;4457786;3502683;13579784;787614;341466;26779;31577;31611;12233253,http://en.wikipedia.org/wiki/Estonia,Estonia,estonia,estonia,GPE
+Estonian,5639489,43,44,31577;26779;379531;28222445,http://en.wikipedia.org/wiki/Estonian_Institute,Estonian Institute,estonian-institute,estonian-institute,UNK
+Estonian,12233253,0,24,28222445,http://en.wikipedia.org/wiki/Estonian_International,Estonian International,estonian-international,estonian-international,UNK
+Estonian,347511,705,268,522384;347511;31577;10223;379531;670051;9388;9391;13579784;28222445,http://en.wikipedia.org/wiki/Estonians,Estonians,estonians,estonians,UNK
+Estonian,10223,2378,273,424689;347511;9388;9391;13579784;625864;522384;39624644;4457786;787614;31577;31611;3502683;379555;379531;670051;26779;28222445,http://en.wikipedia.org/wiki/Estonian_language,Estonian language,estonian-language,estonian-language,UNK
+Estonian,379555,233,179,31577;341466;424689;10223;28222445,http://en.wikipedia.org/wiki/Estonian_Centre_Party,Estonian Centre Party,estonian-centre-party,estonian-centre-party,ORG
+Estonian,3502683,120,113,10223;3502683;28222445,http://en.wikipedia.org/wiki/Estonian_Wikipedia,Estonian Wikipedia,estonian-wikipedia,estonian-wikipedia,UNK
+TALLINN,31577,4588,847,9052109;5639489;10223;9388;9391;522384;39624644;4457786;11691277;670051;26779;28222445;1006164;424689;11439522;347511;13579784;787614;31577;31611;379555;11444440;379531,http://en.wikipedia.org/wiki/Tallinn,Tallinn,tallinn,tallinn,GPE
+TALLINN,787614,300,244,31577;11691277;31611;4457786;10223;28222445,http://en.wikipedia.org/wiki/Tallinn_University_of_Technology,Tallinn University of Technology,tallinn-university-of-technology,tallinn-university-of-technology,ORG
+TALLINN,31611,47,303,787614;31577;11691277;26779;4457786;10223;379531;28222445,http://en.wikipedia.org/wiki/Tallinn_Airport,Tallinn Airport,tallinn-airport,tallinn-airport,UNK
+TALLINN,4457786,190,129,787614;31577;11691277;31611;10223;28222445,http://en.wikipedia.org/wiki/Tallinn_University,Tallinn University,tallinn-university,tallinn-university,ORG
+TALLINN,39624644,40,25,31577;10223;28222445,http://en.wikipedia.org/wiki/Tallinn_Bay,Tallinn Bay,tallinn-bay,tallinn-bay,UNK
+Estonia,28222445,21079,1385,522384;670051;28222445;424689;347511;7004569;379555;11444440;379531;9052109;10223;9388;9391;18998750;11691277;1006164;11439522;353011;5639489;39624644;4457786;3502683;13579784;787614;341466;26779;31577;31611;12233253,http://en.wikipedia.org/wiki/Estonia,Estonia,estonia,estonia,GPE
+Estonia,9052109,7,8,31577;28222445,http://en.wikipedia.org/wiki/Estonia_Piano_Factory,Estonia Piano Factory,estonia-piano-factory,estonia-piano-factory,UNK
+Estonia,7004569,2,19,7004569;28222445,http://en.wikipedia.org/wiki/Estonia_(race_car),Estonia,estonia,estonia-race-car,UNK
+Estonia,9388,181,200,31577;670051;9388;9391;26779;13579784;347511;10223;28222445,http://en.wikipedia.org/wiki/Geography_of_Estonia,Geography of Estonia,geography-of-estonia,geography-of-estonia,UNK
+Estonia,1006164,1384,455,31577;26779;28222445,http://en.wikipedia.org/wiki/Estonia_national_football_team,Estonia national football team,estonia-national-football-team,estonia-national-football-team,UNK
+Estonia,670051,311,244,31577;11444440;10223;9388;9391;13579784;347511;28222445,http://en.wikipedia.org/wiki/Governorate_of_Estonia,Governorate of Estonia,governorate-of-estonia,governorate-of-estonia,UNK
+Estonia,522384,192,97,31577;26779;347511;10223;28222445,http://en.wikipedia.org/wiki/MS_Estonia,MS Estonia,ms-estonia,ms-estonia,UNK
+Estonia,11444440,23,27,31577;670051;28222445,http://en.wikipedia.org/wiki/Autonomous_Governorate_of_Estonia,Autonomous Governorate of Estonia,autonomous-governorate-of-estonia,autonomous-governorate-of-estonia,UNK
+Estonia,13579784,318,489,31577;10223;670051;9388;9391;26779;347511;28222445,http://en.wikipedia.org/wiki/Estonia_at_the_Olympics,Estonia at the Olympics,estonia-at-the-olympics,estonia-at-the-olympics,UNK
+Estonia,11691277,109,81,787614;31577;31611;4457786;28222445,http://en.wikipedia.org/wiki/Estonia_Theatre,Estonia Theatre,estonia-theatre,estonia-theatre,UNK
+Estonia,9391,365,456,31577;424689;10223;670051;9388;9391;26779;13579784;18998750;347511;28222445,http://en.wikipedia.org/wiki/Economy_of_Estonia,Economy of Estonia,economy-of-estonia,economy-of-estonia,UNK
+Estonia,11439522,18,44,31577;424689;28222445,http://en.wikipedia.org/wiki/2007_cyberattacks_on_Estonia,2007 cyberattacks on Estonia,2007-cyberattacks-on-estonia,2007-cyberattacks-on-estonia,UNK
+Lennart Meri,379531,147,148,31577;31611;5639489;341466;26779;347511;10223;28222445,http://en.wikipedia.org/wiki/Lennart_Meri,Lennart Meri,lennart-meri,lennart-meri,PER
+Meri,379531,147,148,31577;31611;5639489;341466;26779;347511;10223;28222445,http://en.wikipedia.org/wiki/Lennart_Meri,Lennart Meri,lennart-meri,lennart-meri,PER
+Soviet Union,26779,47970,815,2253373;625864;28222445;10223;9388;9391;80197;635611;353011;13579784;341466;4751135;26779;31577;31611;522384;379531;723059;1006164;5639489,http://en.wikipedia.org/wiki/Soviet_Union,Soviet Union,soviet-union,soviet-union,UNK
+Soviet Union,635611,403,318,4751135;26779;2253373;625864,http://en.wikipedia.org/wiki/Collectivization_in_the_Soviet_Union,Collectivization in the Soviet Union,collectivization-in-the-soviet-union,collectivization-in-the-soviet-union,UNK
+Soviet Union,353011,103,156,26779;28222445,http://en.wikipedia.org/wiki/Territories_of_Poland_annexed_by_the_Soviet_Union,Territories of Poland annexed by the Soviet Union,territories-of-poland-annexed-by-the-soviet-union,territories-of-poland-annexed-by-the-soviet-union,UNK
+Arnold Ruutel,341466,88,97,26779;379555;379531;28222445,http://en.wikipedia.org/wiki/Arnold_Rüütel,Arnold Rüütel,arnold-ruutel,arnold-ruutel,PER
+Reform Party,424689,253,197,31577;11439522;9391;379555;10223;28222445,http://en.wikipedia.org/wiki/Estonian_Reform_Party,Estonian Reform Party,estonian-reform-party,estonian-reform-party,ORG
+Reform Party,18522917,53,33,18522917,http://en.wikipedia.org/wiki/Reform_Party_(Singapore),Reform Party,reform-party,reform-party-singapore,UNK
+Reform Party,36563663,22,13,295504,http://en.wikipedia.org/wiki/Reform_Party_(19th-century_Wisconsin),Reform Party,reform-party,reform-party-19th-century-wisconsin,ORG
+Reform Party,295504,897,176,36563663,http://en.wikipedia.org/wiki/Reform_Party_of_the_United_States_of_America,Reform Party of the United States of America,reform-party-of-the-united-states-of-america,reform-party-of-the-united-states-of-america,UNK
+Reform Party,1831008,8,15,,http://en.wikipedia.org/wiki/Reform_Party_(Northern_Mariana_Islands),Reform Party,reform-party,reform-party-northern-mariana-islands,UNK
+Reform Party,7173333,23,25,,http://en.wikipedia.org/wiki/Freedom_and_Reform_Party,Freedom and Reform Party,freedom-and-reform-party,freedom-and-reform-party,UNK
+Reform Party,32446328,71,35,,http://en.wikipedia.org/wiki/Reform_Party_(Latvia),Reform Party,reform-party,reform-party-latvia,ORG
+Reform Party,566799,18,191,,http://en.wikipedia.org/wiki/Reform_Party_(Gibraltar),Reform Party,reform-party,reform-party-gibraltar,UNK
+Reform Party,17181688,5,13,25867605,http://en.wikipedia.org/wiki/Reform_Party_(Norway),Reform Party,reform-party,reform-party-norway,UNK
+Reform Party,1130153,469,114,,http://en.wikipedia.org/wiki/New_Zealand_Reform_Party,New Zealand Reform Party,new-zealand-reform-party,new-zealand-reform-party,UNK
+Reform Party,3276195,8,12,,http://en.wikipedia.org/wiki/Reform_Party_(Palestine),Reform Party,reform-party,reform-party-palestine,UNK
+Reform Party,216395,973,185,,http://en.wikipedia.org/wiki/Reform_Party_of_Canada,Reform Party of Canada,reform-party-of-canada,reform-party-of-canada,ORG
+Reform Party,25867605,8,15,17181688,"http://en.wikipedia.org/wiki/Reform_Party_(Norway,_1974)",Reform Party,reform-party,reform-party-norway-1974,UNK
+Reform Party,11254905,513,306,,http://en.wikipedia.org/wiki/Reform_Party_(South_Africa),Reform Party,reform-party,reform-party-south-africa,UNK
+Reform Party,1725091,82,36,,http://en.wikipedia.org/wiki/National_Reform_Party_(Ghana),National Reform Party,national-reform-party,national-reform-party-ghana,UNK
+Reuters,18998750,9093,418,28222445;9391;18998750;2171552,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Ruutel,341466,88,97,26779;379555;379531;28222445,http://en.wikipedia.org/wiki/Arnold_Rüütel,Arnold Rüütel,arnold-ruutel,arnold-ruutel,PER
+Soviet,26779,47970,815,2253373;625864;28222445;10223;9388;9391;80197;635611;353011;13579784;341466;4751135;26779;31577;31611;522384;379531;723059;1006164;5639489,http://en.wikipedia.org/wiki/Soviet_Union,Soviet Union,soviet-union,soviet-union,UNK
+Soviet,723059,390,412,26779,http://en.wikipedia.org/wiki/Soviet_space_program,Soviet space program,soviet-space-program,soviet-space-program,UNK
+Soviet,80197,1587,877,80197;4751135;26779,http://en.wikipedia.org/wiki/Soviet_war_in_Afghanistan,Soviet war in Afghanistan,soviet-war-in-afghanistan,soviet-war-in-afghanistan,UNK
+Soviet,7638944,46,77,,http://en.wikipedia.org/wiki/Soviet_Song,Soviet Song,soviet-song,soviet-song,UNK
+Soviet,625864,241,58,635611;26779;2253373;625864;10223,http://en.wikipedia.org/wiki/Soviet_(council),Soviet,soviet,soviet-council,GPE
+Soviet,2253373,218,145,635611;26779;2253373;625864,http://en.wikipedia.org/wiki/Soviet_democracy,Soviet democracy,soviet-democracy,soviet-democracy,UNK
+Soviet,4751135,587,597,80197;635611;4751135;26779,http://en.wikipedia.org/wiki/Soviet_war_crimes,Soviet war crimes,soviet-war-crimes,soviet-war-crimes,UNK

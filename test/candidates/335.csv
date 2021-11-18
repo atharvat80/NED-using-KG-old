@@ -1,0 +1,83 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+CANADIAN OPEN,1872219,284,636,1547951;64646;1723516;17416221;4689264,http://en.wikipedia.org/wiki/Canadian_Open_(tennis),Canadian Open,canadian-open,canadian-open-tennis,UNK
+CANADIAN OPEN,28301023,73,87,28301023,http://en.wikipedia.org/wiki/Canadian_Open_(darts),Canadian Open,canadian-open,canadian-open-darts,UNK
+CANADIAN OPEN,1558809,230,213,17416221;4689264,http://en.wikipedia.org/wiki/Canadian_Open_(golf),Canadian Open,canadian-open,canadian-open-golf,UNK
+CANADIAN OPEN,12552861,52,149,,http://en.wikipedia.org/wiki/Canadian_Open_(badminton),Canadian Open,canadian-open,canadian-open-badminton,UNK
+TORONTO,64646,25115,951,7955325;1615929;37853325;6349925;31956322;354995;1391447;4559844;4494489;1388323;1872219;2073580;15339223;30981;775381;4689264;242183;178928;178751;4677863;112931;1223873;5395761;115006;129473;64646;798097,http://en.wikipedia.org/wiki/Toronto,Toronto,toronto,toronto,GPE
+TORONTO,8871281,35,7,,"http://en.wikipedia.org/wiki/Toronto,_Indiana","Toronto, Indiana",toronto-indiana,toronto-indiana,UNK
+TORONTO,508759,76,69,,http://en.wikipedia.org/wiki/HMCS_Toronto_(FFH_333),HMCS Toronto,hmcs-toronto,hmcs-toronto-ffh-333,UNK
+TORONTO,775381,138,99,775381;64646,http://en.wikipedia.org/wiki/Toronto_Huskies,Toronto Huskies,toronto-huskies,toronto-huskies,UNK
+TORONTO,31956322,80,90,64646,"http://en.wikipedia.org/wiki/Toronto,_Illinois","Toronto, Illinois",toronto-illinois,toronto-illinois,GPE
+TORONTO,30981,1146,475,4494489;64646;178928;30981;2073580;798097,http://en.wikipedia.org/wiki/Toronto_Transit_Commission,Toronto Transit Commission,toronto-transit-commission,toronto-transit-commission,ORG
+TORONTO,12167265,30,33,,http://en.wikipedia.org/wiki/Toronto_Professional_Hockey_Club,Toronto Professional Hockey Club,toronto-professional-hockey-club,toronto-professional-hockey-club,UNK
+TORONTO,1391447,5,28,64646,"http://en.wikipedia.org/wiki/Toronto,_County_Durham","Toronto, County Durham",toronto-county-durham,toronto-county-durham,GPE
+TORONTO,4677863,1324,546,64646;1478552;4677863,http://en.wikipedia.org/wiki/Toronto_FC,Toronto FC,toronto-fc,toronto-fc,ORG
+TORONTO,1388323,38,23,64646,http://en.wikipedia.org/wiki/Toronto_(band),Toronto,toronto,toronto-band,UNK
+TORONTO,328585,2,4,1223873,http://en.wikipedia.org/wiki/Toronto_Township,Toronto Township,toronto-township,toronto-township,GPE
+TORONTO,1478552,252,254,4677863,http://en.wikipedia.org/wiki/Toronto_Croatia,Toronto Croatia,toronto-croatia,toronto-croatia,UNK
+TORONTO,1615929,405,291,15339223;64646,"http://en.wikipedia.org/wiki/Toronto,_Hamilton_and_Buffalo_Railway","Toronto, Hamilton and Buffalo Railway",toronto-hamilton-and-buffalo-railway,toronto-hamilton-and-buffalo-railway,UNK
+TORONTO,37853325,4,131,7955325;64646,"http://en.wikipedia.org/wiki/University_of_Toronto,_Faculty_of_Music","University of Toronto, Faculty of Music",university-of-toronto-faculty-of-music,university-of-toronto-faculty-of-music,UNK
+TORONTO,18134896,5,12,115006;5859436,http://en.wikipedia.org/wiki/Toronto_Lake_(Kansas),Toronto Lake,toronto-lake,toronto-lake-kansas,GPE
+TORONTO,15339223,151,223,1615929;64646,"http://en.wikipedia.org/wiki/Toronto,_Grey_and_Bruce_Railway","Toronto, Grey and Bruce Railway",toronto-grey-and-bruce-railway,toronto-grey-and-bruce-railway,UNK
+TORONTO,18134924,1,6,5859436,http://en.wikipedia.org/wiki/Toronto_Lake_(New_York),Toronto Lake,toronto-lake,toronto-lake-new-york,UNK
+TORONTO,26987804,1,3,,http://en.wikipedia.org/wiki/Toronto_function,Toronto function,toronto-function,toronto-function,UNK
+TORONTO,178928,546,519,7955325;4494489;4559844;30981;354995;64646;2073580;798097,http://en.wikipedia.org/wiki/Toronto_Islands,Toronto Islands,toronto-islands,toronto-islands,UNK
+TORONTO,115006,21,39,18134896;64646,"http://en.wikipedia.org/wiki/Toronto,_Kansas","Toronto, Kansas",toronto-kansas,toronto-kansas,GPE
+TORONTO,5395761,11,12,64646,http://en.wikipedia.org/wiki/Toronto_GAA,Toronto GAA,toronto-gaa,toronto-gaa,GPE
+TORONTO,1223873,14,14,328585;64646,"http://en.wikipedia.org/wiki/Toronto_Township,_Ontario","Toronto Township, Ontario",toronto-township-ontario,toronto-township-ontario,GPE
+TORONTO,2073580,2331,650,4494489;64646;178928;2073580;798097;30981,http://en.wikipedia.org/wiki/Toronto_Pearson_International_Airport,Toronto Pearson International Airport,toronto-pearson-international-airport,toronto-pearson-international-airport,UNK
+TORONTO,6349925,182,97,17416221;4689264;64646,http://en.wikipedia.org/wiki/Toronto_City,Toronto City,toronto-city,toronto-city,ORG
+TORONTO,178751,1680,204,64646,http://en.wikipedia.org/wiki/Toronto_International_Film_Festival,Toronto International Film Festival,toronto-international-film-festival,toronto-international-film-festival,UNK
+TORONTO,134822,22,33,,"http://en.wikipedia.org/wiki/Toronto,_South_Dakota","Toronto, South Dakota",toronto-south-dakota,toronto-south-dakota,GPE
+TORONTO,5859436,0,2,18134896;18134924,http://en.wikipedia.org/wiki/Toronto_Lake,Toronto Lake,toronto-lake,toronto-lake,UNK
+TORONTO,4559844,271,246,178928;64646,http://en.wikipedia.org/wiki/Old_Toronto,Old Toronto,old-toronto,old-toronto,GPE
+TORONTO,242183,144,146,4689264;64646,"http://en.wikipedia.org/wiki/Toronto,_New_South_Wales","Toronto, New South Wales",toronto-new-south-wales,toronto-new-south-wales,GPE
+TORONTO,354995,341,361,178928;7955325;64646;798097,http://en.wikipedia.org/wiki/Toronto_Eaton_Centre,Toronto Eaton Centre,toronto-eaton-centre,toronto-eaton-centre,UNK
+TORONTO,7955325,6032,701,7955325;4494489;178928;37853325;64646;354995;798097,http://en.wikipedia.org/wiki/University_of_Toronto,University of Toronto,university-of-toronto,university-of-toronto,UNK
+TORONTO,4494489,112,194,178928;30981;7955325;64646;2073580;798097,http://en.wikipedia.org/wiki/Geography_of_Toronto,Geography of Toronto,geography-of-toronto,geography-of-toronto,UNK
+TORONTO,798097,426,364,178928;7955325;4494489;30981;354995;64646;2073580,http://en.wikipedia.org/wiki/Toronto_City_Hall,Toronto City Hall,toronto-city-hall,toronto-city-hall,UNK
+TORONTO,112931,48,75,64646,"http://en.wikipedia.org/wiki/Toronto,_Iowa","Toronto, Iowa",toronto-iowa,toronto-iowa,GPE
+TORONTO,129473,72,316,64646,"http://en.wikipedia.org/wiki/Toronto,_Ohio","Toronto, Ohio",toronto-ohio,toronto-ohio,GPE
+Canadian Open,1872219,284,636,1547951;64646;1723516;17416221;4689264,http://en.wikipedia.org/wiki/Canadian_Open_(tennis),Canadian Open,canadian-open,canadian-open-tennis,UNK
+Canadian Open,28301023,73,87,28301023,http://en.wikipedia.org/wiki/Canadian_Open_(darts),Canadian Open,canadian-open,canadian-open-darts,UNK
+Canadian Open,1558809,230,213,17416221;4689264,http://en.wikipedia.org/wiki/Canadian_Open_(golf),Canadian Open,canadian-open,canadian-open-golf,UNK
+Canadian Open,12552861,52,149,,http://en.wikipedia.org/wiki/Canadian_Open_(badminton),Canadian Open,canadian-open,canadian-open-badminton,UNK
+Wayne Ferreira,1723516,850,280,1872219;1547951;17416221;4689264,http://en.wikipedia.org/wiki/Wayne_Ferreira,Wayne Ferreira,wayne-ferreira,wayne-ferreira,PER
+South Africa,17416221,57523,1123,6349925;3394012;1558809;1547951;1460635;65639;759263;17416221;1872219;1018598;12303804;4689264;8822906;1723516;363843;376115,http://en.wikipedia.org/wiki/South_Africa,South Africa,south-africa,south-africa,GPE
+South Africa,8822906,78,102,17416221,http://en.wikipedia.org/wiki/South_Africa_(The_Goodies),South Africa,south-africa,south-africa-the-goodies,UNK
+South Africa,759263,1457,311,3394012;1018598;376115;17416221,http://en.wikipedia.org/wiki/South_Africa_national_cricket_team,South Africa national cricket team,south-africa-national-cricket-team,south-africa-national-cricket-team,UNK
+South Africa,376115,2028,619,3394012;759263;620967;1018598;17416221,http://en.wikipedia.org/wiki/South_Africa_national_rugby_union_team,South Africa national rugby union team,south-africa-national-rugby-union-team,south-africa-national-rugby-union-team,UNK
+South Africa,35754887,316,351,,http://en.wikipedia.org/wiki/Greater_South_Africa,Greater South Africa,greater-south-africa,greater-south-africa,UNK
+South Africa,12303804,332,115,12303804;17416221;363843,http://en.wikipedia.org/wiki/University_of_South_Africa,University of South Africa,university-of-south-africa,university-of-south-africa,ORG
+South Africa,1018598,1434,587,3394012;759263;376115;17416221;4689264,http://en.wikipedia.org/wiki/South_Africa_national_football_team,South Africa national football team,south-africa-national-football-team,south-africa-national-football-team,UNK
+South Africa,3394012,64,66,4689264;759263;1018598;17416221;376115,http://en.wikipedia.org/wiki/South_Africa_national_Australian_rules_football_team,South Africa national Australian rules football team,south-africa-national-australian-rules-football-team,south-africa-national-australian-rules-football-team,UNK
+South Africa,65639,171,310,17416221;65639,http://en.wikipedia.org/wiki/Geography_of_South_Africa,Geography of South Africa,geography-of-south-africa,geography-of-south-africa,UNK
+South Africa,363843,270,147,12303804;17416221,http://en.wikipedia.org/wiki/State_President_of_South_Africa,State President of South Africa,state-president-of-south-africa,state-president-of-south-africa,UNK
+Todd Woodbridge,1547951,1346,686,1872219;1723516;17416221;4689264,http://en.wikipedia.org/wiki/Todd_Woodbridge,Todd Woodbridge,todd-woodbridge,todd-woodbridge,PER
+Australia,4689264,136194,1016,7214224;3394012;49732;64646;65836;1872219;18950948;26451470;26451467;26451463;26451498;26451490;620967;6349925;450955;1558809;1547951;185052;27960950;20611325;17416221;1018598;4689264;243669;242183;1723516;984508,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australia,450955,49,106,4689264,http://en.wikipedia.org/wiki/Gun_politics_in_Australia,Gun politics in Australia,gun-politics-in-australia,gun-politics-in-australia,UNK
+Australia,18950948,203,272,4689264;18950948;20611325,http://en.wikipedia.org/wiki/Geography_of_Australia,Geography of Australia,geography-of-australia,geography-of-australia,UNK
+Australia,26451467,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Sydney,Australia/Sydney,australia-sydney,australia-sydney,PER
+Australia,23335381,10,15,,http://en.wikipedia.org/wiki/Australia_EP,Australia EP,australia-ep,australia-ep,UNK
+Australia,185052,236,108,4689264,http://en.wikipedia.org/wiki/Australia_Party,Australia Party,australia-party,australia-party,ORG
+Australia,8007505,169,194,,http://en.wikipedia.org/wiki/Australia_Station,Australia Station,australia-station,australia-station,ORG
+Australia,33114696,6,16,,http://en.wikipedia.org/wiki/For_Australia,For Australia,for-australia,for-australia,UNK
+Australia,20214173,19,31,,http://en.wikipedia.org/wiki/Australia_(schooner),Australia,australia,australia-schooner,UNK
+Australia,38961514,2,7,,http://en.wikipedia.org/wiki/Mr._Australia,Mr. Australia,mr-australia,mr-australia,ORG
+Australia,26451490,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Adelaide,Australia/Adelaide,australia-adelaide,australia-adelaide,PER
+Australia,984508,214,355,4689264,http://en.wikipedia.org/wiki/Internet_censorship_in_Australia,Internet censorship in Australia,internet-censorship-in-australia,internet-censorship-in-australia,UNK
+Australia,243669,51,155,4689264,http://en.wikipedia.org/wiki/Australia_II,Australia II,australia-ii,australia-ii,UNK
+Australia,42450678,37,51,,"http://en.wikipedia.org/wiki/Australia,_Mississippi","Australia, Mississippi",australia-mississippi,australia-mississippi,GPE
+Australia,26451463,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Melbourne,Australia/Melbourne,australia-melbourne,australia-melbourne,PER
+Australia,27960950,4,21,4689264;27960950,http://en.wikipedia.org/wiki/MS_Australia,MS Australia,ms-australia,ms-australia,UNK
+Australia,7214224,5,22,4689264,http://en.wikipedia.org/wiki/National_Police_Memorial_Australia,National Police Memorial Australia,national-police-memorial-australia,national-police-memorial-australia,UNK
+Australia,65836,173,290,4689264,http://en.wikipedia.org/wiki/Republicanism_in_Australia,Republicanism in Australia,republicanism-in-australia,republicanism-in-australia,UNK
+Australia,10680720,15,21,,http://en.wikipedia.org/wiki/Australia_Hotel,Australia Hotel,australia-hotel,australia-hotel,UNK
+Australia,37398196,0,1,,http://en.wikipedia.org/wiki/Australia_(KA-5),Australia,australia,australia-ka-5,PER
+Australia,1460635,58,63,17416221,"http://en.wikipedia.org/wiki/Wittenoom,_Western_Australia","Wittenoom, Western Australia",wittenoom-western-australia,wittenoom-western-australia,UNK
+Australia,26451470,2,10,4689264,http://en.wikipedia.org/wiki/Australia/Brisbane,Australia/Brisbane,australia-brisbane,australia-brisbane,PER
+Australia,42585823,126,145,,http://en.wikipedia.org/wiki/Australia_(Modern_Family),Australia,australia,australia-modern-family,UNK
+Australia,26451498,2,9,4689264,http://en.wikipedia.org/wiki/Australia/Perth,Australia/Perth,australia-perth,australia-perth,PER
+Australia,620967,2240,477,376115;4689264,http://en.wikipedia.org/wiki/Australia_national_rugby_union_team,Australia national rugby union team,australia-national-rugby-union-team,australia-national-rugby-union-team,UNK
+Australia,49732,126,120,4689264,http://en.wikipedia.org/wiki/Australia_Group,Australia Group,australia-group,australia-group,ORG
+Australia,20611325,466,326,18950948;4689264;20611325,http://en.wikipedia.org/wiki/Australia_(continent),Australia,australia,australia-continent,UNK

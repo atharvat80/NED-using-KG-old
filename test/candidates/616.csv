@@ -1,0 +1,108 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+AMTRAK,51928,5172,762,1369208;41992;32578;5957063;8620515,http://en.wikipedia.org/wiki/Amtrak,Amtrak,amtrak,amtrak,UNK
+AMTRAK,1369208,560,248,51928,http://en.wikipedia.org/wiki/Amtrak_California,Amtrak California,amtrak-california,amtrak-california,UNK
+AMTRAK,8620515,3,7,51928,http://en.wikipedia.org/wiki/Amtrak_Express_Parcels,Amtrak Express Parcels,amtrak-express-parcels,amtrak-express-parcels,ORG
+Vermont,26324780,51,66,,"http://en.wikipedia.org/wiki/Vermont,_Western_Cape","Vermont, Western Cape",vermont-western-cape,vermont-western-cape,UNK
+Vermont,138925,123,136,138919;33206611;36766169,"http://en.wikipedia.org/wiki/Vermont,_Wisconsin","Vermont, Wisconsin",vermont-wisconsin,vermont-wisconsin,GPE
+Vermont,398763,33,37,192301,http://en.wikipedia.org/wiki/USS_Vermont_(1848),USS Vermont,uss-vermont,uss-vermont-1848,UNK
+Vermont,5957063,54,71,32578;51928,http://en.wikipedia.org/wiki/Vermont_Railway,Vermont Railway,vermont-railway,vermont-railway,UNK
+Vermont,287800,1484,370,32578,http://en.wikipedia.org/wiki/University_of_Vermont,University of Vermont,university-of-vermont,university-of-vermont,ORG
+Vermont,568996,49,53,,"http://en.wikipedia.org/wiki/Vermont,_Victoria","Vermont, Victoria",vermont-victoria,vermont-victoria,UNK
+Vermont,17615285,4,75,32578,http://en.wikipedia.org/wiki/Vermont_Building,Vermont Building,vermont-building,vermont-building,UNK
+Vermont,32578,7764,992,192301;18057552;51928;17615285;205895;28838081;41712962;110607;287800;112134;41992;29962000;32578;5957063;137418,http://en.wikipedia.org/wiki/Vermont,Vermont,vermont,vermont,UNK
+Vermont,15173040,36,51,,"http://en.wikipedia.org/wiki/Vermont,_Indiana","Vermont, Indiana",vermont-indiana,vermont-indiana,GPE
+Vermont,36766169,117,132,138919;33206611;138925,"http://en.wikipedia.org/wiki/Vermont_(community),_Wisconsin","Vermont (community), Wisconsin",vermont-community-wisconsin,vermont-community-wisconsin,GPE
+Vermont,15211204,3,8,,"http://en.wikipedia.org/wiki/Vermont,_Saint_Vincent_and_the_Grenadines","Vermont, Saint Vincent and the Grenadines",vermont-saint-vincent-and-the-grenadines,vermont-saint-vincent-and-the-grenadines,UNK
+Vermont,10294306,78,95,111214,"http://en.wikipedia.org/wiki/Vermont_Township,_Fulton_County,_Illinois","Vermont Township, Fulton County, Illinois",vermont-township-fulton-county-illinois,vermont-township-fulton-county-illinois,UNK
+Vermont,192301,4,7,205895;398763;32578,http://en.wikipedia.org/wiki/USS_Vermont,USS Vermont,uss-vermont,uss-vermont,UNK
+Vermont,15931294,519,523,,http://en.wikipedia.org/wiki/Le_Vermont,Le Vermont,le-vermont,le-vermont,ORG
+Vermont,111214,87,97,10294306,"http://en.wikipedia.org/wiki/Vermont,_Illinois","Vermont, Illinois",vermont-illinois,vermont-illinois,GPE
+Vermont,29962000,3,92,32578,http://en.wikipedia.org/wiki/Lake_Vermont,Lake Vermont,lake-vermont,lake-vermont,UNK
+Vermont,10186024,45,41,,http://en.wikipedia.org/wiki/Vermont_Street_(San_Francisco),Vermont Street,vermont-street,vermont-street-san-francisco,UNK
+Vermont,28838081,23,23,32578,http://en.wikipedia.org/wiki/Vermont_municipality,Vermont municipality,vermont-municipality,vermont-municipality,UNK
+Vermont,205895,34,78,192301;32578,http://en.wikipedia.org/wiki/USS_Vermont_(BB-20),USS Vermont,uss-vermont,uss-vermont-bb-20,UNK
+Vermont,10975422,35,14,,http://en.wikipedia.org/wiki/Vermont_(band),Vermont,vermont,vermont-band,UNK
+MONTPELIER,41992,728,325,32578;570023;110607;557398;137418;112134;18057552;41712962;51928,"http://en.wikipedia.org/wiki/Montpelier,_Vermont","Montpelier, Vermont",montpelier-vermont,montpelier-vermont,GPE
+MONTPELIER,115740,18,15,,"http://en.wikipedia.org/wiki/Montpelier,_Louisiana","Montpelier, Louisiana",montpelier-louisiana,montpelier-louisiana,GPE
+MONTPELIER,2344450,46,177,27854206;18423747,"http://en.wikipedia.org/wiki/Montpelier_(Orange,_Virginia)",Montpelier,montpelier,montpelier-orange-virginia,UNK
+MONTPELIER,5860469,7,14,,"http://en.wikipedia.org/wiki/Montpelier,_County_Limerick","Montpelier, County Limerick",montpelier-county-limerick,montpelier-county-limerick,GPE
+MONTPELIER,570023,80,86,41992;563981,http://en.wikipedia.org/wiki/USS_Montpelier_(SSN-765),USS Montpelier,uss-montpelier,uss-montpelier-ssn-765,UNK
+MONTPELIER,12511562,94,182,,http://en.wikipedia.org/wiki/Montpelier_Hill,Montpelier Hill,montpelier-hill,montpelier-hill,UNK
+MONTPELIER,28849172,169,163,,"http://en.wikipedia.org/wiki/Montpelier,_Jamaica","Montpelier, Jamaica",montpelier-jamaica,montpelier-jamaica,UNK
+MONTPELIER,20147359,45,57,,"http://en.wikipedia.org/wiki/Montpelier,_Kentucky","Montpelier, Kentucky",montpelier-kentucky,montpelier-kentucky,UNK
+MONTPELIER,38037061,3,145,,"http://en.wikipedia.org/wiki/Montpelier_(Cabin_Point,_Virginia)",Montpelier,montpelier,montpelier-cabin-point-virginia,UNK
+MONTPELIER,110607,76,70,41992;32578,"http://en.wikipedia.org/wiki/Montpelier,_Idaho","Montpelier, Idaho",montpelier-idaho,montpelier-idaho,GPE
+MONTPELIER,563981,4,2,557398;570023,http://en.wikipedia.org/wiki/USS_Montpelier,USS Montpelier,uss-montpelier,uss-montpelier,UNK
+MONTPELIER,2700856,26,43,18423747,"http://en.wikipedia.org/wiki/Montpelier,_Hanover_County,_Virginia","Montpelier, Hanover County, Virginia",montpelier-hanover-county-virginia,montpelier-hanover-county-virginia,GPE
+MONTPELIER,112134,49,108,41992;32578,"http://en.wikipedia.org/wiki/Montpelier,_Indiana","Montpelier, Indiana",montpelier-indiana,montpelier-indiana,GPE
+MONTPELIER,18423875,35,39,18423911;18423747,"http://en.wikipedia.org/wiki/Montpelier,_Charles_City_County,_Virginia","Montpelier, Charles City County, Virginia",montpelier-charles-city-county-virginia,montpelier-charles-city-county-virginia,GPE
+MONTPELIER,40681982,3,7,,"http://en.wikipedia.org/wiki/Montpelier,_London","Montpelier, London",montpelier-london,montpelier-london,GPE
+MONTPELIER,18057552,41,51,41992;41712962;32578,"http://en.wikipedia.org/wiki/Montpelier,_Iowa","Montpelier, Iowa",montpelier-iowa,montpelier-iowa,GPE
+MONTPELIER,139239,51,69,,"http://en.wikipedia.org/wiki/Montpelier,_Wisconsin","Montpelier, Wisconsin",montpelier-wisconsin,montpelier-wisconsin,GPE
+MONTPELIER,2151498,121,120,,"http://en.wikipedia.org/wiki/Montpelier,_Maryland","Montpelier, Maryland",montpelier-maryland,montpelier-maryland,GPE
+MONTPELIER,557398,62,90,41992;563981,http://en.wikipedia.org/wiki/USS_Montpelier_(CL-57),USS Montpelier,uss-montpelier,uss-montpelier-cl-57,UNK
+MONTPELIER,18423747,2,3,2344450;2700856;18423875,"http://en.wikipedia.org/wiki/Montpelier,_Virginia","Montpelier, Virginia",montpelier-virginia,montpelier-virginia,GPE
+MONTPELIER,128806,23,52,,"http://en.wikipedia.org/wiki/Montpelier,_North_Dakota","Montpelier, North Dakota",montpelier-north-dakota,montpelier-north-dakota,GPE
+MONTPELIER,25142142,52,59,,"http://en.wikipedia.org/wiki/Montpelier,_California","Montpelier, California",montpelier-california,montpelier-california,GPE
+MONTPELIER,129965,67,67,,"http://en.wikipedia.org/wiki/Montpelier,_Ohio","Montpelier, Ohio",montpelier-ohio,montpelier-ohio,GPE
+MONTPELIER,22184995,51,62,,"http://en.wikipedia.org/wiki/Montpelier_(Clear_Spring,_Maryland)",Montpelier,montpelier,montpelier-clear-spring-maryland,UNK
+MONTPELIER,12392961,72,65,,"http://en.wikipedia.org/wiki/Montpelier_Mansion_(Laurel,_Maryland)",Montpelier Mansion,montpelier-mansion,montpelier-mansion-laurel-maryland,UNK
+MONTPELIER,27854206,20,39,2344450,"http://en.wikipedia.org/wiki/Montpelier_Station,_Virginia","Montpelier Station, Virginia",montpelier-station-virginia,montpelier-station-virginia,GPE
+MONTPELIER,22495651,15,21,,"http://en.wikipedia.org/wiki/Montpelier,_Mississippi","Montpelier, Mississippi",montpelier-mississippi,montpelier-mississippi,UNK
+MONTPELIER,41712962,37,39,41992;18057552;32578,"http://en.wikipedia.org/wiki/Montpelier_Township,_Muscatine_County,_Iowa","Montpelier Township, Muscatine County, Iowa",montpelier-township-muscatine-county-iowa,montpelier-township-muscatine-county-iowa,GPE
+MONTPELIER,40687073,3,147,,"http://en.wikipedia.org/wiki/Montpelier_(Sperryville,_Virginia)",Montpelier,montpelier,montpelier-sperryville-virginia,UNK
+MONTPELIER,33905389,152,307,,"http://en.wikipedia.org/wiki/Montpelier,_Brighton","Montpelier, Brighton",montpelier-brighton,montpelier-brighton,UNK
+Vt,2342518,128,61,,http://en.wikipedia.org/wiki/VT_Group,VT Group,vt-group,vt-group,UNK
+Vt,5420692,26,13,,http://en.wikipedia.org/wiki/VT_Systems,VT Systems,vt-systems,vt-systems,UNK
+Vt,2622712,35,41,,http://en.wikipedia.org/wiki/VTK,VTK,vtk,vtk,UNK
+Amtrak,51928,5172,762,1369208;41992;32578;5957063;8620515,http://en.wikipedia.org/wiki/Amtrak,Amtrak,amtrak,amtrak,UNK
+Amtrak,1369208,560,248,51928,http://en.wikipedia.org/wiki/Amtrak_California,Amtrak California,amtrak-california,amtrak-california,UNK
+Amtrak,8620515,3,7,51928,http://en.wikipedia.org/wiki/Amtrak_Express_Parcels,Amtrak Express Parcels,amtrak-express-parcels,amtrak-express-parcels,ORG
+Roxbury,137418,56,60,41992;573882;32578,"http://en.wikipedia.org/wiki/Roxbury,_Vermont","Roxbury, Vermont",roxbury-vermont,roxbury-vermont,GPE
+Roxbury,138919,233,251,36766169;573882;33206611;138925,"http://en.wikipedia.org/wiki/Roxbury,_Wisconsin","Roxbury, Wisconsin",roxbury-wisconsin,roxbury-wisconsin,GPE
+Roxbury,224696,312,221,573882,"http://en.wikipedia.org/wiki/Roxbury,_Boston","Roxbury, Boston",roxbury-boston,roxbury-boston,GPE
+Roxbury,9128888,51,53,573882,"http://en.wikipedia.org/wiki/Roxbury,_Pennsylvania","Roxbury, Pennsylvania",roxbury-pennsylvania,roxbury-pennsylvania,GPE
+Roxbury,108760,118,149,573882,"http://en.wikipedia.org/wiki/Roxbury,_Connecticut","Roxbury, Connecticut",roxbury-connecticut,roxbury-connecticut,GPE
+Roxbury,14700332,25,33,573882,"http://en.wikipedia.org/wiki/Roxbury,_Kansas","Roxbury, Kansas",roxbury-kansas,roxbury-kansas,GPE
+Roxbury,124556,138,70,573882,"http://en.wikipedia.org/wiki/Roxbury,_New_Hampshire","Roxbury, New Hampshire",roxbury-new-hampshire,roxbury-new-hampshire,GPE
+Roxbury,573882,0,17,40780842;25196639;126362;8699528;125582;224696;9128888;138919;33206611;137418;124556;14700332;116089;108760,http://en.wikipedia.org/wiki/Roxbury,Roxbury,roxbury,roxbury,UNK
+Roxbury,8699528,162,127,573882,"http://en.wikipedia.org/wiki/Roxbury,_Queens","Roxbury, Queens",roxbury-queens,roxbury-queens,UNK
+Roxbury,40780842,4,144,573882,"http://en.wikipedia.org/wiki/Roxbury_(Oak_Grove,_Virginia)",Roxbury,roxbury,roxbury-oak-grove-virginia,UNK
+Roxbury,25196639,3,4,573882,"http://en.wikipedia.org/wiki/Roxbury,_Prince_Edward_Island","Roxbury, Prince Edward Island",roxbury-prince-edward-island,roxbury-prince-edward-island,GPE
+Roxbury,116089,63,90,573882,"http://en.wikipedia.org/wiki/Roxbury,_Maine","Roxbury, Maine",roxbury-maine,roxbury-maine,GPE
+Roxbury,18423911,37,39,18423875,"http://en.wikipedia.org/wiki/Roxbury,_Virginia","Roxbury, Virginia",roxbury-virginia,roxbury-virginia,GPE
+Roxbury,37018324,46,64,,"http://en.wikipedia.org/wiki/Roxbury,_Illinois","Roxbury, Illinois",roxbury-illinois,roxbury-illinois,GPE
+Roxbury,126362,84,71,573882,"http://en.wikipedia.org/wiki/Roxbury,_New_York","Roxbury, New York",roxbury-new-york,roxbury-new-york,GPE
+Roxbury,33206611,117,132,138919;138925;36766169;573882,"http://en.wikipedia.org/wiki/Roxbury_(community),_Wisconsin","Roxbury (community), Wisconsin",roxbury-community-wisconsin,roxbury-community-wisconsin,GPE
+Roxbury,40309565,1,7,,"http://en.wikipedia.org/wiki/Roxbury,_Nova_Scotia","Roxbury, Nova Scotia",roxbury-nova-scotia,roxbury-nova-scotia,UNK
+Roxbury,125582,123,239,573882,"http://en.wikipedia.org/wiki/Roxbury_Township,_New_Jersey","Roxbury Township, New Jersey",roxbury-township-new-jersey,roxbury-township-new-jersey,GPE
+Montpelier,41992,728,325,32578;570023;110607;557398;137418;112134;18057552;41712962;51928,"http://en.wikipedia.org/wiki/Montpelier,_Vermont","Montpelier, Vermont",montpelier-vermont,montpelier-vermont,GPE
+Montpelier,115740,18,15,,"http://en.wikipedia.org/wiki/Montpelier,_Louisiana","Montpelier, Louisiana",montpelier-louisiana,montpelier-louisiana,GPE
+Montpelier,2344450,46,177,27854206;18423747,"http://en.wikipedia.org/wiki/Montpelier_(Orange,_Virginia)",Montpelier,montpelier,montpelier-orange-virginia,UNK
+Montpelier,5860469,7,14,,"http://en.wikipedia.org/wiki/Montpelier,_County_Limerick","Montpelier, County Limerick",montpelier-county-limerick,montpelier-county-limerick,GPE
+Montpelier,570023,80,86,41992;563981,http://en.wikipedia.org/wiki/USS_Montpelier_(SSN-765),USS Montpelier,uss-montpelier,uss-montpelier-ssn-765,UNK
+Montpelier,12511562,94,182,,http://en.wikipedia.org/wiki/Montpelier_Hill,Montpelier Hill,montpelier-hill,montpelier-hill,UNK
+Montpelier,28849172,169,163,,"http://en.wikipedia.org/wiki/Montpelier,_Jamaica","Montpelier, Jamaica",montpelier-jamaica,montpelier-jamaica,UNK
+Montpelier,20147359,45,57,,"http://en.wikipedia.org/wiki/Montpelier,_Kentucky","Montpelier, Kentucky",montpelier-kentucky,montpelier-kentucky,UNK
+Montpelier,38037061,3,145,,"http://en.wikipedia.org/wiki/Montpelier_(Cabin_Point,_Virginia)",Montpelier,montpelier,montpelier-cabin-point-virginia,UNK
+Montpelier,110607,76,70,41992;32578,"http://en.wikipedia.org/wiki/Montpelier,_Idaho","Montpelier, Idaho",montpelier-idaho,montpelier-idaho,GPE
+Montpelier,563981,4,2,557398;570023,http://en.wikipedia.org/wiki/USS_Montpelier,USS Montpelier,uss-montpelier,uss-montpelier,UNK
+Montpelier,2700856,26,43,18423747,"http://en.wikipedia.org/wiki/Montpelier,_Hanover_County,_Virginia","Montpelier, Hanover County, Virginia",montpelier-hanover-county-virginia,montpelier-hanover-county-virginia,GPE
+Montpelier,112134,49,108,41992;32578,"http://en.wikipedia.org/wiki/Montpelier,_Indiana","Montpelier, Indiana",montpelier-indiana,montpelier-indiana,GPE
+Montpelier,18423875,35,39,18423911;18423747,"http://en.wikipedia.org/wiki/Montpelier,_Charles_City_County,_Virginia","Montpelier, Charles City County, Virginia",montpelier-charles-city-county-virginia,montpelier-charles-city-county-virginia,GPE
+Montpelier,40681982,3,7,,"http://en.wikipedia.org/wiki/Montpelier,_London","Montpelier, London",montpelier-london,montpelier-london,GPE
+Montpelier,18057552,41,51,41992;41712962;32578,"http://en.wikipedia.org/wiki/Montpelier,_Iowa","Montpelier, Iowa",montpelier-iowa,montpelier-iowa,GPE
+Montpelier,139239,51,69,,"http://en.wikipedia.org/wiki/Montpelier,_Wisconsin","Montpelier, Wisconsin",montpelier-wisconsin,montpelier-wisconsin,GPE
+Montpelier,2151498,121,120,,"http://en.wikipedia.org/wiki/Montpelier,_Maryland","Montpelier, Maryland",montpelier-maryland,montpelier-maryland,GPE
+Montpelier,557398,62,90,41992;563981,http://en.wikipedia.org/wiki/USS_Montpelier_(CL-57),USS Montpelier,uss-montpelier,uss-montpelier-cl-57,UNK
+Montpelier,18423747,2,3,2344450;2700856;18423875,"http://en.wikipedia.org/wiki/Montpelier,_Virginia","Montpelier, Virginia",montpelier-virginia,montpelier-virginia,GPE
+Montpelier,128806,23,52,,"http://en.wikipedia.org/wiki/Montpelier,_North_Dakota","Montpelier, North Dakota",montpelier-north-dakota,montpelier-north-dakota,GPE
+Montpelier,25142142,52,59,,"http://en.wikipedia.org/wiki/Montpelier,_California","Montpelier, California",montpelier-california,montpelier-california,GPE
+Montpelier,129965,67,67,,"http://en.wikipedia.org/wiki/Montpelier,_Ohio","Montpelier, Ohio",montpelier-ohio,montpelier-ohio,GPE
+Montpelier,22184995,51,62,,"http://en.wikipedia.org/wiki/Montpelier_(Clear_Spring,_Maryland)",Montpelier,montpelier,montpelier-clear-spring-maryland,UNK
+Montpelier,12392961,72,65,,"http://en.wikipedia.org/wiki/Montpelier_Mansion_(Laurel,_Maryland)",Montpelier Mansion,montpelier-mansion,montpelier-mansion-laurel-maryland,UNK
+Montpelier,27854206,20,39,2344450,"http://en.wikipedia.org/wiki/Montpelier_Station,_Virginia","Montpelier Station, Virginia",montpelier-station-virginia,montpelier-station-virginia,GPE
+Montpelier,22495651,15,21,,"http://en.wikipedia.org/wiki/Montpelier,_Mississippi","Montpelier, Mississippi",montpelier-mississippi,montpelier-mississippi,UNK
+Montpelier,41712962,37,39,41992;18057552;32578,"http://en.wikipedia.org/wiki/Montpelier_Township,_Muscatine_County,_Iowa","Montpelier Township, Muscatine County, Iowa",montpelier-township-muscatine-county-iowa,montpelier-township-muscatine-county-iowa,GPE
+Montpelier,40687073,3,147,,"http://en.wikipedia.org/wiki/Montpelier_(Sperryville,_Virginia)",Montpelier,montpelier,montpelier-sperryville-virginia,UNK
+Montpelier,33905389,152,307,,"http://en.wikipedia.org/wiki/Montpelier,_Brighton","Montpelier, Brighton",montpelier-brighton,montpelier-brighton,UNK

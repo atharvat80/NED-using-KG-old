@@ -1,0 +1,159 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+WORLD CUP,2900585,596,210,2900585;7239;266217,http://en.wikipedia.org/wiki/2011_Cricket_World_Cup,2011 Cricket World Cup,2011-cricket-world-cup,2011-cricket-world-cup,UNK
+WORLD CUP,10301463,108,177,183628;951198;263861;11370;22309191;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/World_Cup_(snooker),World Cup,world-cup,world-cup-snooker,UNK
+WORLD CUP,11370,5586,616,52622;147793;183628;157233;695226;33166;250204;11867;263861;11370;2706303;10301463;126460;656933;22309191;362466;951198;1543977;14532;168079;7239;12312312,http://en.wikipedia.org/wiki/FIFA_World_Cup,FIFA World Cup,fifa-world-cup,fifa-world-cup,UNK
+WORLD CUP,22309191,286,125,10301463;183628;951198;263861;11867;11370;22309191;14532;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/UCI_Cyclo-cross_World_Cup,UCI Cyclo-cross World Cup,uci-cyclo-cross-world-cup,uci-cyclo-cross-world-cup,UNK
+WORLD CUP,2706303,281,186,10301463;183628;951198;263861;11867;11370;22309191;14532;1543977;12312312;7239;26964606;2706303,http://en.wikipedia.org/wiki/UCI_Mountain_Bike_World_Cup,UCI Mountain Bike World Cup,uci-mountain-bike-world-cup,uci-mountain-bike-world-cup,ORG
+WORLD CUP,12312312,874,369,10301463;1543977;22309191;183628;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Rugby_League_World_Cup,Rugby League World Cup,rugby-league-world-cup,rugby-league-world-cup,ORG
+WORLD CUP,17269063,107,125,,http://en.wikipedia.org/wiki/Chess_World_Cup,Chess World Cup,chess-world-cup,chess-world-cup,PER
+WORLD CUP,52622,2464,534,52622;126460;41038712;147793;656933;157233;362466;3867414;695226;14532;250204;168079;25036290;11867;11370,http://en.wikipedia.org/wiki/2002_FIFA_World_Cup,2002 FIFA World Cup,2002-fifa-world-cup,2002-fifa-world-cup,UNK
+WORLD CUP,1543977,0,470,10301463;183628;11867;7239;951198;263861;11370;22309191;14532;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_(men's_golf),World Cup,world-cup,world-cup-mens-golf,UNK
+WORLD CUP,7239,828,277,10301463;1543977;22309191;2900585;183628;7239;951198;263861;11370;266217;12312312;2706303,http://en.wikipedia.org/wiki/Cricket_World_Cup,Cricket World Cup,cricket-world-cup,cricket-world-cup,UNK
+WORLD CUP,263861,503,173,10301463;183628;1543977;7239;951198;11370;22309191;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_of_Hockey,World Cup of Hockey,world-cup-of-hockey,world-cup-of-hockey,ORG
+WORLD CUP,951198,797,254,10301463;1543977;22309191;183628;11867;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Hockey_World_Cup,Hockey World Cup,hockey-world-cup,hockey-world-cup,ORG
+WORLD CUP,147793,1790,463,13058;52622;126460;147793;656933;157233;362466;3867414;695226;14532;250204;168079;25036290;11867;11370,http://en.wikipedia.org/wiki/1994_FIFA_World_Cup,1994 FIFA World Cup,1994-fifa-world-cup,1994-fifa-world-cup,UNK
+WORLD CUP,157233,3239,557,52622;147793;157233;265585;3867414;695226;33166;250204;25036290;11867;11370;126460;656933;362466;23623088;14532;168079,http://en.wikipedia.org/wiki/2006_FIFA_World_Cup,2006 FIFA World Cup,2006-fifa-world-cup,2006-fifa-world-cup,UNK
+WORLD CUP,41038712,1,16,52622,http://en.wikipedia.org/wiki/World_Cup_Park,World Cup Park,world-cup-park,world-cup-park,UNK
+WORLD CUP,168079,3921,505,52622;147793;157233;3867414;695226;250204;25036290;11867;11370;126460;656933;362466;168079,http://en.wikipedia.org/wiki/2010_FIFA_World_Cup,2010 FIFA World Cup,2010-fifa-world-cup,2010-fifa-world-cup,UNK
+WORLD CUP,266217,683,220,2900585;7239;266217,http://en.wikipedia.org/wiki/2007_Cricket_World_Cup,2007 Cricket World Cup,2007-cricket-world-cup,2007-cricket-world-cup,UNK
+WORLD CUP,656933,3267,404,52622;147793;157233;695226;250204;11370;126460;656933;362466;168079,http://en.wikipedia.org/wiki/2014_FIFA_World_Cup,2014 FIFA World Cup,2014-fifa-world-cup,2014-fifa-world-cup,UNK
+WORLD CUP,126460,2360,526,52622;126460;147793;656933;157233;362466;3867414;695226;14532;26964606;250204;168079;25036290;11867;11370,http://en.wikipedia.org/wiki/1998_FIFA_World_Cup,1998 FIFA World Cup,1998-fifa-world-cup,1998-fifa-world-cup,UNK
+VAIL,108471,1110,271,6250;7157024;2424607;26964606;183628;5399;5486454,"http://en.wikipedia.org/wiki/Vail,_Colorado","Vail, Colorado",vail-colorado,vail-colorado,GPE
+VAIL,25158035,5,78,,http://en.wikipedia.org/wiki/Vail_Hotel,Vail Hotel,vail-hotel,vail-hotel,UNK
+VAIL,121514,44,63,,"http://en.wikipedia.org/wiki/Vail_Township,_Redwood_County,_Minnesota","Vail Township, Redwood County, Minnesota",vail-township-redwood-county-minnesota,vail-township-redwood-county-minnesota,GPE
+VAIL,9629897,8,16,,http://en.wikipedia.org/wiki/Vail_Lake,Vail Lake,vail-lake,vail-lake,UNK
+VAIL,106730,94,82,,"http://en.wikipedia.org/wiki/Vail,_Arizona","Vail, Arizona",vail-arizona,vail-arizona,GPE
+VAIL,7157024,105,61,5399;108471;1489417;26964606,http://en.wikipedia.org/wiki/Vail_Ski_Resort,Vail Ski Resort,vail-ski-resort,vail-ski-resort,UNK
+VAIL,23238441,8,20,,http://en.wikipedia.org/wiki/Don_Vail,Don Vail,don-vail,don-vail,UNK
+VAIL,112944,43,68,,"http://en.wikipedia.org/wiki/Vail,_Iowa","Vail, Iowa",vail-iowa,vail-iowa,GPE
+VAIL,23711847,2,99,,http://en.wikipedia.org/wiki/Vail-Leavitt_Music_Hall,Vail-Leavitt Music Hall,vail-leavitt-music-hall,vail-leavitt-music-hall,UNK
+Colorado,5399,17573,1186,5399;6250;379210;5486454;108626;196775;7157024;108471;191925;21760649;8580682;19296082;223219;180968;181548;2424607;1489417,http://en.wikipedia.org/wiki/Colorado,Colorado,colorado,colorado,UNK
+Colorado,379210,46,221,5399;26964606,http://en.wikipedia.org/wiki/Colorado_potato_beetle,Colorado potato beetle,colorado-potato-beetle,colorado-potato-beetle,UNK
+Colorado,23531115,1,4,,http://en.wikipedia.org/wiki/Colorado_River_(Maipo),Colorado River,colorado-river,colorado-river-maipo,UNK
+Colorado,588655,138,55,588643;588655,http://en.wikipedia.org/wiki/Colorado_Party_(Paraguay),Colorado Party,colorado-party,colorado-party-paraguay,ORG
+Colorado,4622247,8,12,,http://en.wikipedia.org/wiki/Colorado_River_(Costa_Rica),Colorado River,colorado-river,colorado-river-costa-rica,UNK
+Colorado,23531112,1,4,,http://en.wikipedia.org/wiki/Colorado_River_(Lontué),Colorado River,colorado-river,colorado-river-lontue,UNK
+Colorado,1097945,63,45,191925,http://en.wikipedia.org/wiki/USS_Colorado_(1856),USS Colorado,uss-colorado,uss-colorado-1856,UNK
+Colorado,27209811,1,11,27209811,http://en.wikipedia.org/wiki/El_Colorado_(Santiago_del_Estero),El Colorado,el-colorado,el-colorado-santiago-del-estero,UNK
+Colorado,223219,735,83,5399;181548;223219,http://en.wikipedia.org/wiki/University_of_Colorado,University of Colorado,university-of-colorado,university-of-colorado,UNK
+Colorado,5486454,876,255,6250;5399;181548;108471,http://en.wikipedia.org/wiki/Geography_of_Colorado,Geography of Colorado,geography-of-colorado,geography-of-colorado,UNK
+Colorado,21216986,23,31,191925,http://en.wikipedia.org/wiki/USS_Colorado_(SSN-788),USS Colorado,uss-colorado,uss-colorado-ssn-788,UNK
+Colorado,180969,450,213,91625,http://en.wikipedia.org/wiki/Colorado_River_(Texas),Colorado River,colorado-river,colorado-river-texas,UNK
+Colorado,21760649,65,94,180968;5399,http://en.wikipedia.org/wiki/Colorado_Group,Colorado Group,colorado-group,colorado-group,UNK
+Colorado,23506855,4,7,,http://en.wikipedia.org/wiki/Colorado_River_(Rondônia),Colorado River,colorado-river,colorado-river-rondonia,UNK
+Colorado,16046809,467,479,,"http://en.wikipedia.org/wiki/Colorado,_Rio_Grande_do_Sul","Colorado, Rio Grande do Sul",colorado-rio-grande-do-sul,colorado-rio-grande-do-sul,UNK
+Colorado,25553568,325,387,,"http://en.wikipedia.org/wiki/Colorado,_Paraná","Colorado, Paraná",colorado-parana,colorado-parana,GPE
+Colorado,38428076,2,9,,http://en.wikipedia.org/wiki/Colorado_River_(Potosi),Colorado River,colorado-river,colorado-river-potosi,UNK
+Colorado,6250,3628,450,181548;5486454;5399;108471,"http://en.wikipedia.org/wiki/Colorado_Springs,_Colorado","Colorado Springs, Colorado",colorado-springs-colorado,colorado-springs-colorado,GPE
+Colorado,106670,116,145,,"http://en.wikipedia.org/wiki/Colorado_City,_Arizona","Colorado City, Arizona",colorado-city-arizona,colorado-city-arizona,GPE
+Colorado,136380,319,350,,"http://en.wikipedia.org/wiki/Colorado_City,_Texas","Colorado City, Texas",colorado-city-texas,colorado-city-texas,GPE
+Colorado,36164203,2,15,,http://en.wikipedia.org/wiki/Colorado_International,Colorado International,colorado-international,colorado-international,UNK
+Colorado,23531110,16,22,,http://en.wikipedia.org/wiki/Colorado_River_(Aconcagua),Colorado River,colorado-river,colorado-river-aconcagua,UNK
+Colorado,196775,86,72,5399;191925;207962,http://en.wikipedia.org/wiki/USS_Colorado_(BB-45),USS Colorado,uss-colorado,uss-colorado-bb-45,UNK
+Colorado,180968,1749,604,5399;21760649,http://en.wikipedia.org/wiki/Colorado_River,Colorado River,colorado-river,colorado-river,UNK
+Colorado,40508627,1,100,,http://en.wikipedia.org/wiki/Colorado_Airport,Colorado Airport,colorado-airport,colorado-airport,UNK
+Colorado,181548,928,325,6250;5399;181548;5486454;223219,http://en.wikipedia.org/wiki/Colorado_College,Colorado College,colorado-college,colorado-college,ORG
+Colorado,8580682,9,33,5399,http://en.wikipedia.org/wiki/Colorado_(RTD),Colorado,colorado,colorado-rtd,UNK
+Colorado,22954470,114,116,,"http://en.wikipedia.org/wiki/Colorado,_California","Colorado, California",colorado-california,colorado-california,UNK
+Colorado,588643,247,62,588643;588655,http://en.wikipedia.org/wiki/Colorado_Party_(Uruguay),Colorado Party,colorado-party,colorado-party-uruguay,UNK
+Colorado,27164189,9,7,27164189,http://en.wikipedia.org/wiki/El_Colorado,El Colorado,el-colorado,el-colorado,UNK
+Colorado,180967,1,19,,"http://en.wikipedia.org/wiki/Colorado_River,_Argentina","Colorado River, Argentina",colorado-river-argentina,colorado-river-argentina,UNK
+Colorado,21791530,0,7,,http://en.wikipedia.org/wiki/Colorado_Lake,Colorado Lake,colorado-lake,colorado-lake,UNK
+Colorado,24495315,29,36,,"http://en.wikipedia.org/wiki/Colorado,_Texas","Colorado, Texas",colorado-texas,colorado-texas,GPE
+Colorado,23339016,2,3,,http://en.wikipedia.org/wiki/Colorado_River_(Tempisque_River),Colorado River,colorado-river,colorado-river-tempisque-river,UNK
+Colorado,108626,34,47,5399,"http://en.wikipedia.org/wiki/Colorado_City,_Colorado","Colorado City, Colorado",colorado-city-colorado,colorado-city-colorado,GPE
+Colorado,207962,30,51,191925;196775;26964606;11867,http://en.wikipedia.org/wiki/USS_Colorado_(ACR-7),USS Colorado,uss-colorado,uss-colorado-acr-7,UNK
+Colorado,19296082,1,81,5399,http://en.wikipedia.org/wiki/Colorado_Building,Colorado Building,colorado-building,colorado-building,UNK
+Colorado,91625,490,406,91625;180969,"http://en.wikipedia.org/wiki/Colorado_County,_Texas","Colorado County, Texas",colorado-county-texas,colorado-county-texas,GPE
+Colorado,191925,7,5,207962;1097945;5399;21216986;196775,http://en.wikipedia.org/wiki/USS_Colorado,USS Colorado,uss-colorado,uss-colorado,UNK
+Renate Goetschl,2424607,130,136,183628;5399;108471;1489417;26964606,http://en.wikipedia.org/wiki/Renate_Götschl,Renate Götschl,renate-gotschl,renate-gotschl,UNK
+Austria,26964606,55411,711,1030;2983;695226;11867;13058;14699;14532;27765303;169412;27138927;183628;2424607;21493015;67542;207962;7157024;897351;8419772;2706303;379210;108471;362466;9804204;26964606;250204;126460;6490870;6490884,http://en.wikipedia.org/wiki/Austria,Austria,austria,austria,GPE
+Austria,27765303,256,226,25036290;11867;14532;695226;26964606,http://en.wikipedia.org/wiki/Austria_national_under-19_football_team,Austria national under-19 football team,austria-national-under-19-football-team,austria-national-under-19-football-team,UNK
+Austria,25224993,6,31,,http://en.wikipedia.org/wiki/Austria_(Lombard),Austria,austria,austria-lombard,UNK
+Austria,6490870,478,182,67542;8419772;2983;26964606;6490884,http://en.wikipedia.org/wiki/Archduchy_of_Austria,Archduchy of Austria,archduchy-of-austria,archduchy-of-austria,GPE
+Austria,67542,223,341,21493015;11867;67542;6490870;8419772;14699;2983;14532;26964606;6490884,http://en.wikipedia.org/wiki/Geography_of_Austria,Geography of Austria,geography-of-austria,geography-of-austria,UNK
+Austria,2983,7373,824,2983;67542;9804204;695226;26964606;8419772;6490870;14532;6490884,http://en.wikipedia.org/wiki/Austria-Hungary,Austria-Hungary,austria-hungary,austria-hungary,GPE
+Austria,169412,20,48,26964606;11867,"http://en.wikipedia.org/wiki/Fucking,_Austria","Fucking, Austria",fucking-austria,fucking-austria,UNK
+Austria,8419772,231,177,6490870;8419772;1490969;2983;67542;26964606;6490884,http://en.wikipedia.org/wiki/Religion_in_Austria,Religion in Austria,religion-in-austria,religion-in-austria,ORG
+Austria,695226,1890,498,52622;126460;147793;656933;27765303;157233;362466;33166;2983;14532;26964606;250204;168079;11867;11370,http://en.wikipedia.org/wiki/Austria_national_football_team,Austria national football team,austria-national-football-team,austria-national-football-team,UNK
+Austria,2416949,10,29,,http://en.wikipedia.org/wiki/SS_Austria,SS Austria,ss-austria,ss-austria,UNK
+Austria,6490884,203,126,6490870;8419772;2983;67542;26964606,http://en.wikipedia.org/wiki/Duchy_of_Austria,Duchy of Austria,duchy-of-austria,duchy-of-austria,GPE
+Austria,1030,723,262,26964606;1030,http://en.wikipedia.org/wiki/Austrian_School,Austrian School,austrian-school,austrian-school,UNK
+World Cup,183628,683,343,10301463;1543977;22309191;14532;2424607;26964606;11867;1489417;7239;951198;263861;108471;11370;12312312;2706303,http://en.wikipedia.org/wiki/FIS_Alpine_Ski_World_Cup,FIS Alpine Ski World Cup,fis-alpine-ski-world-cup,fis-alpine-ski-world-cup,GPE
+World Cup,2900585,596,210,2900585;7239;266217,http://en.wikipedia.org/wiki/2011_Cricket_World_Cup,2011 Cricket World Cup,2011-cricket-world-cup,2011-cricket-world-cup,UNK
+World Cup,10301463,108,177,183628;951198;263861;11370;22309191;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/World_Cup_(snooker),World Cup,world-cup,world-cup-snooker,UNK
+World Cup,11370,5586,616,52622;147793;183628;157233;695226;33166;250204;11867;263861;11370;2706303;10301463;126460;656933;22309191;362466;951198;1543977;14532;168079;7239;12312312,http://en.wikipedia.org/wiki/FIFA_World_Cup,FIFA World Cup,fifa-world-cup,fifa-world-cup,UNK
+World Cup,22309191,286,125,10301463;183628;951198;263861;11867;11370;22309191;14532;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/UCI_Cyclo-cross_World_Cup,UCI Cyclo-cross World Cup,uci-cyclo-cross-world-cup,uci-cyclo-cross-world-cup,UNK
+World Cup,2706303,281,186,10301463;183628;951198;263861;11867;11370;22309191;14532;1543977;12312312;7239;26964606;2706303,http://en.wikipedia.org/wiki/UCI_Mountain_Bike_World_Cup,UCI Mountain Bike World Cup,uci-mountain-bike-world-cup,uci-mountain-bike-world-cup,ORG
+World Cup,12312312,874,369,10301463;1543977;22309191;183628;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Rugby_League_World_Cup,Rugby League World Cup,rugby-league-world-cup,rugby-league-world-cup,ORG
+World Cup,17269063,107,125,,http://en.wikipedia.org/wiki/Chess_World_Cup,Chess World Cup,chess-world-cup,chess-world-cup,PER
+World Cup,52622,2464,534,52622;126460;41038712;147793;656933;157233;362466;3867414;695226;14532;250204;168079;25036290;11867;11370,http://en.wikipedia.org/wiki/2002_FIFA_World_Cup,2002 FIFA World Cup,2002-fifa-world-cup,2002-fifa-world-cup,UNK
+World Cup,1543977,0,470,10301463;183628;11867;7239;951198;263861;11370;22309191;14532;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_(men's_golf),World Cup,world-cup,world-cup-mens-golf,UNK
+World Cup,7239,828,277,10301463;1543977;22309191;2900585;183628;7239;951198;263861;11370;266217;12312312;2706303,http://en.wikipedia.org/wiki/Cricket_World_Cup,Cricket World Cup,cricket-world-cup,cricket-world-cup,UNK
+World Cup,263861,503,173,10301463;183628;1543977;7239;951198;11370;22309191;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_of_Hockey,World Cup of Hockey,world-cup-of-hockey,world-cup-of-hockey,ORG
+World Cup,951198,797,254,10301463;1543977;22309191;183628;11867;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Hockey_World_Cup,Hockey World Cup,hockey-world-cup,hockey-world-cup,ORG
+World Cup,147793,1790,463,13058;52622;126460;147793;656933;157233;362466;3867414;695226;14532;250204;168079;25036290;11867;11370,http://en.wikipedia.org/wiki/1994_FIFA_World_Cup,1994 FIFA World Cup,1994-fifa-world-cup,1994-fifa-world-cup,UNK
+World Cup,157233,3239,557,52622;147793;157233;265585;3867414;695226;33166;250204;25036290;11867;11370;126460;656933;362466;23623088;14532;168079,http://en.wikipedia.org/wiki/2006_FIFA_World_Cup,2006 FIFA World Cup,2006-fifa-world-cup,2006-fifa-world-cup,UNK
+World Cup,41038712,1,16,52622,http://en.wikipedia.org/wiki/World_Cup_Park,World Cup Park,world-cup-park,world-cup-park,UNK
+World Cup,168079,3921,505,52622;147793;157233;3867414;695226;250204;25036290;11867;11370;126460;656933;362466;168079,http://en.wikipedia.org/wiki/2010_FIFA_World_Cup,2010 FIFA World Cup,2010-fifa-world-cup,2010-fifa-world-cup,UNK
+World Cup,266217,683,220,2900585;7239;266217,http://en.wikipedia.org/wiki/2007_Cricket_World_Cup,2007 Cricket World Cup,2007-cricket-world-cup,2007-cricket-world-cup,UNK
+World Cup,656933,3267,404,52622;147793;157233;695226;250204;11370;126460;656933;362466;168079,http://en.wikipedia.org/wiki/2014_FIFA_World_Cup,2014 FIFA World Cup,2014-fifa-world-cup,2014-fifa-world-cup,UNK
+World Cup,126460,2360,526,52622;126460;147793;656933;157233;362466;3867414;695226;14532;26964606;250204;168079;25036290;11867;11370,http://en.wikipedia.org/wiki/1998_FIFA_World_Cup,1998 FIFA World Cup,1998-fifa-world-cup,1998-fifa-world-cup,UNK
+Katja Seizinger,1489417,120,91,183628;5399;2424607;7157024,http://en.wikipedia.org/wiki/Katja_Seizinger,Katja Seizinger,katja-seizinger,katja-seizinger,UNK
+Germany,11867,167535,1367,11867;11370;13058;14701;14532;6108409;2793759;8113702;33166;1639662;52622;3867414;27138927;5064191;21493015;67542;883816;362466;9804204;131046;26964606;126460;695226;157233;147793;951198;27765303;169412;168079;1543977;183628;207962;1490969;2706303;22309191;3190225;250204,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+Germany,3190225,341,109,13058;33166;11867;9804204,http://en.wikipedia.org/wiki/Kingdom_of_Germany,Kingdom of Germany,kingdom-of-germany,kingdom-of-germany,GPE
+Germany,33166,17376,488,1490969;21493015;695226;11867;11370;13058;14532;11159076;157233;3190225;362466;250204;897351,http://en.wikipedia.org/wiki/West_Germany,West Germany,west-germany,west-germany,GPE
+Germany,26004346,1,6,,http://en.wikipedia.org/wiki/Germany_Foundation,Germany Foundation,germany-foundation,germany-foundation,UNK
+Germany,8113702,170,233,884716;11867,"http://en.wikipedia.org/wiki/Little_Germany,_Bradford","Little Germany, Bradford",little-germany-bradford,little-germany-bradford,UNK
+Germany,11159076,19,29,33166,"http://en.wikipedia.org/wiki/Germany,_Pale_Mother","Germany, Pale Mother",germany-pale-mother,germany-pale-mother,UNK
+Germany,40919574,2,12,40919574,"http://en.wikipedia.org/wiki/Germany,_Texas","Germany, Texas",germany-texas,germany-texas,UNK
+Germany,13058,10184,611,1490969;3190225;33166;21493015;147793;26964606;250204;11867;13058;897351,http://en.wikipedia.org/wiki/East_Germany,East Germany,east-germany,east-germany,GPE
+Germany,6108409,53,68,6108533;11867,http://en.wikipedia.org/wiki/Germany_(Epcot),Germany,germany,germany-epcot,UNK
+Germany,21493015,248,403,13058;33166;21493015;11867;1490969;67542;14699;26964606,http://en.wikipedia.org/wiki/Geography_of_Germany,Geography of Germany,geography-of-germany,geography-of-germany,UNK
+Germany,2793759,83,197,11867,http://en.wikipedia.org/wiki/Communist_Party_of_Germany_(1990),Communist Party of Germany,communist-party-of-germany,communist-party-of-germany-1990,UNK
+Germany,1271511,0,0,,"http://en.wikipedia.org/wiki/Little_Germany,_Ontario","Little Germany, Ontario",little-germany-ontario,little-germany-ontario,UNK
+Germany,884716,1,4,8113702,http://en.wikipedia.org/wiki/Little_Germany,Little Germany,little-germany,little-germany,UNK
+Germany,131046,77,98,11867,"http://en.wikipedia.org/wiki/Germany_Township,_Adams_County,_Pennsylvania","Germany Township, Adams County, Pennsylvania",germany-township-adams-county-pennsylvania,germany-township-adams-county-pennsylvania,GPE
+Germany,250204,3856,681,52622;147793;157233;695226;33166;26964606;250204;11867;11370;13058;126460;656933;362466;14532;168079,http://en.wikipedia.org/wiki/Germany_national_football_team,Germany national football team,germany-national-football-team,germany-national-football-team,UNK
+Germany,883816,158,187,11867;265585,"http://en.wikipedia.org/wiki/Little_Germany,_Manhattan","Little Germany, Manhattan",little-germany-manhattan,little-germany-manhattan,UNK
+Germany,1490969,272,272,13058;33166;21493015;11867;1490969;8419772,http://en.wikipedia.org/wiki/Religion_in_Germany,Religion in Germany,religion-in-germany,religion-in-germany,UNK
+Germany,11947058,137,165,,http://en.wikipedia.org/wiki/Germany_Valley,Germany Valley,germany-valley,germany-valley,UNK
+Germany,27138927,71,105,26964606;27138927;11867,http://en.wikipedia.org/wiki/The_Biggest_Loser_Germany,The Biggest Loser Germany,the-biggest-loser-germany,the-biggest-loser-germany,ORG
+Germany,5064191,123,136,11867,"http://en.wikipedia.org/wiki/Germany,_Year_Zero","Germany, Year Zero",germany-year-zero,germany-year-zero,UNK
+Germany,41476893,1,36,,http://en.wikipedia.org/wiki/Germany_Kent,Germany Kent,germany-kent,germany-kent,PER
+Italy,14532,127197,1418,2983;11867;11370;23623088;14701;14699;14532;1942377;265585;6108533;33166;1639662;52622;3867414;41381137;67542;1884591;1873263;897351;15391883;362466;9804204;26964606;127616;126460;695226;411234;135842;157233;147793;27765303;1543977;183628;25036290;758372;2706303;22309191;1484334;250204,http://en.wikipedia.org/wiki/Italy,Italy,italy,italy,GPE
+Italy,15540697,55,88,1171144;2170833;704114;35158464;23623088;4304258;1942377;1884591;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Clay_County,_West_Virginia","Little Italy, Clay County, West Virginia",little-italy-clay-county-west-virginia,little-italy-clay-county-west-virginia,GPE
+Italy,3867414,1771,347,52622;126460;147793;157233;362466;14532;168079;25036290;11867,http://en.wikipedia.org/wiki/Italy_national_under-21_football_team,Italy national under-21 football team,italy-national-under-21-football-team,italy-national-under-21-football-team,ORG
+Italy,14701,1074,423,41381137;897351;14701;14699;9804204;14532;11867,http://en.wikipedia.org/wiki/Politics_of_Italy,Politics of Italy,politics-of-italy,politics-of-italy,UNK
+Italy,135842,51,56,14532,"http://en.wikipedia.org/wiki/Italy,_Texas","Italy, Texas",italy-texas,italy-texas,GPE
+Italy,127616,31,48,14532,"http://en.wikipedia.org/wiki/Italy,_New_York","Italy, New York",italy-new-york,italy-new-york,GPE
+Italy,897351,708,300,13058;33166;897351;14701;14699;9804204;14532;26964606;2170833,http://en.wikipedia.org/wiki/Southern_Italy,Southern Italy,southern-italy,southern-italy,UNK
+Italy,1884591,256,167,2170833;704114;4304258;1484334;11805457;35158589;15391883;758372;11752595;411234;14532;20789349;1171144;15540697;23623088;1942377;8684049;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_San_Diego","Little Italy, San Diego",little-italy-san-diego,little-italy-san-diego,UNK
+Italy,1171144,179,81,2170833;704114;4304258;1484334;11805457;35158589;15391883;758372;11752595;411234;20789349;15540697;23623088;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Vancouver","Little Italy, Vancouver",little-italy-vancouver,little-italy-vancouver,UNK
+Italy,9804204,2281,660,897351;1873263;3190225;1639662;14701;2983;14532;26964606;11867,http://en.wikipedia.org/wiki/Kingdom_of_Italy,Kingdom of Italy,kingdom-of-italy,kingdom-of-italy,GPE
+Italy,1639662,560,249,1873263;11867;9804204;14532,http://en.wikipedia.org/wiki/Kingdom_of_Italy_(Napoleonic),Kingdom of Italy,kingdom-of-italy,kingdom-of-italy-napoleonic,GPE
+Italy,23623088,279,142,2170833;704114;4304258;1484334;11805457;35158589;15391883;157233;362466;758372;11752595;411234;14532;20789349;1171144;15540697;23623088;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Melbourne","Little Italy, Melbourne",little-italy-melbourne,little-italy-melbourne,UNK
+Italy,14169617,48,64,,http://en.wikipedia.org/wiki/Italy_Records,Italy Records,italy-records,italy-records,ORG
+Italy,265592,342,391,704114;4304258;1484334;758372;11752595;1171144;23623088;1884591;265592;265585;2170833;11805457;35158589;15391883;411234;20789349;15540697;1942377;8684049,http://en.wikipedia.org/wiki/Little_Italy,Little Italy,little-italy,little-italy,UNK
+Italy,704114,136,39,2170833;20789349;4304258;1484334;11805457;35158589;1171144;15540697;15391883;23623088;758372;1942377;8684049;1884591;11752595;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Ottawa","Little Italy, Ottawa",little-italy-ottawa,little-italy-ottawa,GPE
+Italy,11752595,7,27,704114;23623088;1171144;4304258;1942377;1884591;2170833;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Wilmington","Little Italy, Wilmington",little-italy-wilmington,little-italy-wilmington,UNK
+Italy,11805457,20,107,2170833;704114;4304258;1484334;1171144;23623088;1942377;1884591;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Omaha","Little Italy, Omaha",little-italy-omaha,little-italy-omaha,UNK
+Italy,20789349,0,30,704114;23623088;4304258;1171144;1942377;1884591;2170833;411234;265592;265585;1484334,http://en.wikipedia.org/wiki/Little_Italy_(Bridgeport),Little Italy,little-italy,little-italy-bridgeport,UNK
+Italy,1942377,326,277,704114;4304258;1484334;758372;11752595;1171144;23623088;1884591;265592;265585;2170833;11805457;35158589;15391883;411234;14532;20789349;15540697;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Chicago","Little Italy, Chicago",little-italy-chicago,little-italy-chicago,UNK
+Italy,16730206,14,20,,http://en.wikipedia.org/wiki/I.T.A.L.Y.,I.T.A.L.Y.,italy,italy,UNK
+Italy,35158464,0,2,35158589;15540697,"http://en.wikipedia.org/wiki/Little_Italy,_West_Virginia","Little Italy, West Virginia",little-italy-west-virginia,little-italy-west-virginia,UNK
+Italy,4304258,128,26,2170833;20789349;704114;1484334;11805457;35158589;1171144;15540697;15391883;23623088;758372;1942377;8684049;1884591;11752595;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Winnipeg","Little Italy, Winnipeg",little-italy-winnipeg,little-italy-winnipeg,UNK
+Italy,758372,48,75,1171144;2170833;14532;704114;23623088;4304258;1942377;1884591;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Syracuse","Little Italy, Syracuse",little-italy-syracuse,little-italy-syracuse,UNK
+Italy,362466,4391,862,52622;147793;157233;265585;3867414;695226;33166;26964606;250204;25036290;11867;11370;126460;656933;362466;23623088;14532;168079,http://en.wikipedia.org/wiki/Italy_national_football_team,Italy national football team,italy-national-football-team,italy-national-football-team,ORG
+Italy,8684049,9,28,704114;23623088;1171144;4304258;1942377;1884591;2170833;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Paterson","Little Italy, Paterson",little-italy-paterson,little-italy-paterson,UNK
+Italy,14699,202,305,14701;14699;21493015;14532;67542;26964606;897351,http://en.wikipedia.org/wiki/Geography_of_Italy,Geography of Italy,geography-of-italy,geography-of-italy,UNK
+Italy,25036290,1434,275,52622;126460;147793;27765303;157233;362466;3867414;14532;168079,http://en.wikipedia.org/wiki/Italy_national_under-19_football_team,Italy national under-19 football team,italy-national-under-19-football-team,italy-national-under-19-football-team,UNK
+Italy,2170833,240,148,704114;4304258;1484334;11805457;35158589;15391883;758372;11752595;411234;20789349;1171144;15540697;23623088;1942377;8684049;1884591;897351;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Montreal","Little Italy, Montreal",little-italy-montreal,little-italy-montreal,GPE
+Italy,35158589,73,113,2170833;704114;35158464;4304258;1484334;1171144;23623088;1942377;1884591;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Randolph_County,_West_Virginia","Little Italy, Randolph County, West Virginia",little-italy-randolph-county-west-virginia,little-italy-randolph-county-west-virginia,GPE
+Italy,1873263,160,203,9804204;1639662;14532,http://en.wikipedia.org/wiki/Roman_Italy,Roman Italy,roman-italy,roman-italy,UNK
+Italy,15391883,1,42,704114;23623088;1171144;4304258;1942377;1884591;2170833;411234;265592;265585;14532;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Connellsville","Little Italy, Connellsville",little-italy-connellsville,little-italy-connellsville,UNK
+Italy,411234,496,398,704114;4304258;1484334;758372;11752595;1171144;23623088;1884591;265592;265585;2170833;11805457;35158589;15391883;14532;20789349;15540697;1942377;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Toronto","Little Italy, Toronto",little-italy-toronto,little-italy-toronto,GPE
+Italy,1484334,345,214,2170833;704114;4304258;11805457;35158589;15391883;758372;11752595;411234;14532;20789349;1171144;15540697;23623088;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Baltimore","Little Italy, Baltimore",little-italy-baltimore,little-italy-baltimore,GPE
+Italy,41381137,11,73,14701;14532,http://en.wikipedia.org/wiki/For_Italy,For Italy,for-italy,for-italy,UNK
+Italy,265585,408,307,704114;4304258;1484334;157233;362466;758372;11752595;883816;1171144;23623088;1884591;265592;2170833;11805457;35158589;15391883;411234;14532;20789349;15540697;1942377;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Manhattan","Little Italy, Manhattan",little-italy-manhattan,little-italy-manhattan,GPE
+Italy,6108533,54,53,14532;6108409,http://en.wikipedia.org/wiki/Italy_(Epcot),Italy,italy,italy-epcot,UNK

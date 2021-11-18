@@ -1,0 +1,222 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Iraq,7515928,18884,662,30920463;1041857;19869863;4492;1652138;6212702;2322115;766841;201936;31952049;5043324;200519;14665;1038799;2035563;33264850;993503;16686;4562459;39303294;57021;5273334;162172;4184636;2900620;1767662;25391;7515890;7515928;7203072;26793252;29490;246612;31769;31957;5148100,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+Iraq,10013089,0,8,5043324,http://en.wikipedia.org/wiki/Iraq_the_model,Iraq the model,iraq-the-model,iraq-the-model,UNK
+Iraq,246612,247,253,5043324;233596;2035563;14665;2900620;29490;2322115;1038799;201936;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_dinar,Iraqi dinar,iraqi-dinar,iraqi-dinar,UNK
+Iraq,14665,219,271,7515890;5043324;2035563;14665;4492;2900620;246612;29490;2322115;25702;1038799;201936;16686;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Geography_of_Iraq,Geography of Iraq,geography-of-iraq,geography-of-iraq,UNK
+Iraq,26793252,147,159,5043324;2035563;14665;4492;2900620;246612;29490;2322115;1038799;201936;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_Republic_(1958–68),Iraqi Republic,iraqi-republic,iraqi-republic-1958–68,GPE
+Iraq,1038799,151,365,2035563;4492;2900620;246612;29490;2322115;26793252;5043324;14665;1038799;201936;7515928;4184636,http://en.wikipedia.org/wiki/Mandatory_Iraq,Mandatory Iraq,mandatory-iraq,mandatory-iraq,GPE
+Iraq,2900620,479,199,2035563;4492;2900620;246612;29490;2322115;1958295;26793252;7515890;5043324;14665;1038799;31769;201936;31899;7515928;4184636,http://en.wikipedia.org/wiki/Kingdom_of_Iraq,Kingdom of Iraq,kingdom-of-iraq,kingdom-of-iraq,GPE
+Iraq,5043324,6133,1280,2035563;4492;4184636;2900620;2322115;1767662;201936;25391;7515890;5043324;7515928;26793252;29490;246612;200519;14665;1038799;31769;10013089,http://en.wikipedia.org/wiki/Iraq_War,Iraq War,iraq-war,iraq-war,UNK
+Iraq,30920463,349,324,4492;7515928,http://en.wikipedia.org/wiki/2011_Iraqi_protests,2011 Iraqi protests,2011-iraqi-protests,2011-iraqi-protests,UNK
+Iraq,201936,2386,848,2035563;4492;26793252;201936;29490;1652138;7515890;5043324;7515928;246612;162172;14665;1038799;31957;4184636;2900620;2322115;766841,http://en.wikipedia.org/wiki/2003_invasion_of_Iraq,2003 invasion of Iraq,2003-invasion-of-iraq,2003-invasion-of-iraq,UNK
+Saddam,29490,3012,433,2035563;4492;26793252;1767662;201936;29490;7515890;5043324;7515928;4562459;246612;162172;14665;7203072;1038799;31769;4184636;2900620;2322115,http://en.wikipedia.org/wiki/Saddam_Hussein,Saddam Hussein,saddam-hussein,saddam-hussein,PER
+Saddam,1767662,22,144,1767662;162172;5043324;29490;7515928,http://en.wikipedia.org/wiki/Saddam_Hussein_and_al-Qaeda_link_allegations,Saddam Hussein and al-Qaeda link allegations,saddam-hussein-and-al-qaeda-link-allegations,saddam-hussein-and-al-qaeda-link-allegations,UNK
+Russia,25391,96899,1757,4492;1526308;6840469;13311485;37160847;2495469;19004;406573;2794281;588941;25702;25431;25391;25127146;31769;316936;525972;525971;5043324;2277815;57021;9384268;1297520;59510;21805600;1338528;1041857;6796762;27532914;10892530;12556065;2437139;10761758;1024058;20611504;7873254;2012490;7515890;7515928;1010187;3821983;106409;5237926;21322882;392566;233596;737701;2818394;25230692;18020135;4091317;1489122,http://en.wikipedia.org/wiki/Russia,Russia,russia,russia,GPE
+Russia,126524,53,68,,"http://en.wikipedia.org/wiki/Russia,_New_York","Russia, New York",russia-new-york,russia-new-york,GPE
+Russia,3821983,291,173,19004;233596;1010187;3821983;25391,http://en.wikipedia.org/wiki/1998_Russian_financial_crisis,1998 Russian financial crisis,1998-russian-financial-crisis,1998-russian-financial-crisis,UNK
+Russia,7873254,176,179,19004;13607661;25391,http://en.wikipedia.org/wiki/Russian_Chess_Championship,Russian Chess Championship,russian-chess-championship,russian-chess-championship,UNK
+Russia,121404,79,101,,"http://en.wikipedia.org/wiki/Russia_Township,_Polk_County,_Minnesota","Russia Township, Polk County, Minnesota",russia-township-polk-county-minnesota,russia-township-polk-county-minnesota,GPE
+Russia,18020135,97,115,20611504;10892530;18020135;2495469;25391,http://en.wikipedia.org/wiki/Greater_Russia,Greater Russia,greater-russia,greater-russia,UNK
+Russia,4091317,202,519,4091317;5237926;106409;25431;25391;20611504;19004;233596;1010187;25702;2437139;1338528,http://en.wikipedia.org/wiki/LGBT_rights_in_Russia,LGBT rights in Russia,lgbt-rights-in-russia,lgbt-rights-in-russia,UNK
+Russia,11471837,31,16,19004;59510;525971,"http://en.wikipedia.org/wiki/Little_Russia,_London","Little Russia, London",little-russia-london,little-russia-london,GPE
+Russia,1526308,569,334,1526308;25431;25391;20611504;588941,http://en.wikipedia.org/wiki/Russian_Air_Force,Russian Air Force,russian-air-force,russian-air-force,ORG
+Russia,2818394,130,157,19004;25431;2818394;25391,http://en.wikipedia.org/wiki/Russia_Tower,Russia Tower,russia-tower,russia-tower,UNK
+Russia,129821,48,76,,"http://en.wikipedia.org/wiki/Russia,_Ohio","Russia, Ohio",russia-ohio,russia-ohio,GPE
+Russia,525972,31,17,10892530;25391;25431;59510;525971,http://en.wikipedia.org/wiki/Great_Russia,Great Russia,great-russia,great-russia,UNK
+Russia,21805600,0,70,19004;25431;25391,http://en.wikipedia.org/wiki/Russia-K,Russia-K,russia-k,russia-k,ORG
+Russia,9384268,7,195,19004;25431;25391,http://en.wikipedia.org/wiki/Russia-1,Russia-1,russia-1,russia-1,UNK
+Russia,25127146,1379,474,25431;25391;19004,http://en.wikipedia.org/wiki/Russia_national_football_team,Russia national football team,russia-national-football-team,russia-national-football-team,ORG
+Russia,21599323,3,24,,http://en.wikipedia.org/wiki/Mr_Russia,Mr Russia,mr-russia,mr-russia,UNK
+Russia,525971,186,136,20611504;525972;11471837;25431;25391,http://en.wikipedia.org/wiki/Little_Russia,Little Russia,little-russia,little-russia,UNK
+Russia,20611504,12186,703,1010187;1338528;106409;1958295;5237926;1526308;525971;2437139;233596;6840469;20611504;19004;82288;2012490;25702;737701;25431;25391;59510;18020135;4091317,http://en.wikipedia.org/wiki/Russian_Empire,Russian Empire,russian-empire,russian-empire,GPE
+Russia,10761758,242,162,19004;25391;10761758,http://en.wikipedia.org/wiki/Church_of_Scientology_Moscow_v._Russia,Church of Scientology Moscow v. Russia,church-of-scientology-moscow-v-russia,church-of-scientology-moscow-v-russia,UNK
+Russia,588941,130,294,19004;3216133;1526308;25391,http://en.wikipedia.org/wiki/Russia_and_weapons_of_mass_destruction,Russia and weapons of mass destruction,russia-and-weapons-of-mass-destruction,russia-and-weapons-of-mass-destruction,UNK
+Russia,10892530,33,74,1010187;10892530;19004;25431;18020135;2495469;25391;82288;525972,http://en.wikipedia.org/wiki/Great_Russia_(political_party),Great Russia,great-russia,great-russia-political-party,UNK
+Russia,25702,339,588,4091317;5237926;106409;25431;16686;25391;20611504;19004;233596;2012490;1010187;14665;25702;2437139;59510;1338528,http://en.wikipedia.org/wiki/Geography_of_Russia,Geography of Russia,geography-of-russia,geography-of-russia,UNK
+Russia,1338528,556,124,4091317;5237926;106409;25431;25391;20611504;19004;233596;2012490;1010187;25702;2437139;59510,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+Zhirinovsky,392566,111,169,1010187;59510;737701;25431;25391;82288,http://en.wikipedia.org/wiki/Vladimir_Zhirinovsky,Vladimir Zhirinovsky,vladimir-zhirinovsky,vladimir-zhirinovsky,UNK
+BAGHDAD,4492,5332,473,30920463;201936;39898616;33264850;1958295;25391;7515890;5043324;7515928;4562459;7203072;39303294;19004;19869863;3296361;26793252;57021;29490;1652138;200519;162172;14665;1038799;31769;4184636;5148100;2900620;2322115;766841,http://en.wikipedia.org/wiki/Baghdad,Baghdad,baghdad,baghdad,GPE
+BAGHDAD,5148100,117,37,4492;7515928,http://en.wikipedia.org/wiki/University_of_Baghdad,University of Baghdad,university-of-baghdad,university-of-baghdad,UNK
+BAGHDAD,11402383,3,6,,http://en.wikipedia.org/wiki/Baghdad_Street_(Singapore),Baghdad Street,baghdad-street,baghdad-street-singapore,UNK
+BAGHDAD,1958295,196,101,20611504;4492;2900620,http://en.wikipedia.org/wiki/Baghdad_Railway,Baghdad Railway,baghdad-railway,baghdad-railway,UNK
+BAGHDAD,4562459,13,25,29490;7515928;4492,http://en.wikipedia.org/wiki/Baghdad_College,Baghdad College,baghdad-college,baghdad-college,UNK
+BAGHDAD,162172,242,100,7515890;4492;29490;464414;1767662;201936;200519;7515928,http://en.wikipedia.org/wiki/Baghdad_International_Airport,Baghdad International Airport,baghdad-international-airport,baghdad-international-airport,UNK
+BAGHDAD,200519,272,42,162172;5043324;4492;7515928,http://en.wikipedia.org/wiki/Baghdad_Governorate,Baghdad Governorate,baghdad-governorate,baghdad-governorate,GPE
+BAGHDAD,11029341,3,6,,http://en.wikipedia.org/wiki/Lake_Baghdad,Lake Baghdad,lake-baghdad,lake-baghdad,UNK
+BAGHDAD,21863514,110,127,,http://en.wikipedia.org/wiki/Baghdad_Street_(Damascus),Baghdad Street,baghdad-street,baghdad-street-damascus,UNK
+BAGHDAD,3296361,29,23,4492,http://en.wikipedia.org/wiki/Al-Khatib_al-Baghdadi,Al-Khatib al-Baghdadi,al-khatib-al-baghdadi,al-khatib-al-baghdadi,UNK
+BAGHDAD,19869863,57,46,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_FC,Baghdad FC,baghdad-fc,baghdad-fc,UNK
+BAGHDAD,28164876,2,6,,http://en.wikipedia.org/wiki/Baghdad_Texas,Baghdad Texas,baghdad-texas,baghdad-texas,UNK
+BAGHDAD,39303294,0,10,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_School,Baghdad School,baghdad-school,baghdad-school,UNK
+BAGHDAD,39898616,1,7,4492,"http://en.wikipedia.org/wiki/Baghdād,_Afghanistan","Baghdād, Afghanistan",baghdad-afghanistan,baghdad-afghanistan,GPE
+BAGHDAD,1652138,7,9,7515928;201936;4492,http://en.wikipedia.org/wiki/Baghdad_Tower,Baghdad Tower,baghdad-tower,baghdad-tower,UNK
+BAGHDAD,766841,7,9,201936;7515928;4492,http://en.wikipedia.org/wiki/Baghdad_Hotel,Baghdad Hotel,baghdad-hotel,baghdad-hotel,UNK
+BAGHDAD,6683213,13,10,,http://en.wikipedia.org/wiki/Baghdad_Stadium,Baghdad Stadium,baghdad-stadium,baghdad-stadium,UNK
+BAGHDAD,993503,68,90,7515928,http://en.wikipedia.org/wiki/Baghdad_(EP),Baghdad,baghdad,baghdad-ep,UNK
+BAGHDAD,7203072,7,7,29490;7515928;4492,http://en.wikipedia.org/wiki/About_Baghdad,About Baghdad,about-baghdad,about-baghdad,UNK
+BAGHDAD,34719584,15,16,,http://en.wikipedia.org/wiki/Baghdad_(West_Syrian_Diocese),Baghdad,baghdad,baghdad-west-syrian-diocese,UNK
+Iraqi,7515928,18884,662,30920463;1041857;19869863;4492;1652138;6212702;2322115;766841;201936;31952049;5043324;200519;14665;1038799;2035563;33264850;993503;16686;4562459;39303294;57021;5273334;162172;4184636;2900620;1767662;25391;7515890;7515928;7203072;26793252;29490;246612;31769;31957;5148100,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+Iraqi,2322115,544,632,2035563;4492;246612;26793252;14665;1038799;201936;4184636;2900620;29490;5043324;7515928,http://en.wikipedia.org/wiki/Iraqi_cuisine,Iraqi cuisine,iraqi-cuisine,iraqi-cuisine,UNK
+Iraqi,33264850,3,6,4492;7515928,http://en.wikipedia.org/wiki/Iraqi_University,Iraqi University,iraqi-university,iraqi-university,UNK
+Iraqi,4184636,513,263,2035563;4492;6212702;2900620;246612;29490;2322115;26793252;7515890;5043324;14665;57021;1038799;31769;201936;7515928,http://en.wikipedia.org/wiki/Iraqi_people,Iraqi people,iraqi-people,iraqi-people,UNK
+Iraqi,6212702,363,290,7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_biradri,Iraqi biradri,iraqi-biradri,iraqi-biradri,UNK
+Saddam Hussein,29490,3012,433,2035563;4492;26793252;1767662;201936;29490;7515890;5043324;7515928;4562459;246612;162172;14665;7203072;1038799;31769;4184636;2900620;2322115,http://en.wikipedia.org/wiki/Saddam_Hussein,Saddam Hussein,saddam-hussein,saddam-hussein,PER
+Saddam Hussein,1767662,22,144,1767662;162172;5043324;29490;7515928,http://en.wikipedia.org/wiki/Saddam_Hussein_and_al-Qaeda_link_allegations,Saddam Hussein and al-Qaeda link allegations,saddam-hussein-and-al-qaeda-link-allegations,saddam-hussein-and-al-qaeda-link-allegations,UNK
+Russian,25391,96899,1757,4492;1526308;6840469;13311485;37160847;2495469;19004;406573;2794281;588941;25702;25431;25391;25127146;31769;316936;525972;525971;5043324;2277815;57021;9384268;1297520;59510;21805600;1338528;1041857;6796762;27532914;10892530;12556065;2437139;10761758;1024058;20611504;7873254;2012490;7515890;7515928;1010187;3821983;106409;5237926;21322882;392566;233596;737701;2818394;25230692;18020135;4091317;1489122,http://en.wikipedia.org/wiki/Russia,Russia,russia,russia,GPE
+Russian,8280942,11,6,,http://en.wikipedia.org/wiki/Russian_Mountains,Russian Mountains,russian-mountains,russian-mountains,UNK
+Russian,1489122,180,35,2012490;25391,http://en.wikipedia.org/wiki/Russian_Museum,Russian Museum,russian-museum,russian-museum,UNK
+Russian,481569,36,34,,http://en.wikipedia.org/wiki/Russian_dressing,Russian dressing,russian-dressing,russian-dressing,UNK
+Russian,737701,250,230,20611504;19004;1010187;2495469;392566;25391,http://en.wikipedia.org/wiki/1993_Russian_constitutional_crisis,1993 Russian constitutional crisis,1993-russian-constitutional-crisis,1993-russian-constitutional-crisis,UNK
+Russian,2437139,295,395,4091317;5237926;106409;25431;25391;20611504;19004;233596;4652128;2012490;1010187;25702;59510;1338528,http://en.wikipedia.org/wiki/Russian_architecture,Russian architecture,russian-architecture,russian-architecture,UNK
+Russian,25431,47755,624,1338528;10892530;1526308;838610;2437139;38624095;2495469;1024058;20611504;19004;406573;2012490;25702;25431;25391;25127146;31769;1010187;106409;5237926;316936;525972;525971;21322882;2398572;392566;2277815;233596;6080500;2038914;9384268;2036528;2818394;59510;4091317;21805600,http://en.wikipedia.org/wiki/Russian_language,Russian language,russian-language,russian-language,UNK
+Russian,106409,642,438,5237926;2012490;1010187;316936;25702;2437139;1338528;4091317;25431;25391;19004;20611504;838610;233596;59510,http://en.wikipedia.org/wiki/Russian_literature,Russian literature,russian-literature,russian-literature,UNK
+Russian,1297520,101,114,25391,"http://en.wikipedia.org/wiki/Russian_Hill,_San_Francisco","Russian Hill, San Francisco",russian-hill-san-francisco,russian-hill-san-francisco,UNK
+Russian,13311485,3,78,25391,http://en.wikipedia.org/wiki/Russian_Rugby_League,Russian Rugby League,russian-rugby-league,russian-rugby-league,UNK
+Russian,42612382,2,5,,"http://en.wikipedia.org/wiki/Russian_Church,_Geneva","Russian Church, Geneva",russian-church-geneva,russian-church-geneva,UNK
+Russian,233596,820,442,246612;5237926;2012490;1010187;316936;25702;2437139;406573;3821983;1338528;4091317;106409;1024058;25431;25391;19004;20611504;59510,http://en.wikipedia.org/wiki/Russian_ruble,Russian ruble,russian-ruble,russian-ruble,UNK
+Russian,2495469,84,246,19004;10892530;737701;25431;18020135;25391,http://en.wikipedia.org/wiki/Russian_National_Unity,Russian National Unity,russian-national-unity,russian-national-unity,UNK
+Russian,12556065,3,11,25391,"http://en.wikipedia.org/wiki/Russian_White,_Black_and_Tabby","Russian White, Black and Tabby",russian-white-black-and-tabby,russian-white-black-and-tabby,UNK
+Russian,6840469,492,91,25391;20611504,http://en.wikipedia.org/wiki/Russian_River_(California),Russian River,russian-river,russian-river-california,UNK
+Russian,316936,160,119,838610;233596;316936;106409;25431;25391,http://en.wikipedia.org/wiki/Russian_alphabet,Russian alphabet,russian-alphabet,russian-alphabet,UNK
+Russian,1024058,32,224,19004;233596;2012490;59510;1024058;25431;25391,http://en.wikipedia.org/wiki/Russian_jokes,Russian jokes,russian-jokes,russian-jokes,UNK
+Russian,38545714,1,6,,http://en.wikipedia.org/wiki/Russian_Mountains_(Alaska),Russian Mountains,russian-mountains,russian-mountains-alaska,UNK
+Russian,2794281,91,98,2012490;25391,http://en.wikipedia.org/wiki/Russian_icons,Russian icons,russian-icons,russian-icons,UNK
+Russian,5237926,240,330,4091317;106409;25431;25391;20611504;19004;233596;2012490;1010187;25702;2437139;59510;1338528,http://en.wikipedia.org/wiki/Russian_opera,Russian opera,russian-opera,russian-opera,GPE
+Russian,2036528,144,149,1010187;25431;2036528,http://en.wikipedia.org/wiki/Russian_Wikipedia,Russian Wikipedia,russian-wikipedia,russian-wikipedia,UNK
+Russian,406573,799,364,2012490;31769;25431;25391;19004;233596,http://en.wikipedia.org/wiki/Russian_Federal_Space_Agency,Russian Federal Space Agency,russian-federal-space-agency,russian-federal-space-agency,UNK
+Russian,4652128,10,11,2437139,"http://en.wikipedia.org/wiki/Russian_Church,_Sofia","Russian Church, Sofia",russian-church-sofia,russian-church-sofia,UNK
+Russian,2012490,439,923,5237926;25702;2437139;31769;406573;1338528;106409;1024058;25431;25391;20611504;233596;2794281;59510;1489122,http://en.wikipedia.org/wiki/Russian_culture,Russian culture,russian-culture,russian-culture,UNK
+Russian,838610,69,75,106409;316936;25431,http://en.wikipedia.org/wiki/Russian_orthography,Russian orthography,russian-orthography,russian-orthography,UNK
+Russian,966902,23,30,,http://en.wikipedia.org/wiki/Russian_River_(Alaska),Russian River,russian-river,russian-river-alaska,UNK
+Russian,7104363,12,59,,http://en.wikipedia.org/wiki/Russian_Party,Russian Party,russian-party,russian-party,UNK
+Russian,37252162,0,29,,http://en.wikipedia.org/wiki/Russian_Market,Russian Market,russian-market,russian-market,UNK
+Russian,59510,4384,502,2012490;25702;1338528;106409;1024058;25431;25391;392566;5237926;2437139;19004;20611504;233596;11471837;525972;31769,http://en.wikipedia.org/wiki/Russians,Russians,russians,russians,UNK
+Russian,21322882,11,4,25431;25391,http://en.wikipedia.org/wiki/Russian_Journal_(website),Russian Journal,russian-journal,russian-journal-website,UNK
+Vladimir Zhirinovsky,392566,111,169,1010187;59510;737701;25431;25391;82288,http://en.wikipedia.org/wiki/Vladimir_Zhirinovsky,Vladimir Zhirinovsky,vladimir-zhirinovsky,vladimir-zhirinovsky,UNK
+Baghdad,7515928,18884,662,30920463;1041857;19869863;4492;1652138;6212702;2322115;766841;201936;31952049;5043324;200519;14665;1038799;2035563;33264850;993503;16686;4562459;39303294;57021;5273334;162172;4184636;2900620;1767662;25391;7515890;7515928;7203072;26793252;29490;246612;31769;31957;5148100,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+Baghdad,5148100,117,37,4492;7515928,http://en.wikipedia.org/wiki/University_of_Baghdad,University of Baghdad,university-of-baghdad,university-of-baghdad,UNK
+Baghdad,11402383,3,6,,http://en.wikipedia.org/wiki/Baghdad_Street_(Singapore),Baghdad Street,baghdad-street,baghdad-street-singapore,UNK
+Baghdad,1958295,196,101,20611504;4492;2900620,http://en.wikipedia.org/wiki/Baghdad_Railway,Baghdad Railway,baghdad-railway,baghdad-railway,UNK
+Baghdad,4562459,13,25,29490;7515928;4492,http://en.wikipedia.org/wiki/Baghdad_College,Baghdad College,baghdad-college,baghdad-college,UNK
+Baghdad,162172,242,100,7515890;4492;29490;464414;1767662;201936;200519;7515928,http://en.wikipedia.org/wiki/Baghdad_International_Airport,Baghdad International Airport,baghdad-international-airport,baghdad-international-airport,UNK
+Baghdad,200519,272,42,162172;5043324;4492;7515928,http://en.wikipedia.org/wiki/Baghdad_Governorate,Baghdad Governorate,baghdad-governorate,baghdad-governorate,GPE
+Baghdad,11029341,3,6,,http://en.wikipedia.org/wiki/Lake_Baghdad,Lake Baghdad,lake-baghdad,lake-baghdad,UNK
+Baghdad,21863514,110,127,,http://en.wikipedia.org/wiki/Baghdad_Street_(Damascus),Baghdad Street,baghdad-street,baghdad-street-damascus,UNK
+Baghdad,3296361,29,23,4492,http://en.wikipedia.org/wiki/Al-Khatib_al-Baghdadi,Al-Khatib al-Baghdadi,al-khatib-al-baghdadi,al-khatib-al-baghdadi,UNK
+Baghdad,19869863,57,46,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_FC,Baghdad FC,baghdad-fc,baghdad-fc,UNK
+Baghdad,28164876,2,6,,http://en.wikipedia.org/wiki/Baghdad_Texas,Baghdad Texas,baghdad-texas,baghdad-texas,UNK
+Baghdad,4492,5332,473,30920463;201936;39898616;33264850;1958295;25391;7515890;5043324;7515928;4562459;7203072;39303294;19004;19869863;3296361;26793252;57021;29490;1652138;200519;162172;14665;1038799;31769;4184636;5148100;2900620;2322115;766841,http://en.wikipedia.org/wiki/Baghdad,Baghdad,baghdad,baghdad,GPE
+Baghdad,39303294,0,10,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_School,Baghdad School,baghdad-school,baghdad-school,UNK
+Baghdad,39898616,1,7,4492,"http://en.wikipedia.org/wiki/Baghdād,_Afghanistan","Baghdād, Afghanistan",baghdad-afghanistan,baghdad-afghanistan,GPE
+Baghdad,1652138,7,9,7515928;201936;4492,http://en.wikipedia.org/wiki/Baghdad_Tower,Baghdad Tower,baghdad-tower,baghdad-tower,UNK
+Baghdad,766841,7,9,201936;7515928;4492,http://en.wikipedia.org/wiki/Baghdad_Hotel,Baghdad Hotel,baghdad-hotel,baghdad-hotel,UNK
+Baghdad,6683213,13,10,,http://en.wikipedia.org/wiki/Baghdad_Stadium,Baghdad Stadium,baghdad-stadium,baghdad-stadium,UNK
+Baghdad,993503,68,90,7515928,http://en.wikipedia.org/wiki/Baghdad_(EP),Baghdad,baghdad,baghdad-ep,UNK
+Baghdad,7203072,7,7,29490;7515928;4492,http://en.wikipedia.org/wiki/About_Baghdad,About Baghdad,about-baghdad,about-baghdad,UNK
+Baghdad,34719584,15,16,,http://en.wikipedia.org/wiki/Baghdad_(West_Syrian_Diocese),Baghdad,baghdad,baghdad-west-syrian-diocese,UNK
+Moscow,25391,96899,1757,4492;1526308;6840469;13311485;37160847;2495469;19004;406573;2794281;588941;25702;25431;25391;25127146;31769;316936;525972;525971;5043324;2277815;57021;9384268;1297520;59510;21805600;1338528;1041857;6796762;27532914;10892530;12556065;2437139;10761758;1024058;20611504;7873254;2012490;7515890;7515928;1010187;3821983;106409;5237926;21322882;392566;233596;737701;2818394;25230692;18020135;4091317;1489122,http://en.wikipedia.org/wiki/Russia,Russia,russia,russia,GPE
+Moscow,38624095,77,97,25431,http://en.wikipedia.org/wiki/Moscow_(Tchaikovsky),Moscow,moscow,moscow-tchaikovsky,UNK
+Moscow,15811914,15,29,,"http://en.wikipedia.org/wiki/Moscow,_Mississippi","Moscow, Mississippi",moscow-mississippi,moscow-mississippi,GPE
+Moscow,25230692,53,101,19004;25391,http://en.wikipedia.org/wiki/Moscow_Ladies_Open,Moscow Ladies Open,moscow-ladies-open,moscow-ladies-open,UNK
+Moscow,37256686,38,56,120069,"http://en.wikipedia.org/wiki/Moscow,_Minnesota","Moscow, Minnesota",moscow-minnesota,moscow-minnesota,UNK
+Moscow,5900922,40,68,4202847,"http://en.wikipedia.org/wiki/Moscow,_Camden_and_San_Augustine_Railroad","Moscow, Camden and San Augustine Railroad",moscow-camden-and-san-augustine-railroad,moscow-camden-and-san-augustine-railroad,UNK
+Moscow,12567323,4,9,,"http://en.wikipedia.org/wiki/Moscow,_Virginia","Moscow, Virginia",moscow-virginia,moscow-virginia,UNK
+Moscow,24886469,0,1,,"http://en.wikipedia.org/wiki/Moscow,_ID_µSA","Moscow, ID µSA",moscow-id-µsa,moscow-id-µsa,PER
+Moscow,4202847,23,30,5900922,"http://en.wikipedia.org/wiki/Moscow,_Texas","Moscow, Texas",moscow-texas,moscow-texas,GPE
+Moscow,132851,82,76,53542,"http://en.wikipedia.org/wiki/Moscow,_Pennsylvania","Moscow, Pennsylvania",moscow-pennsylvania,moscow-pennsylvania,GPE
+Moscow,3631681,27,116,,"http://en.wikipedia.org/wiki/Moscow,_West_Virginia","Moscow, West Virginia",moscow-west-virginia,moscow-west-virginia,GPE
+Moscow,6796762,1,17,19004;53542;25391,http://en.wikipedia.org/wiki/Moscow_Airport,Moscow Airport,moscow-airport,moscow-airport,UNK
+Moscow,20563791,50,63,,"http://en.wikipedia.org/wiki/Moscow,_Alabama","Moscow, Alabama",moscow-alabama,moscow-alabama,GPE
+Moscow,135166,33,55,,"http://en.wikipedia.org/wiki/Moscow,_Tennessee","Moscow, Tennessee",moscow-tennessee,moscow-tennessee,GPE
+Moscow,2398572,1,4,25431;19004,http://en.wikipedia.org/wiki/Greater_Moscow,Greater Moscow,greater-moscow,greater-moscow,UNK
+Moscow,2620677,1,11,,"http://en.wikipedia.org/wiki/Moscow,_India","Moscow, India",moscow-india,moscow-india,GPE
+Moscow,2277815,278,159,19004;25431;25391,http://en.wikipedia.org/wiki/FC_Moscow,FC Moscow,fc-moscow,fc-moscow,ORG
+Moscow,114960,7,215,,"http://en.wikipedia.org/wiki/Moscow,_Kansas","Moscow, Kansas",moscow-kansas,moscow-kansas,GPE
+Moscow,6080500,107,122,25431,"http://en.wikipedia.org/wiki/Moscow,_Cheryomushki","Moscow, Cheryomushki",moscow-cheryomushki,moscow-cheryomushki,UNK
+Moscow,19004,23220,1147,1010187;3821983;1338528;1041857;106409;6796762;5237926;4492;10892530;2398572;2277815;2437139;233596;11471837;10761758;37160847;2495469;1024058;20611504;19004;57021;9384268;7873254;406573;53542;588941;25702;737701;28796442;25431;2818394;25391;7515890;59510;25230692;4091317;25127146;4019738;21805600,http://en.wikipedia.org/wiki/Moscow,Moscow,moscow,moscow,GPE
+Moscow,14908097,20,26,,"http://en.wikipedia.org/wiki/Moscow,_Vermont","Moscow, Vermont",moscow-vermont,moscow-vermont,UNK
+Moscow,28796442,38,46,19004,http://en.wikipedia.org/wiki/Moscow_Railway,Moscow Railway,moscow-railway,moscow-railway,UNK
+Moscow,16165081,0,7,117582;120069;41713012,http://en.wikipedia.org/wiki/Moscow_Township,Moscow Township,moscow-township,moscow-township,GPE
+Moscow,41713012,5,38,16165081;18057555,"http://en.wikipedia.org/wiki/Moscow_Township,_Muscatine_County,_Iowa","Moscow Township, Muscatine County, Iowa",moscow-township-muscatine-county-iowa,moscow-township-muscatine-county-iowa,GPE
+Moscow,129020,52,71,,"http://en.wikipedia.org/wiki/Moscow,_Ohio","Moscow, Ohio",moscow-ohio,moscow-ohio,GPE
+Moscow,53542,790,241,132851;19004;18057555;6796762,"http://en.wikipedia.org/wiki/Moscow,_Idaho","Moscow, Idaho",moscow-idaho,moscow-idaho,GPE
+Moscow,120069,41,58,16165081;37256686,"http://en.wikipedia.org/wiki/Moscow_Township,_Freeborn_County,_Minnesota","Moscow Township, Freeborn County, Minnesota",moscow-township-freeborn-county-minnesota,moscow-township-freeborn-county-minnesota,GPE
+Moscow,4019738,4,41,19004,"http://en.wikipedia.org/wiki/Moscow,_Scotland","Moscow, Scotland",moscow-scotland,moscow-scotland,GPE
+Moscow,21746015,62,75,,"http://en.wikipedia.org/wiki/Moscow,_Maryland","Moscow, Maryland",moscow-maryland,moscow-maryland,GPE
+Moscow,116186,66,78,,"http://en.wikipedia.org/wiki/Moscow,_Maine","Moscow, Maine",moscow-maine,moscow-maine,GPE
+Moscow,31955789,22,38,,"http://en.wikipedia.org/wiki/Moscow,_Arkansas","Moscow, Arkansas",moscow-arkansas,moscow-arkansas,UNK
+Moscow,17470934,8,11,,"http://en.wikipedia.org/wiki/Moscow,_Belgium","Moscow, Belgium",moscow-belgium,moscow-belgium,UNK
+Moscow,27532914,13,41,25391,http://en.wikipedia.org/wiki/Little_Moscow,Little Moscow,little-moscow,little-moscow,UNK
+Moscow,14369204,35,45,,"http://en.wikipedia.org/wiki/Moscow,_Indiana","Moscow, Indiana",moscow-indiana,moscow-indiana,GPE
+Moscow,1250523,0,11,,http://en.wikipedia.org/wiki/MoSCoW_method,MoSCoW method,moscow-method,moscow-method,UNK
+Moscow,32712606,46,62,139134,"http://en.wikipedia.org/wiki/Moscow_(community),_Wisconsin","Moscow (community), Wisconsin",moscow-community-wisconsin,moscow-community-wisconsin,GPE
+Moscow,139134,49,67,32712606,"http://en.wikipedia.org/wiki/Moscow,_Wisconsin","Moscow, Wisconsin",moscow-wisconsin,moscow-wisconsin,GPE
+Moscow,39550847,21,32,,http://en.wikipedia.org/wiki/Governor_Moscow,Governor Moscow,governor-moscow,governor-moscow,UNK
+Moscow,18057555,42,51,41713012;53542,"http://en.wikipedia.org/wiki/Moscow,_Iowa","Moscow, Iowa",moscow-iowa,moscow-iowa,GPE
+Moscow,15871574,0,2,,http://en.wikipedia.org/wiki/Moscow_Province,Moscow Province,moscow-province,moscow-province,UNK
+Moscow,117582,33,50,16165081,"http://en.wikipedia.org/wiki/Moscow_Township,_Michigan","Moscow Township, Michigan",moscow-township-michigan,moscow-township-michigan,GPE
+Moscow,37160847,42,23,19004;25391,http://en.wikipedia.org/wiki/Moscow_Bridge,Moscow Bridge,moscow-bridge,moscow-bridge,UNK
+Moscow,21064485,2,2,,http://en.wikipedia.org/wiki/Moscow_District,Moscow District,moscow-district,moscow-district,UNK
+Moscow,13607661,139,126,7873254,http://en.wikipedia.org/wiki/Moscow_City_Chess_Championship,Moscow City Chess Championship,moscow-city-chess-championship,moscow-city-chess-championship,UNK
+Liberal Democratic party,2038914,46,47,25431,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Belarus),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-belarus,UNK
+Liberal Democratic party,37009506,7,4,,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Netherlands),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-netherlands,UNK
+Liberal Democratic party,859662,113,159,3287409;845791;29041567,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Kenya),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-kenya,UNK
+Liberal Democratic party,866141,49,44,,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Turkey),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-turkey,UNK
+Liberal Democratic party,3486209,506,161,14859196,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Australia),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-australia,UNK
+Liberal Democratic party,11646643,20,28,,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Chile),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-chile,UNK
+Liberal Democratic party,18630543,80,67,,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(France),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-france,UNK
+Liberal Democratic party,3272816,3,4,3287409,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Serbia_1989),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-serbia-1989,UNK
+Liberal Democratic party,19213100,26,29,,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Portugal),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-portugal,UNK
+Liberal Democratic party,7628163,29,39,,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Bangladesh),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-bangladesh,UNK
+Liberal Democratic party,164231,1071,133,,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Japan),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-japan,UNK
+Liberal Democratic party,8330284,39,38,,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Romania),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-romania,UNK
+Liberal Democratic party,3287409,100,52,859662;845791;3272816;29041567,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Serbia),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-serbia,UNK
+Liberal Democratic party,14859196,20,120,3486209,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(New_South_Wales),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-new-south-wales,UNK
+Liberal Democratic party,32223096,5,7,,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Cambodia),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-cambodia,ORG
+Liberal Democratic party,29041567,107,131,859662;3287409;845791,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Sudan),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-sudan,UNK
+Liberal Democratic party,2039508,74,119,,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Malaysia),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-malaysia,UNK
+Liberal Democratic party,845791,115,158,859662;3287409;29041567,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Angola),Liberal Democratic Party,liberal-democratic-party,liberal-democratic-party-angola,ORG
+Liberal Democratic party,2661749,20,45,,http://en.wikipedia.org/wiki/Uzbekistan_Liberal_Democratic_Party,Uzbekistan Liberal Democratic Party,uzbekistan-liberal-democratic-party,uzbekistan-liberal-democratic-party,GPE
+Duma,82288,352,31,20611504;1010187;392566;10892530;82288,http://en.wikipedia.org/wiki/Duma,Duma,duma,duma,UNK
+Duma,1010187,714,213,392566;5237926;10892530;1010187;25702;2437139;737701;3821983;1338528;4091317;106409;25431;2036528;25391;19004;20611504;233596;82288,http://en.wikipedia.org/wiki/State_Duma,State Duma,state-duma,state-duma,UNK
+Duma,16262171,3,15,,http://en.wikipedia.org/wiki/Duma_(software),Duma,duma,duma-software,UNK
+Duma,17516036,64,69,,"http://en.wikipedia.org/wiki/Duma,_Nablus","Duma, Nablus",duma-nablus,duma-nablus,UNK
+Duma,42000782,520,531,,http://en.wikipedia.org/wiki/Dumak,Dumak,dumak,dumak,UNK
+Duma,33597458,1,4,,http://en.wikipedia.org/wiki/Duma_River,Duma River,duma-river,duma-river,GPE
+Duma,1832274,57,15,1832274,http://en.wikipedia.org/wiki/Duma_(epic),Duma,duma,duma-epic,GPE
+Kuwait,7515890,8457,530,2035563;2890302;1041857;16686;19004;4492;612085;57021;5273334;162172;4184636;2900620;36630549;201936;31952049;25391;7515890;5043324;7515928;464414;29490;14665;31769,http://en.wikipedia.org/wiki/Kuwait,Kuwait,kuwait,kuwait,GPE
+Kuwait,1041857,1221,359,57021;5273334;25391;19004;7515890;7515928,http://en.wikipedia.org/wiki/Kuwait_national_football_team,Kuwait national football team,kuwait-national-football-team,kuwait-national-football-team,UNK
+Kuwait,2890302,90,21,7515890;57021,http://en.wikipedia.org/wiki/Kuwait_University,Kuwait University,kuwait-university,kuwait-university,ORG
+Kuwait,36630549,9,4,7515890,http://en.wikipedia.org/wiki/Kuwait_SC_(basketball),Kuwait SC,kuwait-sc,kuwait-sc-basketball,UNK
+Kuwait,16686,111,144,7515890;31769;2035563;14665;16686;7515928;57021;25702,http://en.wikipedia.org/wiki/Geography_of_Kuwait,Geography of Kuwait,geography-of-kuwait,geography-of-kuwait,UNK
+Kuwait,2035563,462,227,2900620;246612;31952049;29490;2322115;16686;26793252;7515890;5043324;14665;57021;1038799;31769;201936;7515928;4184636,http://en.wikipedia.org/wiki/Invasion_of_Kuwait,Invasion of Kuwait,invasion-of-kuwait,invasion-of-kuwait,UNK
+Kuwait,31952049,1,15,7515928;2035563;7515890,http://en.wikipedia.org/wiki/Kuwait_(Kanso_series),Kuwait,kuwait,kuwait-kanso-series,UNK
+Kuwait,57021,1382,328,2035563;4492;464414;2890302;57021;4184636;5273334;1041857;16686;25391;19004;7515890;7515928,http://en.wikipedia.org/wiki/Kuwait_City,Kuwait City,kuwait-city,kuwait-city,GPE
+Kuwait,464414,213,117,7515890;162172;57021,http://en.wikipedia.org/wiki/Kuwait_International_Airport,Kuwait International Airport,kuwait-international-airport,kuwait-international-airport,UNK
+Kuwait,5273334,216,215,7515890;1041857;57021;7515928,http://en.wikipedia.org/wiki/Kuwait_SC,Kuwait SC,kuwait-sc,kuwait-sc,UNK
+U.N.,31769,20072,584,4492;1437212;2151507;40979641;5043324;18589346;11865969;2035563;16686;406573;4184636;2900620;2012490;3216133;25431;25391;7515890;59510;7515928;29490;26994994;31769;31899;31957,http://en.wikipedia.org/wiki/United_Nations,United Nations,united-nations,united-nations,UNK
+U.N.,7332924,1,13,,"http://en.wikipedia.org/wiki/Un,_Surat","Un, Surat",un-surat,un-surat,UNK
+U.N.,31957,2205,356,3216133;201936;7515928;1437212;2151507;31769;31899;31957,http://en.wikipedia.org/wiki/United_Nations_General_Assembly,United Nations General Assembly,united-nations-general-assembly,united-nations-general-assembly,UNK
+U.N.,26994994,3,25,31769,http://en.wikipedia.org/wiki/U.N._Me,U.N. Me,un-me,un-me,UNK
+U.N.,20412552,16,49,,"http://en.wikipedia.org/wiki/Un,_dos,_tres..._responda_otra_vez","Un, dos, tres... responda otra vez",un-dos-tres-responda-otra-vez,un-dos-tres-responda-otra-vez,UNK
+U.N.,6079172,104,59,,"http://en.wikipedia.org/wiki/Un,_deux,_trois","Un, deux, trois",un-deux-trois,un-deux-trois,UNK
+U.N.,23758960,612,113,,http://en.wikipedia.org/wiki/House_Un-American_Activities_Committee,House Un-American Activities Committee,house-un-american-activities-committee,house-un-american-activities-committee,UNK
+U.N.,3216133,151,186,588941;31769;3216133;31957,http://en.wikipedia.org/wiki/Reform_of_the_United_Nations_Security_Council,Reform of the United Nations Security Council,reform-of-the-united-nations-security-council,reform-of-the-united-nations-security-council,UNK
+U.N.,40979641,5,20,31769,http://en.wikipedia.org/wiki/UN_City,UN City,un-city,un-city,UNK
+U.N.,4253834,20,41,,http://en.wikipedia.org/wiki/Un-United_Kingdom,Un-United Kingdom,un-united-kingdom,un-united-kingdom,UNK
+U.N.,28899268,595,142,,http://en.wikipedia.org/wiki/A-un,A-un,a-un,a-un,UNK
+U.N.,612085,175,118,7515890;1437212,http://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_446,United Nations Security Council Resolution 446,united-nations-security-council-resolution-446,united-nations-security-council-resolution-446,UNK
+U.N.,100000160,0,0,,"http://en.wikipedia.org/wiki/Un,_Gujarat","Un, Gujarat",un-gujarat,un-gujarat,UKN
+U.N.,31899,1098,266,1437212;31769;31957;2900620,http://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights,Universal Declaration of Human Rights,universal-declaration-of-human-rights,universal-declaration-of-human-rights,UNK
+U.N.,23214659,0,1,,http://en.wikipedia.org/wiki/Un_(prefix),Un,un,un-prefix,GPE
+U.N.,1437212,2353,126,612085;2151507;31769;31899;31957,http://en.wikipedia.org/wiki/United_Nations_resolution,United Nations resolution,united-nations-resolution,united-nations-resolution,UNK
+U.N.,5812261,9,88,,"http://en.wikipedia.org/wiki/Un,_Uttar_Pradesh","Un, Uttar Pradesh",un-uttar-pradesh,un-uttar-pradesh,UNK
+U.N.,2151507,232,21,1437212;31769;31957,http://en.wikipedia.org/wiki/United_Nations_Volunteers,United Nations Volunteers,united-nations-volunteers,united-nations-volunteers,UNK
+U.N.,11865969,26,63,31769,http://en.wikipedia.org/wiki/United_Nations_(gang),United Nations,united-nations,united-nations-gang,UNK
+U.N.,100007348,0,0,,"http://en.wikipedia.org/wiki/Un,_India","Un, India",un-india,un-india,UKN
+U.N.,25287144,9,49,,http://en.wikipedia.org/wiki/U.N._(group),U.N.,un,un-group,UNK
+U.N.,5509095,22,34,,http://en.wikipedia.org/wiki/Un_Lun_Dun,Un Lun Dun,un-lun-dun,un-lun-dun,UNK
+U.N.,3191302,84,23,3191302,http://en.wikipedia.org/wiki/Unconference,Unconference,unconference,unconference,UNK
+U.N.,18589346,148,276,18589346;31769,http://en.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement,Anti-Counterfeiting Trade Agreement,anti-counterfeiting-trade-agreement,anti-counterfeiting-trade-agreement,UNK
+U.N.,7214790,59,31,,http://en.wikipedia.org/wiki/Unk,Unk,unk,unk,PER
+U.N.,6922580,5,11,,http://en.wikipedia.org/wiki/UN_(band),UN,un,un-band,PER

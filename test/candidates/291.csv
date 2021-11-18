@@ -1,0 +1,94 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Iran,14653,91618,862,737;3068;24978895;24976888;3927712;11257321;412823;1398287;5765920;12681;14653;2661918;159999;23363;23235;40517554;2234641;39622;8114685;3022965;1429763;3402027;19180442;57654;64697;3978097;4436774;347268;202698;22571369;22571328;7998017;5540794;1985810;721807;22578496;7349706;12415142;12415197;7336114;8569924,http://en.wikipedia.org/wiki/Iran,Iran,iran,iran,GPE
+Iran,8114685,2,7,14653,"http://en.wikipedia.org/wiki/Iran,_The_most_Dangerous_Nation?","Iran, The most Dangerous Nation?",iran-the-most-dangerous-nation,iran-the-most-dangerous-nation,UNK
+Iran,11257321,8,38,347268;3978097;14653;3402027;19180442,http://en.wikipedia.org/wiki/Iran_(word),Iran,iran,iran-word,UNK
+Iran,31015979,3,14,31015979,http://en.wikipedia.org/wiki/Iran_(journal),Iran,iran,iran-journal,ORG
+Iran,64697,194,217,23363;347268;737;3978097;14653;57654;12681;23235,http://en.wikipedia.org/wiki/Geography_of_Iran,Geography of Iran,geography-of-iran,geography-of-iran,UNK
+Iran,42314926,2,5,,http://en.wikipedia.org/wiki/Iran_Mountains,Iran Mountains,iran-mountains,iran-mountains,UNK
+Iran,24978895,13,7,14653,http://en.wikipedia.org/wiki/Iran_(newspaper),Iran,iran,iran-newspaper,UNK
+Iran,3978097,271,539,3927712;11257321;721807;39622;64697;347268;737;14653;57654;1429763;4436774;19180442;3402027,http://en.wikipedia.org/wiki/Greater_Iran,Greater Iran,greater-iran,greater-iran,UNK
+Iran,412823,201,160,347268;14653;19180442,http://en.wikipedia.org/wiki/Flag_of_Iran,Flag of Iran,flag-of-iran,flag-of-iran,UNK
+Iran,22571369,6,8,22571328;57654;14653,http://en.wikipedia.org/wiki/Iran_Club,Iran Club,iran-club,iran-club,UNK
+Iran,721807,498,303,3927712;3022965;721807;347268;3978097;14653;57654;6375316,http://en.wikipedia.org/wiki/Nuclear_program_of_Iran,Nuclear program of Iran,nuclear-program-of-iran,nuclear-program-of-iran,ORG
+Iran,3022965,230,415,721807;347268;14653;57654,http://en.wikipedia.org/wiki/Iran–Israel_relations,Iran–Israel relations,iran–israel-relations,iran–israel-relations,UNK
+TEHRAN,57654,6093,728,737;3978097;2661918;22571369;22571328;39622;347268;159999;12415142;12415197;7336114;7998017;3022965;23235;202698;3927712;721807;8569924;9239;5661849;57654;5540794;64697;14653;2234641,http://en.wikipedia.org/wiki/Tehran,Tehran,tehran,tehran,GPE
+TEHRAN,202698,1426,246,202698;39622;14653;5661849;159999;8569924;12415142;12415197;7336114;57654,http://en.wikipedia.org/wiki/Tehran_Province,Tehran Province,tehran-province,tehran-province,UNK
+TEHRAN,5661849,10,55,202698;7336114;12415197;57654,http://en.wikipedia.org/wiki/Greater_Tehran,Greater Tehran,greater-tehran,greater-tehran,UNK
+TEHRAN,7336114,289,144,202698;7336114;14653;57654;5661849,http://en.wikipedia.org/wiki/Tehran_County,Tehran County,tehran-county,tehran-county,UNK
+TEHRAN,22571328,5,7,57654;22571369;14653,http://en.wikipedia.org/wiki/Tehran_Club,Tehran Club,tehran-club,tehran-club,UNK
+TEHRAN,159999,575,206,1398287;202698;8569924;347268;14653;57654;159999,http://en.wikipedia.org/wiki/University_of_Tehran,University of Tehran,university-of-tehran,university-of-tehran,ORG
+TEHRAN,5540794,276,189,14653;57654,http://en.wikipedia.org/wiki/1976_Tehran_UFO_incident,1976 Tehran UFO incident,1976-tehran-ufo-incident,1976-tehran-ufo-incident,UNK
+TEHRAN,20710424,1,1,,http://en.wikipedia.org/wiki/Tehran_International_Airport,Tehran International Airport,tehran-international-airport,tehran-international-airport,UNK
+TEHRAN,8569924,1,8,159999;57654;202698;14653,"http://en.wikipedia.org/wiki/University_of_Tehran,_Department_of_Mining_Engineering","University of Tehran, Department of Mining Engineering",university-of-tehran-department-of-mining-engineering,university-of-tehran-department-of-mining-engineering,UNK
+Shiraz,39622,1404,617,1398287;7349706;202698;22578496;3978097;14653;19180442;2661918;57654;1429763,http://en.wikipedia.org/wiki/Shiraz,Shiraz,shiraz,shiraz,GPE
+Shiraz,1398287,65,42,159999;39622;14653,http://en.wikipedia.org/wiki/Shiraz_University,Shiraz University,shiraz-university,shiraz-university,ORG
+Shiraz,7349706,973,422,7349706;39622;14653,http://en.wikipedia.org/wiki/Shiraz_County,Shiraz County,shiraz-county,shiraz-county,UNK
+Shiraz,40517554,50,63,14653,"http://en.wikipedia.org/wiki/Shiraz,_East_Azerbaijan","Shiraz, East Azerbaijan",shiraz-east-azerbaijan,shiraz-east-azerbaijan,UNK
+Shiraz,2661918,121,90,39622;14653;57654,http://en.wikipedia.org/wiki/Shiraz_International_Airport,Shiraz International Airport,shiraz-international-airport,shiraz-international-airport,UNK
+Shiraz,22578496,6,6,39622;14653,http://en.wikipedia.org/wiki/Shiraz_Stadium,Shiraz Stadium,shiraz-stadium,shiraz-stadium,UNK
+Shiraz,18040149,2,5,,http://en.wikipedia.org/wiki/Shiraz_(band),Shiraz,shiraz,shiraz-band,UNK
+Resalat,24976888,9,7,14653,http://en.wikipedia.org/wiki/Resalat_(newspaper),Resalat,resalat,resalat-newspaper,ORG
+Resalat,12415197,55,57,5661849;202698;14653;57654,http://en.wikipedia.org/wiki/Resalat_Expressway,Resalat Expressway,resalat-expressway,resalat-expressway,UNK
+Resalat,12415142,1,67,202698;14653;57654,http://en.wikipedia.org/wiki/Resalat_(district),Resalat,resalat,resalat-district,UNK
+Iranian,14653,91618,862,737;3068;24978895;24976888;3927712;11257321;412823;1398287;5765920;12681;14653;2661918;159999;23363;23235;40517554;2234641;39622;8114685;3022965;1429763;3402027;19180442;57654;64697;3978097;4436774;347268;202698;22571369;22571328;7998017;5540794;1985810;721807;22578496;7349706;12415142;12415197;7336114;8569924,http://en.wikipedia.org/wiki/Iran,Iran,iran,iran,GPE
+Iranian,3927712,180,128,347268;3978097;14653;57654;721807,http://en.wikipedia.org/wiki/Iranian_oil_bourse,Iranian oil bourse,iranian-oil-bourse,iranian-oil-bourse,UNK
+Iranian,1429763,672,340,39622;347268;737;3978097;14653;1429763;19180442,http://en.wikipedia.org/wiki/Iranian_architecture,Iranian architecture,iranian-architecture,iranian-architecture,UNK
+Iranian,19180442,1296,414,39622;347268;737;3978097;14653;4436774;19180442;3402027;11257321;412823;9239;2234641;1429763;23235,http://en.wikipedia.org/wiki/Iranian_peoples,Iranian peoples,iranian-peoples,iranian-peoples,ORG
+Iranian,347268,1732,790,347268;64697;737;3978097;159999;3402027;3927712;11257321;412823;721807;1429763;7998017;14653;19180442;3022965;1026286;2234641;57654,http://en.wikipedia.org/wiki/Iranian_Revolution,Iranian Revolution,iranian-revolution,iranian-revolution,UNK
+Iranian,4436774,137,74,19180442;3978097;14653,http://en.wikipedia.org/wiki/Irani_(India),Irani,irani,irani-india,UNK
+Iranian,5765920,32,9,14653,http://en.wikipedia.org/wiki/Iranian.com,Iranian.com,iraniancom,iraniancom,UNK
+Iranian,2234641,179,286,347268;14653;57654;19180442,http://en.wikipedia.org/wiki/Iranian_American,Iranian American,iranian-american,iranian-american,UNK
+Iranian,3402027,716,188,11257321;347268;737;3978097;14653;19180442,http://en.wikipedia.org/wiki/Iranian_languages,Iranian languages,iranian-languages,iranian-languages,UNK
+Islamic Revolutionary Court,7998017,61,22,347268;14653;57654,http://en.wikipedia.org/wiki/Islamic_Revolutionary_Court,Islamic Revolutionary Court,islamic-revolutionary-court,islamic-revolutionary-court,UNK
+Adel,112946,86,98,16456253,"http://en.wikipedia.org/wiki/Adel,_Iowa","Adel, Iowa",adel-iowa,adel-iowa,GPE
+Adel,13041163,1660,598,13041163,http://en.wikipedia.org/wiki/Adele,Adele,adele,adele,UNK
+Adel,990624,52,139,,"http://en.wikipedia.org/wiki/Adel,_Leeds","Adel, Leeds",adel-leeds,adel-leeds,UNK
+Adel,42656196,2,4,,http://en.wikipedia.org/wiki/Arthur_Adel,Arthur Adel,arthur-adel,arthur-adel,PER
+Adel,19684643,50,44,,http://en.wikipedia.org/wiki/Al-Adel,Al-Adel,al-adel,al-adel,UNK
+Adel,16456253,40,50,112946,"http://en.wikipedia.org/wiki/Adel_Township,_Dallas_County,_Iowa","Adel Township, Dallas County, Iowa",adel-township-dallas-county-iowa,adel-township-dallas-county-iowa,GPE
+Adel,1620766,24,50,,"http://en.wikipedia.org/wiki/Adel,_Oregon","Adel, Oregon",adel-oregon,adel-oregon,GPE
+Adel,24653736,42,66,,"http://en.wikipedia.org/wiki/Adel,_Oklahoma","Adel, Oklahoma",adel-oklahoma,adel-oklahoma,UNK
+Adel,110008,60,244,,"http://en.wikipedia.org/wiki/Adel,_Georgia","Adel, Georgia",adel-georgia,adel-georgia,GPE
+Europe,9239,51349,1032,17891966;9239;23620443;3499945;23235;20272716;19180442;57654;628999;1187515;358518;755102;87187;13562519,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+Europe,855087,344,374,,http://en.wikipedia.org/wiki/Europe_(dinghy),Europe,europe,europe-dinghy,UNK
+Europe,17891966,192,242,9239,http://en.wikipedia.org/wiki/Europe_(anthem),Europe,europe,europe-anthem,UNK
+Europe,1659361,12,34,,http://en.wikipedia.org/wiki/European_Patent_Litigation_Agreement,European Patent Litigation Agreement,european-patent-litigation-agreement,european-patent-litigation-agreement,UNK
+Europe,304821,111,138,304821,http://en.wikipedia.org/wiki/2003_European_heat_wave,2003 European heat wave,2003-european-heat-wave,2003-european-heat-wave,UNK
+Europe,13659804,72,126,,http://en.wikipedia.org/wiki/European_Youth_Chess_Championship,European Youth Chess Championship,european-youth-chess-championship,european-youth-chess-championship,PER
+Europe,15132000,13,28,,"http://en.wikipedia.org/wiki/Old_Europe,_New_Europe,_Core_Europe","Old Europe, New Europe, Core Europe",old-europe-new-europe-core-europe,old-europe-new-europe-core-europe,UNK
+Europe,2826281,77,84,,http://en.wikipedia.org/wiki/Europe_GAA,Europe GAA,europe-gaa,europe-gaa,GPE
+Europe,7514548,108,319,,http://en.wikipedia.org/wiki/Europe_Street,Europe Street,europe-street,europe-street,GPE
+Europe,5805422,293,153,87187,http://en.wikipedia.org/wiki/European_Union_Microsoft_competition_case,European Union Microsoft competition case,european-union-microsoft-competition-case,european-union-microsoft-competition-case,ORG
+Europe,755102,85,158,9239,http://en.wikipedia.org/wiki/Old_Europe_(archaeology),Old Europe,old-europe,old-europe-archaeology,UNK
+Europe,14051635,1,6,,http://en.wikipedia.org/wiki/DJ_Europe,DJ Europe,dj-europe,dj-europe,UNK
+Europe,628999,133,18,9239;20272716,"http://en.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa","Europe, the Middle East and Africa",europe-the-middle-east-and-africa,europe-the-middle-east-and-africa,UNK
+Europe,406269,18,53,,http://en.wikipedia.org/wiki/Old_Europe_(politics),Old Europe,old-europe,old-europe-politics,ORG
+Europe,26450398,2,11,,http://en.wikipedia.org/wiki/Europe/London,Europe/London,europe-london,europe-london,PER
+Europe,13562519,17,304,9239;1187515,http://en.wikipedia.org/wiki/Greater_Europe,Greater Europe,greater-europe,greater-europe,ORG
+Europe,87187,825,370,5805422;87187;9239,http://en.wikipedia.org/wiki/European_Court_of_Justice,European Court of Justice,european-court-of-justice,european-court-of-justice,ORG
+Europe,358518,602,118,358518;9239,http://en.wikipedia.org/wiki/Europe_(band),Europe,europe,europe-band,UNK
+Europe,12586001,1,13,,http://en.wikipedia.org/wiki/Europe_Lake,Europe Lake,europe-lake,europe-lake,UNK
+Europe,503907,29,46,,http://en.wikipedia.org/wiki/Europe_(Paris_Métro),Europe,europe,europe-paris-metro,UNK
+Europe,11787932,277,273,,http://en.wikipedia.org/wiki/European_driving_licence,European driving licence,european-driving-licence,european-driving-licence,UNK
+Europe,1187515,306,383,13562519;9239;1187515,http://en.wikipedia.org/wiki/Geography_of_Europe,Geography of Europe,geography-of-europe,geography-of-europe,UNK
+Europe,20272716,1,11,20272716;628999;9239,"http://en.wikipedia.org/wiki/Europe,_Middle_East,_Africa_and_Latin_America","Europe, Middle East, Africa and Latin America",europe-middle-east-africa-and-latin-america,europe-middle-east-africa-and-latin-america,UNK
+Europe,3499945,3,21,9239,http://en.wikipedia.org/wiki/Europe_(story),Europe,europe,europe-story,UNK
+Europe,23620443,13,20,9239,http://en.wikipedia.org/wiki/Europe_(magazine),Europe,europe,europe-magazine,UNK
+Afghanistan,737,17194,1207,737;3978097;3068;23712856;347268;1985810;1965925;19666611;2365406;1429763;12681;3402027;5701019;14653;19180442;23363;23235;57654;4292193;64697,http://en.wikipedia.org/wiki/Afghanistan,Afghanistan,afghanistan,afghanistan,GPE
+Afghanistan,4292193,0,187,19666611;737,http://en.wikipedia.org/wiki/Canada's_role_in_the_Afghanistan_War,Canada's role in the Afghanistan War,canadas-role-in-the-afghanistan-war,canadas-role-in-the-afghanistan-war,UNK
+Afghanistan,19666611,3735,1075,737;4292193;12681;19666611;2365406;23235,http://en.wikipedia.org/wiki/War_in_Afghanistan_(2001–present),War in Afghanistan,war-in-afghanistan,war-in-afghanistan-2001–present,UNK
+Afghanistan,23712856,312,89,737;3068,http://en.wikipedia.org/wiki/Kingdom_of_Afghanistan,Kingdom of Afghanistan,kingdom-of-afghanistan,kingdom-of-afghanistan,GPE
+Afghanistan,3068,89,122,737;14653;12681;23712856;23235,http://en.wikipedia.org/wiki/Islamic_conquest_of_Afghanistan,Islamic conquest of Afghanistan,islamic-conquest-of-afghanistan,islamic-conquest-of-afghanistan,PER
+Afghanistan,12681,128,338,19666611;23363;64697;737;14653;12681;3068;23235,http://en.wikipedia.org/wiki/Geography_of_Afghanistan,Geography of Afghanistan,geography-of-afghanistan,geography-of-afghanistan,UNK
+Afghanistan,5701019,4,15,737;23235,http://en.wikipedia.org/wiki/Afghanistan_Oil_Pipeline,Afghanistan Oil Pipeline,afghanistan-oil-pipeline,afghanistan-oil-pipeline,UNK
+Afghanistan,2365406,409,301,19666611;737;759295;23235,http://en.wikipedia.org/wiki/Afghanistan_national_cricket_team,Afghanistan national cricket team,afghanistan-national-cricket-team,afghanistan-national-cricket-team,ORG
+Pakistan,23235,33617,1132,737;3068;1965925;2365406;9239;12681;5701019;14653;759295;1026286;23363;23235;464417;1985810;6375316;19666611;19180442;57654;64697;3662295,http://en.wikipedia.org/wiki/Pakistan,Pakistan,pakistan,pakistan,GPE
+Pakistan,1026286,1055,367,347268;1965925;759295;1026286;23363;6375316;23235,http://en.wikipedia.org/wiki/Pakistan_Movement,Pakistan Movement,pakistan-movement,pakistan-movement,ORG
+Pakistan,464417,6,20,23235,http://en.wikipedia.org/wiki/Pakistan_International,Pakistan International,pakistan-international,pakistan-international,UNK
+Pakistan,6375316,856,581,1965925;759295;3662295;721807;1026286;23363;6375316;23235,http://en.wikipedia.org/wiki/Nuclear_power_in_Pakistan,Nuclear power in Pakistan,nuclear-power-in-pakistan,nuclear-power-in-pakistan,UNK
+Pakistan,1965925,2031,377,737;3662295;6375316;1965925;759295;1026286;23363;23235,http://en.wikipedia.org/wiki/Pakistan_Army,Pakistan Army,pakistan-army,pakistan-army,ORG
+Pakistan,23363,415,510,1026286;23363;64697;1965925;737;14653;12681;6375316;759295;3662295;23235,http://en.wikipedia.org/wiki/Geography_of_Pakistan,Geography of Pakistan,geography-of-pakistan,geography-of-pakistan,GPE
+Pakistan,3662295,473,123,24442938;23363;1965925;6375316;759295;23235,http://en.wikipedia.org/wiki/Dominion_of_Pakistan,Dominion of Pakistan,dominion-of-pakistan,dominion-of-pakistan,GPE
+Pakistan,24442938,2,14,3662295,"http://en.wikipedia.org/wiki/Pakistan,_India","Pakistan, India",pakistan-india,pakistan-india,UNK
+Pakistan,759295,1423,649,3662295;6375316;1965925;759295;2365406;1026286;23363;23235,http://en.wikipedia.org/wiki/Pakistan_national_cricket_team,Pakistan national cricket team,pakistan-national-cricket-team,pakistan-national-cricket-team,ORG
+Golden Crescent,1985810,16,22,737;14653;23235,http://en.wikipedia.org/wiki/Golden_Crescent,Golden Crescent,golden-crescent,golden-crescent,ORG

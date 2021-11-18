@@ -1,0 +1,213 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Italy,14532,127197,1418,18031041;1395903;23623088;14701;14699;14708;14532;1942377;265585;6108533;25458;1639662;3867414;3382089;41381137;1413783;6796445;1884591;1873263;897351;378368;880179;15391883;385155;362466;116024;9804204;2611817;127616;7467844;411234;135842;26246572;928520;25036290;758372;3434750;12163320;521555;502642;1484334;6647773;6204349;493696,http://en.wikipedia.org/wiki/Italy,Italy,italy,italy,GPE
+Italy,1873263,160,203,14708;9804204;1639662;14532;378368,http://en.wikipedia.org/wiki/Roman_Italy,Roman Italy,roman-italy,roman-italy,UNK
+Italy,23623088,279,142,2170833;704114;4304258;1484334;11805457;35158589;15391883;362466;758372;880179;11752595;411234;14532;20789349;1171144;15540697;23623088;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Melbourne","Little Italy, Melbourne",little-italy-melbourne,little-italy-melbourne,UNK
+Italy,1639662,560,249,1873263;14708;9804204;14532,http://en.wikipedia.org/wiki/Kingdom_of_Italy_(Napoleonic),Kingdom of Italy,kingdom-of-italy,kingdom-of-italy-napoleonic,GPE
+Italy,8684049,9,28,704114;23623088;1171144;4304258;880179;1942377;1884591;2170833;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Paterson","Little Italy, Paterson",little-italy-paterson,little-italy-paterson,UNK
+Italy,704114,136,39,2170833;20789349;4304258;1484334;11805457;35158589;1171144;15540697;15391883;23623088;758372;880179;1942377;8684049;1884591;11752595;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Ottawa","Little Italy, Ottawa",little-italy-ottawa,little-italy-ottawa,GPE
+Italy,1484334,345,214,2170833;704114;4304258;11805457;35158589;15391883;758372;880179;11752595;411234;14532;20789349;1171144;15540697;23623088;3434750;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Baltimore","Little Italy, Baltimore",little-italy-baltimore,little-italy-baltimore,GPE
+Italy,6108533,54,53,25458;14532,http://en.wikipedia.org/wiki/Italy_(Epcot),Italy,italy,italy-epcot,UNK
+Italy,758372,48,75,1171144;2170833;14532;704114;23623088;880179;4304258;1942377;1884591;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Syracuse","Little Italy, Syracuse",little-italy-syracuse,little-italy-syracuse,UNK
+Italy,16730206,14,20,14708,http://en.wikipedia.org/wiki/I.T.A.L.Y.,I.T.A.L.Y.,italy,italy,UNK
+Italy,20789349,0,30,704114;23623088;4304258;880179;1171144;1942377;1884591;2170833;411234;265592;265585;1484334,http://en.wikipedia.org/wiki/Little_Italy_(Bridgeport),Little Italy,little-italy,little-italy-bridgeport,UNK
+Italy,25036290,1434,275,362466;3867414;14532,http://en.wikipedia.org/wiki/Italy_national_under-19_football_team,Italy national under-19 football team,italy-national-under-19-football-team,italy-national-under-19-football-team,UNK
+Italy,1884591,256,167,2170833;704114;4304258;1484334;11805457;35158589;15391883;758372;880179;11752595;411234;14532;20789349;1171144;15540697;23623088;3434750;1942377;8684049;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_San_Diego","Little Italy, San Diego",little-italy-san-diego,little-italy-san-diego,UNK
+Italy,14701,1074,423,41381137;1413783;897351;14701;14699;14708;9804204;14532;928520;385155;25458;521555;3434750,http://en.wikipedia.org/wiki/Politics_of_Italy,Politics of Italy,politics-of-italy,politics-of-italy,UNK
+Italy,14169617,48,64,3434750,http://en.wikipedia.org/wiki/Italy_Records,Italy Records,italy-records,italy-records,ORG
+Italy,265592,342,391,704114;4304258;1484334;758372;11752595;6213646;1171144;23623088;1884591;265592;265585;2170833;11805457;35158589;15391883;126858;880179;411234;20789349;15540697;1942377;8684049,http://en.wikipedia.org/wiki/Little_Italy,Little Italy,little-italy,little-italy,UNK
+Italy,9804204,2281,660,378368;897351;606848;1873263;385155;25458;521555;3434750;1639662;14701;14708;14532;493696,http://en.wikipedia.org/wiki/Kingdom_of_Italy,Kingdom of Italy,kingdom-of-italy,kingdom-of-italy,GPE
+Italy,411234,496,398,704114;4304258;1484334;758372;11752595;1171144;23623088;1884591;265592;265585;2170833;11805457;35158589;15391883;880179;14532;20789349;15540697;1942377;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Toronto","Little Italy, Toronto",little-italy-toronto,little-italy-toronto,GPE
+Italy,35158464,0,2,35158589;15540697,"http://en.wikipedia.org/wiki/Little_Italy,_West_Virginia","Little Italy, West Virginia",little-italy-west-virginia,little-italy-west-virginia,UNK
+Italy,11805457,20,107,2170833;704114;4304258;1484334;1171144;23623088;880179;1942377;1884591;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Omaha","Little Italy, Omaha",little-italy-omaha,little-italy-omaha,UNK
+Italy,362466,4391,862,25458;3434750;265585;3867414;25036290;362466;23623088;14708;14532,http://en.wikipedia.org/wiki/Italy_national_football_team,Italy national football team,italy-national-football-team,italy-national-football-team,ORG
+Italy,15540697,55,88,1171144;2170833;704114;35158464;23623088;4304258;880179;3434750;1942377;1884591;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Clay_County,_West_Virginia","Little Italy, Clay County, West Virginia",little-italy-clay-county-west-virginia,little-italy-clay-county-west-virginia,GPE
+Italy,3867414,1771,347,362466;14532;25036290,http://en.wikipedia.org/wiki/Italy_national_under-21_football_team,Italy national under-21 football team,italy-national-under-21-football-team,italy-national-under-21-football-team,ORG
+Italy,135842,51,56,14532;3434750,"http://en.wikipedia.org/wiki/Italy,_Texas","Italy, Texas",italy-texas,italy-texas,GPE
+Italy,1171144,179,81,2170833;704114;4304258;1484334;11805457;35158589;15391883;758372;880179;11752595;411234;385155;20789349;15540697;23623088;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Vancouver","Little Italy, Vancouver",little-italy-vancouver,little-italy-vancouver,UNK
+Italy,4304258,128,26,2170833;20789349;704114;1484334;11805457;35158589;1171144;15540697;15391883;23623088;758372;880179;1942377;8684049;1884591;11752595;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Winnipeg","Little Italy, Winnipeg",little-italy-winnipeg,little-italy-winnipeg,UNK
+Italy,15391883,1,42,704114;23623088;1171144;880179;4304258;1942377;1884591;2170833;411234;265592;265585;14532;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Connellsville","Little Italy, Connellsville",little-italy-connellsville,little-italy-connellsville,UNK
+Italy,2170833,240,148,704114;4304258;1484334;11805457;14708;35158589;15391883;758372;880179;11752595;411234;20789349;1171144;15540697;23623088;1942377;8684049;1884591;897351;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Montreal","Little Italy, Montreal",little-italy-montreal,little-italy-montreal,GPE
+Italy,265585,408,307,704114;4304258;1484334;362466;758372;11752595;385155;1171144;23623088;3434750;1884591;265592;2170833;11805457;35158589;15391883;880179;411234;14532;20789349;15540697;1942377;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Manhattan","Little Italy, Manhattan",little-italy-manhattan,little-italy-manhattan,GPE
+Italy,1942377,326,277,704114;4304258;1484334;758372;11752595;1171144;23623088;3434750;1884591;265592;265585;2170833;11805457;35158589;15391883;880179;411234;14532;20789349;15540697;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Chicago","Little Italy, Chicago",little-italy-chicago,little-italy-chicago,UNK
+Italy,41381137,11,73,14701;14532,http://en.wikipedia.org/wiki/For_Italy,For Italy,for-italy,for-italy,UNK
+Italy,127616,31,48,14532;3434750,"http://en.wikipedia.org/wiki/Italy,_New_York","Italy, New York",italy-new-york,italy-new-york,GPE
+Italy,897351,708,300,378368;1413783;897351;14701;14699;14708;9804204;14532;385155;25458;521555;2170833;493696,http://en.wikipedia.org/wiki/Southern_Italy,Southern Italy,southern-italy,southern-italy,UNK
+Italy,14699,202,305,14701;14699;385155;14532;521555;378368;1413783;897351,http://en.wikipedia.org/wiki/Geography_of_Italy,Geography of Italy,geography-of-italy,geography-of-italy,UNK
+Italy,11752595,7,27,704114;23623088;1171144;4304258;880179;1942377;1884591;2170833;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Wilmington","Little Italy, Wilmington",little-italy-wilmington,little-italy-wilmington,UNK
+Italy,35158589,73,113,2170833;704114;35158464;4304258;1484334;1171144;23623088;880179;3434750;1942377;1884591;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Randolph_County,_West_Virginia","Little Italy, Randolph County, West Virginia",little-italy-randolph-county-west-virginia,little-italy-randolph-county-west-virginia,GPE
+Dini,928520,258,254,14701;928520;385155;14532;25458,http://en.wikipedia.org/wiki/Lamberto_Dini,Lamberto Dini,lamberto-dini,lamberto-dini,UNK
+Burundi,21490998,4628,438,26246572;512047;616447;1812595;2082570;358637;59537;21490998;3695;30118;67050;16278518;1402612;31956,http://en.wikipedia.org/wiki/Burundi,Burundi,burundi,burundi,GPE
+Burundi,3695,104,149,1812595;30118;21490998;16278518;3695,http://en.wikipedia.org/wiki/Geography_of_Burundi,Geography of Burundi,geography-of-burundi,geography-of-burundi,ORG
+Burundi,16278518,31,332,1812595;30118;3695;2082570;21490998;67050;59537;3434750,http://en.wikipedia.org/wiki/Outline_of_Burundi,Outline of Burundi,outline-of-burundi,outline-of-burundi,GPE
+Burundi,2082570,11,15,16278518;21490998,http://en.wikipedia.org/wiki/University_of_Burundi,University of Burundi,university-of-burundi,university-of-burundi,UNK
+Burundi,1812595,131,83,21490998;16278518;3695;67050,http://en.wikipedia.org/wiki/Kingdom_of_Burundi,Kingdom of Burundi,kingdom-of-burundi,kingdom-of-burundi,GPE
+Nyerere,358637,542,576,21490998;30118;9862753,http://en.wikipedia.org/wiki/Julius_Nyerere,Julius Nyerere,julius-nyerere,julius-nyerere,PER
+Nyerere,9862753,124,101,30118;358637,http://en.wikipedia.org/wiki/Julius_Nyerere_International_Airport,Julius Nyerere International Airport,julius-nyerere-international-airport,julius-nyerere-international-airport,UNK
+ROME,25458,26938,1320,6796445;24002394;1395903;14701;14708;14532;3434750;6108533;2012056;25458;897351;521555;378368;385155;110096;606848;1423165;3382089;362466;928520;1413783;9804204;6647773;493696,http://en.wikipedia.org/wiki/Rome,Rome,rome,rome,GPE
+ROME,22682787,8,232,110096,"http://en.wikipedia.org/wiki/Rome,_Georgia_metropolitan_area","Rome, Georgia metropolitan area",rome-georgia-metropolitan-area,rome-georgia-metropolitan-area,UNK
+ROME,11932117,41,51,3434750;1310891,"http://en.wikipedia.org/wiki/Rome_Township,_Jefferson_County,_Illinois","Rome Township, Jefferson County, Illinois",rome-township-jefferson-county-illinois,rome-township-jefferson-county-illinois,UNK
+ROME,141783,0,6,139190;138661;37501441,"http://en.wikipedia.org/wiki/Rome,_Wisconsin","Rome, Wisconsin",rome-wisconsin,rome-wisconsin,UNK
+ROME,15775750,590,592,,http://en.wikipedia.org/wiki/Saint-Rome,Saint-Rome,saint-rome,saint-rome,UNK
+ROME,1310891,0,14,11932117;132235;41732644,http://en.wikipedia.org/wiki/Rome_Township,Rome Township,rome-township,rome-township,GPE
+ROME,521555,10527,1000,521555;3434750;1413783;9804204;25458;897351;385155;14701;14699;14532,http://en.wikipedia.org/wiki/Ancient_Rome,Ancient Rome,ancient-rome,ancient-rome,UNK
+ROME,24192691,55,36,17161484;24192691,http://en.wikipedia.org/wiki/Rome_Ramirez,Rome Ramirez,rome-ramirez,rome-ramirez,UNK
+ROME,41732644,36,1,1310891,"http://en.wikipedia.org/wiki/Rome_Township,_Jones_County,_Iowa","Rome Township, Jones County, Iowa",rome-township-jones-county-iowa,rome-township-jones-county-iowa,PER
+ROME,21722083,0,9,126858;3434750,"http://en.wikipedia.org/wiki/Rome_Company,_Inc.","Rome Company, Inc.",rome-company-inc,rome-company-inc,UNK
+ROME,894949,42,64,126858,"http://en.wikipedia.org/wiki/Rome,_Watertown_and_Ogdensburg_Railroad","Rome, Watertown and Ogdensburg Railroad",rome-watertown-and-ogdensburg-railroad,rome-watertown-and-ogdensburg-railroad,UNK
+ROME,2070821,9,19,,http://en.wikipedia.org/wiki/Emor:_Rome_Upside_Down,Emor: Rome Upside Down,emor-rome-upside-down,emor-rome-upside-down,UNK
+ROME,6647773,45,57,25458;14532;3434750,"http://en.wikipedia.org/wiki/Rome,_Oregon","Rome, Oregon",rome-oregon,rome-oregon,GPE
+ROME,110096,584,474,19156980;25458;22682787;3434750;238192,"http://en.wikipedia.org/wiki/Rome,_Georgia","Rome, Georgia",rome-georgia,rome-georgia,GPE
+ROME,22845514,3,4,,http://en.wikipedia.org/wiki/Romé,Romé,rome,rome,UNK
+ROME,1395903,56,121,14532;25458,http://en.wikipedia.org/wiki/Rome_(department),Rome,rome,rome-department,UNK
+ROME,132235,79,87,3434750;141577;1310891,"http://en.wikipedia.org/wiki/Rome_Township,_Crawford_County,_Pennsylvania","Rome Township, Crawford County, Pennsylvania",rome-township-crawford-county-pennsylvania,rome-township-crawford-county-pennsylvania,GPE
+ROME,19156980,4,7,110096,http://en.wikipedia.org/wiki/Rome_Railroad,Rome Railroad,rome-railroad,rome-railroad,UNK
+ROME,1810825,0,3,,"http://en.wikipedia.org/wiki/Rome_Township,_Ohio","Rome Township, Ohio",rome-township-ohio,rome-township-ohio,UNK
+ROME,138661,52,72,141783;37501441;3434750,"http://en.wikipedia.org/wiki/Rome,_Adams_County,_Wisconsin","Rome, Adams County, Wisconsin",rome-adams-county-wisconsin,rome-adams-county-wisconsin,GPE
+ROME,502642,30,47,14532,http://en.wikipedia.org/wiki/Rome_(Paris_Métro),Rome,rome,rome-paris-metro,UNK
+ROME,126858,764,342,12010;3434750;265592;894949;21722083,"http://en.wikipedia.org/wiki/Rome,_New_York","Rome, New York",rome-new-york,rome-new-york,GPE
+ROME,17161484,16,25,24192691;3434750,http://en.wikipedia.org/wiki/Rome_(musician),Rome,rome,rome-musician,UNK
+ROME,37870985,16,30,3434750,"http://en.wikipedia.org/wiki/Rome,_Tennessee","Rome, Tennessee",rome-tennessee,rome-tennessee,GPE
+ROME,7044623,46,53,,http://en.wikipedia.org/wiki/Rome_media_releases,Rome media releases,rome-media-releases,rome-media-releases,UNK
+ROME,128875,35,50,3434750,"http://en.wikipedia.org/wiki/Rome,_Ohio","Rome, Ohio",rome-ohio,rome-ohio,GPE
+ROME,1423165,5,5,25458,http://en.wikipedia.org/wiki/University_of_Rome,University of Rome,university-of-rome,university-of-rome,ORG
+ROME,116024,52,83,14532;3434750,"http://en.wikipedia.org/wiki/Rome,_Maine","Rome, Maine",rome-maine,rome-maine,GPE
+ROME,113870,20,49,3434750,"http://en.wikipedia.org/wiki/Rome,_Iowa","Rome, Iowa",rome-iowa,rome-iowa,GPE
+ROME,41221567,1,40,,"http://en.wikipedia.org/wiki/Old_Rome,_South_Ayrshire","Old Rome, South Ayrshire",old-rome-south-ayrshire,old-rome-south-ayrshire,UNK
+ROME,23746455,37,58,3434750,"http://en.wikipedia.org/wiki/Rome,_Mississippi","Rome, Mississippi",rome-mississippi,rome-mississippi,UNK
+ROME,6796445,0,10,25458;3434750;14532,http://en.wikipedia.org/wiki/Rome_Airport,Rome Airport,rome-airport,rome-airport,UNK
+ROME,111777,57,63,3434750,"http://en.wikipedia.org/wiki/Rome,_Illinois","Rome, Illinois",rome-illinois,rome-illinois,UNK
+ROME,141577,0,2,132235,"http://en.wikipedia.org/wiki/Rome_Township,_Pennsylvania","Rome Township, Pennsylvania",rome-township-pennsylvania,rome-township-pennsylvania,GPE
+ROME,10435940,11,17,,http://en.wikipedia.org/wiki/Rome_(band),Rome,rome,rome-band,UNK
+ROME,37501441,48,67,141783;3434750;138661,"http://en.wikipedia.org/wiki/Rome_(community),_Adams_County,_Wisconsin","Rome (community), Adams County, Wisconsin",rome-community-adams-county-wisconsin,rome-community-adams-county-wisconsin,GPE
+ROME,37016067,19,33,3434750,"http://en.wikipedia.org/wiki/Rome,_Kentucky","Rome, Kentucky",rome-kentucky,rome-kentucky,UNK
+ROME,3382089,554,192,14708;3382089;14532;25458,http://en.wikipedia.org/wiki/Province_of_Rome,Province of Rome,province-of-rome,province-of-rome,UNK
+ROME,2012056,194,147,14708;25458;3434750,"http://en.wikipedia.org/wiki/Rome,_Open_City","Rome, Open City",rome-open-city,rome-open-city,UNK
+ROME,33606595,0,30,3434750,"http://en.wikipedia.org/wiki/Rome,_Sweet_Rome","Rome, Sweet Rome",rome-sweet-rome,rome-sweet-rome,UNK
+ROME,139190,73,81,141783;3434750,"http://en.wikipedia.org/wiki/Rome,_Jefferson_County,_Wisconsin","Rome, Jefferson County, Wisconsin",rome-jefferson-county-wisconsin,rome-jefferson-county-wisconsin,GPE
+Italian,14532,127197,1418,18031041;1395903;23623088;14701;14699;14708;14532;1942377;265585;6108533;25458;1639662;3867414;3382089;41381137;1413783;6796445;1884591;1873263;897351;378368;880179;15391883;385155;362466;116024;9804204;2611817;127616;7467844;411234;135842;26246572;928520;25036290;758372;3434750;12163320;521555;502642;1484334;6647773;6204349;493696,http://en.wikipedia.org/wiki/Italy,Italy,italy,italy,GPE
+Italian,385155,3075,366,1171144;1413783;9804204;25458;521555;3434750;265585;378368;897351;928520;385155;14701;14699;14708;14532,http://en.wikipedia.org/wiki/Italians,Italians,italians,italians,UNK
+Italian,18031041,4,9,14532,http://en.wikipedia.org/wiki/Italian_Church_(Bucharest),Italian Church,italian-church,italian-church-bucharest,UNK
+Italian,493696,1568,417,897351;9804204;25458;3434750;14532,http://en.wikipedia.org/wiki/Italian_Campaign_(World_War_II),Italian Campaign,italian-campaign,italian-campaign-world-war-ii,UNK
+Italian,22847067,2,108,3434750,http://en.wikipedia.org/wiki/Italian_Center,Italian Center,italian-center,italian-center,UNK
+Italian,1413783,443,218,385155;25458;521555;897351;14701;14699;14708;14532,http://en.wikipedia.org/wiki/Italian_opera,Italian opera,italian-opera,italian-opera,UNK
+Italian,6493213,5,9,,http://en.wikipedia.org/wiki/Italian_Bridge,Italian Bridge,italian-bridge,italian-bridge,UNK
+Italian,1081834,172,129,3434750,http://en.wikipedia.org/wiki/Italian_beef,Italian beef,italian-beef,italian-beef,UNK
+Italian,6204349,263,175,14708;14532,http://en.wikipedia.org/wiki/Italian_Sign_Language,Italian Sign Language,italian-sign-language,italian-sign-language,UNK
+Italian,6213646,132,3,265592,http://en.wikipedia.org/wiki/Italian_Village,Italian Village,italian-village,italian-village,UNK
+Italian,16655646,77,23,14708,http://en.wikipedia.org/wiki/Italian_Spiderman,Italian Spiderman,italian-spiderman,italian-spiderman,UNK
+Italian,880179,350,513,704114;4304258;1484334;758372;11752595;1171144;23623088;1884591;265592;265585;2170833;11805457;35158589;15391883;411234;14532;20789349;15540697;1942377;8684049,"http://en.wikipedia.org/wiki/Italian_Market,_Philadelphia","Italian Market, Philadelphia",italian-market-philadelphia,italian-market-philadelphia,UNK
+Italian,12163320,2,52,14532;3434750,http://en.wikipedia.org/wiki/Italian_International,Italian International,italian-international,italian-international,PER
+Italian,2611817,244,240,14532,http://en.wikipedia.org/wiki/2005_Italian_Grand_Prix,2005 Italian Grand Prix,2005-italian-grand-prix,2005-italian-grand-prix,UNK
+Italian,378368,274,31,14699;14708;1873263;9804204;385155;14532;25458;897351,http://en.wikipedia.org/wiki/Italian_Peninsula,Italian Peninsula,italian-peninsula,italian-peninsula,UNK
+Italian,30680118,26,98,3434750,http://en.wikipedia.org/wiki/Italian_Lake_(Harrisburg),Italian Lake,italian-lake,italian-lake-harrisburg,UNK
+Italian,1313726,303,186,1313726;14708,http://en.wikipedia.org/wiki/Italian_Wikipedia,Italian Wikipedia,italian-wikipedia,italian-wikipedia,UNK
+Italian,14708,17319,410,378368;1639662;16655646;385155;14701;14708;14532;3382089;16730206;2170833;362466;1413783;1313726;9804204;2012056;1873263;25458;897351;6204349,http://en.wikipedia.org/wiki/Italian_language,Italian language,italian-language,italian-language,UNK
+Lamberto Dini,928520,258,254,14701;928520;385155;14532;25458,http://en.wikipedia.org/wiki/Lamberto_Dini,Lamberto Dini,lamberto-dini,lamberto-dini,UNK
+Tanzanian,30118,14274,592,21490998;3695;67050;16278518;512047;358637;9862753;30118;1243593,http://en.wikipedia.org/wiki/Tanzania,Tanzania,tanzania,tanzania,GPE
+Tanzanian,26246572,353,567,21490998;3434750;14532,http://en.wikipedia.org/wiki/Visa_requirements_for_Tanzanian_citizens,Visa requirements for Tanzanian citizens,visa-requirements-for-tanzanian-citizens,visa-requirements-for-tanzanian-citizens,UNK
+Tanzanian,1243593,191,188,30118;3434750,http://en.wikipedia.org/wiki/Tanzanian_hip_hop,Tanzanian hip hop,tanzanian-hip-hop,tanzanian-hip-hop,ORG
+Julius Nyerere,358637,542,576,21490998;30118;9862753,http://en.wikipedia.org/wiki/Julius_Nyerere,Julius Nyerere,julius-nyerere,julius-nyerere,PER
+Julius Nyerere,9862753,124,101,30118;358637,http://en.wikipedia.org/wiki/Julius_Nyerere_International_Airport,Julius Nyerere International Airport,julius-nyerere-international-airport,julius-nyerere-international-airport,UNK
+Rome,25458,26938,1320,6796445;24002394;1395903;14701;14708;14532;3434750;6108533;2012056;25458;897351;521555;378368;385155;110096;606848;1423165;3382089;362466;928520;1413783;9804204;6647773;493696,http://en.wikipedia.org/wiki/Rome,Rome,rome,rome,GPE
+Rome,22682787,8,232,110096,"http://en.wikipedia.org/wiki/Rome,_Georgia_metropolitan_area","Rome, Georgia metropolitan area",rome-georgia-metropolitan-area,rome-georgia-metropolitan-area,UNK
+Rome,11932117,41,51,3434750;1310891,"http://en.wikipedia.org/wiki/Rome_Township,_Jefferson_County,_Illinois","Rome Township, Jefferson County, Illinois",rome-township-jefferson-county-illinois,rome-township-jefferson-county-illinois,UNK
+Rome,141783,0,6,139190;138661;37501441,"http://en.wikipedia.org/wiki/Rome,_Wisconsin","Rome, Wisconsin",rome-wisconsin,rome-wisconsin,UNK
+Rome,15775750,590,592,,http://en.wikipedia.org/wiki/Saint-Rome,Saint-Rome,saint-rome,saint-rome,UNK
+Rome,1310891,0,14,11932117;132235;41732644,http://en.wikipedia.org/wiki/Rome_Township,Rome Township,rome-township,rome-township,GPE
+Rome,521555,10527,1000,521555;3434750;1413783;9804204;25458;897351;385155;14701;14699;14532,http://en.wikipedia.org/wiki/Ancient_Rome,Ancient Rome,ancient-rome,ancient-rome,UNK
+Rome,24192691,55,36,17161484;24192691,http://en.wikipedia.org/wiki/Rome_Ramirez,Rome Ramirez,rome-ramirez,rome-ramirez,UNK
+Rome,41732644,36,1,1310891,"http://en.wikipedia.org/wiki/Rome_Township,_Jones_County,_Iowa","Rome Township, Jones County, Iowa",rome-township-jones-county-iowa,rome-township-jones-county-iowa,PER
+Rome,21722083,0,9,126858;3434750,"http://en.wikipedia.org/wiki/Rome_Company,_Inc.","Rome Company, Inc.",rome-company-inc,rome-company-inc,UNK
+Rome,894949,42,64,126858,"http://en.wikipedia.org/wiki/Rome,_Watertown_and_Ogdensburg_Railroad","Rome, Watertown and Ogdensburg Railroad",rome-watertown-and-ogdensburg-railroad,rome-watertown-and-ogdensburg-railroad,UNK
+Rome,2070821,9,19,,http://en.wikipedia.org/wiki/Emor:_Rome_Upside_Down,Emor: Rome Upside Down,emor-rome-upside-down,emor-rome-upside-down,UNK
+Rome,6647773,45,57,25458;14532;3434750,"http://en.wikipedia.org/wiki/Rome,_Oregon","Rome, Oregon",rome-oregon,rome-oregon,GPE
+Rome,110096,584,474,19156980;25458;22682787;3434750;238192,"http://en.wikipedia.org/wiki/Rome,_Georgia","Rome, Georgia",rome-georgia,rome-georgia,GPE
+Rome,22845514,3,4,,http://en.wikipedia.org/wiki/Romé,Romé,rome,rome,UNK
+Rome,1395903,56,121,14532;25458,http://en.wikipedia.org/wiki/Rome_(department),Rome,rome,rome-department,UNK
+Rome,132235,79,87,3434750;141577;1310891,"http://en.wikipedia.org/wiki/Rome_Township,_Crawford_County,_Pennsylvania","Rome Township, Crawford County, Pennsylvania",rome-township-crawford-county-pennsylvania,rome-township-crawford-county-pennsylvania,GPE
+Rome,19156980,4,7,110096,http://en.wikipedia.org/wiki/Rome_Railroad,Rome Railroad,rome-railroad,rome-railroad,UNK
+Rome,1810825,0,3,,"http://en.wikipedia.org/wiki/Rome_Township,_Ohio","Rome Township, Ohio",rome-township-ohio,rome-township-ohio,UNK
+Rome,138661,52,72,141783;37501441;3434750,"http://en.wikipedia.org/wiki/Rome,_Adams_County,_Wisconsin","Rome, Adams County, Wisconsin",rome-adams-county-wisconsin,rome-adams-county-wisconsin,GPE
+Rome,502642,30,47,14532,http://en.wikipedia.org/wiki/Rome_(Paris_Métro),Rome,rome,rome-paris-metro,UNK
+Rome,126858,764,342,12010;3434750;265592;894949;21722083,"http://en.wikipedia.org/wiki/Rome,_New_York","Rome, New York",rome-new-york,rome-new-york,GPE
+Rome,17161484,16,25,24192691;3434750,http://en.wikipedia.org/wiki/Rome_(musician),Rome,rome,rome-musician,UNK
+Rome,37870985,16,30,3434750,"http://en.wikipedia.org/wiki/Rome,_Tennessee","Rome, Tennessee",rome-tennessee,rome-tennessee,GPE
+Rome,7044623,46,53,,http://en.wikipedia.org/wiki/Rome_media_releases,Rome media releases,rome-media-releases,rome-media-releases,UNK
+Rome,128875,35,50,3434750,"http://en.wikipedia.org/wiki/Rome,_Ohio","Rome, Ohio",rome-ohio,rome-ohio,GPE
+Rome,1423165,5,5,25458,http://en.wikipedia.org/wiki/University_of_Rome,University of Rome,university-of-rome,university-of-rome,ORG
+Rome,116024,52,83,14532;3434750,"http://en.wikipedia.org/wiki/Rome,_Maine","Rome, Maine",rome-maine,rome-maine,GPE
+Rome,113870,20,49,3434750,"http://en.wikipedia.org/wiki/Rome,_Iowa","Rome, Iowa",rome-iowa,rome-iowa,GPE
+Rome,41221567,1,40,,"http://en.wikipedia.org/wiki/Old_Rome,_South_Ayrshire","Old Rome, South Ayrshire",old-rome-south-ayrshire,old-rome-south-ayrshire,UNK
+Rome,23746455,37,58,3434750,"http://en.wikipedia.org/wiki/Rome,_Mississippi","Rome, Mississippi",rome-mississippi,rome-mississippi,UNK
+Rome,6796445,0,10,25458;3434750;14532,http://en.wikipedia.org/wiki/Rome_Airport,Rome Airport,rome-airport,rome-airport,UNK
+Rome,111777,57,63,3434750,"http://en.wikipedia.org/wiki/Rome,_Illinois","Rome, Illinois",rome-illinois,rome-illinois,UNK
+Rome,141577,0,2,132235,"http://en.wikipedia.org/wiki/Rome_Township,_Pennsylvania","Rome Township, Pennsylvania",rome-township-pennsylvania,rome-township-pennsylvania,GPE
+Rome,10435940,11,17,,http://en.wikipedia.org/wiki/Rome_(band),Rome,rome,rome-band,UNK
+Rome,37501441,48,67,141783;3434750;138661,"http://en.wikipedia.org/wiki/Rome_(community),_Adams_County,_Wisconsin","Rome (community), Adams County, Wisconsin",rome-community-adams-county-wisconsin,rome-community-adams-county-wisconsin,GPE
+Rome,37016067,19,33,3434750,"http://en.wikipedia.org/wiki/Rome,_Kentucky","Rome, Kentucky",rome-kentucky,rome-kentucky,UNK
+Rome,3382089,554,192,14708;3382089;14532;25458,http://en.wikipedia.org/wiki/Province_of_Rome,Province of Rome,province-of-rome,province-of-rome,UNK
+Rome,2012056,194,147,14708;25458;3434750,"http://en.wikipedia.org/wiki/Rome,_Open_City","Rome, Open City",rome-open-city,rome-open-city,UNK
+Rome,33606595,0,30,3434750,"http://en.wikipedia.org/wiki/Rome,_Sweet_Rome","Rome, Sweet Rome",rome-sweet-rome,rome-sweet-rome,UNK
+Rome,139190,73,81,141783;3434750,"http://en.wikipedia.org/wiki/Rome,_Jefferson_County,_Wisconsin","Rome, Jefferson County, Wisconsin",rome-jefferson-county-wisconsin,rome-jefferson-county-wisconsin,GPE
+U.S.,3434750,529967,1252,12010;14701;14532;25458;31956;6796445;37870985;113870;1081834;111777;110096;116024;128875;127616;126858;132235;15540697;135842;138661;139190;12163320;238192;233474;37016067;1243593;6647773;14169617;265585;33606595;335721;10328578;385155;362466;16278518;435793;436898;432536;3434750;521555;17161484;1484334;493696;3868301;605077;26246572;30680118;37501441;22847067;11932117;1942377;1884591;21722083;12597504;9804204;35158589;23746455;2012056,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S.,10328578,210,402,435793;10328648;10328590;3434750;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S.,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S.,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S.,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S.,233474,102,93,3434750,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S.,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S.,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;70780;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S.,429750,276,240,887108;441501;79717;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S.,10328648,378,412,903062;10328590;10328578;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S.,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S.,21559355,95,143,,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S.,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S.,444113,128,143,,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S.,16304842,112,175,12010;8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S.,902392,245,190,22398962;436898;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S.,6737193,115,173,887108,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S.,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S.,605077,301,341,3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S.,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S.,889284,455,321,889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S.,79717,694,442,889461;435793;887108;9180009;441501;889284;429750;3868301;888778;447879;436898;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+U.S.,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S.,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S.,435793,251,290,889461;498188;888778;447879;436898;10328578;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S.,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S.,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S.,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S.,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S.,238192,394,239,889461;888778;435793;447879;436898;10328648;3434750;10328620;75235;10328575;887108;441501;79717;428913;70780;903385;429750;889284;6310196;110096,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S.,889461,178,203,887108;441501;79717;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S.,903385,68,230,903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S.,447879,394,337,16304842;889461;903062;888778;435793;436898;75235;10328575;887108;9180009;441501;79717;428913;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S.,2440624,133,162,70780;3868301,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S.,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S.,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S.,70780,396,232,889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S.,3868301,350,531,3434750;2440624;79717;70780,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S.,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;887108;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S.,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S.,436898,769,483,889461;435793;887108;441501;889284;429750;902392;888778;447879;3434750;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S.,6310196,592,545,435793;10328648;10328590;10328578;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+U.S.,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+Howard Wolpe,1402612,314,311,512047;21490998,http://en.wikipedia.org/wiki/Howard_Wolpe,Howard Wolpe,howard-wolpe,howard-wolpe,PER
+Roman Catholic,606848,16975,1064,7467844;24002394;606848;335721;9804204;25458,http://en.wikipedia.org/wiki/Catholic_Church,Catholic Church,catholic-church,catholic-church,ORG
+Roman Catholic,8620630,210,85,,http://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Cashel_and_Emly,Roman Catholic Archdiocese of Cashel and Emly,roman-catholic-archdiocese-of-cashel-and-emly,roman-catholic-archdiocese-of-cashel-and-emly,GPE
+Roman Catholic,335721,267,168,606848;3434750,http://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Los_Angeles,Roman Catholic Archdiocese of Los Angeles,roman-catholic-archdiocese-of-los-angeles,roman-catholic-archdiocese-of-los-angeles,ORG
+Roman Catholic,7467844,9,20,606848;14532,http://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Lucera–Troia,Roman Catholic Diocese of Lucera–Troia,roman-catholic-diocese-of-lucera–troia,roman-catholic-diocese-of-lucera–troia,ORG
+Roman Catholic,10591765,17,52,,http://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Le_Puy-en-Velay,Roman Catholic Diocese of Le Puy-en-Velay,roman-catholic-diocese-of-le-puy-en-velay,roman-catholic-diocese-of-le-puy-en-velay,ORG
+Roman Catholic,24002394,96,274,606848;25458,http://en.wikipedia.org/wiki/Roman_Catholic_(term),Roman Catholic,roman-catholic,roman-catholic-term,UNK
+Great Lakes,12010,3018,328,512047;86933;3434750;1461470;126858;16304842;432536,http://en.wikipedia.org/wiki/Great_Lakes,Great Lakes,great-lakes,great-lakes,UNK
+Great Lakes,3550419,72,74,3550419,http://en.wikipedia.org/wiki/Great_Lakes_(band),Great Lakes,great-lakes,great-lakes-band,UNK
+Great Lakes,86933,105,63,12010;432536;1461470,http://en.wikipedia.org/wiki/Great_Lakes_Waterway,Great Lakes Waterway,great-lakes-waterway,great-lakes-waterway,UNK
+Great Lakes,432536,524,237,86933;12010;3434750;1461470,http://en.wikipedia.org/wiki/Great_Lakes_region,Great Lakes region,great-lakes-region,great-lakes-region,UNK
+Great Lakes,12597504,20,55,3434750,http://en.wikipedia.org/wiki/Great_Lakes_Brewing_Company,Great Lakes Brewing Company,great-lakes-brewing-company,great-lakes-brewing-company,UNK
+Great Lakes,512047,352,109,12010;21490998;30118;1402612;67050;59537,http://en.wikipedia.org/wiki/African_Great_Lakes,African Great Lakes,african-great-lakes,african-great-lakes,UNK
+Great Lakes,1461470,110,169,86933;12010;432536,http://en.wikipedia.org/wiki/Great_Lakes_Storm_of_1913,Great Lakes Storm of 1913,great-lakes-storm-of-1913,great-lakes-storm-of-1913,UNK
+U.N. Security Council,31956,4165,432,3434750;21490998;31956,http://en.wikipedia.org/wiki/United_Nations_Security_Council,United Nations Security Council,united-nations-security-council,united-nations-security-council,UNK
+Tutsi,67050,380,65,1812595;21490998;30118;16278518;512047;59537;616447,http://en.wikipedia.org/wiki/Tutsi,Tutsi,tutsi,tutsi,UNK
+Pierre Buyoya,616447,70,25,67050;21490998;59537,http://en.wikipedia.org/wiki/Pierre_Buyoya,Pierre Buyoya,pierre-buyoya,pierre-buyoya,PER
+Buyoya,616447,70,25,67050;21490998;59537,http://en.wikipedia.org/wiki/Pierre_Buyoya,Pierre Buyoya,pierre-buyoya,pierre-buyoya,PER
+Hutu,59537,375,69,21490998;16278518;512047;67050;616447,http://en.wikipedia.org/wiki/Hutu,Hutu,hutu,hutu,UNK

@@ -1,0 +1,105 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+POLLOCK,897244,297,158,17416221;667292,http://en.wikipedia.org/wiki/Shaun_Pollock,Shaun Pollock,shaun-pollock,shaun-pollock,PER
+WARWICKSHIRE,667292,1864,208,749919;897244;869945;667292;667341;383648;1156428;17416221;766575,http://en.wikipedia.org/wiki/Warwickshire_County_Cricket_Club,Warwickshire County Cricket Club,warwickshire-county-cricket-club,warwickshire-county-cricket-club,UNK
+WARWICKSHIRE,5490873,159,80,8017517;11134411;383648,http://en.wikipedia.org/wiki/Warwickshire_GAA,Warwickshire GAA,warwickshire-gaa,warwickshire-gaa,UNK
+WARWICKSHIRE,383648,3451,299,17867;149139;36637;50435;33778;383648;12249;48189;5490873;667292;68049;2671777,http://en.wikipedia.org/wiki/Warwickshire,Warwickshire,warwickshire,warwickshire,UNK
+WARWICKSHIRE,29547081,16,14,,http://en.wikipedia.org/wiki/Warwickshire_Group,Warwickshire Group,warwickshire-group,warwickshire-group,UNK
+WARWICKSHIRE,2671777,129,205,33778;383648,http://en.wikipedia.org/wiki/Warwickshire_College,Warwickshire College,warwickshire-college,warwickshire-college,UNK
+LONDON,17867,92094,1769,33567266;27902154;423106;12249;1679120;823473;17867;22267479;13190957;1290035;48189;187448;3879356;2023355;766575;6912156;17416221;22437586;383648;98370;238524;749919;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,326248,1048,124,,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,98370,828,279,17867;1679120;12249;2023355;48189;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,2023355,27,32,17867;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,508567,484,369,823473;187448;48189,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,187448,1900,216,823473;17867;508567;50435;640154,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,238524,118,60,17867,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,12249,3253,543,2193334;17867;149139;50435;33778;640154;383648;118409;1113158;1679120;48189;68049;98370;17416221;766575;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,7984054,3,37,,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,13190957,2,122,17867,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,423106,380,196,3943897;17867;12249;22267479;48189;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,1679120,12,181,17867;98370;12249,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,118409,547,127,17867;12249;48189,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+South African,17416221,57523,1123,12249;17867;33779;667292;3868530;766575;17416221;34875623;2576407;897244;34911270,http://en.wikipedia.org/wiki/South_Africa,South Africa,south-africa,south-africa,GPE
+South African,2576407,491,286,34911270;17416221,http://en.wikipedia.org/wiki/South_African_Party,South African Party,south-african-party,south-african-party,UNK
+South African,34911270,431,289,2576407;17416221,http://en.wikipedia.org/wiki/South_African_Party_(Cape_Colony),South African Party,south-african-party,south-african-party-cape-colony,UNK
+South African,34875623,97,101,17416221,http://en.wikipedia.org/wiki/South_African_Rugby_League,South African Rugby League,south-african-rugby-league,south-african-rugby-league,UNK
+South African,3868530,61,37,17416221,http://en.wikipedia.org/wiki/South_African_College,South African College,south-african-college,south-african-college,ORG
+Shaun Pollock,897244,297,158,17416221;667292,http://en.wikipedia.org/wiki/Shaun_Pollock,Shaun Pollock,shaun-pollock,shaun-pollock,PER
+Warwickshire,667292,1864,208,749919;897244;869945;667292;667341;383648;1156428;17416221;766575,http://en.wikipedia.org/wiki/Warwickshire_County_Cricket_Club,Warwickshire County Cricket Club,warwickshire-county-cricket-club,warwickshire-county-cricket-club,UNK
+Warwickshire,5490873,159,80,8017517;11134411;383648,http://en.wikipedia.org/wiki/Warwickshire_GAA,Warwickshire GAA,warwickshire-gaa,warwickshire-gaa,UNK
+Warwickshire,383648,3451,299,17867;149139;36637;50435;33778;383648;12249;48189;5490873;667292;68049;2671777,http://en.wikipedia.org/wiki/Warwickshire,Warwickshire,warwickshire,warwickshire,UNK
+Warwickshire,29547081,16,14,,http://en.wikipedia.org/wiki/Warwickshire_Group,Warwickshire Group,warwickshire-group,warwickshire-group,UNK
+Warwickshire,2671777,129,205,33778;383648,http://en.wikipedia.org/wiki/Warwickshire_College,Warwickshire College,warwickshire-college,warwickshire-college,UNK
+Worcestershire,1156428,1878,213,749919;869945;667292;667341;33778;766575,http://en.wikipedia.org/wiki/Worcestershire_County_Cricket_Club,Worcestershire County Cricket Club,worcestershire-county-cricket-club,worcestershire-county-cricket-club,UNK
+Worcestershire,33779,161,105,17416221;33778,http://en.wikipedia.org/wiki/Worcestershire_sauce,Worcestershire sauce,worcestershire-sauce,worcestershire-sauce,UNK
+Worcestershire,33778,2865,307,149139;48189;36637;50435;33778;33779;68049;2671777;383648;1156428;12249,http://en.wikipedia.org/wiki/Worcestershire,Worcestershire,worcestershire,worcestershire,UNK
+Worcestershire,9412134,214,94,,http://en.wikipedia.org/wiki/Worcestershire_Regiment,Worcestershire Regiment,worcestershire-regiment,worcestershire-regiment,ORG
+Pollock,897244,297,158,17416221;667292,http://en.wikipedia.org/wiki/Shaun_Pollock,Shaun Pollock,shaun-pollock,shaun-pollock,PER
+Yorkshire,869945,2535,226,749919;48189;36637;667292;667341;1156428;766575;2966347,http://en.wikipedia.org/wiki/Yorkshire_County_Cricket_Club,Yorkshire County Cricket Club,yorkshire-county-cricket-club,yorkshire-county-cricket-club,UNK
+Yorkshire,13713924,54,55,36637,http://en.wikipedia.org/wiki/Yorkshire_Museum,Yorkshire Museum,yorkshire-museum,yorkshire-museum,UNK
+Yorkshire,1022569,285,107,36637,http://en.wikipedia.org/wiki/A_Yorkshire_Tragedy,A Yorkshire Tragedy,a-yorkshire-tragedy,a-yorkshire-tragedy,UNK
+Yorkshire,11517386,6,33,,http://en.wikipedia.org/wiki/Yorkshire_Bridge,Yorkshire Bridge,yorkshire-bridge,yorkshire-bridge,GPE
+Yorkshire,1306661,153,269,149139;50435;36637,http://en.wikipedia.org/wiki/Yorkshire_Regiment,Yorkshire Regiment,yorkshire-regiment,yorkshire-regiment,ORG
+Yorkshire,36637,7154,654,8017517;1972787;36637;869945;50435;33778;383648;749919;361299;68049;149139;1306661;48189;13713924;1022569,http://en.wikipedia.org/wiki/Yorkshire,Yorkshire,yorkshire,yorkshire,GPE
+Yorkshire,1972787,4,23,36637,http://en.wikipedia.org/wiki/Yorkshire_Society,Yorkshire Society,yorkshire-society,yorkshire-society,UNK
+Yorkshire,259664,61,80,259665,"http://en.wikipedia.org/wiki/Yorkshire_(CDP),_New_York","Yorkshire (CDP), New York",yorkshire-cdp-new-york,yorkshire-cdp-new-york,GPE
+Yorkshire,8017517,78,66,5490873;11134411;36637,http://en.wikipedia.org/wiki/Yorkshire_GAA,Yorkshire GAA,yorkshire-gaa,yorkshire-gaa,UNK
+Yorkshire,259665,65,82,259664,"http://en.wikipedia.org/wiki/Yorkshire_(town),_New_York","Yorkshire (town), New York",yorkshire-town-new-york,yorkshire-town-new-york,GPE
+Yorkshire,137734,61,73,,"http://en.wikipedia.org/wiki/Yorkshire,_Virginia","Yorkshire, Virginia",yorkshire-virginia,yorkshire-virginia,GPE
+Yorkshire,24921278,1,6,,http://en.wikipedia.org/wiki/Mr._Yorkshire,Mr. Yorkshire,mr-yorkshire,mr-yorkshire,PER
+Yorkshire,129150,51,71,,"http://en.wikipedia.org/wiki/Yorkshire,_Ohio","Yorkshire, Ohio",yorkshire-ohio,yorkshire-ohio,GPE
+Yorkshire,149139,4065,398,149139;36637;50435;1306661;33778;383648;12249;361299;3943897;48189;68049,http://en.wikipedia.org/wiki/West_Yorkshire,West Yorkshire,west-yorkshire,west-yorkshire,UNK
+Yorkshire,361299,238,220,149139;36637,http://en.wikipedia.org/wiki/Yorkshire_Terrier,Yorkshire Terrier,yorkshire-terrier,yorkshire-terrier,UNK
+Yorkshire,3943897,280,105,149139;423106;22267479,http://en.wikipedia.org/wiki/BBC_Yorkshire,BBC Yorkshire,bbc-yorkshire,bbc-yorkshire,UNK
+Nottinghamshire,667341,1975,158,749919;869945;667292;68049;1156428;766575,http://en.wikipedia.org/wiki/Nottinghamshire_County_Cricket_Club,Nottinghamshire County Cricket Club,nottinghamshire-county-cricket-club,nottinghamshire-county-cricket-club,UNK
+Nottinghamshire,68049,3485,232,149139;36637;50435;33778;383648;12249;749919;48189;667341;17876006;68049,http://en.wikipedia.org/wiki/Nottinghamshire,Nottinghamshire,nottinghamshire,nottinghamshire,UNK
+Surrey,766575,2362,294,749919;17867;48189;869945;667292;667341;1156428;12249;17416221,http://en.wikipedia.org/wiki/Surrey_County_Cricket_Club,Surrey County Cricket Club,surrey-county-cricket-club,surrey-county-cricket-club,UNK
+Surrey,2645902,26,55,28443506,"http://en.wikipedia.org/wiki/Surrey_County,_Jamaica","Surrey County, Jamaica",surrey-county-jamaica,surrey-county-jamaica,UNK
+Surrey,6912156,70,28,17867,http://en.wikipedia.org/wiki/Surrey_Theatre,Surrey Theatre,surrey-theatre,surrey-theatre,UNK
+Surrey,48189,7835,791,17867;36637;174228;869945;50435;22267479;33778;383648;118409;13985121;68049;98370;28443506;766575;423106;167774;149139;26297631;128855;12249;508567;48189,http://en.wikipedia.org/wiki/Surrey,Surrey,surrey,surrey,UNK
+Surrey,117334,29,40,,"http://en.wikipedia.org/wiki/Surrey_Township,_Michigan","Surrey Township, Michigan",surrey-township-michigan,surrey-township-michigan,GPE
+Surrey,174228,812,303,48189,"http://en.wikipedia.org/wiki/Surrey,_British_Columbia","Surrey, British Columbia",surrey-british-columbia,surrey-british-columbia,GPE
+Surrey,3594626,49,85,,http://en.wikipedia.org/wiki/Surrey_(electoral_district),Surrey,surrey,surrey-electoral-district,UNK
+Surrey,13985121,19,7,48189,http://en.wikipedia.org/wiki/Surrey_(carriage),Surrey,surrey,surrey-carriage,UNK
+Surrey,22267479,76,91,423106;17867;48189;167774;3943897,http://en.wikipedia.org/wiki/BBC_Surrey,BBC Surrey,bbc-surrey,bbc-surrey,UNK
+Surrey,28443506,0,2,2645902;48189,http://en.wikipedia.org/wiki/Surrey_County,Surrey County,surrey-county,surrey-county,UNK
+Surrey,128855,36,185,48189,"http://en.wikipedia.org/wiki/Surrey,_North_Dakota","Surrey, North Dakota",surrey-north-dakota,surrey-north-dakota,GPE
+Surrey,26297631,3,52,48189,http://en.wikipedia.org/wiki/Surrey_Opera,Surrey Opera,surrey-opera,surrey-opera,UNK
+Surrey,22901918,113,130,22900897,"http://en.wikipedia.org/wiki/Surrey_Park,_Delaware","Surrey Park, Delaware",surrey-park-delaware,surrey-park-delaware,UNK
+Surrey,167774,826,448,22267479;167774;48189,http://en.wikipedia.org/wiki/University_of_Surrey,University of Surrey,university-of-surrey,university-of-surrey,ORG
+David Byas,2966347,14,28,869945;749919,http://en.wikipedia.org/wiki/David_Byas,David Byas,david-byas,david-byas,PER
+Lancashire,749919,2239,237,17867;36637;869945;667292;667341;50435;68049;1156428;766575;2966347,http://en.wikipedia.org/wiki/Lancashire_County_Cricket_Club,Lancashire County Cricket Club,lancashire-county-cricket-club,lancashire-county-cricket-club,UNK
+Lancashire,40194867,13,33,17876006;40194867,"http://en.wikipedia.org/wiki/Lancashire,_Derbyshire_and_East_Coast_Railway_Beighton_Branch","Lancashire, Derbyshire and East Coast Railway Beighton Branch",lancashire-derbyshire-and-east-coast-railway-beighton-branch,lancashire-derbyshire-and-east-coast-railway-beighton-branch,ORG
+Lancashire,1468738,8,19,,http://en.wikipedia.org/wiki/Lancashire_Regiment,Lancashire Regiment,lancashire-regiment,lancashire-regiment,ORG
+Lancashire,11134411,82,72,5490873;8017517,http://en.wikipedia.org/wiki/Lancashire_GAA,Lancashire GAA,lancashire-gaa,lancashire-gaa,UNK
+Lancashire,26450786,73,82,50435,http://en.wikipedia.org/wiki/Lancashire_College,Lancashire College,lancashire-college,lancashire-college,UNK
+Lancashire,9001506,7,42,50435,http://en.wikipedia.org/wiki/Lancashire_Road,Lancashire Road,lancashire-road,lancashire-road,UNK
+Lancashire,439028,77,67,50435,http://en.wikipedia.org/wiki/Lancashire_cheese,Lancashire cheese,lancashire-cheese,lancashire-cheese,UNK
+Lancashire,22900897,115,130,22901918,"http://en.wikipedia.org/wiki/Lancashire,_Delaware","Lancashire, Delaware",lancashire-delaware,lancashire-delaware,UNK
+Lancashire,17876006,190,138,40194867;68049,"http://en.wikipedia.org/wiki/Lancashire,_Derbyshire_and_East_Coast_Railway","Lancashire, Derbyshire and East Coast Railway",lancashire-derbyshire-and-east-coast-railway,lancashire-derbyshire-and-east-coast-railway,UNK
+Lancashire,50435,9169,621,36637;50435;33778;383648;749919;439028;9001506;68049;26450786;149139;1306661;12249;187448;48189,http://en.wikipedia.org/wiki/Lancashire,Lancashire,lancashire,lancashire,UNK
+Byas,2966347,14,28,869945;749919,http://en.wikipedia.org/wiki/David_Byas,David Byas,david-byas,david-byas,PER

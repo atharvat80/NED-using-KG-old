@@ -1,0 +1,390 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+GMT,12701,3323,226,17867;12249;188166,http://en.wikipedia.org/wiki/Greenwich_Mean_Time,Greenwich Mean Time,greenwich-mean-time,greenwich-mean-time,UNK
+GMT,8465437,5,10,,http://en.wikipedia.org/wiki/GMT_Records,GMT Records,gmt-records,gmt-records,ORG
+GMT,8984512,57,45,,http://en.wikipedia.org/wiki/GMT360,GMT360,gmt360,gmt360,UNK
+GMT,26207611,229,250,689;17867,http://en.wikipedia.org/wiki/GMT_(programme),GMT,gmt,gmt-programme,UNK
+LONDON,17867,92094,1769,33567266;27902154;26207611;423106;12249;12701;1679120;14647;14579;15573;823473;17867;13190957;19006;29161189;27318;27019;1290035;15445428;181504;187448;3879356;1042191;2023355;73162;68074;1326000;22437586;98370;238524;18998720;38095114;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,423106,380,196,1299302;17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,2023355,27,32,17867;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,22437586,76,82,2828629;17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,238524,118,60,17867,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,187448,1900,216,823473;17867;508567;640154,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,8591270,5,9,23070,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,12249,3253,543,2193334;17867;640154;118409;12701;1113158;1679120;98370;423106;15573,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,118409,547,127,17867;12249,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,7984054,3,37,,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,13190957,2,122,17867,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,326248,1048,124,1050691,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,264093,1797,198,1651251;1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,1679120,12,181,17867;98370;12249,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+RED SEA,26191,3259,339,689;392192;3386;19006;16371524;1318227;767604;23070,http://en.wikipedia.org/wiki/Red_Sea,Red Sea,red-sea,red-sea,UNK
+RED SEA,17438222,19,20,,http://en.wikipedia.org/wiki/Red_Sea_FC,Red Sea FC,red-sea-fc,red-sea-fc,UNK
+RED SEA,25780732,4,5,,http://en.wikipedia.org/wiki/Red_Sea_University,Red Sea University,red-sea-university,red-sea-university,UNK
+RED SEA,3320231,30,62,,http://en.wikipedia.org/wiki/The_Red_Sea_(EP),The Red Sea,the-red-sea,the-red-sea-ep,UNK
+RED SEA,767604,0,35,26191,http://en.wikipedia.org/wiki/Red_Sea_(Sudanese_state),Red Sea,red-sea,red-sea-sudanese-state,UNK
+RED SEA,16371524,3,9,26191,http://en.wikipedia.org/wiki/Red_Sea_Mall,Red Sea Mall,red-sea-mall,red-sea-mall,UNK
+Mideast,19323,9750,323,689;19555744;19006;19323;330130;1496582;23070;18998720;1318227;14647;15573,http://en.wikipedia.org/wiki/Middle_East,Middle East,middle-east,middle-east,UNK
+Mideast,13065299,8,14,,http://en.wikipedia.org/wiki/Midea_(Argolid),Midea,midea,midea-argolid,UNK
+Indonesia,14579,33512,439,689;1044538;2086678;66906;68074;28720293;33186126;28719978;11940012;353707;14647;14644;14579;15573;15578;17867;265716;1326000;715249;330130;21902133;23070;1015816;27318;27019;1318227;10011631;7316314;1496582;318083;25677653;2062473;8899178;170641;24471003;2691678;13229960,http://en.wikipedia.org/wiki/Indonesia,Indonesia,indonesia,indonesia,GPE
+Indonesia,33186126,6,40,27019;14579,http://en.wikipedia.org/wiki/Indonesia_International,Indonesia International,indonesia-international,indonesia-international,PER
+Indonesia,14644,205,238,11940012;170641;27318;14647;14644;14579;23070;10011631;15575;520449;27021;1318227;1015816,http://en.wikipedia.org/wiki/Geography_of_Indonesia,Geography of Indonesia,geography-of-indonesia,geography-of-indonesia,UNK
+Indonesia,353707,397,212,14579;860940,http://en.wikipedia.org/wiki/University_of_Indonesia,University of Indonesia,university-of-indonesia,university-of-indonesia,ORG
+Indonesia,14647,355,506,11940012;27318;17867;170641;14647;14644;14579;10011631;19323;18998720;15573;15578;27019,http://en.wikipedia.org/wiki/Economy_of_Indonesia,Economy of Indonesia,economy-of-indonesia,economy-of-indonesia,UNK
+Indonesia,2062473,84,145,14579;15573,http://en.wikipedia.org/wiki/Rail_transport_in_Indonesia,Rail transport in Indonesia,rail-transport-in-indonesia,rail-transport-in-indonesia,UNK
+Indonesia,25677653,8,29,14579,http://en.wikipedia.org/wiki/Indonesia_Museum,Indonesia Museum,indonesia-museum,indonesia-museum,UNK
+Indonesia,66906,1120,535,1044538;87995;7316314;4986;14579;10011631,http://en.wikipedia.org/wiki/Indonesian_National_Revolution,Indonesian National Revolution,indonesian-national-revolution,indonesian-national-revolution,UNK
+Indonesia,170641,728,243,11940012;170641;689;14647;14644;14579;10011631,http://en.wikipedia.org/wiki/Provinces_of_Indonesia,Provinces of Indonesia,provinces-of-indonesia,provinces-of-indonesia,UNK
+Indonesia,7316314,64,86,14579;66906;27318,http://en.wikipedia.org/wiki/Greater_Indonesia,Greater Indonesia,greater-indonesia,greater-indonesia,UNK
+Indonesia,35327175,5,13,,http://en.wikipedia.org/wiki/Indonesia_Project,Indonesia Project,indonesia-project,indonesia-project,ORG
+Indonesia,11940012,117,167,14579;170641;10011631;14647;14644,http://en.wikipedia.org/wiki/Dance_in_Indonesia,Dance in Indonesia,dance-in-indonesia,dance-in-indonesia,UNK
+Indonesia,1044538,1290,637,715249;66906;14579;27318;15573;27019,http://en.wikipedia.org/wiki/Indonesia_national_football_team,Indonesia national football team,indonesia-national-football-team,indonesia-national-football-team,UNK
+Indonesia,10011631,549,187,11940012;170641;350660;14647;14644;14579;66906,http://en.wikipedia.org/wiki/President_of_Indonesia,President of Indonesia,president-of-indonesia,president-of-indonesia,UNK
+Indonesia,8899178,9,4,14579,http://en.wikipedia.org/wiki/Indonesia_(Lonely_Planet),Indonesia,indonesia,indonesia-lonely-planet,ORG
+Indonesia,2691678,0,7,14579,"http://en.wikipedia.org/wiki/Indonesia,_Go_Open_Source","Indonesia, Go Open Source",indonesia-go-open-source,indonesia-go-open-source,UNK
+IOC,7971634,484,210,2086678;18998720,http://en.wikipedia.org/wiki/Indian_Oil_Corporation,Indian Oil Corporation,indian-oil-corporation,indian-oil-corporation,UNK
+ASIA PACIFIC,318083,290,106,27318;689;23070;14579;15573;27019,http://en.wikipedia.org/wiki/Pacific_Rim,Pacific Rim,pacific-rim,pacific-rim,ORG
+ASIA PACIFIC,1496582,630,169,27318;3122007;1318227;19006;689;23070;14579;330130;19323;15573;27019,http://en.wikipedia.org/wiki/Asia-Pacific,Asia-Pacific,asia-pacific,asia-pacific,GPE
+ASIA PACIFIC,2891775,11,9,,http://en.wikipedia.org/wiki/Asia_Pacific_College,Asia Pacific College,asia-pacific-college,asia-pacific-college,ORG
+ASIA PACIFIC,2218512,11,31,2215563;2218512,http://en.wikipedia.org/wiki/Asia_Pacific_Airlines_(PNG),Asia Pacific Airlines,asia-pacific-airlines,asia-pacific-airlines-png,ORG
+ASIA PACIFIC,2215563,246,130,2218512,http://en.wikipedia.org/wiki/Asia_Pacific_Airlines_(United_States),Asia Pacific Airlines,asia-pacific-airlines,asia-pacific-airlines-united-states,UNK
+ASIA PACIFIC,13850350,3,13,15573;27019;27318,http://en.wikipedia.org/wiki/Asia_Pacific_Harmonica_Festival,Asia Pacific Harmonica Festival,asia-pacific-harmonica-festival,asia-pacific-harmonica-festival,UNK
+ASIA PACIFIC,3280622,4,58,,http://en.wikipedia.org/wiki/University_of_Asia_Pacific,University of Asia Pacific,university-of-asia-pacific,university-of-asia-pacific,ORG
+ASIA PACIFIC,13398970,171,185,15573;27019,http://en.wikipedia.org/wiki/Asia_Pacific_Poker_Tour,Asia Pacific Poker Tour,asia-pacific-poker-tour,asia-pacific-poker-tour,UNK
+ASIA PACIFIC,25399940,0,6,,http://en.wikipedia.org/wiki/Asia_Pacific_(Radio_Australia),Asia Pacific,asia-pacific,asia-pacific-radio-australia,UNK
+Okinawa,22477,1320,324,1441193;197676;4986;6793374;317196;2113477;725125;15575;15573,http://en.wikipedia.org/wiki/Okinawa_Prefecture,Okinawa Prefecture,okinawa-prefecture,okinawa-prefecture,UNK
+Okinawa,16031975,3,5,15573,http://en.wikipedia.org/wiki/Okinawa_University,Okinawa University,okinawa-university,okinawa-university,ORG
+Okinawa,725125,355,88,22477;2113477;4986;23070;6793374;15575;15573,http://en.wikipedia.org/wiki/Okinawa_Island,Okinawa Island,okinawa-island,okinawa-island,UNK
+Okinawa,2113477,56,30,725125;22477;15573,http://en.wikipedia.org/wiki/Okinawa_Islands,Okinawa Islands,okinawa-islands,okinawa-islands,UNK
+Okinawa,510881,25,28,519064,http://en.wikipedia.org/wiki/USS_Okinawa_(CVE-127),USS Okinawa,uss-okinawa,uss-okinawa-cve-127,UNK
+Okinawa,1441193,16,65,22477;15573,http://en.wikipedia.org/wiki/Okinawa_Churaumi_Aquarium,Okinawa Churaumi Aquarium,okinawa-churaumi-aquarium,okinawa-churaumi-aquarium,UNK
+Okinawa,4986,1677,516,87995;22477;587894;66906;725125;519064;6793374,http://en.wikipedia.org/wiki/Battle_of_Okinawa,Battle of Okinawa,battle-of-okinawa,battle-of-okinawa,UNK
+Okinawa,587894,50,69,4986;519064;1489254,http://en.wikipedia.org/wiki/USS_Okinawa_(LPH-3),USS Okinawa,uss-okinawa,uss-okinawa-lph-3,UNK
+Okinawa,6793374,106,97,725125;22477;15573;188166;4986,"http://en.wikipedia.org/wiki/Okinawa,_Okinawa","Okinawa, Okinawa",okinawa-okinawa,okinawa-okinawa,GPE
+Okinawa,519064,3,6,510881;587894;4986,http://en.wikipedia.org/wiki/USS_Okinawa,USS Okinawa,uss-okinawa,uss-okinawa,UNK
+Inchon,68074,1448,372,15246606;386393;17867;598720;2478598;323111;14579;68074;27318;326535;15573;27019,http://en.wikipedia.org/wiki/Incheon,Incheon,incheon,incheon,GPE
+Inchon,1489254,37,37,587894,http://en.wikipedia.org/wiki/USS_Inchon_(LPH-12),USS Inchon,uss-inchon,uss-inchon-lph-12,UNK
+Honam,32029025,56,8,326535;10458246;27019,http://en.wikipedia.org/wiki/Honam_University,Honam University,honam-university,honam-university,UNK
+Honam,331490,122,53,23538636;326535;27019,http://en.wikipedia.org/wiki/Honam_Line,Honam Line,honam-line,honam-line,UNK
+Honam,326535,118,42,331490;323111;68074;386393;27021;32029025;27019,http://en.wikipedia.org/wiki/Honam,Honam,honam,honam,UNK
+MED,19006,6348,612,17867;689;3386;19323;330130;1496582;23070;26191;1318227,http://en.wikipedia.org/wiki/Mediterranean_Sea,Mediterranean Sea,mediterranean-sea,mediterranean-sea,UNK
+MED,1098651,134,148,27318;15573;27019,http://en.wikipedia.org/wiki/Medium_of_instruction,Medium of instruction,medium-of-instruction,medium-of-instruction,UNK
+MED,20582,465,174,20582;20062,http://en.wikipedia.org/wiki/Mediation,Mediation,mediation,mediation,UNK
+MED,30264688,17,61,,http://en.wikipedia.org/wiki/Med_Airlines,Med Airlines,med-airlines,med-airlines,UNK
+MED,20498,535,304,,http://en.wikipedia.org/wiki/Médecins_Sans_Frontières,Médecins Sans Frontières,medecins-sans-frontieres,medecins-sans-frontieres,ORG
+MED,392192,553,155,26191,http://en.wikipedia.org/wiki/Medusa,Medusa,medusa,medusa,UNK
+MED,2215416,770,252,2215416,http://en.wikipedia.org/wiki/MediaNews_Group,MediaNews Group,medianews-group,medianews-group,UNK
+MED,18957,8530,493,1076929;18957,http://en.wikipedia.org/wiki/Medicine,Medicine,medicine,medicine,PER
+MED,1076929,180,105,18957;1076929,http://en.wikipedia.org/wiki/Medical_classification,Medical classification,medical-classification,medical-classification,UNK
+MED,7422437,73,11,,http://en.wikipedia.org/wiki/Mediafax,Mediafax,mediafax,mediafax,UNK
+MED,357286,126,74,,http://en.wikipedia.org/wiki/Medellín_Cartel,Medellín Cartel,medellin-cartel,medellin-cartel,UNK
+MED,395328,52,60,,http://en.wikipedia.org/wiki/Medicine_Lodge_Treaty,Medicine Lodge Treaty,medicine-lodge-treaty,medicine-lodge-treaty,UNK
+MED,22476655,6,27,,http://en.wikipedia.org/wiki/Caffe_Mediterraneum,Caffe Mediterraneum,caffe-mediterraneum,caffe-mediterraneum,UNK
+MED,20062,1663,563,20582;20062,http://en.wikipedia.org/wiki/Meditation,Meditation,meditation,meditation,UNK
+MED,12214836,22,25,,http://en.wikipedia.org/wiki/Med_Park,Med Park,med-park,med-park,UNK
+MED,3783127,39,72,,http://en.wikipedia.org/wiki/Medha_Patkar,Medha Patkar,medha-patkar,medha-patkar,UNK
+BLACK SEA,3386,4651,437,26191;689;265716;19006;1318227;8318280;23070,http://en.wikipedia.org/wiki/Black_Sea,Black Sea,black-sea,black-sea,UNK
+BLACK SEA,8318280,902,63,3386,http://en.wikipedia.org/wiki/Black_Sea_Region,Black Sea Region,black-sea-region,black-sea-region,GPE
+Constanza,265716,450,283,3386;14579;15573,http://en.wikipedia.org/wiki/Constanța,Constanța,constanta,constanta,GPE
+Constanza,10203416,45,51,9116939,http://en.wikipedia.org/wiki/Constanza_Airport,Constanza Airport,constanza-airport,constanza-airport,UNK
+Constanza,9116939,182,193,10203416,"http://en.wikipedia.org/wiki/Constanza,_Dominican_Republic","Constanza, Dominican Republic",constanza-dominican-republic,constanza-dominican-republic,GPE
+Inia,23298531,121,127,,"http://en.wikipedia.org/wiki/Inia,_Paphos","Inia, Paphos",inia-paphos,inia-paphos,GPE
+Inia,374375,18,107,,http://en.wikipedia.org/wiki/Inia,Inia,inia,inia,PER
+Inia,3559394,24,24,,http://en.wikipedia.org/wiki/InI_(hip_hop_group),InI,ini,ini-hip-hop-group,UNK
+UK,925525,234,61,3349146;55266;2465857,http://en.wikipedia.org/wiki/UK_(band),UK,uk,uk-band,UNK
+UK,15445428,604,186,17867;3349146;15445428,http://en.wikipedia.org/wiki/UK_garage,UK garage,uk-garage,uk-garage,UNK
+UK,1526694,20,27,,http://en.wikipedia.org/wiki/UK_Schmidt_Telescope,UK Schmidt Telescope,uk-schmidt-telescope,uk-schmidt-telescope,UNK
+UK,605541,314,359,27318;605077;27019,http://en.wikipedia.org/wiki/.uk,.uk,uk,uk,UNK
+UK,11186038,21,9,,http://en.wikipedia.org/wiki/Ukk,Ukk,ukk,ukk,UNK
+UK,1180030,163,160,,http://en.wikipedia.org/wiki/Uk_(Cyrillic),Uk,uk,uk-cyrillic,UNK
+UK,3349146,21140,467,167707;2465857;15445428;925525,http://en.wikipedia.org/wiki/UK_Singles_Chart,UK Singles Chart,uk-singles-chart,uk-singles-chart,UNK
+UK,38095114,0,27,17867,"http://en.wikipedia.org/wiki/UK,_Europe_and_Africa_Malankara_Orthodox_Diocese","UK, Europe and Africa Malankara Orthodox Diocese",uk-europe-and-africa-malankara-orthodox-diocese,uk-europe-and-africa-malankara-orthodox-diocese,UNK
+UK,1042191,49,69,17867,http://en.wikipedia.org/wiki/Burma_Campaign_UK,Burma Campaign UK,burma-campaign-uk,burma-campaign-uk,ORG
+UK,2465857,9551,386,3349146;925525;167707,http://en.wikipedia.org/wiki/UK_Albums_Chart,UK Albums Chart,uk-albums-chart,uk-albums-chart,UNK
+UK,1050691,30,24,326248,http://en.wikipedia.org/wiki/UK_Records,UK Records,uk-records,uk-records,UNK
+UK,29161189,2,22,17867,http://en.wikipedia.org/wiki/@UK,@UK,@uk,@uk,UNK
+Pembroke,116906,353,388,250639,"http://en.wikipedia.org/wiki/Pembroke,_Massachusetts","Pembroke, Massachusetts",pembroke-massachusetts,pembroke-massachusetts,GPE
+Pembroke,9533309,53,61,,"http://en.wikipedia.org/wiki/Pembroke_Township,_Kankakee_County,_Illinois","Pembroke Township, Kankakee County, Illinois",pembroke-township-kankakee-county-illinois,pembroke-township-kankakee-county-illinois,UNK
+Pembroke,124854,183,99,,"http://en.wikipedia.org/wiki/Pembroke,_New_Hampshire","Pembroke, New Hampshire",pembroke-new-hampshire,pembroke-new-hampshire,GPE
+Pembroke,2361195,68,145,4464580,"http://en.wikipedia.org/wiki/Pembroke_School,_Adelaide","Pembroke School, Adelaide",pembroke-school-adelaide,pembroke-school-adelaide,ORG
+Pembroke,250639,302,165,125268;2254410;116906;1857873;116250,"http://en.wikipedia.org/wiki/Pembroke,_Pembrokeshire","Pembroke, Pembrokeshire",pembroke-pembrokeshire,pembroke-pembrokeshire,GPE
+Pembroke,8795570,6,8,128366,"http://en.wikipedia.org/wiki/Pembroke_Street,_Oxford","Pembroke Street, Oxford",pembroke-street-oxford,pembroke-street-oxford,GPE
+Pembroke,1857873,115,93,250639,"http://en.wikipedia.org/wiki/Pembroke,_Malta","Pembroke, Malta",pembroke-malta,pembroke-malta,UNK
+Pembroke,109060,103,235,42527686,"http://en.wikipedia.org/wiki/Pembroke_Park,_Florida","Pembroke Park, Florida",pembroke-park-florida,pembroke-park-florida,GPE
+Pembroke,125268,124,187,2254410;250639;12404274,http://en.wikipedia.org/wiki/Pembroke_Castle,Pembroke Castle,pembroke-castle,pembroke-castle,GPE
+Pembroke,116250,78,106,250639,"http://en.wikipedia.org/wiki/Pembroke,_Maine","Pembroke, Maine",pembroke-maine,pembroke-maine,GPE
+Pembroke,4684531,20,14,,http://en.wikipedia.org/wiki/Pembroke_Township,Pembroke Township,pembroke-township,pembroke-township,UNK
+Pembroke,115092,33,41,,"http://en.wikipedia.org/wiki/Pembroke,_Kentucky","Pembroke, Kentucky",pembroke-kentucky,pembroke-kentucky,GPE
+Pembroke,126486,47,61,,"http://en.wikipedia.org/wiki/Pembroke,_New_York","Pembroke, New York",pembroke-new-york,pembroke-new-york,GPE
+Pembroke,137616,208,224,,"http://en.wikipedia.org/wiki/Pembroke,_Virginia","Pembroke, Virginia",pembroke-virginia,pembroke-virginia,GPE
+Pembroke,128366,558,154,128437;8795570,"http://en.wikipedia.org/wiki/Pembroke_College,_Oxford","Pembroke College, Oxford",pembroke-college-oxford,pembroke-college-oxford,UNK
+Pembroke,3182267,23,17,,http://en.wikipedia.org/wiki/Pembroke_Parish,Pembroke Parish,pembroke-parish,pembroke-parish,UNK
+Pembroke,41979039,1,4,,"http://en.wikipedia.org/wiki/Pembroke,_Tobago","Pembroke, Tobago",pembroke-tobago,pembroke-tobago,UNK
+Pembroke,2254410,4,3,250639;125268;4464580,"http://en.wikipedia.org/wiki/Pembroke_School,_Wales","Pembroke School, Wales",pembroke-school-wales,pembroke-school-wales,UNK
+Pembroke,109898,44,38,903385,"http://en.wikipedia.org/wiki/Pembroke,_Georgia","Pembroke, Georgia",pembroke-georgia,pembroke-georgia,GPE
+Pembroke,12404274,47,4,125268,http://en.wikipedia.org/wiki/Pembroke_River,Pembroke River,pembroke-river,pembroke-river,GPE
+Pembroke,16594882,3,7,,"http://en.wikipedia.org/wiki/Pembroke,_New_Brunswick","Pembroke, New Brunswick",pembroke-new-brunswick,pembroke-new-brunswick,UNK
+Pembroke,42527686,0,2,109060,"http://en.wikipedia.org/wiki/Pembroke,_Florida","Pembroke, Florida",pembroke-florida,pembroke-florida,UNK
+Pembroke,4464580,0,2,2254410;2361195,http://en.wikipedia.org/wiki/Pembroke_School,Pembroke School,pembroke-school,pembroke-school,ORG
+Pembroke,128437,2,3,128366;24927,http://en.wikipedia.org/wiki/Pembroke_College,Pembroke College,pembroke-college,pembroke-college,ORG
+Pembroke,128177,91,69,,"http://en.wikipedia.org/wiki/Pembroke,_North_Carolina","Pembroke, North Carolina",pembroke-north-carolina,pembroke-north-carolina,GPE
+Pembroke,1651251,9,93,15099263;264093,http://en.wikipedia.org/wiki/Pembroke_Airport,Pembroke Airport,pembroke-airport,pembroke-airport,UNK
+Pembroke,23743816,8,16,24927,"http://en.wikipedia.org/wiki/Pembroke_Street,_Cambridge","Pembroke Street, Cambridge",pembroke-street-cambridge,pembroke-street-cambridge,UNK
+Pembroke,15099263,448,136,1651251,"http://en.wikipedia.org/wiki/Pembroke,_Ontario","Pembroke, Ontario",pembroke-ontario,pembroke-ontario,GPE
+Pembroke,23992246,4,106,,http://en.wikipedia.org/wiki/Pembroke_Village,Pembroke Village,pembroke-village,pembroke-village,UNK
+Pembroke,25165820,2,7,,"http://en.wikipedia.org/wiki/Pembroke,_West_Hants,_Nova_Scotia","Pembroke, West Hants, Nova Scotia",pembroke-west-hants-nova-scotia,pembroke-west-hants-nova-scotia,GPE
+Pembroke,23650533,5,5,,"http://en.wikipedia.org/wiki/Pembroke,_Yarmouth_County,_Nova_Scotia","Pembroke, Yarmouth County, Nova Scotia",pembroke-yarmouth-county-nova-scotia,pembroke-yarmouth-county-nova-scotia,UNK
+Pembroke,7944771,27,32,,http://en.wikipedia.org/wiki/Pembroke_Mall,Pembroke Mall,pembroke-mall,pembroke-mall,UNK
+Pembroke,17866823,2,6,,"http://en.wikipedia.org/wiki/Pembroke,_New_Zealand","Pembroke, New Zealand",pembroke-new-zealand,pembroke-new-zealand,GPE
+Pembroke,24927,724,233,128437;23743816,"http://en.wikipedia.org/wiki/Pembroke_College,_Cambridge","Pembroke College, Cambridge",pembroke-college-cambridge,pembroke-college-cambridge,UNK
+Pembroke,22916315,203,191,,http://en.wikipedia.org/wiki/Pembroke_Range,Pembroke Range,pembroke-range,pembroke-range,UNK
+Pembroke,100001140,0,0,,http://en.wikipedia.org/wiki/Arthur_Pembroke,Arthur Pembroke,arthur-pembroke,arthur-pembroke,UKN
+US,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+US,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+US,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+US,903385,68,230,903062;428913;109898;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+US,16304842,112,175,8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+US,2440624,133,162,70780;23070;3868301;130949,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+US,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+US,233474,102,93,,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+US,429750,276,240,887108;441501;79717;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+US,10328648,378,412,903062;10328590;10328578;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+US,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+US,889284,455,321,889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;23070;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+US,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+US,444113,128,143,,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+US,902392,245,190,22398962;436898;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+US,6737193,115,173,887108,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+US,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+US,435793,251,290,889461;498188;888778;447879;436898;10328578;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+US,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+US,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+US,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+US,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+US,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+US,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;70780;23070;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+US,10328578,210,402,435793;10328648;10328590;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+US,238192,394,239,889461;888778;435793;447879;436898;10328648;10328620;75235;10328575;887108;441501;79717;428913;70780;903385;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+US,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+US,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+US,436898,769,483,889461;435793;887108;441501;889284;429750;902392;888778;447879;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+US,70780,396,232,889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;23070;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+US,889461,178,203,887108;441501;79717;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+US,447879,394,337,16304842;889461;903062;888778;435793;436898;75235;10328575;887108;9180009;441501;79717;428913;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+US,3868301,350,531,2440624;79717;70780;23070,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+US,79717,694,442,889461;435793;887108;9180009;441501;889284;429750;3868301;150745;888778;447879;436898;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+US,21559355,95,143,524024,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+US,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+US,605077,301,341,605541;27318;27019,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+US,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+US,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;887108;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+US,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+US,6310196,592,545,435793;10328648;10328590;10328578;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+US,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+WESTERN HEMISPHERE,73162,1372,88,17867;18998720;23070,http://en.wikipedia.org/wiki/Western_Hemisphere,Western Hemisphere,western-hemisphere,western-hemisphere,UNK
+WESTERN HEMISPHERE,70703,82,99,70703,http://en.wikipedia.org/wiki/Western_Hemisphere_Institute_for_Security_Cooperation,Western Hemisphere Institute for Security Cooperation,western-hemisphere-institute-for-security-cooperation,western-hemisphere-institute-for-security-cooperation,ORG
+St Croix,229431,497,161,2086678;13933786,"http://en.wikipedia.org/wiki/Saint_Croix,_U.S._Virgin_Islands","Saint Croix, U.S. Virgin Islands",saint-croix-us-virgin-islands,saint-croix-us-virgin-islands,UNK
+St Croix,21765676,5,106,18779155,"http://en.wikipedia.org/wiki/St._Croix,_Nova_Scotia","St. Croix, Nova Scotia",st-croix-nova-scotia,st-croix-nova-scotia,GPE
+St Croix,17726414,30,41,,"http://en.wikipedia.org/wiki/St._Croix,_Indiana","St. Croix, Indiana",st-croix-indiana,st-croix-indiana,GPE
+St Croix,229539,91,112,229539,http://en.wikipedia.org/wiki/St._Croix_River_(Wisconsin–Minnesota),St. Croix River,st-croix-river,st-croix-river-wisconsin–minnesota,UNK
+St Croix,37003596,9,5,,"http://en.wikipedia.org/wiki/St._Croix_Island,_Algoa_Bay","St. Croix Island, Algoa Bay",st-croix-island-algoa-bay,st-croix-island-algoa-bay,UNK
+St Croix,5760257,3,7,,http://en.wikipedia.org/wiki/St._Croix_(clothing),St. Croix,st-croix,st-croix-clothing,UNK
+St Croix,90932,452,261,90932,"http://en.wikipedia.org/wiki/St._Croix_County,_Wisconsin","St. Croix County, Wisconsin",st-croix-county-wisconsin,st-croix-county-wisconsin,GPE
+St Croix,13933786,4,5,229431,http://en.wikipedia.org/wiki/St._Croix_sheep,St. Croix sheep,st-croix-sheep,st-croix-sheep,PER
+St Croix,18779155,12,16,21765676,http://en.wikipedia.org/wiki/St._Croix_River_(Nova_Scotia),St. Croix River,st-croix-river,st-croix-river-nova-scotia,UNK
+USAC,20653045,239,74,20653045,http://en.wikipedia.org/wiki/USACK,USACK,usack,usack,ORG
+Hess,481077,120,140,23070,http://en.wikipedia.org/wiki/Harry_Hammond_Hess,Harry Hammond Hess,harry-hammond-hess,harry-hammond-hess,PER
+Hess,588580,228,244,29684300,http://en.wikipedia.org/wiki/Walter_Rudolf_Hess,Walter Rudolf Hess,walter-rudolf-hess,walter-rudolf-hess,PER
+Hess,19065084,48,58,2086678,http://en.wikipedia.org/wiki/Hess_Tower,Hess Tower,hess-tower,hess-tower,UNK
+Hess,396482,224,229,,http://en.wikipedia.org/wiki/Victor_Francis_Hess,Victor Francis Hess,victor-francis-hess,victor-francis-hess,PER
+Hess,29581863,3,16,,http://en.wikipedia.org/wiki/Hess_Mountains,Hess Mountains,hess-mountains,hess-mountains,UNK
+Hess,29684300,454,361,588580,http://en.wikipedia.org/wiki/Rudolf_Hess,Rudolf Hess,rudolf-hess,rudolf-hess,PER
+Hess,10142534,71,167,,"http://en.wikipedia.org/wiki/Hess_Street_(Hamilton,_Ontario)",Hess Street,hess-street,hess-street-hamilton-ontario,UNK
+Hess,2086678,331,262,19065084;7971634;14579;229431;18998720,http://en.wikipedia.org/wiki/Hess_Corporation,Hess Corporation,hess-corporation,hess-corporation,UNK
+Hess,23908625,87,95,,"http://en.wikipedia.org/wiki/Hess_Road,_New_York","Hess Road, New York",hess-road-new-york,hess-road-new-york,GPE
+Japan,15573,121938,860,6122365;689;10110;10790;12249;30863630;14647;14579;15575;15573;15578;17867;265716;19323;22477;268287;23070;27318;27019;1132575;1441193;317196;3392261;318083;323111;298884;3122007;6793374;68074;9224848;13398970;1054817;87995;1326000;330130;895441;1318227;26452177;386393;2828629;1098651;1838369;16031975;6246929;28720293;28719978;715249;5504319;2113477;167104;2062473;1299302;16832191;188166;1044538;197676;520449;1496582;725125;13850350,http://en.wikipedia.org/wiki/Japan,Japan,japan,japan,GPE
+Japan,9224848,30,32,15573,http://en.wikipedia.org/wiki/Professional_baseball_in_Japan,Professional baseball in Japan,professional-baseball-in-japan,professional-baseball-in-japan,UNK
+Japan,895441,124,149,895441;15573;15578,http://en.wikipedia.org/wiki/Whaling_in_Japan,Whaling in Japan,whaling-in-japan,whaling-in-japan,UNK
+Japan,197676,786,474,22477;18952243;161591;15573;15578,http://en.wikipedia.org/wiki/Japan_Airlines,Japan Airlines,japan-airlines,japan-airlines,ORG
+Japan,15578,714,689,895441;10790;167104;197676;14647;14579;27318;10110;15575;15573;15578;27019,http://en.wikipedia.org/wiki/Economy_of_Japan,Economy of Japan,economy-of-japan,economy-of-japan,UNK
+Japan,6246929,4,19,15573,http://en.wikipedia.org/wiki/Japan_(Buronson_manga),Japan,japan,japan-buronson-manga,UNK
+Japan,30863630,94,106,15573;3122007,http://en.wikipedia.org/wiki/Japan_Society_(Manhattan),Japan Society,japan-society,japan-society-manhattan,UNK
+Japan,188166,2658,54,12701;26452177;6793374;15573,http://en.wikipedia.org/wiki/Japan_Standard_Time,Japan Standard Time,japan-standard-time,japan-standard-time,UNK
+Japan,146615,239,199,167104,http://en.wikipedia.org/wiki/Japanese_numerals,Japanese numerals,japanese-numerals,japanese-numerals,GPE
+Japan,4083287,5,13,23070,http://en.wikipedia.org/wiki/Japan-US_(cable_system),Japan-US,japan-us,japan-us-cable-system,UNK
+Japan,6246617,2,5,,http://en.wikipedia.org/wiki/Japan_(Eiji_Ōtsuka_manga),Japan,japan,japan-eiji-otsuka-manga,UNK
+Japan,167104,367,331,10790;1326000;167104;10110;689;146615;15575;15573;15578,http://en.wikipedia.org/wiki/Culture_of_Japan,Culture of Japan,culture-of-japan,culture-of-japan,UNK
+Japan,34496828,4,13,,"http://en.wikipedia.org/wiki/Japan,_Our_Homeland","Japan, Our Homeland",japan-our-homeland,japan-our-homeland,UNK
+Japan,6122365,53,73,15573,http://en.wikipedia.org/wiki/Japan_(Epcot),Japan,japan,japan-epcot,UNK
+Japan,87995,1335,576,87995;4986;10110;66906;15573;27019,http://en.wikipedia.org/wiki/Occupation_of_Japan,Occupation of Japan,occupation-of-japan,occupation-of-japan,GPE
+Japan,34220568,43,49,,http://en.wikipedia.org/wiki/Japan_Center_(San_Francisco),Japan Center,japan-center,japan-center-san-francisco,UNK
+Japan,1299302,92,76,423106;15573,http://en.wikipedia.org/wiki/BBC_Japan,BBC Japan,bbc-japan,bbc-japan,UNK
+Japan,167707,254,89,3349146;167707;2465857,http://en.wikipedia.org/wiki/Japan_(band),Japan,japan,japan-band,UNK
+Japan,10790,1230,655,10790;167104;10110;15575;15573;15578,http://en.wikipedia.org/wiki/Cinema_of_Japan,Cinema of Japan,cinema-of-japan,cinema-of-japan,UNK
+Japan,1326000,177,128,14579;17867;167104;15573;27019,http://en.wikipedia.org/wiki/Japan_Foundation,Japan Foundation,japan-foundation,japan-foundation,ORG
+Japan,15575,185,368,10790;167104;10110;1318227;22477;689;14644;23070;725125;15575;15573;15578;27021;27019;1015816,http://en.wikipedia.org/wiki/Geography_of_Japan,Geography of Japan,geography-of-japan,geography-of-japan,UNK
+Japan,25776463,22,12,,http://en.wikipedia.org/wiki/Japan_Center_(Frankfurt),Japan Center,japan-center,japan-center-frankfurt,UNK
+Japan,10110,1892,274,87995;167104;10790;15575;15573;15578,http://en.wikipedia.org/wiki/Emperor_of_Japan,Emperor of Japan,emperor-of-japan,emperor-of-japan,UNK
+Japan,3392261,74,67,27318;15573,http://en.wikipedia.org/wiki/Japan_national_Australian_rules_football_team,Japan national Australian rules football team,japan-national-australian-rules-football-team,japan-national-australian-rules-football-team,UNK
+Japan,317196,234,146,22477;15573,http://en.wikipedia.org/wiki/Provinces_of_Japan,Provinces of Japan,provinces-of-japan,provinces-of-japan,UNK
+Japan,16832191,5,25,15573,http://en.wikipedia.org/wiki/Japan_Japan,Japan Japan,japan-japan,japan-japan,UNK
+Japan,32404162,123,134,,"http://en.wikipedia.org/wiki/Japan,_Pennsylvania","Japan, Pennsylvania",japan-pennsylvania,japan-pennsylvania,GPE
+BP,18998720,2205,893,17867;24200052;2086678;2478598;14647;18998720;7971634;1347206;73162;19323,http://en.wikipedia.org/wiki/BP,BP,bp,bp,UNK
+BP,1347206,84,92,18998720,http://en.wikipedia.org/wiki/BP_Canada,BP Canada,bp-canada,bp-canada,UNK
+Tiber,69418,182,106,30359,http://en.wikipedia.org/wiki/Tiberius_Gracchus,Tiberius Gracchus,tiberius-gracchus,tiberius-gracchus,ORG
+Tiber,1725093,135,100,30359,http://en.wikipedia.org/wiki/Tiber_Island,Tiber Island,tiber-island,tiber-island,UNK
+Tiber,12337533,55,62,,http://en.wikipedia.org/wiki/Tiber_(Sacramento_RT),Tiber,tiber,tiber-sacramento-rt,UNK
+Tiber,30359,486,127,69418;1725093,http://en.wikipedia.org/wiki/Tiber,Tiber,tiber,tiber,UNK
+Tiber,24200052,6,32,18998720,http://en.wikipedia.org/wiki/Tiber_Oil_Field,Tiber Oil Field,tiber-oil-field,tiber-oil-field,UNK
+Tenacity,28345476,2,4,21480791,http://en.wikipedia.org/wiki/Tenacity_(mineralogy),Tenacity,tenacity,tenacity-mineralogy,ORG
+Tenacity,21480791,14,12,28345476,http://en.wikipedia.org/wiki/Tenacity,Tenacity,tenacity,tenacity,PER
+South Korea,27019,38617,831,689;1044538;39671984;68074;13398970;33186126;2932451;1054817;39247356;14647;14579;15575;15573;15578;87995;17867;6043818;1326000;715249;331490;10458246;268287;23070;27318;27021;27019;1318227;1496582;318083;18341137;598720;323111;386393;605077;605541;326535;2478598;13850350;298884;9684477;7976764;9177773;1098651;15246606;32029025,http://en.wikipedia.org/wiki/South_Korea,South Korea,south-korea,south-korea,GPE
+South Korea,2932451,170,127,27019,http://en.wikipedia.org/wiki/South_Korean_nationality_law,South Korean nationality law,south-korean-nationality-law,south-korean-nationality-law,UNK
+South Korea,298884,500,219,27318;689;268287;2478598;15573;10458246;27019,http://en.wikipedia.org/wiki/South_Korean_won,South Korean won,south-korean-won,south-korean-won,UNK
+South Korea,598720,59,92,323111;68074;27019,"http://en.wikipedia.org/wiki/South_Korean_legislative_election,_2004","South Korean legislative election, 2004",south-korean-legislative-election-2004,south-korean-legislative-election-2004,UNK
+South Korea,27021,294,126,14644;15575;326535;27019;1318227;1015816,http://en.wikipedia.org/wiki/Geography_of_South_Korea,Geography of South Korea,geography-of-south-korea,geography-of-south-korea,UNK
+Samsung,9177773,127,123,15246606;1054817;27019;268287;2478598,http://en.wikipedia.org/wiki/Samsung_Heavy_Industries,Samsung Heavy Industries,samsung-heavy-industries,samsung-heavy-industries,ORG
+Samsung,268287,1176,625,15246606;1054817;9177773;161591;298884;268287;2478598;18341137;15573;27019,http://en.wikipedia.org/wiki/Samsung_Electronics,Samsung Electronics,samsung-electronics,samsung-electronics,ORG
+Samsung,6043818,159,47,27019,http://en.wikipedia.org/wiki/Renault_Samsung_SM3,Renault Samsung SM3,renault-samsung-sm3,renault-samsung-sm3,UNK
+Samsung,2478598,2075,275,15246606;2478598;1054817;9177773;18998720;68074;298884;268287;18341137;27019,http://en.wikipedia.org/wiki/Samsung,Samsung,samsung,samsung,ORG
+Samsung,15246606,52,67,1054817;27019;9177773;268287;68074;2478598,http://en.wikipedia.org/wiki/Samsung_Town,Samsung Town,samsung-town,samsung-town,UNK
+Samsung,1054817,877,373,15246606;1054817;715249;9177773;689;268287;2478598;18341137;15573;27019,http://en.wikipedia.org/wiki/Suwon_Samsung_Bluewings,Suwon Samsung Bluewings,suwon-samsung-bluewings,suwon-samsung-bluewings,ORG
+Samsung,18341137,236,201,1054817;268287;2478598;27019,http://en.wikipedia.org/wiki/Samsung_Telecommunications,Samsung Telecommunications,samsung-telecommunications,samsung-telecommunications,ORG
+CNR,5981187,41,55,,http://en.wikipedia.org/wiki/CNR_Bridge,CNR Bridge,cnr-bridge,cnr-bridge,UNK
+CNR,9085653,6,26,,http://en.wikipedia.org/wiki/CNR_(software),CNR,cnr,cnr-software,UNK
+Red Sea,26191,3259,339,689;392192;3386;19006;16371524;1318227;767604;23070,http://en.wikipedia.org/wiki/Red_Sea,Red Sea,red-sea,red-sea,UNK
+Red Sea,17438222,19,20,,http://en.wikipedia.org/wiki/Red_Sea_FC,Red Sea FC,red-sea-fc,red-sea-fc,UNK
+Red Sea,25780732,4,5,,http://en.wikipedia.org/wiki/Red_Sea_University,Red Sea University,red-sea-university,red-sea-university,UNK
+Red Sea,3320231,30,62,,http://en.wikipedia.org/wiki/The_Red_Sea_(EP),The Red Sea,the-red-sea,the-red-sea-ep,UNK
+Red Sea,767604,0,35,26191,http://en.wikipedia.org/wiki/Red_Sea_(Sudanese_state),Red Sea,red-sea,red-sea-sudanese-state,UNK
+Red Sea,16371524,3,9,26191,http://en.wikipedia.org/wiki/Red_Sea_Mall,Red Sea Mall,red-sea-mall,red-sea-mall,UNK
+Marubeni,1132575,306,282,15573,http://en.wikipedia.org/wiki/Marubeni,Marubeni,marubeni,marubeni,UNK
+ASIA,689,15995,576,689;19555744;3122007;3386;1496582;735594;26207611;318083;167104;170641;1054817;14579;15575;15573;19006;298884;2828629;19323;715249;330130;21902133;23070;5504319;26191;27318;181504;27019;1318227;1241242,http://en.wikipedia.org/wiki/Asia,Asia,asia,asia,UNK
+ASIA,28720293,1,22,15573;27318;14579;28720293;3122007,http://en.wikipedia.org/wiki/Asia_Society_(AustralAsia_Centre),Asia Society,asia-society,asia-society-australasia-centre,UNK
+ASIA,18545761,0,66,,http://en.wikipedia.org/wiki/Asia_(Disney's_Animal_Kingdom),Asia,asia,asia-disneys-animal-kingdom,UNK
+ASIA,28719978,2,15,15573;27318;14579;3122007,http://en.wikipedia.org/wiki/Asia_Society_(AustralAsia),Asia Society,asia-society,asia-society-australasia,UNK
+ASIA,5504319,26,24,689;330130;15573,http://en.wikipedia.org/wiki/Asia_University_(Japan),Asia University,asia-university,asia-university-japan,UNK
+ASIA,26452177,2,9,15573;188166,http://en.wikipedia.org/wiki/Asia/Tokyo,Asia/Tokyo,asia-tokyo,asia-tokyo,PER
+ASIA,1241242,438,193,689,http://en.wikipedia.org/wiki/Asia_(Roman_province),Asia,asia,asia-roman-province,UNK
+ASIA,13229960,8,7,14579,http://en.wikipedia.org/wiki/Asia_Islands,Asia Islands,asia-islands,asia-islands,UNK
+ASIA,736893,167,335,3748188,"http://en.wikipedia.org/wiki/Asia_District,_Oklahoma_City","Asia District, Oklahoma City",asia-district-oklahoma-city,asia-district-oklahoma-city,UNK
+ASIA,13085777,62,79,,http://en.wikipedia.org/wiki/Asia_(Miami),Asia,asia,asia-miami,UNK
+ASIA,2828629,84,89,15573;22437586;689;27318,http://en.wikipedia.org/wiki/.asia,.asia,asia,asia,UNK
+ASIA,4189298,2,8,,http://en.wikipedia.org/wiki/Asia_Street,Asia Street,asia-street,asia-street,UNK
+ASIA,17210825,7,8,,http://en.wikipedia.org/wiki/Asia_Institute,Asia Institute,asia-institute,asia-institute,UNK
+ASIA,181504,2,14,17867;689,"http://en.wikipedia.org/wiki/Asia,_Pacific_and_Africa_Collections,_British_Library","Asia, Pacific and Africa Collections, British Library",asia-pacific-and-africa-collections-british-library,asia-pacific-and-africa-collections-british-library,UNK
+ASIA,3748188,139,149,23070;736893,"http://en.wikipedia.org/wiki/Asia_District,_Peru","Asia District, Peru",asia-district-peru,asia-district-peru,UNK
+ASIA,19859716,159,177,,http://en.wikipedia.org/wiki/Asia_University_(Taiwan),Asia University,asia-university,asia-university-taiwan,UNK
+ASIA,55266,666,209,925525;55266,http://en.wikipedia.org/wiki/Asia_(band),Asia,asia,asia-band,UNK
+ASIA,16993296,57,29,,http://en.wikipedia.org/wiki/Asia_Brewery,Asia Brewery,asia-brewery,asia-brewery,UNK
+ASIA,1318227,258,344,19006;689;27318;14644;26191;14579;23070;19323;15575;15573;1496582;27021;27019;1318227;3386;1015816,http://en.wikipedia.org/wiki/Geography_of_Asia,Geography of Asia,geography-of-asia,geography-of-asia,UNK
+ASIA,735594,11,71,689,http://en.wikipedia.org/wiki/67_Asia,67 Asia,67-asia,67-asia,UNK
+ASIA,3837768,6,6,,http://en.wikipedia.org/wiki/Asia_Books,Asia Books,asia-books,asia-books,UNK
+ASIA,3122007,304,133,28719978;689;3122007;15573;30863630;1496582;28720293,http://en.wikipedia.org/wiki/Asia_Society,Asia Society,asia-society,asia-society,ORG
+ASIA,715249,7022,566,689;1044538;27318;27019;1054817;14579;15573,http://en.wikipedia.org/wiki/Asian_Football_Confederation,Asian Football Confederation,asian-football-confederation,asian-football-confederation,ORG
+ASIA,19555744,6,22,19323;689,http://en.wikipedia.org/wiki/Asia_(magazine),Asia,asia,asia-magazine,ORG
+ASIA,3149991,85,81,,"http://en.wikipedia.org/wiki/Asia_Building,_Shanghai","Asia Building, Shanghai",asia-building-shanghai,asia-building-shanghai,UNK
+ASIA,38407991,1,4,,http://en.wikipedia.org/wiki/Asia_(1813),Asia,asia,asia-1813,PER
+ASIA,41056054,3,13,41056054;27318,http://en.wikipedia.org/wiki/Rev_Asia,Rev Asia,rev-asia,rev-asia,ORG
+ASIA,38408254,3,8,,http://en.wikipedia.org/wiki/Asia_(1818),Asia,asia,asia-1818,PER
+ASIA,26452271,2,8,,http://en.wikipedia.org/wiki/Asia/Hong_Kong,Asia/Hong Kong,asia-hong-kong,asia-hong-kong,PER
+ASIA,17933332,3,6,27318,http://en.wikipedia.org/wiki/Asia_Inc.,Asia Inc.,asia-inc,asia-inc,ORG
+ASIA,38407762,1,5,,http://en.wikipedia.org/wiki/Asia_(1816),Asia,asia,asia-1816,PER
+ASIA,2614724,54,137,,http://en.wikipedia.org/wiki/Asi_(Mahabharata),Asi,asi,asi-mahabharata,ORG
+PACIFIC,15749910,235,242,,"http://en.wikipedia.org/wiki/Pacific,_California","Pacific, California",pacific-california,pacific-california,GPE
+PACIFIC,9392972,53,102,,http://en.wikipedia.org/wiki/Pacific_Division_(AFL),Pacific Division,pacific-division,pacific-division-afl,UNK
+PACIFIC,21584471,9,8,,http://en.wikipedia.org/wiki/Pacific_Division_(RHI),Pacific Division,pacific-division,pacific-division-rhi,UNK
+PACIFIC,5390925,5,77,,http://en.wikipedia.org/wiki/MS_Pacific,MS Pacific,ms-pacific,ms-pacific,UNK
+PACIFIC,5887631,62,58,23070,http://en.wikipedia.org/wiki/Pacific_Park,Pacific Park,pacific-park,pacific-park,UNK
+PACIFIC,27690257,10,11,27690257,http://en.wikipedia.org/wiki/Pacific!,Pacific!,pacific,pacific,UNK
+PACIFIC,1649256,39,84,,http://en.wikipedia.org/wiki/Pacificair,Pacificair,pacificair,pacificair,ORG
+PACIFIC,6286880,1,95,,"http://en.wikipedia.org/wiki/Pacific_Building_(Salem,_Oregon)",Pacific Building,pacific-building,pacific-building-salem-oregon,UNK
+PACIFIC,4824443,50,28,23070;150745,http://en.wikipedia.org/wiki/Pacific_Railroad,Pacific Railroad,pacific-railroad,pacific-railroad,UNK
+PACIFIC,13375121,23,35,23070,http://en.wikipedia.org/wiki/SS_Pacific_(1849),SS Pacific,ss-pacific,ss-pacific-1849,UNK
+PACIFIC,4529108,857,132,,http://en.wikipedia.org/wiki/Pacific_Division_(NHL),Pacific Division,pacific-division,pacific-division-nhl,UNK
+PACIFIC,4753452,1830,211,,http://en.wikipedia.org/wiki/Pacific_Division_(NBA),Pacific Division,pacific-division,pacific-division-nba,UNK
+PACIFIC,26431165,8,33,,http://en.wikipedia.org/wiki/Pacific_Division_(United_States_Army),Pacific Division,pacific-division,pacific-division-united-states-army,UNK
+PACIFIC,1838369,15,57,15573,http://en.wikipedia.org/wiki/Pacific_General,Pacific General,pacific-general,pacific-general,UNK
+PACIFIC,24353,138,155,23070,"http://en.wikipedia.org/wiki/Pacific_Beach,_San_Diego","Pacific Beach, San Diego",pacific-beach-san-diego,pacific-beach-san-diego,GPE
+PACIFIC,2518177,28,13,,http://en.wikipedia.org/wiki/Pacific_Institute,Pacific Institute,pacific-institute,pacific-institute,ORG
+PACIFIC,15676401,2,31,520449;23070,http://en.wikipedia.org/wiki/Pacific_Marine_Ecozone_(CEC),Pacific Marine Ecozone,pacific-marine-ecozone,pacific-marine-ecozone-cec,ORG
+PACIFIC,91071,524,175,524024;151280;23070;91071,"http://en.wikipedia.org/wiki/Pacific_County,_Washington","Pacific County, Washington",pacific-county-washington,pacific-county-washington,GPE
+PACIFIC,150745,182,176,79717;23070;4824443,"http://en.wikipedia.org/wiki/Pacific,_Missouri","Pacific, Missouri",pacific-missouri,pacific-missouri,GPE
+PACIFIC,524024,5280,66,130949;524024;151280;21559355;91071;23070,http://en.wikipedia.org/wiki/Pacific_Time_Zone,Pacific Time Zone,pacific-time-zone,pacific-time-zone,UNK
+PACIFIC,1277926,291,210,23070,http://en.wikipedia.org/wiki/Pacific_decadal_oscillation,Pacific decadal oscillation,pacific-decadal-oscillation,pacific-decadal-oscillation,UNK
+PACIFIC,21902133,15,42,14579;689,http://en.wikipedia.org/wiki/First_Pacific,First Pacific,first-pacific,first-pacific,ORG
+PACIFIC,130949,63,68,524024;2440624,"http://en.wikipedia.org/wiki/Pacific_City,_Oregon","Pacific City, Oregon",pacific-city-oregon,pacific-city-oregon,GPE
+PACIFIC,330130,684,326,5504319;689;14579;19006;23070;19323;15573;1496582,http://en.wikipedia.org/wiki/Pacific_Islands,Pacific Islands,pacific-islands,pacific-islands,PER
+PACIFIC,31451783,2,15,,http://en.wikipedia.org/wiki/Pacific_Tower_(Seattle),Pacific Tower,pacific-tower,pacific-tower-seattle,UNK
+PACIFIC,12803613,102,121,,http://en.wikipedia.org/wiki/Pacific_Building,Pacific Building,pacific-building,pacific-building,UNK
+PACIFIC,1262623,252,277,1262623,http://en.wikipedia.org/wiki/Pacific_Racing,Pacific Racing,pacific-racing,pacific-racing,ORG
+PACIFIC,353610,12,43,23070,"http://en.wikipedia.org/wiki/Pacific_Beach,_Washington","Pacific Beach, Washington",pacific-beach-washington,pacific-beach-washington,UNK
+PACIFIC,1332114,15,11,,http://en.wikipedia.org/wiki/Pacific_Records,Pacific Records,pacific-records,pacific-records,UNK
+PACIFIC,151280,179,289,524024;91071,"http://en.wikipedia.org/wiki/Pacific,_Washington","Pacific, Washington",pacific-washington,pacific-washington,GPE
+PACIFIC,520449,501,102,15676401;14644;23070;15573,http://en.wikipedia.org/wiki/Pacific_Plate,Pacific Plate,pacific-plate,pacific-plate,UNK
+PACIFIC,138873,59,77,,"http://en.wikipedia.org/wiki/Pacific,_Wisconsin","Pacific, Wisconsin",pacific-wisconsin,pacific-wisconsin,GPE
+PACIFIC,5216869,10,12,,http://en.wikipedia.org/wiki/Pacific_Corporation,Pacific Corporation,pacific-corporation,pacific-corporation,UNK
+PACIFIC,2120273,128,120,,http://en.wikipedia.org/wiki/Pacific_Mall,Pacific Mall,pacific-mall,pacific-mall,UNK
+PACIFIC,23070,12089,469,520449;689;3868301;13375121;70780;3386;19006;73162;524024;19323;15676401;889284;4824443;330130;3748188;4083287;1496582;24353;318083;26191;2440624;8591270;481077;150745;27318;428913;1277926;27019;1410761;1318227;725125;91071;353610;14644;14579;5887631;15575;15573,http://en.wikipedia.org/wiki/Pacific_Ocean,Pacific Ocean,pacific-ocean,pacific-ocean,UNK
+PACIFIC,1410761,206,156,23070,http://en.wikipedia.org/wiki/Pacific_Station,Pacific Station,pacific-station,pacific-station,ORG
+PACIFIC,1885114,41,54,,http://en.wikipedia.org/wiki/Pacific_Trim,Pacific Trim,pacific-trim,pacific-trim,UNK
+PACIFIC,1277769,292,146,,http://en.wikipedia.org/wiki/Pacific_University,Pacific University,pacific-university,pacific-university,ORG
+PACIFIC,11760254,9,11,,http://en.wikipedia.org/wiki/Pacific_Opera,Pacific Opera,pacific-opera,pacific-opera,UNK
+PACIFIC,38476969,5,14,,"http://en.wikipedia.org/wiki/Pacific_Tower,_Christchurch","Pacific Tower, Christchurch",pacific-tower-christchurch,pacific-tower-christchurch,UNK
+Singapore,27318,26169,802,689;350660;1044538;68074;28720293;28719978;14647;14644;14579;2872959;15573;15578;17867;16940961;715249;161591;23070;1015816;27318;27019;18952243;1318227;7316314;1866255;1649325;17933332;41056054;1496582;3392261;318083;320211;605077;605541;1545225;13850350;298884;2828629;24471003;860940;1098651;2205844,http://en.wikipedia.org/wiki/Singapore,Singapore,singapore,singapore,GPE
+Singapore,1545225,374,124,1866255;27318;320211;2872959;1545225;1649325;1015816,http://en.wikipedia.org/wiki/Singapore_River,Singapore River,singapore-river,singapore-river,UNK
+Singapore,320211,122,131,1545225;1866255;860940;27318,http://en.wikipedia.org/wiki/Singapore_Botanic_Gardens,Singapore Botanic Gardens,singapore-botanic-gardens,singapore-botanic-gardens,UNK
+Singapore,1866255,177,78,27318;1545225;320211,http://en.wikipedia.org/wiki/Singapore_Tourism_Board,Singapore Tourism Board,singapore-tourism-board,singapore-tourism-board,ORG
+Singapore,350660,494,275,27318;2872959;10011631;1015816,http://en.wikipedia.org/wiki/President_of_Singapore,President of Singapore,president-of-singapore,president-of-singapore,UNK
+Singapore,16940961,5,19,27318;16940961,http://en.wikipedia.org/wiki/Singapore_International_Water_Week,Singapore International Water Week,singapore-international-water-week,singapore-international-water-week,UNK
+Singapore,2872959,203,227,350660;27318;1545225;860940,http://en.wikipedia.org/wiki/Supreme_Court_of_Singapore,Supreme Court of Singapore,supreme-court-of-singapore,supreme-court-of-singapore,UNK
+Singapore,161591,800,530,18952243;197676;161591;27318;268287,http://en.wikipedia.org/wiki/Singapore_Airlines,Singapore Airlines,singapore-airlines,singapore-airlines,ORG
+Singapore,1015816,172,422,27318;1318227;350660;14644;1545225;14579;15575;27021;1649325;1015816,http://en.wikipedia.org/wiki/Geography_of_Singapore,Geography of Singapore,geography-of-singapore,geography-of-singapore,ORG
+Singapore,1649325,221,206,27318;1545225;1015816,"http://en.wikipedia.org/wiki/Esplanade,_Singapore","Esplanade, Singapore",esplanade-singapore,esplanade-singapore,UNK
+Singapore,18952243,556,411,161591;27318;197676;18952243,http://en.wikipedia.org/wiki/Singapore_Changi_Airport,Singapore Changi Airport,singapore-changi-airport,singapore-changi-airport,UNK
+Singapore,2205844,205,143,27318;860940,http://en.wikipedia.org/wiki/Singapore_Polytechnic,Singapore Polytechnic,singapore-polytechnic,singapore-polytechnic,ORG
+Singapore,31607674,2,8,,"http://en.wikipedia.org/wiki/Singapore_Township,_Hyderabad","Singapore Township, Hyderabad",singapore-township-hyderabad,singapore-township-hyderabad,GPE
+Singapore,24471003,2,60,14579;27318,http://en.wikipedia.org/wiki/Singapore_International_Energy_Week,Singapore International Energy Week,singapore-international-energy-week,singapore-international-energy-week,UNK
+Singapore,5679304,5,16,,"http://en.wikipedia.org/wiki/Singapore,_Michigan","Singapore, Michigan",singapore-michigan,singapore-michigan,UNK
+Singapore,860940,221,123,2872959;27318;353707;2205844;320211,http://en.wikipedia.org/wiki/Singapore_Management_University,Singapore Management University,singapore-management-university,singapore-management-university,ORG
+Fulmar,208643,122,50,,http://en.wikipedia.org/wiki/Fulmar,Fulmar,fulmar,fulmar,UNK
+Fulmar,12975049,74,102,12974888,http://en.wikipedia.org/wiki/USS_Fulmar_(AMS-47),USS Fulmar,uss-fulmar,uss-fulmar-ams-47,UNK
+Fulmar,1435007,3,4,,http://en.wikipedia.org/wiki/Fulmar_(rocket),Fulmar,fulmar,fulmar-rocket,UNK
+Fulmar,521301,145,142,,http://en.wikipedia.org/wiki/Fairey_Fulmar,Fairey Fulmar,fairey-fulmar,fairey-fulmar,UNK
+Fulmar,38478643,6,20,,http://en.wikipedia.org/wiki/Fulmar_(1868),Fulmar,fulmar,fulmar-1868,UNK
+Fulmar,12974888,3,2,13333911;12975049,http://en.wikipedia.org/wiki/USS_Fulmar,USS Fulmar,uss-fulmar,uss-fulmar,UNK
+Fulmar,29446541,1,9,,http://en.wikipedia.org/wiki/Fulmar_Island,Fulmar Island,fulmar-island,fulmar-island,UNK
+Fulmar,29446546,0,17,,http://en.wikipedia.org/wiki/Fulmar_Bay,Fulmar Bay,fulmar-bay,fulmar-bay,UNK
+Fulmar,13333911,76,79,12974888,http://en.wikipedia.org/wiki/USS_Fulmar_(AMc-46),USS Fulmar,uss-fulmar,uss-fulmar-amc-46,UNK
+Ulsan,323111,819,178,23538636;39671984;386393;7976764;323111;598720;39247356;68074;10458246;326535;15573;9684477;27019,http://en.wikipedia.org/wiki/Ulsan,Ulsan,ulsan,ulsan,UNK
+Ulsan,9684477,28,29,27019;323111,http://en.wikipedia.org/wiki/Ulsan_Airport,Ulsan Airport,ulsan-airport,ulsan-airport,UNK
+Ulsan,10458246,70,77,298884;323111;32029025;27019;39247356,http://en.wikipedia.org/wiki/University_of_Ulsan,University of Ulsan,university-of-ulsan,university-of-ulsan,UNK
+Ulsan,39247356,12,18,27019;323111;10458246,http://en.wikipedia.org/wiki/Ulsan_College,Ulsan College,ulsan-college,ulsan-college,UNK
+Ulsan,7976764,18,12,27019;323111,http://en.wikipedia.org/wiki/Ulsan_Stadium,Ulsan Stadium,ulsan-stadium,ulsan-stadium,UNK
+Ulsan,23538636,42,65,331490;323111,http://en.wikipedia.org/wiki/Ulsan_Station,Ulsan Station,ulsan-station,ulsan-station,UNK
+Ulsan,39671984,5,15,27019;323111,http://en.wikipedia.org/wiki/Ulsan_Museum,Ulsan Museum,ulsan-museum,ulsan-museum,UNK
+Yosu,386393,227,144,323111;15573;68074;326535;27019,http://en.wikipedia.org/wiki/Yeosu,Yeosu,yeosu,yeosu,UNK
+Eleusis,80628,663,187,,http://en.wikipedia.org/wiki/Eleusis,Eleusis,eleusis,eleusis,UNK

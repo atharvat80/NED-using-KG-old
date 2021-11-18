@@ -1,0 +1,96 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Chinese,5405,76886,1206,1963462;5405;5751;2259195;6966;32204074;1255834;415070;29031717;156154;2800359;266210;964617;19359;33167689;6108359;23237;24657;27909;27643;152827;153825;2149749;48999;52980;32919758;50821;686244;682573;19682699;919887;11312909;3733255;40710796;475046;1197992;332456;27682110;217487;3145995;1623791;601694;18769119;1231558;261949;367843;11641871;372983;4531418;124485;19476473,http://en.wikipedia.org/wiki/China,China,china,china,GPE
+Chinese,1524543,202,123,964617;6966;156154,http://en.wikipedia.org/wiki/Chinese_mathematics,Chinese mathematics,chinese-mathematics,chinese-mathematics,UNK
+Chinese,19476473,8,39,27643;5405;1197992;153825;5751,http://en.wikipedia.org/wiki/Chinese_encyclopedia,Chinese encyclopedia,chinese-encyclopedia,chinese-encyclopedia,UNK
+Chinese,1255834,278,347,5405;1255834;152827;27643;48999;2149749;5751;50821;52980;19682699;19359,http://en.wikipedia.org/wiki/British_Chinese,British Chinese,british-chinese,british-chinese,UNK
+Chinese,372983,2922,16,2149749;5405;152827;55668;26175377;32204074;19682699;367843,http://en.wikipedia.org/wiki/Chinese_people,Chinese people,chinese-people,chinese-people,ORG
+Chinese,682573,62,20,261949;24657;152827;5751;266210;5405,http://en.wikipedia.org/wiki/Chinese_clan,Chinese clan,chinese-clan,chinese-clan,ORG
+Chinese,4544971,13,18,,http://en.wikipedia.org/wiki/Chinese_Village_(Tsarskoe_Selo),Chinese Village,chinese-village,chinese-village-tsarskoe-selo,UNK
+Chinese,26175377,2,15,372983,http://en.wikipedia.org/wiki/Chinese_Museum_(Boston),Chinese Museum,chinese-museum,chinese-museum-boston,UNK
+Chinese,2278861,53,103,5751;52980;24657;19359,http://en.wikipedia.org/wiki/General_Chinese,General Chinese,general-chinese,general-chinese,UNK
+Chinese,2149749,151,209,5405;1255834;372983;152827;52980;19682699;48999,http://en.wikipedia.org/wiki/Chinese_Cambodian,Chinese Cambodian,chinese-cambodian,chinese-cambodian,UNK
+Chinese,48999,1281,537,2149749;52980;5405;1255834;152827;55668;27643;48999;24657;5751;19359,http://en.wikipedia.org/wiki/Chinese_American,Chinese American,chinese-american,chinese-american,UNK
+Chinese,277570,405,121,152827;3145995;156154;261949;1455431;266210;50821,http://en.wikipedia.org/wiki/Chinese_opera,Chinese opera,chinese-opera,chinese-opera,UNK
+Chinese,266210,20339,452,11312909;1963462;5405;5751;6966;601694;415815;37285010;415070;658408;475046;52980;1197992;261949;159669;964617;19359;33167689;682573;19682699;3145995;24657;184224;27909;9041110;6427329;919887;152827;277570;4531418;1623791;124485,http://en.wikipedia.org/wiki/Traditional_Chinese_characters,Traditional Chinese characters,traditional-chinese-characters,traditional-chinese-characters,UNK
+Chinese,6966,3181,258,156154;261949;266210;159669;964617;5405;1524543;19682699,http://en.wikipedia.org/wiki/Chinese_calendar,Chinese calendar,chinese-calendar,chinese-calendar,GPE
+Chinese,32204074,4,10,5405;372983;32204074,http://en.wikipedia.org/wiki/Chinese_Bridge,Chinese Bridge,chinese-bridge,chinese-bridge,UNK
+Chinese,4237048,198,167,964617;156154;415815;5751;23747846,http://en.wikipedia.org/wiki/Chinese_ceramics,Chinese ceramics,chinese-ceramics,chinese-ceramics,UNK
+Chinese,159669,299,101,367843;6966;156154;261949;5751;266210;19682699,http://en.wikipedia.org/wiki/Chinese_astrology,Chinese astrology,chinese-astrology,chinese-astrology,UNK
+Chinese,964617,294,220,5405;1524543;152827;27643;4237048;6966;156154;261949;5751;266210,http://en.wikipedia.org/wiki/Chinese_architecture,Chinese architecture,chinese-architecture,chinese-architecture,UNK
+Chinese,153825,719,549,217487;33167689;156154;5405;19476473;152827;27643;367843;1197992;24657;5751;23237,http://en.wikipedia.org/wiki/Chinese_literature,Chinese literature,chinese-literature,chinese-literature,UNK
+Chinese,19359,2193,324,475046;52980;5405;152827;48999;24657;261949;5751;266210;50821;1255834;2278861,http://en.wikipedia.org/wiki/Mandarin_Chinese,Mandarin Chinese,mandarin-chinese,mandarin-chinese,UNK
+Chinese,156154,599,272,5405;1524543;152827;4237048;159669;153825;217487;964617;367843;1197992;24657;33167689;6966;5751;19682699;277570,http://en.wikipedia.org/wiki/Chinese_culture,Chinese culture,chinese-culture,chinese-culture,UNK
+Chinese,19682699,847,261,372983;2149749;6966;156154;50821;19682699;5405;1255834;152827;27643;159669;601694;24657;261949;5751;266210,http://en.wikipedia.org/wiki/Chinese_New_Year,Chinese New Year,chinese-new-year,chinese-new-year,UNK
+Chinese,55668,341,418,372983;48999;33167689,http://en.wikipedia.org/wiki/Chinese_Exclusion_Act,Chinese Exclusion Act,chinese-exclusion-act,chinese-exclusion-act,UNK
+Chinese,475046,370,290,5405;24657;261949;5751;266210;52980;19359,http://en.wikipedia.org/wiki/Old_Chinese,Old Chinese,old-chinese,old-chinese,UNK
+Chinese,19328658,45,28,,http://en.wikipedia.org/wiki/Chinese_temple,Chinese temple,chinese-temple,chinese-temple,UNK
+Chinese,152827,2162,405,372983;217487;2149749;156154;52980;27682110;5405;48999;24657;184224;261949;5751;266210;277570;682573;153825;50821;19682699;1255834;27643;964617;367843;19359;23237,http://en.wikipedia.org/wiki/Han_Chinese,Han Chinese,han-chinese,han-chinese,UNK
+Chinese,1169486,21,17,,http://en.wikipedia.org/wiki/Chinese_water_torture,Chinese water torture,chinese-water-torture,chinese-water-torture,UNK
+Chinese,2800359,32,35,5405,http://en.wikipedia.org/wiki/Chinese_hamster,Chinese hamster,chinese-hamster,chinese-hamster,UNK
+Chinese,1144453,23,12,24657,http://en.wikipedia.org/wiki/Chinese_school,Chinese school,chinese-school,chinese-school,UNK
+Chinese,1455431,93,160,277570,http://en.wikipedia.org/wiki/Chinese_orchestra,Chinese orchestra,chinese-orchestra,chinese-orchestra,UNK
+Chinese,5751,23061,442,3733255;5405;5751;2259195;4237048;2278861;601694;48999;10948329;1255834;415070;658408;475046;156154;52980;1197992;504623;261949;266210;50821;159669;964617;367843;19359;682573;19682699;3145995;24657;184224;27909;27643;152827;153825;19476473,http://en.wikipedia.org/wiki/Chinese_language,Chinese language,chinese-language,chinese-language,UNK
+Chinese,24657,5837,255,1144453;3145995;475046;156154;52980;1197992;261949;266210;27909;50821;27643;2278861;601694;19359;415815;5405;152827;48999;5751;682573;153825;19682699,http://en.wikipedia.org/wiki/Standard_Chinese,Standard Chinese,standard-chinese,standard-chinese,UNK
+Chinese,1197992,146,195,5405;1197992;24657;19476473;156154;261949;5751;266210;52980;27643;153825,http://en.wikipedia.org/wiki/Chinese_Wikipedia,Chinese Wikipedia,chinese-wikipedia,chinese-wikipedia,UNK
+Chinese,415070,439,194,5405;261949;5751;266210,http://en.wikipedia.org/wiki/Chinese_herbology,Chinese herbology,chinese-herbology,chinese-herbology,UNK
+Chinese,31970550,25,23,,"http://en.wikipedia.org/wiki/Chinese_Museum,_Melbourne","Chinese Museum, Melbourne",chinese-museum-melbourne,chinese-museum-melbourne,UNK
+Chinese,261949,18715,481,1963462;30031499;5405;5751;6966;601694;415815;37285010;415070;658408;475046;52980;1197992;266210;16450146;159669;964617;367843;19359;33167689;682573;19682699;24657;184224;27909;919887;152827;277570;4531418;1623791;124485,http://en.wikipedia.org/wiki/Simplified_Chinese_characters,Simplified Chinese characters,simplified-chinese-characters,simplified-chinese-characters,UNK
+Chinese,52980,571,222,5405;1255834;152827;27643;48999;2278861;2149749;475046;1197992;24657;261949;5751;266210;50821;19359,http://en.wikipedia.org/wiki/Hakka_Chinese,Hakka Chinese,hakka-chinese,hakka-chinese,UNK
+SHANGHAI,27643,10242,864,52980;1197992;504623;16450146;50821;686244;964617;367843;1963462;33167689;27682110;30031499;5405;5751;19682699;40710796;23237;24657;184224;27909;27643;18769119;9041110;415815;6427329;37285010;919887;152827;48999;4531418;153825;1623791;10948329;1255834;19476473;658408,http://en.wikipedia.org/wiki/Shanghai,Shanghai,shanghai,shanghai,GPE
+SHANGHAI,18769119,101,162,415815;16450146;5405;27643;1963462;4531418;23237,http://en.wikipedia.org/wiki/Geography_of_Shanghai,Geography of Shanghai,geography-of-shanghai,geography-of-shanghai,UNK
+SHANGHAI,30031499,11,18,261949;27643,http://en.wikipedia.org/wiki/Shanghai_School,Shanghai School,shanghai-school,shanghai-school,GPE
+SHANGHAI,504623,354,206,27643;33167689;504623;5751,http://en.wikipedia.org/wiki/Battle_of_Shanghai,Battle of Shanghai,battle-of-shanghai,battle-of-shanghai,UNK
+SHANGHAI,2422669,4,12,,http://en.wikipedia.org/wiki/(Why_Did_I_Tell_You_I_Was_Going_To)_Shanghai,(Why Did I Tell You I Was Going To) Shanghai,-why-did-i-tell-you-i-was-going-to-shanghai,-why-did-i-tell-you-i-was-going-to-shanghai,UNK
+SHANGHAI,18397029,58,70,,"http://en.wikipedia.org/wiki/Shanghai,_Virginia","Shanghai, Virginia",shanghai-virginia,shanghai-virginia,GPE
+SHANGHAI,37285010,3,23,266210;261949;27643,"http://en.wikipedia.org/wiki/Shanghai,_Shanghai","Shanghai, Shanghai",shanghai-shanghai,shanghai-shanghai,UNK
+SHANGHAI,5751279,1,2,,http://en.wikipedia.org/wiki/Shanghai_Airport,Shanghai Airport,shanghai-airport,shanghai-airport,UNK
+SHANGHAI,3670643,55,63,,"http://en.wikipedia.org/wiki/Shanghai,_West_Virginia","Shanghai, West Virginia",shanghai-west-virginia,shanghai-west-virginia,GPE
+SHANGHAI,30560827,35,50,,"http://en.wikipedia.org/wiki/Shanghai_City,_Illinois","Shanghai City, Illinois",shanghai-city-illinois,shanghai-city-illinois,GPE
+SHANGHAI,686244,71,284,5405;27643,http://en.wikipedia.org/wiki/Shanghaiing,Shanghaiing,shanghaiing,shanghaiing,UNK
+SHANGHAI,1623791,606,404,5405;1963462;27643;11312909;261949;266210;124485,http://en.wikipedia.org/wiki/Shanghai_Airlines,Shanghai Airlines,shanghai-airlines,shanghai-airlines,ORG
+SHANGHAI,919887,237,230,367843;5405;261949;266210;50821;6427329;27643;658408,http://en.wikipedia.org/wiki/Shanghai_University,Shanghai University,shanghai-university,shanghai-university,ORG
+SHANGHAI,27682110,65,169,16450146;152827;5405;27643,http://en.wikipedia.org/wiki/Shanghai_Tower_(Liverpool),Shanghai Tower,shanghai-tower,shanghai-tower-liverpool,UNK
+SHANGHAI,415815,210,45,18769119;24657;1963462;4531418;261949;266210;27643;4237048,http://en.wikipedia.org/wiki/Shanghai_Museum,Shanghai Museum,shanghai-museum,shanghai-museum,UNK
+SHANGHAI,27909,127,99,27909;261949;5751;266210;5405;24657;27643,http://en.wikipedia.org/wiki/Shanghai_cuisine,Shanghai cuisine,shanghai-cuisine,shanghai-cuisine,UNK
+SHANGHAI,1963462,631,736,4531418;415815;1623791;16450146;5405;27643;11312909;18769119;261949;266210,http://en.wikipedia.org/wiki/Shanghai_Maglev_Train,Shanghai Maglev Train,shanghai-maglev-train,shanghai-maglev-train,UNK
+SHANGHAI,4531418,353,298,5405;1963462;415815;27643;18769119;261949;16450146;266210,http://en.wikipedia.org/wiki/Shanghai_Stadium,Shanghai Stadium,shanghai-stadium,shanghai-stadium,UNK
+SHANGHAI,28141415,1,11,,http://en.wikipedia.org/wiki/Shanghai_(Santurce),Shanghai,shanghai,shanghai-santurce,UNK
+SHANGHAI,16450146,356,225,27682110;1963462;4531418;27643;18769119;261949,http://en.wikipedia.org/wiki/Shanghai_Tower,Shanghai Tower,shanghai-tower,shanghai-tower,UNK
+SHANGHAI,6427329,54,46,27643;919887;266210,http://en.wikipedia.org/wiki/University_of_Shanghai,University of Shanghai,university-of-shanghai,university-of-shanghai,UNK
+SHANGHAI,3145995,16,80,24657;277570;5751;266210;5405,http://en.wikipedia.org/wiki/Shanghai_Street,Shanghai Street,shanghai-street,shanghai-street,UNK
+China,5405,76886,1206,1963462;5405;5751;2259195;6966;32204074;1255834;415070;29031717;156154;2800359;266210;964617;19359;33167689;6108359;23237;24657;27909;27643;152827;153825;2149749;48999;52980;32919758;50821;686244;682573;19682699;919887;11312909;3733255;40710796;475046;1197992;332456;27682110;217487;3145995;1623791;601694;18769119;1231558;261949;367843;11641871;372983;4531418;124485;19476473,http://en.wikipedia.org/wiki/China,China,china,china,GPE
+China,36907282,1,7,,http://en.wikipedia.org/wiki/BBC_China,BBC China,bbc-china,bbc-china,UNK
+China,30809009,1,14,,http://en.wikipedia.org/wiki/China_(footballer_born_1964),China,china,china-footballer-born-1964,PER
+China,184224,201,253,33167689;261949;152827;5751;266210;27643;124485,http://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China,Flag of the Republic of China,flag-of-the-republic-of-china,flag-of-the-republic-of-china,UNK
+China,601694,143,45,261949;5751;266210;5405;24657;19682699;23237,http://en.wikipedia.org/wiki/Greater_China,Greater China,greater-china,greater-china,UNK
+China,3676975,33,38,,http://en.wikipedia.org/wiki/China_Kantner,China Kantner,china-kantner,china-kantner,PER
+China,32215636,132,153,,"http://en.wikipedia.org/wiki/China,_IL","China, IL",china-il,china-il,UNK
+China,11641871,21,20,5405,http://en.wikipedia.org/wiki/China_Team,China Team,china-team,china-team,ORG
+China,367843,339,506,5405;372983;919887;152827;27643;159669;153825;217487;367843;33167689;156154;261949;5751;23237,http://en.wikipedia.org/wiki/Religion_in_China,Religion in China,religion-in-china,religion-in-china,UNK
+China,40710796,6,16,5405;27643,http://en.wikipedia.org/wiki/China_Association,China Association,china-association,china-association,ORG
+China,6108359,52,54,5405,http://en.wikipedia.org/wiki/China_(Epcot),China,china,china-epcot,UNK
+China,332456,4,14,5405,http://en.wikipedia.org/wiki/China_Hotel,China Hotel,china-hotel,china-hotel,UNK
+China,124485,570,414,5405;11312909;1623791;184224;261949;266210;124485,http://en.wikipedia.org/wiki/China_Airlines,China Airlines,china-airlines,china-airlines,UNK
+China,23237,408,328,5405;152827;27643;153825;217487;367843;601694;18769119;33167689;50821,http://en.wikipedia.org/wiki/Geography_of_China,Geography of China,geography-of-china,geography-of-china,UNK
+China,689521,269,153,,http://en.wikipedia.org/wiki/China_Beach,China Beach,china-beach,china-beach,UNK
+China,33167689,655,414,153825;217487;156154;50821;5405;55668;27643;367843;184224;504623;261949;266210;23237,http://en.wikipedia.org/wiki/Republic_of_China_(1912–49),Republic of China,republic-of-china,republic-of-china-1912–49,GPE
+China,5865836,201,77,,http://en.wikipedia.org/wiki/Chin,Chin,chin,chin,UNK
+China,29668485,209,261,,http://en.wikipedia.org/wiki/China_(The_Office),China,china,china-the-office,UNK
+China,1231558,12,53,5405,http://en.wikipedia.org/wiki/China_Poblana,China Poblana,china-poblana,china-poblana,UNK
+China,1002769,48,20,,http://en.wikipedia.org/wiki/China_Records,China Records,china-records,china-records,UNK
+China,9041110,9,11,266210;27643,http://en.wikipedia.org/wiki/China_Club,China Club,china-club,china-club,UNK
+China,20500198,0,22,,http://en.wikipedia.org/wiki/China_(footballer_born_1980),China,china,china-footballer-born-1980,PER
+China,6421885,57,48,,"http://en.wikipedia.org/wiki/China,_Nuevo_León","China, Nuevo León",china-nuevo-leon,china-nuevo-leon,GPE
+China,29031717,42,83,5405,http://en.wikipedia.org/wiki/China_(Superleague_Formula_team),China,china,china-superleague-formula-team,UNK
+China,217487,320,734,153825;217487;33167689;156154;5405;152827;367843;23237,http://en.wikipedia.org/wiki/Human_rights_in_China,Human rights in China,human-rights-in-china,human-rights-in-china,ORG
+China,33089020,4,14,,http://en.wikipedia.org/wiki/On_China,On China,on-china,on-china,UNK
+China,3733255,99,95,5751;5405,http://en.wikipedia.org/wiki/China_Institute,China Institute,china-institute,china-institute,UNK
+China,32919758,2,19,5405,http://en.wikipedia.org/wiki/China_Information,China Information,china-information,china-information,ORG
+China,2259195,63,130,5751;5405,http://en.wikipedia.org/wiki/Recognition_of_same-sex_unions_in_China,Recognition of same-sex unions in China,recognition-of-same-sex-unions-in-china,recognition-of-same-sex-unions-in-china,GPE
+China,21265151,4,9,,http://en.wikipedia.org/wiki/China_Beach_(Canada),China Beach,china-beach,china-beach-canada,UNK
+Tianjin,50821,2741,669,33167689;52980;31859318;5405;919887;152827;11312909;24657;5751;277570;50821;23747846;19682699;1255834;27643;19359;23237;658408,http://en.wikipedia.org/wiki/Tianjin,Tianjin,tianjin,tianjin,GPE
+Tianjin,11312909,442,367,5405;1963462;1623791;266210;50821;124485,http://en.wikipedia.org/wiki/Tianjin_Airlines,Tianjin Airlines,tianjin-airlines,tianjin-airlines,ORG
+Tianjin,23747846,13,25,4237048;50821,http://en.wikipedia.org/wiki/Tianjin_Museum,Tianjin Museum,tianjin-museum,tianjin-museum,UNK
+Tianjin,31859318,3,8,50821,http://en.wikipedia.org/wiki/Tianjin_Grand_Bridge,Tianjin Grand Bridge,tianjin-grand-bridge,tianjin-grand-bridge,UNK
+Tianjin,658408,177,202,261949;919887;5751;266210;50821;27643;658408,http://en.wikipedia.org/wiki/Tianjin_University,Tianjin University,tianjin-university,tianjin-university,ORG
+Wen Hui Bao,10948329,12,13,27643;5751,http://en.wikipedia.org/wiki/Wen_Hui_Bao,Wen Hui Bao,wen-hui-bao,wen-hui-bao,UNK

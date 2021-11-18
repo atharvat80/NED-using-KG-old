@@ -1,0 +1,84 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Briton,19097669,5651,715,3736;4179;4721;30128;4208015;31717,http://en.wikipedia.org/wiki/British_people,British people,british-people,british-people,UNK
+Thailand,30128,32096,645,844;19097669;4721;3926261;2722553;16863931;2670504;30529;30130;30128;31717;12150640;20846094;48647;883010;20032238;56615;20925168;1110063;303449;63731;14590436,http://en.wikipedia.org/wiki/Thailand,Thailand,thailand,thailand,GPE
+Thailand,1110063,1800,460,20032238;56615;30128;16863931;48647;31717,http://en.wikipedia.org/wiki/Thailand_national_football_team,Thailand national football team,thailand-national-football-team,thailand-national-football-team,UNK
+Thailand,20925168,400,272,48647;30529;56615;30130;30128;20925168;2670504;14590436,http://en.wikipedia.org/wiki/Monarchy_of_Thailand,Monarchy of Thailand,monarchy-of-thailand,monarchy-of-thailand,GPE
+Thailand,30130,151,254,30130;30128;20925168;30529;56615;2670504,http://en.wikipedia.org/wiki/Geography_of_Thailand,Geography of Thailand,geography-of-thailand,geography-of-thailand,UNK
+BANGKOK,56615,7301,719,20032238;844;56615;20925168;16863931;20846094;1110063;3926261;303449;2670504;30130;30128;48647;883010;31717;3811347,http://en.wikipedia.org/wiki/Bangkok,Bangkok,bangkok,bangkok,GPE
+BANGKOK,3811347,15,18,56615;2670504,http://en.wikipedia.org/wiki/Bangkok_Opera,Bangkok Opera,bangkok-opera,bangkok-opera,UNK
+BANGKOK,3926261,166,231,30128;48647;56615,http://en.wikipedia.org/wiki/Bangkok_University,Bangkok University,bangkok-university,bangkok-university,ORG
+BANGKOK,16863931,84,88,30128;56615;2670504;48647;1110063,http://en.wikipedia.org/wiki/Bangkok_F.C.,Bangkok F.C.,bangkok-fc,bangkok-fc,GPE
+BANGKOK,20846094,42,61,30128;48647;56615,http://en.wikipedia.org/wiki/Bangkok_Elevated_Road_and_Train_System,Bangkok Elevated Road and Train System,bangkok-elevated-road-and-train-system,bangkok-elevated-road-and-train-system,UNK
+BANGKOK,7190798,0,2,,http://en.wikipedia.org/wiki/Bangkok_International_Airport,Bangkok International Airport,bangkok-international-airport,bangkok-international-airport,UNK
+BANGKOK,20032238,17,16,303449;56615;30128;1110063,http://en.wikipedia.org/wiki/Bangkok_Hospital,Bangkok Hospital,bangkok-hospital,bangkok-hospital,ORG
+Thai,30128,32096,645,844;19097669;4721;3926261;2722553;16863931;2670504;30529;30130;30128;31717;12150640;20846094;48647;883010;20032238;56615;20925168;1110063;303449;63731;14590436,http://en.wikipedia.org/wiki/Thailand,Thailand,thailand,thailand,GPE
+Thai,63731,858,479,30529;30128;38921956;48647,http://en.wikipedia.org/wiki/Thai_alphabet,Thai alphabet,thai-alphabet,thai-alphabet,UNK
+Thai,303449,439,442,48647;30529;20032238;56615;30128;28721,http://en.wikipedia.org/wiki/Thai_Airways,Thai Airways,thai-airways,thai-airways,ORG
+Thai,27125998,108,6,883010,"http://en.wikipedia.org/wiki/Thai_Town,_Sydney","Thai Town, Sydney",thai-town-sydney,thai-town-sydney,UNK
+Thai,2670504,1330,352,30529;56615;30130;30128;20925168;16863931;48647;31717;3811347,http://en.wikipedia.org/wiki/Thai_people,Thai people,thai-people,thai-people,UNK
+Thai,883010,137,382,48647;30529;56615;27125998;30128,"http://en.wikipedia.org/wiki/Thai_Town,_Los_Angeles","Thai Town, Los Angeles",thai-town-los-angeles,thai-town-los-angeles,UNK
+Thai,2722553,103,116,30128;48647;2722553,http://en.wikipedia.org/wiki/Thai_Wikipedia,Thai Wikipedia,thai-wikipedia,thai-wikipedia,UNK
+Thai,48647,6104,209,2722553;56615;20925168;16863931;20846094;1110063;3926261;303449;2670504;30529;30128;883010;63731;14590436,http://en.wikipedia.org/wiki/Thai_language,Thai language,thai-language,thai-language,UNK
+Thai,14590436,58,64,30128;48647;20925168,http://en.wikipedia.org/wiki/Thai_Sa,Thai Sa,thai-sa,thai-sa,PER
+Thai,30529,853,692,30529;30130;30128;20925168;303449;48647;883010;63731;2670504,http://en.wikipedia.org/wiki/Thai_cuisine,Thai cuisine,thai-cuisine,thai-cuisine,GPE
+Thai,38921956,7,4,63731,http://en.wikipedia.org/wiki/Thai_(Unicode_block),Thai,thai,thai-unicode-block,UNK
+Thai,12150640,0,112,30128,http://en.wikipedia.org/wiki/Thai_cat,Thai cat,thai-cat,thai-cat,UNK
+British,31717,184306,1536,844;3736;4179;4721;30128;31717;2528948;4208015;56615;1628568;3574003;9200791;1110063;1513051;2670504;19097669;201013;5188309;460615;259891;752921;21308184,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+British,22315902,2,16,,http://en.wikipedia.org/wiki/British_school,British school,british-school,british-school,ORG
+British,377070,55,22,3736,http://en.wikipedia.org/wiki/British_Islands,British Islands,british-islands,british-islands,UNK
+British,21308184,2,10,31717,"http://en.wikipedia.org/wiki/British_School,_Kuala_Lumpur","British School, Kuala Lumpur",british-school-kuala-lumpur,british-school-kuala-lumpur,ORG
+British,4721,7762,934,19097669;3574003;3736;4179;4721;30128;4208015;31717,http://en.wikipedia.org/wiki/British_Empire,British Empire,british-empire,british-empire,UNK
+British,5188309,390,398,31717;5188309,http://en.wikipedia.org/wiki/Energy_efficiency_in_British_housing,Energy efficiency in British housing,energy-efficiency-in-british-housing,energy-efficiency-in-british-housing,UNK
+British,460615,608,224,31717,http://en.wikipedia.org/wiki/British_undergraduate_degree_classification,British undergraduate degree classification,british-undergraduate-degree-classification,british-undergraduate-degree-classification,UNK
+British,12068557,33,45,3574003;12068557,http://en.wikipedia.org/wiki/British_India_(band),British India,british-india,british-india-band,UNK
+British,1513051,536,241,31717,http://en.wikipedia.org/wiki/British_Formula_Three_Championship,British Formula Three Championship,british-formula-three-championship,british-formula-three-championship,UNK
+British,19097669,5651,715,3736;4179;4721;30128;4208015;31717,http://en.wikipedia.org/wiki/British_people,British people,british-people,british-people,UNK
+British,2528948,87,128,1347221;844;31717,http://en.wikipedia.org/wiki/British_Airways_Flight_9,British Airways Flight 9,british-airways-flight-9,british-airways-flight-9,UNK
+British,752921,36,197,752921;31717,http://en.wikipedia.org/wiki/British_humour,British humour,british-humour,british-humour,UNK
+British,4179,1639,331,4179;4721;19097669;31717;3736,http://en.wikipedia.org/wiki/British_English,British English,british-english,british-english,UNK
+British,9200791,227,281,9200791;31717,http://en.wikipedia.org/wiki/British_Figure_Skating_Championships,British Figure Skating Championships,british-figure-skating-championships,british-figure-skating-championships,UNK
+British,1347221,57,98,2528948,http://en.wikipedia.org/wiki/British_Airways_Flight_5390,British Airways Flight 5390,british-airways-flight-5390,british-airways-flight-5390,UNK
+British,4208015,6322,788,19097669;3574003;4721;31717,http://en.wikipedia.org/wiki/British_Raj,British Raj,british-raj,british-raj,GPE
+British,3736,2695,375,4179;4721;377070;19097669;31717;3736,http://en.wikipedia.org/wiki/British_Isles,British Isles,british-isles,british-isles,UNK
+British,9467811,242,263,,http://en.wikipedia.org/wiki/British_baseball,British baseball,british-baseball,british-baseball,UNK
+British,13353120,113,130,,http://en.wikipedia.org/wiki/British_Band,British Band,british-band,british-band,UNK
+British,201013,43,50,31717,http://en.wikipedia.org/wiki/Lord_British,Lord British,lord-british,lord-british,UNK
+British,3574003,155,303,31717;4208015;4721;12068557,http://en.wikipedia.org/wiki/Presidencies_and_provinces_of_British_India,Presidencies and provinces of British India,presidencies-and-provinces-of-british-india,presidencies-and-provinces-of-british-india,GPE
+Amsterdam,844,14114,1231,844;1155120;2528948;8898153;546160;122518;1696565;259891;259890;56615;2442571;6107242;1628568;5087293;770443;30128;28721;31717;25904929,http://en.wikipedia.org/wiki/Amsterdam,Amsterdam,amsterdam,amsterdam,GPE
+Amsterdam,19252002,1,102,259891,http://en.wikipedia.org/wiki/Amsterdam_Castle,Amsterdam Castle,amsterdam-castle,amsterdam-castle,UNK
+Amsterdam,1155120,76,114,546160;844,http://en.wikipedia.org/wiki/Government_of_Amsterdam,Government of Amsterdam,government-of-amsterdam,government-of-amsterdam,UNK
+Amsterdam,6321728,25,120,6321728,http://en.wikipedia.org/wiki/Hamsterdam,Hamsterdam,hamsterdam,hamsterdam,UNK
+Amsterdam,122518,44,63,844,"http://en.wikipedia.org/wiki/Amsterdam,_Missouri","Amsterdam, Missouri",amsterdam-missouri,amsterdam-missouri,GPE
+Amsterdam,18744705,0,1,,"http://en.wikipedia.org/wiki/Amsterdam,_NY_µSA","Amsterdam, NY µSA",amsterdam-ny-µsa,amsterdam-ny-µsa,PER
+Amsterdam,207487,38,67,207401,http://en.wikipedia.org/wiki/USS_Amsterdam_(CL-101),USS Amsterdam,uss-amsterdam,uss-amsterdam-cl-101,UNK
+Amsterdam,10289494,1,1,,"http://en.wikipedia.org/wiki/Amsterdam,_NY_μSA","Amsterdam, NY μSA",amsterdam-ny-μsa,amsterdam-ny-μsa,PER
+Amsterdam,23186691,86,92,,"http://en.wikipedia.org/wiki/Amsterdam,_California","Amsterdam, California",amsterdam-california,amsterdam-california,GPE
+Amsterdam,25904929,0,13,844,http://en.wikipedia.org/wiki/Geography_of_Amsterdam,Geography of Amsterdam,geography-of-amsterdam,geography-of-amsterdam,UNK
+Amsterdam,1696565,51,30,546160;844,http://en.wikipedia.org/wiki/Amsterdam_School,Amsterdam School,amsterdam-school,amsterdam-school,UNK
+Amsterdam,18419993,59,72,,"http://en.wikipedia.org/wiki/Amsterdam,_Virginia","Amsterdam, Virginia",amsterdam-virginia,amsterdam-virginia,GPE
+Amsterdam,1248171,7,55,,"http://en.wikipedia.org/wiki/Amsterdam,_Saskatchewan","Amsterdam, Saskatchewan",amsterdam-saskatchewan,amsterdam-saskatchewan,GPE
+Amsterdam,770443,285,120,844,http://en.wikipedia.org/wiki/Île_Amsterdam,Île Amsterdam,ile-amsterdam,ile-amsterdam,GPE
+Amsterdam,259891,297,513,31717;844;259890;19252002,"http://en.wikipedia.org/wiki/Amsterdam_(city),_New_York","Amsterdam (city), New York",amsterdam-city-new-york,amsterdam-city-new-york,GPE
+Amsterdam,28721,718,556,17161483;303449;844,http://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol,Amsterdam Airport Schiphol,amsterdam-airport-schiphol,amsterdam-airport-schiphol,UNK
+Amsterdam,17161483,7,59,28721,http://en.wikipedia.org/wiki/Amsterdam_Airlines,Amsterdam Airlines,amsterdam-airlines,amsterdam-airlines,ORG
+Amsterdam,1455304,67,73,,"http://en.wikipedia.org/wiki/Amsterdam,_Mpumalanga","Amsterdam, Mpumalanga",amsterdam-mpumalanga,amsterdam-mpumalanga,GPE
+Amsterdam,8898153,135,40,844,http://en.wikipedia.org/wiki/FC_Amsterdam,FC Amsterdam,fc-amsterdam,fc-amsterdam,UNK
+Amsterdam,100000559,0,0,,http://en.wikipedia.org/wiki/Amsterdam_2002,Amsterdam 2002,amsterdam-2002,amsterdam-2002,UKN
+Amsterdam,2442571,25,37,844,http://en.wikipedia.org/wiki/MS_Amsterdam,MS Amsterdam,ms-amsterdam,ms-amsterdam,UNK
+Amsterdam,1628568,15,32,31717;844,http://en.wikipedia.org/wiki/Amsterdam_(band),Amsterdam,amsterdam,amsterdam-band,UNK
+Amsterdam,5087293,38,18,844,http://en.wikipedia.org/wiki/Amsterdam_Museum,Amsterdam Museum,amsterdam-museum,amsterdam-museum,UNK
+Amsterdam,546160,963,283,1155120;844;1696565,http://en.wikipedia.org/wiki/University_of_Amsterdam,University of Amsterdam,university-of-amsterdam,university-of-amsterdam,UNK
+Amsterdam,14936574,45,51,,"http://en.wikipedia.org/wiki/Amsterdam,_Texas","Amsterdam, Texas",amsterdam-texas,amsterdam-texas,ORG
+Amsterdam,207401,2,3,207487,http://en.wikipedia.org/wiki/USS_Amsterdam,USS Amsterdam,uss-amsterdam,uss-amsterdam,UNK
+Amsterdam,259890,212,287,844;259891,"http://en.wikipedia.org/wiki/Amsterdam_(town),_New_York","Amsterdam (town), New York",amsterdam-town-new-york,amsterdam-town-new-york,GPE
+Amsterdam,129457,58,147,,"http://en.wikipedia.org/wiki/Amsterdam,_Ohio","Amsterdam, Ohio",amsterdam-ohio,amsterdam-ohio,GPE
+Amsterdam,19523408,35,38,,"http://en.wikipedia.org/wiki/Amsterdam,_Montana","Amsterdam, Montana",amsterdam-montana,amsterdam-montana,GPE
+Amsterdam,6107242,20,27,844,"http://en.wikipedia.org/wiki/Amsterdam_Bridge,_Toronto","Amsterdam Bridge, Toronto",amsterdam-bridge-toronto,amsterdam-bridge-toronto,UNK
+Amsterdam,23108986,33,46,,"http://en.wikipedia.org/wiki/Amsterdam_Township,_Hancock_County,_Iowa","Amsterdam Township, Hancock County, Iowa",amsterdam-township-hancock-county-iowa,amsterdam-township-hancock-county-iowa,GPE
+Bangkok,56615,7301,719,20032238;844;56615;20925168;16863931;20846094;1110063;3926261;303449;2670504;30130;30128;48647;883010;31717;3811347,http://en.wikipedia.org/wiki/Bangkok,Bangkok,bangkok,bangkok,GPE
+Bangkok,3811347,15,18,56615;2670504,http://en.wikipedia.org/wiki/Bangkok_Opera,Bangkok Opera,bangkok-opera,bangkok-opera,UNK
+Bangkok,3926261,166,231,30128;48647;56615,http://en.wikipedia.org/wiki/Bangkok_University,Bangkok University,bangkok-university,bangkok-university,ORG
+Bangkok,16863931,84,88,30128;56615;2670504;48647;1110063,http://en.wikipedia.org/wiki/Bangkok_F.C.,Bangkok F.C.,bangkok-fc,bangkok-fc,GPE
+Bangkok,20846094,42,61,30128;48647;56615,http://en.wikipedia.org/wiki/Bangkok_Elevated_Road_and_Train_System,Bangkok Elevated Road and Train System,bangkok-elevated-road-and-train-system,bangkok-elevated-road-and-train-system,UNK
+Bangkok,7190798,0,2,,http://en.wikipedia.org/wiki/Bangkok_International_Airport,Bangkok International Airport,bangkok-international-airport,bangkok-international-airport,UNK
+Bangkok,20032238,17,16,303449;56615;30128;1110063,http://en.wikipedia.org/wiki/Bangkok_Hospital,Bangkok Hospital,bangkok-hospital,bangkok-hospital,ORG

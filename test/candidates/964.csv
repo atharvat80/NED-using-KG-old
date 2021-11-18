@@ -1,0 +1,83 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+HENKE,5730434,20,34,23546455;223854;5208246,http://en.wikipedia.org/wiki/Nolan_Henke,Nolan Henke,nolan-henke,nolan-henke,PER
+MILWAUKEE,53117,5272,1104,21168999;53117;9993503;1360494;25070359;33127;32659005;31788902;20152;27593811;5027856;1797995;1802662;1098649;9653148;3853261;425678;9653588;90952;1272811;4370635;27895817,http://en.wikipedia.org/wiki/Milwaukee,Milwaukee,milwaukee,milwaukee,GPE
+MILWAUKEE,29191086,33,9,,"http://en.wikipedia.org/wiki/Milwaukee,_WI_1996","Milwaukee, WI 1996",milwaukee-wi-1996,milwaukee-wi-1996,UNK
+MILWAUKEE,90952,686,254,33127;53117;5027856;1360494;1272811;90952,"http://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin","Milwaukee County, Wisconsin",milwaukee-county-wisconsin,milwaukee-county-wisconsin,GPE
+MILWAUKEE,9653588,246,200,9653148;33127;53117;31788902;5027856;1272811;20152;9993503,http://en.wikipedia.org/wiki/Sports_in_Milwaukee,Sports in Milwaukee,sports-in-milwaukee,sports-in-milwaukee,ORG
+MILWAUKEE,5027856,31,54,9653148;53117;9653588;90952;33127,"http://en.wikipedia.org/wiki/Milwaukee_(town),_Wisconsin","Milwaukee (town), Wisconsin",milwaukee-town-wisconsin,milwaukee-town-wisconsin,UNK
+MILWAUKEE,32659005,22,26,53117;1802662;33127,http://en.wikipedia.org/wiki/USS_Milwaukee_(LCS-5),USS Milwaukee,uss-milwaukee,uss-milwaukee-lcs-5,UNK
+MILWAUKEE,1360494,93,36,9653148;53117;21168999;33127;90952,http://en.wikipedia.org/wiki/Milwaukee_River,Milwaukee River,milwaukee-river,milwaukee-river,UNK
+MILWAUKEE,9993503,23,47,9653148;53117;9653588;425678,http://en.wikipedia.org/wiki/Milwaukee_Intermodal_Station,Milwaukee Intermodal Station,milwaukee-intermodal-station,milwaukee-intermodal-station,UNK
+MILWAUKEE,425678,842,358,33127;53117;9993503;425678,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee,_St._Paul_and_Pacific_Railroad","Chicago, Milwaukee, St. Paul and Pacific Railroad",chicago-milwaukee-st-paul-and-pacific-railroad,chicago-milwaukee-st-paul-and-pacific-railroad,UNK
+MILWAUKEE,1272811,1382,139,33127;53117;9653588;90952,http://en.wikipedia.org/wiki/Milwaukee_Journal_Sentinel,Milwaukee Journal Sentinel,milwaukee-journal-sentinel,milwaukee-journal-sentinel,UNK
+MILWAUKEE,2215458,19,10,2215458,http://en.wikipedia.org/wiki/Old_Milwaukee,Old Milwaukee,old-milwaukee,old-milwaukee,UNK
+MILWAUKEE,37587966,15,32,,"http://en.wikipedia.org/wiki/Milwaukee,_North_Carolina","Milwaukee, North Carolina",milwaukee-north-carolina,milwaukee-north-carolina,GPE
+MILWAUKEE,20152,3722,421,53117;33127;20152;9653588,http://en.wikipedia.org/wiki/Milwaukee_Brewers,Milwaukee Brewers,milwaukee-brewers,milwaukee-brewers,UNK
+MILWAUKEE,9653148,245,34,53117;31788902;5027856;1360494;9653588;9993503,http://en.wikipedia.org/wiki/Geography_of_Milwaukee,Geography of Milwaukee,geography-of-milwaukee,geography-of-milwaukee,UNK
+MILWAUKEE,1802662,8,13,32659005;1797995;3853261;1098649;53117;21168999;33127,http://en.wikipedia.org/wiki/USS_Milwaukee,USS Milwaukee,uss-milwaukee,uss-milwaukee,UNK
+MILWAUKEE,27593811,21,25,27895817;53117;33127,http://en.wikipedia.org/wiki/Milwaukee_Center,Milwaukee Center,milwaukee-center,milwaukee-center,UNK
+MILWAUKEE,1797995,19,39,53117;1802662;33127,http://en.wikipedia.org/wiki/USS_Milwaukee_(C-21),USS Milwaukee,uss-milwaukee,uss-milwaukee-c-21,UNK
+MILWAUKEE,1098649,84,102,53117;1802662,http://en.wikipedia.org/wiki/USS_Milwaukee_(CL-5),USS Milwaukee,uss-milwaukee,uss-milwaukee-cl-5,UNK
+MILWAUKEE,21168999,13,24,1360494;53117;1802662,http://en.wikipedia.org/wiki/USS_Milwaukee_(AOR-2),USS Milwaukee,uss-milwaukee,uss-milwaukee-aor-2,UNK
+MILWAUKEE,37588087,53,68,,"http://en.wikipedia.org/wiki/Milwaukee,_Pennsylvania","Milwaukee, Pennsylvania",milwaukee-pennsylvania,milwaukee-pennsylvania,GPE
+MILWAUKEE,34998695,4,9,,http://en.wikipedia.org/wiki/Milwaukee_Hospital,Milwaukee Hospital,milwaukee-hospital,milwaukee-hospital,UNK
+MILWAUKEE,25070359,25,43,53117;4370635;33127,http://en.wikipedia.org/wiki/Milwaukee_Theatre,Milwaukee Theatre,milwaukee-theatre,milwaukee-theatre,UNK
+MILWAUKEE,3853261,10,51,53117;1802662,http://en.wikipedia.org/wiki/USS_Milwaukee_(1864),USS Milwaukee,uss-milwaukee,uss-milwaukee-1864,UNK
+MILWAUKEE,17604837,1,10,,http://en.wikipedia.org/wiki/Milwaukee_Project,Milwaukee Project,milwaukee-project,milwaukee-project,UNK
+MILWAUKEE,31788902,234,245,9653148;53117;33127;9653588,http://en.wikipedia.org/wiki/Milwaukee_(Greenamyer),Milwaukee,milwaukee,milwaukee-greenamyer,UNK
+WOODS,43356,1534,780,2291741;1514634;43356;1510466;5208246;5215321;23546455;592392;6728093;2080225;1516564;349744;223854;3396339;1175904;2295891,http://en.wikipedia.org/wiki/Tiger_Woods,Tiger Woods,tiger-woods,tiger-woods,UNK
+WOODS,6728093,24,20,23546455;43356,http://en.wikipedia.org/wiki/Tiger_Woods_Foundation,Tiger Woods Foundation,tiger-woods-foundation,tiger-woods-foundation,UNK
+Wisconsin,33127,17871,909,25070359;33127;32659005;31788902;27593811;1802662;206552;425678;4370635;1360494;196691;53117;20152;9653588;266242;5027856;1797995;90952;1272811;27895817,http://en.wikipedia.org/wiki/Wisconsin,Wisconsin,wisconsin,wisconsin,UNK
+Wisconsin,14554044,8,9,,http://en.wikipedia.org/wiki/Wisconsin_model,Wisconsin model,wisconsin-model,wisconsin-model,UNK
+Wisconsin,192321,4,6,34889964;196691;206552,http://en.wikipedia.org/wiki/USS_Wisconsin,USS Wisconsin,uss-wisconsin,uss-wisconsin,UNK
+Wisconsin,266242,336,169,33127,http://en.wikipedia.org/wiki/Wisconsin_River,Wisconsin River,wisconsin-river,wisconsin-river,UNK
+Wisconsin,120393,29,57,,"http://en.wikipedia.org/wiki/Wisconsin_Township,_Jackson_County,_Minnesota","Wisconsin Township, Jackson County, Minnesota",wisconsin-township-jackson-county-minnesota,wisconsin-township-jackson-county-minnesota,GPE
+Wisconsin,206552,285,567,192321;33127,http://en.wikipedia.org/wiki/USS_Wisconsin_(BB-64),USS Wisconsin,uss-wisconsin,uss-wisconsin-bb-64,UNK
+Wisconsin,34889964,4,10,192321,http://en.wikipedia.org/wiki/Wisconsin_(shipwreck),Wisconsin,wisconsin,wisconsin-shipwreck,UNK
+Wisconsin,4370635,7,21,53117;25070359;33127,http://en.wikipedia.org/wiki/Wisconsin_Center,Wisconsin Center,wisconsin-center,wisconsin-center,UNK
+Wisconsin,6608218,1,16,,http://en.wikipedia.org/wiki/Wisconsin_school,Wisconsin school,wisconsin-school,wisconsin-school,UNK
+Wisconsin,196691,44,112,192321;33127,http://en.wikipedia.org/wiki/USS_Wisconsin_(BB-9),USS Wisconsin,uss-wisconsin,uss-wisconsin-bb-9,UNK
+Wisconsin,28912765,0,6,,http://en.wikipedia.org/wiki/Wisconsin_Islands,Wisconsin Islands,wisconsin-islands,wisconsin-islands,UNK
+Wisconsin,27895817,19,24,27593811;53117;33127,http://en.wikipedia.org/wiki/Wisconsin_Tower,Wisconsin Tower,wisconsin-tower,wisconsin-tower,UNK
+Wisconsin,32498121,6,3,,http://en.wikipedia.org/wiki/Wisconsin_(statue),Wisconsin,wisconsin,wisconsin-statue,ORG
+Nolan Henke,5730434,20,34,23546455;223854;5208246,http://en.wikipedia.org/wiki/Nolan_Henke,Nolan Henke,nolan-henke,nolan-henke,PER
+Greater Milwaukee Open,5215321,180,225,223854;43356;2080225;2295891;5221418;23546455;3396339;5208246;1516564,http://en.wikipedia.org/wiki/U.S._Bank_Championship_in_Milwaukee,U.S. Bank Championship in Milwaukee,us-bank-championship-in-milwaukee,us-bank-championship-in-milwaukee,UNK
+Tiger Woods,43356,1534,780,2291741;1514634;43356;1510466;5208246;5215321;23546455;592392;6728093;2080225;1516564;349744;223854;3396339;1175904;2295891,http://en.wikipedia.org/wiki/Tiger_Woods,Tiger Woods,tiger-woods,tiger-woods,UNK
+Tiger Woods,6728093,24,20,23546455;43356,http://en.wikipedia.org/wiki/Tiger_Woods_Foundation,Tiger Woods Foundation,tiger-woods-foundation,tiger-woods-foundation,UNK
+Henke,5730434,20,34,23546455;223854;5208246,http://en.wikipedia.org/wiki/Nolan_Henke,Nolan Henke,nolan-henke,nolan-henke,PER
+Bob Estes,5841428,68,36,2022409;223854;4978045;23546455;2295891;1516564,http://en.wikipedia.org/wiki/Bob_Estes,Bob Estes,bob-estes,bob-estes,PER
+Billy Andrade,2022409,62,40,592392;223854;5841428;23546455;2295891,http://en.wikipedia.org/wiki/Billy_Andrade,Billy Andrade,billy-andrade,billy-andrade,PER
+Duffy Waldorf,1781343,55,29,1514634;592392;223854;4978045;23546455;1516564,http://en.wikipedia.org/wiki/Duffy_Waldorf,Duffy Waldorf,duffy-waldorf,duffy-waldorf,PER
+Jesper Parnevik,1175904,121,96,1514634;592392;223854;4978045;23546455;43356;349744,http://en.wikipedia.org/wiki/Jesper_Parnevik,Jesper Parnevik,jesper-parnevik,jesper-parnevik,UNK
+Woods,43356,1534,780,2291741;1514634;43356;1510466;5208246;5215321;23546455;592392;6728093;2080225;1516564;349744;223854;3396339;1175904;2295891,http://en.wikipedia.org/wiki/Tiger_Woods,Tiger Woods,tiger-woods,tiger-woods,UNK
+Woods,6728093,24,20,23546455;43356,http://en.wikipedia.org/wiki/Tiger_Woods_Foundation,Tiger Woods Foundation,tiger-woods-foundation,tiger-woods-foundation,UNK
+U.S. Amateur Championship,1510466,184,217,1514634;592392;223854;43356;2080225;3396339,http://en.wikipedia.org/wiki/United_States_Amateur_Championship_(golf),United States Amateur Championship,united-states-amateur-championship,united-states-amateur-championship-golf,UNK
+Andrew Magee,5964779,38,38,5221418;223854;23546455,http://en.wikipedia.org/wiki/Andrew_Magee,Andrew Magee,andrew-magee,andrew-magee,PER
+PGA Tour,23546455,3349,554,5964779;1514634;43356;5841428;592392;6728093;349744;1781343;3396339;5730434;1175904;5221418;2022409;2110457;5208246;5215321;2080225;4978045;1516564;223854;2295891;1324913;5367378,http://en.wikipedia.org/wiki/PGA_Tour,PGA Tour,pga-tour,pga-tour,ORG
+PGA Tour,5367378,33,39,23546455;1324913,http://en.wikipedia.org/wiki/PGA_Tour_China,PGA Tour China,pga-tour-china,pga-tour-china,PER
+PGA Tour,2291741,18,61,43356,http://en.wikipedia.org/wiki/PGA_Tour_(series),PGA Tour,pga-tour,pga-tour-series,UNK
+PGA Tour,2110457,8,22,23546455,"http://en.wikipedia.org/wiki/PGA_Tour,_Inc._v._Martin","PGA Tour, Inc. v. Martin",pga-tour-inc-v-martin,pga-tour-inc-v-martin,UNK
+PGA Tour,1324913,99,99,223854;23546455;5367378,http://en.wikipedia.org/wiki/PGA_Tour_Canada,PGA Tour Canada,pga-tour-canada,pga-tour-canada,ORG
+BellSouth Classic,5208246,168,222,592392;223854;5730434;5215321;43356;5221418;23546455,http://en.wikipedia.org/wiki/AT&T_Classic,AT&T Classic,at-t-classic,at-t-classic,UNK
+Estes,5841428,68,36,2022409;223854;4978045;23546455;2295891;1516564,http://en.wikipedia.org/wiki/Bob_Estes,Bob Estes,bob-estes,bob-estes,PER
+Texas Open,4978045,182,195,223854;1175904;1781343;23546455;5841428,http://en.wikipedia.org/wiki/Valero_Texas_Open,Valero Texas Open,valero-texas-open,valero-texas-open,UNK
+Texas Open,42127872,26,50,,http://en.wikipedia.org/wiki/Texas_Open_(squash),Texas Open,texas-open,texas-open-squash,UNK
+Nortel Open,5221418,170,234,592392;223854;5964779;5215321;23546455;5208246,http://en.wikipedia.org/wiki/Chrysler_Classic_of_Tucson,Chrysler Classic of Tucson,chrysler-classic-of-tucson,chrysler-classic-of-tucson,UNK
+Billy Mayfair,2080225,162,133,1514634;592392;223854;23546455;5215321;43356;1510466,http://en.wikipedia.org/wiki/Billy_Mayfair,Billy Mayfair,billy-mayfair,billy-mayfair,PER
+World Series of Golf,1536678,10,33,,http://en.wikipedia.org/wiki/World_Series_of_Golf,World Series of Golf,world-series-of-golf,world-series-of-golf,UNK
+U.S. Open,223854,2609,485,5964779;1514634;43356;1510466;5208246;82726;5215321;23546455;5841428;592392;2080225;4978045;1516564;349744;1781343;3396339;5730434;1175904;2295891;5221418;1324913;2022409,http://en.wikipedia.org/wiki/U.S._Open_(golf),U.S. Open,us-open,us-open-golf,UNK
+U.S. Open,10999302,69,83,82726,http://en.wikipedia.org/wiki/U.S._Open_Badminton_Championships,U.S. Open Badminton Championships,us-open-badminton-championships,us-open-badminton-championships,ORG
+U.S. Open,82729,3836,304,82726,http://en.wikipedia.org/wiki/US_Open_(tennis),US Open,us-open,us-open-tennis,UNK
+U.S. Open,13568864,33,36,82726,http://en.wikipedia.org/wiki/U.S._Open_(swimming),U.S. Open,us-open,us-open-swimming,UNK
+U.S. Open,7399665,92,38,82726,http://en.wikipedia.org/wiki/U.S._Open_(bowling),U.S. Open,us-open,us-open-bowling,PER
+U.S. Open,7294077,7,16,,http://en.wikipedia.org/wiki/U.S._Open_Cycling_Championships,U.S. Open Cycling Championships,us-open-cycling-championships,us-open-cycling-championships,UNK
+U.S. Open,82726,7,18,82729;10999302;8844691;7399665;223854;13568864,http://en.wikipedia.org/wiki/U.S._Open,U.S. Open,us-open,us-open,UNK
+U.S. Open,8844691,122,41,82726,http://en.wikipedia.org/wiki/US_Open_(darts),US Open,us-open,us-open-darts,PER
+Payne Stewart,349744,496,476,592392;1175904;2295891;1516564;1514634;223854;43356;23546455;3396339,http://en.wikipedia.org/wiki/Payne_Stewart,Payne Stewart,payne-stewart,payne-stewart,UNK
+Scott Hoch,3396339,147,112,1514634;592392;223854;23546455;1516564;5215321;43356;349744;2295891;1510466,http://en.wikipedia.org/wiki/Scott_Hoch,Scott Hoch,scott-hoch,scott-hoch,PER
+Phil Mickelson,592392,717,543,2080225;1516564;349744;1514634;223854;43356;1781343;3396339;1510466;1175904;2295891;5221418;5208246;2022409;23546455,http://en.wikipedia.org/wiki/Phil_Mickelson,Phil Mickelson,phil-mickelson,phil-mickelson,UNK
+Mark Brooks,2295891,155,126,1514634;592392;223854;1583479;23546455;3396339;1516564;2022409;5215321;43356;349744;5841428,http://en.wikipedia.org/wiki/Mark_Brooks_(golfer),Mark Brooks,mark-brooks,mark-brooks-golfer,PER
+Mark Brooks,1583479,1,3,17071960;2295891,http://en.wikipedia.org/wiki/Mark_Brooks,Mark Brooks,mark-brooks,mark-brooks,PER
+Mark Brooks,17071960,29,57,1583479,http://en.wikipedia.org/wiki/Mark_Brooks_(director),Mark Brooks,mark-brooks,mark-brooks-director,UNK
+Tom Lehman,1516564,371,276,592392;2295891;349744;1514634;223854;5215321;43356;1781343;23546455;3396339;5841428,http://en.wikipedia.org/wiki/Tom_Lehman,Tom Lehman,tom-lehman,tom-lehman,UNK
+Mark O'Meara,1514634,0,339,592392;223854;43356;1175904;2080225;2295891;1781343;23546455;3396339;1516564;349744;1510466,http://en.wikipedia.org/wiki/Mark_O'Meara,Mark O'Meara,mark-omeara,mark-omeara,UNK

@@ -1,0 +1,55 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Bangladesh,3454,16062,683,18739257;623439;3454;4198908;4233263;519163;68921;28473733;1951662;10137679;15269266;2247892;12690719;759341;404861;20579666;25360214;403946;6227599;2446140;21378419;21378472;56656;12804134;3528591;7232899;2669680;10044913;393763;40192159;32819303;672766;309760,http://en.wikipedia.org/wiki/Bangladesh,Bangladesh,bangladesh,bangladesh,GPE
+Bangladesh,68921,219,283,3528591;7232899;56656;21378419;21378472;3454;68921;672766,http://en.wikipedia.org/wiki/Geography_of_Bangladesh,Geography of Bangladesh,geography-of-bangladesh,geography-of-bangladesh,UNK
+Bangladesh,20579666,4,12,56656;3454;21378419,http://en.wikipedia.org/wiki/Taj_Mahal_Bangladesh,Taj Mahal Bangladesh,taj-mahal-bangladesh,taj-mahal-bangladesh,UNK
+Bangladesh,309760,241,43,393763;2247892;623439;56656;21378419;404861;1951662;3454,http://en.wikipedia.org/wiki/Bangladesh_Nationalist_Party,Bangladesh Nationalist Party,bangladesh-nationalist-party,bangladesh-nationalist-party,UNK
+Bangladesh,18739257,76,99,3454,http://en.wikipedia.org/wiki/Bangladesh_(record_producer),Bangladesh,bangladesh,bangladesh-record-producer,UNK
+Bangladesh,42719999,1,6,42719999,http://en.wikipedia.org/wiki/Little_Bangladesh,Little Bangladesh,little-bangladesh,little-bangladesh,ORG
+Bangladesh,12690719,61,76,56656;3454;12690719;21378419,http://en.wikipedia.org/wiki/Bangladesh_University,Bangladesh University,bangladesh-university,bangladesh-university,ORG
+Bangladesh,759341,901,379,623439;56656;3454;21378419,http://en.wikipedia.org/wiki/Bangladesh_national_cricket_team,Bangladesh national cricket team,bangladesh-national-cricket-team,bangladesh-national-cricket-team,UNK
+Bangladesh,1951662,94,278,393763;4198908;309760;4233263;623439;10137679;56656;21378419;404861;3454;672766,http://en.wikipedia.org/wiki/Hinduism_in_Bangladesh,Hinduism in Bangladesh,hinduism-in-bangladesh,hinduism-in-bangladesh,UNK
+Bangladesh,672766,1926,632,28473733;56656;1951662;3528591;404861;32819303;4198908;4233263;6227599;3454;2446140;21378419;21378472;68921,http://en.wikipedia.org/wiki/Bangladesh_Liberation_War,Bangladesh Liberation War,bangladesh-liberation-war,bangladesh-liberation-war,UNK
+Bangladesh,28473733,126,268,4198908;623439;21378419;3454;672766,http://en.wikipedia.org/wiki/Greater_Bangladesh,Greater Bangladesh,greater-bangladesh,greater-bangladesh,UNK
+Bangladesh,3528591,181,250,3528591;7232899;2247892;2446140;56656;21378419;21378472;3454;68921;672766;32819303,http://en.wikipedia.org/wiki/Bangladesh_Railway,Bangladesh Railway,bangladesh-railway,bangladesh-railway,UNK
+DHAKA,56656,3658,560,1951662;3528591;7232899;404861;20579666;25360214;2669680;10137679;403946;623439;10044913;6227599;3454;15269266;393763;2247892;21378419;21378472;12690719;56656;672766;32819303;4198908;9184959;4233263;309760;759341;519163;12804134;68921,http://en.wikipedia.org/wiki/Dhaka,Dhaka,dhaka,dhaka,GPE
+DHAKA,2669680,126,85,56656;3454,http://en.wikipedia.org/wiki/Dhaka_College,Dhaka College,dhaka-college,dhaka-college,ORG
+DHAKA,403946,547,89,4233263;56656;3454;2247892;2446140;21378419;32819303,http://en.wikipedia.org/wiki/Dhaka_Division,Dhaka Division,dhaka-division,dhaka-division,UNK
+DHAKA,32819303,600,263,623439;56656;3454;3528591;7232899;403946;21378419;404861;672766;32819303,http://en.wikipedia.org/wiki/University_of_Dhaka,University of Dhaka,university-of-dhaka,university-of-dhaka,ORG
+DHAKA,15269266,2,5,56656;3454,http://en.wikipedia.org/wiki/Dhaka_Regency,Dhaka Regency,dhaka-regency,dhaka-regency,UNK
+DHAKA,10044913,37,16,56656;3454,"http://en.wikipedia.org/wiki/Dhaka,_East_Champaran","Dhaka, East Champaran",dhaka-east-champaran,dhaka-east-champaran,UNK
+DHAKA,10137679,12,10,25360214;56656;3454;1951662,http://en.wikipedia.org/wiki/Dhaka_Club,Dhaka Club,dhaka-club,dhaka-club,UNK
+DHAKA,5647189,208,247,,http://en.wikipedia.org/wiki/Dhaka_clan,Dhaka clan,dhaka-clan,dhaka-clan,UNK
+DHAKA,9184959,2,10,56656,http://en.wikipedia.org/wiki/Dhaka_(village),Dhaka,dhaka,dhaka-village,UNK
+DHAKA,25360214,29,32,10137679;56656;3454,http://en.wikipedia.org/wiki/Old_Dhaka,Old Dhaka,old-dhaka,old-dhaka,UNK
+DHAKA,4233263,271,169,2247892;4198908;2446140;56656;403946;21378419;1951662;3454;672766,http://en.wikipedia.org/wiki/Dhaka_District,Dhaka District,dhaka-district,dhaka-district,UNK
+Bengali,3454,16062,683,18739257;623439;3454;4198908;4233263;519163;68921;28473733;1951662;10137679;15269266;2247892;12690719;759341;404861;20579666;25360214;403946;6227599;2446140;21378419;21378472;56656;12804134;3528591;7232899;2669680;10044913;393763;40192159;32819303;672766;309760,http://en.wikipedia.org/wiki/Bangladesh,Bangladesh,bangladesh,bangladesh,GPE
+Bengali,8375902,100,102,21378419,http://en.wikipedia.org/wiki/Bengali_Wikipedia,Bengali Wikipedia,bengali-wikipedia,bengali-wikipedia,UNK
+Bengali,21378472,503,379,4198908;56656;6227599;3454;3528591;7232899;519163;21378419;68921;672766,http://en.wikipedia.org/wiki/Bengali_alphabet,Bengali alphabet,bengali-alphabet,bengali-alphabet,UNK
+Bengali,38921378,11,13,,http://en.wikipedia.org/wiki/Bengali_(Unicode_block),Bengali,bengali,bengali-unicode-block,UNK
+Bengali,4198908,1824,227,28473733;56656;1951662;7232899;404861;672766;4233263;519163;6227599;3454;21378419;21378472,http://en.wikipedia.org/wiki/Bengali_people,Bengali people,bengali-people,bengali-people,UNK
+Bengali,519163,607,582,56656;7232899;519163;4198908;6227599;3454;21378419;21378472,http://en.wikipedia.org/wiki/Bengali_cuisine,Bengali cuisine,bengali-cuisine,bengali-cuisine,UNK
+Bengali,36352726,3,10,,http://en.wikipedia.org/wiki/Bengali_Market,Bengali Market,bengali-market,bengali-market,UNK
+Bengali,21378419,8486,401,404861;20579666;403946;623439;8375902;6227599;3454;2446140;21378472;56656;4198908;4233263;519163;12804134;68921;28473733;1951662;3528591;7232899;393763;2247892;12690719;672766;32819303;309760;759341,http://en.wikipedia.org/wiki/Bengali_language,Bengali language,bengali-language,bengali-language,UNK
+Bengali,6227599,27,152,56656;6227599;21378419;21378472;4198908;3454;672766;519163,http://en.wikipedia.org/wiki/Bengali_novels,Bengali novels,bengali-novels,bengali-novels,UNK
+Bengali,7232899,423,242,3528591;7232899;4198908;519163;56656;21378419;21378472;3454;68921;32819303,http://en.wikipedia.org/wiki/Bengali_theatre,Bengali theatre,bengali-theatre,bengali-theatre,UNK
+Choudhury,12804134,76,24,56656;3454;21378419,http://en.wikipedia.org/wiki/Humayun_Rashid_Choudhury,Humayun Rashid Choudhury,humayun-rashid-choudhury,humayun-rashid-choudhury,PER
+Awami League,404861,197,133,393763;4198908;309760;623439;56656;21378419;404861;1951662;3454;672766;32819303,http://en.wikipedia.org/wiki/Bangladesh_Awami_League,Bangladesh Awami League,bangladesh-awami-league,bangladesh-awami-league,UNK
+Hasina,623439,304,116,28473733;393763;309760;759341;56656;21378419;404861;1951662;3454;32819303,http://en.wikipedia.org/wiki/Sheikh_Hasina,Sheikh Hasina,sheikh-hasina,sheikh-hasina,PER
+Hasina,37211476,10,2,,http://en.wikipedia.org/wiki/Hasina_(Madagascar),Hasina,hasina,hasina-madagascar,UNK
+Begum Khaleda Zia,393763,154,101,309760;623439;56656;21378419;404861;1951662;3454,http://en.wikipedia.org/wiki/Khaleda_Zia,Khaleda Zia,khaleda-zia,khaleda-zia,PER
+Bangladesh Nationalist Party,309760,241,43,393763;2247892;623439;56656;21378419;404861;1951662;3454,http://en.wikipedia.org/wiki/Bangladesh_Nationalist_Party,Bangladesh Nationalist Party,bangladesh-nationalist-party,bangladesh-nationalist-party,UNK
+BNP,309760,241,43,393763;2247892;623439;56656;21378419;404861;1951662;3454,http://en.wikipedia.org/wiki/Bangladesh_Nationalist_Party,Bangladesh Nationalist Party,bangladesh-nationalist-party,bangladesh-nationalist-party,UNK
+Bogra,2247892,182,134,3528591;309760;4233263;40192159;2446140;56656;403946;21378419;3454,http://en.wikipedia.org/wiki/Bogra,Bogra,bogra,bogra,UNK
+Bogra,40192159,0,113,2247892;3454,http://en.wikipedia.org/wiki/Bogra_Airport,Bogra Airport,bogra-airport,bogra-airport,UNK
+Bogra,2446140,223,162,3528591;2247892;4233263;403946;21378419;3454;672766,http://en.wikipedia.org/wiki/Bogra_District,Bogra District,bogra-district,bogra-district,UNK
+Dhaka,56656,3658,560,1951662;3528591;7232899;404861;20579666;25360214;2669680;10137679;403946;623439;10044913;6227599;3454;15269266;393763;2247892;21378419;21378472;12690719;56656;672766;32819303;4198908;9184959;4233263;309760;759341;519163;12804134;68921,http://en.wikipedia.org/wiki/Dhaka,Dhaka,dhaka,dhaka,GPE
+Dhaka,2669680,126,85,56656;3454,http://en.wikipedia.org/wiki/Dhaka_College,Dhaka College,dhaka-college,dhaka-college,ORG
+Dhaka,403946,547,89,4233263;56656;3454;2247892;2446140;21378419;32819303,http://en.wikipedia.org/wiki/Dhaka_Division,Dhaka Division,dhaka-division,dhaka-division,UNK
+Dhaka,32819303,600,263,623439;56656;3454;3528591;7232899;403946;21378419;404861;672766;32819303,http://en.wikipedia.org/wiki/University_of_Dhaka,University of Dhaka,university-of-dhaka,university-of-dhaka,ORG
+Dhaka,15269266,2,5,56656;3454,http://en.wikipedia.org/wiki/Dhaka_Regency,Dhaka Regency,dhaka-regency,dhaka-regency,UNK
+Dhaka,10044913,37,16,56656;3454,"http://en.wikipedia.org/wiki/Dhaka,_East_Champaran","Dhaka, East Champaran",dhaka-east-champaran,dhaka-east-champaran,UNK
+Dhaka,10137679,12,10,25360214;56656;3454;1951662,http://en.wikipedia.org/wiki/Dhaka_Club,Dhaka Club,dhaka-club,dhaka-club,UNK
+Dhaka,5647189,208,247,,http://en.wikipedia.org/wiki/Dhaka_clan,Dhaka clan,dhaka-clan,dhaka-clan,UNK
+Dhaka,9184959,2,10,56656,http://en.wikipedia.org/wiki/Dhaka_(village),Dhaka,dhaka,dhaka-village,UNK
+Dhaka,25360214,29,32,10137679;56656;3454,http://en.wikipedia.org/wiki/Old_Dhaka,Old Dhaka,old-dhaka,old-dhaka,UNK
+Dhaka,4233263,271,169,2247892;4198908;2446140;56656;403946;21378419;1951662;3454;672766,http://en.wikipedia.org/wiki/Dhaka_District,Dhaka District,dhaka-district,dhaka-district,UNK

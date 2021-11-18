@@ -1,0 +1,486 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+RUGBY UNION,25405,17190,543,69894;5564304;9952886;36741;19097669;4007789;13744592;3736;629563;486954;5882;1463014;872917;3543483;2593827;321027;6474240;9316;16235747;41523;3019555;637047;353770;168007;353261;17867;642484;963556;963537;362329;9467811;2795095;1359751;3283715;1204424;25405;218205;2697758;4692085;771803;771734;1901715;338052;338169;65370;339588;153992;31717,http://en.wikipedia.org/wiki/Rugby_union,Rugby union,rugby-union,rugby-union,UNK
+RUGBY UNION,4692085,441,252,771734;25405;18334982;4692085,http://en.wikipedia.org/wiki/Rugby_union_in_the_United_States,Rugby union in the United States,rugby-union-in-the-united-states,rugby-union-in-the-united-states,UNK
+RUGBY UNION,771803,2214,126,321027;25405;1359751,http://en.wikipedia.org/wiki/Rugby_union_positions,Rugby union positions,rugby-union-positions,rugby-union-positions,UNK
+RUGBY UNION,18334982,234,45,4692085,http://en.wikipedia.org/wiki/Florida_Rugby_Union,Florida Rugby Union,florida-rugby-union,florida-rugby-union,UNK
+RUGBY UNION,771734,523,252,771734;25405;4692085,http://en.wikipedia.org/wiki/Rugby_union_at_the_Summer_Olympics,Rugby union at the Summer Olympics,rugby-union-at-the-summer-olympics,rugby-union-at-the-summer-olympics,UNK
+LONDON,17867,92094,1769,3736;2923985;4179;33567266;4721;27902154;5882;423106;9316;12249;30863319;1679120;823473;17867;963556;13190957;25405;26994;31717;5606257;36741;318427;43980;41523;1290035;46394;4771063;187448;3879356;20791979;69894;2023355;629563;486954;42358915;353261;5188309;338052;26547793;5435713;730219;22437586;1982864;98370;238524;1971947;118409;1113158;23979191;370200,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,12249,3253,543,2193334;17867;69894;9316;36741;640154;3736;26994;118409;1113158;4721;1679120;98370;31717;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,508567,484,369,823473;187448;1145218,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,238524,118,60,17867;9316;4721,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,823473,354,150,187448;17867;508567;1145218;9316,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,1113158,173,161,2193334;9316;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,118409,547,127,17867;12249;9316,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,2023355,27,32,17867;98370;9316,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,187448,1900,216,823473;17867;508567;4721;36741;640154;31717;1145218;26994,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,1290035,16,9,26994;17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,2193334,214,159,9316;9523511;1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,27648871,110,284,95636;18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,326248,1048,124,31717,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,13190957,2,122,17867;31717,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,1679120,12,181,17867;43980;41523;98370;36741;12249;31717,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,7984054,3,37,31717,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+British,31717,184306,1536,1890;3736;4179;4721;5882;290509;9316;12249;1679120;14996;17867;826549;13190957;25405;26994;31717;5606257;311455;36741;1163060;33545;1649682;318040;318427;43980;41523;23067458;2528948;4208015;326248;46394;8372580;1423213;7818732;65370;6132932;69894;351029;72982;1342295;18803164;35879491;637047;353261;338052;338169;4320562;3090523;3574003;1095036;9200791;365307;18974570;362329;1359751;8318332;5964659;699624;23501645;2661066;963556;1513051;147606;5988769;3495317;153992;8239941;22651056;7984054;4601608;1306659;187448;34850722;19097669;42358915;201013;2030193;1470580;5188309;13022173;460615;21317850;19625639;5653004;3441281;1971947;752921;8569916;1979836;21308184;29043773,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+British,4208015,6322,788,19097669;3574003;4721;18803164;31717,http://en.wikipedia.org/wiki/British_Raj,British Raj,british-raj,british-raj,GPE
+British,9467811,242,263,338052;69894;1359751;9316;113661;5882;25405,http://en.wikipedia.org/wiki/British_baseball,British baseball,british-baseball,british-baseball,UNK
+British,460615,608,224,338169;153992;31717;318040,http://en.wikipedia.org/wiki/British_undergraduate_degree_classification,British undergraduate degree classification,british-undergraduate-degree-classification,british-undergraduate-degree-classification,UNK
+British,22315902,2,16,,http://en.wikipedia.org/wiki/British_school,British school,british-school,british-school,ORG
+British,4721,7762,934,730219;17867;69894;36741;1890;19097669;3574003;3736;4179;4721;699624;238524;318427;8569916;9316;18803164;12249;26994;4208015;232571;4320562;187448;14996;31717;34850722,http://en.wikipedia.org/wiki/British_Empire,British Empire,british-empire,british-empire,UNK
+British,21308184,2,10,31717,"http://en.wikipedia.org/wiki/British_School,_Kuala_Lumpur","British School, Kuala Lumpur",british-school-kuala-lumpur,british-school-kuala-lumpur,ORG
+British,12068557,33,45,3574003;12068557,http://en.wikipedia.org/wiki/British_India_(band),British India,british-india,british-india-band,UNK
+British,1513051,536,241,31717,http://en.wikipedia.org/wiki/British_Formula_Three_Championship,British Formula Three Championship,british-formula-three-championship,british-formula-three-championship,UNK
+British,19097669,5651,715,69894;33545;3736;4179;4721;40797315;22667;8569916;25405;9316;2030193;18803164;26994;4208015;31717;34850722,http://en.wikipedia.org/wiki/British_people,British people,british-people,british-people,UNK
+British,752921,36,197,752921;31717;8569916,http://en.wikipedia.org/wiki/British_humour,British humour,british-humour,british-humour,UNK
+British,377070,55,22,26994;3736,http://en.wikipedia.org/wiki/British_Islands,British Islands,british-islands,british-islands,UNK
+British,9200791,227,281,9200791;31717,http://en.wikipedia.org/wiki/British_Figure_Skating_Championships,British Figure Skating Championships,british-figure-skating-championships,british-figure-skating-championships,UNK
+British,2528948,87,128,1347221;31717,http://en.wikipedia.org/wiki/British_Airways_Flight_9,British Airways Flight 9,british-airways-flight-9,british-airways-flight-9,UNK
+British,4179,1639,331,17867;4179;69894;4721;8569916;9316;1890;14996;33545;19097669;328159;31717;1626272;22667;428952;3736;26994;318427,http://en.wikipedia.org/wiki/British_English,British English,british-english,british-english,UNK
+British,5188309,390,398,43980;31717;17867;5188309;26994,http://en.wikipedia.org/wiki/Energy_efficiency_in_British_housing,Energy efficiency in British housing,energy-efficiency-in-british-housing,energy-efficiency-in-british-housing,UNK
+British,1347221,57,98,9316;2528948,http://en.wikipedia.org/wiki/British_Airways_Flight_5390,British Airways Flight 5390,british-airways-flight-5390,british-airways-flight-5390,UNK
+British,13353120,113,130,,http://en.wikipedia.org/wiki/British_Band,British Band,british-band,british-band,UNK
+British,201013,43,50,31717,http://en.wikipedia.org/wiki/Lord_British,Lord British,lord-british,lord-british,UNK
+British,3574003,155,303,31717;4208015;4721;12068557,http://en.wikipedia.org/wiki/Presidencies_and_provinces_of_British_India,Presidencies and provinces of British India,presidencies-and-provinces-of-british-india,presidencies-and-provinces-of-british-india,GPE
+British,3736,2695,375,290509;17867;4179;69894;4721;8569916;25405;9316;377070;2030193;33545;18803164;19097669;31717;12249;3736;34850722;26994,http://en.wikipedia.org/wiki/British_Isles,British Isles,british-isles,british-isles,UNK
+Pilkington Cup,642484,1083,238,2593827;2697758;629563;41523;11169920;321027;1463014;69894;642484;1204424;2795095;1359751;13744592;5564304;963556;963537;6474240;25405;9952886;9952855;872781;486954;9316;872917;1901715,http://en.wikipedia.org/wiki/Anglo-Welsh_Cup,Anglo-Welsh Cup,anglo-welsh-cup,anglo-welsh-cup,ORG
+Reading,1901715,61,171,69894;43980;642484;9316;26994;25405,http://en.wikipedia.org/wiki/Reading_R.F.C.,Reading R.F.C.,reading-rfc,reading-rfc,UNK
+Reading,4675015,91,106,43980;9316;25803577;4675101,http://en.wikipedia.org/wiki/Reading_services,Reading services,reading-services,reading-services,GPE
+Reading,2781207,60,189,9316;131393;973087,http://en.wikipedia.org/wiki/Reading_Regional_Airport,Reading Regional Airport,reading-regional-airport,reading-regional-airport,UNK
+Reading,64116,227,277,43980;9074293;2429882;72982;26994;14676677;370200,http://en.wikipedia.org/wiki/Reading_Abbey,Reading Abbey,reading-abbey,reading-abbey,UNK
+Reading,131393,2018,788,43980;2781207;131393;3299260;125078;9316;42221978;93444;973087;31711017;30362316,"http://en.wikipedia.org/wiki/Reading,_Pennsylvania","Reading, Pennsylvania",reading-pennsylvania,reading-pennsylvania,GPE
+Reading,257284,1171,482,116731;43980;257284;9316;116744;248962,"http://en.wikipedia.org/wiki/Reading,_Massachusetts","Reading, Massachusetts",reading-massachusetts,reading-massachusetts,GPE
+Reading,25657145,24,33,,http://en.wikipedia.org/wiki/The_Reading_(Manet_painting),The Reading,the-reading,the-reading-manet-painting,UNK
+Reading,28099624,11,28,,http://en.wikipedia.org/wiki/Reading_Light,Reading Light,reading-light,reading-light,UNK
+Reading,945694,3,38,,http://en.wikipedia.org/wiki/Reading_(computer),Reading,reading,reading-computer,UNK
+Reading,1267577,10,9,9316;43980,http://en.wikipedia.org/wiki/Reading_Bridge,Reading Bridge,reading-bridge,reading-bridge,UNK
+Reading,18903116,0,8,9782160,http://en.wikipedia.org/wiki/Reading_Township,Reading Township,reading-township,reading-township,GPE
+Reading,3299260,106,154,3050777;131393;23151453;3860216,http://en.wikipedia.org/wiki/USS_Reading_(PF-66),USS Reading,uss-reading,uss-reading-pf-66,UNK
+Reading,18581264,329,246,1639193;18581264,http://en.wikipedia.org/wiki/Reading_(process),Reading,reading,reading-process,UNK
+Reading,1639193,84,76,1639193;18581264,http://en.wikipedia.org/wiki/Reading_comprehension,Reading comprehension,reading-comprehension,reading-comprehension,UNK
+Reading,8180960,2,12,973087,http://en.wikipedia.org/wiki/Reading_Division,Reading Division,reading-division,reading-division,UNK
+Reading,370200,206,222,64116;43980;9316;17867;18974570,http://en.wikipedia.org/wiki/Reading_School,Reading School,reading-school,reading-school,UNK
+Reading,2429882,38,56,64116;43980;9316,http://en.wikipedia.org/wiki/HM_Prison_Reading,HM Prison Reading,hm-prison-reading,hm-prison-reading,UNK
+Reading,28498555,94,92,43980;9316,http://en.wikipedia.org/wiki/Reading_College,Reading College,reading-college,reading-college,UNK
+Reading,25934100,44,67,,"http://en.wikipedia.org/wiki/Reading,_Minnesota","Reading, Minnesota",reading-minnesota,reading-minnesota,GPE
+Reading,31711017,3,4,131393,http://en.wikipedia.org/wiki/Reading_(United_States_Baseball_League),Reading,reading,reading-united-states-baseball-league,PER
+Reading,43980,2982,698,43980;17867;5188309;131393;1267577;36741;28498555;4675015;2429882;1901715;2438251;64116;257284;1679120;486954;370200;168007;31717;22667,"http://en.wikipedia.org/wiki/Reading,_Berkshire","Reading, Berkshire",reading-berkshire,reading-berkshire,GPE
+Reading,973087,545,498,131393;2781207;8180960,http://en.wikipedia.org/wiki/Reading_Company,Reading Company,reading-company,reading-company,UNK
+Reading,9782160,56,315,18903116;12932484,"http://en.wikipedia.org/wiki/Reading_Township,_Livingston_County,_Illinois","Reading Township, Livingston County, Illinois",reading-township-livingston-county-illinois,reading-township-livingston-county-illinois,UNK
+Reading,3214129,6,26,,"http://en.wikipedia.org/wiki/Reading,_Writing_and_Arithmetic","Reading, Writing and Arithmetic",reading-writing-and-arithmetic,reading-writing-and-arithmetic,UNK
+Reading,4062253,177,72,4062253,http://en.wikipedia.org/wiki/Reading_(legislature),Reading,reading,reading-legislature,UNK
+Reading,2438251,16,12,43980,http://en.wikipedia.org/wiki/Reading_Stadium,Reading Stadium,reading-stadium,reading-stadium,UNK
+Reading,30362316,1,17,131393,"http://en.wikipedia.org/wiki/Reading,_Pennsylvania_Fire_Department","Reading, Pennsylvania Fire Department",reading-pennsylvania-fire-department,reading-pennsylvania-fire-department,UNK
+Reading,27024232,3,8,,http://en.wikipedia.org/wiki/The_Reading_(Fantin-Latour_painting),The Reading,the-reading,the-reading-fantin-latour-painting,UNK
+Reading,42221978,14,20,131393,http://en.wikipedia.org/wiki/Reading_Hospital,Reading Hospital,reading-hospital,reading-hospital,UNK
+Reading,168007,3358,377,43980;451169;69894;25405;9316;26994;486954;168007,http://en.wikipedia.org/wiki/Reading_F.C.,Reading F.C.,reading-fc,reading-fc,UNK
+Widnes,1095036,1087,367,2697758;69894;8239941;31717;9316;26994,http://en.wikipedia.org/wiki/Widnes_Vikings,Widnes Vikings,widnes-vikings,widnes-vikings,UNK
+Widnes,8239941,839,257,69894;31717;1095036;9316,http://en.wikipedia.org/wiki/Widnes,Widnes,widnes,widnes,GPE
+English,9316,158848,1726,1890;562171;3736;4179;4721;5882;6474240;9316;12249;30863319;14996;25921578;823473;17867;24223874;9467811;22667;25405;26994;277907;31717;5606257;2781207;2533183;36741;1163060;33545;1649682;318427;321027;539584;41523;23067458;811240;46394;8372580;7818732;1901715;69894;629563;3543483;18803164;353261;642484;9526029;1626272;9523511;93444;3090523;872781;1095036;872917;2593827;2593996;118409;1113158;1359751;1347221;125078;370200;974975;699624;2370625;131393;23501645;963556;963537;1267577;451169;28498555;4007789;12790104;8239941;12786594;168007;3254772;22913903;428952;34850722;3978957;2429882;19097669;2023355;486954;1463014;2193334;2030193;16600288;12164403;19625639;9952855;13830718;1219456;1982864;238524;4675015;508153;14676677;9074293;257284;8569916;1979836;8183240;1978170;989456;248962,http://en.wikipedia.org/wiki/England,England,england,england,GPE
+English,1151508,6,33,8569916,http://en.wikipedia.org/wiki/English_village,English village,english-village,english-village,UNK
+English,22651056,26,77,31717;18803164,http://en.wikipedia.org/wiki/English_Neighborhood,English Neighborhood,english-neighborhood,english-neighborhood,UNK
+English,4157702,42,102,8569916,http://en.wikipedia.org/wiki/English_District_(LCMS),English District,english-district,english-district-lcms,ORG
+English,3838846,116,129,,"http://en.wikipedia.org/wiki/English,_West_Virginia","English, West Virginia",english-west-virginia,english-west-virginia,GPE
+English,2710111,69,117,2841504,http://en.wikipedia.org/wiki/USS_English_(DD-696),USS English,uss-english,uss-english-dd-696,UNK
+English,4771063,4,16,17867,http://en.wikipedia.org/wiki/American/English,American/English,american-english,american-english,UNK
+English,18974570,1178,130,14996;31717;8569916;26994;370200,http://en.wikipedia.org/wiki/English_studies,English studies,english-studies,english-studies,UNK
+English,27260919,42,55,28994929,"http://en.wikipedia.org/wiki/English,_Brazoria_County,_Texas","English, Brazoria County, Texas",english-brazoria-county-texas,english-brazoria-county-texas,GPE
+English,48771,2,14,8569916;48771,http://en.wikipedia.org/wiki/English_(programming_language),English,english,english-programming-language,UNK
+English,937317,41,28,2165164;940821,http://en.wikipedia.org/wiki/English_River_(Ontario),English River,english-river,english-river-ontario,UNK
+English,21987263,18,23,21987263,http://en.wikipedia.org/wiki/English_Journal,English Journal,english-journal,english-journal,ORG
+English,940821,0,6,937317;2165164;458284,http://en.wikipedia.org/wiki/English_River,English River,english-river,english-river,UNK
+English,8569916,71129,716,1890;3736;4179;4721;9316;14996;22667;26994;31717;2533183;33545;318040;318427;1151508;48771;4157702;34850722;5686528;69894;19097669;2030193;18803164;333371;328159;2013768;1626272;338052;1867839;18974570;362329;752921;8569916,http://en.wikipedia.org/wiki/English_language,English language,english-language,english-language,UNK
+English,1890,3485,773,69894;8569916;9316;1890;333371;1626272;26994;4179;4721;14996;328159;31717;318427,http://en.wikipedia.org/wiki/American_English,American English,american-english,american-english,UNK
+English,22667,3259,300,43980;69894;8569916;9316;36741;18803164;19097669;26994;65370;4179;14996;328159;22667,http://en.wikipedia.org/wiki/Old_English,Old English,old-english,old-english,UNK
+English,16235747,224,284,25405,http://en.wikipedia.org/wiki/English_Market,English Market,english-market,english-market,UNK
+English,21982148,86,62,69894;18803164,http://en.wikipedia.org/wiki/Old_English_(Ireland),Old English,old-english,old-english-ireland,UNK
+English,8459056,40,14,,http://en.wikipedia.org/wiki/English_Park,English Park,english-park,english-park,UNK
+English,2232489,363,128,292723;20014954,http://en.wikipedia.org/wiki/English_Bay_(Vancouver),English Bay,english-bay,english-bay-vancouver,UNK
+English,22046807,2,9,1982864,http://en.wikipedia.org/wiki/English_Bridge_(Saint_Petersburg),English Bridge,english-bridge,english-bridge-saint-petersburg,UNK
+English,39195958,144,152,,http://en.wikipedia.org/wiki/English_Park_(Yerevan),English Park,english-park,english-park-yerevan,UNK
+English,4907971,6,64,,"http://en.wikipedia.org/wiki/English,_Fitz_or_Percy_(Prison_Break)","English, Fitz or Percy",english-fitz-or-percy,english-fitz-or-percy-prison-break,UNK
+English,22083958,29,7,,http://en.wikipedia.org/wiki/English_Association,English Association,english-association,english-association,ORG
+English,1867839,4,5,8569916,http://en.wikipedia.org/wiki/English_Australia,English Australia,english-australia,english-australia,GPE
+English,3458300,4,11,,http://en.wikipedia.org/wiki/English_Island_(South_Australia),English Island,english-island,english-island-south-australia,UNK
+English,458284,15,23,940821,http://en.wikipedia.org/wiki/English_River_(Iowa),English River,english-river,english-river-iowa,UNK
+English,28994929,0,4,28994013;27260919,"http://en.wikipedia.org/wiki/English,_Texas","English, Texas",english-texas,english-texas,UNK
+English,333371,14,38,8569916;1890,http://en.wikipedia.org/wiki/U.S._English_(organization),U.S. English,us-english,us-english-organization,ORG
+English,20014954,52,54,2232489,http://en.wikipedia.org/wiki/English_Bay_(neighbourhood),English Bay,english-bay,english-bay-neighbourhood,UNK
+English,292723,0,4,2232489,http://en.wikipedia.org/wiki/English_Bay,English Bay,english-bay,english-bay,UNK
+English,1626272,292,311,8569916;14996;4179;1626272;9316;1890;318427,http://en.wikipedia.org/wiki/California_English,California English,california-english,california-english,UNK
+English,562171,159,130,18803164;9316,http://en.wikipedia.org/wiki/English_Canada,English Canada,english-canada,english-canada,UNK
+English,28994013,14,23,28994929,"http://en.wikipedia.org/wiki/English,_Red_River_County,_Texas","English, Red River County, Texas",english-red-river-county-texas,english-red-river-county-texas,GPE
+English,1982864,69,88,338052;17867;69894;65370;9316;1978170;36741;22046807;5882,http://en.wikipedia.org/wiki/English_Bridge,English Bridge,english-bridge,english-bridge,UNK
+English,147992,56,29,147992,"http://en.wikipedia.org/wiki/English_Island,_Isles_of_Scilly","English Island, Isles of Scilly",english-island-isles-of-scilly,english-island-isles-of-scilly,UNK
+English,328159,181,197,11745518;1890;8569916;4179;22667,http://en.wikipedia.org/wiki/English_Wikipedia,English Wikipedia,english-wikipedia,english-wikipedia,UNK
+English,36819322,5,19,,"http://en.wikipedia.org/wiki/English,_baby!","English, baby!",english-baby,english-baby,UNK
+English,14007675,9,9,,"http://en.wikipedia.org/wiki/English,_August","English, August",english-august,english-august,UNK
+English,4179,1639,331,17867;4179;69894;4721;8569916;9316;1890;14996;33545;19097669;328159;31717;1626272;22667;428952;3736;26994;318427,http://en.wikipedia.org/wiki/British_English,British English,british-english,british-english,UNK
+English,18803164,14910,369,69894;33545;19097669;562171;3736;4721;21982148;22651056;9316;2030193;133459;4208015;25921578;365307;116744;116165;22667;8569916;26994;93444;31717;34850722,http://en.wikipedia.org/wiki/English_people,English people,english-people,english-people,UNK
+English,20311445,2,2,,http://en.wikipedia.org/wiki/English_Station,English Station,english-station,english-station,UNK
+English,26547793,6,7,17867,"http://en.wikipedia.org/wiki/English,_Scottish_and_Australian_Bank","English, Scottish and Australian Bank",english-scottish-and-australian-bank,english-scottish-and-australian-bank,UNK
+English,14996,36,205,69894;9316;31717;1890;18974570;26994;8569916;4721;4179;318427;1626272;22667,http://en.wikipedia.org/wiki/International_English,International English,international-english,international-english,UNK
+English,8318332,11,61,31717,http://en.wikipedia.org/wiki/English_Party,English Party,english-party,english-party,UNK
+English,2165164,9,104,937317;940821,"http://en.wikipedia.org/wiki/English_River,_Ontario","English River, Ontario",english-river-ontario,english-river-ontario,GPE
+English,41538546,2,147,,"http://en.wikipedia.org/wiki/English_Village_(Richmond,_Virginia)",English Village,english-village,english-village-richmond-virginia,UNK
+English,25921578,4,28,18803164;9316,http://en.wikipedia.org/wiki/Edward_English,Edward English,edward-english,edward-english,PER
+Bath,321027,679,337,2697758;153992;629563;41523;1463014;69894;642484;1359751;963556;963537;6474240;771803;25405;486954;9316;36741;26994;3543483,http://en.wikipedia.org/wiki/Bath_Rugby,Bath Rugby,bath-rugby,bath-rugby,UNK
+Bath,116165,688,176,18803164;23151453;30737278,"http://en.wikipedia.org/wiki/Bath,_Maine","Bath, Maine",bath-maine,bath-maine,GPE
+Bath,111629,35,46,10393167,"http://en.wikipedia.org/wiki/Bath,_Illinois","Bath, Illinois",bath-illinois,bath-illinois,GPE
+Bath,12467704,0,3,,"http://en.wikipedia.org/wiki/Bath_Township,_Ohio","Bath Township, Ohio",bath-township-ohio,bath-township-ohio,UNK
+Bath,23752597,5,8,41523,"http://en.wikipedia.org/wiki/Bath_Street,_Bath","Bath Street, Bath",bath-street-bath,bath-street-bath,UNK
+Bath,30737278,3,7,116165,"http://en.wikipedia.org/wiki/Bath,_Maine_anti-Catholic_riot_of_1854","Bath, Maine anti-Catholic riot of 1854",bath-maine-anti-catholic-riot-of-1854,bath-maine-anti-catholic-riot-of-1854,UNK
+Bath,536520,0,3,95636;11565542;91361,http://en.wikipedia.org/wiki/Bath_County,Bath County,bath-county,bath-county,UNK
+Bath,15123644,53,68,,"http://en.wikipedia.org/wiki/Bath,_Indiana","Bath, Indiana",bath-indiana,bath-indiana,GPE
+Bath,811240,167,33,9316;730219,http://en.wikipedia.org/wiki/Bathtub,Bathtub,bathtub,bathtub,UNK
+Bath,153992,987,436,338169;153992;460615;41523;321027;974975;31717;25405;318040;486954;36741,http://en.wikipedia.org/wiki/University_of_Bath,University of Bath,university-of-bath,university-of-bath,UNK
+Bath,260071,28,76,260070;41523,"http://en.wikipedia.org/wiki/Bath,_New_York","Bath, New York",bath-new-york,bath-new-york,GPE
+Bath,9080660,5,11,,"http://en.wikipedia.org/wiki/Bath,_Netherlands","Bath, Netherlands",bath-netherlands,bath-netherlands,GPE
+Bath,656269,45,55,117336,"http://en.wikipedia.org/wiki/Bath,_Michigan","Bath, Michigan",bath-michigan,bath-michigan,GPE
+Bath,9833269,0,6,117336;10393167,http://en.wikipedia.org/wiki/Bath_Township,Bath Township,bath-township,bath-township,GPE
+Bath,91361,498,292,91346;89905;91361;536520,"http://en.wikipedia.org/wiki/Bath_County,_Virginia","Bath County, Virginia",bath-county-virginia,bath-county-virginia,GPE
+Bath,12790104,3,16,12790117;9316,http://en.wikipedia.org/wiki/USS_Bath_(AK-4),USS Bath,uss-bath,uss-bath-ak-4,UNK
+Bath,32305519,141,144,,"http://en.wikipedia.org/wiki/Bath,_California","Bath, California",bath-california,bath-california,GPE
+Bath,127656,72,58,11565542,"http://en.wikipedia.org/wiki/Bath,_North_Carolina","Bath, North Carolina",bath-north-carolina,bath-north-carolina,GPE
+Bath,311455,4819,302,730219;31717,http://en.wikipedia.org/wiki/Order_of_the_Bath,Order of the Bath,order-of-the-bath,order-of-the-bath,UNK
+Bath,12790117,3,2,23151453;12790104,http://en.wikipedia.org/wiki/USS_Bath,USS Bath,uss-bath,uss-bath,UNK
+Bath,539584,108,109,41523;9316;72982,http://en.wikipedia.org/wiki/Roman_Baths_(Bath),Roman Baths,roman-baths,roman-baths-bath,UNK
+Bath,23151453,134,200,116165;3050777;3860216;12790117;3299260,http://en.wikipedia.org/wiki/USS_Bath_(PF-55),USS Bath,uss-bath,uss-bath-pf-55,UNK
+Bath,27659267,33,5,,"http://en.wikipedia.org/wiki/Great_Bath,_Mohenjo-daro","Great Bath, Mohenjo-daro",great-bath-mohenjo-daro,great-bath-mohenjo-daro,UNK
+Bath,18903433,2,230,,http://en.wikipedia.org/wiki/Bath_Island,Bath Island,bath-island,bath-island,GPE
+Bath,117336,97,63,656269;260070;9833269,"http://en.wikipedia.org/wiki/Bath_Township,_Michigan","Bath Township, Michigan",bath-township-michigan,bath-township-michigan,GPE
+Bath,4206203,157,150,171222,"http://en.wikipedia.org/wiki/Bath,_New_Brunswick","Bath, New Brunswick",bath-new-brunswick,bath-new-brunswick,GPE
+Bath,133459,102,123,18803164;41523,"http://en.wikipedia.org/wiki/Bath,_Pennsylvania","Bath, Pennsylvania",bath-pennsylvania,bath-pennsylvania,GPE
+Bath,10393167,33,292,111629;9833269,"http://en.wikipedia.org/wiki/Bath_Township,_Mason_County,_Illinois","Bath Township, Mason County, Illinois",bath-township-mason-county-illinois,bath-township-mason-county-illinois,UNK
+Bath,95636,396,242,95636;27648871;536520,"http://en.wikipedia.org/wiki/Bath_County,_Kentucky","Bath County, Kentucky",bath-county-kentucky,bath-county-kentucky,GPE
+Bath,9026303,1,8,,"http://en.wikipedia.org/wiki/Bath,_Saint_Kitts_and_Nevis","Bath, Saint Kitts and Nevis",bath-saint-kitts-and-nevis,bath-saint-kitts-and-nevis,UNK
+Bath,120047,38,58,,"http://en.wikipedia.org/wiki/Bath_Township,_Freeborn_County,_Minnesota","Bath Township, Freeborn County, Minnesota",bath-township-freeborn-county-minnesota,bath-township-freeborn-county-minnesota,GPE
+Bath,124644,184,119,,"http://en.wikipedia.org/wiki/Bath,_New_Hampshire","Bath, New Hampshire",bath-new-hampshire,bath-new-hampshire,GPE
+Bath,11565542,10,6,536520;127656,"http://en.wikipedia.org/wiki/Bath_County,_North_Carolina","Bath County, North Carolina",bath-county-north-carolina,bath-county-north-carolina,UNK
+Bath,730219,205,258,17867;41523;311455;811240;4721,http://en.wikipedia.org/wiki/Bathing,Bathing,bathing,bathing,UNK
+Bath,25496594,171,160,,"http://en.wikipedia.org/wiki/Bath,_Jamaica","Bath, Jamaica",bath-jamaica,bath-jamaica,UNK
+Bath,20473528,1,4,,http://en.wikipedia.org/wiki/Bath_School,Bath School,bath-school,bath-school,ORG
+Bath,1160563,141,121,41523,"http://en.wikipedia.org/wiki/Bath_Beach,_Brooklyn","Bath Beach, Brooklyn",bath-beach-brooklyn,bath-beach-brooklyn,UNK
+Bath,20791979,13,9,17867,http://en.wikipedia.org/wiki/Bath_Club,Bath Club,bath-club,bath-club,UNK
+Bath,7485594,11,23,,http://en.wikipedia.org/wiki/The_Bath_(EP),The Bath,the-bath,the-bath-ep,UNK
+Bath,1533500,28,40,,"http://en.wikipedia.org/wiki/Bath,_South_Dakota","Bath, South Dakota",bath-south-dakota,bath-south-dakota,GPE
+Bath,72982,312,388,64116;539584;31717;41523;9074293;36741;14676677,http://en.wikipedia.org/wiki/Bath_Abbey,Bath Abbey,bath-abbey,bath-abbey,UNK
+Bath,15205072,117,123,,"http://en.wikipedia.org/wiki/Bath,_South_Carolina","Bath, South Carolina",bath-south-carolina,bath-south-carolina,GPE
+Bath,260070,164,81,260071;117336,"http://en.wikipedia.org/wiki/Bath_(village),_New_York","Bath (village), New York",bath-village-new-york,bath-village-new-york,GPE
+Bath,38153147,32,45,,"http://en.wikipedia.org/wiki/Bath,_Kentucky","Bath, Kentucky",bath-kentucky,bath-kentucky,GPE
+Bath,974975,15,16,153992;41523;9316,http://en.wikipedia.org/wiki/Bath_FM,Bath FM,bath-fm,bath-fm,UNK
+Bath,41523,3569,630,730219;17867;321027;69894;642484;21317850;25405;9316;36741;539584;33545;23752597;1160563;133459;72982;9523511;26994;260071;338052;7818732;65370;3254772;974975;699624;1679120;5882;153992;13022173;31717;46394,"http://en.wikipedia.org/wiki/Bath,_Somerset","Bath, Somerset",bath-somerset,bath-somerset,GPE
+Harlequins,963556,706,625,17867;629563;321027;1463014;69894;642484;31717;963537;25405;872781;486954;9316;26994;3543483,http://en.wikipedia.org/wiki/Harlequin_F.C.,Harlequin F.C.,harlequin-fc,harlequin-fc,UNK
+Harlequins,38341,514,145,,http://en.wikipedia.org/wiki/Harlequin,Harlequin,harlequin,harlequin,UNK
+Gloucester,963537,660,391,629563;65370;321027;1463014;69894;642484;963556;25405;872781;486954;9316;26994;3543483,http://en.wikipedia.org/wiki/Gloucester_Rugby,Gloucester Rugby,gloucester-rugby,gloucester-rugby,UNK
+Gloucester,40797315,3,13,19097669,"http://en.wikipedia.org/wiki/Gloucester,_Sierra_Leone","Gloucester, Sierra Leone",gloucester-sierra-leone,gloucester-sierra-leone,GPE
+Gloucester,125079,174,274,93444;544722;125078,"http://en.wikipedia.org/wiki/Gloucester_City,_New_Jersey","Gloucester City, New Jersey",gloucester-city-new-jersey,gloucester-city-new-jersey,GPE
+Gloucester,14396276,10,22,65370;36741,"http://en.wikipedia.org/wiki/Gloucester_Road,_Bristol","Gloucester Road, Bristol",gloucester-road-bristol,gloucester-road-bristol,UNK
+Gloucester,37520539,4,19,,http://en.wikipedia.org/wiki/Gloucester_School,Gloucester School,gloucester-school,gloucester-school,UNK
+Gloucester,24303185,4,18,65370,http://en.wikipedia.org/wiki/HM_Prison_Gloucester,HM Prison Gloucester,hm-prison-gloucester,hm-prison-gloucester,UNK
+Gloucester,8660551,29,24,14676677;65370,http://en.wikipedia.org/wiki/Gloucester_Castle,Gloucester Castle,gloucester-castle,gloucester-castle,UNK
+Gloucester,544182,0,5,89905;9968248;93444;171222,http://en.wikipedia.org/wiki/Gloucester_County,Gloucester County,gloucester-county,gloucester-county,UNK
+Gloucester,2923985,17,12,17867,"http://en.wikipedia.org/wiki/Gloucester_Road,_London","Gloucester Road, London",gloucester-road-london,gloucester-road-london,UNK
+Gloucester,65370,2148,406,338052;1978170;9968248;113661;21317850;8660551;963537;25405;125078;36741;116744;3978957;5882;1982864;24303185;24741006;93444;13022173;41523;25803577;14396276;31717;22667;46394;9523511;14676677,http://en.wikipedia.org/wiki/Gloucester,Gloucester,gloucester,gloucester,GPE
+Gloucester,137618,111,124,89905,"http://en.wikipedia.org/wiki/Gloucester_Courthouse,_Virginia","Gloucester Courthouse, Virginia",gloucester-courthouse-virginia,gloucester-courthouse-virginia,GPE
+Gloucester,660267,56,24,,"http://en.wikipedia.org/wiki/Gloucester_County,_New_York","Gloucester County, New York",gloucester-county-new-york,gloucester-county-new-york,UNK
+Gloucester,25803577,1,98,4675015;65370;4675101,http://en.wikipedia.org/wiki/Gloucester_services,Gloucester services,gloucester-services,gloucester-services,UNK
+Gloucester,1649682,79,65,31717;9316;277907,http://en.wikipedia.org/wiki/Gloucester_cheese,Gloucester cheese,gloucester-cheese,gloucester-cheese,UNK
+Gloucester,10117006,333,277,9968248;1073262,http://en.wikipedia.org/wiki/Electoral_district_of_Gloucester,Electoral district of Gloucester,electoral-district-of-gloucester,electoral-district-of-gloucester,UNK
+Gloucester,544722,5,3,125079;125078;93444,"http://en.wikipedia.org/wiki/Gloucester,_New_Jersey","Gloucester, New Jersey",gloucester-new-jersey,gloucester-new-jersey,UNK
+Gloucester,116744,931,529,116731;65370;3050777;18803164;257284;2965804;248962,"http://en.wikipedia.org/wiki/Gloucester,_Massachusetts","Gloucester, Massachusetts",gloucester-massachusetts,gloucester-massachusetts,GPE
+Gloucester,24741006,5,7,65370,http://en.wikipedia.org/wiki/Gloucester_FM,Gloucester FM,gloucester-fm,gloucester-fm,UNK
+Gloucester,171222,357,156,4206203;544182,"http://en.wikipedia.org/wiki/Gloucester_County,_New_Brunswick","Gloucester County, New Brunswick",gloucester-county-new-brunswick,gloucester-county-new-brunswick,GPE
+Gloucester,93444,754,354,93444;65370;544182;18803164;544722;131393;125079;125078;9316,"http://en.wikipedia.org/wiki/Gloucester_County,_New_Jersey","Gloucester County, New Jersey",gloucester-county-new-jersey,gloucester-county-new-jersey,GPE
+Gloucester,89905,708,406,137618;91346;89905;91361;544182,"http://en.wikipedia.org/wiki/Gloucester_County,_Virginia","Gloucester County, Virginia",gloucester-county-virginia,gloucester-county-virginia,GPE
+Gloucester,23577266,594,607,1073262,http://en.wikipedia.org/wiki/Gloucester_River,Gloucester River,gloucester-river,gloucester-river,UNK
+Gloucester,7005772,47,62,,http://en.wikipedia.org/wiki/HMS_Gloucester_(62),HMS Gloucester,hms-gloucester,hms-gloucester-62,UNK
+Gloucester,9074293,94,314,64116;9316;72982;14676677,"http://en.wikipedia.org/wiki/Gloucester_College,_Oxford","Gloucester College, Oxford",gloucester-college-oxford,gloucester-college-oxford,UNK
+Gloucester,14676677,117,199,64116;9316;8660551;72982;65370;9074293,http://en.wikipedia.org/wiki/Gloucester_Abbey,Gloucester Abbey,gloucester-abbey,gloucester-abbey,UNK
+Gloucester,125078,200,287,2527275;9316;93444;544722;65370;131393;125079,"http://en.wikipedia.org/wiki/Gloucester_Township,_New_Jersey","Gloucester Township, New Jersey",gloucester-township-new-jersey,gloucester-township-new-jersey,GPE
+Gloucester,1073262,72,42,23577266;9968248;10117006,"http://en.wikipedia.org/wiki/Gloucester,_New_South_Wales","Gloucester, New South Wales",gloucester-new-south-wales,gloucester-new-south-wales,GPE
+Gloucester,9968248,47,28,1073262;65370;10117006;544182,"http://en.wikipedia.org/wiki/Gloucester_County,_New_South_Wales","Gloucester County, New South Wales",gloucester-county-new-south-wales,gloucester-county-new-south-wales,UNK
+Gloucester,3282600,3,4,2965804;3050777,http://en.wikipedia.org/wiki/USS_Gloucester,USS Gloucester,uss-gloucester,uss-gloucester,UNK
+Gloucester,442846,138,105,442846;2527275,"http://en.wikipedia.org/wiki/Gloucester,_Ontario","Gloucester, Ontario",gloucester-ontario,gloucester-ontario,GPE
+Gloucester,4467970,43,27,,http://en.wikipedia.org/wiki/Gloucester_Park,Gloucester Park,gloucester-park,gloucester-park,UNK
+Gloucester,3050777,135,184,116744;3299260;23151453;3860216;3282600,http://en.wikipedia.org/wiki/USS_Gloucester_(PF-22),USS Gloucester,uss-gloucester,uss-gloucester-pf-22,UNK
+Gloucester,8805048,2,5,,"http://en.wikipedia.org/wiki/Gloucester_Park,_Basildon","Gloucester Park, Basildon",gloucester-park-basildon,gloucester-park-basildon,UNK
+Gloucester,2527275,34,26,125078;442846,"http://en.wikipedia.org/wiki/Gloucester_Township,_Ontario","Gloucester Township, Ontario",gloucester-township-ontario,gloucester-township-ontario,UNK
+Gloucester,2923995,198,160,,"http://en.wikipedia.org/wiki/Gloucester_Road,_Hong_Kong","Gloucester Road, Hong Kong",gloucester-road-hong-kong,gloucester-road-hong-kong,UNK
+Gloucester,2965804,22,30,116744;3282600,http://en.wikipedia.org/wiki/USS_Gloucester_(1891),USS Gloucester,uss-gloucester,uss-gloucester-1891,UNK
+Gloucester,42485221,3,82,,"http://en.wikipedia.org/wiki/Gloucester_(Natchez,_Mississippi)",Gloucester,gloucester,gloucester-natchez-mississippi,UNK
+London Irish,486954,770,443,43980;153992;17867;629563;321027;1463014;69894;642484;168007;963556;963537;25405;872781;9316;26994,http://en.wikipedia.org/wiki/London_Irish,London Irish,london-irish,london-irish,UNK
+Orrell,3543483,161,63,1463014;69894;629563;26994;3993009;963556;9316;963537;1163060;25405;321027,http://en.wikipedia.org/wiki/Orrell_R.U.F.C.,Orrell R.U.F.C.,orrell-rufc,orrell-rufc,UNK
+Orrell,19625639,80,105,9316;8372580;31717;1163060,http://en.wikipedia.org/wiki/Orrell_Park,Orrell Park,orrell-park,orrell-park,GPE
+Orrell,1163060,85,68,3993009;9316;19625639;31717;3543483,"http://en.wikipedia.org/wiki/Orrell,_Greater_Manchester","Orrell, Greater Manchester",orrell-greater-manchester,orrell-greater-manchester,GPE
+Orrell,8372580,69,98,3993009;9316;19625639;31717,"http://en.wikipedia.org/wiki/Orrell,_Merseyside","Orrell, Merseyside",orrell-merseyside,orrell-merseyside,GPE
+Orrell,3993009,1,5,1163060;3543483;8372580,http://en.wikipedia.org/wiki/Orrell,Orrell,orrell,orrell,UNK
+West Hartlepool,11169920,156,142,1463014;642484;644538,http://en.wikipedia.org/wiki/West_Hartlepool_R.F.C.,West Hartlepool R.F.C.,west-hartlepool-rfc,west-hartlepool-rfc,UNK
+West Hartlepool,30863319,21,9,17867;9316,http://en.wikipedia.org/wiki/West_Hartlepool_F.C.,West Hartlepool F.C.,west-hartlepool-fc,west-hartlepool-fc,UNK
+West Hartlepool,644538,209,69,11169920,http://en.wikipedia.org/wiki/West_Hartlepool,West Hartlepool,west-hartlepool,west-hartlepool,UNK
+Wasps,629563,665,403,17867;321027;1463014;69894;642484;4007789;963556;963537;6474240;25405;486954;9316;26994;353261;5882;3543483,http://en.wikipedia.org/wiki/London_Wasps,London Wasps,london-wasps,london-wasps,UNK
+Wasps,3668803,8,12,617361,http://en.wikipedia.org/wiki/The_Wasps_(Vaughan_Williams),The Wasps,the-wasps,the-wasps-vaughan-williams,UNK
+Wasps,20610164,937,100,,http://en.wikipedia.org/wiki/Wasp,Wasp,wasp,wasp,UNK
+Wasps,4007789,22,8,25405;9316;629563,http://en.wikipedia.org/wiki/Wasps_FC,Wasps FC,wasps-fc,wasps-fc,ORG
+Wasps,617361,57,89,3668803,http://en.wikipedia.org/wiki/The_Wasps,The Wasps,the-wasps,the-wasps,UNK
+Bristol,1463014,527,354,2593827;2697758;1359751;629563;963556;963537;6474240;11169920;25405;321027;69894;642484;486954;9316;36741;872917;26994;1204424;3543483,http://en.wikipedia.org/wiki/Bristol_Rugby,Bristol Rugby,bristol-rugby,bristol-rugby,UNK
+Bristol,12786594,5,27,9316;36741,http://en.wikipedia.org/wiki/HM_Prison_Bristol,HM Prison Bristol,hm-prison-bristol,hm-prison-bristol,UNK
+Bristol,15713198,4,15,,http://en.wikipedia.org/wiki/Bristol_group,Bristol group,bristol-group,bristol-group,ORG
+Bristol,5438769,101,112,9523511;989456;36741;699624,http://en.wikipedia.org/wiki/Bristol_Bridge,Bristol Bridge,bristol-bridge,bristol-bridge,UNK
+Bristol,28906414,19,34,36741,http://en.wikipedia.org/wiki/Bristol_School,Bristol School,bristol-school,bristol-school,UNK
+Bristol,135375,668,241,91346;40112625;135375;36741;12570623;794321,"http://en.wikipedia.org/wiki/Bristol,_Tennessee","Bristol, Tennessee",bristol-tennessee,bristol-tennessee,GPE
+Bristol,988623,126,50,988623,http://en.wikipedia.org/wiki/Bristol_Bay,Bristol Bay,bristol-bay,bristol-bay,UNK
+Bristol,91346,636,283,89905;91361;135375;36741;12570623;794321,"http://en.wikipedia.org/wiki/Bristol,_Virginia","Bristol, Virginia",bristol-virginia,bristol-virginia,GPE
+Bristol,23221469,1,13,,http://en.wikipedia.org/wiki/Bristol_Railroad,Bristol Railroad,bristol-railroad,bristol-railroad,UNK
+Bristol,9523511,155,185,2193334;9316;36741;5438769;65370;41523;699624,http://en.wikipedia.org/wiki/First_Bristol,First Bristol,first-bristol,first-bristol,UNK
+Bristol,25796409,54,65,141673,"http://en.wikipedia.org/wiki/Bristol_(village),_Wisconsin","Bristol (village), Wisconsin",bristol-village-wisconsin,bristol-village-wisconsin,GPE
+Bristol,2025409,66,71,,http://en.wikipedia.org/wiki/Bristol_(solitaire),Bristol,bristol,bristol-solitaire,UNK
+Bristol,21584303,3,13,36741,http://en.wikipedia.org/wiki/Bristol_+,Bristol +,bristol,bristol,ORG
+Bristol,9614629,1,4,,http://en.wikipedia.org/wiki/Bristol_College,Bristol College,bristol-college,bristol-college,ORG
+Bristol,12594605,40,44,,"http://en.wikipedia.org/wiki/Bristol,_Ohio","Bristol, Ohio",bristol-ohio,bristol-ohio,GPE
+Bristol,12570623,6,21,91346;135375,http://en.wikipedia.org/wiki/Bristol_Mall,Bristol Mall,bristol-mall,bristol-mall,UNK
+Bristol,34979124,51,67,,"http://en.wikipedia.org/wiki/Bristol,_West_Virginia","Bristol, West Virginia",bristol-west-virginia,bristol-west-virginia,GPE
+Bristol,21338600,99,105,,"http://en.wikipedia.org/wiki/Bristol,_Maryland","Bristol, Maryland",bristol-maryland,bristol-maryland,GPE
+Bristol,22725677,2,7,,"http://en.wikipedia.org/wiki/Bristol,_Nova_Scotia","Bristol, Nova Scotia",bristol-nova-scotia,bristol-nova-scotia,GPE
+Bristol,22837808,22,30,,"http://en.wikipedia.org/wiki/Bristol,_Georgia","Bristol, Georgia",bristol-georgia,bristol-georgia,UNK
+Bristol,112232,67,65,,"http://en.wikipedia.org/wiki/Bristol,_Indiana","Bristol, Indiana",bristol-indiana,bristol-indiana,GPE
+Bristol,40112625,1,9,135375,http://en.wikipedia.org/wiki/Bristol_University_(Tennessee),Bristol University,bristol-university,bristol-university-tennessee,ORG
+Bristol,36067616,5,16,,http://en.wikipedia.org/wiki/Bristol_SU,Bristol SU,bristol-su,bristol-su,PER
+Bristol,1750771,6,7,2361807;2841504,http://en.wikipedia.org/wiki/USS_Bristol,USS Bristol,uss-bristol,uss-bristol,UNK
+Bristol,3304728,10,451,,http://en.wikipedia.org/wiki/Bristol_Mountains,Bristol Mountains,bristol-mountains,bristol-mountains,UNK
+Bristol,989456,123,154,9316;5438769;36741,http://en.wikipedia.org/wiki/At-Bristol,At-Bristol,at-bristol,at-bristol,UNK
+Bristol,699624,446,399,338052;31717;41523;1423213;1971947;9316;5438769;36741;46394;9523511;4721;5882,http://en.wikipedia.org/wiki/Bristol_Airport,Bristol Airport,bristol-airport,bristol-airport,UNK
+Bristol,16911317,0,2,248962,"http://en.wikipedia.org/wiki/Bristol,_Massachusetts","Bristol, Massachusetts",bristol-massachusetts,bristol-massachusetts,GPE
+Bristol,36741,8295,1050,17867;21317850;36741;3978957;4718030;21584303;72982;7818732;3254772;4721;699624;5882;1982864;13022173;1463014;22667;43980;12786594;321027;2370625;25405;9316;552964;41523;28906414;14396276;12249;9523511;338052;91346;1978170;65370;5438769;1679120;187448;135375;989456;248962;17735094;153992;31717;46394,http://en.wikipedia.org/wiki/Bristol,Bristol,bristol,bristol,GPE
+Bristol,17735094,40,52,36741,"http://en.wikipedia.org/wiki/Bristol,_Quebec","Bristol, Quebec",bristol-quebec,bristol-quebec,UNK
+Bristol,3254772,20,29,41523;9316;36741,http://en.wikipedia.org/wiki/Greater_Bristol,Greater Bristol,greater-bristol,greater-bristol,UNK
+Bristol,3981193,3,20,,http://en.wikipedia.org/wiki/Bristol_Lake,Bristol Lake,bristol-lake,bristol-lake,UNK
+Bristol,2370625,19,73,9316;36741,http://en.wikipedia.org/wiki/Bristol_board,Bristol board,bristol-board,bristol-board,PER
+Bristol,141673,1,4,25796409,"http://en.wikipedia.org/wiki/Bristol,_Wisconsin","Bristol, Wisconsin",bristol-wisconsin,bristol-wisconsin,UNK
+Bristol,248962,608,387,116731;257284;9316;36741;16911317;116744;20960253,"http://en.wikipedia.org/wiki/Bristol,_Rhode_Island","Bristol, Rhode Island",bristol-rhode-island,bristol-rhode-island,GPE
+Bristol,4718030,57,50,69894;36741,http://en.wikipedia.org/wiki/Bristol_Castle,Bristol Castle,bristol-castle,bristol-castle,UNK
+Bristol,2361807,80,117,1750771,http://en.wikipedia.org/wiki/USS_Bristol_(DD-453),USS Bristol,uss-bristol,uss-bristol-dd-453,UNK
+Bristol,131508,306,206,,"http://en.wikipedia.org/wiki/Bristol,_Pennsylvania","Bristol, Pennsylvania",bristol-pennsylvania,bristol-pennsylvania,GPE
+Bristol,233764,650,300,,"http://en.wikipedia.org/wiki/Bristol,_Connecticut","Bristol, Connecticut",bristol-connecticut,bristol-connecticut,GPE
+Bristol,2291613,35,39,,"http://en.wikipedia.org/wiki/Bristol,_Illinois","Bristol, Illinois",bristol-illinois,bristol-illinois,GPE
+Bristol,1342295,97,100,31717,http://en.wikipedia.org/wiki/Bristol_Island,Bristol Island,bristol-island,bristol-island,UNK
+Bristol,552964,0,4,36741,http://en.wikipedia.org/wiki/Bristol_County,Bristol County,bristol-county,bristol-county,UNK
+Bristol,12555676,19,29,,"http://en.wikipedia.org/wiki/Bristol,_Washington","Bristol, Washington",bristol-washington,bristol-washington,UNK
+Bristol,20960253,5,19,248962,http://en.wikipedia.org/wiki/Bristol_(1866),Bristol,bristol,bristol-1866,UNK
+Bristol,2841504,65,86,1750771;2710111,http://en.wikipedia.org/wiki/USS_Bristol_(DD-857),USS Bristol,uss-bristol,uss-bristol-dd-857,UNK
+Bristol,794321,610,191,91346;135375;794321,http://en.wikipedia.org/wiki/Bristol_Motor_Speedway,Bristol Motor Speedway,bristol-motor-speedway,bristol-motor-speedway,UNK
+Welsh,69894,32173,1441,69894;351029;5564304;1890;32455371;4718030;19097669;1529492;13744592;18584161;6242847;3736;2567722;629563;4179;4721;21982148;486954;5882;1463014;42358915;3543483;290509;6474240;9316;2030193;18803164;35879491;12249;637047;355341;634963;353770;14996;1470580;353261;17867;642484;963556;14430976;963537;826549;24223874;14918905;13022173;9467811;2795095;22667;147606;1204424;9526029;25405;218205;2013768;16600288;26994;338052;654573;338169;654592;339588;277907;31717;12164403;3569436;451169;21317850;37307100;9952886;9952855;33545;517398;1219456;1982864;7616040;457012;8239941;318040;872781;1095036;872917;318427;2593827;3441281;321027;113661;3266861;41523;4675101;3266280;6876114;508153;6012908;168007;46394;365307;1423213;794216;26401136;1971947;362329;116731;19744188;4601608;1359751;6988806;8569916;2697758;1306659;1979836;24401716;8183240;1901715;1728976;7824328;5509506;34850722,http://en.wikipedia.org/wiki/Wales,Wales,wales,wales,GPE
+Welsh,36375598,0,3,,http://en.wikipedia.org/wiki/Arthur_Welsh,Arthur Welsh,arthur-welsh,arthur-welsh,PER
+Welsh,12164403,3,109,69894;26994;9316,http://en.wikipedia.org/wiki/Welsh_International,Welsh International,welsh-international,welsh-international,PER
+Welsh,11745518,101,103,33545;11745518;328159,http://en.wikipedia.org/wiki/Welsh_Wikipedia,Welsh Wikipedia,welsh-wikipedia,welsh-wikipedia,UNK
+Welsh,1978170,67,80,338052;65370;9316;36741;5882;1982864,http://en.wikipedia.org/wiki/Welsh_Bridge,Welsh Bridge,welsh-bridge,welsh-bridge,UNK
+Welsh,33545,5520,348,365307;290509;3441281;451169;69894;113661;3266861;351029;8569916;14430976;9526029;3572667;1423213;9316;11745518;218205;2697758;41523;2030193;1306659;18803164;1971947;19097669;35879491;1979836;3736;26994;5653004;338052;637047;355341;654573;338169;27577863;2567722;4179;654592;1728976;362329;339588;277907;6012908;14918905;5882;634963;353770;13022173;1470580;3568425;31717;6988806;318040;872781;46394;34850722;353261;3569436,http://en.wikipedia.org/wiki/Welsh_language,Welsh language,welsh-language,welsh-language,UNK
+Welsh,2030193,3263,430,365307;69894;8569916;9316;33545;18803164;19097669;1979836;3736;26994;1728976;339588;5882;31717;46394;34850722,http://en.wikipedia.org/wiki/Welsh_people,Welsh people,welsh-people,welsh-people,UNK
+Welsh,5272318,140,118,,http://en.wikipedia.org/wiki/Don_Welsh,Don Welsh,don-welsh,don-welsh,PER
+Welsh,365307,148,146,69894;33545;18803164;31717;2030193,http://en.wikipedia.org/wiki/Welsh_rarebit,Welsh rarebit,welsh-rarebit,welsh-rarebit,UNK
+Welsh,1979836,276,70,872781;69894;33545;9316;31717;26994;5882;2030193;9952855,http://en.wikipedia.org/wiki/Welsh_Dragon,Welsh Dragon,welsh-dragon,welsh-dragon,ORG
+Welsh,30188602,1,12,,http://en.wikipedia.org/wiki/Welsh_School_(security_studies),Welsh School,welsh-school,welsh-school-security-studies,ORG
+Welsh,3441281,191,67,69894;33545;31717,http://en.wikipedia.org/wiki/Old_Welsh,Old Welsh,old-welsh,old-welsh,UNK
+Welsh,27851772,4,20,,http://en.wikipedia.org/wiki/Edward_Welsh,Edward Welsh,edward-welsh,edward-welsh,PER
+Welsh,24223874,7,30,69894;9316,http://en.wikipedia.org/wiki/Welsh_Road,Welsh Road,welsh-road,welsh-road,PER
+Welsh,11400411,79,138,,"http://en.wikipedia.org/wiki/Welsh,_Carson,_Anderson_&_Stowe","Welsh, Carson, Anderson & Stowe",welsh-carson-anderson-stowe,welsh-carson-anderson-stowe,UNK
+Welsh,115608,29,23,,"http://en.wikipedia.org/wiki/Welsh,_Louisiana","Welsh, Louisiana",welsh-louisiana,welsh-louisiana,GPE
+Welsh,18464766,2,4,,http://en.wikipedia.org/wiki/Welsh_(MCC_cricketer),Welsh,welsh,welsh-mcc-cricketer,PER
+Welsh,24401716,0,17,69894,http://en.wikipedia.org/wiki/Welsh_pig,Welsh pig,welsh-pig,welsh-pig,PER
+Welsh,1306659,74,78,69894;113661;33545;1882784;31717;5882,http://en.wikipedia.org/wiki/Royal_Welsh,Royal Welsh,royal-welsh,royal-welsh,ORG
+Caerphilly,2795095,89,53,872781;69894;1204424;642484;339588;25405,http://en.wikipedia.org/wiki/Caerphilly_RFC,Caerphilly RFC,caerphilly-rfc,caerphilly-rfc,UNK
+Caerphilly,277907,73,59,1649682;69894;33545;339588;9316,http://en.wikipedia.org/wiki/Caerphilly_cheese,Caerphilly cheese,caerphilly-cheese,caerphilly-cheese,UNK
+Caerphilly,37307100,15,8,69894;339588,http://en.wikipedia.org/wiki/Caerphilly_F.C.,Caerphilly F.C.,caerphilly-fc,caerphilly-fc,UNK
+Caerphilly,32455371,8,10,69894;339588;5882,http://en.wikipedia.org/wiki/Caerphilly_mountain,Caerphilly mountain,caerphilly-mountain,caerphilly-mountain,UNK
+Caerphilly,3569436,129,169,338052;10644210;69894;33545;339588;3568425;5882;654592;3572667,http://en.wikipedia.org/wiki/Caerphilly_railway_station,Caerphilly railway station,caerphilly-railway-station,caerphilly-railway-station,ORG
+Caerphilly,654592,248,118,338052;69894;33545;355341;654573;339588;1728976;46394;13022173;5882;6988806;3569436;21317850,http://en.wikipedia.org/wiki/Caerphilly_County_Borough,Caerphilly County Borough,caerphilly-county-borough,caerphilly-county-borough,GPE
+Caerphilly,355341,72,87,69894;113661;33545;339588;5882;654592,http://en.wikipedia.org/wiki/Caerphilly_Castle,Caerphilly Castle,caerphilly-castle,caerphilly-castle,UNK
+Caerphilly,339588,509,147,338052;637047;32455371;355341;27577863;654592;37307100;25405;2030193;872781;69894;33545;339588;277907;1728976;218205;5882;3569436;2795095,http://en.wikipedia.org/wiki/Caerphilly,Caerphilly,caerphilly,caerphilly,GPE
+Cardiff,1359751,752,278,2593827;2697758;338169;9467811;321027;1463014;69894;642484;1204424;31717;6474240;771803;25405;9952855;872781;9316;872917;5882,http://en.wikipedia.org/wiki/Cardiff_RFC,Cardiff RFC,cardiff-rfc,cardiff-rfc,UNK
+Cardiff,6988806,39,44,3266280;6012908;46394;338052;69894;3266861;33545;5882;654592;654573,http://en.wikipedia.org/wiki/District_of_Cardiff,District of Cardiff,district-of-cardiff,district-of-cardiff,GPE
+Cardiff,5882,7616,818,17867;10644210;69894;21317850;104769;351029;3572667;1423213;36741;32455371;26401136;33545;27577863;629563;699624;362329;517398;14918905;5882;1982864;13022173;9467811;42358915;1359751;6988806;290509;113661;3266861;25405;9316;218205;41523;2030193;1306659;3266280;1979836;26994;338052;637047;355341;654573;1978170;338169;65370;654592;6876114;339588;6012908;3568425;7824328;31717;46394;353261;3569436,http://en.wikipedia.org/wiki/Cardiff,Cardiff,cardiff,cardiff,GPE
+Cardiff,14918905,124,123,69894;113661;33545;351029;5882,http://en.wikipedia.org/wiki/Cardiff_Market,Cardiff Market,cardiff-market,cardiff-market,UNK
+Cardiff,24486550,396,433,,"http://en.wikipedia.org/wiki/Cardiff,_Alberta","Cardiff, Alberta",cardiff-alberta,cardiff-alberta,GPE
+Cardiff,31679150,1,7,31679150,http://en.wikipedia.org/wiki/Cardiff_GAA_(St._Colmcilles),Cardiff GAA,cardiff-gaa,cardiff-gaa-st-colmcilles,UNK
+Cardiff,26401136,6,20,69894;5882,"http://en.wikipedia.org/wiki/Cardiff,_Tennessee","Cardiff, Tennessee",cardiff-tennessee,cardiff-tennessee,UNK
+Cardiff,1423213,531,470,338052;351029;31717;69894;33545;1971947;46394;5882;699624,http://en.wikipedia.org/wiki/Cardiff_Airport,Cardiff Airport,cardiff-airport,cardiff-airport,UNK
+Cardiff,7824328,12,29,6242847;69894;113661;1529492;5882,http://en.wikipedia.org/wiki/HM_Prison_Cardiff,HM Prison Cardiff,hm-prison-cardiff,hm-prison-cardiff,UNK
+Cardiff,517398,80,86,69894;5882,"http://en.wikipedia.org/wiki/Cardiff,_New_York","Cardiff, New York",cardiff-new-york,cardiff-new-york,GPE
+Cardiff,13830718,4,13,9316,"http://en.wikipedia.org/wiki/Cardiff,_New_Zealand","Cardiff, New Zealand",cardiff-new-zealand,cardiff-new-zealand,UNK
+Cardiff,104769,66,102,5882,"http://en.wikipedia.org/wiki/Cardiff,_Alabama","Cardiff, Alabama",cardiff-alabama,cardiff-alabama,GPE
+Cardiff,1145218,226,122,10644210;823473;187448;508567;16600288;10628516;1145218,http://en.wikipedia.org/wiki/Cardiff_Railway,Cardiff Railway,cardiff-railway,cardiff-railway,UNK
+Cardiff,6876114,54,59,69894;5882,"http://en.wikipedia.org/wiki/Cardiff,_Maryland","Cardiff, Maryland",cardiff-maryland,cardiff-maryland,GPE
+Cardiff,2533183,132,151,26994;8569916;9316;517140,"http://en.wikipedia.org/wiki/Cardiff,_New_South_Wales","Cardiff, New South Wales",cardiff-new-south-wales,cardiff-new-south-wales,UNK
+Cardiff,113661,282,318,1529492;7824328;355341;351029;338169;6242847;65370;9467811;1306659;69894;33545;14918905;5882,http://en.wikipedia.org/wiki/Cardiff_Castle,Cardiff Castle,cardiff-castle,cardiff-castle,UNK
+Cardiff,338169,1194,446,338169;153992;460615;7616040;69894;33545;113661;1359751;351029;362329;31717;2013768;25405;318040;5882,http://en.wikipedia.org/wiki/Cardiff_University,Cardiff University,cardiff-university,cardiff-university,ORG
+Cardiff,12932484,58,63,9782160,"http://en.wikipedia.org/wiki/Cardiff,_Illinois","Cardiff, Illinois",cardiff-illinois,cardiff-illinois,UNK
+Cardiff,27577863,1,85,218205;338052;33545;5882;290509;353261;351029;339588,http://en.wikipedia.org/wiki/Geography_of_Cardiff,Geography of Cardiff,geography-of-cardiff,geography-of-cardiff,UNK
+Cardiff,351029,488,395,338052;351029;338169;31717;27577863;69894;33545;1423213;113661;14918905;5882,http://en.wikipedia.org/wiki/Cardiff_Bay,Cardiff Bay,cardiff-bay,cardiff-bay,UNK
+Llanelli,2697758,541,200,2593827;1359751;362329;6474240;25405;321027;9952855;1463014;872781;69894;33545;1095036;642484;872917;46394;1204424,http://en.wikipedia.org/wiki/Llanelli_RFC,Llanelli RFC,llanelli-rfc,llanelli-rfc,UNK
+Llanelli,3266280,37,57,6012908;3266861;69894;5882;6988806;362329,http://en.wikipedia.org/wiki/District_of_Llanelli,District of Llanelli,district-of-llanelli,district-of-llanelli,GPE
+Llanelli,362329,841,332,2697758;338169;19744188;69894;33545;3266280;31717;8569916;25405;1219456;46394;5882,http://en.wikipedia.org/wiki/Llanelli,Llanelli,llanelli,llanelli,GPE
+Llanelli,1219456,318,355,362329;9526029;451169;8183240;69894;1219456;9316;26994,http://en.wikipedia.org/wiki/Llanelli_A.F.C.,Llanelli A.F.C.,llanelli-afc,llanelli-afc,UNK
+Newbridge,9952886,61,82,872781;69894;642484;6474240;1728976;25405;9952855,http://en.wikipedia.org/wiki/Newbridge_RFC,Newbridge RFC,newbridge-rfc,newbridge-rfc,UNK
+Newbridge,10750974,5,27,,"http://en.wikipedia.org/wiki/Newbridge,_River_Thames","Newbridge, River Thames",newbridge-river-thames,newbridge-river-thames,UNK
+Newbridge,5686528,73,14,8569916,"http://en.wikipedia.org/wiki/Newbridge,_County_Galway","Newbridge, County Galway",newbridge-county-galway,newbridge-county-galway,GPE
+Newbridge,12098143,31,44,,"http://en.wikipedia.org/wiki/Newbridge,_Victoria","Newbridge, Victoria",newbridge-victoria,newbridge-victoria,UNK
+Newbridge,2327216,0,2,1728976,"http://en.wikipedia.org/wiki/Newbridge,_Monmouthshire","Newbridge, Monmouthshire",newbridge-monmouthshire,newbridge-monmouthshire,UNK
+Newbridge,30162931,10,23,996633,http://en.wikipedia.org/wiki/Newbridge_Estate,Newbridge Estate,newbridge-estate,newbridge-estate,UNK
+Newbridge,7818732,21,47,31717;41523;9316;36741,"http://en.wikipedia.org/wiki/Newbridge,_Bath","Newbridge, Bath",newbridge-bath,newbridge-bath,GPE
+Newbridge,1728976,115,119,69894;26994;33545;339588;2327216;654592;2030193;3572667;9952886,"http://en.wikipedia.org/wiki/Newbridge,_Caerphilly","Newbridge, Caerphilly",newbridge-caerphilly,newbridge-caerphilly,GPE
+Newbridge,2593996,8,11,9316,"http://en.wikipedia.org/wiki/Newbridge,_Wolverhampton","Newbridge, Wolverhampton",newbridge-wolverhampton,newbridge-wolverhampton,UNK
+Newbridge,996633,244,127,30162931;3221148,"http://en.wikipedia.org/wiki/Newbridge,_County_Kildare","Newbridge, County Kildare",newbridge-county-kildare,newbridge-county-kildare,GPE
+Newbridge,6132932,188,200,31717;26994,"http://en.wikipedia.org/wiki/Newbridge,_Edinburgh","Newbridge, Edinburgh",newbridge-edinburgh,newbridge-edinburgh,UNK
+Newbridge,14039922,8,13,,"http://en.wikipedia.org/wiki/Newbridge,_River_Dart","Newbridge, River Dart",newbridge-river-dart,newbridge-river-dart,UNK
+Newbridge,42358915,0,160,17867;69894;31717;5882,"http://en.wikipedia.org/wiki/Newbridge,_Ceredigion","Newbridge, Ceredigion",newbridge-ceredigion,newbridge-ceredigion,GPE
+Newbridge,28252313,4,5,28252313,"http://en.wikipedia.org/wiki/Newbridge,_County_Londonderry","Newbridge, County Londonderry",newbridge-county-londonderry,newbridge-county-londonderry,UNK
+Newbridge,23067458,2,27,9316;31717,"http://en.wikipedia.org/wiki/Newbridge,_North_Yorkshire","Newbridge, North Yorkshire",newbridge-north-yorkshire,newbridge-north-yorkshire,GPE
+Newbridge,3090523,128,172,9316;31717,"http://en.wikipedia.org/wiki/Newbridge,_Isle_of_Wight","Newbridge, Isle of Wight",newbridge-isle-of-wight,newbridge-isle-of-wight,UNK
+Newbridge,3221148,39,26,996633,http://en.wikipedia.org/wiki/Newbridge_College,Newbridge College,newbridge-college,newbridge-college,UNK
+Newbridge,3314070,11,18,,"http://en.wikipedia.org/wiki/Newbridge,_New_South_Wales","Newbridge, New South Wales",newbridge-new-south-wales,newbridge-new-south-wales,UNK
+Newbridge,5964659,7,82,31717,"http://en.wikipedia.org/wiki/Newbridge,_Cornwall","Newbridge, Cornwall",newbridge-cornwall,newbridge-cornwall,GPE
+Newport,872781,762,257,338052;2593827;2697758;69894;33545;642484;1204424;1979836;2795095;1359751;13744592;5564304;963556;963537;6474240;9952886;9952855;486954;339588;9316;872917;26994,http://en.wikipedia.org/wiki/Newport_Gwent_Dragons,Newport Gwent Dragons,newport-gwent-dragons,newport-gwent-dragons,UNK
+Newport,2620956,52,54,338052,http://en.wikipedia.org/wiki/Newport_(Monmouthshire)_(UK_Parliament_constituency),Newport (Monmouthshire),newport-monmouthshire,newport-monmouthshire-uk-parliament-constituency,UNK
+Newport,3860216,135,199,3050777;23151453;3299260,http://en.wikipedia.org/wiki/USS_Newport_(PF-27),USS Newport,uss-newport,uss-newport-pf-27,UNK
+Newport,27626465,52,69,27626035,"http://en.wikipedia.org/wiki/Newport,_Page_County,_Virginia","Newport, Page County, Virginia",newport-page-county-virginia,newport-page-county-virginia,GPE
+Newport,259293,117,129,,"http://en.wikipedia.org/wiki/Newport,_Maine","Newport, Maine",newport-maine,newport-maine,GPE
+Newport,30588851,37,48,,"http://en.wikipedia.org/wiki/Newport,_Shelby_County,_Ohio","Newport, Shelby County, Ohio",newport-shelby-county-ohio,newport-shelby-county-ohio,GPE
+Newport,259832,15,57,,"http://en.wikipedia.org/wiki/Newport,_New_York","Newport, New York",newport-new-york,newport-new-york,GPE
+Newport,3978957,10,10,9316;36741;65370,"http://en.wikipedia.org/wiki/Newport,_Gloucestershire","Newport, Gloucestershire",newport-gloucestershire,newport-gloucestershire,GPE
+Newport,608714,12,16,2529921,http://en.wikipedia.org/wiki/Newport_Tower_(Jersey_City),Newport Tower,newport-tower,newport-tower-jersey-city,UNK
+Newport,9629061,56,63,,"http://en.wikipedia.org/wiki/Newport,_Washington_County,_Ohio","Newport, Washington County, Ohio",newport-washington-county-ohio,newport-washington-county-ohio,GPE
+Newport,2915672,43,61,2529921,"http://en.wikipedia.org/wiki/Newport,_New_Jersey","Newport, New Jersey",newport-new-jersey,newport-new-jersey,UNK
+Newport,23171995,217,225,,"http://en.wikipedia.org/wiki/Newport,_California","Newport, California",newport-california,newport-california,GPE
+Newport,29043773,2,26,31717;26994,"http://en.wikipedia.org/wiki/Newport,_Caithness","Newport, Caithness",newport-caithness,newport-caithness,GPE
+Newport,18746054,0,1,,"http://en.wikipedia.org/wiki/Newport,_TN_µSA","Newport, TN µSA",newport-tn-µsa,newport-tn-µsa,PER
+Newport,632155,60,57,,"http://en.wikipedia.org/wiki/Newport,_Victoria","Newport, Victoria",newport-victoria,newport-victoria,UNK
+Newport,19573194,1,3,19573177;3755640,"http://en.wikipedia.org/wiki/Newport,_Florida","Newport, Florida",newport-florida,newport-florida,UNK
+Newport,5832470,33,43,35260209,"http://en.wikipedia.org/wiki/Newport,_Quebec","Newport, Quebec",newport-quebec,newport-quebec,GPE
+Newport,2529921,65,67,2915672;608714,"http://en.wikipedia.org/wiki/Newport,_Jersey_City","Newport, Jersey City",newport-jersey-city,newport-jersey-city,UNK
+Newport,3589071,34,95,428952,http://en.wikipedia.org/wiki/USS_Newport_(LST-1179),USS Newport,uss-newport,uss-newport-lst-1179,UNK
+Newport,10306034,1,1,,"http://en.wikipedia.org/wiki/Newport,_TN_μSA","Newport, TN μSA",newport-tn-μsa,newport-tn-μsa,PER
+Newport,27626035,4,3,27626383;27626465;20115675,"http://en.wikipedia.org/wiki/Newport,_Virginia","Newport, Virginia",newport-virginia,newport-virginia,UNK
+Newport,20115675,24,29,27626035,"http://en.wikipedia.org/wiki/Newport,_Giles_County,_Virginia","Newport, Giles County, Virginia",newport-giles-county-virginia,newport-giles-county-virginia,GPE
+Newport,21331979,50,60,,"http://en.wikipedia.org/wiki/Newport,_Charles_County,_Maryland","Newport, Charles County, Maryland",newport-charles-county-maryland,newport-charles-county-maryland,GPE
+Newport,2581212,170,172,,"http://en.wikipedia.org/wiki/Newport,_New_South_Wales","Newport, New South Wales",newport-new-south-wales,newport-new-south-wales,UNK
+Newport,6780330,92,77,,http://en.wikipedia.org/wiki/Newport_GAA,Newport GAA,newport-gaa,newport-gaa,UNK
+Newport,3755640,34,50,19573194,"http://en.wikipedia.org/wiki/Newport,_Wakulla_County,_Florida","Newport, Wakulla County, Florida",newport-wakulla-county-florida,newport-wakulla-county-florida,UNK
+Newport,25320151,2,4,,"http://en.wikipedia.org/wiki/Newport,_Newfoundland_and_Labrador","Newport, Newfoundland and Labrador",newport-newfoundland-and-labrador,newport-newfoundland-and-labrador,UNK
+Newport,108925,293,132,,"http://en.wikipedia.org/wiki/Newport,_Delaware","Newport, Delaware",newport-delaware,newport-delaware,GPE
+Newport,42538393,68,75,,"http://en.wikipedia.org/wiki/Newport,_Illinois","Newport, Illinois",newport-illinois,newport-illinois,GPE
+Newport,27626383,46,61,27626035,"http://en.wikipedia.org/wiki/Newport,_Augusta_County,_Virginia","Newport, Augusta County, Virginia",newport-augusta-county-virginia,newport-augusta-county-virginia,GPE
+Newport,1910732,21,80,,http://en.wikipedia.org/wiki/Newport_(cigarette),Newport,newport,newport-cigarette,UNK
+Newport,2400537,120,73,2567186,http://en.wikipedia.org/wiki/Newport_(Cornwall)_(UK_Parliament_constituency),Newport (Cornwall),newport-cornwall,newport-cornwall-uk-parliament-constituency,ORG
+Newport,12474594,95,113,,"http://en.wikipedia.org/wiki/Newport,_Queensland","Newport, Queensland",newport-queensland,newport-queensland,UNK
+Newport,338052,2125,573,654573;1978170;27577863;17867;65370;654592;10644210;69894;699624;21317850;351029;8569916;1958354;25405;3572667;1423213;339588;36741;218205;5882;1982864;353770;13022173;41523;9467811;33545;3568425;2620956;31717;6988806;872781;46394;353261;3569436,"http://en.wikipedia.org/wiki/Newport,_Wales","Newport, Wales",newport-wales,newport-wales,GPE
+Newport,22913903,1,63,9316,http://en.wikipedia.org/wiki/Newport_Hundred,Newport Hundred,newport-hundred,newport-hundred,UNK
+Newport,5988769,23,19,31717,http://en.wikipedia.org/wiki/Newport_(Shropshire)_(UK_Parliament_constituency),Newport (Shropshire),newport-shropshire,newport-shropshire-uk-parliament-constituency,UNK
+Newport,428952,54,96,3589071;26994;9316;4179,http://en.wikipedia.org/wiki/Newport_Tower_(Rhode_Island),Newport Tower,newport-tower,newport-tower-rhode-island,UNK
+Newport,35260209,3,5,5832470,"http://en.wikipedia.org/wiki/Newport,_Chandler,_Quebec","Newport, Chandler, Quebec",newport-chandler-quebec,newport-chandler-quebec,UNK
+Newport,35708410,141,155,,"http://en.wikipedia.org/wiki/Newport,_West_Virginia","Newport, West Virginia",newport-west-virginia,newport-west-virginia,GPE
+Newport,19573177,45,56,19573194,"http://en.wikipedia.org/wiki/Newport,_Monroe_County,_Florida","Newport, Monroe County, Florida",newport-monroe-county-florida,newport-monroe-county-florida,GPE
+Newport,30699814,54,5,,"http://en.wikipedia.org/wiki/Newport,_Tuscarawas_County,_Ohio","Newport, Tuscarawas County, Ohio",newport-tuscarawas-county-ohio,newport-tuscarawas-county-ohio,GPE
+Newport,16600288,175,158,10644210;69894;9316;10628516;1145218,"http://en.wikipedia.org/wiki/Newport,_Abergavenny_and_Hereford_Railway","Newport, Abergavenny and Hereford Railway",newport-abergavenny-and-hereford-railway,newport-abergavenny-and-hereford-railway,UNK
+Newport,24539453,43,63,,"http://en.wikipedia.org/wiki/Newport,_Madison_County,_Ohio","Newport, Madison County, Ohio",newport-madison-county-ohio,newport-madison-county-ohio,GPE
+Newport,2567186,9,82,2400537,"http://en.wikipedia.org/wiki/Newport,_Cornwall","Newport, Cornwall",newport-cornwall,newport-cornwall,UNK
+Newport,7283907,11,13,,"http://en.wikipedia.org/wiki/Newport,_Texas","Newport, Texas",newport-texas,newport-texas,GPE
+Newport,1958354,192,126,338052;451169,http://en.wikipedia.org/wiki/Newport_Stadium,Newport Stadium,newport-stadium,newport-stadium,UNK
+Newport,5606257,28,50,17867;31717;9316,"http://en.wikipedia.org/wiki/Newport,_Essex","Newport, Essex",newport-essex,newport-essex,GPE
+Newport,1780136,18,25,,http://en.wikipedia.org/wiki/Newport_Center,Newport Center,newport-center,newport-center,UNK
+Dunvant,5564304,20,54,46394;872781;69894;2567722;25405;642484,http://en.wikipedia.org/wiki/Dunvant_RFC,Dunvant RFC,dunvant-rfc,dunvant-rfc,PER
+Dunvant,13022173,64,212,338052;69894;33545;654573;1971947;36741;31717;2567722;46394;65370;41523;5882;654592;21317850,http://en.wikipedia.org/wiki/Dunvant_(electoral_ward),Dunvant,dunvant,dunvant-electoral-ward,ORG
+Dunvant,2567722,24,24,46394;69894;5564304;33545;13022173,http://en.wikipedia.org/wiki/Dunvant,Dunvant,dunvant,dunvant,GPE
+Pontypridd,872917,288,204,2593827;1463014;872781;69894;2697758;1359751;642484;9316;13744592;1204424;6474240;218205;25405;9952855,http://en.wikipedia.org/wiki/Pontypridd_RFC,Pontypridd RFC,pontypridd-rfc,pontypridd-rfc,UNK
+Pontypridd,218205,641,238,338052;637047;27577863;25405;10644210;69894;33545;339588;872917;5882,http://en.wikipedia.org/wiki/Pontypridd,Pontypridd,pontypridd,pontypridd,GPE
+Pontypridd,10644210,136,159,338052;218205;16600288;5882;10628516;3569436;3572667;1145218,"http://en.wikipedia.org/wiki/Pontypridd,_Caerphilly_and_Newport_Railway","Pontypridd, Caerphilly and Newport Railway",pontypridd-caerphilly-and-newport-railway,pontypridd-caerphilly-and-newport-railway,UNK
+Bridgend,6474240,193,183,2593827;1463014;872781;69894;2697758;1359751;642484;9316;872917;629563;1204424;353261;25405;9952886;321027;9952855,http://en.wikipedia.org/wiki/Bridgend_Ravens,Bridgend Ravens,bridgend-ravens,bridgend-ravens,UNK
+Bridgend,7616040,49,35,318040;69894;353261;2013768;338169,http://en.wikipedia.org/wiki/Bridgend_College,Bridgend College,bridgend-college,bridgend-college,UNK
+Bridgend,22147928,108,120,,"http://en.wikipedia.org/wiki/Bridgend,_County_Donegal","Bridgend, County Donegal",bridgend-county-donegal,bridgend-county-donegal,GPE
+Bridgend,353261,806,289,338052;637047;654573;27577863;290509;17867;629563;451169;7616040;69894;33545;35879491;31717;6474240;25405;9316;46394;353261;5882,http://en.wikipedia.org/wiki/Bridgend,Bridgend,bridgend,bridgend,GPE
+Bridgend,22679399,5,5,26994,"http://en.wikipedia.org/wiki/Bridgend,_West_Lothian","Bridgend, West Lothian",bridgend-west-lothian,bridgend-west-lothian,UNK
+Bridgend,2661066,10,34,31717;26994,"http://en.wikipedia.org/wiki/Bridgend,_Islay","Bridgend, Islay",bridgend-islay,bridgend-islay,GPE
+Bridgend,654573,219,120,338052;69894;33545;46394;13022173;353261;35879491;5882;654592;6988806;21317850,http://en.wikipedia.org/wiki/Bridgend_County_Borough,Bridgend County Borough,bridgend-county-borough,bridgend-county-borough,UNK
+Bridgend,35879491,61,99,69894;33545;353261;654573;31717,http://en.wikipedia.org/wiki/Bridgend_(community),Bridgend,bridgend,bridgend-community,GPE
+Swansea,2593827,564,194,2697758;1359751;6474240;25405;9952855;1463014;872781;69894;642484;9316;872917;46394;1204424,http://en.wikipedia.org/wiki/Swansea_RFC,Swansea RFC,swansea-rfc,swansea-rfc,UNK
+Swansea,6012908,37,56,3266280;46394;69894;3266861;33545;5882;6988806,http://en.wikipedia.org/wiki/District_of_Swansea,District of Swansea,district-of-swansea,district-of-swansea,GPE
+Swansea,318040,585,306,338169;153992;634963;31717;8569916;460615;2013768;7616040;69894;33545;46394,http://en.wikipedia.org/wiki/Swansea_University,Swansea University,swansea-university,swansea-university,ORG
+Swansea,794216,134,145,46394;69894,"http://en.wikipedia.org/wiki/Swansea,_California","Swansea, California",swansea-california,swansea-california,GPE
+Swansea,116731,376,330,257284;69894;12637831;116744;46394;248962,"http://en.wikipedia.org/wiki/Swansea,_Massachusetts","Swansea, Massachusetts",swansea-massachusetts,swansea-massachusetts,GPE
+Swansea,508153,32,28,69894;9316,"http://en.wikipedia.org/wiki/Swansea,_Tasmania","Swansea, Tasmania",swansea-tasmania,swansea-tasmania,UNK
+Swansea,634963,86,138,318040;69894;33545;4601608;19744188;1470580;46394;5509506;21317850,http://en.wikipedia.org/wiki/Swansea_Bay,Swansea Bay,swansea-bay,swansea-bay,GPE
+Swansea,134577,45,47,,"http://en.wikipedia.org/wiki/Swansea,_South_Carolina","Swansea, South Carolina",swansea-south-carolina,swansea-south-carolina,GPE
+Swansea,6242847,10,33,46394;69894;451169;113661;1529492;7824328,http://en.wikipedia.org/wiki/HM_Prison_Swansea,HM Prison Swansea,hm-prison-swansea,hm-prison-swansea,UNK
+Swansea,2013768,17,55,318040;46394;7616040;69894;8569916;338169,http://en.wikipedia.org/wiki/Swansea_College,Swansea College,swansea-college,swansea-college,ORG
+Swansea,457012,254,241,69894;46394,"http://en.wikipedia.org/wiki/Swansea,_Toronto","Swansea, Toronto",swansea-toronto,swansea-toronto,GPE
+Swansea,4601608,86,56,46394;69894;634963;31717,http://en.wikipedia.org/wiki/Swansea_Museum,Swansea Museum,swansea-museum,swansea-museum,UNK
+Swansea,111938,226,250,,"http://en.wikipedia.org/wiki/Swansea,_Illinois","Swansea, Illinois",swansea-illinois,swansea-illinois,GPE
+Swansea,1529492,31,28,46394;6242847;69894;113661;7824328,http://en.wikipedia.org/wiki/Swansea_Castle,Swansea Castle,swansea-castle,swansea-castle,UNK
+Swansea,4047707,168,126,517140,http://en.wikipedia.org/wiki/Electoral_district_of_Swansea,Electoral district of Swansea,electoral-district-of-swansea,electoral-district-of-swansea,UNK
+Swansea,4675101,89,104,46394;4675015;69894;25803577,http://en.wikipedia.org/wiki/Swansea_services,Swansea services,swansea-services,swansea-services,UNK
+Swansea,5653004,63,36,46394;31717;33545,http://en.wikipedia.org/wiki/Swansea_Valley,Swansea Valley,swansea-valley,swansea-valley,GPE
+Swansea,21317850,17,212,338052;69894;654573;1971947;36741;634963;31717;46394;13022173;65370;41523;5882;654592,http://en.wikipedia.org/wiki/Swansea_Beach,Swansea Beach,swansea-beach,swansea-beach,GPE
+Swansea,826509,3,7,826509,"http://en.wikipedia.org/wiki/Swansea,_Nevada","Swansea, Nevada",swansea-nevada,swansea-nevada,UNK
+Swansea,451169,2634,569,451169;69894;1958354;1219456;9316;33545;168007;6242847;8183240;46394;26994;353261,http://en.wikipedia.org/wiki/Swansea_City_A.F.C.,Swansea City A.F.C.,swansea-city-afc,swansea-city-afc,UNK
+Swansea,517140,138,129,4047707;2533183,"http://en.wikipedia.org/wiki/Swansea,_New_South_Wales","Swansea, New South Wales",swansea-new-south-wales,swansea-new-south-wales,UNK
+Swansea,19744188,6,44,46394;69894;634963;290509;362329,http://en.wikipedia.org/wiki/Swansea_Bay_(region),Swansea Bay,swansea-bay,swansea-bay-region,GPE
+Swansea,1971947,242,131,69894;33545;1423213;31717;46394;17867;13022173;699624;21317850,http://en.wikipedia.org/wiki/Swansea_Airport,Swansea Airport,swansea-airport,swansea-airport,UNK
+Swansea,507028,40,10,,http://en.wikipedia.org/wiki/Baron_Swansea,Baron Swansea,baron-swansea,baron-swansea,ORG
+Swansea,826549,35,65,46394;69894;31717,"http://en.wikipedia.org/wiki/Swansea,_Arizona","Swansea, Arizona",swansea-arizona,swansea-arizona,UNK
+Swansea,6742419,5,16,,http://en.wikipedia.org/wiki/Swansea_(St._Louis_MetroLink),Swansea,swansea,swansea-st-louis-metrolink,UNK
+Swansea,46394,3046,548,2593827;290509;17867;451169;69894;1204424;21317850;5564304;1423213;9316;36741;794216;2697758;41523;2030193;4675101;33545;1971947;1529492;826549;6242847;2013768;5653004;338052;654573;2567722;65370;654592;699624;362329;6012908;5882;116731;19744188;634963;13022173;457012;4601608;31717;5509506;6988806;318040;353261,http://en.wikipedia.org/wiki/Swansea,Swansea,swansea,swansea,GPE
+Swansea,5509506,16,13,46394;69894;634963,http://en.wikipedia.org/wiki/Swansea_Market,Swansea Market,swansea-market,swansea-market,UNK
+Swansea,12637831,5,16,116731,http://en.wikipedia.org/wiki/Swansea_Mall,Swansea Mall,swansea-mall,swansea-mall,UNK
+Neath,1204424,393,169,2593827;2697758;1359751;290509;6474240;25405;9952855;8183240;1463014;872781;69894;642484;872917;46394;26994;2795095,http://en.wikipedia.org/wiki/Neath_RFC,Neath RFC,neath-rfc,neath-rfc,UNK
+Neath,12072225,1,1,,http://en.wikipedia.org/wiki/Neath_Hospital,Neath Hospital,neath-hospital,neath-hospital,PER
+Neath,1470580,109,112,69894;33545;147606;634963;31717;10628516;290509;18584161,http://en.wikipedia.org/wiki/River_Neath,River Neath,river-neath,river-neath,UNK
+Neath,147606,58,72,69894;31717;290509;1470580;18584161,http://en.wikipedia.org/wiki/Neath_Abbey,Neath Abbey,neath-abbey,neath-abbey,UNK
+Neath,8183240,102,128,69894;1204424;1219456;9316;9526029;290509;451169,http://en.wikipedia.org/wiki/Neath_F.C.,Neath F.C.,neath-fc,neath-fc,UNK
+Neath,290509,649,217,3266861;147606;19744188;31717;27577863;18584161;10628516;8183240;69894;33545;3736;1470580;46394;1204424;353261;5882,http://en.wikipedia.org/wiki/Neath,Neath,neath,neath,GPE
+Neath,10628516,204,155,10644210;290509;1470580;16600288;10628516;1145218,http://en.wikipedia.org/wiki/Neath_and_Brecon_Railway,Neath and Brecon Railway,neath-and-brecon-railway,neath-and-brecon-railway,UNK
+Neath,18584161,47,105,69894;147606;290509;1470580,http://en.wikipedia.org/wiki/Neath_Castle,Neath Castle,neath-castle,neath-castle,UNK
+Neath,3266861,36,51,3266280;6012908;69894;33545;5882;290509;6988806,http://en.wikipedia.org/wiki/District_of_Neath,District of Neath,district-of-neath,district-of-neath,GPE
+Treorchy,13744592,47,64,637047;872781;69894;872917;25405;642484,http://en.wikipedia.org/wiki/Treorchy_RFC,Treorchy RFC,treorchy-rfc,treorchy-rfc,PER
+Treorchy,3568425,126,170,338052;637047;33545;5882;3569436;3572667,http://en.wikipedia.org/wiki/Treorchy_railway_station,Treorchy railway station,treorchy-railway-station,treorchy-railway-station,ORG
+Treorchy,637047,182,186,69894;33545;339588;31717;13744592;353261;218205;3568425;5882;25405,http://en.wikipedia.org/wiki/Treorchy,Treorchy,treorchy,treorchy,GPE
+Ebbw Vale,9952855,188,115,2593827;872781;69894;2697758;1359751;642484;9316;872917;353770;26994;1204424;6474240;1979836;9952886,http://en.wikipedia.org/wiki/Ebbw_Vale_RFC,Ebbw Vale RFC,ebbw-vale-rfc,ebbw-vale-rfc,ORG
+Ebbw Vale,353770,238,91,338052;69894;33545;14430976;9526029;25405;3572667;9952855,http://en.wikipedia.org/wiki/Ebbw_Vale,Ebbw Vale,ebbw-vale,ebbw-vale,GPE
+Ebbw Vale,9526029,125,23,8183240;69894;353770;1219456;33545;9316,http://en.wikipedia.org/wiki/Ebbw_Vale_F.C.,Ebbw Vale F.C.,ebbw-vale-fc,ebbw-vale-fc,UNK
+Ebbw Vale,3572667,120,154,338052;10644210;353770;33545;3568425;1728976;5882;3569436,http://en.wikipedia.org/wiki/Ebbw_Vale_Parkway_railway_station,Ebbw Vale Parkway railway station,ebbw-vale-parkway-railway-station,ebbw-vale-parkway-railway-station,ORG
+Ebbw Vale,14430976,75,95,69894;353770;33545,"http://en.wikipedia.org/wiki/Ebbw_Vale,_Queensland","Ebbw Vale, Queensland",ebbw-vale-queensland,ebbw-vale-queensland,UNK
+Scottish,26994,59696,1247,1890;3736;4179;4721;5882;145684;9316;23501645;12249;417279;14996;2661066;17867;963556;963537;22667;26994;31717;451169;2533183;33545;318427;321027;41523;3019555;1290035;168007;428952;1901715;6132932;64116;187448;34850722;69894;19097669;5687736;22679399;629563;486954;1463014;3543483;2030193;18803164;5188309;1882784;17420442;3283715;1204424;4320562;12164403;9952855;105876;1219456;377070;872781;1095036;18974570;8569916;253173;1979836;29043773;1728976,http://en.wikipedia.org/wiki/Scotland,Scotland,scotland,scotland,GPE
+Scottish,4320562,35,67,26994;4721;31717,http://en.wikipedia.org/wiki/Scottish_regiment,Scottish regiment,scottish-regiment,scottish-regiment,ORG
+Scottish,145684,181,138,26994,http://en.wikipedia.org/wiki/Scottish_Fold,Scottish Fold,scottish-fold,scottish-fold,UNK
+Scottish,23501645,13,129,26994;9316;31717,http://en.wikipedia.org/wiki/Scottish_Airlines,Scottish Airlines,scottish-airlines,scottish-airlines,ORG
+Scottish,1882784,85,61,26994;1306659,http://en.wikipedia.org/wiki/Scottish_Division,Scottish Division,scottish-division,scottish-division,ORG
+Scottish,17420442,8,8,26994,"http://en.wikipedia.org/wiki/Scottish_College,_Douai","Scottish College, Douai",scottish-college-douai,scottish-college-douai,UNK
+Scottish,105876,284,105,26994,http://en.wikipedia.org/wiki/Scottish_Natural_Heritage,Scottish Natural Heritage,scottish-natural-heritage,scottish-natural-heritage,ORG
+Scottish,417279,231,30,26994,http://en.wikipedia.org/wiki/Scottish_Opera,Scottish Opera,scottish-opera,scottish-opera,UNK
+Scottish,253173,799,465,34850722;26994;318427,http://en.wikipedia.org/wiki/Scottish_clan,Scottish clan,scottish-clan,scottish-clan,UNK
+Scottish,34850722,4015,458,69894;8569916;9316;253173;2030193;33545;18803164;19097669;3736;26994;4721;31717;318427,http://en.wikipedia.org/wiki/Scottish_people,Scottish people,scottish-people,scottish-people,UNK
+Scottish,5435713,187,173,5435713;17867,http://en.wikipedia.org/wiki/Scottish_hip-hop,Scottish hip-hop,scottish-hip-hop,scottish-hip-hop,UNK
+Scottish,232571,39,19,4721,http://en.wikipedia.org/wiki/Scottish_Party,Scottish Party,scottish-party,scottish-party,ORG
+Scottish,318427,679,408,17867;14996;4179;69894;4721;31717;8569916;1626272;9316;253173;34850722;1890;26994;318427,http://en.wikipedia.org/wiki/Scottish_English,Scottish English,scottish-english,scottish-english,UNK
+Boroughmuir,3283715,92,84,26994;25405;3019555,http://en.wikipedia.org/wiki/Boroughmuir_RFC,Boroughmuir RFC,boroughmuir-rfc,boroughmuir-rfc,UNK
+Boroughmuir,5687736,22,44,26994,http://en.wikipedia.org/wiki/Battle_of_Boroughmuir,Battle of Boroughmuir,battle-of-boroughmuir,battle-of-boroughmuir,UNK
+Watsonians,3019555,139,55,26994;3283715;25405,http://en.wikipedia.org/wiki/Watsonians_RFC,Watsonians RFC,watsonians-rfc,watsonians-rfc,UNK
+Watsonians,3495317,28,25,31717,http://en.wikipedia.org/wiki/Watsonia_(plant),Watsonia,watsonia,watsonia-plant,UNK

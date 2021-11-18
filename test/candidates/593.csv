@@ -1,0 +1,258 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Amtrak,51928,5172,762,260221;5042916;1369208;22808822;57706;41992;108956;13015878;1526892;138456;1645518;645042;2128320;92402;8620515;926190,http://en.wikipedia.org/wiki/Amtrak,Amtrak,amtrak,amtrak,UNK
+Amtrak,1369208,560,248,51928,http://en.wikipedia.org/wiki/Amtrak_California,Amtrak California,amtrak-california,amtrak-california,UNK
+Amtrak,8620515,3,7,51928,http://en.wikipedia.org/wiki/Amtrak_Express_Parcels,Amtrak Express Parcels,amtrak-express-parcels,amtrak-express-parcels,ORG
+MONTPELIER,41992,728,325,260221;260220;108956;570023;110607;557398;1645518;13015878;92402;137418;112134;57706;18057552;8210131;41712962;51928,"http://en.wikipedia.org/wiki/Montpelier,_Vermont","Montpelier, Vermont",montpelier-vermont,montpelier-vermont,GPE
+MONTPELIER,115740,18,15,,"http://en.wikipedia.org/wiki/Montpelier,_Louisiana","Montpelier, Louisiana",montpelier-louisiana,montpelier-louisiana,GPE
+MONTPELIER,110607,76,70,41992,"http://en.wikipedia.org/wiki/Montpelier,_Idaho","Montpelier, Idaho",montpelier-idaho,montpelier-idaho,GPE
+MONTPELIER,2344450,46,177,27854206;108956;18423747,"http://en.wikipedia.org/wiki/Montpelier_(Orange,_Virginia)",Montpelier,montpelier,montpelier-orange-virginia,UNK
+MONTPELIER,5860469,7,14,,"http://en.wikipedia.org/wiki/Montpelier,_County_Limerick","Montpelier, County Limerick",montpelier-county-limerick,montpelier-county-limerick,GPE
+MONTPELIER,570023,80,86,41992;563981,http://en.wikipedia.org/wiki/USS_Montpelier_(SSN-765),USS Montpelier,uss-montpelier,uss-montpelier-ssn-765,UNK
+MONTPELIER,12511562,94,182,,http://en.wikipedia.org/wiki/Montpelier_Hill,Montpelier Hill,montpelier-hill,montpelier-hill,UNK
+MONTPELIER,28849172,169,163,,"http://en.wikipedia.org/wiki/Montpelier,_Jamaica","Montpelier, Jamaica",montpelier-jamaica,montpelier-jamaica,UNK
+MONTPELIER,20147359,45,57,,"http://en.wikipedia.org/wiki/Montpelier,_Kentucky","Montpelier, Kentucky",montpelier-kentucky,montpelier-kentucky,UNK
+MONTPELIER,38037061,3,145,,"http://en.wikipedia.org/wiki/Montpelier_(Cabin_Point,_Virginia)",Montpelier,montpelier,montpelier-cabin-point-virginia,UNK
+MONTPELIER,563981,4,2,557398;570023,http://en.wikipedia.org/wiki/USS_Montpelier,USS Montpelier,uss-montpelier,uss-montpelier,UNK
+MONTPELIER,2700856,26,43,18423747,"http://en.wikipedia.org/wiki/Montpelier,_Hanover_County,_Virginia","Montpelier, Hanover County, Virginia",montpelier-hanover-county-virginia,montpelier-hanover-county-virginia,GPE
+MONTPELIER,112134,49,108,41992,"http://en.wikipedia.org/wiki/Montpelier,_Indiana","Montpelier, Indiana",montpelier-indiana,montpelier-indiana,GPE
+MONTPELIER,18423875,35,39,18423911;18423747,"http://en.wikipedia.org/wiki/Montpelier,_Charles_City_County,_Virginia","Montpelier, Charles City County, Virginia",montpelier-charles-city-county-virginia,montpelier-charles-city-county-virginia,GPE
+MONTPELIER,40681982,3,7,,"http://en.wikipedia.org/wiki/Montpelier,_London","Montpelier, London",montpelier-london,montpelier-london,GPE
+MONTPELIER,139239,51,69,,"http://en.wikipedia.org/wiki/Montpelier,_Wisconsin","Montpelier, Wisconsin",montpelier-wisconsin,montpelier-wisconsin,GPE
+MONTPELIER,2151498,121,120,,"http://en.wikipedia.org/wiki/Montpelier,_Maryland","Montpelier, Maryland",montpelier-maryland,montpelier-maryland,GPE
+MONTPELIER,41712962,37,39,41992;18057552,"http://en.wikipedia.org/wiki/Montpelier_Township,_Muscatine_County,_Iowa","Montpelier Township, Muscatine County, Iowa",montpelier-township-muscatine-county-iowa,montpelier-township-muscatine-county-iowa,GPE
+MONTPELIER,18423747,2,3,2344450;2700856;18423875,"http://en.wikipedia.org/wiki/Montpelier,_Virginia","Montpelier, Virginia",montpelier-virginia,montpelier-virginia,GPE
+MONTPELIER,557398,62,90,41992;563981;645042,http://en.wikipedia.org/wiki/USS_Montpelier_(CL-57),USS Montpelier,uss-montpelier,uss-montpelier-cl-57,UNK
+MONTPELIER,128806,23,52,,"http://en.wikipedia.org/wiki/Montpelier,_North_Dakota","Montpelier, North Dakota",montpelier-north-dakota,montpelier-north-dakota,GPE
+MONTPELIER,25142142,52,59,,"http://en.wikipedia.org/wiki/Montpelier,_California","Montpelier, California",montpelier-california,montpelier-california,GPE
+MONTPELIER,129965,67,67,,"http://en.wikipedia.org/wiki/Montpelier,_Ohio","Montpelier, Ohio",montpelier-ohio,montpelier-ohio,GPE
+MONTPELIER,22184995,51,62,,"http://en.wikipedia.org/wiki/Montpelier_(Clear_Spring,_Maryland)",Montpelier,montpelier,montpelier-clear-spring-maryland,UNK
+MONTPELIER,12392961,72,65,,"http://en.wikipedia.org/wiki/Montpelier_Mansion_(Laurel,_Maryland)",Montpelier Mansion,montpelier-mansion,montpelier-mansion-laurel-maryland,UNK
+MONTPELIER,27854206,20,39,2344450,"http://en.wikipedia.org/wiki/Montpelier_Station,_Virginia","Montpelier Station, Virginia",montpelier-station-virginia,montpelier-station-virginia,GPE
+MONTPELIER,22495651,15,21,,"http://en.wikipedia.org/wiki/Montpelier,_Mississippi","Montpelier, Mississippi",montpelier-mississippi,montpelier-mississippi,UNK
+MONTPELIER,40687073,3,147,,"http://en.wikipedia.org/wiki/Montpelier_(Sperryville,_Virginia)",Montpelier,montpelier,montpelier-sperryville-virginia,UNK
+MONTPELIER,18057552,41,51,41992;41712962,"http://en.wikipedia.org/wiki/Montpelier,_Iowa","Montpelier, Iowa",montpelier-iowa,montpelier-iowa,GPE
+MONTPELIER,33905389,152,307,,"http://en.wikipedia.org/wiki/Montpelier,_Brighton","Montpelier, Brighton",montpelier-brighton,montpelier-brighton,UNK
+Vt,2342518,128,61,,http://en.wikipedia.org/wiki/VT_Group,VT Group,vt-group,vt-group,UNK
+Vt,5420692,26,13,,http://en.wikipedia.org/wiki/VT_Systems,VT Systems,vt-systems,vt-systems,UNK
+Vt,2622712,35,41,,http://en.wikipedia.org/wiki/VTK,VTK,vtk,vtk,UNK
+St. Albans,260221,331,126,260220;108956;352511;41992;51928,"http://en.wikipedia.org/wiki/St._Albans_(city),_Vermont","St. Albans (city), Vermont",st-albans-city-vermont,st-albans-city-vermont,GPE
+St. Albans,1233808,567,195,28523,http://en.wikipedia.org/wiki/St_Albans_City_F.C.,St Albans City F.C.,st-albans-city-fc,st-albans-city-fc,UNK
+St. Albans,718822,65,86,28523,"http://en.wikipedia.org/wiki/St_Albans,_New_South_Wales","St Albans, New South Wales",st-albans-new-south-wales,st-albans-new-south-wales,UNK
+St. Albans,14886528,249,196,615760,http://en.wikipedia.org/wiki/Electoral_district_of_St_Albans,Electoral district of St Albans,electoral-district-of-st-albans,electoral-district-of-st-albans,PER
+St. Albans,7134213,28,57,28523,http://en.wikipedia.org/wiki/St_Albans_(London_Road)_railway_station,St Albans (London Road) railway station,st-albans-london-road-railway-station,st-albans-london-road-railway-station,UNK
+St. Albans,10389686,62,72,,"http://en.wikipedia.org/wiki/St._Albans_Township,_Hancock_County,_Illinois","St. Albans Township, Hancock County, Illinois",st-albans-township-hancock-county-illinois,st-albans-township-hancock-county-illinois,UNK
+St. Albans,615760,78,75,1519678;14886528,"http://en.wikipedia.org/wiki/St_Albans,_Victoria","St Albans, Victoria",st-albans-victoria,st-albans-victoria,UNK
+St. Albans,4850436,98,86,25876401,"http://en.wikipedia.org/wiki/St_Albans,_New_Zealand","St Albans, New Zealand",st-albans-new-zealand,st-albans-new-zealand,UNK
+St. Albans,73070,433,291,352511;28523;2181944,http://en.wikipedia.org/wiki/St_Albans_Cathedral,St Albans Cathedral,st-albans-cathedral,st-albans-cathedral,UNK
+St. Albans,5424068,0,9,5042916,"http://en.wikipedia.org/wiki/St._Alban's,_Newfoundland_and_Labrador","St. Alban's, Newfoundland and Labrador",st-albans-newfoundland-and-labrador,st-albans-newfoundland-and-labrador,UNK
+St. Albans,418583,113,221,108956;4690604;1645518,"http://en.wikipedia.org/wiki/St._Albans_School_(Washington,_D.C.)",St. Albans School,st-albans-school,st-albans-school-washington-dc,ORG
+St. Albans,4582842,31,43,28523,"http://en.wikipedia.org/wiki/St._Albans,_Missouri","St. Albans, Missouri",st-albans-missouri,st-albans-missouri,GPE
+St. Albans,154121,62,74,,"http://en.wikipedia.org/wiki/St._Albans,_Maine","St. Albans, Maine",st-albans-maine,st-albans-maine,GPE
+St. Albans,260220,124,69,41992;138456;260221,"http://en.wikipedia.org/wiki/St._Albans_(town),_Vermont","St. Albans (town), Vermont",st-albans-town-vermont,st-albans-town-vermont,GPE
+St. Albans,3580304,57,70,,"http://en.wikipedia.org/wiki/St._Albans_Township,_Licking_County,_Ohio","St. Albans Township, Licking County, Ohio",st-albans-township-licking-county-ohio,st-albans-township-licking-county-ohio,GPE
+St. Albans,138456,479,528,260220;51928,"http://en.wikipedia.org/wiki/St._Albans,_West_Virginia","St. Albans, West Virginia",st-albans-west-virginia,st-albans-west-virginia,GPE
+St. Albans,4690604,0,2,418583;2181944,http://en.wikipedia.org/wiki/St._Albans_School,St. Albans School,st-albans-school,st-albans-school,ORG
+St. Albans,25876401,282,271,4850436,http://en.wikipedia.org/wiki/St_Albans_(New_Zealand_electorate),St Albans,st-albans,st-albans-new-zealand-electorate,ORG
+St. Albans,352511,360,332,260221;28523;73070,http://en.wikipedia.org/wiki/City_of_St_Albans,City of St Albans,city-of-st-albans,city-of-st-albans,GPE
+St. Albans,28523,1104,451,1233808;352511;4582842;64263;718822;73070;7134213;2181944,http://en.wikipedia.org/wiki/St_Albans,St Albans,st-albans,st-albans,GPE
+St. Albans,1519678,68,66,615760,"http://en.wikipedia.org/wiki/St_Albans_Park,_Victoria","St Albans Park, Victoria",st-albans-park-victoria,st-albans-park-victoria,UNK
+St. Albans,2181944,343,349,4690604;28523;73070,http://en.wikipedia.org/wiki/St_Albans_School_(Hertfordshire),St Albans School,st-albans-school,st-albans-school-hertfordshire,UNK
+St. Albans,64263,207,195,8699528;28523;8210131;645042,"http://en.wikipedia.org/wiki/St._Albans,_Queens","St. Albans, Queens",st-albans-queens,st-albans-queens,UNK
+St. Albans,42128394,1,8,,"http://en.wikipedia.org/wiki/St_Albans,_West_Leigh","St Albans, West Leigh",st-albans-west-leigh,st-albans-west-leigh,UNK
+Canadian,5042916,159749,788,281157;6340;4236671;1702572;17232762;5042916;51928;39334075;17259359;88235;328618;645042;108956;1526892;19851291;8210131;952445;1791897;9089046;5424068;26544195;7174310;13015878;6399816;2477935,http://en.wikipedia.org/wiki/Canada,Canada,canada,canada,GPE
+Canadian,17259359,3,27,5042916,http://en.wikipedia.org/wiki/Canadian_International_(badminton),Canadian International,canadian-international,canadian-international-badminton,PER
+Canadian,9089046,5,9,5042916,http://en.wikipedia.org/wiki/Canadian_Bandurist_Capella,Canadian Bandurist Capella,canadian-bandurist-capella,canadian-bandurist-capella,UNK
+Canadian,17232762,30,39,5042916,http://en.wikipedia.org/wiki/Canadian_College,Canadian College,canadian-college,canadian-college,ORG
+Canadian,26544195,41,8,5042916;26544195,http://en.wikipedia.org/wiki/Canadian_Musician,Canadian Musician,canadian-musician,canadian-musician,ORG
+Canadian,1702572,66,78,5042916;645042,http://en.wikipedia.org/wiki/Canadian_Club,Canadian Club,canadian-club,canadian-club,UNK
+Canadian,19851291,1524,619,5042916;7174310;6340,http://en.wikipedia.org/wiki/Canadians,Canadians,canadians,canadians,UNK
+Canadian,21336436,40,47,,"http://en.wikipedia.org/wiki/Canadian,_Victoria","Canadian, Victoria",canadian-victoria,canadian-victoria,UNK
+Canadian,136047,323,375,617153,"http://en.wikipedia.org/wiki/Canadian,_Texas","Canadian, Texas",canadian-texas,canadian-texas,GPE
+Canadian,328618,637,343,108956;5042916;328618,http://en.wikipedia.org/wiki/Canadian_Space_Agency,Canadian Space Agency,canadian-space-agency,canadian-space-agency,ORG
+Canadian,4526025,84,25,,http://en.wikipedia.org/wiki/Canadian_Division,Canadian Division,canadian-division,canadian-division,ORG
+Canadian,6340,1256,589,5042916;7174310;19851291;6340;645042,http://en.wikipedia.org/wiki/Canadian_English,Canadian English,canadian-english,canadian-english,ORG
+Canadian,281157,198,250,5042916,http://en.wikipedia.org/wiki/Canadian_Airlines,Canadian Airlines,canadian-airlines,canadian-airlines,ORG
+Canadian,952445,14,28,5042916,http://en.wikipedia.org/wiki/Canadian_Party,Canadian Party,canadian-party,canadian-party,UNK
+Canadian,92111,394,276,617153;92111,"http://en.wikipedia.org/wiki/Canadian_County,_Oklahoma","Canadian County, Oklahoma",canadian-county-oklahoma,canadian-county-oklahoma,GPE
+Canadian,1684950,6,20,,http://en.wikipedia.org/wiki/Canadian_River_(Colorado),Canadian River,canadian-river,canadian-river-colorado,UNK
+Canadian,2477935,122,138,2477935;5042916,http://en.wikipedia.org/wiki/Canadian_Chinese_cuisine,Canadian Chinese cuisine,canadian-chinese-cuisine,canadian-chinese-cuisine,UNK
+Canadian,7174310,1,278,5042916;19851291;6340,http://en.wikipedia.org/wiki/American_Canadian,American Canadian,american-canadian,american-canadian,UNK
+Canadian,6399816,78,77,5042916,http://en.wikipedia.org/wiki/Canadian_GAA,Canadian GAA,canadian-gaa,canadian-gaa,GPE
+Canadian,4236671,83,91,5042916,http://en.wikipedia.org/wiki/Canadian_Silver_Maple_Leaf,Canadian Silver Maple Leaf,canadian-silver-maple-leaf,canadian-silver-maple-leaf,UNK
+Canadian,1526892,168,210,5042916;51928,http://en.wikipedia.org/wiki/Canadian_(train),Canadian,canadian,canadian-train,UNK
+Canadian,130520,35,46,,"http://en.wikipedia.org/wiki/Canadian,_Oklahoma","Canadian, Oklahoma",canadian-oklahoma,canadian-oklahoma,GPE
+Canadian,617153,208,50,136047;92111,http://en.wikipedia.org/wiki/Canadian_River,Canadian River,canadian-river,canadian-river,UNK
+"Washington, D.C.",108956,32028,1189,418583;21921258;27293846;637985;16799001;781926;88235;328618;645042;38852264;22808822;8210131;6736104;13015878;92402;6867764;3697541;5042916;3832041;41992;108956;1645518;2344450;260221;1421794;51928;24115349;20862995;926190;923946;17575333;924607;1797450;1979243;57706;19537757,"http://en.wikipedia.org/wiki/Washington,_D.C.","Washington, D.C.",washington-dc,washington-dc,GPE
+"Washington, D.C.",781926,87,38,108956;926190;923946;924607,"http://en.wikipedia.org/wiki/Southeast,_Washington,_D.C.","Southeast, Washington, D.C.",southeast-washington-dc,southeast-washington-dc,UNK
+"Washington, D.C.",6736104,364,371,108956,"http://en.wikipedia.org/wiki/Washington,_D.C.,_in_the_American_Civil_War","Washington, D.C., in the American Civil War",washington-dc-in-the-american-civil-war,washington-dc-in-the-american-civil-war,UNK
+"Washington, D.C.",923946,62,80,108956;926190;924607;781926,"http://en.wikipedia.org/wiki/Southwest,_Washington,_D.C.","Southwest, Washington, D.C.",southwest-washington-dc,southwest-washington-dc,UNK
+"Washington, D.C.",926190,90,40,108956;923946;924607;781926;51928,"http://en.wikipedia.org/wiki/Northeast,_Washington,_D.C.","Northeast, Washington, D.C.",northeast-washington-dc,northeast-washington-dc,UNK
+"Washington, D.C.",3697541,120,134,108956;3697541;8210131;1645518,http://en.wikipedia.org/wiki/Washington_D.C._Temple,Washington D.C. Temple,washington-dc-temple,washington-dc-temple,UNK
+"Washington, D.C.",924607,635,34,108956;923946;1979243;926190;781926,"http://en.wikipedia.org/wiki/Northwest,_Washington,_D.C.","Northwest, Washington, D.C.",northwest-washington-dc,northwest-washington-dc,UNK
+"Washington, D.C.",16799001,67,102,108956,"http://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Washington,_D.C.","Vehicle registration plates of Washington, D.C.",vehicle-registration-plates-of-washington-dc,vehicle-registration-plates-of-washington-dc,UNK
+"Washington, D.C.",1979243,91,139,108956;924607;3533063,"http://en.wikipedia.org/wiki/Geography_of_Washington,_D.C.","Geography of Washington, D.C.",geography-of-washington-dc,geography-of-washington-dc,UNK
+"Washington, D.C.",1797450,108,100,108956;645042,"http://en.wikipedia.org/wiki/Scouting_in_Washington,_D.C.","Scouting in Washington, D.C.",scouting-in-washington-dc,scouting-in-washington-dc,ORG
+"Washington, D.C.",1421794,67,104,108956;1421794,"http://en.wikipedia.org/wiki/Washington,_D.C._hardcore","Washington, D.C. hardcore",washington-dc-hardcore,washington-dc-hardcore,UNK
+Roxbury,137418,56,60,41992;573882,"http://en.wikipedia.org/wiki/Roxbury,_Vermont","Roxbury, Vermont",roxbury-vermont,roxbury-vermont,GPE
+Roxbury,224696,312,221,573882;92402;1645518,"http://en.wikipedia.org/wiki/Roxbury,_Boston","Roxbury, Boston",roxbury-boston,roxbury-boston,GPE
+Roxbury,33206611,117,132,138919;573882,"http://en.wikipedia.org/wiki/Roxbury_(community),_Wisconsin","Roxbury (community), Wisconsin",roxbury-community-wisconsin,roxbury-community-wisconsin,GPE
+Roxbury,138919,233,251,573882;33206611;8210131,"http://en.wikipedia.org/wiki/Roxbury,_Wisconsin","Roxbury, Wisconsin",roxbury-wisconsin,roxbury-wisconsin,GPE
+Roxbury,9128888,51,53,573882,"http://en.wikipedia.org/wiki/Roxbury,_Pennsylvania","Roxbury, Pennsylvania",roxbury-pennsylvania,roxbury-pennsylvania,GPE
+Roxbury,108760,118,149,573882,"http://en.wikipedia.org/wiki/Roxbury,_Connecticut","Roxbury, Connecticut",roxbury-connecticut,roxbury-connecticut,GPE
+Roxbury,8699528,162,127,64263;573882;645042,"http://en.wikipedia.org/wiki/Roxbury,_Queens","Roxbury, Queens",roxbury-queens,roxbury-queens,UNK
+Roxbury,14700332,25,33,573882,"http://en.wikipedia.org/wiki/Roxbury,_Kansas","Roxbury, Kansas",roxbury-kansas,roxbury-kansas,GPE
+Roxbury,124556,138,70,573882,"http://en.wikipedia.org/wiki/Roxbury,_New_Hampshire","Roxbury, New Hampshire",roxbury-new-hampshire,roxbury-new-hampshire,GPE
+Roxbury,126362,84,71,8210131;573882,"http://en.wikipedia.org/wiki/Roxbury,_New_York","Roxbury, New York",roxbury-new-york,roxbury-new-york,GPE
+Roxbury,573882,0,17,40780842;25196639;126362;8699528;125582;224696;9128888;138919;33206611;137418;124556;14700332;116089;108760,http://en.wikipedia.org/wiki/Roxbury,Roxbury,roxbury,roxbury,UNK
+Roxbury,40780842,4,144,573882,"http://en.wikipedia.org/wiki/Roxbury_(Oak_Grove,_Virginia)",Roxbury,roxbury,roxbury-oak-grove-virginia,UNK
+Roxbury,25196639,3,4,573882,"http://en.wikipedia.org/wiki/Roxbury,_Prince_Edward_Island","Roxbury, Prince Edward Island",roxbury-prince-edward-island,roxbury-prince-edward-island,GPE
+Roxbury,116089,63,90,573882,"http://en.wikipedia.org/wiki/Roxbury,_Maine","Roxbury, Maine",roxbury-maine,roxbury-maine,GPE
+Roxbury,18423911,37,39,18423875,"http://en.wikipedia.org/wiki/Roxbury,_Virginia","Roxbury, Virginia",roxbury-virginia,roxbury-virginia,GPE
+Roxbury,125582,123,239,573882;645042,"http://en.wikipedia.org/wiki/Roxbury_Township,_New_Jersey","Roxbury Township, New Jersey",roxbury-township-new-jersey,roxbury-township-new-jersey,GPE
+Roxbury,37018324,46,64,,"http://en.wikipedia.org/wiki/Roxbury,_Illinois","Roxbury, Illinois",roxbury-illinois,roxbury-illinois,GPE
+Roxbury,40309565,1,7,,"http://en.wikipedia.org/wiki/Roxbury,_Nova_Scotia","Roxbury, Nova Scotia",roxbury-nova-scotia,roxbury-nova-scotia,UNK
+Montpelier,41992,728,325,260221;260220;108956;570023;110607;557398;1645518;13015878;92402;137418;112134;57706;18057552;8210131;41712962;51928,"http://en.wikipedia.org/wiki/Montpelier,_Vermont","Montpelier, Vermont",montpelier-vermont,montpelier-vermont,GPE
+Montpelier,115740,18,15,,"http://en.wikipedia.org/wiki/Montpelier,_Louisiana","Montpelier, Louisiana",montpelier-louisiana,montpelier-louisiana,GPE
+Montpelier,110607,76,70,41992,"http://en.wikipedia.org/wiki/Montpelier,_Idaho","Montpelier, Idaho",montpelier-idaho,montpelier-idaho,GPE
+Montpelier,2344450,46,177,27854206;108956;18423747,"http://en.wikipedia.org/wiki/Montpelier_(Orange,_Virginia)",Montpelier,montpelier,montpelier-orange-virginia,UNK
+Montpelier,5860469,7,14,,"http://en.wikipedia.org/wiki/Montpelier,_County_Limerick","Montpelier, County Limerick",montpelier-county-limerick,montpelier-county-limerick,GPE
+Montpelier,570023,80,86,41992;563981,http://en.wikipedia.org/wiki/USS_Montpelier_(SSN-765),USS Montpelier,uss-montpelier,uss-montpelier-ssn-765,UNK
+Montpelier,12511562,94,182,,http://en.wikipedia.org/wiki/Montpelier_Hill,Montpelier Hill,montpelier-hill,montpelier-hill,UNK
+Montpelier,28849172,169,163,,"http://en.wikipedia.org/wiki/Montpelier,_Jamaica","Montpelier, Jamaica",montpelier-jamaica,montpelier-jamaica,UNK
+Montpelier,20147359,45,57,,"http://en.wikipedia.org/wiki/Montpelier,_Kentucky","Montpelier, Kentucky",montpelier-kentucky,montpelier-kentucky,UNK
+Montpelier,38037061,3,145,,"http://en.wikipedia.org/wiki/Montpelier_(Cabin_Point,_Virginia)",Montpelier,montpelier,montpelier-cabin-point-virginia,UNK
+Montpelier,563981,4,2,557398;570023,http://en.wikipedia.org/wiki/USS_Montpelier,USS Montpelier,uss-montpelier,uss-montpelier,UNK
+Montpelier,2700856,26,43,18423747,"http://en.wikipedia.org/wiki/Montpelier,_Hanover_County,_Virginia","Montpelier, Hanover County, Virginia",montpelier-hanover-county-virginia,montpelier-hanover-county-virginia,GPE
+Montpelier,112134,49,108,41992,"http://en.wikipedia.org/wiki/Montpelier,_Indiana","Montpelier, Indiana",montpelier-indiana,montpelier-indiana,GPE
+Montpelier,18423875,35,39,18423911;18423747,"http://en.wikipedia.org/wiki/Montpelier,_Charles_City_County,_Virginia","Montpelier, Charles City County, Virginia",montpelier-charles-city-county-virginia,montpelier-charles-city-county-virginia,GPE
+Montpelier,40681982,3,7,,"http://en.wikipedia.org/wiki/Montpelier,_London","Montpelier, London",montpelier-london,montpelier-london,GPE
+Montpelier,139239,51,69,,"http://en.wikipedia.org/wiki/Montpelier,_Wisconsin","Montpelier, Wisconsin",montpelier-wisconsin,montpelier-wisconsin,GPE
+Montpelier,2151498,121,120,,"http://en.wikipedia.org/wiki/Montpelier,_Maryland","Montpelier, Maryland",montpelier-maryland,montpelier-maryland,GPE
+Montpelier,41712962,37,39,41992;18057552,"http://en.wikipedia.org/wiki/Montpelier_Township,_Muscatine_County,_Iowa","Montpelier Township, Muscatine County, Iowa",montpelier-township-muscatine-county-iowa,montpelier-township-muscatine-county-iowa,GPE
+Montpelier,18423747,2,3,2344450;2700856;18423875,"http://en.wikipedia.org/wiki/Montpelier,_Virginia","Montpelier, Virginia",montpelier-virginia,montpelier-virginia,GPE
+Montpelier,557398,62,90,41992;563981;645042,http://en.wikipedia.org/wiki/USS_Montpelier_(CL-57),USS Montpelier,uss-montpelier,uss-montpelier-cl-57,UNK
+Montpelier,128806,23,52,,"http://en.wikipedia.org/wiki/Montpelier,_North_Dakota","Montpelier, North Dakota",montpelier-north-dakota,montpelier-north-dakota,GPE
+Montpelier,25142142,52,59,,"http://en.wikipedia.org/wiki/Montpelier,_California","Montpelier, California",montpelier-california,montpelier-california,GPE
+Montpelier,129965,67,67,,"http://en.wikipedia.org/wiki/Montpelier,_Ohio","Montpelier, Ohio",montpelier-ohio,montpelier-ohio,GPE
+Montpelier,22184995,51,62,,"http://en.wikipedia.org/wiki/Montpelier_(Clear_Spring,_Maryland)",Montpelier,montpelier,montpelier-clear-spring-maryland,UNK
+Montpelier,12392961,72,65,,"http://en.wikipedia.org/wiki/Montpelier_Mansion_(Laurel,_Maryland)",Montpelier Mansion,montpelier-mansion,montpelier-mansion-laurel-maryland,UNK
+Montpelier,27854206,20,39,2344450,"http://en.wikipedia.org/wiki/Montpelier_Station,_Virginia","Montpelier Station, Virginia",montpelier-station-virginia,montpelier-station-virginia,GPE
+Montpelier,22495651,15,21,,"http://en.wikipedia.org/wiki/Montpelier,_Mississippi","Montpelier, Mississippi",montpelier-mississippi,montpelier-mississippi,UNK
+Montpelier,40687073,3,147,,"http://en.wikipedia.org/wiki/Montpelier_(Sperryville,_Virginia)",Montpelier,montpelier,montpelier-sperryville-virginia,UNK
+Montpelier,18057552,41,51,41992;41712962,"http://en.wikipedia.org/wiki/Montpelier,_Iowa","Montpelier, Iowa",montpelier-iowa,montpelier-iowa,GPE
+Montpelier,33905389,152,307,,"http://en.wikipedia.org/wiki/Montpelier,_Brighton","Montpelier, Brighton",montpelier-brighton,montpelier-brighton,UNK
+Springfield,92402,2833,697,17575333;51928;57706;41992;24115349;88235;108956;248445;22307781;1645518;645042;2128320;224696;7548433;3533063,"http://en.wikipedia.org/wiki/Springfield,_Massachusetts","Springfield, Massachusetts",springfield-massachusetts,springfield-massachusetts,GPE
+Springfield,4505418,106,102,,"http://en.wikipedia.org/wiki/Springfield,_Queensland","Springfield, Queensland",springfield-queensland,springfield-queensland,UNK
+Springfield,1410341,36,140,,http://en.wikipedia.org/wiki/Springfield_(Jacksonville),Springfield,springfield,springfield-jacksonville,UNK
+Springfield,2185801,67,15,,"http://en.wikipedia.org/wiki/Springfield,_Gauteng","Springfield, Gauteng",springfield-gauteng,springfield-gauteng,UNK
+Springfield,1597975,76,61,,"http://en.wikipedia.org/wiki/Springfield,_New_Zealand","Springfield, New Zealand",springfield-new-zealand,springfield-new-zealand,UNK
+Springfield,115659,43,46,,"http://en.wikipedia.org/wiki/Springfield,_Louisiana","Springfield, Louisiana",springfield-louisiana,springfield-louisiana,GPE
+Springfield,19774212,181,197,,"http://en.wikipedia.org/wiki/Springfield,_Albemarle_County,_Virginia","Springfield, Albemarle County, Virginia",springfield-albemarle-county-virginia,springfield-albemarle-county-virginia,GPE
+Springfield,39980624,1,144,,"http://en.wikipedia.org/wiki/Springfield_(Coatesville,_Virginia)",Springfield,springfield,springfield-coatesville-virginia,UNK
+Springfield,20266698,9,2,39334075,"http://en.wikipedia.org/wiki/Springfield,_New_Brunswick","Springfield, New Brunswick",springfield-new-brunswick,springfield-new-brunswick,UNK
+Springfield,88235,417,352,108956;5042916;92402;7548433;645042;40149116;13015878;88235,http://en.wikipedia.org/wiki/Springfield_(The_Simpsons),Springfield,springfield,springfield-the-simpsons,GPE
+Springfield,1791897,54,50,5042916,http://en.wikipedia.org/wiki/Springfield_(electoral_district),Springfield,springfield,springfield-electoral-district,UNK
+Springfield,40149116,110,117,88235,http://en.wikipedia.org/wiki/Springfield_(Universal_Studios_Florida),Springfield,springfield,springfield-universal-studios-florida,UNK
+Springfield,125793,3,3,,"http://en.wikipedia.org/wiki/Springfield,_New_Jersey","Springfield, New Jersey",springfield-new-jersey,springfield-new-jersey,UNK
+Springfield,3433017,9,6,3917335,"http://en.wikipedia.org/wiki/Springfield,_Wisconsin","Springfield, Wisconsin",springfield-wisconsin,springfield-wisconsin,UNK
+Springfield,26522231,17,37,,"http://en.wikipedia.org/wiki/Springfield,_Idaho","Springfield, Idaho",springfield-idaho,springfield-idaho,UNK
+Springfield,40342215,1,146,,"http://en.wikipedia.org/wiki/Springfield_(Heathsville,_Virginia)",Springfield,springfield,springfield-heathsville-virginia,UNK
+Springfield,21168783,60,68,,"http://en.wikipedia.org/wiki/Springfield,_Westmoreland_County,_Virginia","Springfield, Westmoreland County, Virginia",springfield-westmoreland-county-virginia,springfield-westmoreland-county-virginia,GPE
+Springfield,29419858,27,25,,"http://en.wikipedia.org/wiki/Springfield,_Arkansas","Springfield, Arkansas",springfield-arkansas,springfield-arkansas,UNK
+Springfield,4667603,359,298,,"http://en.wikipedia.org/wiki/Springfield,_Missouri_metropolitan_area","Springfield, Missouri metropolitan area",springfield-missouri-metropolitan-area,springfield-missouri-metropolitan-area,GPE
+Springfield,17575333,189,166,108956;92402;3533063;1645518;645042,"http://en.wikipedia.org/wiki/Springfield,_Massachusetts_metropolitan_area","Springfield, Massachusetts metropolitan area",springfield-massachusetts-metropolitan-area,springfield-massachusetts-metropolitan-area,UNK
+Springfield,22307781,77,93,57706;92402;7548433,"http://en.wikipedia.org/wiki/Springfield,_Essex","Springfield, Essex",springfield-essex,springfield-essex,GPE
+Springfield,39334075,10,97,20266698;5042916,"http://en.wikipedia.org/wiki/Springfield,_Kings_County,_New_Brunswick","Springfield, Kings County, New Brunswick",springfield-kings-county-new-brunswick,springfield-kings-county-new-brunswick,UNK
+Springfield,6446319,90,106,,"http://en.wikipedia.org/wiki/Springfield,_New_South_Wales","Springfield, New South Wales",springfield-new-south-wales,springfield-new-south-wales,UNK
+Springfield,6083291,6,27,,"http://en.wikipedia.org/wiki/Springfield,_Nova_Scotia","Springfield, Nova Scotia",springfield-nova-scotia,springfield-nova-scotia,GPE
+Springfield,57706,2907,683,51928;17651571;111971;41992;8210131;108956;13015878;945714;22307781;1645518;92402;7548433,"http://en.wikipedia.org/wiki/Springfield,_Illinois","Springfield, Illinois",springfield-illinois,springfield-illinois,UNK
+Springfield,2128320,12,50,92402;1645518;51928,http://en.wikipedia.org/wiki/Springfield_Union_Station_(Massachusetts),Springfield Union Station,springfield-union-station,springfield-union-station-massachusetts,UNK
+Springfield,22712184,4,15,,"http://en.wikipedia.org/wiki/Springfield,_California","Springfield, California",springfield-california,springfield-california,GPE
+Springfield,18038152,162,188,21967735,"http://en.wikipedia.org/wiki/Springfield,_Victoria","Springfield, Victoria",springfield-victoria,springfield-victoria,UNK
+Springfield,3917335,78,84,3433017,"http://en.wikipedia.org/wiki/Springfield,_Walworth_County,_Wisconsin","Springfield, Walworth County, Wisconsin",springfield-walworth-county-wisconsin,springfield-walworth-county-wisconsin,GPE
+Springfield,5734088,27,32,,http://en.wikipedia.org/wiki/Springfield_(Hackney_ward),Springfield,springfield,springfield-hackney-ward,UNK
+Springfield,2737619,14,12,,"http://en.wikipedia.org/wiki/Springfield,_Fife","Springfield, Fife",springfield-fife,springfield-fife,GPE
+Springfield,4709657,107,106,,"http://en.wikipedia.org/wiki/Springfield,_County_Fermanagh","Springfield, County Fermanagh",springfield-county-fermanagh,springfield-county-fermanagh,GPE
+Springfield,17651571,52,416,111971;57706,"http://en.wikipedia.org/wiki/Springfield,_Illinois_metropolitan_area","Springfield, Illinois metropolitan area",springfield-illinois-metropolitan-area,springfield-illinois-metropolitan-area,UNK
+Springfield,141329,4,2,,"http://en.wikipedia.org/wiki/Springfield_Township,_New_Jersey","Springfield Township, New Jersey",springfield-township-new-jersey,springfield-township-new-jersey,UNK
+Springfield,127024,83,78,8210131,"http://en.wikipedia.org/wiki/Springfield,_New_York","Springfield, New York",springfield-new-york,springfield-new-york,GPE
+Springfield,2266535,131,128,,"http://en.wikipedia.org/wiki/Springfield,_West_Virginia","Springfield, West Virginia",springfield-west-virginia,springfield-west-virginia,GPE
+Springfield,17550682,26,36,,"http://en.wikipedia.org/wiki/Springfield,_Texas","Springfield, Texas",springfield-texas,springfield-texas,UNK
+Springfield,21967735,35,51,18038152,"http://en.wikipedia.org/wiki/Springfield,_Victoria_(Macedon_Ranges)","Springfield, Victoria",springfield-victoria,springfield-victoria-macedon-ranges,UNK
+Springfield,945714,56,78,57706,http://en.wikipedia.org/wiki/Springfield_(Guiding_Light),Springfield,springfield,springfield-guiding-light,UNK
+Springfield,11442659,7,4,,"http://en.wikipedia.org/wiki/Springfield,_Athol_and_North-eastern_Railroad","Springfield, Athol and North-eastern Railroad",springfield-athol-and-north-eastern-railroad,springfield-athol-and-north-eastern-railroad,UNK
+Springfield,7548433,10,24,88235;22307781;7548433;57706;92402,http://en.wikipedia.org/wiki/Springfield_(toponym),Springfield,springfield,springfield-toponym,UNK
+Springfield,30107784,50,56,,"http://en.wikipedia.org/wiki/Springfield,_Page_County,_Virginia","Springfield, Page County, Virginia",springfield-page-county-virginia,springfield-page-county-virginia,GPE
+Springfield,29419388,5,5,,"http://en.wikipedia.org/wiki/Springfield,_Prince_Edward_Island","Springfield, Prince Edward Island",springfield-prince-edward-island,springfield-prince-edward-island,GPE
+Springfield,6569166,46,55,,"http://en.wikipedia.org/wiki/Springfield,_South_Australia","Springfield, South Australia",springfield-south-australia,springfield-south-australia,UNK
+Springfield,9254530,6,7,,"http://en.wikipedia.org/wiki/Springfield,_Wolverhampton","Springfield, Wolverhampton",springfield-wolverhampton,springfield-wolverhampton,UNK
+Massachusetts,1645518,32035,1313,16468385;418583;198179;2128320;224696;8210131;13015878;92402;3697541;237485;41992;108956;1645518;51928;189618;24115349;3533063;17575333;57706;248445,http://en.wikipedia.org/wiki/Massachusetts,Massachusetts,massachusetts,massachusetts,GPE
+Massachusetts,3533063,293,280,92402;237485;1979243;1645518;17575333;8210131,http://en.wikipedia.org/wiki/Geography_of_Massachusetts,Geography of Massachusetts,geography-of-massachusetts,geography-of-massachusetts,PER
+Massachusetts,24115349,448,983,108956;1645518;20862995;92402,"http://en.wikipedia.org/wiki/United_States_Senate_special_election_in_Massachusetts,_2010","United States Senate special election in Massachusetts, 2010",united-states-senate-special-election-in-massachusetts-2010,united-states-senate-special-election-in-massachusetts-2010,UNK
+Massachusetts,189620,64,161,189618,http://en.wikipedia.org/wiki/USS_Massachusetts_(BB-2),USS Massachusetts,uss-massachusetts,uss-massachusetts-bb-2,UNK
+Massachusetts,198179,251,383,1645518;189618,http://en.wikipedia.org/wiki/USS_Massachusetts_(BB-59),USS Massachusetts,uss-massachusetts,uss-massachusetts-bb-59,UNK
+Massachusetts,248445,261,226,92402;248445;1645518,http://en.wikipedia.org/wiki/University_of_Massachusetts,University of Massachusetts,university-of-massachusetts,university-of-massachusetts,ORG
+Massachusetts,56371,2146,337,56371;184908,http://en.wikipedia.org/wiki/Mass_(liturgy),Mass,mass,mass-liturgy,UNK
+Massachusetts,184908,564,418,56371,http://en.wikipedia.org/wiki/Mass_(music),Mass,mass,mass-music,UNK
+Massachusetts,14014111,12,29,189618;645042,http://en.wikipedia.org/wiki/USS_Massachusetts_(1860),USS Massachusetts,uss-massachusetts,uss-massachusetts-1860,UNK
+Massachusetts,1687474,17,35,189618;645042,http://en.wikipedia.org/wiki/USS_Massachusetts_(1845),USS Massachusetts,uss-massachusetts,uss-massachusetts-1845,UNK
+Massachusetts,189618,8,14,14014111;1645518;1687474;189620;198179,http://en.wikipedia.org/wiki/USS_Massachusetts,USS Massachusetts,uss-massachusetts,uss-massachusetts,UNK
+Massachusetts,16468385,9,55,1645518,http://en.wikipedia.org/wiki/4547_Massachusetts,4547 Massachusetts,4547-massachusetts,4547-massachusetts,UNK
+Massachusetts,10895468,6,132,,http://en.wikipedia.org/wiki/Massachusetts_Street,Massachusetts Street,massachusetts-street,massachusetts-street,UNK
+Massachusetts,237485,167,22,3533063;1645518;18514024,http://en.wikipedia.org/wiki/Massachusetts_Bay,Massachusetts Bay,massachusetts-bay,massachusetts-bay,UNK
+New York City,645042,77367,1542,14292849;1687474;557398;6340;1813418;1702572;8210131;311782;5042916;20430078;51928;2412557;543064;39446814;17575333;1797450;3880857;64263;20652261;14014111;88235;645042;92402;20232735;108956;115760;8699528;125582,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+New York City,543064,79,69,8210131;543064;1813418;645042,http://en.wikipedia.org/wiki/New_York_City_College_of_Technology,New York City College of Technology,new-york-city-college-of-technology,new-york-city-college-of-technology,ORG
+New York City,1813418,851,227,3880857;645042;543064;2412557;14292849;8210131;1813418,http://en.wikipedia.org/wiki/New_York_City_Council,New York City Council,new-york-city-council,new-york-city-council,UNK
+New York City,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+New York City,3880857,301,536,645042;8210131;1813418;39446814,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+New York City,2412557,12,42,8210131;1813418;645042,http://en.wikipedia.org/wiki/New_York_City_Police_Department_Auxiliary_Police,New York City Police Department Auxiliary Police,new-york-city-police-department-auxiliary-police,new-york-city-police-department-auxiliary-police,UNK
+New York City,311782,304,47,1440202;8210131;645042,http://en.wikipedia.org/wiki/New_York_City_Transit_Authority,New York City Transit Authority,new-york-city-transit-authority,new-york-city-transit-authority,UNK
+New York City,39446814,561,214,3880857;645042;8210131;39446814,http://en.wikipedia.org/wiki/New_York_City_FC,New York City FC,new-york-city-fc,new-york-city-fc,UNK
+New York City,20430078,34,60,8210131;20652261;645042,http://en.wikipedia.org/wiki/New_York_City_Department_of_Homeless_Services_Police,New York City Department of Homeless Services Police,new-york-city-department-of-homeless-services-police,new-york-city-department-of-homeless-services-police,UNK
+New York City,14292849,83,65,1813418;645042,http://en.wikipedia.org/wiki/New_York_City_Department_of_Buildings,New York City Department of Buildings,new-york-city-department-of-buildings,new-york-city-department-of-buildings,ORG
+New York City,20652261,34,44,8210131;20430078;645042,http://en.wikipedia.org/wiki/New_York_City_Police_Department_School_Safety_Division,New York City Police Department School Safety Division,new-york-city-police-department-school-safety-division,new-york-city-police-department-school-safety-division,UNK
+New York City,13288448,14,23,,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+New York City,8210131,70636,932,1813418;138919;8210131;311782;5042916;41992;7986044;1645518;20430078;2412557;543064;3533063;39446814;57706;3880857;64263;20652261;645042;13015878;3697541;108956;127024;126362,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+New York City,1440202,156,197,311782;1440202,http://en.wikipedia.org/wiki/New_York_City_Subway_nomenclature,New York City Subway nomenclature,new-york-city-subway-nomenclature,new-york-city-subway-nomenclature,UNK
+Washington,108956,32028,1189,418583;21921258;27293846;637985;16799001;781926;88235;328618;645042;38852264;22808822;8210131;6736104;13015878;92402;6867764;3697541;5042916;3832041;41992;108956;1645518;2344450;260221;1421794;51928;24115349;20862995;926190;923946;17575333;924607;1797450;1979243;57706;19537757,"http://en.wikipedia.org/wiki/Washington,_D.C.","Washington, D.C.",washington-dc,washington-dc,GPE
+Washington,2039933,6,116,13015878,"http://en.wikipedia.org/wiki/Washington,_My_Home","Washington, My Home",washington-my-home,washington-my-home,UNK
+Washington,1446321,0,2,,"http://en.wikipedia.org/wiki/Washington,_England","Washington, England",washington-england,washington-england,GPE
+Washington,18746675,0,1,,"http://en.wikipedia.org/wiki/Washington,_IN_µSA","Washington, IN µSA",washington-in-µsa,washington-in-µsa,PER
+Washington,38852264,222,242,108956;6867764;19537757;8589494;20862995;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2014","Washington, D.C. mayoral election, 2014",washington-dc-mayoral-election-2014,washington-dc-mayoral-election-2014,PER
+Washington,111971,1213,92,17651571;57706,"http://en.wikipedia.org/wiki/Washington,_Illinois","Washington, Illinois",washington-illinois,washington-illinois,UNK
+Washington,5757618,147,192,,http://en.wikipedia.org/wiki/Washington_(footballer),Washington,washington,washington-footballer,PER
+Washington,134086,890,469,134086,"http://en.wikipedia.org/wiki/Washington,_Pennsylvania","Washington, Pennsylvania",washington-pennsylvania,washington-pennsylvania,GPE
+Washington,10308149,1,1,,"http://en.wikipedia.org/wiki/Washington,_IN_μSA","Washington, IN μSA",washington-in-μsa,washington-in-μsa,PER
+Washington,1923182,178,200,,"http://en.wikipedia.org/wiki/Washington,_California","Washington, California",washington-california,washington-california,GPE
+Washington,19537795,106,153,19537757;8589494;38852264;20862995;19537810;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1994","Washington, D.C. mayoral election, 1994",washington-dc-mayoral-election-1994,washington-dc-mayoral-election-1994,PER
+Washington,10289871,1,1,,"http://en.wikipedia.org/wiki/Washington,_NC_μSA","Washington, NC μSA",washington-nc-μsa,washington-nc-μsa,PER
+Washington,24921974,108,89,,http://en.wikipedia.org/wiki/Washington_(steamboat_1851),Washington,washington,washington-steamboat-1851,UNK
+Washington,637985,4,26,108956,"http://en.wikipedia.org/wiki/Washington,_DC_Metropolitan_Area_Special_Flight_Rules_Area","Washington, DC Metropolitan Area Special Flight Rules Area",washington-dc-metropolitan-area-special-flight-rules-area,washington-dc-metropolitan-area-special-flight-rules-area,UNK
+Washington,22808822,35,95,3832041;108956;51928,"http://en.wikipedia.org/wiki/Washington,_Baltimore_and_Annapolis_Electric_Railway","Washington, Baltimore and Annapolis Electric Railway",washington-baltimore-and-annapolis-electric-railway,washington-baltimore-and-annapolis-electric-railway,UNK
+Washington,18514024,3,20,237485,http://en.wikipedia.org/wiki/USS_Washington_(1775),USS Washington,uss-washington,uss-washington-1775,UNK
+Washington,2508003,139,108,,"http://en.wikipedia.org/wiki/Washington,_D.C._International_Stakes","Washington, D.C. International Stakes",washington-dc-international-stakes,washington-dc-international-stakes,UNK
+Washington,2010233,51,39,,"http://en.wikipedia.org/wiki/Washington,_Mississippi","Washington, Mississippi",washington-mississippi,washington-mississippi,GPE
+Washington,3832041,24,38,22808822;108956,"http://en.wikipedia.org/wiki/Washington,_Baltimore_and_Annapolis_Trail","Washington, Baltimore and Annapolis Trail",washington-baltimore-and-annapolis-trail,washington-baltimore-and-annapolis-trail,UNK
+Washington,19537757,130,166,8589494;108956;38852264;20862995;19537810;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2002","Washington, D.C. mayoral election, 2002",washington-dc-mayoral-election-2002,washington-dc-mayoral-election-2002,UNK
+Washington,20232735,3,11,645042,http://en.wikipedia.org/wiki/Washington_(SP-1241),Washington,washington,washington-sp-1241,UNK
+Washington,18746683,0,1,,"http://en.wikipedia.org/wiki/Washington,_NC_µSA","Washington, NC µSA",washington-nc-µsa,washington-nc-µsa,PER
+Washington,141810,0,13,,"http://en.wikipedia.org/wiki/Washington,_Wisconsin","Washington, Wisconsin",washington-wisconsin,washington-wisconsin,UNK
+Washington,6867764,223,206,108956;19537757;8589494;38852264;20862995;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2006","Washington, D.C. mayoral election, 2006",washington-dc-mayoral-election-2006,washington-dc-mayoral-election-2006,PER
+Washington,19537810,40,86,19537757;8589494;20862995;38852264;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1978","Washington, D.C. mayoral election, 1978",washington-dc-mayoral-election-1978,washington-dc-mayoral-election-1978,UNK
+Washington,13015878,8843,1031,51928;88235;5042916;2039933;57706;41992;8210131;108956;13015878;1645518,http://en.wikipedia.org/wiki/Washington_(state),Washington,washington,washington-state,UNK
+Washington,1421794,67,104,108956;1421794,"http://en.wikipedia.org/wiki/Washington,_D.C._hardcore","Washington, D.C. hardcore",washington-dc-hardcore,washington-dc-hardcore,UNK
+Washington,7986044,0,9,8210131,http://en.wikipedia.org/wiki/Ulmus_americana_'Washington',Ulmus americana 'Washington',ulmus-americana-washington,ulmus-americana-washington,UNK
+Washington,27293846,15,184,108956,"http://en.wikipedia.org/wiki/Washington,_D.C._Jewish_Community_Center","Washington, D.C. Jewish Community Center",washington-dc-jewish-community-center,washington-dc-jewish-community-center,UNK
+Washington,1489525,24,20,,http://en.wikipedia.org/wiki/Washington_(tree),Washington,washington,washington-tree,UNK
+Washington,21921258,2,230,108956,"http://en.wikipedia.org/wiki/Washington,_Village_and_Capital,_1800-1878","Washington, Village and Capital, 1800-1878",washington-village-and-capital-1800-1878,washington-village-and-capital-1800-1878,UNK
+Washington,7073789,6,91,,"http://en.wikipedia.org/wiki/Washington,_Brandywine_and_Point_Lookout_Railroad","Washington, Brandywine and Point Lookout Railroad",washington-brandywine-and-point-lookout-railroad,washington-brandywine-and-point-lookout-railroad,UNK
+Washington,8589494,39,50,19537757;20862995;38852264;19537810;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1974","Washington, D.C. mayoral election, 1974",washington-dc-mayoral-election-1974,washington-dc-mayoral-election-1974,PER
+Washington,6736104,364,371,108956,"http://en.wikipedia.org/wiki/Washington,_D.C.,_in_the_American_Civil_War","Washington, D.C., in the American Civil War",washington-dc-in-the-american-civil-war,washington-dc-in-the-american-civil-war,UNK
+Washington,26677390,15,24,,http://en.wikipedia.org/wiki/Washington_Railroad_Station,Washington Railroad Station,washington-railroad-station,washington-railroad-station,UNK
+Washington,14698019,20,26,,"http://en.wikipedia.org/wiki/Washington,_Kentucky","Washington, Kentucky",washington-kentucky,washington-kentucky,UNK
+Washington,10308504,0,1,,"http://en.wikipedia.org/wiki/Washington,_OH_μSA","Washington, OH μSA",washington-oh-μsa,washington-oh-μsa,PER
+Washington,20862995,264,254,108956;6867764;19537757;8589494;24115349;38852264;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2010","Washington, D.C. mayoral election, 2010",washington-dc-mayoral-election-2010,washington-dc-mayoral-election-2010,UNK
+Washington,24782674,99,91,,http://en.wikipedia.org/wiki/Megan_Washington,Megan Washington,megan-washington,megan-washington,UNK
+Washington,115760,56,66,645042,"http://en.wikipedia.org/wiki/Washington,_Louisiana","Washington, Louisiana",washington-louisiana,washington-louisiana,GPE
+Washington,38467156,24,29,,"http://en.wikipedia.org/wiki/Washington,_Rhode_Island","Washington, Rhode Island",washington-rhode-island,washington-rhode-island,GPE
+Washington,40415474,2,3,,http://en.wikipedia.org/wiki/Washington_Motor_Company,Washington Motor Company,washington-motor-company,washington-motor-company,ORG

@@ -1,0 +1,29 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+IRVINE,5201333,1970,723,5407;44757;12089163;275661,"http://en.wikipedia.org/wiki/Irvine,_California","Irvine, California",irvine-california,irvine-california,GPE
+IRVINE,23824640,36,53,,"http://en.wikipedia.org/wiki/Irvine,_Florida","Irvine, Florida",irvine-florida,irvine-florida,GPE
+IRVINE,23736971,1,19,,"http://en.wikipedia.org/wiki/Irvine_Park_(Chippewa_Falls,_Wisconsin)",Irvine Park,irvine-park,irvine-park-chippewa-falls-wisconsin,UNK
+IRVINE,37085355,3,79,,"http://en.wikipedia.org/wiki/Irvine_Park_(Orange,_California)",Irvine Park,irvine-park,irvine-park-orange-california,UNK
+IRVINE,19838882,64,73,,"http://en.wikipedia.org/wiki/Irvine_Township,_Benson_County,_North_Dakota","Irvine Township, Benson County, North Dakota",irvine-township-benson-county-north-dakota,irvine-township-benson-county-north-dakota,GPE
+IRVINE,1323858,405,455,,"http://en.wikipedia.org/wiki/Irvine,_Alberta","Irvine, Alberta",irvine-alberta,irvine-alberta,GPE
+IRVINE,349413,443,262,28411185;10396025;349413,"http://en.wikipedia.org/wiki/Irvine,_North_Ayrshire","Irvine, North Ayrshire",irvine-north-ayrshire,irvine-north-ayrshire,UNK
+IRVINE,41678668,2,31,26231507;5407,http://en.wikipedia.org/wiki/Mount_Irvine_(California),Mount Irvine,mount-irvine,mount-irvine-california,UNK
+IRVINE,26231507,0,6,11586590;16444661;41678668,http://en.wikipedia.org/wiki/Mount_Irvine,Mount Irvine,mount-irvine,mount-irvine,UNK
+IRVINE,5985755,31,16,,http://en.wikipedia.org/wiki/Arthur_Irvine,Arthur Irvine,arthur-irvine,arthur-irvine,PER
+IRVINE,28411185,9,13,10396025;349413,http://en.wikipedia.org/wiki/Irvine_Bay,Irvine Bay,irvine-bay,irvine-bay,UNK
+IRVINE,10396025,77,77,349413;28411185,http://en.wikipedia.org/wiki/River_Irvine,River Irvine,river-irvine,river-irvine,UNK
+IRVINE,275661,63,50,5201333;5407;44757;12089163,http://en.wikipedia.org/wiki/Irvine_Company,Irvine Company,irvine-company,irvine-company,UNK
+IRVINE,44757,1538,505,5201333;5407;44757;275661,"http://en.wikipedia.org/wiki/University_of_California,_Irvine","University of California, Irvine",university-of-california-irvine,university-of-california-irvine,ORG
+IRVINE,115104,180,175,,"http://en.wikipedia.org/wiki/Irvine,_Kentucky","Irvine, Kentucky",irvine-kentucky,irvine-kentucky,GPE
+IRVINE,12089163,10,22,5201333;5407;275661,http://en.wikipedia.org/wiki/Irvine_Lake,Irvine Lake,irvine-lake,irvine-lake,UNK
+IRVINE,29444414,5,14,,http://en.wikipedia.org/wiki/Irvine_Island,Irvine Island,irvine-island,irvine-island,UNK
+IRVINE,16444661,3,12,26231507,http://en.wikipedia.org/wiki/Mount_Irvine_(Antarctica),Mount Irvine,mount-irvine,mount-irvine-antarctica,UNK
+IRVINE,11586590,105,111,26231507,"http://en.wikipedia.org/wiki/Mount_Irvine,_New_South_Wales","Mount Irvine, New South Wales",mount-irvine-new-south-wales,mount-irvine-new-south-wales,UNK
+IRVINE,24514146,3,5,,http://en.wikipedia.org/wiki/Don_Irvine,Don Irvine,don-irvine,don-irvine,PER
+IRVINE,38950489,60,134,,http://en.wikipedia.org/wiki/Irvine_(Sesame_Street),Irvine,irvine,irvine-sesame-street,UNK
+Calif.,5407,76175,1092,5407;275661;12089163;41678668;44757;58296;5201333;3569039;7924505;1721182,http://en.wikipedia.org/wiki/California,California,california,california,GPE
+Calif.,3569039,22,65,5407,http://en.wikipedia.org/wiki/California_State_Route_139,California State Route 139,california-state-route-139,california-state-route-139,UNK
+Calif.,1721182,224,230,5407,http://en.wikipedia.org/wiki/California_Love,California Love,california-love,california-love,UNK
+Calif.,11451057,11,7,,http://en.wikipedia.org/wiki/Calif_Records,Calif Records,calif-records,calif-records,UNK
+Calif.,7924505,9,70,5407,http://en.wikipedia.org/wiki/California_slender_salamander,California slender salamander,california-slender-salamander,california-slender-salamander,UNK
+Calif.,58296,2208,335,5407,http://en.wikipedia.org/wiki/California_Gold_Rush,California Gold Rush,california-gold-rush,california-gold-rush,UNK
+Calif.,2072900,16,40,,http://en.wikipedia.org/wiki/California_v._Greenwood,California v. Greenwood,california-v-greenwood,california-v-greenwood,UNK

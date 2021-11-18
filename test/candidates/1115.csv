@@ -1,0 +1,63 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+ROMANIA,679755,2112,718,979061;25445;6257354;5230728;655953;36877,http://en.wikipedia.org/wiki/Romania_national_football_team,Romania national football team,romania-national-football-team,romania-national-football-team,UNK
+ROMANIA,25445,52892,1099,979061;9239;9317;6257354;17675;25637;25445;36877;655953;39834541;297151;553982;679755;380252;392816;5230728,http://en.wikipedia.org/wiki/Romania,Romania,romania,romania,GPE
+ROMANIA,392816,477,279,36877;297151;25445;392816;25637,http://en.wikipedia.org/wiki/Greater_Romania,Greater Romania,greater-romania,greater-romania,UNK
+ROMANIA,25637,831,266,17821;297151;392816;25637;25445;9239,http://en.wikipedia.org/wiki/Geography_of_Romania,Geography of Romania,geography-of-romania,geography-of-romania,ORG
+ROMANIA,297151,1394,246,36877;297151;392816;25637;25445,http://en.wikipedia.org/wiki/Kingdom_of_Romania,Kingdom of Romania,kingdom-of-romania,kingdom-of-romania,GPE
+ROMANIA,979061,881,345,36877;25445;679755,http://en.wikipedia.org/wiki/Romania_national_rugby_union_team,Romania national rugby union team,romania-national-rugby-union-team,romania-national-rugby-union-team,UNK
+ROMANIA,39834541,27,36,25445,http://en.wikipedia.org/wiki/F.C._Romania,F.C. Romania,fc-romania,fc-romania,ORG
+LITHUANIA,655953,887,341,17675;25445;679755,http://en.wikipedia.org/wiki/Lithuania_national_football_team,Lithuania national football team,lithuania-national-football-team,lithuania-national-football-team,ORG
+LITHUANIA,5787743,139,128,380252;17821;10873931;17675,http://en.wikipedia.org/wiki/Kingdom_of_Lithuania,Kingdom of Lithuania,kingdom-of-lithuania,kingdom-of-lithuania,GPE
+LITHUANIA,1976648,5,19,10873931,http://en.wikipedia.org/wiki/Lithuania_District,Lithuania District,lithuania-district,lithuania-district,UNK
+LITHUANIA,17675,18202,1085,36877;380252;9239;9317;3402034;655953;17821;17675;5787743;25445;10873931;7795229,http://en.wikipedia.org/wiki/Lithuania,Lithuania,lithuania,lithuania,GPE
+LITHUANIA,17821,178,249,5787743;380252;25637;17821;17675,http://en.wikipedia.org/wiki/Geography_of_Lithuania,Geography of Lithuania,geography-of-lithuania,geography-of-lithuania,UNK
+LITHUANIA,10873931,42,69,5787743;380252;1976648;17675,http://en.wikipedia.org/wiki/Kingdom_of_Lithuania_(1918),Kingdom of Lithuania,kingdom-of-lithuania,kingdom-of-lithuania-1918,GPE
+LITHUANIA,380252,2017,423,5787743;17821;17675;10873931;25445,http://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania,Grand Duchy of Lithuania,grand-duchy-of-lithuania,grand-duchy-of-lithuania,GPE
+LITHUANIA,7795229,90,75,17675,http://en.wikipedia.org/wiki/Lithuania_national_ice_hockey_team,Lithuania national ice hockey team,lithuania-national-ice-hockey-team,lithuania-national-ice-hockey-team,ORG
+BUCHAREST,36877,6804,606,17675;979061;297151;36877;553982;25445;9239;9317;392816;679755;5230728,http://en.wikipedia.org/wiki/Bucharest,Bucharest,bucharest,bucharest,UNK
+BUCHAREST,553982,661,234,36877;25445,http://en.wikipedia.org/wiki/University_of_Bucharest,University of Bucharest,university-of-bucharest,university-of-bucharest,ORG
+Romania,679755,2112,718,979061;25445;6257354;5230728;655953;36877,http://en.wikipedia.org/wiki/Romania_national_football_team,Romania national football team,romania-national-football-team,romania-national-football-team,UNK
+Romania,25445,52892,1099,979061;9239;9317;6257354;17675;25637;25445;36877;655953;39834541;297151;553982;679755;380252;392816;5230728,http://en.wikipedia.org/wiki/Romania,Romania,romania,romania,GPE
+Romania,392816,477,279,36877;297151;25445;392816;25637,http://en.wikipedia.org/wiki/Greater_Romania,Greater Romania,greater-romania,greater-romania,UNK
+Romania,25637,831,266,17821;297151;392816;25637;25445;9239,http://en.wikipedia.org/wiki/Geography_of_Romania,Geography of Romania,geography-of-romania,geography-of-romania,ORG
+Romania,297151,1394,246,36877;297151;392816;25637;25445,http://en.wikipedia.org/wiki/Kingdom_of_Romania,Kingdom of Romania,kingdom-of-romania,kingdom-of-romania,GPE
+Romania,979061,881,345,36877;25445;679755,http://en.wikipedia.org/wiki/Romania_national_rugby_union_team,Romania national rugby union team,romania-national-rugby-union-team,romania-national-rugby-union-team,UNK
+Romania,39834541,27,36,25445,http://en.wikipedia.org/wiki/F.C._Romania,F.C. Romania,fc-romania,fc-romania,ORG
+Lithuania,655953,887,341,17675;25445;679755,http://en.wikipedia.org/wiki/Lithuania_national_football_team,Lithuania national football team,lithuania-national-football-team,lithuania-national-football-team,ORG
+Lithuania,5787743,139,128,380252;17821;10873931;17675,http://en.wikipedia.org/wiki/Kingdom_of_Lithuania,Kingdom of Lithuania,kingdom-of-lithuania,kingdom-of-lithuania,GPE
+Lithuania,1976648,5,19,10873931,http://en.wikipedia.org/wiki/Lithuania_District,Lithuania District,lithuania-district,lithuania-district,UNK
+Lithuania,17675,18202,1085,36877;380252;9239;9317;3402034;655953;17821;17675;5787743;25445;10873931;7795229,http://en.wikipedia.org/wiki/Lithuania,Lithuania,lithuania,lithuania,GPE
+Lithuania,17821,178,249,5787743;380252;25637;17821;17675,http://en.wikipedia.org/wiki/Geography_of_Lithuania,Geography of Lithuania,geography-of-lithuania,geography-of-lithuania,UNK
+Lithuania,10873931,42,69,5787743;380252;1976648;17675,http://en.wikipedia.org/wiki/Kingdom_of_Lithuania_(1918),Kingdom of Lithuania,kingdom-of-lithuania,kingdom-of-lithuania-1918,GPE
+Lithuania,380252,2017,423,5787743;17821;17675;10873931;25445,http://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania,Grand Duchy of Lithuania,grand-duchy-of-lithuania,grand-duchy-of-lithuania,GPE
+Lithuania,7795229,90,75,17675,http://en.wikipedia.org/wiki/Lithuania_national_ice_hockey_team,Lithuania national ice hockey team,lithuania-national-ice-hockey-team,lithuania-national-ice-hockey-team,ORG
+European,1553658,68,12,9239,http://en.wikipedia.org/wiki/European_Netherlands,European Netherlands,european-netherlands,european-netherlands,UNK
+European,1739264,4,7,674507,"http://en.wikipedia.org/wiki/European_School,_Bergen","European School, Bergen",european-school-bergen,european-school-bergen,ORG
+European,7432187,9,22,7432187;9317,http://en.wikipedia.org/wiki/European_Union_Public_Licence,European Union Public Licence,european-union-public-licence,european-union-public-licence,UNK
+European,23454667,3,4,674507,"http://en.wikipedia.org/wiki/European_School,_Luxembourg_II","European School, Luxembourg II",european-school-luxembourg-ii,european-school-luxembourg-ii,UNK
+European,8599208,322,346,9317;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Ireland)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-ireland,UNK
+European,1338528,556,124,9239,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+European,2333629,3,14,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Varese","European School, Varese",european-school-varese,european-school-varese,ORG
+European,9239,51349,1032,9239;9317;17675;25637;25445;36877;191684;1553658;1168603;1338528;25996692;8707335,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+European,674507,33,58,1739264;1991050;2333629;23454667;36091903;1014388;25996692;191684,http://en.wikipedia.org/wiki/European_School,European School,european-school,european-school,UNK
+European,31465880,8,18,,http://en.wikipedia.org/wiki/The_European_(2009_magazine),The European,the-european,the-european-2009-magazine,UNK
+European,9317,19822,836,8599208;8707335;1014388;7432187;36877;9239;9317;36091903;17675;191684;616004;15125201;25445;2333629;25996692;1168603,http://en.wikipedia.org/wiki/European_Union,European Union,european-union,european-union,UNK
+European,11696187,17,37,,http://en.wikipedia.org/wiki/European_Song,European Song,european-song,european-song,UNK
+European,36091903,3,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Brussels_III","European School, Brussels III",european-school-brussels-iii,european-school-brussels-iii,ORG
+European,22546545,14,61,,http://en.wikipedia.org/wiki/European_University,European University,european-university,european-university,ORG
+European,15125201,307,276,9317;8599208;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Portugal)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-portugal,UNK
+European,20919804,2,28,20919804,http://en.wikipedia.org/wiki/The_European_(1953_magazine),The European,the-european,the-european-1953-magazine,ORG
+European,1014388,7,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Munich","European School, Munich",european-school-munich,european-school-munich,ORG
+European,616004,129,58,9317;616004,http://en.wikipedia.org/wiki/European_Foundation_(think_tank),European Foundation,european-foundation,european-foundation-think-tank,ORG
+European,1168603,28,107,9239;9317,http://en.wikipedia.org/wiki/European_Round_Table_of_Industrialists,European Round Table of Industrialists,european-round-table-of-industrialists,european-round-table-of-industrialists,UNK
+European,17428699,4,24,,http://en.wikipedia.org/wiki/European_Institute,European Institute,european-institute,european-institute,ORG
+European,191684,95,91,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Culham","European School, Culham",european-school-culham,european-school-culham,ORG
+European,41345734,1,9,41345734,http://en.wikipedia.org/wiki/European_Group,European Group,european-group,european-group,UNK
+European,4042903,39,29,,http://en.wikipedia.org/wiki/European_Party_(Cyprus),European Party,european-party,european-party-cyprus,UNK
+European,25996692,3,35,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Karlsruhe","European School, Karlsruhe",european-school-karlsruhe,european-school-karlsruhe,UNK
+European,1991050,8,12,674507,"http://en.wikipedia.org/wiki/European_School,_Mol","European School, Mol",european-school-mol,european-school-mol,UNK
+European,3402034,1943,727,17675;3402034,http://en.wikipedia.org/wiki/European_Figure_Skating_Championships,European Figure Skating Championships,european-figure-skating-championships,european-figure-skating-championships,UNK
+European,8707335,5,14,9317;9239,http://en.wikipedia.org/wiki/European_Journal,European Journal,european-journal,european-journal,UNK
+European,1338717,69,62,,http://en.wikipedia.org/wiki/The_European_(newspaper),The European,the-european,the-european-newspaper,UNK
+Cosmin Contra,5230728,221,252,36877;679755;25445,http://en.wikipedia.org/wiki/Cosmin_Contra,Cosmin Contra,cosmin-contra,cosmin-contra,PER
+Mihai Tararache,6257354,12,10,679755;25445,http://en.wikipedia.org/wiki/Mihai_Tararache,Mihai Tararache,mihai-tararache,mihai-tararache,PER

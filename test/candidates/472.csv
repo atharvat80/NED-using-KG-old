@@ -1,0 +1,37 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+SINGAPORE,27318,26169,802,350660;2872959;16940961;161591;1015816;27318;18952243;1866255;1649325;320211;1545225;24471003;860940;2205844,http://en.wikipedia.org/wiki/Singapore,Singapore,singapore,singapore,GPE
+SINGAPORE,18952243,556,411,161591;27318;18952243,http://en.wikipedia.org/wiki/Singapore_Changi_Airport,Singapore Changi Airport,singapore-changi-airport,singapore-changi-airport,UNK
+SINGAPORE,1545225,374,124,1866255;27318;320211;2872959;1545225;1649325;1015816,http://en.wikipedia.org/wiki/Singapore_River,Singapore River,singapore-river,singapore-river,UNK
+SINGAPORE,860940,221,123,2872959;27318;2205844;320211,http://en.wikipedia.org/wiki/Singapore_Management_University,Singapore Management University,singapore-management-university,singapore-management-university,ORG
+SINGAPORE,320211,122,131,1545225;1866255;860940;27318,http://en.wikipedia.org/wiki/Singapore_Botanic_Gardens,Singapore Botanic Gardens,singapore-botanic-gardens,singapore-botanic-gardens,UNK
+SINGAPORE,1866255,177,78,27318;1545225;320211,http://en.wikipedia.org/wiki/Singapore_Tourism_Board,Singapore Tourism Board,singapore-tourism-board,singapore-tourism-board,ORG
+SINGAPORE,16940961,5,19,27318;16940961,http://en.wikipedia.org/wiki/Singapore_International_Water_Week,Singapore International Water Week,singapore-international-water-week,singapore-international-water-week,UNK
+SINGAPORE,2872959,203,227,350660;27318;1545225;860940,http://en.wikipedia.org/wiki/Supreme_Court_of_Singapore,Supreme Court of Singapore,supreme-court-of-singapore,supreme-court-of-singapore,UNK
+SINGAPORE,1015816,172,422,27318;350660;1545225;1649325;1015816,http://en.wikipedia.org/wiki/Geography_of_Singapore,Geography of Singapore,geography-of-singapore,geography-of-singapore,ORG
+SINGAPORE,1649325,221,206,27318;1545225;1015816,"http://en.wikipedia.org/wiki/Esplanade,_Singapore","Esplanade, Singapore",esplanade-singapore,esplanade-singapore,UNK
+SINGAPORE,2205844,205,143,27318;860940,http://en.wikipedia.org/wiki/Singapore_Polytechnic,Singapore Polytechnic,singapore-polytechnic,singapore-polytechnic,ORG
+SINGAPORE,31607674,2,8,,"http://en.wikipedia.org/wiki/Singapore_Township,_Hyderabad","Singapore Township, Hyderabad",singapore-township-hyderabad,singapore-township-hyderabad,GPE
+SINGAPORE,24471003,2,60,27318,http://en.wikipedia.org/wiki/Singapore_International_Energy_Week,Singapore International Energy Week,singapore-international-energy-week,singapore-international-energy-week,UNK
+SINGAPORE,5679304,5,16,,"http://en.wikipedia.org/wiki/Singapore,_Michigan","Singapore, Michigan",singapore-michigan,singapore-michigan,UNK
+SINGAPORE,161591,800,530,18952243;161591;27318,http://en.wikipedia.org/wiki/Singapore_Airlines,Singapore Airlines,singapore-airlines,singapore-airlines,ORG
+SINGAPORE,350660,494,275,27318;2872959;1015816,http://en.wikipedia.org/wiki/President_of_Singapore,President of Singapore,president-of-singapore,president-of-singapore,UNK
+Singapore,27318,26169,802,350660;2872959;16940961;161591;1015816;27318;18952243;1866255;1649325;320211;1545225;24471003;860940;2205844,http://en.wikipedia.org/wiki/Singapore,Singapore,singapore,singapore,GPE
+Singapore,18952243,556,411,161591;27318;18952243,http://en.wikipedia.org/wiki/Singapore_Changi_Airport,Singapore Changi Airport,singapore-changi-airport,singapore-changi-airport,UNK
+Singapore,1545225,374,124,1866255;27318;320211;2872959;1545225;1649325;1015816,http://en.wikipedia.org/wiki/Singapore_River,Singapore River,singapore-river,singapore-river,UNK
+Singapore,860940,221,123,2872959;27318;2205844;320211,http://en.wikipedia.org/wiki/Singapore_Management_University,Singapore Management University,singapore-management-university,singapore-management-university,ORG
+Singapore,320211,122,131,1545225;1866255;860940;27318,http://en.wikipedia.org/wiki/Singapore_Botanic_Gardens,Singapore Botanic Gardens,singapore-botanic-gardens,singapore-botanic-gardens,UNK
+Singapore,1866255,177,78,27318;1545225;320211,http://en.wikipedia.org/wiki/Singapore_Tourism_Board,Singapore Tourism Board,singapore-tourism-board,singapore-tourism-board,ORG
+Singapore,16940961,5,19,27318;16940961,http://en.wikipedia.org/wiki/Singapore_International_Water_Week,Singapore International Water Week,singapore-international-water-week,singapore-international-water-week,UNK
+Singapore,2872959,203,227,350660;27318;1545225;860940,http://en.wikipedia.org/wiki/Supreme_Court_of_Singapore,Supreme Court of Singapore,supreme-court-of-singapore,supreme-court-of-singapore,UNK
+Singapore,1015816,172,422,27318;350660;1545225;1649325;1015816,http://en.wikipedia.org/wiki/Geography_of_Singapore,Geography of Singapore,geography-of-singapore,geography-of-singapore,ORG
+Singapore,1649325,221,206,27318;1545225;1015816,"http://en.wikipedia.org/wiki/Esplanade,_Singapore","Esplanade, Singapore",esplanade-singapore,esplanade-singapore,UNK
+Singapore,2205844,205,143,27318;860940,http://en.wikipedia.org/wiki/Singapore_Polytechnic,Singapore Polytechnic,singapore-polytechnic,singapore-polytechnic,ORG
+Singapore,31607674,2,8,,"http://en.wikipedia.org/wiki/Singapore_Township,_Hyderabad","Singapore Township, Hyderabad",singapore-township-hyderabad,singapore-township-hyderabad,GPE
+Singapore,24471003,2,60,27318,http://en.wikipedia.org/wiki/Singapore_International_Energy_Week,Singapore International Energy Week,singapore-international-energy-week,singapore-international-energy-week,UNK
+Singapore,5679304,5,16,,"http://en.wikipedia.org/wiki/Singapore,_Michigan","Singapore, Michigan",singapore-michigan,singapore-michigan,UNK
+Singapore,161591,800,530,18952243;161591;27318,http://en.wikipedia.org/wiki/Singapore_Airlines,Singapore Airlines,singapore-airlines,singapore-airlines,ORG
+Singapore,350660,494,275,27318;2872959;1015816,http://en.wikipedia.org/wiki/President_of_Singapore,President of Singapore,president-of-singapore,president-of-singapore,UNK
+GMT,12701,3323,226,,http://en.wikipedia.org/wiki/Greenwich_Mean_Time,Greenwich Mean Time,greenwich-mean-time,greenwich-mean-time,UNK
+GMT,8465437,5,10,,http://en.wikipedia.org/wiki/GMT_Records,GMT Records,gmt-records,gmt-records,ORG
+GMT,8984512,57,45,,http://en.wikipedia.org/wiki/GMT360,GMT360,gmt360,gmt360,UNK
+GMT,26207611,229,250,,http://en.wikipedia.org/wiki/GMT_(programme),GMT,gmt,gmt-programme,UNK

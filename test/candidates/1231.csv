@@ -1,0 +1,72 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Canadian,5042916,159749,788,281157;6340;4236671;9438108;1702572;271067;32706;17232762;5042916;53099;13231745;627830;17259359;328618;895233;2353553;100730;385576;1842917;12268448;1526892;19851291;713770;952445;177015;168998;17592546;1787741;1787648;932543;1787962;17565147;17565236;9089046;1195525;221651;26544195;7174310;6399816;5661344;233978;31876081;2477935;3457355,http://en.wikipedia.org/wiki/Canada,Canada,canada,canada,GPE
+Canadian,17259359,3,27,5042916,http://en.wikipedia.org/wiki/Canadian_International_(badminton),Canadian International,canadian-international,canadian-international-badminton,PER
+Canadian,9089046,5,9,5042916,http://en.wikipedia.org/wiki/Canadian_Bandurist_Capella,Canadian Bandurist Capella,canadian-bandurist-capella,canadian-bandurist-capella,UNK
+Canadian,26544195,41,8,5042916;26544195,http://en.wikipedia.org/wiki/Canadian_Musician,Canadian Musician,canadian-musician,canadian-musician,ORG
+Canadian,19851291,1524,619,5042916;7174310;32706;6340,http://en.wikipedia.org/wiki/Canadians,Canadians,canadians,canadians,UNK
+Canadian,281157,198,250,5042916;32706;100730;177015,http://en.wikipedia.org/wiki/Canadian_Airlines,Canadian Airlines,canadian-airlines,canadian-airlines,ORG
+Canadian,6340,1256,589,5042916;221651;53099;7174310;19851291;32706;6340;5661344,http://en.wikipedia.org/wiki/Canadian_English,Canadian English,canadian-english,canadian-english,ORG
+Canadian,21336436,40,47,,"http://en.wikipedia.org/wiki/Canadian,_Victoria","Canadian, Victoria",canadian-victoria,canadian-victoria,UNK
+Canadian,136047,323,375,617153,"http://en.wikipedia.org/wiki/Canadian,_Texas","Canadian, Texas",canadian-texas,canadian-texas,GPE
+Canadian,4526025,84,25,,http://en.wikipedia.org/wiki/Canadian_Division,Canadian Division,canadian-division,canadian-division,ORG
+Canadian,952445,14,28,5042916,http://en.wikipedia.org/wiki/Canadian_Party,Canadian Party,canadian-party,canadian-party,UNK
+Canadian,1702572,66,78,5042916,http://en.wikipedia.org/wiki/Canadian_Club,Canadian Club,canadian-club,canadian-club,UNK
+Canadian,1526892,168,210,5042916;32706;100730,http://en.wikipedia.org/wiki/Canadian_(train),Canadian,canadian,canadian-train,UNK
+Canadian,92111,394,276,617153;92111,"http://en.wikipedia.org/wiki/Canadian_County,_Oklahoma","Canadian County, Oklahoma",canadian-county-oklahoma,canadian-county-oklahoma,GPE
+Canadian,328618,637,343,5042916;32706;328618,http://en.wikipedia.org/wiki/Canadian_Space_Agency,Canadian Space Agency,canadian-space-agency,canadian-space-agency,ORG
+Canadian,17232762,30,39,5042916;32706,http://en.wikipedia.org/wiki/Canadian_College,Canadian College,canadian-college,canadian-college,ORG
+Canadian,1684950,6,20,,http://en.wikipedia.org/wiki/Canadian_River_(Colorado),Canadian River,canadian-river,canadian-river-colorado,UNK
+Canadian,2477935,122,138,2477935;5042916;32706,http://en.wikipedia.org/wiki/Canadian_Chinese_cuisine,Canadian Chinese cuisine,canadian-chinese-cuisine,canadian-chinese-cuisine,UNK
+Canadian,7174310,1,278,5042916;19851291;6340,http://en.wikipedia.org/wiki/American_Canadian,American Canadian,american-canadian,american-canadian,UNK
+Canadian,6399816,78,77,5042916,http://en.wikipedia.org/wiki/Canadian_GAA,Canadian GAA,canadian-gaa,canadian-gaa,GPE
+Canadian,4236671,83,91,5042916,http://en.wikipedia.org/wiki/Canadian_Silver_Maple_Leaf,Canadian Silver Maple Leaf,canadian-silver-maple-leaf,canadian-silver-maple-leaf,UNK
+Canadian,130520,35,46,,"http://en.wikipedia.org/wiki/Canadian,_Oklahoma","Canadian, Oklahoma",canadian-oklahoma,canadian-oklahoma,GPE
+Canadian,617153,208,50,136047;92111,http://en.wikipedia.org/wiki/Canadian_River,Canadian River,canadian-river,canadian-river,UNK
+WINNIPEG,100730,6283,608,281157;221651;100730;31876081;1526892;526502;5042916;587404;271067;168998;3812764;32706,http://en.wikipedia.org/wiki/Winnipeg,Winnipeg,winnipeg,winnipeg,GPE
+WINNIPEG,18380363,4,16,,http://en.wikipedia.org/wiki/Winnipeg_Limited,Winnipeg Limited,winnipeg-limited,winnipeg-limited,UNK
+WINNIPEG,1787741,45,31,5042916,http://en.wikipedia.org/wiki/Winnipeg_(electoral_district),Winnipeg,winnipeg,winnipeg-electoral-district,UNK
+WINNIPEG,3812764,403,97,168998;100730,http://en.wikipedia.org/wiki/Winnipeg_Beach,Winnipeg Beach,winnipeg-beach,winnipeg-beach,UNK
+WINNIPEG,31876081,948,304,5042916;32706;100730;31876081,http://en.wikipedia.org/wiki/Winnipeg_Jets,Winnipeg Jets,winnipeg-jets,winnipeg-jets,UNK
+WINNIPEG,587404,376,106,100730,http://en.wikipedia.org/wiki/University_of_Winnipeg,University of Winnipeg,university-of-winnipeg,university-of-winnipeg,UNK
+WINNIPEG,13231745,5,32,5042916,http://en.wikipedia.org/wiki/SS_Winnipeg,SS Winnipeg,ss-winnipeg,ss-winnipeg,UNK
+WINNIPEG,932543,81,57,168998;5042916,http://en.wikipedia.org/wiki/Winnipeg_River,Winnipeg River,winnipeg-river,winnipeg-river,UNK
+WINNIPEG,168998,308,76,3812764;5042916;100730;932543,http://en.wikipedia.org/wiki/Lake_Winnipeg,Lake Winnipeg,lake-winnipeg,lake-winnipeg,UNK
+Canadian Wheat Board,526502,165,155,526502;100730,http://en.wikipedia.org/wiki/Canadian_Wheat_Board,Canadian Wheat Board,canadian-wheat-board,canadian-wheat-board,ORG
+Thunder Bay,221651,1336,368,895233;5042916;1195525;32706;271067;6340;2353553;100730;627830,http://en.wikipedia.org/wiki/Thunder_Bay,Thunder Bay,thunder-bay,thunder-bay,GPE
+Thunder Bay,895233,1732,159,5042916;221651;177015,http://en.wikipedia.org/wiki/Thunder_Bay_International_Airport,Thunder Bay International Airport,thunder-bay-international-airport,thunder-bay-international-airport,UNK
+Thunder Bay,857216,26,17,5265514;4372781,http://en.wikipedia.org/wiki/Thunder_Bay_(Michigan),Thunder Bay,thunder-bay,thunder-bay-michigan,UNK
+Thunder Bay,627830,330,153,5042916;2353553;221651,http://en.wikipedia.org/wiki/Thunder_Bay_District,Thunder Bay District,thunder-bay-district,thunder-bay-district,GPE
+Thunder Bay,5265514,118,15,857216,http://en.wikipedia.org/wiki/Thunder_Bay_Island,Thunder Bay Island,thunder-bay-island,thunder-bay-island,UNK
+Thunder Bay,2353553,11,16,5042916;627830;221651,http://en.wikipedia.org/wiki/Thunder_Bay_(Ontario_landform),Thunder Bay,thunder-bay,thunder-bay-ontario-landform,UNK
+Thunder Bay,1842917,13,18,5042916,http://en.wikipedia.org/wiki/Thunder_Bay_(electoral_district),Thunder Bay,thunder-bay,thunder-bay-electoral-district,PER
+Thunder Bay,4372781,24,23,857216,http://en.wikipedia.org/wiki/Thunder_Bay_River,Thunder Bay River,thunder-bay-river,thunder-bay-river,UNK
+Vancouver,32706,12967,920,17232762;281157;1803701;15945875;100730;1526892;6340;7217838;177015;5042916;9438108;5661344;18592743;233978;385576;1195525;53099;19851291;1787962;221651;31876081;328618;2477935;271067;32706,http://en.wikipedia.org/wiki/Vancouver,Vancouver,vancouver,vancouver,GPE
+Vancouver,1195525,382,225,5042916;32706;271067;221651;53099,http://en.wikipedia.org/wiki/Greater_Vancouver,Greater Vancouver,greater-vancouver,greater-vancouver,UNK
+Vancouver,18592743,1339,456,3299042;32706;230928,"http://en.wikipedia.org/wiki/Vancouver,_Washington","Vancouver, Washington",vancouver-washington,vancouver-washington,GPE
+Vancouver,230928,15,80,18592743,http://en.wikipedia.org/wiki/USS_Vancouver_(LPD-2),USS Vancouver,uss-vancouver,uss-vancouver-lpd-2,UNK
+Vancouver,31585805,11,24,,http://en.wikipedia.org/wiki/Vancouver_(EP),Vancouver,vancouver,vancouver-ep,UNK
+Vancouver,3457355,8,7,5042916;3362621;1787648,http://en.wikipedia.org/wiki/Vancouver_Island_(electoral_district),Vancouver Island,vancouver-island,vancouver-island-electoral-district,PER
+Vancouver,13086906,3,14,713770,http://en.wikipedia.org/wiki/Mount_Vancouver_(New_Zealand),Mount Vancouver,mount-vancouver,mount-vancouver-new-zealand,UNK
+Vancouver,7217838,4,21,32706,http://en.wikipedia.org/wiki/Vancouver_system,Vancouver system,vancouver-system,vancouver-system,UNK
+Vancouver,17565236,4,10,5042916;17565147,http://en.wikipedia.org/wiki/Vancouver_River,Vancouver River,vancouver-river,vancouver-river,UNK
+Vancouver,1787648,39,33,3457355;5042916;3362621,http://en.wikipedia.org/wiki/Vancouver_(electoral_district),Vancouver,vancouver,vancouver-electoral-district,PER
+Vancouver,3362621,26,42,1787962;53099;3457355;1787648,http://en.wikipedia.org/wiki/Vancouver_(electoral_districts),Vancouver,vancouver,vancouver-electoral-districts,GPE
+Vancouver,177015,2077,332,5042916;281157;385576;895233;32706;271067,http://en.wikipedia.org/wiki/Vancouver_International_Airport,Vancouver International Airport,vancouver-international-airport,vancouver-international-airport,UNK
+Vancouver,11216613,16,12,11216613,http://en.wikipedia.org/wiki/Vancouver_Foundation,Vancouver Foundation,vancouver-foundation,vancouver-foundation,ORG
+Vancouver,233978,803,41,5042916;32706,http://en.wikipedia.org/wiki/The_Vancouver_Sun,The Vancouver Sun,the-vancouver-sun,the-vancouver-sun,UNK
+Vancouver,713770,21,24,5042916;13086906,http://en.wikipedia.org/wiki/Mount_Vancouver,Mount Vancouver,mount-vancouver,mount-vancouver,UNK
+Vancouver,17565147,4,10,5042916;17565236,"http://en.wikipedia.org/wiki/Vancouver_Bay,_British_Columbia","Vancouver Bay, British Columbia",vancouver-bay-british-columbia,vancouver-bay-british-columbia,GPE
+Vancouver,17592546,94,139,53099;5042916,http://en.wikipedia.org/wiki/Vancouver_(steamboat),Vancouver,vancouver,vancouver-steamboat,UNK
+Vancouver,271067,733,152,5042916;1195525;32706;271067;177015;221651;9438108;100730,http://en.wikipedia.org/wiki/Metro_Vancouver,Metro Vancouver,metro-vancouver,metro-vancouver,GPE
+Vancouver,15945875,39,42,32706,http://en.wikipedia.org/wiki/Vancouver_School,Vancouver School,vancouver-school,vancouver-school,PER
+Vancouver,3299042,12,59,18592743,http://en.wikipedia.org/wiki/Vancouver_Lake,Vancouver Lake,vancouver-lake,vancouver-lake,UNK
+Vancouver,1787962,19,21,32706;3362621;5042916,http://en.wikipedia.org/wiki/Vancouver_City,Vancouver City,vancouver-city,vancouver-city,PER
+Vancouver,9438108,104,115,5042916;32706;271067,http://en.wikipedia.org/wiki/Vancouver_Film_Studios,Vancouver Film Studios,vancouver-film-studios,vancouver-film-studios,UNK
+Vancouver,53099,2035,361,5042916;385576;1195525;32706;6340;3362621;17592546,http://en.wikipedia.org/wiki/Vancouver_Island,Vancouver Island,vancouver-island,vancouver-island,UNK
+Vancouver,5661344,112,135,6340;5042916;32706,http://en.wikipedia.org/wiki/Vancouver_College,Vancouver College,vancouver-college,vancouver-college,UNK
+Vancouver,1803701,83,21,32706,http://en.wikipedia.org/wiki/Vancouver_Opera,Vancouver Opera,vancouver-opera,vancouver-opera,ORG
+Prince Rupert,24104961,4,18,,http://en.wikipedia.org/wiki/Prince_Rupert_School,Prince Rupert School,prince-rupert-school,prince-rupert-school,UNK
+Prince Rupert,385576,665,237,5042916;32706;153673;53099;3478401;177015,"http://en.wikipedia.org/wiki/Prince_Rupert,_British_Columbia","Prince Rupert, British Columbia",prince-rupert-british-columbia,prince-rupert-british-columbia,GPE
+Prince Rupert,3478401,85,112,385576,http://en.wikipedia.org/wiki/Prince_Rupert_(electoral_district),Prince Rupert,prince-rupert,prince-rupert-electoral-district,UNK
+Prince Rupert,153673,324,281,12268448;385576,http://en.wikipedia.org/wiki/Prince_Rupert_of_the_Rhine,Prince Rupert of the Rhine,prince-rupert-of-the-rhine,prince-rupert-of-the-rhine,PER
+Prince Rupert,12268448,323,306,5042916;153673,"http://en.wikipedia.org/wiki/Prince_Rupert,_Edmonton","Prince Rupert, Edmonton",prince-rupert-edmonton,prince-rupert-edmonton,PER

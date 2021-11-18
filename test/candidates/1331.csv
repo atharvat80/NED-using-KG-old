@@ -1,0 +1,221 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+RTRS,3112720,41,153,,http://en.wikipedia.org/wiki/Radio_and_Television_of_Bosnia_and_Herzegovina,Radio and Television of Bosnia and Herzegovina,radio-and-television-of-bosnia-and-herzegovina,radio-and-television-of-bosnia-and-herzegovina,ORG
+Australian,4689264,136194,1016,1944;16660639;5836626;7214224;18589346;19734;6956914;23767;22943;10691374;23402;31769;31899;31957;31956;51983;49732;61565;65836;645042;18950948;26451470;26451467;26451463;26451498;26451490;1085682;19468532;21742992;620967;3505715;450955;2639108;176767;17932285;426946;185052;201787;225700;27960950;20611325;4689264;243669;984508,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australian,1944,3167,281,51983;426946;1944;5836626;18950948;5462904;20611325;65836;2639108;10849634;6956914;1085682;185052;10726259;484704;10691374;4689264;61565,http://en.wikipedia.org/wiki/Australian_Capital_Territory,Australian Capital Territory,australian-capital-territory,australian-capital-territory,GPE
+Australian,5462904,17,19,1944,http://en.wikipedia.org/wiki/Australian_Capital_Territory_Ambulance_Service,Australian Capital Territory Ambulance Service,australian-capital-territory-ambulance-service,australian-capital-territory-ambulance-service,ORG
+John Langmore,5836626,27,27,4689264;61565;31769;2036507;1944,http://en.wikipedia.org/wiki/John_Langmore,John Langmore,john-langmore,john-langmore,PER
+CANBERRA,51983,5727,555,201787;435332;579707;426946;11504365;1944;18950948;984508;20611325;2639108;6956914;23767;1085682;6485820;10726259;22943;484704;10691374;4689264;61565,http://en.wikipedia.org/wiki/Canberra,Canberra,canberra,canberra,GPE
+CANBERRA,6956914,136,85,51983;4689264;1944,http://en.wikipedia.org/wiki/Canberra_Rugby_League,Canberra Rugby League,canberra-rugby-league,canberra-rugby-league,UNK
+CANBERRA,426946,367,131,10726259;51983;4689264;61565;1944,http://en.wikipedia.org/wiki/University_of_Canberra,University of Canberra,university-of-canberra,university-of-canberra,ORG
+CANBERRA,1085682,284,313,51983;4689264;484704;10691374;1944,http://en.wikipedia.org/wiki/Canberra_International_Airport,Canberra International Airport,canberra-international-airport,canberra-international-airport,UNK
+CANBERRA,10849634,10,24,1944,http://en.wikipedia.org/wiki/Canberra_Parish,Canberra Parish,canberra-parish,canberra-parish,UNK
+CANBERRA,10726259,27,23,426946;51983;1944,http://en.wikipedia.org/wiki/Canberra_Hospital,Canberra Hospital,canberra-hospital,canberra-hospital,ORG
+CANBERRA,201787,574,382,51983;4689264,http://en.wikipedia.org/wiki/English_Electric_Canberra,English Electric Canberra,english-electric-canberra,english-electric-canberra,UNK
+CANBERRA,6485820,104,87,51983,http://en.wikipedia.org/wiki/Canberra_International,Canberra International,canberra-international,canberra-international,UNK
+CANBERRA,10691374,123,127,51983;484704;4689264;1085682;1944,http://en.wikipedia.org/wiki/Canberra_Theatre,Canberra Theatre,canberra-theatre,canberra-theatre,UNK
+CANBERRA,579707,115,156,51983,http://en.wikipedia.org/wiki/SS_Canberra,SS Canberra,ss-canberra,ss-canberra,UNK
+CANBERRA,484704,730,549,1085682;620967;10691374;51983;1944,http://en.wikipedia.org/wiki/Canberra_Stadium,Canberra Stadium,canberra-stadium,canberra-stadium,UNK
+CANBERRA,435332,82,85,51983,http://en.wikipedia.org/wiki/USS_Canberra_(CA-70),USS Canberra,uss-canberra,uss-canberra-ca-70,UNK
+CANBERRA,11504365,52,31,51983,http://en.wikipedia.org/wiki/Canberra_FC,Canberra FC,canberra-fc,canberra-fc,UNK
+House of Representatives,3941312,55,46,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_of_Belarus,House of Representatives of Belarus,house-of-representatives-of-belarus,house-of-representatives-of-belarus,ORG
+House of Representatives,21055060,33,25,19468532,http://en.wikipedia.org/wiki/Prussian_House_of_Representatives,Prussian House of Representatives,prussian-house-of-representatives,prussian-house-of-representatives,UNK
+House of Representatives,3133173,158,70,,http://en.wikipedia.org/wiki/House_of_Representatives_of_Liberia,House of Representatives of Liberia,house-of-representatives-of-liberia,house-of-representatives-of-liberia,UNK
+House of Representatives,155519,360,317,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Netherlands),House of Representatives,house-of-representatives,house-of-representatives-netherlands,UNK
+House of Representatives,20083165,2,116,764216,"http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,_127th_General_Assembly","Ohio House of Representatives, 127th General Assembly",ohio-house-of-representatives-127th-general-assembly,ohio-house-of-representatives-127th-general-assembly,PER
+House of Representatives,28334445,10,14,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_of_South_Africa,House of Representatives of South Africa,house-of-representatives-of-south-africa,house-of-representatives-of-south-africa,UNK
+House of Representatives,633627,1371,517,19468510;633627;764216,http://en.wikipedia.org/wiki/Florida_House_of_Representatives,Florida House of Representatives,florida-house-of-representatives,florida-house-of-representatives,UNK
+House of Representatives,1912306,116,82,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Egypt),House of Representatives,house-of-representatives,house-of-representatives-egypt,UNK
+House of Representatives,3645403,68,71,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Nigeria),House of Representatives,house-of-representatives,house-of-representatives-nigeria,UNK
+House of Representatives,11277304,2,8,764216,"http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,_82nd_District","Ohio House of Representatives, 82nd District",ohio-house-of-representatives-82nd-district,ohio-house-of-representatives-82nd-district,UNK
+House of Representatives,467207,314,191,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Fiji),House of Representatives,house-of-representatives,house-of-representatives-fiji,ORG
+House of Representatives,4493312,40,46,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Yemen),House of Representatives,house-of-representatives,house-of-representatives-yemen,UNK
+House of Representatives,293605,2222,390,19468532;19468510,http://en.wikipedia.org/wiki/House_of_Representatives_of_the_Philippines,House of Representatives of the Philippines,house-of-representatives-of-the-philippines,house-of-representatives-of-the-philippines,ORG
+House of Representatives,4497460,31,89,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Cyprus),House of Representatives,house-of-representatives,house-of-representatives-cyprus,UNK
+House of Representatives,217778,320,308,19468532;217778,http://en.wikipedia.org/wiki/House_of_Representatives_(Japan),House of Representatives,house-of-representatives,house-of-representatives-japan,UNK
+House of Representatives,19468532,40,156,217778;155519;467207;4493312;17617021;3941312;3695977;3645403;4497460;19468510;4689264;34503937;1912306;2953789;29739592;3613683;28334445;21055060;2707214;4232934;293605,http://en.wikipedia.org/wiki/House_of_Representatives,House of Representatives,house-of-representatives,house-of-representatives,UNK
+House of Representatives,29739592,56,128,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Burma),House of Representatives,house-of-representatives,house-of-representatives-burma,ORG
+House of Representatives,11244548,4,12,,"http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,_80th_District","Ohio House of Representatives, 80th District",ohio-house-of-representatives-80th-district,ohio-house-of-representatives-80th-district,UNK
+House of Representatives,2953789,40,55,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Belize),House of Representatives,house-of-representatives,house-of-representatives-belize,ORG
+House of Representatives,19468510,24027,789,764216;633627;293605;19468532;23758960;8210131,http://en.wikipedia.org/wiki/United_States_House_of_Representatives,United States House of Representatives,united-states-house-of-representatives,united-states-house-of-representatives,ORG
+House of Representatives,353844,322,209,,http://en.wikipedia.org/wiki/House_of_Representatives_of_New_Zealand,House of Representatives of New Zealand,house-of-representatives-of-new-zealand,house-of-representatives-of-new-zealand,ORG
+House of Representatives,61565,2744,194,65836;2639108;17932285;51983;426946;1944;5836626;23767;185052;4689264,http://en.wikipedia.org/wiki/Australian_House_of_Representatives,Australian House of Representatives,australian-house-of-representatives,australian-house-of-representatives,ORG
+House of Representatives,3695977,80,94,19468532;3613683,http://en.wikipedia.org/wiki/Zanzibar_House_of_Representatives,Zanzibar House of Representatives,zanzibar-house-of-representatives,zanzibar-house-of-representatives,UNK
+House of Representatives,2707214,3,54,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Nepal),House of Representatives,house-of-representatives,house-of-representatives-nepal,UNK
+House of Representatives,13113923,2,15,,"http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,_58th_District","Ohio House of Representatives, 58th District",ohio-house-of-representatives-58th-district,ohio-house-of-representatives-58th-district,UNK
+House of Representatives,764216,1636,356,20083165;19468510;11277304;633627;764216,http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,Ohio House of Representatives,ohio-house-of-representatives,ohio-house-of-representatives,UNK
+House of Representatives,4232934,44,106,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Thailand),House of Representatives,house-of-representatives,house-of-representatives-thailand,GPE
+House of Representatives,3613683,19,96,3695977;19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Somaliland),House of Representatives,house-of-representatives,house-of-representatives-somaliland,GPE
+House of Representatives,4503449,47,59,,http://en.wikipedia.org/wiki/House_of_Representatives_(Morocco),House of Representatives,house-of-representatives,house-of-representatives-morocco,UNK
+House of Representatives,17617021,7,72,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Ceylon),House of Representatives,house-of-representatives,house-of-representatives-ceylon,UNK
+House of Representatives,34503937,1,12,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Kenya),House of Representatives,house-of-representatives,house-of-representatives-kenya,PER
+Bob Halverson,17932285,49,46,4689264;61565,http://en.wikipedia.org/wiki/Bob_Halverson,Bob Halverson,bob-halverson,bob-halverson,PER
+Halverson,17932285,49,46,4689264;61565,http://en.wikipedia.org/wiki/Bob_Halverson,Bob Halverson,bob-halverson,bob-halverson,PER
+John Vance Langmore,5836626,27,27,4689264;61565;31769;2036507;1944,http://en.wikipedia.org/wiki/John_Langmore,John Langmore,john-langmore,john-langmore,PER
+Fraser,2639108,41,66,4689264;61565;51983;1944,"http://en.wikipedia.org/wiki/Fraser,_Australian_Capital_Territory","Fraser, Australian Capital Territory",fraser-australian-capital-territory,fraser-australian-capital-territory,UNK
+Fraser,117110,31,47,15060850;118010,"http://en.wikipedia.org/wiki/Fraser_Township,_Michigan","Fraser Township, Michigan",fraser-township-michigan,fraser-township-michigan,GPE
+Fraser,3251913,323,267,3251913,http://en.wikipedia.org/wiki/Clan_Fraser,Clan Fraser,clan-fraser,clan-fraser,UNK
+Fraser,108509,34,215,516137,"http://en.wikipedia.org/wiki/Fraser,_Colorado","Fraser, Colorado",fraser-colorado,fraser-colorado,GPE
+Fraser,1792016,45,35,,http://en.wikipedia.org/wiki/Fraser_Valley_(electoral_district),Fraser Valley,fraser-valley,fraser-valley-electoral-district,UNK
+Fraser,205576,241,116,197739;11865969,http://en.wikipedia.org/wiki/Fraser_Valley,Fraser Valley,fraser-valley,fraser-valley,UNK
+Fraser,12079766,14,11,12079931,"http://en.wikipedia.org/wiki/Don_Fraser,_Jr.","Don Fraser, Jr.",don-fraser-jr,don-fraser-jr,UNK
+Fraser,8203622,5,9,,"http://en.wikipedia.org/wiki/Fraser,_British_Columbia","Fraser, British Columbia",fraser-british-columbia,fraser-british-columbia,UNK
+Fraser,21742992,162,175,4689264,http://en.wikipedia.org/wiki/Fraser_River_(Western_Australia),Fraser River,fraser-river,fraser-river-western-australia,UNK
+Fraser,225700,177,186,4689264;32036671;22699865;19734,http://en.wikipedia.org/wiki/Fraser_Island,Fraser Island,fraser-island,fraser-island,UNK
+Fraser,12079931,54,52,12079766,"http://en.wikipedia.org/wiki/Don_Fraser,_Sr.","Don Fraser, Sr.",don-fraser-sr,don-fraser-sr,UNK
+Fraser,120731,33,52,15060850,"http://en.wikipedia.org/wiki/Fraser_Township,_Martin_County,_Minnesota","Fraser Township, Martin County, Minnesota",fraser-township-martin-county-minnesota,fraser-township-martin-county-minnesota,GPE
+Fraser,14648549,321,303,,"http://en.wikipedia.org/wiki/Fraser,_Edmonton","Fraser, Edmonton",fraser-edmonton,fraser-edmonton,PER
+Fraser,15060850,0,2,120731;117110,http://en.wikipedia.org/wiki/Fraser_Township,Fraser Township,fraser-township,fraser-township,GPE
+Fraser,13059195,74,75,,http://en.wikipedia.org/wiki/Don_Fraser_(figure_skater),Don Fraser,don-fraser,don-fraser-figure-skater,UNK
+Fraser,5823457,99,89,,http://en.wikipedia.org/wiki/Henk_Fräser,Henk Fräser,henk-fraser,henk-fraser,PER
+Fraser,118010,86,231,117110,"http://en.wikipedia.org/wiki/Fraser,_Michigan","Fraser, Michigan",fraser-michigan,fraser-michigan,GPE
+Fraser,11006215,3,15,26100342,http://en.wikipedia.org/wiki/Mount_Fraser,Mount Fraser,mount-fraser,mount-fraser,UNK
+Fraser,22699865,438,458,225700,http://en.wikipedia.org/wiki/Fraser_Island_(Nunavut),Fraser Island,fraser-island,fraser-island-nunavut,UNK
+Fraser,516137,107,121,197739;108509,http://en.wikipedia.org/wiki/Fraser_River_(Colorado),Fraser River,fraser-river,fraser-river-colorado,UNK
+Fraser,13307603,8,24,645042,http://en.wikipedia.org/wiki/Fraser_&_DeBolt,Fraser & DeBolt,fraser-debolt,fraser-debolt,UNK
+Fraser,4897146,28,83,,http://en.wikipedia.org/wiki/Fraser_Lake,Fraser Lake,fraser-lake,fraser-lake,GPE
+Fraser,554033,232,57,197739,http://en.wikipedia.org/wiki/Fraser_Institute,Fraser Institute,fraser-institute,fraser-institute,ORG
+Fraser,32036671,2,8,225700,http://en.wikipedia.org/wiki/County_of_Fraser,County of Fraser,county-of-fraser,county-of-fraser,UNK
+Fraser,22829184,550,15,197739;26100342,http://en.wikipedia.org/wiki/Fraser_Pass,Fraser Pass,fraser-pass,fraser-pass,UNK
+Fraser,4608079,6,6,,http://en.wikipedia.org/wiki/Lord_Fraser,Lord Fraser,lord-fraser,lord-fraser,UNK
+Fraser,19734,558,188,225700;22943;23767;4689264;65836,http://en.wikipedia.org/wiki/Malcolm_Fraser,Malcolm Fraser,malcolm-fraser,malcolm-fraser,PER
+Fraser,347234,0,1,8210131,"http://en.wikipedia.org/wiki/Fraser,_New_York","Fraser, New York",fraser-new-york,fraser-new-york,UNK
+Fraser,197739,1112,294,22829184;516137;554033;205576,http://en.wikipedia.org/wiki/Fraser_River,Fraser River,fraser-river,fraser-river,UNK
+Fraser,112774,35,61,,"http://en.wikipedia.org/wiki/Fraser,_Iowa","Fraser, Iowa",fraser-iowa,fraser-iowa,GPE
+Fraser,26100342,5,191,22829184;11006215,http://en.wikipedia.org/wiki/Mount_Fraser_(Canada),Mount Fraser,mount-fraser,mount-fraser-canada,UNK
+Australian Capital Territory,1944,3167,281,51983;426946;1944;5836626;18950948;5462904;20611325;65836;2639108;10849634;6956914;1085682;185052;10726259;484704;10691374;4689264;61565,http://en.wikipedia.org/wiki/Australian_Capital_Territory,Australian Capital Territory,australian-capital-territory,australian-capital-territory,GPE
+Australian Capital Territory,5462904,17,19,1944,http://en.wikipedia.org/wiki/Australian_Capital_Territory_Ambulance_Service,Australian Capital Territory Ambulance Service,australian-capital-territory-ambulance-service,australian-capital-territory-ambulance-service,ORG
+Langmore,5836626,27,27,4689264;61565;31769;2036507;1944,http://en.wikipedia.org/wiki/John_Langmore,John Langmore,john-langmore,john-langmore,PER
+Australia,4689264,136194,1016,1944;16660639;5836626;7214224;18589346;19734;6956914;23767;22943;10691374;23402;31769;31899;31957;31956;51983;49732;61565;65836;645042;18950948;26451470;26451467;26451463;26451498;26451490;1085682;19468532;21742992;620967;3505715;450955;2639108;176767;17932285;426946;185052;201787;225700;27960950;20611325;4689264;243669;984508,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australia,26451467,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Sydney,Australia/Sydney,australia-sydney,australia-sydney,PER
+Australia,20611325,466,326,22943;18950948;51983;4689264;20611325;1944,http://en.wikipedia.org/wiki/Australia_(continent),Australia,australia,australia-continent,UNK
+Australia,23335381,10,15,,http://en.wikipedia.org/wiki/Australia_EP,Australia EP,australia-ep,australia-ep,UNK
+Australia,8007505,169,194,,http://en.wikipedia.org/wiki/Australia_Station,Australia Station,australia-station,australia-station,ORG
+Australia,33114696,6,16,,http://en.wikipedia.org/wiki/For_Australia,For Australia,for-australia,for-australia,UNK
+Australia,20214173,19,31,,http://en.wikipedia.org/wiki/Australia_(schooner),Australia,australia,australia-schooner,UNK
+Australia,38961514,2,7,,http://en.wikipedia.org/wiki/Mr._Australia,Mr. Australia,mr-australia,mr-australia,ORG
+Australia,49732,126,120,4689264;3216133,http://en.wikipedia.org/wiki/Australia_Group,Australia Group,australia-group,australia-group,ORG
+Australia,26451490,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Adelaide,Australia/Adelaide,australia-adelaide,australia-adelaide,PER
+Australia,243669,51,155,4689264,http://en.wikipedia.org/wiki/Australia_II,Australia II,australia-ii,australia-ii,UNK
+Australia,185052,236,108,4689264;61565;1944,http://en.wikipedia.org/wiki/Australia_Party,Australia Party,australia-party,australia-party,ORG
+Australia,620967,2240,477,484704;4689264,http://en.wikipedia.org/wiki/Australia_national_rugby_union_team,Australia national rugby union team,australia-national-rugby-union-team,australia-national-rugby-union-team,UNK
+Australia,42450678,37,51,,"http://en.wikipedia.org/wiki/Australia,_Mississippi","Australia, Mississippi",australia-mississippi,australia-mississippi,GPE
+Australia,984508,214,355,51983;4689264,http://en.wikipedia.org/wiki/Internet_censorship_in_Australia,Internet censorship in Australia,internet-censorship-in-australia,internet-censorship-in-australia,UNK
+Australia,26451463,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Melbourne,Australia/Melbourne,australia-melbourne,australia-melbourne,PER
+Australia,27960950,4,21,4689264;27960950,http://en.wikipedia.org/wiki/MS_Australia,MS Australia,ms-australia,ms-australia,UNK
+Australia,7214224,5,22,4689264,http://en.wikipedia.org/wiki/National_Police_Memorial_Australia,National Police Memorial Australia,national-police-memorial-australia,national-police-memorial-australia,UNK
+Australia,450955,49,106,31769;4689264,http://en.wikipedia.org/wiki/Gun_politics_in_Australia,Gun politics in Australia,gun-politics-in-australia,gun-politics-in-australia,UNK
+Australia,10680720,15,21,,http://en.wikipedia.org/wiki/Australia_Hotel,Australia Hotel,australia-hotel,australia-hotel,UNK
+Australia,1460635,58,63,,"http://en.wikipedia.org/wiki/Wittenoom,_Western_Australia","Wittenoom, Western Australia",wittenoom-western-australia,wittenoom-western-australia,UNK
+Australia,37398196,0,1,,http://en.wikipedia.org/wiki/Australia_(KA-5),Australia,australia,australia-ka-5,PER
+Australia,26451470,2,10,4689264,http://en.wikipedia.org/wiki/Australia/Brisbane,Australia/Brisbane,australia-brisbane,australia-brisbane,PER
+Australia,42585823,126,145,,http://en.wikipedia.org/wiki/Australia_(Modern_Family),Australia,australia,australia-modern-family,UNK
+Australia,26451498,2,9,4689264,http://en.wikipedia.org/wiki/Australia/Perth,Australia/Perth,australia-perth,australia-perth,PER
+Australia,65836,173,290,4689264;61565;19734;23767;1944,http://en.wikipedia.org/wiki/Republicanism_in_Australia,Republicanism in Australia,republicanism-in-australia,republicanism-in-australia,UNK
+Australia,18950948,203,272,51983;23402;4689264;22943;18950948;20611325;1944,http://en.wikipedia.org/wiki/Geography_of_Australia,Geography of Australia,geography-of-australia,geography-of-australia,UNK
+United Nations,31769,20072,584,450955;1437212;2151507;40979641;22306061;5836626;18589346;11865969;82256;645042;22943;3216133;26994994;10779819;216034;31769;31899;31957;31956;4689264,http://en.wikipedia.org/wiki/United_Nations,United Nations,united-nations,united-nations,UNK
+United Nations,216034,285,179,1437212;2151507;31769;8210131;31899;82256;31957;31956,http://en.wikipedia.org/wiki/United_Nations_System,United Nations System,united-nations-system,united-nations-system,UNK
+United Nations,22306061,64,92,31769;3216133;31957;31956;645042,"http://en.wikipedia.org/wiki/United_Nations_Security_Council_election,_2010","United Nations Security Council election, 2010",united-nations-security-council-election-2010,united-nations-security-council-election-2010,UNK
+United Nations,82256,1380,264,645042;216034;1437212;2151507;31769;31899;31957;31956;22943;40979641,http://en.wikipedia.org/wiki/United_Nations_Development_Programme,United Nations Development Programme,united-nations-development-programme,united-nations-development-programme,UNK
+United Nations,11865969,26,63,31769;205576,http://en.wikipedia.org/wiki/United_Nations_(gang),United Nations,united-nations,united-nations-gang,UNK
+United Nations,10779819,61,55,31769;8210131;645042,http://en.wikipedia.org/wiki/United_Nations_(band),United Nations,united-nations,united-nations-band,UNK
+United Nations,31956,4165,432,3216133;22306061;612085;82256;216034;1437212;2151507;31769;31899;31957;31956;4689264,http://en.wikipedia.org/wiki/United_Nations_Security_Council,United Nations Security Council,united-nations-security-council,united-nations-security-council,UNK
+New York,645042,77367,1542,2499282;5166;13307603;8210131;31769;31957;27746113;26035579;667548;816554;3880857;351876;7402167;2585447;82256;645042;26994994;10779819;4689264;13141861;598652;22306061;17292183;606772;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+New York,39062092,3,8,,http://en.wikipedia.org/wiki/New_York_EP,New York EP,new-york-ep,new-york-ep,UNK
+New York,5710132,2,12,,"http://en.wikipedia.org/wiki/New_York,_Auburn_and_Lansing_Railroad","New York, Auburn and Lansing Railroad",new-york-auburn-and-lansing-railroad,new-york-auburn-and-lansing-railroad,UNK
+New York,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+New York,2001239,3,3,,"http://en.wikipedia.org/wiki/New_York,_Newfoundland_and_London_Telegraph_Company","New York, Newfoundland and London Telegraph Company",new-york-newfoundland-and-london-telegraph-company,new-york-newfoundland-and-london-telegraph-company,UNK
+New York,1159194,10,261,,"http://en.wikipedia.org/wiki/New_York,_Lincolnshire","New York, Lincolnshire",new-york-lincolnshire,new-york-lincolnshire,UNK
+New York,17292183,104,126,645042,"http://en.wikipedia.org/wiki/New_York,_I_Love_You","New York, I Love You",new-york-i-love-you,new-york-i-love-you,UNK
+New York,7402167,6,16,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_New_York_(So_Good_They_Named_It_Twice)","New York, New York",new-york-new-york,new-york-new-york-so-good-they-named-it-twice,UNK
+New York,351876,647,399,21310853;2585447;891699;645042;13141861;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_New_Haven_and_Hartford_Railroad","New York, New Haven and Hartford Railroad",new-york-new-haven-and-hartford-railroad,new-york-new-haven-and-hartford-railroad,UNK
+New York,816554,492,446,891699;351876;645042;2499282;8210131;26723573,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_and_Western_Railway","New York, Susquehanna and Western Railway",new-york-susquehanna-and-western-railway,new-york-susquehanna-and-western-railway,UNK
+New York,891699,493,307,351876;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_Chicago_and_St._Louis_Railroad","New York, Chicago and St. Louis Railroad",new-york-chicago-and-st-louis-railroad,new-york-chicago-and-st-louis-railroad,UNK
+New York,3880857,301,536,645042;8210131,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+New York,26035579,0,1,645042,"http://en.wikipedia.org/wiki/New_York,_US-NY","New York, US-NY",new-york-us-ny,new-york-us-ny,UNK
+New York,21310853,2,74,351876,"http://en.wikipedia.org/wiki/New_York,_New_Haven_&_Hartford_Passenger_Depot","New York, New Haven & Hartford Passenger Depot",new-york-new-haven-hartford-passenger-depot,new-york-new-haven-hartford-passenger-depot,UNK
+New York,1470149,50,16,,http://en.wikipedia.org/wiki/New_York_&_Company,New York & Company,new-york-company,new-york-company,UNK
+New York,606772,30,81,8210131;645042,http://en.wikipedia.org/wiki/New_York:_A_Documentary_Film,New York: A Documentary Film,new-york-a-documentary-film,new-york-a-documentary-film,UNK
+New York,1555877,17,13,31747730,"http://en.wikipedia.org/wiki/New_York,_New_York_(On_the_Town)","New York, New York",new-york-new-york,new-york-new-york-on-the-town,UNK
+New York,667548,10,36,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_Rio,_and_Buenos_Aires_Line","New York, Rio, and Buenos Aires Line",new-york-rio-and-buenos-aires-line,new-york-rio-and-buenos-aires-line,ORG
+New York,27746113,5,109,13141861;645042,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railroad_Administration_Building","New York, Westchester and Boston Railroad Administration Building",new-york-westchester-and-boston-railroad-administration-building,new-york-westchester-and-boston-railroad-administration-building,UNK
+New York,598652,483,197,645042;598652;8210131,http://en.wikipedia.org/wiki/New_York_School,New York School,new-york-school,new-york-school,UNK
+New York,31747730,135,373,1555877;645042,http://en.wikipedia.org/wiki/New_York_(Glee),New York,new-york,new-york-glee,UNK
+New York,493759,93,39,,"http://en.wikipedia.org/wiki/New_York,_Tyne_and_Wear","New York, Tyne and Wear",new-york-tyne-and-wear,new-york-tyne-and-wear,GPE
+New York,2499282,360,314,891699;351876;645042;816554;8210131,"http://en.wikipedia.org/wiki/New_York,_Ontario_and_Western_Railway","New York, Ontario and Western Railway",new-york-ontario-and-western-railway,new-york-ontario-and-western-railway,UNK
+New York,8210131,70636,932,2499282;8210131;31957;667548;816554;25287144;3880857;351876;347234;7402167;891699;645042;10779819;216034;13141861;598652;19468510;606772;126573,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+New York,2585447,38,55,351876;645042,"http://en.wikipedia.org/wiki/New_York,_Providence_and_Boston_Railroad","New York, Providence and Boston Railroad",new-york-providence-and-boston-railroad,new-york-providence-and-boston-railroad,UNK
+New York,13141861,113,149,351876;8210131;645042;27746113,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railway","New York, Westchester and Boston Railway",new-york-westchester-and-boston-railway,new-york-westchester-and-boston-railway,UNK
+New York,7112349,30,43,,"http://en.wikipedia.org/wiki/New_York,_Texas","New York, Texas",new-york-texas,new-york-texas,GPE
+New York,26723573,3,85,816554,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_&_Western_Railroad_ALCO_Type_S-2_Locomotive","New York, Susquehanna & Western Railroad ALCO Type S-2 Locomotive",new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,UNK
+New York,13288448,14,23,,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+U.N.,31769,20072,584,450955;1437212;2151507;40979641;22306061;5836626;18589346;11865969;82256;645042;22943;3216133;26994994;10779819;216034;31769;31899;31957;31956;4689264,http://en.wikipedia.org/wiki/United_Nations,United Nations,united-nations,united-nations,UNK
+U.N.,7332924,1,13,,"http://en.wikipedia.org/wiki/Un,_Surat","Un, Surat",un-surat,un-surat,UNK
+U.N.,20412552,16,49,,"http://en.wikipedia.org/wiki/Un,_dos,_tres..._responda_otra_vez","Un, dos, tres... responda otra vez",un-dos-tres-responda-otra-vez,un-dos-tres-responda-otra-vez,UNK
+U.N.,18589346,148,276,4689264;18589346;31769,http://en.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement,Anti-Counterfeiting Trade Agreement,anti-counterfeiting-trade-agreement,anti-counterfeiting-trade-agreement,UNK
+U.N.,612085,175,118,1437212;31956,http://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_446,United Nations Security Council Resolution 446,united-nations-security-council-resolution-446,united-nations-security-council-resolution-446,UNK
+U.N.,6079172,104,59,,"http://en.wikipedia.org/wiki/Un,_deux,_trois","Un, deux, trois",un-deux-trois,un-deux-trois,UNK
+U.N.,2151507,232,21,1437212;31769;82256;31957;31956;216034,http://en.wikipedia.org/wiki/United_Nations_Volunteers,United Nations Volunteers,united-nations-volunteers,united-nations-volunteers,UNK
+U.N.,11865969,26,63,31769;205576,http://en.wikipedia.org/wiki/United_Nations_(gang),United Nations,united-nations,united-nations-gang,UNK
+U.N.,1437212,2353,126,612085;82256;216034;2151507;31769;31899;31957;31956,http://en.wikipedia.org/wiki/United_Nations_resolution,United Nations resolution,united-nations-resolution,united-nations-resolution,UNK
+U.N.,4253834,20,41,,http://en.wikipedia.org/wiki/Un-United_Kingdom,Un-United Kingdom,un-united-kingdom,un-united-kingdom,UNK
+U.N.,28899268,595,142,,http://en.wikipedia.org/wiki/A-un,A-un,a-un,a-un,UNK
+U.N.,3216133,151,186,22306061;22943;31769;3216133;31957;31956;49732,http://en.wikipedia.org/wiki/Reform_of_the_United_Nations_Security_Council,Reform of the United Nations Security Council,reform-of-the-united-nations-security-council,reform-of-the-united-nations-security-council,UNK
+U.N.,26994994,3,25,31769;645042,http://en.wikipedia.org/wiki/U.N._Me,U.N. Me,un-me,un-me,UNK
+U.N.,100000160,0,0,,"http://en.wikipedia.org/wiki/Un,_Gujarat","Un, Gujarat",un-gujarat,un-gujarat,UKN
+U.N.,31899,1098,266,415928;216034;1437212;31769;31957;31956;4689264;82256,http://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights,Universal Declaration of Human Rights,universal-declaration-of-human-rights,universal-declaration-of-human-rights,UNK
+U.N.,40979641,5,20,5166;31769;82256,http://en.wikipedia.org/wiki/UN_City,UN City,un-city,un-city,UNK
+U.N.,23214659,0,1,,http://en.wikipedia.org/wiki/Un_(prefix),Un,un,un-prefix,GPE
+U.N.,25287144,9,49,8210131,http://en.wikipedia.org/wiki/U.N._(group),U.N.,un,un-group,UNK
+U.N.,5812261,9,88,,"http://en.wikipedia.org/wiki/Un,_Uttar_Pradesh","Un, Uttar Pradesh",un-uttar-pradesh,un-uttar-pradesh,UNK
+U.N.,31957,2205,356,3216133;22306061;82256;645042;216034;1437212;2151507;31769;31899;31957;31956;4689264;8210131,http://en.wikipedia.org/wiki/United_Nations_General_Assembly,United Nations General Assembly,united-nations-general-assembly,united-nations-general-assembly,UNK
+U.N.,100007348,0,0,,"http://en.wikipedia.org/wiki/Un,_India","Un, India",un-india,un-india,UKN
+U.N.,23758960,612,113,19468510,http://en.wikipedia.org/wiki/House_Un-American_Activities_Committee,House Un-American Activities Committee,house-un-american-activities-committee,house-un-american-activities-committee,UNK
+U.N.,5509095,22,34,,http://en.wikipedia.org/wiki/Un_Lun_Dun,Un Lun Dun,un-lun-dun,un-lun-dun,UNK
+U.N.,3191302,84,23,3191302,http://en.wikipedia.org/wiki/Unconference,Unconference,unconference,unconference,UNK
+U.N.,7214790,59,31,,http://en.wikipedia.org/wiki/Unk,Unk,unk,unk,PER
+U.N.,6922580,5,11,,http://en.wikipedia.org/wiki/UN_(band),UN,un,un-band,PER
+Copenhagen,5166,11844,1203,21861355;12810138;3916785;194884;5166;1388411;645189;5863;645042;8098738;176767;145493;40979641;861285;8383335;7159372;415928;126573;23200967,http://en.wikipedia.org/wiki/Copenhagen,Copenhagen,copenhagen,copenhagen,GPE
+Copenhagen,23200967,74,14,5166;23200967,http://en.wikipedia.org/wiki/Copenhagen_Castle,Copenhagen Castle,copenhagen-castle,copenhagen-castle,UNK
+Copenhagen,126573,51,56,8210131;5166,"http://en.wikipedia.org/wiki/Copenhagen,_New_York","Copenhagen, New York",copenhagen-new-york,copenhagen-new-york,GPE
+Copenhagen,5863,176,160,1388411;5166,http://en.wikipedia.org/wiki/Copenhagen_interpretation,Copenhagen interpretation,copenhagen-interpretation,copenhagen-interpretation,UNK
+Copenhagen,3916785,6,18,5166,"http://en.wikipedia.org/wiki/Copenhagen,_Louisiana","Copenhagen, Louisiana",copenhagen-louisiana,copenhagen-louisiana,UNK
+Copenhagen,3206716,4,7,,http://en.wikipedia.org/wiki/Copenhagen_Institute,Copenhagen Institute,copenhagen-institute,copenhagen-institute,UNK
+Copenhagen,21861355,63,40,5166,http://en.wikipedia.org/wiki/Copenhagen_Records,Copenhagen Records,copenhagen-records,copenhagen-records,UNK
+Copenhagen,7159372,129,142,5166,http://en.wikipedia.org/wiki/Royal_Copenhagen,Royal Copenhagen,royal-copenhagen,royal-copenhagen,UNK
+Copenhagen,9367774,27,29,8098738,http://en.wikipedia.org/wiki/Copenhagen_School_(international_relations),Copenhagen School,copenhagen-school,copenhagen-school-international-relations,ORG
+Copenhagen,8098738,0,4,5166;9367774;19086659,http://en.wikipedia.org/wiki/Copenhagen_School,Copenhagen School,copenhagen-school,copenhagen-school,ORG
+Copenhagen,1388411,111,119,5166;5863,http://en.wikipedia.org/wiki/Copenhagen_(play),Copenhagen,copenhagen,copenhagen-play,UNK
+Copenhagen,176767,1352,392,12810138;194884;5166;4689264,http://en.wikipedia.org/wiki/University_of_Copenhagen,University of Copenhagen,university-of-copenhagen,university-of-copenhagen,ORG
+Copenhagen,645189,39,84,5166,http://en.wikipedia.org/wiki/Copenhagen_Consensus,Copenhagen Consensus,copenhagen-consensus,copenhagen-consensus,UNK
+Copenhagen,34055652,1,10,,http://en.wikipedia.org/wiki/Copenhagen_(EWTC_show),Copenhagen,copenhagen,copenhagen-ewtc-show,UNK
+Copenhagen,19086659,1,20,8098738,http://en.wikipedia.org/wiki/Copenhagen_School_(linguistics),Copenhagen School,copenhagen-school,copenhagen-school-linguistics,UNK
+Copenhagen,12810138,295,270,176767;194884;5166;145493,http://en.wikipedia.org/wiki/Copenhagen_Municipality,Copenhagen Municipality,copenhagen-municipality,copenhagen-municipality,GPE
+Copenhagen,8383335,12,67,194884;5166,"http://en.wikipedia.org/wiki/Copenhagen_Airport,_Kastrup_Station","Copenhagen Airport, Kastrup Station",copenhagen-airport-kastrup-station,copenhagen-airport-kastrup-station,UNK
+Copenhagen,2416496,41,27,,http://en.wikipedia.org/wiki/Copenhagen_(tobacco),Copenhagen,copenhagen,copenhagen-tobacco,ORG
+Copenhagen,194884,616,418,12810138;176767;5166;8383335,http://en.wikipedia.org/wiki/Copenhagen_Airport,Copenhagen Airport,copenhagen-airport,copenhagen-airport,UNK
+Copenhagen,145493,79,41,5166;12810138,http://en.wikipedia.org/wiki/Copenhagen_County,Copenhagen County,copenhagen-county,copenhagen-county,UNK
+Copenhagen,861285,838,294,861285;5166,http://en.wikipedia.org/wiki/F.C._Copenhagen,F.C. Copenhagen,fc-copenhagen,fc-copenhagen,ORG
+Copenhagen,415928,55,176,5166;31899,http://en.wikipedia.org/wiki/Copenhagen_criteria,Copenhagen criteria,copenhagen-criteria,copenhagen-criteria,UNK
+Inge Kaul,34474465,6,27,,http://en.wikipedia.org/wiki/Inge_Kaul,Inge Kaul,inge-kaul,inge-kaul,PER
+Paul Keating,23767,677,386,19510182;19734;65836;51983;4689264;61565,http://en.wikipedia.org/wiki/Paul_Keating,Paul Keating,paul-keating,paul-keating,PER
+Paul Keating,19510182,19,51,23767,http://en.wikipedia.org/wiki/Paul_Keating_(actor),Paul Keating,paul-keating,paul-keating-actor,PER
+Papua New Guinea,22943,9885,885,3505715;51983;19734;20611325;14166053;82256;22943;2036507;23402;3216133;16660639;18950948;3817361;31769;4689264,http://en.wikipedia.org/wiki/Papua_New_Guinea,Papua New Guinea,papua-new-guinea,papua-new-guinea,GPE
+Papua New Guinea,3817361,42,47,22943,http://en.wikipedia.org/wiki/The_Scout_Association_of_Papua_New_Guinea,The Scout Association of Papua New Guinea,the-scout-association-of-papua-new-guinea,the-scout-association-of-papua-new-guinea,ORG
+Papua New Guinea,23402,33,58,4689264;22943;18950948,http://en.wikipedia.org/wiki/Geography_of_Papua_New_Guinea,Geography of Papua New Guinea,geography-of-papua-new-guinea,geography-of-papua-new-guinea,UNK
+Papua New Guinea,14166053,46,27,22943,http://en.wikipedia.org/wiki/Papua_New_Guinea_Party,Papua New Guinea Party,papua-new-guinea-party,papua-new-guinea-party,UNK
+Papua New Guinea,16660639,270,271,4689264;22943,http://en.wikipedia.org/wiki/Monarchy_of_Papua_New_Guinea,Monarchy of Papua New Guinea,monarchy-of-papua-new-guinea,monarchy-of-papua-new-guinea,UNK
+Papua New Guinea,3505715,49,55,4689264;22943,http://en.wikipedia.org/wiki/Papua_New_Guinea_national_Australian_rules_football_team,Papua New Guinea national Australian rules football team,papua-new-guinea-national-australian-rules-football-team,papua-new-guinea-national-australian-rules-football-team,PER
+Papua New Guinea,2036507,83,23,5836626;22943,http://en.wikipedia.org/wiki/University_of_Papua_New_Guinea,University of Papua New Guinea,university-of-papua-new-guinea,university-of-papua-new-guinea,ORG
+Canberra,51983,5727,555,201787;435332;579707;426946;11504365;1944;18950948;984508;20611325;2639108;6956914;23767;1085682;6485820;10726259;22943;484704;10691374;4689264;61565,http://en.wikipedia.org/wiki/Canberra,Canberra,canberra,canberra,GPE
+Canberra,6956914,136,85,51983;4689264;1944,http://en.wikipedia.org/wiki/Canberra_Rugby_League,Canberra Rugby League,canberra-rugby-league,canberra-rugby-league,UNK
+Canberra,426946,367,131,10726259;51983;4689264;61565;1944,http://en.wikipedia.org/wiki/University_of_Canberra,University of Canberra,university-of-canberra,university-of-canberra,ORG
+Canberra,1085682,284,313,51983;4689264;484704;10691374;1944,http://en.wikipedia.org/wiki/Canberra_International_Airport,Canberra International Airport,canberra-international-airport,canberra-international-airport,UNK
+Canberra,10849634,10,24,1944,http://en.wikipedia.org/wiki/Canberra_Parish,Canberra Parish,canberra-parish,canberra-parish,UNK
+Canberra,10726259,27,23,426946;51983;1944,http://en.wikipedia.org/wiki/Canberra_Hospital,Canberra Hospital,canberra-hospital,canberra-hospital,ORG
+Canberra,201787,574,382,51983;4689264,http://en.wikipedia.org/wiki/English_Electric_Canberra,English Electric Canberra,english-electric-canberra,english-electric-canberra,UNK
+Canberra,6485820,104,87,51983,http://en.wikipedia.org/wiki/Canberra_International,Canberra International,canberra-international,canberra-international,UNK
+Canberra,10691374,123,127,51983;484704;4689264;1085682;1944,http://en.wikipedia.org/wiki/Canberra_Theatre,Canberra Theatre,canberra-theatre,canberra-theatre,UNK
+Canberra,579707,115,156,51983,http://en.wikipedia.org/wiki/SS_Canberra,SS Canberra,ss-canberra,ss-canberra,UNK
+Canberra,484704,730,549,1085682;620967;10691374;51983;1944,http://en.wikipedia.org/wiki/Canberra_Stadium,Canberra Stadium,canberra-stadium,canberra-stadium,UNK
+Canberra,435332,82,85,51983,http://en.wikipedia.org/wiki/USS_Canberra_(CA-70),USS Canberra,uss-canberra,uss-canberra-ca-70,UNK
+Canberra,11504365,52,31,51983,http://en.wikipedia.org/wiki/Canberra_FC,Canberra FC,canberra-fc,canberra-fc,UNK

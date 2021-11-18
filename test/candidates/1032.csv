@@ -1,0 +1,416 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Pirelli,49662,1022,127,14579;14532;36511,http://en.wikipedia.org/wiki/Pirelli,Pirelli,pirelli,pirelli,ORG
+Chinese,5405,76886,1206,689;3607937;1963462;5405;5751;2259195;6966;32204074;21502213;18592485;11672;13404;14647;14579;14532;14533;1255834;415070;29031717;156154;2800359;266210;964617;33581840;19359;715249;33167689;6108359;23237;24657;27909;27643;152827;153825;2149749;23057851;5321372;451805;36511;19172378;166412;48999;52980;32919758;686244;56706;682573;19682699;427264;919887;3122007;764545;3733255;1044538;40710796;475046;3434750;1197992;332456;27682110;7514548;24573434;217487;3145995;3149991;1318227;12163320;1623791;31476103;1996872;601694;18769119;605077;1231558;855087;261949;367843;2828629;11641871;372983;4531418;124485;19476473,http://en.wikipedia.org/wiki/China,China,china,china,GPE
+Chinese,1524543,202,123,964617;6966;156154,http://en.wikipedia.org/wiki/Chinese_mathematics,Chinese mathematics,chinese-mathematics,chinese-mathematics,UNK
+Chinese,1169486,21,17,14532,http://en.wikipedia.org/wiki/Chinese_water_torture,Chinese water torture,chinese-water-torture,chinese-water-torture,UNK
+Chinese,24657,5837,255,7514548;1144453;3145995;475046;156154;52980;1197992;261949;451805;266210;166412;764545;27909;27643;2278861;18592485;601694;11672;19359;3607937;415815;5405;152827;48999;5751;13404;682573;153825;19682699,http://en.wikipedia.org/wiki/Standard_Chinese,Standard Chinese,standard-chinese,standard-chinese,UNK
+Chinese,19476473,8,39,27643;5405;1197992;153825;5751,http://en.wikipedia.org/wiki/Chinese_encyclopedia,Chinese encyclopedia,chinese-encyclopedia,chinese-encyclopedia,UNK
+Chinese,1255834,278,347,3607937;5405;1255834;152827;27643;48999;2149749;10748937;14533;5751;13404;52980;19682699;19359,http://en.wikipedia.org/wiki/British_Chinese,British Chinese,british-chinese,british-chinese,UNK
+Chinese,682573,62,20,261949;24657;152827;5751;266210;5405,http://en.wikipedia.org/wiki/Chinese_clan,Chinese clan,chinese-clan,chinese-clan,ORG
+Chinese,4544971,13,18,,http://en.wikipedia.org/wiki/Chinese_Village_(Tsarskoe_Selo),Chinese Village,chinese-village,chinese-village-tsarskoe-selo,UNK
+Chinese,26175377,2,15,372983,http://en.wikipedia.org/wiki/Chinese_Museum_(Boston),Chinese Museum,chinese-museum,chinese-museum-boston,UNK
+Chinese,48999,1281,537,2149749;689;880179;52980;5405;1255834;152827;55668;27643;3434750;48999;24657;5751;13404;166412;19359,http://en.wikipedia.org/wiki/Chinese_American,Chinese American,chinese-american,chinese-american,UNK
+Chinese,2278861,53,103,5751;52980;24657;19359,http://en.wikipedia.org/wiki/General_Chinese,General Chinese,general-chinese,general-chinese,UNK
+Chinese,964617,294,220,5405;1524543;152827;27643;4237048;6966;156154;261949;5751;266210;166412,http://en.wikipedia.org/wiki/Chinese_architecture,Chinese architecture,chinese-architecture,chinese-architecture,UNK
+Chinese,2149749,151,209,5405;1255834;372983;152827;52980;19682699;48999,http://en.wikipedia.org/wiki/Chinese_Cambodian,Chinese Cambodian,chinese-cambodian,chinese-cambodian,UNK
+Chinese,153825,719,549,217487;33167689;156154;5405;19476473;152827;27643;3434750;9239;367843;1197992;24657;5751;23237,http://en.wikipedia.org/wiki/Chinese_literature,Chinese literature,chinese-literature,chinese-literature,UNK
+Chinese,372983,2922,16,2149749;5405;152827;55668;26175377;13404;32204074;14647;14579;19682699;367843;11672,http://en.wikipedia.org/wiki/Chinese_people,Chinese people,chinese-people,chinese-people,ORG
+Chinese,5751,23061,442,3733255;3607937;5405;5751;2259195;9239;166412;4237048;2278861;18592485;601694;11672;19859716;48999;13404;14708;14579;14533;1255834;415070;475046;156154;52980;3434750;1197992;504623;261949;266210;159669;964617;367843;19359;10302702;682573;19682699;427264;5504319;7514548;3145995;24657;184224;27909;27643;152827;153825;19476473;10933691,http://en.wikipedia.org/wiki/Chinese_language,Chinese language,chinese-language,chinese-language,UNK
+Chinese,1197992,146,195,3607937;1313726;5405;1197992;24657;19476473;156154;261949;5751;266210;13404;52980;27643;3434750;153825,http://en.wikipedia.org/wiki/Chinese_Wikipedia,Chinese Wikipedia,chinese-wikipedia,chinese-wikipedia,UNK
+Chinese,6966,3181,258,156154;261949;266210;159669;964617;5405;1524543;19682699,http://en.wikipedia.org/wiki/Chinese_calendar,Chinese calendar,chinese-calendar,chinese-calendar,GPE
+Chinese,32204074,4,10,5405;372983;32204074,http://en.wikipedia.org/wiki/Chinese_Bridge,Chinese Bridge,chinese-bridge,chinese-bridge,UNK
+Chinese,277570,405,121,427264;152827;3145995;5321372;156154;261949;1455431;266210;166412,http://en.wikipedia.org/wiki/Chinese_opera,Chinese opera,chinese-opera,chinese-opera,UNK
+Chinese,159669,299,101,367843;6966;156154;261949;5751;266210;19682699,http://en.wikipedia.org/wiki/Chinese_astrology,Chinese astrology,chinese-astrology,chinese-astrology,UNK
+Chinese,19359,2193,324,475046;52980;5405;152827;48999;24657;261949;5751;266210;13404;166412;1255834;2278861;18592485,http://en.wikipedia.org/wiki/Mandarin_Chinese,Mandarin Chinese,mandarin-chinese,mandarin-chinese,UNK
+Chinese,52980,571,222,3607937;5405;1255834;152827;27643;48999;2278861;2149749;18592485;475046;1197992;24657;261949;14579;14533;5751;266210;13404;166412;19359,http://en.wikipedia.org/wiki/Hakka_Chinese,Hakka Chinese,hakka-chinese,hakka-chinese,UNK
+Chinese,19682699,847,261,3607937;372983;30862852;2149749;689;6966;156154;14579;14533;19682699;5405;1255834;152827;27643;159669;3434750;601694;24657;261949;5751;266210;10011631;13404;166412,http://en.wikipedia.org/wiki/Chinese_New_Year,Chinese New Year,chinese-new-year,chinese-new-year,UNK
+Chinese,266210,20339,452,5321372;451805;1963462;5405;5751;6966;21502213;166412;18592485;601694;11672;415815;37285010;19859716;3615109;13404;415070;6537276;475046;52980;1197992;261949;159669;964617;19359;33167689;682573;19682699;427264;3145995;24657;184224;27909;9041110;6427329;3149991;919887;152827;277570;4531418;1623791;124485,http://en.wikipedia.org/wiki/Traditional_Chinese_characters,Traditional Chinese characters,traditional-chinese-characters,traditional-chinese-characters,UNK
+Chinese,152827,2162,405,3607937;372983;217487;2149749;156154;52980;27682110;5405;3434750;48999;9239;24657;184224;261949;5751;266210;13404;166412;277570;682573;153825;14579;14532;14533;173135;19682699;1890739;1255834;27643;964617;367843;19359;23237,http://en.wikipedia.org/wiki/Han_Chinese,Han Chinese,han-chinese,han-chinese,UNK
+Chinese,261949,18715,481,5321372;451805;3607937;1963462;30031499;5405;5751;6966;21502213;166412;18592485;601694;11672;415815;37285010;13404;415070;475046;52980;3434750;1197992;266210;16450146;159669;964617;367843;19359;33167689;682573;19682699;427264;24657;184224;27909;3149991;919887;152827;277570;4531418;1623791;124485,http://en.wikipedia.org/wiki/Simplified_Chinese_characters,Simplified Chinese characters,simplified-chinese-characters,simplified-chinese-characters,UNK
+Chinese,55668,341,418,372983;48999;33167689,http://en.wikipedia.org/wiki/Chinese_Exclusion_Act,Chinese Exclusion Act,chinese-exclusion-act,chinese-exclusion-act,UNK
+Chinese,19328658,45,28,,http://en.wikipedia.org/wiki/Chinese_temple,Chinese temple,chinese-temple,chinese-temple,UNK
+Chinese,475046,370,290,5405;18592485;24657;261949;5751;266210;52980;19359,http://en.wikipedia.org/wiki/Old_Chinese,Old Chinese,old-chinese,old-chinese,UNK
+Chinese,1144453,23,12,24657,http://en.wikipedia.org/wiki/Chinese_school,Chinese school,chinese-school,chinese-school,UNK
+Chinese,156154,599,272,3607937;427264;5405;1524543;152827;4237048;159669;153825;217487;964617;367843;1197992;24657;33167689;6966;5751;19682699;277570,http://en.wikipedia.org/wiki/Chinese_culture,Chinese culture,chinese-culture,chinese-culture,UNK
+Chinese,1455431,93,160,277570,http://en.wikipedia.org/wiki/Chinese_orchestra,Chinese orchestra,chinese-orchestra,chinese-orchestra,UNK
+Chinese,4237048,198,167,964617;3122007;156154;415815;5751;166412,http://en.wikipedia.org/wiki/Chinese_ceramics,Chinese ceramics,chinese-ceramics,chinese-ceramics,UNK
+Chinese,415070,439,194,5405;261949;5751;266210,http://en.wikipedia.org/wiki/Chinese_herbology,Chinese herbology,chinese-herbology,chinese-herbology,UNK
+Chinese,31970550,25,23,,"http://en.wikipedia.org/wiki/Chinese_Museum,_Melbourne","Chinese Museum, Melbourne",chinese-museum-melbourne,chinese-museum-melbourne,UNK
+Chinese,2800359,32,35,3434750;5405,http://en.wikipedia.org/wiki/Chinese_hamster,Chinese hamster,chinese-hamster,chinese-hamster,UNK
+David Jones,13198827,4,12,,http://en.wikipedia.org/wiki/David_Jones_(presenter),David Jones,david-jones,david-jones-presenter,PER
+David Jones,12101200,69,81,,http://en.wikipedia.org/wiki/David_Jones_(offensive_lineman),David Jones,david-jones,david-jones-offensive-lineman,PER
+David Jones,14817694,39,49,,http://en.wikipedia.org/wiki/David_Jones_(ice_hockey),David Jones,david-jones,david-jones-ice-hockey,PER
+David Jones,22406513,11,21,,http://en.wikipedia.org/wiki/David_Jones_(footballer_born_1940),David Jones,david-jones,david-jones-footballer-born-1940,PER
+David Jones,27927923,2,17,,"http://en.wikipedia.org/wiki/David_Jones_(cricketer,_born_1920)",David Jones,david-jones,david-jones-cricketer-born-1920,PER
+David Jones,20782562,2,9,,http://en.wikipedia.org/wiki/David_Jones_(footballer_born_1914),David Jones,david-jones,david-jones-footballer-born-1914,PER
+David Jones,31371388,1,25,,http://en.wikipedia.org/wiki/David_Jones_(MP_for_Carmarthenshire),David Jones,david-jones,david-jones-mp-for-carmarthenshire,PER
+David Jones,40439498,4,24,,http://en.wikipedia.org/wiki/David_Jones_(Baptist_minister),David Jones,david-jones,david-jones-baptist-minister,PER
+David Jones,2870855,24,17,,http://en.wikipedia.org/wiki/David_Jones_(railway),David Jones,david-jones,david-jones-railway,PER
+David Jones,7662619,80,81,,http://en.wikipedia.org/wiki/David_Jones_(athlete),David Jones,david-jones,david-jones-athlete,PER
+David Jones,21497247,4,8,,http://en.wikipedia.org/wiki/David_Jones_(Upper_Canada_politician),David Jones,david-jones,david-jones-upper-canada-politician,PER
+David Jones,12439952,1,11,,http://en.wikipedia.org/wiki/David_Jones_(Guernsey_politician),David Jones,david-jones,david-jones-guernsey-politician,PER
+David Jones,42095087,5,11,,http://en.wikipedia.org/wiki/David_Jones_(sailor),David Jones,david-jones,david-jones-sailor,UNK
+David Jones,1529914,73,100,,http://en.wikipedia.org/wiki/David_Jones_(footballer_born_1984),David Jones,david-jones,david-jones-footballer-born-1984,PER
+David Jones,33653667,2,24,,"http://en.wikipedia.org/wiki/David_Jones_(cricketer,_born_1914)",David Jones,david-jones,david-jones-cricketer-born-1914,PER
+David Jones,28677951,6,15,,http://en.wikipedia.org/wiki/David_Jones_(Cardinals_owner),David Jones,david-jones,david-jones-cardinals-owner,PER
+David Jones,9715805,3,11,,http://en.wikipedia.org/wiki/David_Jones_(darts_player),David Jones,david-jones,david-jones-darts-player,PER
+David Jones,20050868,3,11,,http://en.wikipedia.org/wiki/David_Jones_(footballer_born_1964),David Jones,david-jones,david-jones-footballer-born-1964,PER
+David Jones,24050768,22,67,,http://en.wikipedia.org/wiki/David_Jones_(New_Zealand_politician),David Jones,david-jones,david-jones-new-zealand-politician,PER
+David Jones,16445292,72,103,,http://en.wikipedia.org/wiki/David_Jones_(director),David Jones,david-jones,david-jones-director,PER
+David Jones,18027301,31,40,27900428,http://en.wikipedia.org/wiki/David_Jones_(rugby),David Jones,david-jones,david-jones-rugby,PER
+David Jones,27425081,2,17,,http://en.wikipedia.org/wiki/David_Jones_(footballer_born_1955),David Jones,david-jones,david-jones-footballer-born-1955,PER
+David Jones,30033276,3,13,,http://en.wikipedia.org/wiki/David_Jones_(barrister),David Jones,david-jones,david-jones-barrister,PER
+David Jones,27900428,0,19,18027301;27631971,http://en.wikipedia.org/wiki/David_Jones_(rugby_born_c._1901),David Jones,david-jones,david-jones-rugby-born-c-1901,UNK
+David Jones,33394827,4,35,3434750,"http://en.wikipedia.org/wiki/David_Jones_(Global_CEO,_Havas)",David Jones,david-jones,david-jones-global-ceo-havas,PER
+David Jones,12441162,17,27,,http://en.wikipedia.org/wiki/David_Jones_(cornerback),David Jones,david-jones,david-jones-cornerback,UNK
+David Jones,26509494,13,24,480242,http://en.wikipedia.org/wiki/David_Jones_(merchant),David Jones,david-jones,david-jones-merchant,PER
+David Jones,27631971,5,9,27900428,http://en.wikipedia.org/wiki/David_Jones_(rugby_league),David Jones,david-jones,david-jones-rugby-league,UNK
+David Jones,40206220,13,111,,http://en.wikipedia.org/wiki/David_Jones_(priest),David Jones,david-jones,david-jones-priest,PER
+David Jones,1222989,5,16,,http://en.wikipedia.org/wiki/David_Jones_(VC),David Jones,david-jones,david-jones-vc,PER
+David Jones,33138505,12,21,,http://en.wikipedia.org/wiki/David_Jones_(missionary),David Jones,david-jones,david-jones-missionary,PER
+David Jones,20205784,7,14,,http://en.wikipedia.org/wiki/David_Jones_(programmer),David Jones,david-jones,david-jones-programmer,PER
+David Jones,57332,9,58,,http://en.wikipedia.org/wiki/David_Jones_(artist-poet),David Jones,david-jones,david-jones-artist-poet,UNK
+David Jones,33149436,7,10,,http://en.wikipedia.org/wiki/David_Jones_(golfer),David Jones,david-jones,david-jones-golfer,PER
+David Jones,16852060,7,17,,http://en.wikipedia.org/wiki/David_Jones_(jazz_musician),David Jones,david-jones,david-jones-jazz-musician,UNK
+David Jones,1872663,500,424,,http://en.wikipedia.org/wiki/David_Jones_(MP_for_Clwyd_West),David Jones,david-jones,david-jones-mp-for-clwyd-west,PER
+David Jones,480242,210,82,26509494,http://en.wikipedia.org/wiki/David_Jones_Limited,David Jones Limited,david-jones-limited,david-jones-limited,ORG
+MILAN,36511,13676,806,689;36511;453576;5405;1187515;4133880;9239;112578;385155;13404;14708;14579;14532;18940588;3434750;49662;33581840;1448716;18076149;114967;24004809;27643;126379;15797061;124609;493696,http://en.wikipedia.org/wiki/Milan,Milan,milan,milan,GPE
+MILAN,9510782,56,69,3434750;15828966,"http://en.wikipedia.org/wiki/Milan_Township,_DeKalb_County,_Illinois","Milan Township, DeKalb County, Illinois",milan-township-dekalb-county-illinois,milan-township-dekalb-county-illinois,UNK
+MILAN,2367279,48,73,,http://en.wikipedia.org/wiki/Milan_Matulović,Milan Matulović,milan-matulovic,milan-matulovic,UNK
+MILAN,125849,52,59,3434750,"http://en.wikipedia.org/wiki/Milan,_New_Mexico","Milan, New Mexico",milan-new-mexico,milan-new-mexico,GPE
+MILAN,111851,367,152,3434750,"http://en.wikipedia.org/wiki/Milan,_Illinois","Milan, Illinois",milan-illinois,milan-illinois,GPE
+MILAN,118196,41,63,3434750;150559;15828966,"http://en.wikipedia.org/wiki/Milan_Township,_Michigan","Milan Township, Michigan",milan-township-michigan,milan-township-michigan,GPE
+MILAN,14369367,31,46,112578;3434750,"http://en.wikipedia.org/wiki/Old_Milan,_Indiana","Old Milan, Indiana",old-milan-indiana,old-milan-indiana,GPE
+MILAN,7775728,10,46,,http://en.wikipedia.org/wiki/Milan_the_Leather_Boy,Milan the Leather Boy,milan-the-leather-boy,milan-the-leather-boy,UNK
+MILAN,6796332,0,3,,http://en.wikipedia.org/wiki/Milan_Airport,Milan Airport,milan-airport,milan-airport,UNK
+MILAN,5766337,33,49,,"http://en.wikipedia.org/wiki/Milan,_Quebec","Milan, Quebec",milan-quebec,milan-quebec,GPE
+MILAN,29568780,0,7,,http://en.wikipedia.org/wiki/Milan_(Kurdish_tribe),Milan,milan,milan-kurdish-tribe,UNK
+MILAN,227511,16,31,3434750,http://en.wikipedia.org/wiki/Milan_Vukcevich,Milan Vukcevich,milan-vukcevich,milan-vukcevich,UNK
+MILAN,124860,146,165,3434750,"http://en.wikipedia.org/wiki/Milan,_Missouri","Milan, Missouri",milan-missouri,milan-missouri,GPE
+MILAN,372608,489,334,,http://en.wikipedia.org/wiki/Milankovitch_cycles,Milankovitch cycles,milankovitch-cycles,milankovitch-cycles,UNK
+MILAN,28469649,115,130,3434750,"http://en.wikipedia.org/wiki/Milan,_Wisconsin","Milan, Wisconsin",milan-wisconsin,milan-wisconsin,GPE
+MILAN,119711,34,49,3434750,"http://en.wikipedia.org/wiki/Milan,_Minnesota","Milan, Minnesota",milan-minnesota,milan-minnesota,GPE
+MILAN,18076149,16,25,3434750;36511;14532,"http://en.wikipedia.org/wiki/Milan,_New_Orleans","Milan, New Orleans",milan-new-orleans,milan-new-orleans,UNK
+MILAN,1656167,104,72,1656167;3434750,http://en.wikipedia.org/wiki/Milan_Records,Milan Records,milan-records,milan-records,UNK
+MILAN,2541137,1,14,150899,http://en.wikipedia.org/wiki/USS_Milan_(YP-6),USS Milan,uss-milan,uss-milan-yp-6,UNK
+MILAN,40792118,129,142,,"http://en.wikipedia.org/wiki/Milan,_West_Azerbaijan","Milan, West Azerbaijan",milan-west-azerbaijan,milan-west-azerbaijan,UNK
+MILAN,1448716,762,160,14708;14532;36511;1448716,http://en.wikipedia.org/wiki/Province_of_Milan,Province of Milan,province-of-milan,province-of-milan,UNK
+MILAN,29945889,54,63,,http://en.wikipedia.org/wiki/Don_Milan,Don Milan,don-milan,don-milan,PER
+MILAN,10847081,18,24,,"http://en.wikipedia.org/wiki/Milán,_Caquetá","Milán, Caquetá",milan-caqueta,milan-caqueta,UNK
+MILAN,453576,373,116,14532;36511,http://en.wikipedia.org/wiki/University_of_Milan,University of Milan,university-of-milan,university-of-milan,ORG
+MILAN,24004809,2,6,36511,http://en.wikipedia.org/wiki/District_of_Milan,District of Milan,district-of-milan,district-of-milan,PER
+MILAN,110054,28,38,903385;3434750,"http://en.wikipedia.org/wiki/Milan,_Georgia","Milan, Georgia",milan-georgia,milan-georgia,GPE
+MILAN,37445212,193,205,,"http://en.wikipedia.org/wiki/Milan,_Khuzestan","Milan, Khuzestan",milan-khuzestan,milan-khuzestan,UNK
+MILAN,18940588,3343,746,18940588;36511;14532,http://en.wikipedia.org/wiki/A.C._Milan,A.C. Milan,ac-milan,ac-milan,UNK
+MILAN,4133880,40,48,14532;3434750;36511,"http://en.wikipedia.org/wiki/Milan,_Washington","Milan, Washington",milan-washington,milan-washington,UNK
+MILAN,6954960,53,68,3434750;15828966,"http://en.wikipedia.org/wiki/Milan_Township,_Allen_County,_Indiana","Milan Township, Allen County, Indiana",milan-township-allen-county-indiana,milan-township-allen-county-indiana,GPE
+MILAN,135184,63,118,889284;3434750,"http://en.wikipedia.org/wiki/Milan,_Tennessee","Milan, Tennessee",milan-tennessee,milan-tennessee,GPE
+MILAN,150899,142,109,3434750;2541137;6140710,"http://en.wikipedia.org/wiki/Milan,_Ohio","Milan, Ohio",milan-ohio,milan-ohio,GPE
+MILAN,124609,164,61,36511;3434750,"http://en.wikipedia.org/wiki/Milan,_New_Hampshire","Milan, New Hampshire",milan-new-hampshire,milan-new-hampshire,GPE
+MILAN,126379,81,234,36511;3434750,"http://en.wikipedia.org/wiki/Milan,_New_York","Milan, New York",milan-new-york,milan-new-york,GPE
+MILAN,15797061,15,9,36511,http://en.wikipedia.org/wiki/Milan_(camp),Milan,milan,milan-camp,UNK
+MILAN,6140710,35,48,150899;3434750;15828966,"http://en.wikipedia.org/wiki/Milan_Township,_Erie_County,_Ohio","Milan Township, Erie County, Ohio",milan-township-erie-county-ohio,milan-township-erie-county-ohio,GPE
+MILAN,22554099,7,28,,http://en.wikipedia.org/wiki/Milan_Vukić,Milan Vukić,milan-vukic,milan-vukic,UNK
+MILAN,112578,60,64,14369367;3434750;36511,"http://en.wikipedia.org/wiki/Milan,_Indiana","Milan, Indiana",milan-indiana,milan-indiana,GPE
+MILAN,114967,28,228,36511;3434750,"http://en.wikipedia.org/wiki/Milan,_Kansas","Milan, Kansas",milan-kansas,milan-kansas,GPE
+MILAN,312367,235,126,14532;14533,http://en.wikipedia.org/wiki/MILAN,MILAN,milan,milan,UNK
+MILAN,150559,121,269,118196;3434750,"http://en.wikipedia.org/wiki/Milan,_Michigan","Milan, Michigan",milan-michigan,milan-michigan,GPE
+MILAN,15828966,0,5,6954960;118196;6140710;9510782,http://en.wikipedia.org/wiki/Milan_Township,Milan Township,milan-township,milan-township,GPE
+MILAN,33581840,94,79,36511;5405;3434750,http://en.wikipedia.org/wiki/Milan_International_(1906),Milan International,milan-international,milan-international-1906,UNK
+Italian,14532,127197,1418,689;3607937;5405;18031041;9239;11672;13404;14708;14647;14579;14532;14533;36907282;312367;36511;4133880;13659804;49662;18076149;1413783;1169486;1659361;358518;87187;18940588;7514548;11787932;378368;880179;385155;855087;2611817;715249;152827;453576;1044538;1187515;3434750;1448716;12163320;6204349;493696,http://en.wikipedia.org/wiki/Italy,Italy,italy,italy,GPE
+Italian,880179,350,513,42604535;7514548;48999;14532;736893,"http://en.wikipedia.org/wiki/Italian_Market,_Philadelphia","Italian Market, Philadelphia",italian-market-philadelphia,italian-market-philadelphia,UNK
+Italian,14708,17319,410,36511;11787932;378368;1342972;5751;37474285;11672;16655646;385155;14708;14532;1448716;1413783;1313726;6204349,http://en.wikipedia.org/wiki/Italian_language,Italian language,italian-language,italian-language,UNK
+Italian,378368,274,31,9239;1187515;14708;385155;14532,http://en.wikipedia.org/wiki/Italian_Peninsula,Italian Peninsula,italian-peninsula,italian-peninsula,UNK
+Italian,1413783,443,218,385155;14708;14532,http://en.wikipedia.org/wiki/Italian_opera,Italian opera,italian-opera,italian-opera,UNK
+Italian,1313726,303,186,1313726;1197992;14708,http://en.wikipedia.org/wiki/Italian_Wikipedia,Italian Wikipedia,italian-wikipedia,italian-wikipedia,UNK
+Italian,18031041,4,9,14532,http://en.wikipedia.org/wiki/Italian_Church_(Bucharest),Italian Church,italian-church,italian-church-bucharest,UNK
+Italian,22847067,2,108,3434750,http://en.wikipedia.org/wiki/Italian_Center,Italian Center,italian-center,italian-center,UNK
+Italian,6493213,5,9,,http://en.wikipedia.org/wiki/Italian_Bridge,Italian Bridge,italian-bridge,italian-bridge,UNK
+Italian,1081834,172,129,3434750,http://en.wikipedia.org/wiki/Italian_beef,Italian beef,italian-beef,italian-beef,UNK
+Italian,6204349,263,175,14708;14532,http://en.wikipedia.org/wiki/Italian_Sign_Language,Italian Sign Language,italian-sign-language,italian-sign-language,UNK
+Italian,12163320,2,52,3607937;14532;3434750;5405,http://en.wikipedia.org/wiki/Italian_International,Italian International,italian-international,italian-international,PER
+Italian,16655646,77,23,14708,http://en.wikipedia.org/wiki/Italian_Spiderman,Italian Spiderman,italian-spiderman,italian-spiderman,UNK
+Italian,2611817,244,240,14532;14533,http://en.wikipedia.org/wiki/2005_Italian_Grand_Prix,2005 Italian Grand Prix,2005-italian-grand-prix,2005-italian-grand-prix,UNK
+Italian,6213646,132,3,,http://en.wikipedia.org/wiki/Italian_Village,Italian Village,italian-village,italian-village,UNK
+Italian,30680118,26,98,3434750,http://en.wikipedia.org/wiki/Italian_Lake_(Harrisburg),Italian Lake,italian-lake,italian-lake-harrisburg,UNK
+Italian,385155,3075,366,1413783;3434750;9239;36511;378368;385155;14708;14532,http://en.wikipedia.org/wiki/Italians,Italians,italians,italians,UNK
+Italian,493696,1568,417,3434750;66906;36511;14532;14533;11672,http://en.wikipedia.org/wiki/Italian_Campaign_(World_War_II),Italian Campaign,italian-campaign,italian-campaign-world-war-ii,UNK
+China,5405,76886,1206,689;3607937;1963462;5405;5751;2259195;6966;32204074;21502213;18592485;11672;13404;14647;14579;14532;14533;1255834;415070;29031717;156154;2800359;266210;964617;33581840;19359;715249;33167689;6108359;23237;24657;27909;27643;152827;153825;2149749;23057851;5321372;451805;36511;19172378;166412;48999;52980;32919758;686244;56706;682573;19682699;427264;919887;3122007;764545;3733255;1044538;40710796;475046;3434750;1197992;332456;27682110;7514548;24573434;217487;3145995;3149991;1318227;12163320;1623791;31476103;1996872;601694;18769119;605077;1231558;855087;261949;367843;2828629;11641871;372983;4531418;124485;19476473,http://en.wikipedia.org/wiki/China,China,china,china,GPE
+China,601694,143,45,261949;5751;266210;5405;13404;24657;19682699;23237,http://en.wikipedia.org/wiki/Greater_China,Greater China,greater-china,greater-china,UNK
+China,3733255,99,95,5751;5405;3434750;3122007,http://en.wikipedia.org/wiki/China_Institute,China Institute,china-institute,china-institute,UNK
+China,30809009,1,14,,http://en.wikipedia.org/wiki/China_(footballer_born_1964),China,china,china-footballer-born-1964,PER
+China,23237,408,328,3607937;5405;152827;27643;3434750;1318227;56706;153825;217487;367843;601694;18769119;33167689;14644;13404;166412,http://en.wikipedia.org/wiki/Geography_of_China,Geography of China,geography-of-china,geography-of-china,UNK
+China,36907282,1,7,14532,http://en.wikipedia.org/wiki/BBC_China,BBC China,bbc-china,bbc-china,UNK
+China,3676975,33,38,,http://en.wikipedia.org/wiki/China_Kantner,China Kantner,china-kantner,china-kantner,PER
+China,33167689,655,414,153825;217487;156154;14533;5405;55668;27643;367843;184224;504623;261949;266210;166412;23237,http://en.wikipedia.org/wiki/Republic_of_China_(1912–49),Republic of China,republic-of-china,republic-of-china-1912–49,GPE
+China,32215636,132,153,,"http://en.wikipedia.org/wiki/China,_IL","China, IL",china-il,china-il,UNK
+China,11641871,21,20,5405,http://en.wikipedia.org/wiki/China_Team,China Team,china-team,china-team,ORG
+China,6108359,52,54,5405,http://en.wikipedia.org/wiki/China_(Epcot),China,china,china-epcot,UNK
+China,184224,201,253,33167689;261949;152827;5751;266210;13404;27643;124485,http://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China,Flag of the Republic of China,flag-of-the-republic-of-china,flag-of-the-republic-of-china,UNK
+China,217487,320,734,153825;217487;33167689;156154;14533;5405;152827;367843;23237,http://en.wikipedia.org/wiki/Human_rights_in_China,Human rights in China,human-rights-in-china,human-rights-in-china,ORG
+China,689521,269,153,,http://en.wikipedia.org/wiki/China_Beach,China Beach,china-beach,china-beach,UNK
+China,9041110,9,11,266210;13404;27643,http://en.wikipedia.org/wiki/China_Club,China Club,china-club,china-club,UNK
+China,124485,570,414,5405;1623791;689;184224;261949;266210;13404;153162;124485,http://en.wikipedia.org/wiki/China_Airlines,China Airlines,china-airlines,china-airlines,UNK
+China,40710796,6,16,5405;13404;27643;11672,http://en.wikipedia.org/wiki/China_Association,China Association,china-association,china-association,ORG
+China,5865836,201,77,,http://en.wikipedia.org/wiki/Chin,Chin,chin,chin,UNK
+China,2259195,63,130,5751;5405;13404,http://en.wikipedia.org/wiki/Recognition_of_same-sex_unions_in_China,Recognition of same-sex unions in China,recognition-of-same-sex-unions-in-china,recognition-of-same-sex-unions-in-china,GPE
+China,367843,339,506,5405;372983;919887;152827;27643;159669;153825;217487;367843;33167689;156154;261949;5751;166412;23237,http://en.wikipedia.org/wiki/Religion_in_China,Religion in China,religion-in-china,religion-in-china,UNK
+China,29668485,209,261,,http://en.wikipedia.org/wiki/China_(The_Office),China,china,china-the-office,UNK
+China,1231558,12,53,5405,http://en.wikipedia.org/wiki/China_Poblana,China Poblana,china-poblana,china-poblana,UNK
+China,1002769,48,20,,http://en.wikipedia.org/wiki/China_Records,China Records,china-records,china-records,UNK
+China,20500198,0,22,,http://en.wikipedia.org/wiki/China_(footballer_born_1980),China,china,china-footballer-born-1980,PER
+China,6421885,57,48,,"http://en.wikipedia.org/wiki/China,_Nuevo_León","China, Nuevo León",china-nuevo-leon,china-nuevo-leon,GPE
+China,29031717,42,83,5405,http://en.wikipedia.org/wiki/China_(Superleague_Formula_team),China,china,china-superleague-formula-team,UNK
+China,33089020,4,14,,http://en.wikipedia.org/wiki/On_China,On China,on-china,on-china,UNK
+China,332456,4,14,5405;13404,http://en.wikipedia.org/wiki/China_Hotel,China Hotel,china-hotel,china-hotel,UNK
+China,32919758,2,19,5405,http://en.wikipedia.org/wiki/China_Information,China Information,china-information,china-information,ORG
+China,21265151,4,9,,http://en.wikipedia.org/wiki/China_Beach_(Canada),China Beach,china-beach,china-beach-canada,UNK
+Hong Kong-based,13404,29087,1384,689;3122007;3607937;1044538;5405;5751;2259195;40710796;11672;30862852;3615109;13404;14647;14579;14532;14533;1255834;3434750;1197992;266210;332456;19359;715249;23237;3145995;24657;27643;9041110;152827;1318227;153162;1623791;451805;36511;19172378;26452271;166412;601694;18769119;48999;605077;52980;261949;19682699;427264;372983;184224;27588536;124485,http://en.wikipedia.org/wiki/Hong_Kong,Hong Kong,hong-kong,hong-kong,GPE
+CITIC Pacific,3615109,92,89,451805;266210;13404,http://en.wikipedia.org/wiki/CITIC_Pacific,CITIC Pacific,citic-pacific,citic-pacific,ORG
+Wuxi,427264,618,612,24573434;156154;5405;27643;18592485;5321372;504623;261949;5751;266210;13404;166412;10933691;277570,http://en.wikipedia.org/wiki/Wuxi,Wuxi,wuxi,wuxi,GPE
+Wuxi,18592485,129,163,261949;427264;5751;266210;475046;5405;52980;24657;166412;19359,http://en.wikipedia.org/wiki/Wuxi_dialect,Wuxi dialect,wuxi-dialect,wuxi-dialect,UNK
+Wuxi,24573434,0,6,166412;427264;5405,http://en.wikipedia.org/wiki/Wuxi_Museum,Wuxi Museum,wuxi-museum,wuxi-museum,UNK
+Wuxi,10933691,84,134,427264;5751;27643,http://en.wikipedia.org/wiki/Wuxi_County,Wuxi County,wuxi-county,wuxi-county,UNK
+Jiangsu,166412,3424,378,427264;24573434;52980;24657;5321372;504623;261949;266210;166412;4237048;27643;964617;18592485;367843;18769119;19359;33167689;5405;919887;152827;48999;5751;13404;277570;19682699;21502213;23237,http://en.wikipedia.org/wiki/Jiangsu,Jiangsu,jiangsu,jiangsu,UNK
+Jiangsu,5321372,151,201,427264;5405;27909;261949;266210;166412;27643;277570,http://en.wikipedia.org/wiki/Jiangsu_cuisine,Jiangsu cuisine,jiangsu-cuisine,jiangsu-cuisine,UNK
+Jiangsu,31476103,11,14,5405,http://en.wikipedia.org/wiki/Jiangsu_Tower,Jiangsu Tower,jiangsu-tower,jiangsu-tower,UNK
+Jiangsu,21502213,82,92,261949;266210;5405;166412;27643,http://en.wikipedia.org/wiki/Jiangsu_University,Jiangsu University,jiangsu-university,jiangsu-university,UNK
+Shanghai,27643,10242,864,689;52980;3122007;3434750;1197992;5321372;504623;451805;36511;16450146;686244;964617;367843;1963462;33167689;27682110;30031499;5405;5751;19682699;21502213;40710796;23237;427264;24657;184224;166412;27909;27643;18769119;9041110;415815;6427329;37285010;3149991;919887;152827;48999;13404;4531418;153825;1623791;14579;14533;1255834;19476473;10933691,http://en.wikipedia.org/wiki/Shanghai,Shanghai,shanghai,shanghai,GPE
+Shanghai,30031499,11,18,261949;27643,http://en.wikipedia.org/wiki/Shanghai_School,Shanghai School,shanghai-school,shanghai-school,GPE
+Shanghai,504623,354,206,427264;27643;3434750;9239;33167689;504623;5751;166412,http://en.wikipedia.org/wiki/Battle_of_Shanghai,Battle of Shanghai,battle-of-shanghai,battle-of-shanghai,UNK
+Shanghai,1963462,631,736,4531418;415815;1623791;16450146;5405;27643;18769119;261949;266210,http://en.wikipedia.org/wiki/Shanghai_Maglev_Train,Shanghai Maglev Train,shanghai-maglev-train,shanghai-maglev-train,UNK
+Shanghai,1623791,606,404,5405;1963462;27643;261949;266210;13404;153162;124485,http://en.wikipedia.org/wiki/Shanghai_Airlines,Shanghai Airlines,shanghai-airlines,shanghai-airlines,ORG
+Shanghai,27909,127,99,27909;261949;5751;266210;5405;24657;27643;5321372,http://en.wikipedia.org/wiki/Shanghai_cuisine,Shanghai cuisine,shanghai-cuisine,shanghai-cuisine,UNK
+Shanghai,30560827,35,50,3434750,"http://en.wikipedia.org/wiki/Shanghai_City,_Illinois","Shanghai City, Illinois",shanghai-city-illinois,shanghai-city-illinois,GPE
+Shanghai,2422669,4,12,,http://en.wikipedia.org/wiki/(Why_Did_I_Tell_You_I_Was_Going_To)_Shanghai,(Why Did I Tell You I Was Going To) Shanghai,-why-did-i-tell-you-i-was-going-to-shanghai,-why-did-i-tell-you-i-was-going-to-shanghai,UNK
+Shanghai,37285010,3,23,266210;261949;27643,"http://en.wikipedia.org/wiki/Shanghai,_Shanghai","Shanghai, Shanghai",shanghai-shanghai,shanghai-shanghai,UNK
+Shanghai,5751279,1,2,,http://en.wikipedia.org/wiki/Shanghai_Airport,Shanghai Airport,shanghai-airport,shanghai-airport,UNK
+Shanghai,686244,71,284,5405;27643;3434750,http://en.wikipedia.org/wiki/Shanghaiing,Shanghaiing,shanghaiing,shanghaiing,UNK
+Shanghai,16450146,356,225,11804183;27682110;1963462;4531418;27643;18769119;261949,http://en.wikipedia.org/wiki/Shanghai_Tower,Shanghai Tower,shanghai-tower,shanghai-tower,UNK
+Shanghai,3145995,16,80,24657;277570;5751;266210;5405;13404,http://en.wikipedia.org/wiki/Shanghai_Street,Shanghai Street,shanghai-street,shanghai-street,UNK
+Shanghai,18769119,101,162,415815;16450146;5405;13404;166412;27643;689;1963462;4531418;23237,http://en.wikipedia.org/wiki/Geography_of_Shanghai,Geography of Shanghai,geography-of-shanghai,geography-of-shanghai,UNK
+Shanghai,919887,237,230,367843;5405;261949;266210;6427329;166412;27643,http://en.wikipedia.org/wiki/Shanghai_University,Shanghai University,shanghai-university,shanghai-university,ORG
+Shanghai,27682110,65,169,16450146;152827;5405;27643,http://en.wikipedia.org/wiki/Shanghai_Tower_(Liverpool),Shanghai Tower,shanghai-tower,shanghai-tower-liverpool,UNK
+Shanghai,18397029,58,70,3434750,"http://en.wikipedia.org/wiki/Shanghai,_Virginia","Shanghai, Virginia",shanghai-virginia,shanghai-virginia,GPE
+Shanghai,415815,210,45,18769119;24657;1963462;4531418;261949;266210;27643;4237048,http://en.wikipedia.org/wiki/Shanghai_Museum,Shanghai Museum,shanghai-museum,shanghai-museum,UNK
+Shanghai,4531418,353,298,5405;1963462;415815;27643;18769119;261949;16450146;266210,http://en.wikipedia.org/wiki/Shanghai_Stadium,Shanghai Stadium,shanghai-stadium,shanghai-stadium,UNK
+Shanghai,28141415,1,11,,http://en.wikipedia.org/wiki/Shanghai_(Santurce),Shanghai,shanghai,shanghai-santurce,UNK
+Shanghai,6427329,54,46,27643;919887;266210,http://en.wikipedia.org/wiki/University_of_Shanghai,University of Shanghai,university-of-shanghai,university-of-shanghai,UNK
+Shanghai,3670643,55,63,3434750,"http://en.wikipedia.org/wiki/Shanghai,_West_Virginia","Shanghai, West Virginia",shanghai-west-virginia,shanghai-west-virginia,GPE
+Far Eastern,11672,2059,240,3607937;372983;689;15048495;614461;5405;19555744;3434750;1318227;9239;24657;261949;5751;266210;13404;14708;27588536;14579;14532;14533;173135;13562519;5925433;40710796;493696,http://en.wikipedia.org/wiki/Far_East,Far East,far-east,far-east,UNK
+Far Eastern,23057851,28,64,5405;173135,http://en.wikipedia.org/wiki/Far_Eastern_Railway,Far Eastern Railway,far-eastern-railway,far-eastern-railway,UNK
+Far Eastern,4809468,8,6,,http://en.wikipedia.org/wiki/Far_Eastern_State_Technical_University,Far Eastern State Technical University,far-eastern-state-technical-university,far-eastern-state-technical-university,UNK
+Far Eastern,11193504,27,35,,http://en.wikipedia.org/wiki/Far_Eastern_Air_Transport_Flight_103,Far Eastern Air Transport Flight 103,far-eastern-air-transport-flight-103,far-eastern-air-transport-flight-103,UNK
+Far Eastern,31512146,434,475,,http://en.wikipedia.org/wiki/Far_Eastern_Party,Far Eastern Party,far-eastern-party,far-eastern-party,UNK
+Far Eastern,27588536,811,305,3607937;353707;27588536;14579;14533;3434750;11672;13404,http://en.wikipedia.org/wiki/Far_Eastern_University,Far Eastern University,far-eastern-university,far-eastern-university,ORG
+Far Eastern,614461,175,137,689;4937933;11672;173135;1318227,http://en.wikipedia.org/wiki/Far_Eastern_Federal_District,Far Eastern Federal District,far-eastern-federal-district,far-eastern-federal-district,UNK
+Far Eastern,32610984,6,12,,http://en.wikipedia.org/wiki/Far_Eastern_Group,Far Eastern Group,far-eastern-group,far-eastern-group,ORG
+Far Eastern,4937933,105,107,614461;173135,http://en.wikipedia.org/wiki/Far_Eastern_economic_region,Far Eastern economic region,far-eastern-economic-region,far-eastern-economic-region,UNK
+Indonesia,14579,33512,439,689;3607937;1044538;5405;66906;5751;28720293;1890739;33186126;28719978;11672;11940012;13404;353707;14647;14644;14579;14532;14533;715249;27643;152827;1318227;10011631;7316314;36511;1996872;25677653;2062473;8899178;170641;52980;49662;56706;2691678;19682699;13229960;372983;27588536,http://en.wikipedia.org/wiki/Indonesia,Indonesia,indonesia,indonesia,GPE
+Indonesia,33186126,6,40,14579;14533,http://en.wikipedia.org/wiki/Indonesia_International,Indonesia International,indonesia-international,indonesia-international,PER
+Indonesia,14647,355,506,3607937;11940012;5405;372983;3434750;170641;14647;14644;14579;14532;14533;10011631;13404,http://en.wikipedia.org/wiki/Economy_of_Indonesia,Economy of Indonesia,economy-of-indonesia,economy-of-indonesia,UNK
+Indonesia,11940012,117,167,14579;170641;10011631;1996872;14647;14644,http://en.wikipedia.org/wiki/Dance_in_Indonesia,Dance in Indonesia,dance-in-indonesia,dance-in-indonesia,UNK
+Indonesia,25677653,8,29,14579,http://en.wikipedia.org/wiki/Indonesia_Museum,Indonesia Museum,indonesia-museum,indonesia-museum,UNK
+Indonesia,2062473,84,145,14579;3434750,http://en.wikipedia.org/wiki/Rail_transport_in_Indonesia,Rail transport in Indonesia,rail-transport-in-indonesia,rail-transport-in-indonesia,UNK
+Indonesia,353707,397,212,27588536;14579,http://en.wikipedia.org/wiki/University_of_Indonesia,University of Indonesia,university-of-indonesia,university-of-indonesia,ORG
+Indonesia,170641,728,243,11940012;170641;689;14647;14644;14579;10011631,http://en.wikipedia.org/wiki/Provinces_of_Indonesia,Provinces of Indonesia,provinces-of-indonesia,provinces-of-indonesia,UNK
+Indonesia,66906,1120,535,1044538;7316314;14579;10011631;493696,http://en.wikipedia.org/wiki/Indonesian_National_Revolution,Indonesian National Revolution,indonesian-national-revolution,indonesian-national-revolution,UNK
+Indonesia,14644,205,238,3607937;11940012;170641;14647;14644;14579;14533;10011631;23237;1318227;56706,http://en.wikipedia.org/wiki/Geography_of_Indonesia,Geography of Indonesia,geography-of-indonesia,geography-of-indonesia,UNK
+Indonesia,35327175,5,13,,http://en.wikipedia.org/wiki/Indonesia_Project,Indonesia Project,indonesia-project,indonesia-project,ORG
+Indonesia,7316314,64,86,3607937;14579;66906,http://en.wikipedia.org/wiki/Greater_Indonesia,Greater Indonesia,greater-indonesia,greater-indonesia,UNK
+Indonesia,1044538,1290,637,3607937;715249;5405;3434750;66906;13404;14579;14532;14533,http://en.wikipedia.org/wiki/Indonesia_national_football_team,Indonesia national football team,indonesia-national-football-team,indonesia-national-football-team,UNK
+Indonesia,8899178,9,4,14579,http://en.wikipedia.org/wiki/Indonesia_(Lonely_Planet),Indonesia,indonesia,indonesia-lonely-planet,ORG
+Indonesia,10011631,549,187,11940012;170641;14647;14644;14579;66906;19682699,http://en.wikipedia.org/wiki/President_of_Indonesia,President of Indonesia,president-of-indonesia,president-of-indonesia,UNK
+Indonesia,2691678,0,7,14579,"http://en.wikipedia.org/wiki/Indonesia,_Go_Open_Source","Indonesia, Go Open Source",indonesia-go-open-source,indonesia-go-open-source,UNK
+India,14533,128644,998,689;3607937;5405;5751;11672;13404;14647;14644;14579;14532;14533;4181941;27643;312367;52980;19682699;13472210;3122007;1329287;1890739;27264339;4125366;1318227;605077;3816837;2611817;27588536;33186126;11804183;1255834;715249;33167689;408215;407754;152827;181504;10748937;764545;1044538;3434750;217487;2707882;1996872;4971438;493696,http://en.wikipedia.org/wiki/India,India,india,india,GPE
+India,23859009,202,238,,http://en.wikipedia.org/wiki/India_Longford,India Longford,india-longford,india-longford,UNK
+India,1996872,237,210,3607937;11940012;5405;14579;14533;764545,http://en.wikipedia.org/wiki/Greater_India,Greater India,greater-india,greater-india,UNK
+India,37474285,35,33,14708,http://en.wikipedia.org/wiki/India:_Matri_Bhumi,India: Matri Bhumi,india-matri-bhumi,india-matri-bhumi,UNK
+India,11804183,207,175,16450146;14533,http://en.wikipedia.org/wiki/India_Tower,India Tower,india-tower,india-tower,UNK
+India,1342972,179,87,14708,http://en.wikipedia.org/wiki/La_India,La India,la-india,la-india,PER
+India,33347419,30,51,,http://en.wikipedia.org/wiki/India_Song,India Song,india-song,india-song,UNK
+India,13920327,163,208,,http://en.wikipedia.org/wiki/Mongol_invasions_of_India,Mongol invasions of India,mongol-invasions-of-india,mongol-invasions-of-india,UNK
+India,13472210,4,3,3434750;14533,"http://en.wikipedia.org/wiki/India,_China_&_America_Institute","India, China & America Institute",india-china-america-institute,india-china-america-institute,ORG
+India,37053158,18,18,,http://en.wikipedia.org/wiki/India?,India?,india,india,UNK
+India,39849556,4,24,689,http://en.wikipedia.org/wiki/India_(Herodotus),India,india,india-herodotus,UNK
+India,32553670,2,105,,"http://en.wikipedia.org/wiki/India,_India","India, India",india-india,india-india,UNK
+India,764545,43,179,5405;24657;2707882;1996872;14533,http://en.wikipedia.org/wiki/Names_of_India,Names of India,names-of-india,names-of-india,UNK
+India,4971438,68,93,14533,http://en.wikipedia.org/wiki/India_(cat),India,india,india-cat,UNK
+India,32416870,0,14,,http://en.wikipedia.org/wiki/India_(battle_honour),India,india,india-battle-honour,UNK
+India,1707982,153,57,,http://en.wikipedia.org/wiki/Indian_Health_Service,Indian Health Service,indian-health-service,indian-health-service,ORG
+India,4181941,48,91,4181941;14533,http://en.wikipedia.org/wiki/2006_H5N1_outbreak_in_India,2006 H5N1 outbreak in India,2006-h5n1-outbreak-in-india,2006-h5n1-outbreak-in-india,UNK
+India,10748937,370,470,3607937;1255834;3434750;9239;689;14533,http://en.wikipedia.org/wiki/British_Indian,British Indian,british-indian,british-indian,UNK
+India,4267804,5,7,,http://en.wikipedia.org/wiki/India_(entertainer),India,india,india-entertainer,UNK
+India,27264339,44,56,14533,http://en.wikipedia.org/wiki/India_(East_Syrian_Ecclesiastical_Province),India,india,india-east-syrian-ecclesiastical-province,UNK
+India,408215,1702,412,2707882;14533,http://en.wikipedia.org/wiki/Communist_Party_of_India,Communist Party of India,communist-party-of-india,communist-party-of-india,UNK
+India,2707882,294,379,408215;14533;764545,http://en.wikipedia.org/wiki/Indian_maritime_history,Indian maritime history,indian-maritime-history,indian-maritime-history,UNK
+India,4125366,66,63,14533,http://en.wikipedia.org/wiki/Mr._India,Mr. India,mr-india,mr-india,UNK
+India,407754,1582,520,14533,http://en.wikipedia.org/wiki/India_national_cricket_team,India national cricket team,india-national-cricket-team,india-national-cricket-team,ORG
+India,3816837,39,84,14533,http://en.wikipedia.org/wiki/Indian_Science_Congress_Association,Indian Science Congress Association,indian-science-congress-association,indian-science-congress-association,UNK
+India,1329287,3,10,14533,http://en.wikipedia.org/wiki/India_Inc.,India Inc.,india-inc,india-inc,UNK
+Malaysia,3607937,30770,790,689;10748937;3607937;1044538;5405;5751;1890739;11672;30862852;13404;14647;14644;14579;14532;14533;1255834;156154;3434750;1197992;715249;23237;24657;152827;1318227;153162;12163320;7316314;1996872;605077;52980;261949;56706;10302702;19682699;27588536,http://en.wikipedia.org/wiki/Malaysia,Malaysia,malaysia,malaysia,GPE
+Malaysia,153162,650,467,3607937;9239;1623791;13404;153162;124485,http://en.wikipedia.org/wiki/Malaysia_Airlines,Malaysia Airlines,malaysia-airlines,malaysia-airlines,ORG
+Malaysia,1890739,26,112,3607937;14579;152827;14533,http://en.wikipedia.org/wiki/Malaysian_Malaysia,Malaysian Malaysia,malaysian-malaysia,malaysian-malaysia,UNK
+Malaysia,30862852,792,369,3607937;30862852;56706;689;19682699;13404,http://en.wikipedia.org/wiki/Malaysian_Expressway_System,Malaysian Expressway System,malaysian-expressway-system,malaysian-expressway-system,UNK
+Malaysia,10302702,76,76,3607937;5751,http://en.wikipedia.org/wiki/Deal_or_No_Deal_Malaysia_(Chinese_version),Deal or No Deal Malaysia,deal-or-no-deal-malaysia,deal-or-no-deal-malaysia-chinese-version,UNK
+Malaysia,56706,230,317,3607937;5405;689;14644;14579;30862852;23237;1318227;56706,http://en.wikipedia.org/wiki/Geography_of_Malaysia,Geography of Malaysia,geography-of-malaysia,geography-of-malaysia,UNK
+GMT,12701,3323,226,1187515;26450398,http://en.wikipedia.org/wiki/Greenwich_Mean_Time,Greenwich Mean Time,greenwich-mean-time,greenwich-mean-time,UNK
+GMT,8465437,5,10,,http://en.wikipedia.org/wiki/GMT_Records,GMT Records,gmt-records,gmt-records,ORG
+GMT,8984512,57,45,,http://en.wikipedia.org/wiki/GMT360,GMT360,gmt360,gmt360,UNK
+GMT,26207611,229,250,689,http://en.wikipedia.org/wiki/GMT_(programme),GMT,gmt,gmt-programme,UNK
+Milan,36511,13676,806,689;36511;453576;5405;1187515;4133880;9239;112578;385155;13404;14708;14579;14532;18940588;3434750;49662;33581840;1448716;18076149;114967;24004809;27643;126379;15797061;124609;493696,http://en.wikipedia.org/wiki/Milan,Milan,milan,milan,GPE
+Milan,9510782,56,69,3434750;15828966,"http://en.wikipedia.org/wiki/Milan_Township,_DeKalb_County,_Illinois","Milan Township, DeKalb County, Illinois",milan-township-dekalb-county-illinois,milan-township-dekalb-county-illinois,UNK
+Milan,2367279,48,73,,http://en.wikipedia.org/wiki/Milan_Matulović,Milan Matulović,milan-matulovic,milan-matulovic,UNK
+Milan,125849,52,59,3434750,"http://en.wikipedia.org/wiki/Milan,_New_Mexico","Milan, New Mexico",milan-new-mexico,milan-new-mexico,GPE
+Milan,111851,367,152,3434750,"http://en.wikipedia.org/wiki/Milan,_Illinois","Milan, Illinois",milan-illinois,milan-illinois,GPE
+Milan,118196,41,63,3434750;150559;15828966,"http://en.wikipedia.org/wiki/Milan_Township,_Michigan","Milan Township, Michigan",milan-township-michigan,milan-township-michigan,GPE
+Milan,14369367,31,46,112578;3434750,"http://en.wikipedia.org/wiki/Old_Milan,_Indiana","Old Milan, Indiana",old-milan-indiana,old-milan-indiana,GPE
+Milan,7775728,10,46,,http://en.wikipedia.org/wiki/Milan_the_Leather_Boy,Milan the Leather Boy,milan-the-leather-boy,milan-the-leather-boy,UNK
+Milan,6796332,0,3,,http://en.wikipedia.org/wiki/Milan_Airport,Milan Airport,milan-airport,milan-airport,UNK
+Milan,5766337,33,49,,"http://en.wikipedia.org/wiki/Milan,_Quebec","Milan, Quebec",milan-quebec,milan-quebec,GPE
+Milan,29568780,0,7,,http://en.wikipedia.org/wiki/Milan_(Kurdish_tribe),Milan,milan,milan-kurdish-tribe,UNK
+Milan,227511,16,31,3434750,http://en.wikipedia.org/wiki/Milan_Vukcevich,Milan Vukcevich,milan-vukcevich,milan-vukcevich,UNK
+Milan,124860,146,165,3434750,"http://en.wikipedia.org/wiki/Milan,_Missouri","Milan, Missouri",milan-missouri,milan-missouri,GPE
+Milan,372608,489,334,,http://en.wikipedia.org/wiki/Milankovitch_cycles,Milankovitch cycles,milankovitch-cycles,milankovitch-cycles,UNK
+Milan,28469649,115,130,3434750,"http://en.wikipedia.org/wiki/Milan,_Wisconsin","Milan, Wisconsin",milan-wisconsin,milan-wisconsin,GPE
+Milan,119711,34,49,3434750,"http://en.wikipedia.org/wiki/Milan,_Minnesota","Milan, Minnesota",milan-minnesota,milan-minnesota,GPE
+Milan,18076149,16,25,3434750;36511;14532,"http://en.wikipedia.org/wiki/Milan,_New_Orleans","Milan, New Orleans",milan-new-orleans,milan-new-orleans,UNK
+Milan,1656167,104,72,1656167;3434750,http://en.wikipedia.org/wiki/Milan_Records,Milan Records,milan-records,milan-records,UNK
+Milan,2541137,1,14,150899,http://en.wikipedia.org/wiki/USS_Milan_(YP-6),USS Milan,uss-milan,uss-milan-yp-6,UNK
+Milan,40792118,129,142,,"http://en.wikipedia.org/wiki/Milan,_West_Azerbaijan","Milan, West Azerbaijan",milan-west-azerbaijan,milan-west-azerbaijan,UNK
+Milan,1448716,762,160,14708;14532;36511;1448716,http://en.wikipedia.org/wiki/Province_of_Milan,Province of Milan,province-of-milan,province-of-milan,UNK
+Milan,29945889,54,63,,http://en.wikipedia.org/wiki/Don_Milan,Don Milan,don-milan,don-milan,PER
+Milan,10847081,18,24,,"http://en.wikipedia.org/wiki/Milán,_Caquetá","Milán, Caquetá",milan-caqueta,milan-caqueta,UNK
+Milan,453576,373,116,14532;36511,http://en.wikipedia.org/wiki/University_of_Milan,University of Milan,university-of-milan,university-of-milan,ORG
+Milan,24004809,2,6,36511,http://en.wikipedia.org/wiki/District_of_Milan,District of Milan,district-of-milan,district-of-milan,PER
+Milan,110054,28,38,903385;3434750,"http://en.wikipedia.org/wiki/Milan,_Georgia","Milan, Georgia",milan-georgia,milan-georgia,GPE
+Milan,37445212,193,205,,"http://en.wikipedia.org/wiki/Milan,_Khuzestan","Milan, Khuzestan",milan-khuzestan,milan-khuzestan,UNK
+Milan,18940588,3343,746,18940588;36511;14532,http://en.wikipedia.org/wiki/A.C._Milan,A.C. Milan,ac-milan,ac-milan,UNK
+Milan,4133880,40,48,14532;3434750;36511,"http://en.wikipedia.org/wiki/Milan,_Washington","Milan, Washington",milan-washington,milan-washington,UNK
+Milan,6954960,53,68,3434750;15828966,"http://en.wikipedia.org/wiki/Milan_Township,_Allen_County,_Indiana","Milan Township, Allen County, Indiana",milan-township-allen-county-indiana,milan-township-allen-county-indiana,GPE
+Milan,135184,63,118,889284;3434750,"http://en.wikipedia.org/wiki/Milan,_Tennessee","Milan, Tennessee",milan-tennessee,milan-tennessee,GPE
+Milan,150899,142,109,3434750;2541137;6140710,"http://en.wikipedia.org/wiki/Milan,_Ohio","Milan, Ohio",milan-ohio,milan-ohio,GPE
+Milan,124609,164,61,36511;3434750,"http://en.wikipedia.org/wiki/Milan,_New_Hampshire","Milan, New Hampshire",milan-new-hampshire,milan-new-hampshire,GPE
+Milan,126379,81,234,36511;3434750,"http://en.wikipedia.org/wiki/Milan,_New_York","Milan, New York",milan-new-york,milan-new-york,GPE
+Milan,15797061,15,9,36511,http://en.wikipedia.org/wiki/Milan_(camp),Milan,milan,milan-camp,UNK
+Milan,6140710,35,48,150899;3434750;15828966,"http://en.wikipedia.org/wiki/Milan_Township,_Erie_County,_Ohio","Milan Township, Erie County, Ohio",milan-township-erie-county-ohio,milan-township-erie-county-ohio,GPE
+Milan,22554099,7,28,,http://en.wikipedia.org/wiki/Milan_Vukić,Milan Vukić,milan-vukic,milan-vukic,UNK
+Milan,112578,60,64,14369367;3434750;36511,"http://en.wikipedia.org/wiki/Milan,_Indiana","Milan, Indiana",milan-indiana,milan-indiana,GPE
+Milan,114967,28,228,36511;3434750,"http://en.wikipedia.org/wiki/Milan,_Kansas","Milan, Kansas",milan-kansas,milan-kansas,GPE
+Milan,312367,235,126,14532;14533,http://en.wikipedia.org/wiki/MILAN,MILAN,milan,milan,UNK
+Milan,150559,121,269,118196;3434750,"http://en.wikipedia.org/wiki/Milan,_Michigan","Milan, Michigan",milan-michigan,milan-michigan,GPE
+Milan,15828966,0,5,6954960;118196;6140710;9510782,http://en.wikipedia.org/wiki/Milan_Township,Milan Township,milan-township,milan-township,GPE
+Milan,33581840,94,79,36511;5405;3434750,http://en.wikipedia.org/wiki/Milan_International_(1906),Milan International,milan-international,milan-international-1906,UNK
+Unicom,2890368,77,358,3434750,http://en.wikipedia.org/wiki/UNICOM,UNICOM,unicom,unicom,UNK
+Unicom,451805,418,338,5405;27643;3615109;24657;261949;266210;13404,http://en.wikipedia.org/wiki/China_Unicom,China Unicom,china-unicom,china-unicom,ORG
+Asia,689,15995,576,689;19555744;3122007;10748937;36511;13562519;3607937;5405;1187515;735594;26207611;9239;18769119;11672;30862852;48999;170641;13404;14579;14532;14533;2828629;56706;715249;19682699;5504319;614461;39849556;181504;27643;1318227;1241242;124485,http://en.wikipedia.org/wiki/Asia,Asia,asia,asia,UNK
+Asia,4189298,2,8,3434750,http://en.wikipedia.org/wiki/Asia_Street,Asia Street,asia-street,asia-street,UNK
+Asia,1318227,258,344,3607937;9239;614461;5405;689;14644;14579;11672;14533;13404;23237;1318227;56706,http://en.wikipedia.org/wiki/Geography_of_Asia,Geography of Asia,geography-of-asia,geography-of-asia,UNK
+Asia,28719978,2,15,14579;3122007,http://en.wikipedia.org/wiki/Asia_Society_(AustralAsia),Asia Society,asia-society,asia-society-australasia,UNK
+Asia,41056054,3,13,41056054,http://en.wikipedia.org/wiki/Rev_Asia,Rev Asia,rev-asia,rev-asia,ORG
+Asia,18545761,0,66,,http://en.wikipedia.org/wiki/Asia_(Disney's_Animal_Kingdom),Asia,asia,asia-disneys-animal-kingdom,UNK
+Asia,55266,666,209,55266,http://en.wikipedia.org/wiki/Asia_(band),Asia,asia,asia-band,UNK
+Asia,1241242,438,193,689,http://en.wikipedia.org/wiki/Asia_(Roman_province),Asia,asia,asia-roman-province,UNK
+Asia,13229960,8,7,14579,http://en.wikipedia.org/wiki/Asia_Islands,Asia Islands,asia-islands,asia-islands,UNK
+Asia,181504,2,14,14533;9239;689,"http://en.wikipedia.org/wiki/Asia,_Pacific_and_Africa_Collections,_British_Library","Asia, Pacific and Africa Collections, British Library",asia-pacific-and-africa-collections-british-library,asia-pacific-and-africa-collections-british-library,UNK
+Asia,19555744,6,22,3434750;11672;689,http://en.wikipedia.org/wiki/Asia_(magazine),Asia,asia,asia-magazine,ORG
+Asia,26452271,2,8,13404,http://en.wikipedia.org/wiki/Asia/Hong_Kong,Asia/Hong Kong,asia-hong-kong,asia-hong-kong,PER
+Asia,19859716,159,177,5751;266210;6537276,http://en.wikipedia.org/wiki/Asia_University_(Taiwan),Asia University,asia-university,asia-university-taiwan,UNK
+Asia,3122007,304,133,3733255;28719978;5405;689;3122007;14533;13404;27643;4237048;28720293,http://en.wikipedia.org/wiki/Asia_Society,Asia Society,asia-society,asia-society,ORG
+Asia,17210825,7,8,,http://en.wikipedia.org/wiki/Asia_Institute,Asia Institute,asia-institute,asia-institute,UNK
+Asia,715249,7022,566,689;3434750;3607937;1044538;5405;13404;14579;14532;14533,http://en.wikipedia.org/wiki/Asian_Football_Confederation,Asian Football Confederation,asian-football-confederation,asian-football-confederation,ORG
+Asia,16993296,57,29,,http://en.wikipedia.org/wiki/Asia_Brewery,Asia Brewery,asia-brewery,asia-brewery,UNK
+Asia,5504319,26,24,689;5751,http://en.wikipedia.org/wiki/Asia_University_(Japan),Asia University,asia-university,asia-university-japan,UNK
+Asia,735594,11,71,689,http://en.wikipedia.org/wiki/67_Asia,67 Asia,67-asia,67-asia,UNK
+Asia,3837768,6,6,,http://en.wikipedia.org/wiki/Asia_Books,Asia Books,asia-books,asia-books,UNK
+Asia,3149991,85,81,261949;266210;5405;27643,"http://en.wikipedia.org/wiki/Asia_Building,_Shanghai","Asia Building, Shanghai",asia-building-shanghai,asia-building-shanghai,UNK
+Asia,28720293,1,22,14579;28720293;3122007,http://en.wikipedia.org/wiki/Asia_Society_(AustralAsia_Centre),Asia Society,asia-society,asia-society-australasia-centre,UNK
+Asia,38407991,1,4,,http://en.wikipedia.org/wiki/Asia_(1813),Asia,asia,asia-1813,PER
+Asia,3748188,139,149,736893,"http://en.wikipedia.org/wiki/Asia_District,_Peru","Asia District, Peru",asia-district-peru,asia-district-peru,UNK
+Asia,17933332,3,6,,http://en.wikipedia.org/wiki/Asia_Inc.,Asia Inc.,asia-inc,asia-inc,ORG
+Asia,38408254,3,8,,http://en.wikipedia.org/wiki/Asia_(1818),Asia,asia,asia-1818,PER
+Asia,736893,167,335,880179;42604535;7514548;3748188,"http://en.wikipedia.org/wiki/Asia_District,_Oklahoma_City","Asia District, Oklahoma City",asia-district-oklahoma-city,asia-district-oklahoma-city,UNK
+Asia,13085777,62,79,3434750,http://en.wikipedia.org/wiki/Asia_(Miami),Asia,asia,asia-miami,UNK
+Asia,38407762,1,5,,http://en.wikipedia.org/wiki/Asia_(1816),Asia,asia,asia-1816,PER
+Asia,2614724,54,137,,http://en.wikipedia.org/wiki/Asi_(Mahabharata),Asi,asi,asi-mahabharata,ORG
+Asia,26452177,2,9,,http://en.wikipedia.org/wiki/Asia/Tokyo,Asia/Tokyo,asia-tokyo,asia-tokyo,PER
+Asia,2828629,84,89,5405;689,http://en.wikipedia.org/wiki/.asia,.asia,asia,asia,UNK
+Pirelli SpA,49662,1022,127,14579;14532;36511,http://en.wikipedia.org/wiki/Pirelli,Pirelli,pirelli,pirelli,ORG
+Pirelli Cables,49662,1022,127,14579;14532;36511,http://en.wikipedia.org/wiki/Pirelli,Pirelli,pirelli,pirelli,ORG
+U.S.,3434750,529967,1252,5405;5751;9239;11672;13404;14647;14532;14533;23237;27643;36511;48999;18076149;13472210;1081834;33394827;111851;112578;110054;119711;118196;114967;126379;125849;124860;124609;135184;150559;150899;152827;153825;173135;1197992;227511;12163320;238192;233474;261949;3607937;33581840;19172378;358518;10328578;385155;3499945;435793;436898;3434750;14369367;42604535;504623;493696;2800359;3868301;6140710;1656167;9510782;605077;28469649;715249;13085777;19555744;686244;30680118;3733255;18397029;3670643;22847067;6954960;4189298;4133880;30560827;19682699;5805422;855087;27588536;2890368;2062473;10748937;1044538;5925433,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S.,605077,301,341,3607937;5405;14533;13404;3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S.,10328578,210,402,435793;10328648;10328590;3434750;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S.,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S.,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S.,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S.,16304842,112,175,8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S.,233474,102,93,3434750,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S.,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S.,889284,455,321,889461;888778;135184;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S.,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;70780;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S.,429750,276,240,887108;441501;79717;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S.,10328648,378,412,903062;10328590;10328578;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S.,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S.,21559355,95,143,,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S.,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S.,444113,128,143,,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S.,902392,245,190,22398962;436898;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S.,6737193,115,173,887108,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S.,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S.,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S.,79717,694,442,889461;435793;887108;9180009;441501;889284;429750;3868301;888778;447879;436898;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+U.S.,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S.,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S.,435793,251,290,889461;498188;888778;447879;436898;10328578;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S.,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S.,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S.,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S.,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S.,889461,178,203,887108;441501;79717;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S.,447879,394,337,16304842;889461;903062;888778;435793;436898;75235;10328575;887108;9180009;441501;79717;428913;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S.,903385,68,230,110054;903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S.,2440624,133,162,70780;3868301,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S.,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S.,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S.,70780,396,232,889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S.,3868301,350,531,3434750;2440624;79717;70780,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S.,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;887108;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S.,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S.,436898,769,483,889461;435793;887108;441501;889284;429750;902392;888778;447879;3434750;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S.,238192,394,239,889461;888778;435793;447879;436898;10328648;3434750;10328620;75235;10328575;887108;441501;79717;428913;70780;903385;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S.,6310196,592,545,435793;10328648;10328590;10328578;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+U.S.,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+Europe,9239,51349,1032,689;5751;17891966;9239;23620443;11672;14532;3499945;152827;153162;153825;20272716;36511;181504;10748937;628999;1187515;358518;755102;87187;3434750;1318227;13562519;378368;385155;504623,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+Europe,17891966,192,242,9239,http://en.wikipedia.org/wiki/Europe_(anthem),Europe,europe,europe-anthem,UNK
+Europe,5805422,293,153,87187;3434750,http://en.wikipedia.org/wiki/European_Union_Microsoft_competition_case,European Union Microsoft competition case,european-union-microsoft-competition-case,european-union-microsoft-competition-case,ORG
+Europe,304821,111,138,304821,http://en.wikipedia.org/wiki/2003_European_heat_wave,2003 European heat wave,2003-european-heat-wave,2003-european-heat-wave,UNK
+Europe,855087,344,374,5405;3434750;14532,http://en.wikipedia.org/wiki/Europe_(dinghy),Europe,europe,europe-dinghy,UNK
+Europe,15132000,13,28,,"http://en.wikipedia.org/wiki/Old_Europe,_New_Europe,_Core_Europe","Old Europe, New Europe, Core Europe",old-europe-new-europe-core-europe,old-europe-new-europe-core-europe,UNK
+Europe,2826281,77,84,,http://en.wikipedia.org/wiki/Europe_GAA,Europe GAA,europe-gaa,europe-gaa,GPE
+Europe,13659804,72,126,14532,http://en.wikipedia.org/wiki/European_Youth_Chess_Championship,European Youth Chess Championship,european-youth-chess-championship,european-youth-chess-championship,PER
+Europe,1187515,306,383,13562519;378368;9239;1187515;689;12701;14532;36511,http://en.wikipedia.org/wiki/Geography_of_Europe,Geography of Europe,geography-of-europe,geography-of-europe,UNK
+Europe,358518,602,118,358518;3434750;9239;14532,http://en.wikipedia.org/wiki/Europe_(band),Europe,europe,europe-band,UNK
+Europe,755102,85,158,9239,http://en.wikipedia.org/wiki/Old_Europe_(archaeology),Old Europe,old-europe,old-europe-archaeology,UNK
+Europe,14051635,1,6,,http://en.wikipedia.org/wiki/DJ_Europe,DJ Europe,dj-europe,dj-europe,UNK
+Europe,628999,133,18,9239;20272716,"http://en.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa","Europe, the Middle East and Africa",europe-the-middle-east-and-africa,europe-the-middle-east-and-africa,UNK
+Europe,406269,18,53,,http://en.wikipedia.org/wiki/Old_Europe_(politics),Old Europe,old-europe,old-europe-politics,ORG
+Europe,7514548,108,319,5405;24657;880179;42604535;14532;5751;736893,http://en.wikipedia.org/wiki/Europe_Street,Europe Street,europe-street,europe-street,GPE
+Europe,12586001,1,13,,http://en.wikipedia.org/wiki/Europe_Lake,Europe Lake,europe-lake,europe-lake,UNK
+Europe,26450398,2,11,12701,http://en.wikipedia.org/wiki/Europe/London,Europe/London,europe-london,europe-london,PER
+Europe,503907,29,46,,http://en.wikipedia.org/wiki/Europe_(Paris_Métro),Europe,europe,europe-paris-metro,UNK
+Europe,87187,825,370,5805422;14532;87187;9239,http://en.wikipedia.org/wiki/European_Court_of_Justice,European Court of Justice,european-court-of-justice,european-court-of-justice,ORG
+Europe,1659361,12,34,14532,http://en.wikipedia.org/wiki/European_Patent_Litigation_Agreement,European Patent Litigation Agreement,european-patent-litigation-agreement,european-patent-litigation-agreement,UNK
+Europe,11787932,277,273,14708;14532,http://en.wikipedia.org/wiki/European_driving_licence,European driving licence,european-driving-licence,european-driving-licence,UNK
+Europe,20272716,1,11,20272716;628999;9239,"http://en.wikipedia.org/wiki/Europe,_Middle_East,_Africa_and_Latin_America","Europe, Middle East, Africa and Latin America",europe-middle-east-africa-and-latin-america,europe-middle-east-africa-and-latin-america,UNK
+Europe,13562519,17,304,9239;1187515;689;11672,http://en.wikipedia.org/wiki/Greater_Europe,Greater Europe,greater-europe,greater-europe,ORG
+Europe,3499945,3,21,3434750;9239,http://en.wikipedia.org/wiki/Europe_(story),Europe,europe,europe-story,UNK
+Europe,23620443,13,20,9239,http://en.wikipedia.org/wiki/Europe_(magazine),Europe,europe,europe-magazine,UNK
+Far East,6537276,157,168,266210;19859716,http://en.wikipedia.org/wiki/Far_East_University_(Taiwan),Far East University,far-east-university,far-east-university-taiwan,UNK
+Far East,21643854,421,124,21643854,http://en.wikipedia.org/wiki/Far_East_Movement,Far East Movement,far-east-movement,far-east-movement,UNK
+Far East,11672,2059,240,3607937;372983;689;15048495;614461;5405;19555744;3434750;1318227;9239;24657;261949;5751;266210;13404;14708;27588536;14579;14532;14533;173135;13562519;5925433;40710796;493696,http://en.wikipedia.org/wiki/Far_East,Far East,far-east,far-east,UNK
+Far East,15048495,6,6,11672;5925433,http://en.wikipedia.org/wiki/The_Far_East_(periodical),The Far East,the-far-east,the-far-east-periodical,ORG
+Far East,5925433,7,11,15048495;3434750;11672,http://en.wikipedia.org/wiki/Far_East_(play),Far East,far-east,far-east-play,UNK
+Far East,1900792,4,12,,http://en.wikipedia.org/wiki/Far_East_University_(Korea),Far East University,far-east-university,far-east-university-korea,UNK
+Far East,173135,1269,109,173135;23057851;614461;152827;3434750;4937933;11672,http://en.wikipedia.org/wiki/Russian_Far_East,Russian Far East,russian-far-east,russian-far-east,UNK
+Far East,19172378,0,17,5405;13404;3434750,http://en.wikipedia.org/wiki/Far_East_Group,Far East Group,far-east-group,far-east-group,ORG
+Far East,42604535,158,345,880179;7514548;736893;3434750,"http://en.wikipedia.org/wiki/Far_East_Center,_Denver","Far East Center, Denver",far-east-center-denver,far-east-center-denver,GPE

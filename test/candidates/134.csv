@@ -1,0 +1,109 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+SCOTTISH,26994,59696,1247,7714448;280312;843490;145684;23501645;417279;4244074;3503100;8483864;27173535;26994;42413718;7682030;39569;318427;817230;3015685;1914839;3662494;34850722;14732390;68736;1882784;17420442;18951002;4320562;105876;42398637;1475720;115019;253173;33411697,http://en.wikipedia.org/wiki/Scotland,Scotland,scotland,scotland,GPE
+SCOTTISH,318427,679,408,68736;253173;34850722;26994;318427,http://en.wikipedia.org/wiki/Scottish_English,Scottish English,scottish-english,scottish-english,UNK
+SCOTTISH,1882784,85,61,26994,http://en.wikipedia.org/wiki/Scottish_Division,Scottish Division,scottish-division,scottish-division,ORG
+SCOTTISH,34850722,4015,458,253173;18951002;26994;42413718;68736;318427,http://en.wikipedia.org/wiki/Scottish_people,Scottish people,scottish-people,scottish-people,UNK
+SCOTTISH,232571,39,19,,http://en.wikipedia.org/wiki/Scottish_Party,Scottish Party,scottish-party,scottish-party,ORG
+SCOTTISH,145684,181,138,26994,http://en.wikipedia.org/wiki/Scottish_Fold,Scottish Fold,scottish-fold,scottish-fold,UNK
+SCOTTISH,417279,231,30,68736;26994;27173535,http://en.wikipedia.org/wiki/Scottish_Opera,Scottish Opera,scottish-opera,scottish-opera,UNK
+SCOTTISH,4320562,35,67,26994,http://en.wikipedia.org/wiki/Scottish_regiment,Scottish regiment,scottish-regiment,scottish-regiment,ORG
+SCOTTISH,17420442,8,8,26994,"http://en.wikipedia.org/wiki/Scottish_College,_Douai","Scottish College, Douai",scottish-college-douai,scottish-college-douai,UNK
+SCOTTISH,23501645,13,129,26994,http://en.wikipedia.org/wiki/Scottish_Airlines,Scottish Airlines,scottish-airlines,scottish-airlines,ORG
+SCOTTISH,105876,284,105,26994,http://en.wikipedia.org/wiki/Scottish_Natural_Heritage,Scottish Natural Heritage,scottish-natural-heritage,scottish-natural-heritage,ORG
+SCOTTISH,253173,799,465,34850722;26994;318427,http://en.wikipedia.org/wiki/Scottish_clan,Scottish clan,scottish-clan,scottish-clan,UNK
+SCOTTISH,5435713,187,173,68736;5435713,http://en.wikipedia.org/wiki/Scottish_hip-hop,Scottish hip-hop,scottish-hip-hop,scottish-hip-hop,UNK
+GLASGOW,68736,14747,1068,7682030;280312;39569;68736;318427;417279;138448;4393921;3015685;42398637;1475720;15661295;4244074;115019;1914839;24321759;8483864;27173535;26994;3662494;151692;42413718;2174944;5435713;123645;34850722,http://en.wikipedia.org/wiki/Glasgow,Glasgow,glasgow,glasgow,GPE
+GLASGOW,280312,194,541,3662494;1475720;27173535;7714448;68736;3015685;26994;24321759;280342;42398637,http://en.wikipedia.org/wiki/Glasgow_Airport,Glasgow Airport,glasgow-airport,glasgow-airport,UNK
+GLASGOW,137742,227,231,,"http://en.wikipedia.org/wiki/Glasgow,_Virginia","Glasgow, Virginia",glasgow-virginia,glasgow-virginia,GPE
+GLASGOW,123190,118,131,,"http://en.wikipedia.org/wiki/Glasgow_Village,_Missouri","Glasgow Village, Missouri",glasgow-village-missouri,glasgow-village-missouri,GPE
+GLASGOW,115019,336,263,68736;24698070;18407830;26994,"http://en.wikipedia.org/wiki/Glasgow,_Kentucky","Glasgow, Kentucky",glasgow-kentucky,glasgow-kentucky,GPE
+GLASGOW,4393921,34,37,68736,http://en.wikipedia.org/wiki/Glasgow_smile,Glasgow smile,glasgow-smile,glasgow-smile,UNK
+GLASGOW,16636212,4,8,,"http://en.wikipedia.org/wiki/Glasgow,_Ontario","Glasgow, Ontario",glasgow-ontario,glasgow-ontario,UNK
+GLASGOW,27945453,1,7,,"http://en.wikipedia.org/wiki/Glasgow,_Suriname","Glasgow, Suriname",glasgow-suriname,glasgow-suriname,GPE
+GLASGOW,121979,36,57,,"http://en.wikipedia.org/wiki/Glasgow_Township,_Wabasha_County,_Minnesota","Glasgow Township, Wabasha County, Minnesota",glasgow-township-wabasha-county-minnesota,glasgow-township-wabasha-county-minnesota,GPE
+GLASGOW,20752078,3,43,,"http://en.wikipedia.org/wiki/Glasgow_(Cambridge,_Maryland)",Glasgow,glasgow,glasgow-cambridge-maryland,UNK
+GLASGOW,15661295,38,82,68736,"http://en.wikipedia.org/wiki/Glasgow_Bridge,_Glasgow","Glasgow Bridge, Glasgow",glasgow-bridge-glasgow,glasgow-bridge-glasgow,UNK
+GLASGOW,42413718,38,73,34850722;26994;68736,"http://en.wikipedia.org/wiki/Glasgow,_Oregon","Glasgow, Oregon",glasgow-oregon,glasgow-oregon,GPE
+GLASGOW,7682030,244,231,68736;33411697;151692;26994;8483864;3503100;4244074;7714448;14732390;7682030,"http://en.wikipedia.org/wiki/Glasgow,_Paisley,_Kilmarnock_and_Ayr_Railway","Glasgow, Paisley, Kilmarnock and Ayr Railway",glasgow-paisley-kilmarnock-and-ayr-railway,glasgow-paisley-kilmarnock-and-ayr-railway,UNK
+GLASGOW,3503100,190,178,33411697;26994;8483864;3503100;4244074;7714448;14732390;7682030,"http://en.wikipedia.org/wiki/Glasgow,_Dumfries_and_Carlisle_Railway","Glasgow, Dumfries and Carlisle Railway",glasgow-dumfries-and-carlisle-railway,glasgow-dumfries-and-carlisle-railway,UNK
+GLASGOW,111897,17,29,,"http://en.wikipedia.org/wiki/Glasgow,_Illinois","Glasgow, Illinois",glasgow-illinois,glasgow-illinois,GPE
+GLASGOW,3015685,66,90,39569;26994;68736;280312;24321759;3015685;27173535;1475720,http://en.wikipedia.org/wiki/Geography_of_Glasgow,Geography of Glasgow,geography-of-glasgow,geography-of-glasgow,PER
+GLASGOW,42398637,3,5,68736;26994;280312,http://en.wikipedia.org/wiki/Glasgow_International,Glasgow International,glasgow-international,glasgow-international,PER
+GLASGOW,8483864,189,178,68736;33411697;151692;26994;8483864;3503100;4244074;7714448;14732390;7682030,"http://en.wikipedia.org/wiki/Glasgow,_Paisley_and_Greenock_Railway","Glasgow, Paisley and Greenock Railway",glasgow-paisley-and-greenock-railway,glasgow-paisley-and-greenock-railway,UNK
+GLASGOW,24321759,9,89,39569;3015685;27173535;1475720;68736;280312,http://en.wikipedia.org/wiki/Glasgow_Tower,Glasgow Tower,glasgow-tower,glasgow-tower,UNK
+GLASGOW,1475720,173,310,3662494;27173535;39569;68736;280312;3015685;26994;24321759,http://en.wikipedia.org/wiki/Greater_Glasgow,Greater Glasgow,greater-glasgow,greater-glasgow,UNK
+GLASGOW,23832413,437,448,,http://en.wikipedia.org/wiki/Glasgow_Island,Glasgow Island,glasgow-island,glasgow-island,UNK
+GLASGOW,123645,96,84,68736;280342,"http://en.wikipedia.org/wiki/Glasgow,_Montana","Glasgow, Montana",glasgow-montana,glasgow-montana,GPE
+GLASGOW,150726,80,60,10065003,"http://en.wikipedia.org/wiki/Glasgow,_Missouri","Glasgow, Missouri",glasgow-missouri,glasgow-missouri,GPE
+GLASGOW,1914839,66,91,26994;68736,http://en.wikipedia.org/wiki/Glasgow_School,Glasgow School,glasgow-school,glasgow-school,UNK
+GLASGOW,4244074,164,167,26994;8483864;68736;3503100;7714448;14732390;7682030;33411697,"http://en.wikipedia.org/wiki/Glasgow,_Yoker_and_Clydebank_Railway","Glasgow, Yoker and Clydebank Railway",glasgow-yoker-and-clydebank-railway,glasgow-yoker-and-clydebank-railway,UNK
+GLASGOW,27173535,87,144,39569;26994;68736;280312;24321759;3015685;1475720;417279,http://en.wikipedia.org/wiki/Glasgow_city_centre,Glasgow city centre,glasgow-city-centre,glasgow-city-centre,UNK
+GLASGOW,151692,125,117,8483864;68736;7682030,"http://en.wikipedia.org/wiki/Glasgow,_Paisley_and_Johnstone_Canal","Glasgow, Paisley and Johnstone Canal",glasgow-paisley-and-johnstone-canal,glasgow-paisley-and-johnstone-canal,UNK
+GLASGOW,14732390,178,176,33411697;26994;8483864;3503100;4244074;7714448;14732390;7682030,"http://en.wikipedia.org/wiki/Glasgow,_Dumbarton_and_Helensburgh_Railway","Glasgow, Dumbarton and Helensburgh Railway",glasgow-dumbarton-and-helensburgh-railway,glasgow-dumbarton-and-helensburgh-railway,UNK
+GLASGOW,18407830,0,201,115019,"http://en.wikipedia.org/wiki/Glasgow,_Kentucky,_micropolitan_area","Glasgow, Kentucky, micropolitan area",glasgow-kentucky-micropolitan-area,glasgow-kentucky-micropolitan-area,GPE
+GLASGOW,14462104,2,25,,http://en.wikipedia.org/wiki/USS_Glasgow_(1863),USS Glasgow,uss-glasgow,uss-glasgow-1863,UNK
+GLASGOW,24698070,2,20,115019,http://en.wikipedia.org/wiki/Glasgow_Railway,Glasgow Railway,glasgow-railway,glasgow-railway,UNK
+GLASGOW,39569,2739,497,1475720;39569;3015685;27173535;68736;26994;24321759,http://en.wikipedia.org/wiki/University_of_Glasgow,University of Glasgow,university-of-glasgow,university-of-glasgow,ORG
+GLASGOW,138448,403,430,68736,"http://en.wikipedia.org/wiki/Glasgow,_West_Virginia","Glasgow, West Virginia",glasgow-west-virginia,glasgow-west-virginia,GPE
+GLASGOW,108919,170,111,,"http://en.wikipedia.org/wiki/Glasgow,_Delaware","Glasgow, Delaware",glasgow-delaware,glasgow-delaware,GPE
+GLASGOW,280342,60,219,280312;123645,http://en.wikipedia.org/wiki/Glasgow_Airport_(U.S.),Glasgow Airport,glasgow-airport,glasgow-airport-us,UNK
+GLASGOW,10065003,4,8,150726,"http://en.wikipedia.org/wiki/Glasgow_Bridge,_Missouri","Glasgow Bridge, Missouri",glasgow-bridge-missouri,glasgow-bridge-missouri,UNK
+GLASGOW,33411697,162,168,26994;8483864;3503100;4244074;7714448;14732390;7682030;33411697,"http://en.wikipedia.org/wiki/Glasgow,_Bothwell,_Hamilton_and_Coatbridge_Railway","Glasgow, Bothwell, Hamilton and Coatbridge Railway",glasgow-bothwell-hamilton-and-coatbridge-railway,glasgow-bothwell-hamilton-and-coatbridge-railway,UNK
+GLASGOW,131268,84,173,,"http://en.wikipedia.org/wiki/Glasgow,_Pennsylvania","Glasgow, Pennsylvania",glasgow-pennsylvania,glasgow-pennsylvania,GPE
+GLASGOW,3662494,121,283,68736;280312;1475720;26994;7714448,http://en.wikipedia.org/wiki/First_Glasgow,First Glasgow,first-glasgow,first-glasgow,UNK
+GLASGOW,7714448,234,210,3662494;280312;33411697;26994;8483864;3503100;4244074;7714448;14732390;7682030,"http://en.wikipedia.org/wiki/Glasgow,_Barrhead_and_Kilmarnock_Joint_Railway","Glasgow, Barrhead and Kilmarnock Joint Railway",glasgow-barrhead-and-kilmarnock-joint-railway,glasgow-barrhead-and-kilmarnock-joint-railway,UNK
+Scottish,26994,59696,1247,7714448;280312;843490;145684;23501645;417279;4244074;3503100;8483864;27173535;26994;42413718;7682030;39569;318427;817230;3015685;1914839;3662494;34850722;14732390;68736;1882784;17420442;18951002;4320562;105876;42398637;1475720;115019;253173;33411697,http://en.wikipedia.org/wiki/Scotland,Scotland,scotland,scotland,GPE
+Scottish,318427,679,408,68736;253173;34850722;26994;318427,http://en.wikipedia.org/wiki/Scottish_English,Scottish English,scottish-english,scottish-english,UNK
+Scottish,1882784,85,61,26994,http://en.wikipedia.org/wiki/Scottish_Division,Scottish Division,scottish-division,scottish-division,ORG
+Scottish,34850722,4015,458,253173;18951002;26994;42413718;68736;318427,http://en.wikipedia.org/wiki/Scottish_people,Scottish people,scottish-people,scottish-people,UNK
+Scottish,232571,39,19,,http://en.wikipedia.org/wiki/Scottish_Party,Scottish Party,scottish-party,scottish-party,ORG
+Scottish,145684,181,138,26994,http://en.wikipedia.org/wiki/Scottish_Fold,Scottish Fold,scottish-fold,scottish-fold,UNK
+Scottish,417279,231,30,68736;26994;27173535,http://en.wikipedia.org/wiki/Scottish_Opera,Scottish Opera,scottish-opera,scottish-opera,UNK
+Scottish,4320562,35,67,26994,http://en.wikipedia.org/wiki/Scottish_regiment,Scottish regiment,scottish-regiment,scottish-regiment,ORG
+Scottish,17420442,8,8,26994,"http://en.wikipedia.org/wiki/Scottish_College,_Douai","Scottish College, Douai",scottish-college-douai,scottish-college-douai,UNK
+Scottish,23501645,13,129,26994,http://en.wikipedia.org/wiki/Scottish_Airlines,Scottish Airlines,scottish-airlines,scottish-airlines,ORG
+Scottish,105876,284,105,26994,http://en.wikipedia.org/wiki/Scottish_Natural_Heritage,Scottish Natural Heritage,scottish-natural-heritage,scottish-natural-heritage,ORG
+Scottish,253173,799,465,34850722;26994;318427,http://en.wikipedia.org/wiki/Scottish_clan,Scottish clan,scottish-clan,scottish-clan,UNK
+Scottish,5435713,187,173,68736;5435713,http://en.wikipedia.org/wiki/Scottish_hip-hop,Scottish hip-hop,scottish-hip-hop,scottish-hip-hop,UNK
+East Stirling,817230,887,216,26994;817230,http://en.wikipedia.org/wiki/East_Stirlingshire_F.C.,East Stirlingshire F.C.,east-stirlingshire-fc,east-stirlingshire-fc,UNK
+Albion,11814367,79,100,,http://en.wikipedia.org/wiki/Albion_(wherry),Albion,albion,albion-wherry,UNK
+Albion,18951002,191,72,4913309;257806;843490;34850722;26994;2480404;1516771;16718601,http://en.wikipedia.org/wiki/Albion,Albion,albion,albion,UNK
+Albion,2935700,89,91,1756708,http://en.wikipedia.org/wiki/Albion_Road_(Ottawa),Albion Road,albion-road,albion-road-ottawa,UNK
+Albion,3732935,46,57,126982,"http://en.wikipedia.org/wiki/Albion_Center,_New_York","Albion Center, New York",albion-center-new-york,albion-center-new-york,GPE
+Albion,8325496,2,99,,"http://en.wikipedia.org/wiki/Mount_Albion,_Ontario","Mount Albion, Ontario",mount-albion-ontario,mount-albion-ontario,UNK
+Albion,141656,1,4,32920438,"http://en.wikipedia.org/wiki/Albion,_Wisconsin","Albion, Wisconsin",albion-wisconsin,albion-wisconsin,UNK
+Albion,40953937,15,29,,"http://en.wikipedia.org/wiki/Albion,_Texas","Albion, Texas",albion-texas,albion-texas,GPE
+Albion,1964069,229,258,4913309,"http://en.wikipedia.org/wiki/Albion,_California","Albion, California",albion-california,albion-california,GPE
+Albion,2174944,257,225,68736,http://en.wikipedia.org/wiki/Albion_Motors,Albion Motors,albion-motors,albion-motors,UNK
+Albion,597439,0,5,1864144,http://en.wikipedia.org/wiki/Albion_Township,Albion Township,albion-township,albion-township,GPE
+Albion,32840454,73,81,,"http://en.wikipedia.org/wiki/Albion_Street,_Surry_Hills","Albion Street, Surry Hills",albion-street-surry-hills,albion-street-surry-hills,UNK
+Albion,29998096,1,8,,"http://en.wikipedia.org/wiki/Albion_Hotel,_Cottesloe","Albion Hotel, Cottesloe",albion-hotel-cottesloe,albion-hotel-cottesloe,UNK
+Albion,35781656,29,47,,http://en.wikipedia.org/wiki/Albion_Mountains,Albion Mountains,albion-mountains,albion-mountains,UNK
+Albion,132468,75,92,,"http://en.wikipedia.org/wiki/Albion,_Pennsylvania","Albion, Pennsylvania",albion-pennsylvania,albion-pennsylvania,GPE
+Albion,1864144,10,18,597439,"http://en.wikipedia.org/wiki/Albion_Township,_Ontario","Albion Township, Ontario",albion-township-ontario,albion-township-ontario,GPE
+Albion,1756708,0,1,2935700,http://en.wikipedia.org/wiki/Albion_Road,Albion Road,albion-road,albion-road,UNK
+Albion,31643293,163,177,,http://en.wikipedia.org/wiki/Albion_(steamboat),Albion,albion,albion-steamboat,UNK
+Albion,34083751,76,89,,"http://en.wikipedia.org/wiki/Albion,_New_Jersey","Albion, New Jersey",albion-new-jersey,albion-new-jersey,UNK
+Albion,34267128,0,4,,"http://en.wikipedia.org/wiki/Albion_Township,_Kansas","Albion Township, Kansas",albion-township-kansas,albion-township-kansas,UNK
+Albion,40063150,2,9,,http://en.wikipedia.org/wiki/Albion_(1813),Albion,albion,albion-1813,PER
+Albion,44260,7,4,126982;257807;257806,"http://en.wikipedia.org/wiki/Albion,_New_York","Albion, New York",albion-new-york,albion-new-york,UNK
+Albion,42529947,3,65,,"http://en.wikipedia.org/wiki/Albion_(Winnsboro,_South_Carolina)",Albion,albion,albion-winnsboro-south-carolina,UNK
+Albion,11533386,78,86,,"http://en.wikipedia.org/wiki/Albion,_North_Carolina","Albion, North Carolina",albion-north-carolina,albion-north-carolina,GPE
+Albion,257806,79,85,257807;44260;18951002,"http://en.wikipedia.org/wiki/Albion_(village),_New_York","Albion (village), New York",albion-village-new-york,albion-village-new-york,GPE
+Albion,32920438,118,132,141656,"http://en.wikipedia.org/wiki/Albion_(community),_Wisconsin","Albion (community), Wisconsin",albion-community-wisconsin,albion-community-wisconsin,GPE
+Albion,914101,222,218,,"http://en.wikipedia.org/wiki/Albion,_Queensland","Albion, Queensland",albion-queensland,albion-queensland,UNK
+Albion,16718601,50,127,18951002,"http://en.wikipedia.org/wiki/Albion,_Rhode_Island","Albion, Rhode Island",albion-rhode-island,albion-rhode-island,UNK
+Albion,19769757,1,8,,http://en.wikipedia.org/wiki/Albion_Hotel,Albion Hotel,albion-hotel,albion-hotel,UNK
+Albion,2346,180,79,,"http://en.wikipedia.org/wiki/Albion,_Michigan","Albion, Michigan",albion-michigan,albion-michigan,GPE
+Albion,126982,57,58,257807;3732935;44260,"http://en.wikipedia.org/wiki/Albion,_Oswego_County,_New_York","Albion, Oswego County, New York",albion-oswego-county-new-york,albion-oswego-county-new-york,GPE
+Albion,27117132,108,113,,"http://en.wikipedia.org/wiki/Albion,_Guyana","Albion, Guyana",albion-guyana,albion-guyana,GPE
+Albion,1516771,113,124,18951002,"http://en.wikipedia.org/wiki/Albion_Park,_New_South_Wales","Albion Park, New South Wales",albion-park-new-south-wales,albion-park-new-south-wales,UNK
+Albion,12197488,44,19,,"http://en.wikipedia.org/wiki/Albion,_British_Columbia","Albion, British Columbia",albion-british-columbia,albion-british-columbia,GPE
+Albion,2480404,41,66,18951002,"http://en.wikipedia.org/wiki/Albion,_Victoria","Albion, Victoria",albion-victoria,albion-victoria,UNK
+Albion,34487759,15,23,,http://en.wikipedia.org/wiki/Albion_(whaler),Albion,albion,albion-whaler,UNK
+Albion,257807,55,45,257806;126982;44260,"http://en.wikipedia.org/wiki/Albion_(town),_Orleans_County,_New_York","Albion (town), Orleans County, New York",albion-town-orleans-county-new-york,albion-town-orleans-county-new-york,GPE
+Albion,37077167,5,25,,http://en.wikipedia.org/wiki/Albion_F.C.,Albion F.C.,albion-fc,albion-fc,UNK
+Albion,843490,131,149,26994;18951002,http://en.wikipedia.org/wiki/Albion_(Blake),Albion,albion,albion-blake,UNK
+Albion,5017115,11,5,5017115,http://en.wikipedia.org/wiki/Albion_(journal),Albion,albion,albion-journal,ORG
+Albion,4913309,11,42,1964069;18951002,http://en.wikipedia.org/wiki/Albion_River,Albion River,albion-river,albion-river,UNK
+Albion,111148,64,57,,"http://en.wikipedia.org/wiki/Albion,_Illinois","Albion, Illinois",albion-illinois,albion-illinois,UNK

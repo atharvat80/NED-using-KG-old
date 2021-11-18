@@ -1,0 +1,53 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Deutsche Bahn,172065,2173,287,248285;10992;4605151;11884;11867;172065,http://en.wikipedia.org/wiki/Deutsche_Bahn,Deutsche Bahn,deutsche-bahn,deutsche-bahn,ORG
+FRANKFURT,10992,6502,1040,229236;172065;1245772;21212;98577;4605151;11867;862147;1695702;248285,http://en.wikipedia.org/wiki/Frankfurt,Frankfurt,frankfurt,frankfurt,GPE
+FRANKFURT,539067,8,2,,http://en.wikipedia.org/wiki/University_of_Frankfurt,University of Frankfurt,university-of-frankfurt,university-of-frankfurt,ORG
+FRANKFURT,34345845,3,8,11867,http://en.wikipedia.org/wiki/Frankfurt_(icebreaker),Frankfurt,frankfurt,frankfurt-icebreaker,PER
+FRANKFURT,229236,869,443,10992;11884;11867;229236,http://en.wikipedia.org/wiki/Frankfurt_School,Frankfurt School,frankfurt-school,frankfurt-school,UNK
+FRANKFURT,862147,1853,615,21212;10992;11867;862147,http://en.wikipedia.org/wiki/Eintracht_Frankfurt,Eintracht Frankfurt,eintracht-frankfurt,eintracht-frankfurt,UNK
+FRANKFURT,13659323,7,6,,http://en.wikipedia.org/wiki/Frankfurt_Group,Frankfurt Group,frankfurt-group,frankfurt-group,UNK
+FRANKFURT,25646127,22,25,98577;11867,http://en.wikipedia.org/wiki/Frankfurt_(Bezirk),Frankfurt,frankfurt,frankfurt-bezirk,ORG
+FRANKFURT,1695702,388,310,10992;11867,http://en.wikipedia.org/wiki/Frankfurt_Motor_Show,Frankfurt Motor Show,frankfurt-motor-show,frankfurt-motor-show,UNK
+FRANKFURT,248285,872,583,10992;11884;11867;172065,http://en.wikipedia.org/wiki/Frankfurt_Airport,Frankfurt Airport,frankfurt-airport,frankfurt-airport,UNK
+FRANKFURT,98577,479,174,10992;11884;11867;25646127,http://en.wikipedia.org/wiki/Frankfurt_(Oder),Frankfurt,frankfurt,frankfurt-oder,GPE
+FRANKFURT,4605151,199,160,10992;11884;11867;172065,http://en.wikipedia.org/wiki/Frankfurt_(Main)_Hauptbahnhof,Frankfurt (Main) Hauptbahnhof,frankfurt-main-hauptbahnhof,frankfurt-main-hauptbahnhof,UNK
+German,11867,167535,1367,290327;10992;10612;11884;11867;25646127;21212;1695702;34345845;98577;862147;1263999;152735;172065;1559449;4605151;476441;475014;229236;248285,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+German,15082689,0,4,,"http://en.wikipedia.org/wiki/German_Township,_Indiana","German Township, Indiana",german-township-indiana,german-township-indiana,UNK
+German,13314138,20,25,11884;152735,http://en.wikipedia.org/wiki/German_Party_(Yugoslavia),German Party,german-party,german-party-yugoslavia,UNK
+German,12453352,0,5,9269386;2241658;6046607,"http://en.wikipedia.org/wiki/German_Township,_Ohio","German Township, Ohio",german-township-ohio,german-township-ohio,UNK
+German,21212,18535,1346,1559449;10992;10612;11884;11867;3901931;21212;1263999;862147;152735;11369455,http://en.wikipedia.org/wiki/Nazi_Germany,Nazi Germany,nazi-germany,nazi-germany,GPE
+German,152735,7195,672,13314138;475014;21212;1559449;1263999;290327;10612;11884;11867;152735,http://en.wikipedia.org/wiki/Germans,Germans,germans,germans,UNK
+German,36286602,5,23,,http://en.wikipedia.org/wiki/Germán,Germán,german,german,UNK
+German,36687858,164,170,,"http://en.wikipedia.org/wiki/German,_Iran","German, Iran",german-iran,german-iran,UNK
+German,34977979,51,25,34978004;34977989,http://en.wikipedia.org/wiki/German_Party_(1947),German Party,german-party,german-party-1947,UNK
+German,11204290,5,18,30138606,"http://en.wikipedia.org/wiki/German,_Bulgaria","German, Bulgaria",german-bulgaria,german-bulgaria,GPE
+German,34378156,2,26,,http://en.wikipedia.org/wiki/Arthur_German,Arthur German,arthur-german,arthur-german,UNK
+German,475014,250,170,290327;11884;11867;152735,http://en.wikipedia.org/wiki/German-speaking_Community_of_Belgium,German-speaking Community of Belgium,german-speaking-community-of-belgium,german-speaking-community-of-belgium,UNK
+German,2318626,324,65,11884,http://en.wikipedia.org/wiki/German_studies,German studies,german-studies,german-studies,PER
+German,290327,1463,698,475014;152735;11884;11867,http://en.wikipedia.org/wiki/German_American,German American,german-american,german-american,UNK
+German,22184642,4,12,,http://en.wikipedia.org/wiki/German_River,German River,german-river,german-river,UNK
+German,11369455,41,54,21212;11884,http://en.wikipedia.org/wiki/German_Party_(Romania),German Party,german-party,german-party-romania,UNK
+German,42060415,46,52,15082701,"http://en.wikipedia.org/wiki/German_Township,_Kossuth_County,_Iowa","German Township, Kossuth County, Iowa",german-township-kossuth-county-iowa,german-township-kossuth-county-iowa,GPE
+German,18512402,18,11,,http://en.wikipedia.org/wiki/Les_German,Les German,les-german,les-german,PER
+German,1559449,163,120,1263999;11884;11867;21212;152735;10612,http://en.wikipedia.org/wiki/German_model,German model,german-model,german-model,UNK
+German,126281,41,50,,"http://en.wikipedia.org/wiki/German,_New_York","German, New York",german-new-york,german-new-york,GPE
+German,239855,56,80,11884,http://en.wikipedia.org/wiki/German_alphabet,German alphabet,german-alphabet,german-alphabet,UNK
+German,132530,92,177,15082701,"http://en.wikipedia.org/wiki/German_Township,_Fayette_County,_Pennsylvania","German Township, Fayette County, Pennsylvania",german-township-fayette-county-pennsylvania,german-township-fayette-county-pennsylvania,GPE
+German,10612,1073,518,1559449;1263999;10612;11884;11867;152735;21212,http://en.wikipedia.org/wiki/Cinema_of_Germany,Cinema of Germany,cinema-of-germany,cinema-of-germany,UNK
+German,30138606,9,13,11204290,http://en.wikipedia.org/wiki/German_Peninsula,German Peninsula,german-peninsula,german-peninsula,UNK
+German,34978004,4,32,11884;1263999;34977979,http://en.wikipedia.org/wiki/German_Party_(1993),German Party,german-party,german-party-1993,UNK
+German,241920,127,87,,http://en.wikipedia.org/wiki/Edward_German,Edward German,edward-german,edward-german,UNK
+German,34977989,3,7,34977979,http://en.wikipedia.org/wiki/German_Party_(1961),German Party,german-party,german-party-1961,UNK
+German,12050833,24,279,15082701,"http://en.wikipedia.org/wiki/German_Township,_Richland_County,_Illinois","German Township, Richland County, Illinois",german-township-richland-county-illinois,german-township-richland-county-illinois,UNK
+German,6046607,34,48,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Fulton_County,_Ohio","German Township, Fulton County, Ohio",german-township-fulton-county-ohio,german-township-fulton-county-ohio,GPE
+German,24233458,2,4,,http://en.wikipedia.org/wiki/The_German,The German,the-german,the-german,UNK
+German,1245772,609,182,10992;11884,http://en.wikipedia.org/wiki/German_Wikipedia,German Wikipedia,german-wikipedia,german-wikipedia,UNK
+German,1263999,412,329,11884;11867;152735;1559449;1263999;34978004;21212;10612,http://en.wikipedia.org/wiki/Elections_in_Germany,Elections in Germany,elections-in-germany,elections-in-germany,UNK
+German,476441,101,169,11884;11867,http://en.wikipedia.org/wiki/German_name,German name,german-name,german-name,UNK
+German,15082701,0,14,132530;9269386;6046607;42060415;2241658;12050833,http://en.wikipedia.org/wiki/German_Township,German Township,german-township,german-township,GPE
+German,9269386,44,55,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Clark_County,_Ohio","German Township, Clark County, Ohio",german-township-clark-county-ohio,german-township-clark-county-ohio,GPE
+German,4356261,77,64,,http://en.wikipedia.org/wiki/German_(parish),German,german,german-parish,UNK
+German,3901931,32,37,21212;11884,http://en.wikipedia.org/wiki/German–Polish_Non-Aggression_Pact,German–Polish Non-Aggression Pact,german–polish-non-aggression-pact,german–polish-non-aggression-pact,UNK
+German,2241658,45,60,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Auglaize_County,_Ohio","German Township, Auglaize County, Ohio",german-township-auglaize-county-ohio,german-township-auglaize-county-ohio,GPE
+German,11884,43032,653,13314138;2318626;1245772;290327;10612;11867;476441;475014;3901931;229236;21212;1263999;152735;172065;239855;1559449;98577;4605151;34978004;248285;11369455,http://en.wikipedia.org/wiki/German_language,German language,german-language,german-language,UNK
+Deutsche Bahn AG,172065,2173,287,248285;10992;4605151;11884;11867;172065,http://en.wikipedia.org/wiki/Deutsche_Bahn,Deutsche Bahn,deutsche-bahn,deutsche-bahn,ORG

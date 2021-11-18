@@ -1,0 +1,174 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+WALES,580291,3318,535,69894;9239;580291;5082938;654427;8908579;1062932;4341758;1584991,http://en.wikipedia.org/wiki/Wales_national_football_team,Wales national football team,wales-national-football-team,wales-national-football-team,ORG
+WALES,137101,35,67,69894,"http://en.wikipedia.org/wiki/Wales,_Utah","Wales, Utah",wales-utah,wales-utah,GPE
+WALES,109718,222,132,,"http://en.wikipedia.org/wiki/Lake_Wales,_Florida","Lake Wales, Florida",lake-wales-florida,lake-wales-florida,GPE
+WALES,139968,80,124,,"http://en.wikipedia.org/wiki/Wales,_Wisconsin","Wales, Wisconsin",wales-wisconsin,wales-wisconsin,GPE
+WALES,128514,22,49,,"http://en.wikipedia.org/wiki/Wales,_North_Dakota","Wales, North Dakota",wales-north-dakota,wales-north-dakota,GPE
+WALES,20291183,9,13,69894;20291183,http://en.wikipedia.org/wiki/Wales_(magazine),Wales,wales,wales-magazine,ORG
+WALES,318036,707,229,355780;69894;11536189;24598705;318036;1277625,http://en.wikipedia.org/wiki/University_of_Wales,University of Wales,university-of-wales,university-of-wales,ORG
+WALES,1277625,79,309,318036;69894;355780;24598705,"http://en.wikipedia.org/wiki/University_of_Wales,_Newport","University of Wales, Newport",university-of-wales-newport,university-of-wales-newport,ORG
+WALES,3703446,388,318,3703446,http://en.wikipedia.org/wiki/Jimmy_Wales,Jimmy Wales,jimmy-wales,jimmy-wales,PER
+WALES,24598705,525,521,355780;318036;69894;1277625;4880479,"http://en.wikipedia.org/wiki/University_of_Wales,_Trinity_Saint_David","University of Wales, Trinity Saint David",university-of-wales-trinity-saint-david,university-of-wales-trinity-saint-david,ORG
+WALES,11536189,3,6,318036,"http://en.wikipedia.org/wiki/University_of_Wales,_Registry","University of Wales, Registry",university-of-wales-registry,university-of-wales-registry,UNK
+WALES,126428,192,193,,"http://en.wikipedia.org/wiki/Wales,_New_York","Wales, New York",wales-new-york,wales-new-york,GPE
+WALES,24044134,0,3,1505761;13626273;24822876,http://en.wikipedia.org/wiki/Wales_Island,Wales Island,wales-island,wales-island,UNK
+WALES,11047281,598,220,,http://en.wikipedia.org/wiki/Wale_(rapper),Wale,wale,wale-rapper,UNK
+WALES,21110469,1,5,,"http://en.wikipedia.org/wiki/University_of_Wales,_Romania","University of Wales, Romania",university-of-wales-romania,university-of-wales-romania,UNK
+WALES,119131,42,62,,"http://en.wikipedia.org/wiki/Wales_Township,_Michigan","Wales Township, Michigan",wales-township-michigan,wales-township-michigan,GPE
+WALES,712234,18,98,69894,"http://en.wikipedia.org/wiki/Wales,_South_Yorkshire","Wales, South Yorkshire",wales-south-yorkshire,wales-south-yorkshire,GPE
+WALES,39581546,2,19,115865;18518462,http://en.wikipedia.org/wiki/Wales_Airport_(Maine),Wales Airport,wales-airport,wales-airport-maine,UNK
+WALES,18518462,0,2,39581546;17557350,http://en.wikipedia.org/wiki/Wales_Airport,Wales Airport,wales-airport,wales-airport,UNK
+WALES,24722001,32,69,,http://en.wikipedia.org/wiki/Wales_Park,Wales Park,wales-park,wales-park,UNK
+WALES,30941999,2,144,,"http://en.wikipedia.org/wiki/Wales_(Petersburg,_Virginia)",Wales,wales,wales-petersburg-virginia,UNK
+WALES,69894,32173,1441,1251024;69894;1062932;9239;355780;137101;634886;12004676;580291;4880479;712234;1277625;8908579;4341758;1584991;318036;20291183;5082938;7819604;24598705,http://en.wikipedia.org/wiki/Wales,Wales,wales,wales,GPE
+WALES,105575,56,71,17557350,"http://en.wikipedia.org/wiki/Wales,_Alaska","Wales, Alaska",wales-alaska,wales-alaska,GPE
+WALES,35287144,36,54,,"http://en.wikipedia.org/wiki/Wales,_Minnesota","Wales, Minnesota",wales-minnesota,wales-minnesota,UNK
+WALES,24822876,4,451,24044134;1505761,http://en.wikipedia.org/wiki/Wales_Island_(Ungava),Wales Island,wales-island,wales-island-ungava,UNK
+WALES,4341758,376,293,1584991;69894;580291,http://en.wikipedia.org/wiki/Wales_Rugby_League,Wales Rugby League,wales-rugby-league,wales-rugby-league,UNK
+WALES,1505761,547,453,24044134;24822876;17885345,http://en.wikipedia.org/wiki/Wales_Island_(Nunavut),Wales Island,wales-island,wales-island-nunavut,UNK
+WALES,355780,184,431,24598705;318036;9239;69894;1277625,"http://en.wikipedia.org/wiki/University_of_Wales,_Lampeter","University of Wales, Lampeter",university-of-wales-lampeter,university-of-wales-lampeter,ORG
+WALES,1584991,323,256,27250;4341758;1584991;69894;580291,http://en.wikipedia.org/wiki/Geography_of_Wales,Geography of Wales,geography-of-wales,geography-of-wales,ORG
+WALES,116809,64,80,,"http://en.wikipedia.org/wiki/Wales,_Massachusetts","Wales, Massachusetts",wales-massachusetts,wales-massachusetts,GPE
+WALES,13626273,12,25,24044134,http://en.wikipedia.org/wiki/Wales_Island_(British_Columbia),Wales Island,wales-island,wales-island-british-columbia,UNK
+WALES,1051114,4,10,,"http://en.wikipedia.org/wiki/Wales,_Ontario","Wales, Ontario",wales-ontario,wales-ontario,UNK
+WALES,17557350,11,19,105575;18518462,http://en.wikipedia.org/wiki/Wales_Airport_(Alaska),Wales Airport,wales-airport,wales-airport-alaska,UNK
+WALES,115865,29,40,39581546,"http://en.wikipedia.org/wiki/Wales,_Maine","Wales, Maine",wales-maine,wales-maine,GPE
+SAN MARINO,654427,707,266,27248;9239;580291,http://en.wikipedia.org/wiki/San_Marino_national_football_team,San Marino national football team,san-marino-national-football-team,san-marino-national-football-team,UNK
+SAN MARINO,27250,75,79,27248;9239;7157932;406962;1584991,http://en.wikipedia.org/wiki/Geography_of_San_Marino,Geography of San Marino,geography-of-san-marino,geography-of-san-marino,UNK
+SAN MARINO,7157932,4,9,27248;27250,http://en.wikipedia.org/wiki/San_Marino_River,San Marino River,san-marino-river,san-marino-river,UNK
+SAN MARINO,28639091,2,12,,"http://en.wikipedia.org/wiki/San_Marino,_Croatia","San Marino, Croatia",san-marino-croatia,san-marino-croatia,UNK
+SAN MARINO,25001666,19,39,,http://en.wikipedia.org/wiki/San_Marino_Island,San Marino Island,san-marino-island,san-marino-island,UNK
+SAN MARINO,511282,144,169,27248;1706942,http://en.wikipedia.org/wiki/San_Marino_Grand_Prix,San Marino Grand Prix,san-marino-grand-prix,san-marino-grand-prix,UNK
+SAN MARINO,27248,3944,354,9239;9317;5082938;6173324;27248;27250;654427;7157932;406962;107679;511282,http://en.wikipedia.org/wiki/San_Marino,San Marino,san-marino,san-marino,GPE
+SAN MARINO,406962,198,189,27248;27250;9239;9317,http://en.wikipedia.org/wiki/City_of_San_Marino,City of San Marino,city-of-san-marino,city-of-san-marino,GPE
+SAN MARINO,6173324,20,16,27248,http://en.wikipedia.org/wiki/San_Marino_Baseball_Club,San Marino Baseball Club,san-marino-baseball-club,san-marino-baseball-club,ORG
+SAN MARINO,1706942,244,241,511282,http://en.wikipedia.org/wiki/2005_San_Marino_Grand_Prix,2005 San Marino Grand Prix,2005-san-marino-grand-prix,2005-san-marino-grand-prix,UNK
+SAN MARINO,107679,537,504,27248,"http://en.wikipedia.org/wiki/San_Marino,_California","San Marino, California",san-marino-california,san-marino-california,GPE
+BARRY,1251024,522,282,634886;7819604;12004676;69894;4856749;4880479,"http://en.wikipedia.org/wiki/Barry,_Vale_of_Glamorgan","Barry, Vale of Glamorgan",barry-vale-of-glamorgan,barry-vale-of-glamorgan,GPE
+BARRY,6912716,17,26,,http://en.wikipedia.org/wiki/Barry_England,Barry England,barry-england,barry-england,UNK
+BARRY,614267,100,129,778947,http://en.wikipedia.org/wiki/USS_Barry_(DDG-52),USS Barry,uss-barry,uss-barry-ddg-52,UNK
+BARRY,634886,201,213,12004676;69894;1251024;4856749,http://en.wikipedia.org/wiki/Barry_Island,Barry Island,barry-island,barry-island,UNK
+BARRY,9345655,2,13,14915172,http://en.wikipedia.org/wiki/Edward_Barry_(cricketer),Edward Barry,edward-barry,edward-barry-cricketer,UNK
+BARRY,4880479,12,30,69894;1251024;24598705,http://en.wikipedia.org/wiki/Barry_College,Barry College,barry-college,barry-college,UNK
+BARRY,136421,29,52,,"http://en.wikipedia.org/wiki/Barry,_Texas","Barry, Texas",barry-texas,barry-texas,GPE
+BARRY,168335,853,374,36838497;168335,http://en.wikipedia.org/wiki/Barry_Gibb,Barry Gibb,barry-gibb,barry-gibb,UNK
+BARRY,29651806,13,23,,http://en.wikipedia.org/wiki/Barry_III,Barry III,barry-iii,barry-iii,PER
+BARRY,12004676,137,166,69894;1251024;634886,http://en.wikipedia.org/wiki/Barry_Castle,Barry Castle,barry-castle,barry-castle,UNK
+BARRY,20608246,0,2,1301791;20608227,http://en.wikipedia.org/wiki/Barry_Bishop,Barry Bishop,barry-bishop,barry-bishop,PER
+BARRY,20608227,57,71,20608246,http://en.wikipedia.org/wiki/Barry_Bishop_(mountaineer),Barry Bishop,barry-bishop,barry-bishop-mountaineer,PER
+BARRY,3426792,12,18,,"http://en.wikipedia.org/wiki/Barry,_New_South_Wales","Barry, New South Wales",barry-new-south-wales,barry-new-south-wales,UNK
+BARRY,4827251,130,159,,"http://en.wikipedia.org/wiki/Barry,_Angus","Barry, Angus",barry-angus,barry-angus,GPE
+BARRY,36838497,226,188,168335,"http://en.wikipedia.org/wiki/Barry,_Robin_&_Maurice_Gibb","Barry, Robin & Maurice Gibb",barry-robin-maurice-gibb,barry-robin-maurice-gibb,UNK
+BARRY,4856749,384,242,1251024;634886;4856749,http://en.wikipedia.org/wiki/Barry_Railway_Company,Barry Railway Company,barry-railway-company,barry-railway-company,UNK
+BARRY,2758511,7,13,,http://en.wikipedia.org/wiki/Barry_Island_(Debenham_Islands),Barry Island,barry-island,barry-island-debenham-islands,UNK
+BARRY,32563018,2,14,14915172,http://en.wikipedia.org/wiki/Edward_Barry_(writer),Edward Barry,edward-barry,edward-barry-writer,UNK
+BARRY,3113869,15,27,,http://en.wikipedia.org/wiki/Barry_(dog),Barry,barry,barry-dog,UNK
+BARRY,37779053,0,3,36631314;5545005;18405206,http://en.wikipedia.org/wiki/Barry_Hill,Barry Hill,barry-hill,barry-hill,PER
+BARRY,1301791,9,8,20608246,http://en.wikipedia.org/wiki/Barry_Bishop_(politician),Barry Bishop,barry-bishop,barry-bishop-politician,UNK
+BARRY,574547,396,282,,http://en.wikipedia.org/wiki/Barry_University,Barry University,barry-university,barry-university,UNK
+BARRY,56386,800,149,56386,http://en.wikipedia.org/wiki/Barry_White,Barry White,barry-white,barry-white,UNK
+BARRY,27590229,103,94,,http://en.wikipedia.org/wiki/Barry_(radio),Barry,barry,barry-radio,UNK
+BARRY,178663,40,32,,http://en.wikipedia.org/wiki/Barrymore_family,Barrymore family,barrymore-family,barrymore-family,UNK
+BARRY,18405206,21,23,37779053,http://en.wikipedia.org/wiki/Barry_Hill_(Australian_writer),Barry Hill,barry-hill,barry-hill-australian-writer,PER
+BARRY,15791341,476,485,,"http://en.wikipedia.org/wiki/Barry,_Hautes-Pyrénées","Barry, Hautes-Pyrénées",barry-hautes-pyrenees,barry-hautes-pyrenees,UNK
+BARRY,14915172,0,11,9345655;32563018;25087700,http://en.wikipedia.org/wiki/Edward_Barry,Edward Barry,edward-barry,edward-barry,PER
+BARRY,967633,181,201,778947,http://en.wikipedia.org/wiki/USS_Barry_(DD-248),USS Barry,uss-barry,uss-barry-dd-248,UNK
+BARRY,5545005,2,10,5545005;37779053,http://en.wikipedia.org/wiki/Barry_Hill_(British_writer),Barry Hill,barry-hill,barry-hill-british-writer,PER
+BARRY,111792,80,77,,"http://en.wikipedia.org/wiki/Barry,_Illinois","Barry, Illinois",barry-illinois,barry-illinois,UNK
+BARRY,27256984,94,106,,http://en.wikipedia.org/wiki/Barry_Church,Barry Church,barry-church,barry-church,UNK
+BARRY,553243,0,2,,http://en.wikipedia.org/wiki/Barry_County,Barry County,barry-county,barry-county,UNK
+BARRY,5310757,42,54,,http://en.wikipedia.org/wiki/Al_Barry,Al Barry,al-barry,al-barry,UNK
+BARRY,25087700,9,12,14915172,http://en.wikipedia.org/wiki/Edward_Barry_(South_Cork_MP),Edward Barry,edward-barry,edward-barry-south-cork-mp,PER
+BARRY,36631314,4,8,37779053,http://en.wikipedia.org/wiki/Barry_Hill_(American_football),Barry Hill,barry-hill,barry-hill-american-football,UNK
+BARRY,521170,169,365,778947,http://en.wikipedia.org/wiki/USS_Barry_(DD-933),USS Barry,uss-barry,uss-barry-dd-933,UNK
+BARRY,778947,11,7,778930;967633;614267;521170,http://en.wikipedia.org/wiki/USS_Barry,USS Barry,uss-barry,uss-barry,UNK
+BARRY,778930,23,32,778947,http://en.wikipedia.org/wiki/USS_Barry_(DD-2),USS Barry,uss-barry,uss-barry-dd-2,UNK
+BARRY,17885345,104,112,1505761,http://en.wikipedia.org/wiki/Barry_Islands,Barry Islands,barry-islands,barry-islands,UNK
+BARRY,7819604,3,5,1251024;69894,http://en.wikipedia.org/wiki/Barry_Hospital,Barry Hospital,barry-hospital,barry-hospital,ORG
+BARRY,35720629,2,19,,http://en.wikipedia.org/wiki/Barry_Building,Barry Building,barry-building,barry-building,UNK
+BARRY,23515147,1,5,,http://en.wikipedia.org/wiki/Barry_River,Barry River,barry-river,barry-river,UNK
+BARRY,10628131,0,5,,http://en.wikipedia.org/wiki/Barry_Township,Barry Township,barry-township,barry-township,GPE
+Wales,69894,32173,1441,1251024;69894;1062932;9239;355780;137101;634886;12004676;580291;4880479;712234;1277625;8908579;4341758;1584991;318036;20291183;5082938;7819604;24598705,http://en.wikipedia.org/wiki/Wales,Wales,wales,wales,GPE
+Wales,137101,35,67,69894,"http://en.wikipedia.org/wiki/Wales,_Utah","Wales, Utah",wales-utah,wales-utah,GPE
+Wales,109718,222,132,,"http://en.wikipedia.org/wiki/Lake_Wales,_Florida","Lake Wales, Florida",lake-wales-florida,lake-wales-florida,GPE
+Wales,139968,80,124,,"http://en.wikipedia.org/wiki/Wales,_Wisconsin","Wales, Wisconsin",wales-wisconsin,wales-wisconsin,GPE
+Wales,128514,22,49,,"http://en.wikipedia.org/wiki/Wales,_North_Dakota","Wales, North Dakota",wales-north-dakota,wales-north-dakota,GPE
+Wales,20291183,9,13,69894;20291183,http://en.wikipedia.org/wiki/Wales_(magazine),Wales,wales,wales-magazine,ORG
+Wales,318036,707,229,355780;69894;11536189;24598705;318036;1277625,http://en.wikipedia.org/wiki/University_of_Wales,University of Wales,university-of-wales,university-of-wales,ORG
+Wales,1277625,79,309,318036;69894;355780;24598705,"http://en.wikipedia.org/wiki/University_of_Wales,_Newport","University of Wales, Newport",university-of-wales-newport,university-of-wales-newport,ORG
+Wales,3703446,388,318,3703446,http://en.wikipedia.org/wiki/Jimmy_Wales,Jimmy Wales,jimmy-wales,jimmy-wales,PER
+Wales,24598705,525,521,355780;318036;69894;1277625;4880479,"http://en.wikipedia.org/wiki/University_of_Wales,_Trinity_Saint_David","University of Wales, Trinity Saint David",university-of-wales-trinity-saint-david,university-of-wales-trinity-saint-david,ORG
+Wales,11536189,3,6,318036,"http://en.wikipedia.org/wiki/University_of_Wales,_Registry","University of Wales, Registry",university-of-wales-registry,university-of-wales-registry,UNK
+Wales,126428,192,193,,"http://en.wikipedia.org/wiki/Wales,_New_York","Wales, New York",wales-new-york,wales-new-york,GPE
+Wales,24044134,0,3,1505761;13626273;24822876,http://en.wikipedia.org/wiki/Wales_Island,Wales Island,wales-island,wales-island,UNK
+Wales,11047281,598,220,,http://en.wikipedia.org/wiki/Wale_(rapper),Wale,wale,wale-rapper,UNK
+Wales,21110469,1,5,,"http://en.wikipedia.org/wiki/University_of_Wales,_Romania","University of Wales, Romania",university-of-wales-romania,university-of-wales-romania,UNK
+Wales,119131,42,62,,"http://en.wikipedia.org/wiki/Wales_Township,_Michigan","Wales Township, Michigan",wales-township-michigan,wales-township-michigan,GPE
+Wales,712234,18,98,69894,"http://en.wikipedia.org/wiki/Wales,_South_Yorkshire","Wales, South Yorkshire",wales-south-yorkshire,wales-south-yorkshire,GPE
+Wales,39581546,2,19,115865;18518462,http://en.wikipedia.org/wiki/Wales_Airport_(Maine),Wales Airport,wales-airport,wales-airport-maine,UNK
+Wales,18518462,0,2,39581546;17557350,http://en.wikipedia.org/wiki/Wales_Airport,Wales Airport,wales-airport,wales-airport,UNK
+Wales,24722001,32,69,,http://en.wikipedia.org/wiki/Wales_Park,Wales Park,wales-park,wales-park,UNK
+Wales,30941999,2,144,,"http://en.wikipedia.org/wiki/Wales_(Petersburg,_Virginia)",Wales,wales,wales-petersburg-virginia,UNK
+Wales,105575,56,71,17557350,"http://en.wikipedia.org/wiki/Wales,_Alaska","Wales, Alaska",wales-alaska,wales-alaska,GPE
+Wales,35287144,36,54,,"http://en.wikipedia.org/wiki/Wales,_Minnesota","Wales, Minnesota",wales-minnesota,wales-minnesota,UNK
+Wales,24822876,4,451,24044134;1505761,http://en.wikipedia.org/wiki/Wales_Island_(Ungava),Wales Island,wales-island,wales-island-ungava,UNK
+Wales,4341758,376,293,1584991;69894;580291,http://en.wikipedia.org/wiki/Wales_Rugby_League,Wales Rugby League,wales-rugby-league,wales-rugby-league,UNK
+Wales,1505761,547,453,24044134;24822876;17885345,http://en.wikipedia.org/wiki/Wales_Island_(Nunavut),Wales Island,wales-island,wales-island-nunavut,UNK
+Wales,116809,64,80,,"http://en.wikipedia.org/wiki/Wales,_Massachusetts","Wales, Massachusetts",wales-massachusetts,wales-massachusetts,GPE
+Wales,355780,184,431,24598705;318036;9239;69894;1277625,"http://en.wikipedia.org/wiki/University_of_Wales,_Lampeter","University of Wales, Lampeter",university-of-wales-lampeter,university-of-wales-lampeter,ORG
+Wales,1584991,323,256,27250;4341758;1584991;69894;580291,http://en.wikipedia.org/wiki/Geography_of_Wales,Geography of Wales,geography-of-wales,geography-of-wales,ORG
+Wales,580291,3318,535,69894;9239;580291;5082938;654427;8908579;1062932;4341758;1584991,http://en.wikipedia.org/wiki/Wales_national_football_team,Wales national football team,wales-national-football-team,wales-national-football-team,ORG
+Wales,13626273,12,25,24044134,http://en.wikipedia.org/wiki/Wales_Island_(British_Columbia),Wales Island,wales-island,wales-island-british-columbia,UNK
+Wales,1051114,4,10,,"http://en.wikipedia.org/wiki/Wales,_Ontario","Wales, Ontario",wales-ontario,wales-ontario,UNK
+Wales,17557350,11,19,105575;18518462,http://en.wikipedia.org/wiki/Wales_Airport_(Alaska),Wales Airport,wales-airport,wales-airport-alaska,UNK
+Wales,115865,29,40,39581546,"http://en.wikipedia.org/wiki/Wales,_Maine","Wales, Maine",wales-maine,wales-maine,GPE
+Wales,5082938,760,289,69894;1062932;27248;9239;580291;8908579,http://en.wikipedia.org/wiki/Wales_national_under-21_football_team,Wales national under-21 football team,wales-national-under-21-football-team,wales-national-under-21-football-team,UNK
+San Marino,654427,707,266,27248;9239;580291,http://en.wikipedia.org/wiki/San_Marino_national_football_team,San Marino national football team,san-marino-national-football-team,san-marino-national-football-team,UNK
+San Marino,27250,75,79,27248;9239;7157932;406962;1584991,http://en.wikipedia.org/wiki/Geography_of_San_Marino,Geography of San Marino,geography-of-san-marino,geography-of-san-marino,UNK
+San Marino,7157932,4,9,27248;27250,http://en.wikipedia.org/wiki/San_Marino_River,San Marino River,san-marino-river,san-marino-river,UNK
+San Marino,28639091,2,12,,"http://en.wikipedia.org/wiki/San_Marino,_Croatia","San Marino, Croatia",san-marino-croatia,san-marino-croatia,UNK
+San Marino,25001666,19,39,,http://en.wikipedia.org/wiki/San_Marino_Island,San Marino Island,san-marino-island,san-marino-island,UNK
+San Marino,511282,144,169,27248;1706942,http://en.wikipedia.org/wiki/San_Marino_Grand_Prix,San Marino Grand Prix,san-marino-grand-prix,san-marino-grand-prix,UNK
+San Marino,27248,3944,354,9239;9317;5082938;6173324;27248;27250;654427;7157932;406962;107679;511282,http://en.wikipedia.org/wiki/San_Marino,San Marino,san-marino,san-marino,GPE
+San Marino,406962,198,189,27248;27250;9239;9317,http://en.wikipedia.org/wiki/City_of_San_Marino,City of San Marino,city-of-san-marino,city-of-san-marino,GPE
+San Marino,6173324,20,16,27248,http://en.wikipedia.org/wiki/San_Marino_Baseball_Club,San Marino Baseball Club,san-marino-baseball-club,san-marino-baseball-club,ORG
+San Marino,1706942,244,241,511282,http://en.wikipedia.org/wiki/2005_San_Marino_Grand_Prix,2005 San Marino Grand Prix,2005-san-marino-grand-prix,2005-san-marino-grand-prix,UNK
+San Marino,107679,537,504,27248,"http://en.wikipedia.org/wiki/San_Marino,_California","San Marino, California",san-marino-california,san-marino-california,GPE
+European,9239,51349,1032,9239;9317;580291;406962;27248;27250;191684;1553658;1168603;69894;1338528;355780;25996692;654427;8707335;5082938,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+European,1553658,68,12,9239,http://en.wikipedia.org/wiki/European_Netherlands,European Netherlands,european-netherlands,european-netherlands,UNK
+European,1739264,4,7,674507,"http://en.wikipedia.org/wiki/European_School,_Bergen","European School, Bergen",european-school-bergen,european-school-bergen,ORG
+European,7432187,9,22,7432187;9317,http://en.wikipedia.org/wiki/European_Union_Public_Licence,European Union Public Licence,european-union-public-licence,european-union-public-licence,UNK
+European,23454667,3,4,674507,"http://en.wikipedia.org/wiki/European_School,_Luxembourg_II","European School, Luxembourg II",european-school-luxembourg-ii,european-school-luxembourg-ii,UNK
+European,8599208,322,346,9317;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Ireland)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-ireland,UNK
+European,1338528,556,124,9239,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+European,2333629,3,14,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Varese","European School, Varese",european-school-varese,european-school-varese,ORG
+European,9317,19822,836,8599208;8707335;1014388;7432187;9239;9317;36091903;191684;406962;616004;15125201;2333629;25996692;1168603;27248,http://en.wikipedia.org/wiki/European_Union,European Union,european-union,european-union,UNK
+European,674507,33,58,1739264;1991050;2333629;23454667;36091903;1014388;25996692;191684,http://en.wikipedia.org/wiki/European_School,European School,european-school,european-school,UNK
+European,31465880,8,18,,http://en.wikipedia.org/wiki/The_European_(2009_magazine),The European,the-european,the-european-2009-magazine,UNK
+European,11696187,17,37,,http://en.wikipedia.org/wiki/European_Song,European Song,european-song,european-song,UNK
+European,36091903,3,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Brussels_III","European School, Brussels III",european-school-brussels-iii,european-school-brussels-iii,ORG
+European,22546545,14,61,,http://en.wikipedia.org/wiki/European_University,European University,european-university,european-university,ORG
+European,15125201,307,276,9317;8599208;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Portugal)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-portugal,UNK
+European,20919804,2,28,20919804,http://en.wikipedia.org/wiki/The_European_(1953_magazine),The European,the-european,the-european-1953-magazine,ORG
+European,1014388,7,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Munich","European School, Munich",european-school-munich,european-school-munich,ORG
+European,616004,129,58,9317;616004,http://en.wikipedia.org/wiki/European_Foundation_(think_tank),European Foundation,european-foundation,european-foundation-think-tank,ORG
+European,1168603,28,107,9239;9317,http://en.wikipedia.org/wiki/European_Round_Table_of_Industrialists,European Round Table of Industrialists,european-round-table-of-industrialists,european-round-table-of-industrialists,UNK
+European,17428699,4,24,,http://en.wikipedia.org/wiki/European_Institute,European Institute,european-institute,european-institute,ORG
+European,191684,95,91,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Culham","European School, Culham",european-school-culham,european-school-culham,ORG
+European,41345734,1,9,41345734,http://en.wikipedia.org/wiki/European_Group,European Group,european-group,european-group,UNK
+European,4042903,39,29,,http://en.wikipedia.org/wiki/European_Party_(Cyprus),European Party,european-party,european-party-cyprus,UNK
+European,3402034,1943,727,3402034,http://en.wikipedia.org/wiki/European_Figure_Skating_Championships,European Figure Skating Championships,european-figure-skating-championships,european-figure-skating-championships,UNK
+European,25996692,3,35,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Karlsruhe","European School, Karlsruhe",european-school-karlsruhe,european-school-karlsruhe,UNK
+European,1991050,8,12,674507,"http://en.wikipedia.org/wiki/European_School,_Mol","European School, Mol",european-school-mol,european-school-mol,UNK
+European,8707335,5,14,9317;9239,http://en.wikipedia.org/wiki/European_Journal,European Journal,european-journal,european-journal,UNK
+European,1338717,69,62,,http://en.wikipedia.org/wiki/The_European_(newspaper),The European,the-european,the-european-newspaper,UNK
+John Hartson,1062932,309,225,69894;5082938;580291,http://en.wikipedia.org/wiki/John_Hartson,John Hartson,john-hartson,john-hartson,PER
+Scott Young,8908579,5,23,8578479;5082938;580291;69894,http://en.wikipedia.org/wiki/Scott_Young_(Welsh_footballer),Scott Young,scott-young,scott-young-welsh-footballer,PER
+Scott Young,8578479,0,7,3241698;417993;23097141;2932677;10503433;8908579;30765355,http://en.wikipedia.org/wiki/Scott_Young,Scott Young,scott-young,scott-young,PER
+Scott Young,417993,35,36,8578479,http://en.wikipedia.org/wiki/Scott_Young_(writer),Scott Young,scott-young,scott-young-writer,UNK
+Scott Young,39926673,3,16,,http://en.wikipedia.org/wiki/Scott_Young_(footballer_born_1969),Scott Young,scott-young,scott-young-footballer-born-1969,PER
+Scott Young,3241698,22,31,8578479,http://en.wikipedia.org/wiki/Scott_Young_(American_football),Scott Young,scott-young,scott-young-american-football,UNK
+Scott Young,30765355,26,54,8578479,http://en.wikipedia.org/wiki/Scott_Young_(Scottish_footballer),Scott Young,scott-young,scott-young-scottish-footballer,PER
+Scott Young,10503433,2,8,8578479,http://en.wikipedia.org/wiki/Scott_Young_(politician),Scott Young,scott-young,scott-young-politician,PER
+Scott Young,2932677,77,65,8578479,http://en.wikipedia.org/wiki/Scott_Young_(ice_hockey_b._1967),Scott Young,scott-young,scott-young-ice-hockey-b-1967,UNK
+Scott Young,23097141,4,31,8578479,http://en.wikipedia.org/wiki/Scott_Young_(ice_hockey_b._1965),Scott Young,scott-young,scott-young-ice-hockey-b-1965,PER

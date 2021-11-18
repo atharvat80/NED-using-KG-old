@@ -1,0 +1,228 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Lebed,431579,54,75,19004;59510;737701;23278520;25431;3821983;25391,http://en.wikipedia.org/wiki/Alexander_Lebed,Alexander Lebed,alexander-lebed,alexander-lebed,PER
+Lebed,6631785,1,8,25391,http://en.wikipedia.org/wiki/Lebed_River,Lebed River,lebed-river,lebed-river,UNK
+Chechnya,6095,1506,321,1526308;23278520;3821983;25431;25391;6095;59510;2495469;19004,http://en.wikipedia.org/wiki/Chechnya,Chechnya,chechnya,chechnya,UNK
+Polish,22936,115021,1647,13083;28878684;4244153;19004;21133;3074893;22975;22936;25702;25431;25391;32908;525971;2277815;59510;10339758;21208262;635098;636823;650427;10082478;40620438;112404;1107413;1526308;11555574;406573;25127146;42187354;4329310;15335256;657945;9387653;3967014;20611504;1028194;2012490;771860;776028;5237926;1225807;260198;25230692,http://en.wikipedia.org/wiki/Poland,Poland,poland,poland,GPE
+Polish,15335256,26,41,32908;22936,"http://en.wikipedia.org/wiki/Polish_Museum,_Rapperswil","Polish Museum, Rapperswil",polish-museum-rapperswil,polish-museum-rapperswil,UNK
+Polish,8338304,6,8,,http://en.wikipedia.org/wiki/Polish_Mountain,Polish Mountain,polish-mountain,polish-mountain,UNK
+Polish,42187354,20,81,22936,http://en.wikipedia.org/wiki/Polish_Party,Polish Party,polish-party,polish-party,UNK
+Polish,1313740,128,107,22975;2036528,http://en.wikipedia.org/wiki/Polish_Wikipedia,Polish Wikipedia,polish-wikipedia,polish-wikipedia,UNK
+Polish,40620438,4,12,22936,http://en.wikipedia.org/wiki/Polish_International,Polish International,polish-international,polish-international,PER
+Polish,2447796,35,22,,http://en.wikipedia.org/wiki/Maxwell_Street_Polish,Maxwell Street Polish,maxwell-street-polish,maxwell-street-polish,UNK
+Polish,11555574,12,225,22975;22936;5237926;32908;25391,http://en.wikipedia.org/wiki/Polish_opera,Polish opera,polish-opera,polish-opera,GPE
+Polish,220464,118,15,5757742,http://en.wikipedia.org/wiki/Polishing,Polishing,polishing,polishing,ORG
+Polish,9387653,8,12,22936,http://en.wikipedia.org/wiki/Polish_chicken,Polish chicken,polish-chicken,polish-chicken,UNK
+Polish,2966446,220,292,22975,http://en.wikipedia.org/wiki/Polish_Hill,Polish Hill,polish-hill,polish-hill,UNK
+Polish,4329310,803,549,32908;22936;19004;867865,http://en.wikipedia.org/wiki/Polish_resistance_movement_in_World_War_II,Polish resistance movement in World War II,polish-resistance-movement-in-world-war-ii,polish-resistance-movement-in-world-war-ii,UNK
+Polish,22975,9904,454,28878684;32908;4244153;20611504;2966446;316936;3074893;22975;22936;1313740;25431;25391;10339758;771860;13083;867865;635098;3967014;11157563;11555574;657945;636823,http://en.wikipedia.org/wiki/Polish_language,Polish language,polish-language,polish-language,UNK
+Polish,4776201,153,140,4776201;32908;25391,http://en.wikipedia.org/wiki/Polish_nationality_law,Polish nationality law,polish-nationality-law,polish-nationality-law,UNK
+Polish,5757742,200,24,220464,http://en.wikipedia.org/wiki/Polishing_(metalworking),Polishing,polishing,polishing-metalworking,UNK
+Polish,1107413,479,531,22936,http://en.wikipedia.org/wiki/Polish_Club,Polish Club,polish-club,polish-club,PER
+WARSAW,32908,16012,776,32908;33800;112404;4329310;635098;3967014;11157563;1225807;11555574;15335256;657945;260198;260197;122528;28878684;20611504;19004;1028194;22975;22936;129059;25391;771860;867865;4776201;776028,http://en.wikipedia.org/wiki/Warsaw,Warsaw,warsaw,warsaw,GPE
+WARSAW,115116,159,237,137739,"http://en.wikipedia.org/wiki/Warsaw,_Kentucky","Warsaw, Kentucky",warsaw-kentucky,warsaw-kentucky,GPE
+WARSAW,41212449,1,11,129059,http://en.wikipedia.org/wiki/Warsaw_Hotel,Warsaw Hotel,warsaw-hotel,warsaw-hotel,UNK
+WARSAW,120103,57,74,141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Goodhue_County,_Minnesota","Warsaw Township, Goodhue County, Minnesota",warsaw-township-goodhue-county-minnesota,warsaw-township-goodhue-county-minnesota,GPE
+WARSAW,8285297,1,5,,http://en.wikipedia.org/wiki/Warsaw_Bridge,Warsaw Bridge,warsaw-bridge,warsaw-bridge,UNK
+WARSAW,3495456,1,4,,http://en.wikipedia.org/wiki/Little_Warsaw,Little Warsaw,little-warsaw,little-warsaw,PER
+WARSAW,10389748,59,74,141311;111265,"http://en.wikipedia.org/wiki/Warsaw_Township,_Hancock_County,_Illinois","Warsaw Township, Hancock County, Illinois",warsaw-township-hancock-county-illinois,warsaw-township-hancock-county-illinois,UNK
+WARSAW,141311,0,4,120103;10389748;132787;121578,http://en.wikipedia.org/wiki/Warsaw_Township,Warsaw Township,warsaw-township,warsaw-township,GPE
+WARSAW,25139728,35,60,121578,"http://en.wikipedia.org/wiki/Warsaw,_Minnesota","Warsaw, Minnesota",warsaw-minnesota,warsaw-minnesota,UNK
+WARSAW,111265,98,81,10389748,"http://en.wikipedia.org/wiki/Warsaw,_Illinois","Warsaw, Illinois",warsaw-illinois,warsaw-illinois,GPE
+WARSAW,122528,199,188,32908,"http://en.wikipedia.org/wiki/Warsaw,_Missouri","Warsaw, Missouri",warsaw-missouri,warsaw-missouri,GPE
+WARSAW,11157563,624,221,22975;32908,http://en.wikipedia.org/wiki/University_of_Warsaw,University of Warsaw,university-of-warsaw,university-of-warsaw,ORG
+WARSAW,4091374,1,1,,http://en.wikipedia.org/wiki/Warsaw_Airport,Warsaw Airport,warsaw-airport,warsaw-airport,UNK
+WARSAW,112404,282,310,22936;32908,"http://en.wikipedia.org/wiki/Warsaw,_Indiana","Warsaw, Indiana",warsaw-indiana,warsaw-indiana,GPE
+WARSAW,22858084,238,243,,"http://en.wikipedia.org/wiki/Warsaw,_California","Warsaw, California",warsaw-california,warsaw-california,UNK
+WARSAW,3967014,139,60,32908;22975;22936,http://en.wikipedia.org/wiki/Warsaw_Philharmonic_Orchestra,Warsaw Philharmonic Orchestra,warsaw-philharmonic-orchestra,warsaw-philharmonic-orchestra,UNK
+WARSAW,18746673,0,1,,"http://en.wikipedia.org/wiki/Warsaw,_IN_µSA","Warsaw, IN µSA",warsaw-in-µsa,warsaw-in-µsa,PER
+WARSAW,127877,48,42,,"http://en.wikipedia.org/wiki/Warsaw,_North_Carolina","Warsaw, North Carolina",warsaw-north-carolina,warsaw-north-carolina,GPE
+WARSAW,129059,62,71,32908;41212449,"http://en.wikipedia.org/wiki/Warsaw,_Ohio","Warsaw, Ohio",warsaw-ohio,warsaw-ohio,GPE
+WARSAW,1028194,1,31,32908;22936,http://en.wikipedia.org/wiki/Warsaw_School_(mathematics),Warsaw School,warsaw-school,warsaw-school-mathematics,UNK
+WARSAW,260198,31,68,32908;260197;22936,"http://en.wikipedia.org/wiki/Warsaw,_New_York","Warsaw, New York",warsaw-new-york,warsaw-new-york,GPE
+WARSAW,260197,63,57,32908;260198;650427,"http://en.wikipedia.org/wiki/Warsaw_(village),_New_York","Warsaw (village), New York",warsaw-village-new-york,warsaw-village-new-york,GPE
+WARSAW,867865,785,470,32908;22975;21133;4329310,http://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising,Warsaw Ghetto Uprising,warsaw-ghetto-uprising,warsaw-ghetto-uprising,UNK
+WARSAW,137739,326,277,115116,"http://en.wikipedia.org/wiki/Warsaw,_Virginia","Warsaw, Virginia",warsaw-virginia,warsaw-virginia,GPE
+WARSAW,121578,38,58,25139728;141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Rice_County,_Minnesota","Warsaw Township, Rice County, Minnesota",warsaw-township-rice-county-minnesota,warsaw-township-rice-county-minnesota,GPE
+WARSAW,4244153,30,36,22975;22936,"http://en.wikipedia.org/wiki/Warsaw,_North_Dakota","Warsaw, North Dakota",warsaw-north-dakota,warsaw-north-dakota,GPE
+WARSAW,132787,45,56,141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Jefferson_County,_Pennsylvania","Warsaw Township, Jefferson County, Pennsylvania",warsaw-township-jefferson-county-pennsylvania,warsaw-township-jefferson-county-pennsylvania,GPE
+WARSAW,10280546,1,1,,"http://en.wikipedia.org/wiki/Warsaw,_IN_μSA","Warsaw, IN μSA",warsaw-in-μsa,warsaw-in-μsa,PER
+Russian,25391,96899,1757,1526308;6095;13083;6840469;13311485;37160847;2495469;11555574;28878684;19004;21133;406573;22975;22936;2794281;588941;25702;25431;25391;25127146;32908;316936;525972;525971;2277815;9117496;3258511;9384268;1297520;59510;431579;4776201;21805600;1338528;6796762;27532914;10892530;12556065;2437139;21208262;10761758;1024058;20611504;7873254;2012490;771860;520754;3821983;106409;5237926;21322882;6631785;233596;23278520;737701;2818394;25230692;18020135;4091317;1489122,http://en.wikipedia.org/wiki/Russia,Russia,russia,russia,GPE
+Russian,8280942,11,6,,http://en.wikipedia.org/wiki/Russian_Mountains,Russian Mountains,russian-mountains,russian-mountains,UNK
+Russian,1489122,180,35,2012490;25391,http://en.wikipedia.org/wiki/Russian_Museum,Russian Museum,russian-museum,russian-museum,UNK
+Russian,481569,36,34,,http://en.wikipedia.org/wiki/Russian_dressing,Russian dressing,russian-dressing,russian-dressing,UNK
+Russian,737701,250,230,20611504;19004;2495469;23278520;431579;25391,http://en.wikipedia.org/wiki/1993_Russian_constitutional_crisis,1993 Russian constitutional crisis,1993-russian-constitutional-crisis,1993-russian-constitutional-crisis,UNK
+Russian,1297520,101,114,25391,"http://en.wikipedia.org/wiki/Russian_Hill,_San_Francisco","Russian Hill, San Francisco",russian-hill-san-francisco,russian-hill-san-francisco,UNK
+Russian,13311485,3,78,25391,http://en.wikipedia.org/wiki/Russian_Rugby_League,Russian Rugby League,russian-rugby-league,russian-rugby-league,UNK
+Russian,2012490,439,923,5237926;25702;2437139;406573;1338528;22936;106409;1024058;25431;25391;20611504;233596;2794281;59510;1489122;21208262,http://en.wikipedia.org/wiki/Russian_culture,Russian culture,russian-culture,russian-culture,UNK
+Russian,42612382,2,5,,"http://en.wikipedia.org/wiki/Russian_Church,_Geneva","Russian Church, Geneva",russian-church-geneva,russian-church-geneva,UNK
+Russian,233596,820,442,635098;5237926;23278520;2012490;316936;25702;2437139;406573;3821983;1338528;4091317;106409;1024058;25431;25391;19004;20611504;59510,http://en.wikipedia.org/wiki/Russian_ruble,Russian ruble,russian-ruble,russian-ruble,UNK
+Russian,25431,47755,624,1338528;10892530;1526308;6095;838610;2437139;38624095;2495469;1024058;20611504;19004;406573;22975;22936;2012490;25702;25431;25391;25127146;520754;106409;5237926;33800;316936;525972;525971;21322882;2398572;2277815;233596;9117496;6080500;3258511;23278520;9384268;2036528;2818394;59510;431579;4091317;21805600,http://en.wikipedia.org/wiki/Russian_language,Russian language,russian-language,russian-language,UNK
+Russian,12556065,3,11,25391,"http://en.wikipedia.org/wiki/Russian_White,_Black_and_Tabby","Russian White, Black and Tabby",russian-white-black-and-tabby,russian-white-black-and-tabby,UNK
+Russian,6840469,492,91,25391;20611504,http://en.wikipedia.org/wiki/Russian_River_(California),Russian River,russian-river,russian-river-california,UNK
+Russian,2495469,84,246,19004;6095;10892530;737701;23278520;25431;18020135;25391,http://en.wikipedia.org/wiki/Russian_National_Unity,Russian National Unity,russian-national-unity,russian-national-unity,UNK
+Russian,1024058,32,224,19004;233596;2012490;59510;1024058;25431;25391,http://en.wikipedia.org/wiki/Russian_jokes,Russian jokes,russian-jokes,russian-jokes,UNK
+Russian,59510,4384,502,2012490;25702;1338528;106409;1024058;25431;25391;5237926;2437139;19004;20611504;233596;11471837;23278520;431579;525972;6095;21208262;22936,http://en.wikipedia.org/wiki/Russians,Russians,russians,russians,UNK
+Russian,38545714,1,6,,http://en.wikipedia.org/wiki/Russian_Mountains_(Alaska),Russian Mountains,russian-mountains,russian-mountains-alaska,UNK
+Russian,2794281,91,98,2012490;25391,http://en.wikipedia.org/wiki/Russian_icons,Russian icons,russian-icons,russian-icons,UNK
+Russian,4652128,10,11,2437139,"http://en.wikipedia.org/wiki/Russian_Church,_Sofia","Russian Church, Sofia",russian-church-sofia,russian-church-sofia,UNK
+Russian,316936,160,119,838610;233596;316936;22975;106409;25431;25391,http://en.wikipedia.org/wiki/Russian_alphabet,Russian alphabet,russian-alphabet,russian-alphabet,UNK
+Russian,838610,69,75,106409;316936;25431,http://en.wikipedia.org/wiki/Russian_orthography,Russian orthography,russian-orthography,russian-orthography,UNK
+Russian,966902,23,30,,http://en.wikipedia.org/wiki/Russian_River_(Alaska),Russian River,russian-river,russian-river-alaska,UNK
+Russian,2036528,144,149,1313740;25431;2036528,http://en.wikipedia.org/wiki/Russian_Wikipedia,Russian Wikipedia,russian-wikipedia,russian-wikipedia,UNK
+Russian,5237926,240,330,4091317;22936;11555574;106409;25431;25391;20611504;19004;233596;2012490;25702;2437139;59510;1338528,http://en.wikipedia.org/wiki/Russian_opera,Russian opera,russian-opera,russian-opera,GPE
+Russian,2437139,295,395,4091317;5237926;106409;25431;25391;20611504;19004;233596;4652128;2012490;25702;59510;1338528,http://en.wikipedia.org/wiki/Russian_architecture,Russian architecture,russian-architecture,russian-architecture,UNK
+Russian,7104363,12,59,,http://en.wikipedia.org/wiki/Russian_Party,Russian Party,russian-party,russian-party,UNK
+Russian,37252162,0,29,,http://en.wikipedia.org/wiki/Russian_Market,Russian Market,russian-market,russian-market,UNK
+Russian,406573,799,364,23278520;2012490;22936;25431;25391;19004;233596,http://en.wikipedia.org/wiki/Russian_Federal_Space_Agency,Russian Federal Space Agency,russian-federal-space-agency,russian-federal-space-agency,UNK
+Russian,21322882,11,4,25431;25391,http://en.wikipedia.org/wiki/Russian_Journal_(website),Russian Journal,russian-journal,russian-journal-website,UNK
+Russian,106409,642,438,5237926;2012490;316936;25702;2437139;1338528;4091317;25431;25391;19004;20611504;838610;233596;59510,http://en.wikipedia.org/wiki/Russian_literature,Russian literature,russian-literature,russian-literature,UNK
+Dariusz Rosati,776028,837,843,32908;22936,http://en.wikipedia.org/wiki/Dariusz_Rosati,Dariusz Rosati,dariusz-rosati,dariusz-rosati,PER
+Gazeta Wyborcza,657945,559,52,22975;22936;32908;657945,http://en.wikipedia.org/wiki/Gazeta_Wyborcza,Gazeta Wyborcza,gazeta-wyborcza,gazeta-wyborcza,UNK
+Rosati,776028,837,843,32908;22936,http://en.wikipedia.org/wiki/Dariusz_Rosati,Dariusz Rosati,dariusz-rosati,dariusz-rosati,PER
+Yeltsin,23278520,1315,798,23278520;431579;520754;737701;3821983;25431;25391;6095;21133;59510;406573;2495469;20611504;233596,http://en.wikipedia.org/wiki/Boris_Yeltsin,Boris Yeltsin,boris-yeltsin,boris-yeltsin,PER
+Russia,25391,96899,1757,1526308;6095;13083;6840469;13311485;37160847;2495469;11555574;28878684;19004;21133;406573;22975;22936;2794281;588941;25702;25431;25391;25127146;32908;316936;525972;525971;2277815;9117496;3258511;9384268;1297520;59510;431579;4776201;21805600;1338528;6796762;27532914;10892530;12556065;2437139;21208262;10761758;1024058;20611504;7873254;2012490;771860;520754;3821983;106409;5237926;21322882;6631785;233596;23278520;737701;2818394;25230692;18020135;4091317;1489122,http://en.wikipedia.org/wiki/Russia,Russia,russia,russia,GPE
+Russia,25127146,1379,474,25431;25391;771860;22936;19004,http://en.wikipedia.org/wiki/Russia_national_football_team,Russia national football team,russia-national-football-team,russia-national-football-team,ORG
+Russia,7873254,176,179,19004;13607661;25391,http://en.wikipedia.org/wiki/Russian_Chess_Championship,Russian Chess Championship,russian-chess-championship,russian-chess-championship,UNK
+Russia,121404,79,101,,"http://en.wikipedia.org/wiki/Russia_Township,_Polk_County,_Minnesota","Russia Township, Polk County, Minnesota",russia-township-polk-county-minnesota,russia-township-polk-county-minnesota,GPE
+Russia,126524,53,68,126523,"http://en.wikipedia.org/wiki/Russia,_New_York","Russia, New York",russia-new-york,russia-new-york,GPE
+Russia,18020135,97,115,20611504;10892530;18020135;2495469;25391,http://en.wikipedia.org/wiki/Greater_Russia,Greater Russia,greater-russia,greater-russia,UNK
+Russia,1526308,569,334,22936;1526308;25431;25391;20611504;588941;6095,http://en.wikipedia.org/wiki/Russian_Air_Force,Russian Air Force,russian-air-force,russian-air-force,ORG
+Russia,11471837,31,16,19004;59510;525971,"http://en.wikipedia.org/wiki/Little_Russia,_London","Little Russia, London",little-russia-london,little-russia-london,GPE
+Russia,4091317,202,519,4091317;5237926;106409;25431;25391;20611504;19004;233596;25702;2437139;1338528,http://en.wikipedia.org/wiki/LGBT_rights_in_Russia,LGBT rights in Russia,lgbt-rights-in-russia,lgbt-rights-in-russia,UNK
+Russia,20611504,12186,703,520754;1338528;106409;5237926;32908;1526308;525971;2437139;233596;6840469;635098;20611504;19004;23278520;22975;22936;2012490;25702;737701;25431;25391;59510;18020135;4091317,http://en.wikipedia.org/wiki/Russian_Empire,Russian Empire,russian-empire,russian-empire,GPE
+Russia,525972,31,17,13083;10892530;25391;25431;59510;525971,http://en.wikipedia.org/wiki/Great_Russia,Great Russia,great-russia,great-russia,UNK
+Russia,2818394,130,157,19004;25431;2818394;25391,http://en.wikipedia.org/wiki/Russia_Tower,Russia Tower,russia-tower,russia-tower,UNK
+Russia,129821,48,76,,"http://en.wikipedia.org/wiki/Russia,_Ohio","Russia, Ohio",russia-ohio,russia-ohio,GPE
+Russia,3821983,291,173,19004;233596;520754;6095;23278520;3821983;431579;25391,http://en.wikipedia.org/wiki/1998_Russian_financial_crisis,1998 Russian financial crisis,1998-russian-financial-crisis,1998-russian-financial-crisis,UNK
+Russia,21805600,0,70,19004;25431;25391,http://en.wikipedia.org/wiki/Russia-K,Russia-K,russia-k,russia-k,ORG
+Russia,588941,130,294,19004;21133;1526308;25391,http://en.wikipedia.org/wiki/Russia_and_weapons_of_mass_destruction,Russia and weapons of mass destruction,russia-and-weapons-of-mass-destruction,russia-and-weapons-of-mass-destruction,UNK
+Russia,9384268,7,195,19004;25431;25391,http://en.wikipedia.org/wiki/Russia-1,Russia-1,russia-1,russia-1,UNK
+Russia,21599323,3,24,,http://en.wikipedia.org/wiki/Mr_Russia,Mr Russia,mr-russia,mr-russia,UNK
+Russia,1338528,556,124,4091317;5237926;106409;25431;25391;20611504;19004;233596;2012490;25702;2437139;59510,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+Russia,10761758,242,162,19004;25391;10761758,http://en.wikipedia.org/wiki/Church_of_Scientology_Moscow_v._Russia,Church of Scientology Moscow v. Russia,church-of-scientology-moscow-v-russia,church-of-scientology-moscow-v-russia,UNK
+Russia,25702,339,588,4091317;22936;5237926;106409;25431;25391;20611504;19004;233596;28878684;2012490;25702;2437139;59510;1338528,http://en.wikipedia.org/wiki/Geography_of_Russia,Geography of Russia,geography-of-russia,geography-of-russia,UNK
+Russia,525971,186,136,20611504;525972;22936;11471837;25431;25391,http://en.wikipedia.org/wiki/Little_Russia,Little Russia,little-russia,little-russia,UNK
+Russia,10892530,33,74,10892530;19004;25431;18020135;2495469;25391;525972,http://en.wikipedia.org/wiki/Great_Russia_(political_party),Great Russia,great-russia,great-russia-political-party,UNK
+Moscow,19004,23220,1147,520754;3821983;1338528;106409;6796762;5237926;32908;33800;10892530;6095;2398572;2277815;2437139;233596;11471837;4329310;21208262;10761758;37160847;2495469;1024058;20611504;19004;9384268;7873254;406573;22936;53542;588941;25702;737701;28796442;25431;2818394;25391;59510;25230692;431579;4091317;25127146;4019738;21805600,http://en.wikipedia.org/wiki/Moscow,Moscow,moscow,moscow,GPE
+Moscow,38624095,77,97,25431,http://en.wikipedia.org/wiki/Moscow_(Tchaikovsky),Moscow,moscow,moscow-tchaikovsky,UNK
+Moscow,15811914,15,29,,"http://en.wikipedia.org/wiki/Moscow,_Mississippi","Moscow, Mississippi",moscow-mississippi,moscow-mississippi,GPE
+Moscow,37256686,38,56,120069,"http://en.wikipedia.org/wiki/Moscow,_Minnesota","Moscow, Minnesota",moscow-minnesota,moscow-minnesota,UNK
+Moscow,5900922,40,68,4202847,"http://en.wikipedia.org/wiki/Moscow,_Camden_and_San_Augustine_Railroad","Moscow, Camden and San Augustine Railroad",moscow-camden-and-san-augustine-railroad,moscow-camden-and-san-augustine-railroad,UNK
+Moscow,12567323,4,9,,"http://en.wikipedia.org/wiki/Moscow,_Virginia","Moscow, Virginia",moscow-virginia,moscow-virginia,UNK
+Moscow,24886469,0,1,,"http://en.wikipedia.org/wiki/Moscow,_ID_µSA","Moscow, ID µSA",moscow-id-µsa,moscow-id-µsa,PER
+Moscow,4202847,23,30,5900922,"http://en.wikipedia.org/wiki/Moscow,_Texas","Moscow, Texas",moscow-texas,moscow-texas,GPE
+Moscow,132851,82,76,53542,"http://en.wikipedia.org/wiki/Moscow,_Pennsylvania","Moscow, Pennsylvania",moscow-pennsylvania,moscow-pennsylvania,GPE
+Moscow,3631681,27,116,,"http://en.wikipedia.org/wiki/Moscow,_West_Virginia","Moscow, West Virginia",moscow-west-virginia,moscow-west-virginia,GPE
+Moscow,6796762,1,17,19004;53542;25391,http://en.wikipedia.org/wiki/Moscow_Airport,Moscow Airport,moscow-airport,moscow-airport,UNK
+Moscow,20563791,50,63,,"http://en.wikipedia.org/wiki/Moscow,_Alabama","Moscow, Alabama",moscow-alabama,moscow-alabama,GPE
+Moscow,135166,33,55,,"http://en.wikipedia.org/wiki/Moscow,_Tennessee","Moscow, Tennessee",moscow-tennessee,moscow-tennessee,GPE
+Moscow,2398572,1,4,25431;19004,http://en.wikipedia.org/wiki/Greater_Moscow,Greater Moscow,greater-moscow,greater-moscow,UNK
+Moscow,2277815,278,159,19004;22936;25431;25391,http://en.wikipedia.org/wiki/FC_Moscow,FC Moscow,fc-moscow,fc-moscow,ORG
+Moscow,2620677,1,11,,"http://en.wikipedia.org/wiki/Moscow,_India","Moscow, India",moscow-india,moscow-india,GPE
+Moscow,114960,7,215,,"http://en.wikipedia.org/wiki/Moscow,_Kansas","Moscow, Kansas",moscow-kansas,moscow-kansas,GPE
+Moscow,6080500,107,122,25431,"http://en.wikipedia.org/wiki/Moscow,_Cheryomushki","Moscow, Cheryomushki",moscow-cheryomushki,moscow-cheryomushki,UNK
+Moscow,14908097,20,26,,"http://en.wikipedia.org/wiki/Moscow,_Vermont","Moscow, Vermont",moscow-vermont,moscow-vermont,UNK
+Moscow,28796442,38,46,19004,http://en.wikipedia.org/wiki/Moscow_Railway,Moscow Railway,moscow-railway,moscow-railway,UNK
+Moscow,16165081,0,7,117582;120069;41713012,http://en.wikipedia.org/wiki/Moscow_Township,Moscow Township,moscow-township,moscow-township,GPE
+Moscow,41713012,5,38,16165081;18057555,"http://en.wikipedia.org/wiki/Moscow_Township,_Muscatine_County,_Iowa","Moscow Township, Muscatine County, Iowa",moscow-township-muscatine-county-iowa,moscow-township-muscatine-county-iowa,GPE
+Moscow,129020,52,71,,"http://en.wikipedia.org/wiki/Moscow,_Ohio","Moscow, Ohio",moscow-ohio,moscow-ohio,GPE
+Moscow,53542,790,241,132851;19004;18057555;6796762,"http://en.wikipedia.org/wiki/Moscow,_Idaho","Moscow, Idaho",moscow-idaho,moscow-idaho,GPE
+Moscow,120069,41,58,16165081;37256686,"http://en.wikipedia.org/wiki/Moscow_Township,_Freeborn_County,_Minnesota","Moscow Township, Freeborn County, Minnesota",moscow-township-freeborn-county-minnesota,moscow-township-freeborn-county-minnesota,GPE
+Moscow,116186,66,78,,"http://en.wikipedia.org/wiki/Moscow,_Maine","Moscow, Maine",moscow-maine,moscow-maine,GPE
+Moscow,4019738,4,41,19004,"http://en.wikipedia.org/wiki/Moscow,_Scotland","Moscow, Scotland",moscow-scotland,moscow-scotland,GPE
+Moscow,31955789,22,38,,"http://en.wikipedia.org/wiki/Moscow,_Arkansas","Moscow, Arkansas",moscow-arkansas,moscow-arkansas,UNK
+Moscow,17470934,8,11,,"http://en.wikipedia.org/wiki/Moscow,_Belgium","Moscow, Belgium",moscow-belgium,moscow-belgium,UNK
+Moscow,27532914,13,41,25391,http://en.wikipedia.org/wiki/Little_Moscow,Little Moscow,little-moscow,little-moscow,UNK
+Moscow,14369204,35,45,,"http://en.wikipedia.org/wiki/Moscow,_Indiana","Moscow, Indiana",moscow-indiana,moscow-indiana,GPE
+Moscow,1250523,0,11,,http://en.wikipedia.org/wiki/MoSCoW_method,MoSCoW method,moscow-method,moscow-method,UNK
+Moscow,32712606,46,62,139134,"http://en.wikipedia.org/wiki/Moscow_(community),_Wisconsin","Moscow (community), Wisconsin",moscow-community-wisconsin,moscow-community-wisconsin,GPE
+Moscow,39550847,21,32,,http://en.wikipedia.org/wiki/Governor_Moscow,Governor Moscow,governor-moscow,governor-moscow,UNK
+Moscow,139134,49,67,32712606,"http://en.wikipedia.org/wiki/Moscow,_Wisconsin","Moscow, Wisconsin",moscow-wisconsin,moscow-wisconsin,GPE
+Moscow,18057555,42,51,41713012;53542,"http://en.wikipedia.org/wiki/Moscow,_Iowa","Moscow, Iowa",moscow-iowa,moscow-iowa,GPE
+Moscow,15871574,0,2,,http://en.wikipedia.org/wiki/Moscow_Province,Moscow Province,moscow-province,moscow-province,UNK
+Moscow,21746015,62,75,937611,"http://en.wikipedia.org/wiki/Moscow,_Maryland","Moscow, Maryland",moscow-maryland,moscow-maryland,GPE
+Moscow,25230692,53,101,19004;22936;25391,http://en.wikipedia.org/wiki/Moscow_Ladies_Open,Moscow Ladies Open,moscow-ladies-open,moscow-ladies-open,UNK
+Moscow,117582,33,50,16165081,"http://en.wikipedia.org/wiki/Moscow_Township,_Michigan","Moscow Township, Michigan",moscow-township-michigan,moscow-township-michigan,GPE
+Moscow,37160847,42,23,19004;25391,http://en.wikipedia.org/wiki/Moscow_Bridge,Moscow Bridge,moscow-bridge,moscow-bridge,UNK
+Moscow,21064485,2,2,,http://en.wikipedia.org/wiki/Moscow_District,Moscow District,moscow-district,moscow-district,UNK
+Moscow,13607661,139,126,7873254,http://en.wikipedia.org/wiki/Moscow_City_Chess_Championship,Moscow City Chess Championship,moscow-city-chess-championship,moscow-city-chess-championship,UNK
+Boris Yeltsin,23278520,1315,798,23278520;431579;520754;737701;3821983;25431;25391;6095;21133;59510;406573;2495469;20611504;233596,http://en.wikipedia.org/wiki/Boris_Yeltsin,Boris Yeltsin,boris-yeltsin,boris-yeltsin,PER
+Moscow,25391,96899,1757,1526308;6095;13083;6840469;13311485;37160847;2495469;11555574;28878684;19004;21133;406573;22975;22936;2794281;588941;25702;25431;25391;25127146;32908;316936;525972;525971;2277815;9117496;3258511;9384268;1297520;59510;431579;4776201;21805600;1338528;6796762;27532914;10892530;12556065;2437139;21208262;10761758;1024058;20611504;7873254;2012490;771860;520754;3821983;106409;5237926;21322882;6631785;233596;23278520;737701;2818394;25230692;18020135;4091317;1489122,http://en.wikipedia.org/wiki/Russia,Russia,russia,russia,GPE
+NATO,21133,7923,733,520754;33800;23278520;21133;11996549;7556805;22936;588941;25391;1613333;59045;867865;3812445,http://en.wikipedia.org/wiki/NATO,NATO,nato,nato,ORG
+NATO,3812445,99,55,21133;3812445,http://en.wikipedia.org/wiki/Major_non-NATO_ally,Major non-NATO ally,major-non-nato-ally,major-non-nato-ally,ORG
+NATO,9117496,5,9,25431;25391,http://en.wikipedia.org/wiki/N.A.T.o._(singer),N.A.T.o.,nato,nato-singer,UNK
+NATO,1613333,75,82,21133,http://en.wikipedia.org/wiki/.nato,.nato,nato,nato,UNK
+NATO,11996549,11,13,21133,http://en.wikipedia.org/wiki/NATO_School,NATO School,nato-school,nato-school,UNK
+NATO,17247005,122,136,,"http://en.wikipedia.org/wiki/Nato,_Madagascar","Nato, Madagascar",nato-madagascar,nato-madagascar,GPE
+NATO,240709,5,44,,http://en.wikipedia.org/wiki/Nato.0+55+3d,Nato.0+55+3d,nato0-55-3d,nato0-55-3d,UNK
+NATO,7556805,267,241,21133,http://en.wikipedia.org/wiki/United_States_Permanent_Representative_to_NATO,United States Permanent Representative to NATO,united-states-permanent-representative-to-nato,united-states-permanent-representative-to-nato,UNK
+NATO,59045,109,93,21133;59045,http://en.wikipedia.org/wiki/NATO_phonetic_alphabet,NATO phonetic alphabet,nato-phonetic-alphabet,nato-phonetic-alphabet,UNK
+NATO,27152117,2,3,,http://en.wikipedia.org/wiki/Natok,Natok,natok,natok,UNK
+NATO,17502363,3,3,,http://en.wikipedia.org/wiki/Nato_wood,Nato wood,nato-wood,nato-wood,PER
+Poland,22936,115021,1647,13083;28878684;4244153;19004;21133;3074893;22975;22936;25702;25431;25391;32908;525971;2277815;59510;10339758;21208262;635098;636823;650427;10082478;40620438;112404;1107413;1526308;11555574;406573;25127146;42187354;4329310;15335256;657945;9387653;3967014;20611504;1028194;2012490;771860;776028;5237926;1225807;260198;25230692,http://en.wikipedia.org/wiki/Poland,Poland,poland,poland,GPE
+Poland,126523,58,56,126524;126255;141360,"http://en.wikipedia.org/wiki/Poland,_Herkimer_County,_New_York","Poland, Herkimer County, New York",poland-herkimer-county-new-york,poland-herkimer-county-new-york,GPE
+Poland,115861,87,98,,"http://en.wikipedia.org/wiki/Poland,_Maine","Poland, Maine",poland-maine,poland-maine,GPE
+Poland,37910099,204,218,,http://en.wikipedia.org/wiki/Poland_(sculpture),Poland,poland,poland-sculpture,UNK
+Poland,3074893,567,26,635098;22975;22936;3074893;636823,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1385–1569),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1385–1569,GPE
+Poland,13083,591,81,22975;22936;25391;525972;1225807;10082478,http://en.wikipedia.org/wiki/Greater_Poland,Greater Poland,greater-poland,greater-poland,GPE
+Poland,10339758,3,14,22975;22936,"http://en.wikipedia.org/wiki/Poland,_Kiribati","Poland, Kiribati",poland-kiribati,poland-kiribati,GPE
+Poland,635098,9,135,20611504;636823;635098;233596;32908;22975;22936;3074893,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1916–18),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1916–18,GPE
+Poland,2521075,49,66,65865,"http://en.wikipedia.org/wiki/Poland_Township,_Mahoning_County,_Ohio","Poland Township, Mahoning County, Ohio",poland-township-mahoning-county-ohio,poland-township-mahoning-county-ohio,GPE
+Poland,17716699,63,83,,"http://en.wikipedia.org/wiki/Poland,_Indiana","Poland, Indiana",poland-indiana,poland-indiana,GPE
+Poland,141360,0,2,126255;126523,"http://en.wikipedia.org/wiki/Poland,_New_York","Poland, New York",poland-new-york,poland-new-york,UNK
+Poland,771860,2358,602,25391;25127146;32908;22975;22936,http://en.wikipedia.org/wiki/Poland_national_football_team,Poland national football team,poland-national-football-team,poland-national-football-team,UNK
+Poland,14616196,30,41,,"http://en.wikipedia.org/wiki/Poland_Township,_Buena_Vista_County,_Iowa","Poland Township, Buena Vista County, Iowa",poland-township-buena-vista-county-iowa,poland-township-buena-vista-county-iowa,GPE
+Poland,10082478,464,208,13083;22936;10082478,http://en.wikipedia.org/wiki/Flight_and_expulsion_of_Germans_from_Poland_during_and_after_World_War_II,Flight and expulsion of Germans from Poland during and after World War II,flight-and-expulsion-of-germans-from-poland-during-and-after-world-war-ii,flight-and-expulsion-of-germans-from-poland-during-and-after-world-war-ii,GPE
+Poland,3965238,1,6,,http://en.wikipedia.org/wiki/Little_Poland,Little Poland,little-poland,little-poland,GPE
+Poland,28878684,182,266,28878684;22975;22936;25702;33800;32908;25391,http://en.wikipedia.org/wiki/Geography_of_Poland,Geography of Poland,geography-of-poland,geography-of-poland,UNK
+Poland,65865,89,70,2521075,"http://en.wikipedia.org/wiki/Poland,_Ohio","Poland, Ohio",poland-ohio,poland-ohio,GPE
+Poland,12552161,8,9,,http://en.wikipedia.org/wiki/Poland_China,Poland China,poland-china,poland-china,ORG
+Poland,636823,306,32,635098;22975;22936;3074893,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1025–1385),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1025–1385,GPE
+Poland,27482253,66,80,,"http://en.wikipedia.org/wiki/Poland,_Wisconsin","Poland, Wisconsin",poland-wisconsin,poland-wisconsin,GPE
+Poland,126255,72,81,126523;141360,"http://en.wikipedia.org/wiki/Poland,_Chautauqua_County,_New_York","Poland, Chautauqua County, New York",poland-chautauqua-county-new-york,poland-chautauqua-county-new-york,GPE
+Western,21133,7923,733,520754;33800;23278520;21133;11996549;7556805;22936;588941;25391;1613333;59045;867865;3812445,http://en.wikipedia.org/wiki/NATO,NATO,nato,nato,ORG
+Western,937611,252,365,937611;21746015,http://en.wikipedia.org/wiki/Western_Maryland,Western Maryland,western-maryland,western-maryland,UNK
+Western,1404515,138,148,1258995,http://en.wikipedia.org/wiki/Western_Province_(Kenya),Western Province,western-province,western-province-kenya,UNK
+Western,1351168,772,693,,http://en.wikipedia.org/wiki/Western_Pennsylvania,Western Pennsylvania,western-pennsylvania,western-pennsylvania,UNK
+Western,2188096,178,53,1258995,http://en.wikipedia.org/wiki/Western_Province_(Solomon_Islands),Western Province,western-province,western-province-solomon-islands,UNK
+Western,3801476,154,152,65758,http://en.wikipedia.org/wiki/The_Western,The Western,the-western,the-western,ORG
+Western,7173708,7,26,65758,http://en.wikipedia.org/wiki/Florida_Western,Florida Western,florida-western,florida-western,UNK
+Western,262187,470,71,1258995,"http://en.wikipedia.org/wiki/Western_Province,_Sri_Lanka","Western Province, Sri Lanka",western-province-sri-lanka,western-province-sri-lanka,UNK
+Western,179578,2976,617,179578,http://en.wikipedia.org/wiki/Western_United_States,Western United States,western-united-states,western-united-states,ORG
+Western,2978812,276,136,,http://en.wikipedia.org/wiki/Western_India,Western India,western-india,western-india,UNK
+Western,2505674,3,9,,"http://en.wikipedia.org/wiki/Western_Hotel_(Ouray,_Colorado)",Western Hotel,western-hotel,western-hotel-ouray-colorado,UNK
+Western,1727697,123,27,,http://en.wikipedia.org/wiki/Western_Germany,Western Germany,western-germany,western-germany,UNK
+Western,2175959,65,41,,http://en.wikipedia.org/wiki/Western_Area,Western Area,western-area,western-area,UNK
+Western,445136,242,138,707479,http://en.wikipedia.org/wiki/Western_Oregon,Western Oregon,western-oregon,western-oregon,UNK
+Western,5019655,273,173,,http://en.wikipedia.org/wiki/Western_Association,Western Association,western-association,western-association,ORG
+Western,650427,807,485,260197;650427;1069034;22936,http://en.wikipedia.org/wiki/Western_New_York,Western New York,western-new-york,western-new-york,UNK
+Western,8637868,231,155,,http://en.wikipedia.org/wiki/Western_China,Western China,western-china,western-china,UNK
+Western,5858305,1,6,1370140,http://en.wikipedia.org/wiki/Western_District,Western District,western-district,western-district,UNK
+Western,9306086,0,8,,http://en.wikipedia.org/wiki/Western_Park,Western Park,western-park,western-park,UNK
+Western,4275568,32,50,,http://en.wikipedia.org/wiki/Western_Tokyo,Western Tokyo,western-tokyo,western-tokyo,UNK
+Western,1042795,10,6,,http://en.wikipedia.org/wiki/Western_Division_(New_South_Wales),Western Division,western-division,western-division-new-south-wales,UNK
+Western,3882762,1,6,33613,http://en.wikipedia.org/wiki/Western_(country_subdivision),Western,western,western-country-subdivision,PER
+Western,1205725,527,123,,http://en.wikipedia.org/wiki/Western_Montana,Western Montana,western-montana,western-montana,PER
+Western,33613,12610,445,33613;3882762,http://en.wikipedia.org/wiki/Western_Australia,Western Australia,western-australia,western-australia,UNK
+Western,707479,445,130,445136,http://en.wikipedia.org/wiki/Western_Washington,Western Washington,western-washington,western-washington,UNK
+Western,65758,4755,355,33800;3801476;7173708,http://en.wikipedia.org/wiki/Western_(genre),Western,western,western-genre,UNK
+Western,3258511,127,102,25431;25391,http://en.wikipedia.org/wiki/Western_Ukraine,Western Ukraine,western-ukraine,western-ukraine,GPE
+Western,11265829,52,19,,http://en.wikipedia.org/wiki/Western_State_(Nigeria),Western State,western-state,western-state-nigeria,UNK
+Western,5849338,442,412,5849338,http://en.wikipedia.org/wiki/Western_North_Carolina,Western North Carolina,western-north-carolina,western-north-carolina,UNK
+Western,1370140,128,74,5858305,http://en.wikipedia.org/wiki/Western_District_(Victoria),Western District,western-district,western-district-victoria,UNK
+Western,4761632,120,130,,http://en.wikipedia.org/wiki/Western_University_(Azerbaijan),Western University,western-university,western-university-azerbaijan,ORG
+Western,8422617,8,22,,http://en.wikipedia.org/wiki/Western_(airline),Western,western,western-airline,UNK
+Western,1258995,1,12,1857918;2188096;262187;1404515,http://en.wikipedia.org/wiki/Western_Province,Western Province,western-province,western-province,GPE
+Western,7007340,0,6,,http://en.wikipedia.org/wiki/Western_Islands,Western Islands,western-islands,western-islands,UNK
+Western,3726532,65,38,,http://en.wikipedia.org/wiki/Western_A.F.C.,Western A.F.C.,western-afc,western-afc,UNK
+Western,33800,3067,279,25431;28878684;32908;19004;65758;21133;21208262,http://en.wikipedia.org/wiki/Western_Europe,Western Europe,western-europe,western-europe,UNK
+Western,1857918,118,63,1258995,http://en.wikipedia.org/wiki/Western_Province_(Papua_New_Guinea),Western Province,western-province,western-province-papua-new-guinea,UNK
+Western,1026536,1,12,,http://en.wikipedia.org/wiki/Western_Region,Western Region,western-region,western-region,UNK
+Western,7299764,7,85,,http://en.wikipedia.org/wiki/Western_Street_(Hong_Kong),Western Street,western-street,western-street-hong-kong,UNK
+Western,2490593,86,99,,http://en.wikipedia.org/wiki/Western_Market,Western Market,western-market,western-market,UNK
+Western,21208262,1312,518,2012490;25391;59510;21208262;22936;33800;19004,http://en.wikipedia.org/wiki/Western_culture,Western culture,western-culture,western-culture,UNK
+Western,3400166,301,177,,http://en.wikipedia.org/wiki/Western_Sydney,Western Sydney,western-sydney,western-sydney,UNK
+Western,1069034,425,282,650427,http://en.wikipedia.org/wiki/Western_Massachusetts,Western Massachusetts,western-massachusetts,western-massachusetts,UNK
+Western,1225807,25,24,32908;13083;1225807;22936,http://en.wikipedia.org/wiki/Western_Institute,Western Institute,western-institute,western-institute,UNK
+Western,619272,277,68,619272,http://en.wikipedia.org/wiki/Western_Region_(Ghana),Western Region,western-region,western-region-ghana,GPE
+Yevgeny Primakov,520754,164,180,20611504;19004;21133;23278520;25431;3821983;25391,http://en.wikipedia.org/wiki/Yevgeny_Primakov,Yevgeny Primakov,yevgeny-primakov,yevgeny-primakov,PER

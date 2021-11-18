@@ -1,0 +1,283 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+PLO,885730,198,115,885730,http://en.wikipedia.org/wiki/Plot_twist,Plot twist,plot-twist,plot-twist,UNK
+PLO,668752,14,45,,http://en.wikipedia.org/wiki/Plok,Plok,plok,plok,UNK
+Arafat,34289,1251,641,56472;1114732;51884;4024423;609874;6293;18998750;24093;479389;9282173;597862;16043;46216;216248;40390174;38577;367929;803752;8087628;23267,http://en.wikipedia.org/wiki/Yasser_Arafat,Yasser Arafat,yasser-arafat,yasser-arafat,PER
+Arafat,40390174,31,28,34289;40390131;24093;1114732;9282173;8087628;39237,http://en.wikipedia.org/wiki/Yasser_Arafat_International_Airport,Yasser Arafat International Airport,yasser-arafat-international-airport,yasser-arafat-international-airport,UNK
+Netanyahu,56472,1336,636,39237;33610767;51884;14240977;4024423;24093;9282173;597862;34289;480907;16043;181296;2326241;46216;38577;367929;23267,http://en.wikipedia.org/wiki/Benjamin_Netanyahu,Benjamin Netanyahu,benjamin-netanyahu,benjamin-netanyahu,PER
+Netanyahu,480907,12,12,56472,http://en.wikipedia.org/wiki/Netanyahu,Netanyahu,netanyahu,netanyahu,UNK
+JERUSALEM,16043,11108,1385,17424;52949;8561774;16822;5893392;4024423;20911317;20804931;6104877;25955086;34289;31912046;2326241;367929;56472;39237;769536;1262063;36659099;6293;1340538;24093;597862;7387;6037917;38577;23267;374266;22027505;27989636;9282173;11146241;22364431;181296;127618;127514;8087628;706816;307916;38034307;1114732;33610767;24468785;3385909;844333;4174431;14687;20181397;16043;1515679;46216,http://en.wikipedia.org/wiki/Jerusalem,Jerusalem,jerusalem,jerusalem,UNK
+JERUSALEM,7484849,7,16,,http://en.wikipedia.org/wiki/Jerusalem_(British_band),Jerusalem,jerusalem,jerusalem-british-band,UNK
+JERUSALEM,129634,45,59,,"http://en.wikipedia.org/wiki/Jerusalem,_Ohio","Jerusalem, Ohio",jerusalem-ohio,jerusalem-ohio,GPE
+JERUSALEM,16822,793,371,17424;1114732;33610767;25955086;9282173;16043;1515679;6037917;38577;8087628;4024423,http://en.wikipedia.org/wiki/Kingdom_of_Jerusalem,Kingdom of Jerusalem,kingdom-of-jerusalem,kingdom-of-jerusalem,GPE
+JERUSALEM,21340414,90,65,,"http://en.wikipedia.org/wiki/Jerusalem,_Baltimore_County,_Maryland","Jerusalem, Baltimore County, Maryland",jerusalem-baltimore-county-maryland,jerusalem-baltimore-county-maryland,GPE
+JERUSALEM,28737300,4,24,46216;28737300,http://en.wikipedia.org/wiki/Jerusalem-Project,Jerusalem-Project,jerusalem-project,jerusalem-project,UNK
+JERUSALEM,39760889,165,13,,"http://en.wikipedia.org/wiki/Jerusalem_Church,_Copenhagen","Jerusalem Church, Copenhagen",jerusalem-church-copenhagen,jerusalem-church-copenhagen,UNK
+JERUSALEM,2455517,33,39,,http://en.wikipedia.org/wiki/Jerusalem_(Swedish_band),Jerusalem,jerusalem,jerusalem-swedish-band,UNK
+JERUSALEM,127618,55,65,16043,"http://en.wikipedia.org/wiki/Jerusalem,_New_York","Jerusalem, New York",jerusalem-new-york,jerusalem-new-york,GPE
+JERUSALEM,37617580,11,28,,http://en.wikipedia.org/wiki/Jerusalem_(EP),Jerusalem,jerusalem,jerusalem-ep,UNK
+JERUSALEM,41498870,1,16,,http://en.wikipedia.org/wiki/American_Jerusalem,American Jerusalem,american-jerusalem,american-jerusalem,UNK
+JERUSALEM,20181397,10,21,844333;16043,http://en.wikipedia.org/wiki/Greater_Jerusalem,Greater Jerusalem,greater-jerusalem,greater-jerusalem,ORG
+JERUSALEM,3385909,7,19,9282173;16043,http://en.wikipedia.org/wiki/Jerusalem_(computer_virus),Jerusalem,jerusalem,jerusalem-computer-virus,UNK
+JERUSALEM,8867780,88,119,,http://en.wikipedia.org/wiki/Jérusalem,Jérusalem,jerusalem,jerusalem,UNK
+JERUSALEM,374266,28,43,16043;9282173,"http://en.wikipedia.org/wiki/Jerusalem,_New_Zealand","Jerusalem, New Zealand",jerusalem-new-zealand,jerusalem-new-zealand,GPE
+JERUSALEM,4024423,192,160,33610767;597862;36659099;46216;34289;56472;844333;16822;16043;24093;1114732;9282173;367929;1027271;5893392;23267,http://en.wikipedia.org/wiki/Positions_on_Jerusalem,Positions on Jerusalem,positions-on-jerusalem,positions-on-jerusalem,UNK
+JERUSALEM,844333,344,37,33610767;36659099;14687;25955086;844333;16043;9282173;20181397;5893392;4024423;23267,http://en.wikipedia.org/wiki/Jerusalem_District,Jerusalem District,jerusalem-district,jerusalem-district,UNK
+JERUSALEM,23980716,50,31,,http://en.wikipedia.org/wiki/Jerusalem_(play),Jerusalem,jerusalem,jerusalem-play,UNK
+JERUSALEM,20804931,27,47,1340538;16043;9282173,http://en.wikipedia.org/wiki/Jerusalem_Foundation,Jerusalem Foundation,jerusalem-foundation,jerusalem-foundation,UNK
+JERUSALEM,5893392,142,81,844333;16043;24093;1114732;367929;46216;1027271;4024423;38577,http://en.wikipedia.org/wiki/Jerusalem_Governorate,Jerusalem Governorate,jerusalem-governorate,jerusalem-governorate,UNK
+JERUSALEM,24468785,36,5,16043,"http://en.wikipedia.org/wiki/Jerusalem,_Rhode_Island","Jerusalem, Rhode Island",jerusalem-rhode-island,jerusalem-rhode-island,UNK
+JERUSALEM,32153615,20,38,25955086,"http://en.wikipedia.org/wiki/Jerusalem,_Arkansas","Jerusalem, Arkansas",jerusalem-arkansas,jerusalem-arkansas,UNK
+JERUSALEM,6115457,140,57,,"http://en.wikipedia.org/wiki/Jerusalem_Township,_Lucas_County,_Ohio","Jerusalem Township, Lucas County, Ohio",jerusalem-township-lucas-county-ohio,jerusalem-township-lucas-county-ohio,GPE
+JERUSALEM,23290820,0,1,,http://en.wikipedia.org/wiki/Jerusalem_street,Jerusalem street,jerusalem-street,jerusalem-street,UNK
+JERUSALEM,36659099,31,8,844333;4024423;36659099;16043,http://en.wikipedia.org/wiki/Municipality_of_Jerusalem,Municipality of Jerusalem,municipality-of-jerusalem,municipality-of-jerusalem,UNK
+JERUSALEM,20911317,2,94,16043,"http://en.wikipedia.org/wiki/Jerusalem,_Lincolnshire","Jerusalem, Lincolnshire",jerusalem-lincolnshire,jerusalem-lincolnshire,GPE
+JERUSALEM,22027505,3,69,16043,http://en.wikipedia.org/wiki/Jerusalem_Church_(Berlin),Jerusalem Church,jerusalem-church,jerusalem-church-berlin,UNK
+JERUSALEM,7387,1123,392,9282173;16043,http://en.wikipedia.org/wiki/Cyril_of_Jerusalem,Cyril of Jerusalem,cyril-of-jerusalem,cyril-of-jerusalem,PER
+JERUSALEM,29036701,7,70,,http://en.wikipedia.org/wiki/Jerusalem_and_Dopesmoker,Jerusalem and Dopesmoker,jerusalem-and-dopesmoker,jerusalem-and-dopesmoker,UNK
+JERUSALEM,4174431,15,579,16043;33610767;1262063;46216;25955086;38577;9282173,http://en.wikipedia.org/wiki/Jerusalem_(Mendelssohn),Jerusalem,jerusalem,jerusalem-mendelssohn,ORG
+JERUSALEM,38034307,5,18,16043,http://en.wikipedia.org/wiki/Jerusalem_(Königsberg),Jerusalem,jerusalem,jerusalem-konigsberg,GPE
+JERUSALEM,2535734,131,135,,http://en.wikipedia.org/wiki/Jerusalem_The_Emanation_of_the_Giant_Albion,Jerusalem The Emanation of the Giant Albion,jerusalem-the-emanation-of-the-giant-albion,jerusalem-the-emanation-of-the-giant-albion,UNK
+Palestinian,1114732,5932,522,17424;546314;52949;30207616;16822;5893392;4024423;14240977;1027271;25955086;50953;479389;9282173;11146241;34289;181296;7980611;367929;8087628;1114732;33610767;7978072;40362576;24093;40390131;16043;1515679;6037917;46216;40390174;38577;803752;23267,http://en.wikipedia.org/wiki/Palestine,Palestine,palestine,palestine,UNK
+Palestinian,40390131,39,48,589227;6293;1114732;8087628;40390174,http://en.wikipedia.org/wiki/Palestinian_Airlines,Palestinian Airlines,palestinian-airlines,palestinian-airlines,ORG
+Palestinian,40362576,212,96,6037917;706816;24093;1114732;9282173;11146241;1027271;23267,http://en.wikipedia.org/wiki/Palestinian_Arabic,Palestinian Arabic,palestinian-arabic,palestinian-arabic,UNK
+Palestinian,32979951,1,6,,http://en.wikipedia.org/wiki/The_Palestinian,The Palestinian,the-palestinian,the-palestinian,UNK
+Palestinian,23267,2765,735,17424;52949;4024423;1027271;25955086;479389;9282173;11146241;34289;31912046;181296;367929;8087628;56472;1114732;39237;33610767;844333;40362576;6293;14687;24093;597862;16043;1515679;6037917;46216;38577,http://en.wikipedia.org/wiki/Palestinian_people,Palestinian people,palestinian-people,palestinian-people,UNK
+Palestinian,11146241,460,535,16043;1114732;1027271;38577;24093;40362576;8087628;23267,http://en.wikipedia.org/wiki/Palestinian_cuisine,Palestinian cuisine,palestinian-cuisine,palestinian-cuisine,UNK
+Palestinian,1027271,60,88,24093;1114732;9282173;11146241;46216;40362576;5893392;181296;4024423;23267,http://en.wikipedia.org/wiki/Definitions_of_Palestinian,Definitions of Palestinian,definitions-of-palestinian,definitions-of-palestinian,UNK
+Yasser Arafat,34289,1251,641,56472;1114732;51884;4024423;609874;6293;18998750;24093;479389;9282173;597862;16043;46216;216248;40390174;38577;367929;803752;8087628;23267,http://en.wikipedia.org/wiki/Yasser_Arafat,Yasser Arafat,yasser-arafat,yasser-arafat,PER
+Yasser Arafat,40390174,31,28,34289;40390131;24093;1114732;9282173;8087628;39237,http://en.wikipedia.org/wiki/Yasser_Arafat_International_Airport,Yasser Arafat International Airport,yasser-arafat-international-airport,yasser-arafat-international-airport,UNK
+Israeli,9282173,39459,898,2326241;769536;6293;1340538;7387;27293846;14083292;479389;8087628;1114732;844333;4174431;14687;16043;40390174;17424;16822;5741112;1027271;6104877;31912046;1262063;24093;23267;12236643;14240977;9282173;40362576;1515679;216248;8561774;34289;39237;597862;38577;803752;18998750;22364431;938680;7980611;13341685;46216;546314;52949;51884;4024423;20804931;25955086;367929;56472;610738;374266;27989636;181296;307916;33610767;5324800;3385909;5216051,http://en.wikipedia.org/wiki/Israel,Israel,israel,israel,GPE
+Israeli,367929,406,512,56472;1114732;39237;14687;24093;479389;9282173;597862;34289;16043;5893392;181296;2326241;46216;216248;367929;51884;8087628;4024423;23267,http://en.wikipedia.org/wiki/Israeli_West_Bank_barrier,Israeli West Bank barrier,israeli-west-bank-barrier,israeli-west-bank-barrier,UNK
+Israeli,5324800,5,10,9282173,http://en.wikipedia.org/wiki/Israeli_(newspaper),Israeli,israeli,israeli-newspaper,ORG
+Israeli,181296,1153,396,56472;1114732;1027271;39237;33610767;1262063;14687;25955086;9282173;52949;597862;16043;1515679;2326241;6037917;46216;367929;23267,http://en.wikipedia.org/wiki/Israelis,Israelis,israelis,israelis,UNK
+Israeli,5216051,201,188,9282173;39237,http://en.wikipedia.org/wiki/Israeli_military_decorations,Israeli military decorations,israeli-military-decorations,israeli-military-decorations,UNK
+Benjamin Netanyahu,56472,1336,636,39237;33610767;51884;14240977;4024423;24093;9282173;597862;34289;480907;16043;181296;2326241;46216;38577;367929;23267,http://en.wikipedia.org/wiki/Benjamin_Netanyahu,Benjamin Netanyahu,benjamin-netanyahu,benjamin-netanyahu,PER
+Benjamin Netanyahu,480907,12,12,56472,http://en.wikipedia.org/wiki/Netanyahu,Netanyahu,netanyahu,netanyahu,UNK
+Egyptian,8087628,30727,927,769536;6293;10331;479389;8087628;1114732;138601;3614040;14687;40390131;16043;40390174;16822;31912046;9170686;1633082;24093;6037917;23267;589227;9282173;1277545;706816;1515679;216248;34289;39237;30697259;597862;38577;30207616;22364431;110129;46918;46216;52949;8311301;51884;609874;50953;367929;11146241;307916;33610767,http://en.wikipedia.org/wiki/Egypt,Egypt,egypt,egypt,GPE
+Egyptian,11139640,11,93,3928577;8791437,"http://en.wikipedia.org/wiki/Egyptian_Theatre_(Coos_Bay,_Oregon)",Egyptian Theatre,egyptian-theatre,egyptian-theatre-coos-bay-oregon,UNK
+Egyptian,187781,259,95,10331;31912046;6293;46918,http://en.wikipedia.org/wiki/Egyptian_Museum,Egyptian Museum,egyptian-museum,egyptian-museum,UNK
+Egyptian,50953,1534,523,1114732;8791437;30697259;3710043;3614040;10331;31912046;46918;8087628,http://en.wikipedia.org/wiki/Egyptian_hieroglyphs,Egyptian hieroglyphs,egyptian-hieroglyphs,egyptian-hieroglyphs,UNK
+Egyptian,10331,1099,533,3928577;10331;50953;30697259;46918;187781;6037917;8087628,http://en.wikipedia.org/wiki/Ancient_Egyptian_religion,Ancient Egyptian religion,ancient-egyptian-religion,ancient-egyptian-religion,UNK
+Egyptian,3710043,13,14,50953,http://en.wikipedia.org/wiki/Egyptian_Bridge,Egyptian Bridge,egyptian-bridge,egyptian-bridge,UNK
+Egyptian,31912046,1279,330,706816;6293;25955086;50953;9282173;22364431;31912046;16043;46918;187781;6037917;51884;8087628;23267,http://en.wikipedia.org/wiki/Egyptians,Egyptians,egyptians,egyptians,UNK
+Egyptian,30697259,208,242,10331;50953;46918;8087628,http://en.wikipedia.org/wiki/Egyptian_temple,Egyptian temple,egyptian-temple,egyptian-temple,UNK
+Egyptian,8791437,10,119,3928577;11139640;50953,"http://en.wikipedia.org/wiki/Egyptian_Theatre_(DeKalb,_Illinois)",Egyptian Theatre,egyptian-theatre,egyptian-theatre-dekalb-illinois,UNK
+Egyptian,20012919,4,82,3928577,"http://en.wikipedia.org/wiki/Egyptian_Theatre_(Delta,_Colorado)",Egyptian Theatre,egyptian-theatre,egyptian-theatre-delta-colorado,UNK
+Egyptian,1277545,446,282,706816;1633082;6037917;589227;51884;8087628,http://en.wikipedia.org/wiki/Egyptian_pound,Egyptian pound,egyptian-pound,egyptian-pound,UNK
+Egyptian,3614040,44,205,50953;8087628,http://en.wikipedia.org/wiki/Egyptian_Building,Egyptian Building,egyptian-building,egyptian-building,UNK
+Egyptian,3928577,21,76,10331;20012919;11139640;46918;8791437,http://en.wikipedia.org/wiki/Egyptian_Theatre,Egyptian Theatre,egyptian-theatre,egyptian-theatre,UNK
+Egyptian,37295069,4,13,,http://en.wikipedia.org/wiki/Egyptian_(band),Egyptian,egyptian,egyptian-band,UNK
+Egyptian,46918,685,164,706816;3928577;10331;50953;31912046;30697259;187781;8087628,http://en.wikipedia.org/wiki/Egyptian_language,Egyptian language,egyptian-language,egyptian-language,UNK
+Egyptian,259344,32,43,,http://en.wikipedia.org/wiki/The_Egyptian,The Egyptian,the-egyptian,the-egyptian,UNK
+Egyptian,706816,414,350,609874;8311301;31912046;6293;16043;46918;1277545;6037917;40362576;8087628,http://en.wikipedia.org/wiki/Egyptian_Arabic,Egyptian Arabic,egyptian-arabic,egyptian-arabic,UNK
+Egyptian,36317903,7,15,,http://en.wikipedia.org/wiki/Egyptian_Museum_(Milan),Egyptian Museum,egyptian-museum,egyptian-museum-milan,UNK
+Hosni Mubarak,51884,1357,609,56472;589227;51884;6293;9282173;22364431;34289;31912046;1277545;46216;216248;367929;8087628,http://en.wikipedia.org/wiki/Hosni_Mubarak,Hosni Mubarak,hosni-mubarak,hosni-mubarak,PER
+Israel,9282173,39459,898,2326241;769536;6293;1340538;7387;27293846;14083292;479389;8087628;1114732;844333;4174431;14687;16043;40390174;17424;16822;5741112;1027271;6104877;31912046;1262063;24093;23267;12236643;14240977;9282173;40362576;1515679;216248;8561774;34289;39237;597862;38577;803752;18998750;22364431;938680;7980611;13341685;46216;546314;52949;51884;4024423;20804931;25955086;367929;56472;610738;374266;27989636;181296;307916;33610767;5324800;3385909;5216051,http://en.wikipedia.org/wiki/Israel,Israel,israel,israel,GPE
+Israel,2917172,76,86,,"http://en.wikipedia.org/wiki/Israel,_West_Virginia","Israel, West Virginia",israel-west-virginia,israel-west-virginia,GPE
+Israel,1390338,17,18,,http://en.wikipedia.org/wiki/Israel_River,Israel River,israel-river,israel-river,UNK
+Israel,1515679,398,217,17424;16822;16043;1114732;181296;33610767;1262063;14687;25955086;38577;9282173;52949;8087628;23267,http://en.wikipedia.org/wiki/Kingdom_of_Israel_(united_monarchy),Kingdom of Israel,kingdom-of-israel,kingdom-of-israel-united-monarchy,GPE
+Israel,52949,1025,513,307916;17424;1114732;33610767;1262063;25955086;9282173;52949;16043;1515679;181296;6037917;8087628;23267,http://en.wikipedia.org/wiki/Israelites,Israelites,israelites,israelites,UNK
+Israel,9424010,38,49,,"http://en.wikipedia.org/wiki/Israel_Township,_Preble_County,_Ohio","Israel Township, Preble County, Ohio",israel-township-preble-county-ohio,israel-township-preble-county-ohio,GPE
+Israel,610738,126,81,9282173;39237,http://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction,Israel and weapons of mass destruction,israel-and-weapons-of-mass-destruction,israel-and-weapons-of-mass-destruction,UNK
+Israel,12236643,1,25,9282173,http://en.wikipedia.org/wiki/Israel_International,Israel International,israel-international,israel-international,UNK
+Israel,803752,128,151,33610767;34289;1114732;9282173;14240977,http://en.wikipedia.org/wiki/Greater_Israel,Greater Israel,greater-israel,greater-israel,UNK
+Israel,597862,263,395,34289;56472;16043;181296;39237;46216;216248;38577;24093;479389;9282173;367929;8087628;4024423;23267,http://en.wikipedia.org/wiki/Israeli_disengagement_from_Gaza,Israeli disengagement from Gaza,israeli-disengagement-from-gaza,israeli-disengagement-from-gaza,UNK
+Israel,1553519,28,37,,http://en.wikipedia.org/wiki/Israel_Cruz,Israel Cruz,israel-cruz,israel-cruz,PER
+Israel,13341685,6,15,18998750;9282173,http://en.wikipedia.org/wiki/Israel_Singer,Israel Singer,israel-singer,israel-singer,PER
+Israel,6104877,144,24,16043;9282173;27293846,http://en.wikipedia.org/wiki/Israel_Project,Israel Project,israel-project,israel-project,ORG
+Israel,46216,1550,831,307916;56472;1114732;39237;33610767;1262063;5893392;4174431;51884;4024423;1027271;25955086;18998750;24093;479389;9282173;597862;34289;16043;181296;2326241;46216;216248;28737300;367929;8087628;23267,http://en.wikipedia.org/wiki/Israeli–Palestinian_conflict,Israeli–Palestinian conflict,israeli–palestinian-conflict,israeli–palestinian-conflict,UNK
+Israel,5531612,9,17,108956,http://en.wikipedia.org/wiki/Edward_Israel,Edward Israel,edward-israel,edward-israel,PER
+Israel,27989636,9,25,9282173;16043,http://en.wikipedia.org/wiki/Kingdom_of_Israel_(group),Kingdom of Israel,kingdom-of-israel,kingdom-of-israel-group,UNK
+Israel,27302272,89,91,26678792,http://en.wikipedia.org/wiki/Israel_of_Kashkar,Israel of Kashkar,israel-of-kashkar,israel-of-kashkar,UNK
+Israel,8561774,370,295,16043;2326241;39237;1262063;546314;9282173;8561774,http://en.wikipedia.org/wiki/Cinema_of_Israel,Cinema of Israel,cinema-of-israel,cinema-of-israel,UNK
+Israel,479389,506,401,597862;34289;307916;1114732;39237;46216;216248;24093;479389;9282173;367929;8087628;14240977;23267,"http://en.wikipedia.org/wiki/Israel,_Palestine,_and_the_United_Nations","Israel, Palestine, and the United Nations",israel-palestine-and-the-united-nations,israel-palestine-and-the-united-nations,UNK
+Israel,958973,120,147,,http://en.wikipedia.org/wiki/USS_Israel_(DD-98),USS Israel,uss-israel,uss-israel-dd-98,UNK
+Israel,8404422,139,79,,http://en.wikipedia.org/wiki/Israel_Houghton,Israel Houghton,israel-houghton,israel-houghton,UNK
+Israel,769536,1489,593,6293;9282173;16043;8087628,http://en.wikipedia.org/wiki/Israel_national_football_team,Israel national football team,israel-national-football-team,israel-national-football-team,UNK
+Israel,6333805,27,53,,http://en.wikipedia.org/wiki/Israel_(footballer),Israel,israel,israel-footballer,PER
+Israel,39237,3012,544,8561774;479389;9282173;181296;2326241;367929;8087628;56472;39237;33610767;5216051;610738;14687;24093;597862;16043;46216;40390174;38577;23267,http://en.wikipedia.org/wiki/Israel_Defense_Forces,Israel Defense Forces,israel-defense-forces,israel-defense-forces,UNK
+Israel,14687,454,230,17424;844333;16043;1515679;181296;2326241;39237;33610767;7980611;14687;25955086;24093;9282173;367929;8087628;23267,http://en.wikipedia.org/wiki/Geography_of_Israel,Geography of Israel,geography-of-israel,geography-of-israel,UNK
+Israel,17424,408,214,307916;16822;16043;1114732;1515679;33610767;14687;25955086;9282173;52949;23267,http://en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria),Kingdom of Israel,kingdom-of-israel,kingdom-of-israel-samaria,GPE
+Israel,33610767,1377,404,307916;17424;56472;1114732;39237;1262063;52949;844333;16822;4174431;14240977;4024423;1340538;14687;25955086;9282173;16043;1515679;181296;2326241;46216;38577;803752;8087628;23267,http://en.wikipedia.org/wiki/Land_of_Israel,Land of Israel,land-of-israel,land-of-israel,UNK
+Israel,1340538,379,57,16043;33610767;20804931;9282173,http://en.wikipedia.org/wiki/Israel_Museum,Israel Museum,israel-museum,israel-museum,UNK
+Israel,14083292,70,45,9282173,http://en.wikipedia.org/wiki/Israel_Corporation,Israel Corporation,israel-corporation,israel-corporation,UNK
+Israel,17108939,11,20,,http://en.wikipedia.org/wiki/Al_Israel,Al Israel,al-israel,al-israel,PER
+Israel,2326241,119,281,33610767;46216;14687;56472;16043;9282173;367929;8561774;181296;39237,http://en.wikipedia.org/wiki/LGBT_rights_in_Israel,LGBT rights in Israel,lgbt-rights-in-israel,lgbt-rights-in-israel,UNK
+Israel,26678792,93,87,27302272,http://en.wikipedia.org/wiki/Israel_(Nestorian_Patriarch),Israel,israel,israel-nestorian-patriarch,UNK
+Israel,5741112,38,16,25955086;9282173,http://en.wikipedia.org/wiki/Mikveh_Israel,Mikveh Israel,mikveh-israel,mikveh-israel,UNK
+Israel,216248,218,119,597862;46216;34289;479389;9282173;367929;51884;8087628,http://en.wikipedia.org/wiki/Israel–Jordan_peace_treaty,Israel–Jordan peace treaty,israel–jordan-peace-treaty,israel–jordan-peace-treaty,UNK
+Hebron,38577,1232,385,307916;56472;1114732;39237;33610767;2215757;1262063;25955086;128638;10703410;24093;9282173;11146241;597862;34289;16822;16043;1515679;5893392;4174431;19978312;127514;17455084;8087628;23267,http://en.wikipedia.org/wiki/Hebron,Hebron,hebron,hebron,UNK
+Hebron,28182698,3,81,,"http://en.wikipedia.org/wiki/Hebron_Church,_Cemetery,_and_Academy","Hebron Church, Cemetery, and Academy",hebron-church-cemetery-and-academy,hebron-church-cemetery-and-academy,UNK
+Hebron,38683681,53,63,,"http://en.wikipedia.org/wiki/Hebron,_Pennsylvania","Hebron, Pennsylvania",hebron-pennsylvania,hebron-pennsylvania,GPE
+Hebron,3430318,68,69,,"http://en.wikipedia.org/wiki/Hebron,_Kentucky","Hebron, Kentucky",hebron-kentucky,hebron-kentucky,GPE
+Hebron,9911939,70,325,111655;111971;15195109,"http://en.wikipedia.org/wiki/Hebron_Township,_McHenry_County,_Illinois","Hebron Township, McHenry County, Illinois",hebron-township-mchenry-county-illinois,hebron-township-mchenry-county-illinois,UNK
+Hebron,135771,94,110,,"http://en.wikipedia.org/wiki/Hebron,_Texas","Hebron, Texas",hebron-texas,hebron-texas,GPE
+Hebron,124245,38,174,,"http://en.wikipedia.org/wiki/Hebron,_Nebraska","Hebron, Nebraska",hebron-nebraska,hebron-nebraska,GPE
+Hebron,108848,101,109,127514,"http://en.wikipedia.org/wiki/Hebron,_Connecticut","Hebron, Connecticut",hebron-connecticut,hebron-connecticut,GPE
+Hebron,129520,87,77,,"http://en.wikipedia.org/wiki/Hebron,_Ohio","Hebron, Ohio",hebron-ohio,hebron-ohio,GPE
+Hebron,3623013,37,47,2917065,"http://en.wikipedia.org/wiki/Hebron,_Pleasants_County,_West_Virginia","Hebron, Pleasants County, West Virginia",hebron-pleasants-county-west-virginia,hebron-pleasants-county-west-virginia,GPE
+Hebron,116624,47,47,,"http://en.wikipedia.org/wiki/Hebron,_Maryland","Hebron, Maryland",hebron-maryland,hebron-maryland,GPE
+Hebron,128638,54,77,38577,"http://en.wikipedia.org/wiki/Hebron,_North_Dakota","Hebron, North Dakota",hebron-north-dakota,hebron-north-dakota,GPE
+Hebron,108214,50,73,7980611,"http://en.wikipedia.org/wiki/Mount_Hebron,_California","Mount Hebron, California",mount-hebron-california,mount-hebron-california,GPE
+Hebron,124677,166,87,,"http://en.wikipedia.org/wiki/Hebron,_New_Hampshire","Hebron, New Hampshire",hebron-new-hampshire,hebron-new-hampshire,GPE
+Hebron,112543,61,304,,"http://en.wikipedia.org/wiki/Hebron,_Indiana","Hebron, Indiana",hebron-indiana,hebron-indiana,GPE
+Hebron,10703410,2,15,38577,http://en.wikipedia.org/wiki/Hebron_(biblical_figure),Hebron,hebron,hebron-biblical-figure,PER
+Hebron,3623045,51,63,2917065,"http://en.wikipedia.org/wiki/Hebron,_Marion_County,_West_Virginia","Hebron, Marion County, West Virginia",hebron-marion-county-west-virginia,hebron-marion-county-west-virginia,GPE
+Hebron,25191948,3,7,,"http://en.wikipedia.org/wiki/Mount_Hebron,_New_Brunswick","Mount Hebron, New Brunswick",mount-hebron-new-brunswick,mount-hebron-new-brunswick,UNK
+Hebron,1360269,16,66,,"http://en.wikipedia.org/wiki/Hebron,_Newfoundland_and_Labrador","Hebron, Newfoundland and Labrador",hebron-newfoundland-and-labrador,hebron-newfoundland-and-labrador,UNK
+Hebron,2917065,0,4,3623013;3623045,"http://en.wikipedia.org/wiki/Hebron,_West_Virginia","Hebron, West Virginia",hebron-west-virginia,hebron-west-virginia,UNK
+Hebron,41717272,1,2,,"http://en.wikipedia.org/wiki/Hebron,_Ton_Pentre","Hebron, Ton Pentre",hebron-ton-pentre,hebron-ton-pentre,UNK
+Hebron,29610212,16,24,,"http://en.wikipedia.org/wiki/St._Hebron,_Florida","St. Hebron, Florida",st-hebron-florida,st-hebron-florida,GPE
+Hebron,6215301,4,27,,"http://en.wikipedia.org/wiki/Hebron,_Prince_Edward_Island","Hebron, Prince Edward Island",hebron-prince-edward-island,hebron-prince-edward-island,GPE
+Hebron,7980611,31,17,108214;1114732;9282173;14687,http://en.wikipedia.org/wiki/Mount_Hebron,Mount Hebron,mount-hebron,mount-hebron,UNK
+Hebron,21224242,1,41,,"http://en.wikipedia.org/wiki/Hebron_(Still_Pond,_Maryland)",Hebron,hebron,hebron-still-pond-maryland,UNK
+Hebron,5013801,14,5,,"http://en.wikipedia.org/wiki/Hebron,_Nova_Scotia","Hebron, Nova Scotia",hebron-nova-scotia,hebron-nova-scotia,GPE
+Hebron,24115119,2,10,,"http://en.wikipedia.org/wiki/Hebron_Church,_Long_Ashton","Hebron Church, Long Ashton",hebron-church-long-ashton,hebron-church-long-ashton,UNK
+Hebron,2215757,6,6,38577,http://en.wikipedia.org/wiki/Hebron_University,Hebron University,hebron-university,hebron-university,UNK
+Hebron,127514,56,89,16043;108848;38577,"http://en.wikipedia.org/wiki/Hebron,_New_York","Hebron, New York",hebron-new-york,hebron-new-york,GPE
+Hebron,16967742,91,94,,"http://en.wikipedia.org/wiki/Hebron,_California","Hebron, California",hebron-california,hebron-california,UNK
+Hebron,15195109,0,4,133607;9911939;42060917;117284,http://en.wikipedia.org/wiki/Hebron_Township,Hebron Township,hebron-township,hebron-township,GPE
+Hebron,42060917,45,52,15195109,"http://en.wikipedia.org/wiki/Hebron_Township,_Kossuth_County,_Iowa","Hebron Township, Kossuth County, Iowa",hebron-township-kossuth-county-iowa,hebron-township-kossuth-county-iowa,GPE
+Hebron,117284,30,48,15195109,"http://en.wikipedia.org/wiki/Hebron_Township,_Michigan","Hebron Township, Michigan",hebron-township-michigan,hebron-township-michigan,GPE
+Hebron,116079,73,95,,"http://en.wikipedia.org/wiki/Hebron,_Maine","Hebron, Maine",hebron-maine,hebron-maine,GPE
+Hebron,111655,94,352,9911939;111971,"http://en.wikipedia.org/wiki/Hebron,_Illinois","Hebron, Illinois",hebron-illinois,hebron-illinois,UNK
+Hebron,260489,66,81,260490,"http://en.wikipedia.org/wiki/Hebron_(CDP),_Wisconsin","Hebron (CDP), Wisconsin",hebron-cdp-wisconsin,hebron-cdp-wisconsin,GPE
+Hebron,27786506,4,69,,"http://en.wikipedia.org/wiki/Hebron_Church_(Bucksville,_South_Carolina)",Hebron Church,hebron-church,hebron-church-bucksville-south-carolina,UNK
+Hebron,260490,70,85,260489,"http://en.wikipedia.org/wiki/Hebron,_Wisconsin","Hebron, Wisconsin",hebron-wisconsin,hebron-wisconsin,GPE
+Hebron,133607,44,53,15195109,"http://en.wikipedia.org/wiki/Hebron_Township,_Potter_County,_Pennsylvania","Hebron Township, Potter County, Pennsylvania",hebron-township-potter-county-pennsylvania,hebron-township-potter-county-pennsylvania,GPE
+Hebron,17455084,4,15,38577,http://en.wikipedia.org/wiki/Hebron_(titular_see),Hebron,hebron,hebron-titular-see,PER
+Hebron,42398982,0,133,,"http://en.wikipedia.org/wiki/Hebron,_Llanddyfnan","Hebron, Llanddyfnan",hebron-llanddyfnan,hebron-llanddyfnan,GPE
+Hebron,16594242,3,9,,"http://en.wikipedia.org/wiki/Hebron,_New_Brunswick","Hebron, New Brunswick",hebron-new-brunswick,hebron-new-brunswick,UNK
+Hebron,19978312,36,75,38577,"http://en.wikipedia.org/wiki/Hebron,_Utah","Hebron, Utah",hebron-utah,hebron-utah,UNK
+Hebron,3284044,3,36,,http://en.wikipedia.org/wiki/Hebron_School,Hebron School,hebron-school,hebron-school,ORG
+Cairo,6293,7881,761,8311301;51884;609874;34289;31912046;9170686;769536;1633082;6037917;23267;589227;30207616;9282173;128880;8087628;706816;187781;110129;138601;40390131;16043,http://en.wikipedia.org/wiki/Cairo,Cairo,cairo,cairo,GPE
+Cairo,2585465,5,13,,http://en.wikipedia.org/wiki/Cairo_(band),Cairo,cairo,cairo-band,UNK
+Cairo,121532,40,61,,"http://en.wikipedia.org/wiki/Cairo_Township,_Renville_County,_Minnesota","Cairo Township, Renville County, Minnesota",cairo-township-renville-county-minnesota,cairo-township-renville-county-minnesota,GPE
+Cairo,589227,690,215,6293;40390131;1277545;51884;8087628;9170686,http://en.wikipedia.org/wiki/Cairo_International_Airport,Cairo International Airport,cairo-international-airport,cairo-international-airport,UNK
+Cairo,1633082,21,30,1277545;8087628;9170686;6293,http://en.wikipedia.org/wiki/Cairo_Tower,Cairo Tower,cairo-tower,cairo-tower,UNK
+Cairo,128880,39,59,6293;17814064,"http://en.wikipedia.org/wiki/Cairo,_Ohio","Cairo, Ohio",cairo-ohio,cairo-ohio,GPE
+Cairo,28775766,0,6,110805,"http://en.wikipedia.org/wiki/Cairo,_Illinois_riot","Cairo, Illinois riot",cairo-illinois-riot,cairo-illinois-riot,UNK
+Cairo,110805,428,272,28775766;124820;1345497,"http://en.wikipedia.org/wiki/Cairo,_Illinois","Cairo, Illinois",cairo-illinois,cairo-illinois,GPE
+Cairo,37044100,1,2,37032225;37044213,"http://en.wikipedia.org/wiki/Cairo,_Tennessee","Cairo, Tennessee",cairo-tennessee,cairo-tennessee,UNK
+Cairo,37032225,25,42,37044100,"http://en.wikipedia.org/wiki/Cairo,_Sumner_County,_Tennessee","Cairo, Sumner County, Tennessee",cairo-sumner-county-tennessee,cairo-sumner-county-tennessee,GPE
+Cairo,9170686,172,124,589227;8311301;6293;1633082;8087628,http://en.wikipedia.org/wiki/Greater_Cairo,Greater Cairo,greater-cairo,greater-cairo,UNK
+Cairo,10719401,47,49,,http://en.wikipedia.org/wiki/El_Cairo,El Cairo,el-cairo,el-cairo,GPE
+Cairo,17814064,56,64,128880,"http://en.wikipedia.org/wiki/Cairo,_Stark_County,_Ohio","Cairo, Stark County, Ohio",cairo-stark-county-ohio,cairo-stark-county-ohio,GPE
+Cairo,7320081,2,39,108956,http://en.wikipedia.org/wiki/The_Cairo,The Cairo,the-cairo,the-cairo,UNK
+Cairo,123944,14,29,,"http://en.wikipedia.org/wiki/Cairo,_Nebraska","Cairo, Nebraska",cairo-nebraska,cairo-nebraska,GPE
+Cairo,609874,556,16,706816;34289;6293;22364431;8087628,http://en.wikipedia.org/wiki/Cairo_University,Cairo University,cairo-university,cairo-university,ORG
+Cairo,1062161,252,109,,http://en.wikipedia.org/wiki/Cairo_(graphics),Cairo,cairo,cairo-graphics,UNK
+Cairo,138601,284,309,6293;8087628,"http://en.wikipedia.org/wiki/Cairo,_West_Virginia","Cairo, West Virginia",cairo-west-virginia,cairo-west-virginia,GPE
+Cairo,1345497,200,159,110805,http://en.wikipedia.org/wiki/USS_Cairo,USS Cairo,uss-cairo,uss-cairo,UNK
+Cairo,259813,16,61,259812,"http://en.wikipedia.org/wiki/Cairo,_New_York","Cairo, New York",cairo-new-york,cairo-new-york,GPE
+Cairo,259812,44,50,259813,"http://en.wikipedia.org/wiki/Cairo_(CDP),_New_York","Cairo (CDP), New York",cairo-cdp-new-york,cairo-cdp-new-york,GPE
+Cairo,37044213,12,30,37044100,"http://en.wikipedia.org/wiki/Cairo,_Crockett_County,_Tennessee","Cairo, Crockett County, Tennessee",cairo-crockett-county-tennessee,cairo-crockett-county-tennessee,GPE
+Cairo,8311301,104,63,6293;706816;8087628;9170686,http://en.wikipedia.org/wiki/Old_Cairo,Old Cairo,old-cairo,old-cairo,UNK
+Cairo,30207616,54,62,6293;1114732;8087628,http://en.wikipedia.org/wiki/Capture_of_Cairo,Capture of Cairo,capture-of-cairo,capture-of-cairo,UNK
+Cairo,1064205,93,86,,http://en.wikipedia.org/wiki/Cairo_(operating_system),Cairo,cairo,cairo-operating-system,UNK
+Cairo,110129,96,62,6293;8087628,"http://en.wikipedia.org/wiki/Cairo,_Georgia","Cairo, Georgia",cairo-georgia,cairo-georgia,GPE
+Cairo,4284914,7,7,,http://en.wikipedia.org/wiki/Cairo_Road,Cairo Road,cairo-road,cairo-road,UNK
+Cairo,25532531,28,42,,"http://en.wikipedia.org/wiki/Cairo,_Oregon","Cairo, Oregon",cairo-oregon,cairo-oregon,GPE
+Cairo,25626519,27,32,,http://en.wikipedia.org/wiki/Cairo_Station,Cairo Station,cairo-station,cairo-station,UNK
+Cairo,124820,18,33,110805,"http://en.wikipedia.org/wiki/Cairo,_Missouri","Cairo, Missouri",cairo-missouri,cairo-missouri,GPE
+Mubarak,51884,1357,609,56472;589227;51884;6293;9282173;22364431;34289;31912046;1277545;46216;216248;367929;8087628,http://en.wikipedia.org/wiki/Hosni_Mubarak,Hosni Mubarak,hosni-mubarak,hosni-mubarak,PER
+Reuters,18998750,9093,418,34289;18998750;9282173;2171552;13341685;637985;46216,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Washington,108956,32028,1189,21921258;27293846;637985;1262063;38852264;22808822;6736104;13015878;5531612;7320081;6867764;3832041;108956;1421794;20862995;19537757,"http://en.wikipedia.org/wiki/Washington,_D.C.","Washington, D.C.",washington-dc,washington-dc,GPE
+Washington,7986044,0,9,,http://en.wikipedia.org/wiki/Ulmus_americana_'Washington',Ulmus americana 'Washington',ulmus-americana-washington,ulmus-americana-washington,UNK
+Washington,2039933,6,116,13015878,"http://en.wikipedia.org/wiki/Washington,_My_Home","Washington, My Home",washington-my-home,washington-my-home,UNK
+Washington,1446321,0,2,,"http://en.wikipedia.org/wiki/Washington,_England","Washington, England",washington-england,washington-england,GPE
+Washington,18746675,0,1,,"http://en.wikipedia.org/wiki/Washington,_IN_µSA","Washington, IN µSA",washington-in-µsa,washington-in-µsa,PER
+Washington,38852264,222,242,108956;6867764;19537757;8589494;20862995;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2014","Washington, D.C. mayoral election, 2014",washington-dc-mayoral-election-2014,washington-dc-mayoral-election-2014,PER
+Washington,27293846,15,184,108956;9282173;6104877,"http://en.wikipedia.org/wiki/Washington,_D.C._Jewish_Community_Center","Washington, D.C. Jewish Community Center",washington-dc-jewish-community-center,washington-dc-jewish-community-center,UNK
+Washington,5757618,147,192,,http://en.wikipedia.org/wiki/Washington_(footballer),Washington,washington,washington-footballer,PER
+Washington,134086,890,469,134086,"http://en.wikipedia.org/wiki/Washington,_Pennsylvania","Washington, Pennsylvania",washington-pennsylvania,washington-pennsylvania,GPE
+Washington,10308149,1,1,,"http://en.wikipedia.org/wiki/Washington,_IN_μSA","Washington, IN μSA",washington-in-μsa,washington-in-μsa,PER
+Washington,1923182,178,200,,"http://en.wikipedia.org/wiki/Washington,_California","Washington, California",washington-california,washington-california,GPE
+Washington,20232735,3,11,,http://en.wikipedia.org/wiki/Washington_(SP-1241),Washington,washington,washington-sp-1241,UNK
+Washington,19537795,106,153,19537757;8589494;38852264;20862995;19537810;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1994","Washington, D.C. mayoral election, 1994",washington-dc-mayoral-election-1994,washington-dc-mayoral-election-1994,PER
+Washington,10289871,1,1,,"http://en.wikipedia.org/wiki/Washington,_NC_μSA","Washington, NC μSA",washington-nc-μsa,washington-nc-μsa,PER
+Washington,24921974,108,89,,http://en.wikipedia.org/wiki/Washington_(steamboat_1851),Washington,washington,washington-steamboat-1851,UNK
+Washington,115760,56,66,,"http://en.wikipedia.org/wiki/Washington,_Louisiana","Washington, Louisiana",washington-louisiana,washington-louisiana,GPE
+Washington,13015878,8843,1031,6037917;2039933;108956;13015878,http://en.wikipedia.org/wiki/Washington_(state),Washington,washington,washington-state,UNK
+Washington,637985,4,26,18998750;108956,"http://en.wikipedia.org/wiki/Washington,_DC_Metropolitan_Area_Special_Flight_Rules_Area","Washington, DC Metropolitan Area Special Flight Rules Area",washington-dc-metropolitan-area-special-flight-rules-area,washington-dc-metropolitan-area-special-flight-rules-area,UNK
+Washington,2508003,139,108,,"http://en.wikipedia.org/wiki/Washington,_D.C._International_Stakes","Washington, D.C. International Stakes",washington-dc-international-stakes,washington-dc-international-stakes,UNK
+Washington,20862995,264,254,108956;6867764;19537757;8589494;38852264;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2010","Washington, D.C. mayoral election, 2010",washington-dc-mayoral-election-2010,washington-dc-mayoral-election-2010,UNK
+Washington,2010233,51,39,,"http://en.wikipedia.org/wiki/Washington,_Mississippi","Washington, Mississippi",washington-mississippi,washington-mississippi,GPE
+Washington,3832041,24,38,22808822;108956,"http://en.wikipedia.org/wiki/Washington,_Baltimore_and_Annapolis_Trail","Washington, Baltimore and Annapolis Trail",washington-baltimore-and-annapolis-trail,washington-baltimore-and-annapolis-trail,UNK
+Washington,19537757,130,166,8589494;108956;38852264;20862995;19537810;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2002","Washington, D.C. mayoral election, 2002",washington-dc-mayoral-election-2002,washington-dc-mayoral-election-2002,UNK
+Washington,18746683,0,1,,"http://en.wikipedia.org/wiki/Washington,_NC_µSA","Washington, NC µSA",washington-nc-µsa,washington-nc-µsa,PER
+Washington,141810,0,13,,"http://en.wikipedia.org/wiki/Washington,_Wisconsin","Washington, Wisconsin",washington-wisconsin,washington-wisconsin,UNK
+Washington,6867764,223,206,108956;19537757;8589494;38852264;20862995;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2006","Washington, D.C. mayoral election, 2006",washington-dc-mayoral-election-2006,washington-dc-mayoral-election-2006,PER
+Washington,19537810,40,86,19537757;8589494;20862995;38852264;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1978","Washington, D.C. mayoral election, 1978",washington-dc-mayoral-election-1978,washington-dc-mayoral-election-1978,UNK
+Washington,1421794,67,104,108956;1421794,"http://en.wikipedia.org/wiki/Washington,_D.C._hardcore","Washington, D.C. hardcore",washington-dc-hardcore,washington-dc-hardcore,UNK
+Washington,1489525,24,20,,http://en.wikipedia.org/wiki/Washington_(tree),Washington,washington,washington-tree,UNK
+Washington,21921258,2,230,108956,"http://en.wikipedia.org/wiki/Washington,_Village_and_Capital,_1800-1878","Washington, Village and Capital, 1800-1878",washington-village-and-capital-1800-1878,washington-village-and-capital-1800-1878,UNK
+Washington,22808822,35,95,3832041;108956,"http://en.wikipedia.org/wiki/Washington,_Baltimore_and_Annapolis_Electric_Railway","Washington, Baltimore and Annapolis Electric Railway",washington-baltimore-and-annapolis-electric-railway,washington-baltimore-and-annapolis-electric-railway,UNK
+Washington,7073789,6,91,,"http://en.wikipedia.org/wiki/Washington,_Brandywine_and_Point_Lookout_Railroad","Washington, Brandywine and Point Lookout Railroad",washington-brandywine-and-point-lookout-railroad,washington-brandywine-and-point-lookout-railroad,UNK
+Washington,8589494,39,50,19537757;20862995;38852264;19537810;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1974","Washington, D.C. mayoral election, 1974",washington-dc-mayoral-election-1974,washington-dc-mayoral-election-1974,PER
+Washington,6736104,364,371,108956,"http://en.wikipedia.org/wiki/Washington,_D.C.,_in_the_American_Civil_War","Washington, D.C., in the American Civil War",washington-dc-in-the-american-civil-war,washington-dc-in-the-american-civil-war,UNK
+Washington,26677390,15,24,,http://en.wikipedia.org/wiki/Washington_Railroad_Station,Washington Railroad Station,washington-railroad-station,washington-railroad-station,UNK
+Washington,111971,1213,92,9911939;111655,"http://en.wikipedia.org/wiki/Washington,_Illinois","Washington, Illinois",washington-illinois,washington-illinois,UNK
+Washington,14698019,20,26,,"http://en.wikipedia.org/wiki/Washington,_Kentucky","Washington, Kentucky",washington-kentucky,washington-kentucky,UNK
+Washington,10308504,0,1,,"http://en.wikipedia.org/wiki/Washington,_OH_μSA","Washington, OH μSA",washington-oh-μsa,washington-oh-μsa,PER
+Washington,24782674,99,91,,http://en.wikipedia.org/wiki/Megan_Washington,Megan Washington,megan-washington,megan-washington,UNK
+Washington,38467156,24,29,,"http://en.wikipedia.org/wiki/Washington,_Rhode_Island","Washington, Rhode Island",washington-rhode-island,washington-rhode-island,GPE
+Washington,40415474,2,3,,http://en.wikipedia.org/wiki/Washington_Motor_Company,Washington Motor Company,washington-motor-company,washington-motor-company,ORG
+Washington,18514024,3,20,,http://en.wikipedia.org/wiki/USS_Washington_(1775),USS Washington,uss-washington,uss-washington-1775,UNK
+Palestinians,1114732,5932,522,17424;546314;52949;30207616;16822;5893392;4024423;14240977;1027271;25955086;50953;479389;9282173;11146241;34289;181296;7980611;367929;8087628;1114732;33610767;7978072;40362576;24093;40390131;16043;1515679;6037917;46216;40390174;38577;803752;23267,http://en.wikipedia.org/wiki/Palestine,Palestine,palestine,palestine,UNK
+Israelis,9282173,39459,898,2326241;769536;6293;1340538;7387;27293846;14083292;479389;8087628;1114732;844333;4174431;14687;16043;40390174;17424;16822;5741112;1027271;6104877;31912046;1262063;24093;23267;12236643;14240977;9282173;40362576;1515679;216248;8561774;34289;39237;597862;38577;803752;18998750;22364431;938680;7980611;13341685;46216;546314;52949;51884;4024423;20804931;25955086;367929;56472;610738;374266;27989636;181296;307916;33610767;5324800;3385909;5216051,http://en.wikipedia.org/wiki/Israel,Israel,israel,israel,GPE
+Israelis,181296,1153,396,56472;1114732;1027271;39237;33610767;1262063;14687;25955086;9282173;52949;597862;16043;1515679;2326241;6037917;46216;367929;23267,http://en.wikipedia.org/wiki/Israelis,Israelis,israelis,israelis,UNK
+Moslem,6037917,20084,792,6293;10331;8087628;1114732;16043;52949;16822;31912046;6037917;23267;181296;1277545;706816;13015878;40362576,http://en.wikipedia.org/wiki/Islam,Islam,islam,islam,UNK
+Jerusalem,16043,11108,1385,17424;52949;8561774;16822;5893392;4024423;20911317;20804931;6104877;25955086;34289;31912046;2326241;367929;56472;39237;769536;1262063;36659099;6293;1340538;24093;597862;7387;6037917;38577;23267;374266;22027505;27989636;9282173;11146241;22364431;181296;127618;127514;8087628;706816;307916;38034307;1114732;33610767;24468785;3385909;844333;4174431;14687;20181397;16043;1515679;46216,http://en.wikipedia.org/wiki/Jerusalem,Jerusalem,jerusalem,jerusalem,UNK
+Jerusalem,7484849,7,16,,http://en.wikipedia.org/wiki/Jerusalem_(British_band),Jerusalem,jerusalem,jerusalem-british-band,UNK
+Jerusalem,129634,45,59,,"http://en.wikipedia.org/wiki/Jerusalem,_Ohio","Jerusalem, Ohio",jerusalem-ohio,jerusalem-ohio,GPE
+Jerusalem,16822,793,371,17424;1114732;33610767;25955086;9282173;16043;1515679;6037917;38577;8087628;4024423,http://en.wikipedia.org/wiki/Kingdom_of_Jerusalem,Kingdom of Jerusalem,kingdom-of-jerusalem,kingdom-of-jerusalem,GPE
+Jerusalem,21340414,90,65,,"http://en.wikipedia.org/wiki/Jerusalem,_Baltimore_County,_Maryland","Jerusalem, Baltimore County, Maryland",jerusalem-baltimore-county-maryland,jerusalem-baltimore-county-maryland,GPE
+Jerusalem,28737300,4,24,46216;28737300,http://en.wikipedia.org/wiki/Jerusalem-Project,Jerusalem-Project,jerusalem-project,jerusalem-project,UNK
+Jerusalem,39760889,165,13,,"http://en.wikipedia.org/wiki/Jerusalem_Church,_Copenhagen","Jerusalem Church, Copenhagen",jerusalem-church-copenhagen,jerusalem-church-copenhagen,UNK
+Jerusalem,2455517,33,39,,http://en.wikipedia.org/wiki/Jerusalem_(Swedish_band),Jerusalem,jerusalem,jerusalem-swedish-band,UNK
+Jerusalem,127618,55,65,16043,"http://en.wikipedia.org/wiki/Jerusalem,_New_York","Jerusalem, New York",jerusalem-new-york,jerusalem-new-york,GPE
+Jerusalem,37617580,11,28,,http://en.wikipedia.org/wiki/Jerusalem_(EP),Jerusalem,jerusalem,jerusalem-ep,UNK
+Jerusalem,41498870,1,16,,http://en.wikipedia.org/wiki/American_Jerusalem,American Jerusalem,american-jerusalem,american-jerusalem,UNK
+Jerusalem,20181397,10,21,844333;16043,http://en.wikipedia.org/wiki/Greater_Jerusalem,Greater Jerusalem,greater-jerusalem,greater-jerusalem,ORG
+Jerusalem,3385909,7,19,9282173;16043,http://en.wikipedia.org/wiki/Jerusalem_(computer_virus),Jerusalem,jerusalem,jerusalem-computer-virus,UNK
+Jerusalem,8867780,88,119,,http://en.wikipedia.org/wiki/Jérusalem,Jérusalem,jerusalem,jerusalem,UNK
+Jerusalem,374266,28,43,16043;9282173,"http://en.wikipedia.org/wiki/Jerusalem,_New_Zealand","Jerusalem, New Zealand",jerusalem-new-zealand,jerusalem-new-zealand,GPE
+Jerusalem,4024423,192,160,33610767;597862;36659099;46216;34289;56472;844333;16822;16043;24093;1114732;9282173;367929;1027271;5893392;23267,http://en.wikipedia.org/wiki/Positions_on_Jerusalem,Positions on Jerusalem,positions-on-jerusalem,positions-on-jerusalem,UNK
+Jerusalem,844333,344,37,33610767;36659099;14687;25955086;844333;16043;9282173;20181397;5893392;4024423;23267,http://en.wikipedia.org/wiki/Jerusalem_District,Jerusalem District,jerusalem-district,jerusalem-district,UNK
+Jerusalem,23980716,50,31,,http://en.wikipedia.org/wiki/Jerusalem_(play),Jerusalem,jerusalem,jerusalem-play,UNK
+Jerusalem,20804931,27,47,1340538;16043;9282173,http://en.wikipedia.org/wiki/Jerusalem_Foundation,Jerusalem Foundation,jerusalem-foundation,jerusalem-foundation,UNK
+Jerusalem,5893392,142,81,844333;16043;24093;1114732;367929;46216;1027271;4024423;38577,http://en.wikipedia.org/wiki/Jerusalem_Governorate,Jerusalem Governorate,jerusalem-governorate,jerusalem-governorate,UNK
+Jerusalem,24468785,36,5,16043,"http://en.wikipedia.org/wiki/Jerusalem,_Rhode_Island","Jerusalem, Rhode Island",jerusalem-rhode-island,jerusalem-rhode-island,UNK
+Jerusalem,32153615,20,38,25955086,"http://en.wikipedia.org/wiki/Jerusalem,_Arkansas","Jerusalem, Arkansas",jerusalem-arkansas,jerusalem-arkansas,UNK
+Jerusalem,6115457,140,57,,"http://en.wikipedia.org/wiki/Jerusalem_Township,_Lucas_County,_Ohio","Jerusalem Township, Lucas County, Ohio",jerusalem-township-lucas-county-ohio,jerusalem-township-lucas-county-ohio,GPE
+Jerusalem,23290820,0,1,,http://en.wikipedia.org/wiki/Jerusalem_street,Jerusalem street,jerusalem-street,jerusalem-street,UNK
+Jerusalem,36659099,31,8,844333;4024423;36659099;16043,http://en.wikipedia.org/wiki/Municipality_of_Jerusalem,Municipality of Jerusalem,municipality-of-jerusalem,municipality-of-jerusalem,UNK
+Jerusalem,20911317,2,94,16043,"http://en.wikipedia.org/wiki/Jerusalem,_Lincolnshire","Jerusalem, Lincolnshire",jerusalem-lincolnshire,jerusalem-lincolnshire,GPE
+Jerusalem,22027505,3,69,16043,http://en.wikipedia.org/wiki/Jerusalem_Church_(Berlin),Jerusalem Church,jerusalem-church,jerusalem-church-berlin,UNK
+Jerusalem,7387,1123,392,9282173;16043,http://en.wikipedia.org/wiki/Cyril_of_Jerusalem,Cyril of Jerusalem,cyril-of-jerusalem,cyril-of-jerusalem,PER
+Jerusalem,29036701,7,70,,http://en.wikipedia.org/wiki/Jerusalem_and_Dopesmoker,Jerusalem and Dopesmoker,jerusalem-and-dopesmoker,jerusalem-and-dopesmoker,UNK
+Jerusalem,4174431,15,579,16043;33610767;1262063;46216;25955086;38577;9282173,http://en.wikipedia.org/wiki/Jerusalem_(Mendelssohn),Jerusalem,jerusalem,jerusalem-mendelssohn,ORG
+Jerusalem,38034307,5,18,16043,http://en.wikipedia.org/wiki/Jerusalem_(Königsberg),Jerusalem,jerusalem,jerusalem-konigsberg,GPE
+Jerusalem,2535734,131,135,,http://en.wikipedia.org/wiki/Jerusalem_The_Emanation_of_the_Giant_Albion,Jerusalem The Emanation of the Giant Albion,jerusalem-the-emanation-of-the-giant-albion,jerusalem-the-emanation-of-the-giant-albion,UNK
+Osama el-Baz,22364431,8,19,9282173;8087628;51884;31912046;609874;16043,http://en.wikipedia.org/wiki/Osama_El-Baz,Osama El-Baz,osama-el-baz,osama-el-baz,UNK
+Palestinian Authority,24093,1297,276,56472;1114732;1027271;39237;14687;24093;479389;9282173;11146241;597862;34289;16043;5893392;46216;40390174;38577;367929;40362576;8087628;4024423;23267,http://en.wikipedia.org/wiki/Palestinian_National_Authority,Palestinian National Authority,palestinian-national-authority,palestinian-national-authority,GPE
+Jewish,25955086,5372,656,32153615;17424;52949;16822;14240977;5741112;9282173;31912046;181296;307916;1114732;33610767;1262063;7978072;844333;4174431;14687;16043;1515679;7139292;46216;38577;23267,http://en.wikipedia.org/wiki/Jews,Jews,jews,jews,UNK
+Jewish,307916,219,435,307916;17424;16043;33610767;1262063;46216;25955086;38577;7978072;479389;9282173;52949;8087628,http://en.wikipedia.org/wiki/Jewish_refugees,Jewish refugees,jewish-refugees,jewish-refugees,UNK
+Jewish,580849,16,40,41289039,"http://en.wikipedia.org/wiki/Jewish_Museum,_Berlin","Jewish Museum, Berlin",jewish-museum-berlin,jewish-museum-berlin,UNK
+Jewish,1453127,111,141,,http://en.wikipedia.org/wiki/Jewish_Museum_(Manhattan),Jewish Museum,jewish-museum,jewish-museum-manhattan,UNK
+Jewish,14240977,148,182,33610767;1262063;25955086;56472;479389;1114732;9282173;803752,http://en.wikipedia.org/wiki/Jewish_state,Jewish state,jewish-state,jewish-state,UNK
+Jewish,1262063,813,790,108956;307916;33610767;1262063;25955086;546314;9282173;52949;8561774;16043;1515679;181296;4174431;46216;38577;14240977,http://en.wikipedia.org/wiki/Jewish_culture,Jewish culture,jewish-culture,jewish-culture,UNK
+Jewish,938680,4,16,9282173,http://en.wikipedia.org/wiki/Jewish_Museum_(Bucharest),Jewish Museum,jewish-museum,jewish-museum-bucharest,UNK
+Jewish,25842589,0,18,23323129,http://en.wikipedia.org/wiki/Jewish_Center,Jewish Center,jewish-center,jewish-center,UNK
+Jewish,7978072,239,224,307916;25955086;1114732,http://en.wikipedia.org/wiki/Jewish_Bolshevism,Jewish Bolshevism,jewish-bolshevism,jewish-bolshevism,ORG
+Jewish,5290396,1,6,10628856,http://en.wikipedia.org/wiki/Jewish_Hospital,Jewish Hospital,jewish-hospital,jewish-hospital,UNK
+Jewish,32827282,20,36,,http://en.wikipedia.org/wiki/Jewish_Party_(Czechoslovakia),Jewish Party,jewish-party,jewish-party-czechoslovakia,UNK
+Jewish,7139292,203,241,25955086,http://en.wikipedia.org/wiki/Jewish_Ghetto_Police,Jewish Ghetto Police,jewish-ghetto-police,jewish-ghetto-police,GPE
+Jewish,41289039,3,7,580849,"http://en.wikipedia.org/wiki/Jewish_Museum,_Emmendingen","Jewish Museum, Emmendingen",jewish-museum-emmendingen,jewish-museum-emmendingen,UNK
+Jewish,23323129,2,18,25842589,http://en.wikipedia.org/wiki/Jewish_Center_(Manhattan),Jewish Center,jewish-center,jewish-center-manhattan,UNK
+Jewish,13094692,17,12,,"http://en.wikipedia.org/wiki/Jewish_Theatre,_Warsaw","Jewish Theatre, Warsaw",jewish-theatre-warsaw,jewish-theatre-warsaw,UNK
+Jewish,546314,32,123,1114732;9282173;1262063;8561774,http://en.wikipedia.org/wiki/Jewish_humour,Jewish humour,jewish-humour,jewish-humour,UNK
+Jewish,11398393,37,37,,http://en.wikipedia.org/wiki/Jewish_Party_(Romania),Jewish Party,jewish-party,jewish-party-romania,UNK
+Jewish,10628856,1,5,5290396,"http://en.wikipedia.org/wiki/Jewish_Hospital_(Cincinnati,_Ohio)",Jewish Hospital,jewish-hospital,jewish-hospital-cincinnati-ohio,ORG

@@ -1,0 +1,76 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Caribbean,18956035,8641,389,27203221;698;41641681;160659;53846;6954813;57357;18956035,http://en.wikipedia.org/wiki/Caribbean,Caribbean,caribbean,caribbean,UNK
+Caribbean,57357,436,247,6954813;18956035;27203221;57357,http://en.wikipedia.org/wiki/Caribbean_Community,Caribbean Community,caribbean-community,caribbean-community,UNK
+Caribbean,31670200,7,44,,http://en.wikipedia.org/wiki/The_Caribbean_(band),The Caribbean,the-caribbean,the-caribbean-band,UNK
+Caribbean,6655849,6,18,,http://en.wikipedia.org/wiki/Caribbean_Regiment,Caribbean Regiment,caribbean-regiment,caribbean-regiment,ORG
+Caribbean,4998255,3,10,,http://en.wikipedia.org/wiki/Caribbean_School,Caribbean School,caribbean-school,caribbean-school,ORG
+Caribbean,6954813,364,321,18956035;53846;128968;57357,http://en.wikipedia.org/wiki/Caribbean_Airlines,Caribbean Airlines,caribbean-airlines,caribbean-airlines,UNK
+Caribbean,31212447,6,20,,http://en.wikipedia.org/wiki/Caribbean_Gold,Caribbean Gold,caribbean-gold,caribbean-gold,UNK
+Caribbean,1074959,29,27,,http://en.wikipedia.org/wiki/Caribbean_University,Caribbean University,caribbean-university,caribbean-university,ORG
+Caribbean,27203221,369,160,160659;18956035;57357,http://en.wikipedia.org/wiki/Caribbean_Netherlands,Caribbean Netherlands,caribbean-netherlands,caribbean-netherlands,UNK
+Caribbean,21937550,25,17,,http://en.wikipedia.org/wiki/Caribbean_Bay,Caribbean Bay,caribbean-bay,caribbean-bay,UNK
+Caribbean,41641681,10,48,18956035,http://en.wikipedia.org/wiki/Caribbean_people,Caribbean people,caribbean-people,caribbean-people,UNK
+Caribbean,4654440,19,72,,"http://en.wikipedia.org/wiki/Caribbean_Region,_Colombia","Caribbean Region, Colombia",caribbean-region-colombia,caribbean-region-colombia,UNK
+Caribbean,3644093,3,15,,http://en.wikipedia.org/wiki/Caribbean_Club,Caribbean Club,caribbean-club,caribbean-club,UNK
+MIAMI,53846,9010,856,210339;2517648;1491778;9013054;18394424;72850;646813;557375;255317;53846;6720421;128968;8748735;6954813;1121725;9078644;844211;2221609;18956035,http://en.wikipedia.org/wiki/Miami,Miami,miami,miami,GPE
+MIAMI,1571240,49,38,101664,http://en.wikipedia.org/wiki/Miami-Illinois_language,Miami-Illinois language,miami-illinois-language,miami-illinois-language,UNK
+MIAMI,1121725,81,108,550494;53846,http://en.wikipedia.org/wiki/USS_Miami_(SSN-755),USS Miami,uss-miami,uss-miami-ssn-755,UNK
+MIAMI,130491,288,169,101664,"http://en.wikipedia.org/wiki/Miami,_Oklahoma","Miami, Oklahoma",miami-oklahoma,miami-oklahoma,GPE
+MIAMI,844211,4,31,53846,http://en.wikipedia.org/wiki/Miami_model,Miami model,miami-model,miami-model,UNK
+MIAMI,735834,13,27,553028,http://en.wikipedia.org/wiki/Miami_River_(Oregon),Miami River,miami-river,miami-river-oregon,UNK
+MIAMI,540157,0,4,,http://en.wikipedia.org/wiki/Miami_County,Miami County,miami-county,miami-county,UNK
+MIAMI,11606277,1,7,,"http://en.wikipedia.org/wiki/Miami,_Nea_Krini","Miami, Nea Krini",miami-nea-krini,miami-nea-krini,UNK
+MIAMI,101664,126,124,646813;1571240;899439;130491,http://en.wikipedia.org/wiki/Miami_people,Miami people,miami-people,miami-people,UNK
+MIAMI,8188731,246,219,8188731;6512082,http://en.wikipedia.org/wiki/Miami_RedHawks,Miami RedHawks,miami-redhawks,miami-redhawks,UNK
+MIAMI,550494,4,3,1192892;1121725;557375,http://en.wikipedia.org/wiki/USS_Miami,USS Miami,uss-miami,uss-miami,UNK
+MIAMI,4935113,210,208,,http://en.wikipedia.org/wiki/Miami_Stadium,Miami Stadium,miami-stadium,miami-stadium,UNK
+MIAMI,2221609,138,158,9013054;53846,http://en.wikipedia.org/wiki/Miami_Tower,Miami Tower,miami-tower,miami-tower,UNK
+MIAMI,899439,334,206,101664,http://en.wikipedia.org/wiki/Miami_Valley,Miami Valley,miami-valley,miami-valley,UNK
+MIAMI,1192892,17,62,550494,http://en.wikipedia.org/wiki/USS_Miami_(1861),USS Miami,uss-miami,uss-miami-1861,UNK
+MIAMI,72850,2276,472,9078644;53846;72850,http://en.wikipedia.org/wiki/Miami_Heat,Miami Heat,miami-heat,miami-heat,UNK
+MIAMI,4077247,0,9,,"http://en.wikipedia.org/wiki/Miami_Township,_Ohio","Miami Township, Ohio",miami-township-ohio,miami-township-ohio,UNK
+MIAMI,23151155,100,5,,"http://en.wikipedia.org/wiki/Miami,_California","Miami, California",miami-california,miami-california,UNK
+MIAMI,210339,127,71,53846,http://en.wikipedia.org/wiki/Miami_bass,Miami bass,miami-bass,miami-bass,UNK
+MIAMI,128968,1078,554,646813;8748735;6954813;53846,http://en.wikipedia.org/wiki/Miami_International_Airport,Miami International Airport,miami-international-airport,miami-international-airport,UNK
+MIAMI,1027397,5,7,553028,http://en.wikipedia.org/wiki/Miami_River_(New_York),Miami River,miami-river,miami-river-new-york,UNK
+MIAMI,31446014,24,32,,"http://en.wikipedia.org/wiki/Miami,_My_Amy","Miami, My Amy",miami-my-amy,miami-my-amy,UNK
+MIAMI,9078644,524,266,2517648;53846;72850;1491778,http://en.wikipedia.org/wiki/Miami_Hurricanes,Miami Hurricanes,miami-hurricanes,miami-hurricanes,UNK
+MIAMI,6720421,162,225,2517648;53846,http://en.wikipedia.org/wiki/2001_Miami_Hurricanes_football_team,2001 Miami Hurricanes football team,2001-miami-hurricanes-football-team,2001-miami-hurricanes-football-team,UNK
+MIAMI,10303384,0,1,,"http://en.wikipedia.org/wiki/Miami,_OK_μSA","Miami, OK μSA",miami-ok-μsa,miami-ok-μsa,PER
+MIAMI,9482493,1,8,,http://en.wikipedia.org/wiki/Miami_Township,Miami Township,miami-township,miami-township,GPE
+MIAMI,2517648,1133,519,6720421;9078644;1491778;53846,http://en.wikipedia.org/wiki/Miami_Hurricanes_football,Miami Hurricanes football,miami-hurricanes-football,miami-hurricanes-football,UNK
+MIAMI,8748735,18,194,53846;128968,http://en.wikipedia.org/wiki/Miami_Marine_Stadium,Miami Marine Stadium,miami-marine-stadium,miami-marine-stadium,UNK
+MIAMI,1491778,64,63,9078644;698;2517648;53846,http://en.wikipedia.org/wiki/1926_Miami_hurricane,1926 Miami hurricane,1926-miami-hurricane,1926-miami-hurricane,UNK
+MIAMI,14707616,17,30,,"http://en.wikipedia.org/wiki/Miami,_New_Mexico","Miami, New Mexico",miami-new-mexico,miami-new-mexico,GPE
+MIAMI,6512082,343,178,8188731,http://en.wikipedia.org/wiki/Miami_RedHawks_football,Miami RedHawks football,miami-redhawks-football,miami-redhawks-football,UNK
+MIAMI,2900532,119,106,,"http://en.wikipedia.org/wiki/Miami,_Queensland","Miami, Queensland",miami-queensland,miami-queensland,UNK
+MIAMI,557375,44,81,53846;550494,http://en.wikipedia.org/wiki/USS_Miami_(CL-89),USS Miami,uss-miami,uss-miami-cl-89,UNK
+MIAMI,553028,0,6,735834;646813;1027397,http://en.wikipedia.org/wiki/Miami_River,Miami River,miami-river,miami-river,UNK
+MIAMI,9013054,64,80,2221609;53846,http://en.wikipedia.org/wiki/Miami_Center,Miami Center,miami-center,miami-center,UNK
+MIAMI,18745945,1,1,,"http://en.wikipedia.org/wiki/Miami,_OK_µSA","Miami, OK µSA",miami-ok-µsa,miami-ok-µsa,PER
+MIAMI,27420762,185,200,,"http://en.wikipedia.org/wiki/Miami,_West_Virginia","Miami, West Virginia",miami-west-virginia,miami-west-virginia,GPE
+MIAMI,3788825,119,41,,http://en.wikipedia.org/wiki/M.I.A.M.I.,M.I.A.M.I.,miami,miami,UNK
+MIAMI,18394424,10,43,53846,http://en.wikipedia.org/wiki/City_of_Miami_(train),City of Miami,city-of-miami,city-of-miami-train,UNK
+MIAMI,10064153,3,14,,http://en.wikipedia.org/wiki/Miami_Bridge,Miami Bridge,miami-bridge,miami-bridge,UNK
+MIAMI,646813,214,329,53846;101664;553028;128968,http://en.wikipedia.org/wiki/Miami_River_(Florida),Miami River,miami-river,miami-river-florida,UNK
+MIAMI,5806138,6,32,,http://en.wikipedia.org/wiki/Miami_(soil),Miami,miami,miami-soil,UNK
+MIAMI,32252639,51,56,,http://en.wikipedia.org/wiki/Miami_(neighborhood),Miami,miami,miami-neighborhood,UNK
+MIAMI,3479274,23,32,,"http://en.wikipedia.org/wiki/Miami,_Manitoba","Miami, Manitoba",miami-manitoba,miami-manitoba,UNK
+Edouard,3589067,25,81,698;160659;255317,http://en.wikipedia.org/wiki/Hurricane_Edouard_(1996),Hurricane Edouard,hurricane-edouard,hurricane-edouard-1996,UNK
+Edouard,22029843,28,51,22525338,"http://en.wikipedia.org/wiki/Saint-Édouard,_Quebec","Saint-Édouard, Quebec",saint-edouard-quebec,saint-edouard-quebec,GPE
+Edouard,26789787,3,5,,"http://en.wikipedia.org/wiki/Édouard,_Viscount_de_Lastours","Édouard, Viscount de Lastours",edouard-viscount-de-lastours,edouard-viscount-de-lastours,PER
+Edouard,40661291,4,15,,http://en.wikipedia.org/wiki/Lake_Édouard_(Quebec),Lake Édouard,lake-edouard,lake-edouard-quebec,UNK
+Edouard,9615,677,184,13532599,http://en.wikipedia.org/wiki/Édouard_Manet,Édouard Manet,edouard-manet,edouard-manet,PER
+Edouard,22525338,0,6,22029843;24567234,http://en.wikipedia.org/wiki/Saint-Édouard,Saint-Édouard,saint-edouard,saint-edouard,UNK
+Edouard,24567234,396,431,22525338,"http://en.wikipedia.org/wiki/St._Edouard,_Alberta","St. Edouard, Alberta",st-edouard-alberta,st-edouard-alberta,GPE
+Edouard,13532599,3,21,9615,http://en.wikipedia.org/wiki/Édouard,Édouard,edouard,edouard,UNK
+Atlantic Ocean,698,10945,525,3589067;1491778;160659;18956035,http://en.wikipedia.org/wiki/Atlantic_Ocean,Atlantic Ocean,atlantic-ocean,atlantic-ocean,UNK
+Atlantic Ocean,17618834,3,14,,http://en.wikipedia.org/wiki/Atlantic_Ocean_(band),Atlantic Ocean,atlantic-ocean,atlantic-ocean-band,UNK
+Atlantic Ocean,452270,23,58,,http://en.wikipedia.org/wiki/Atlantic_Ocean_Road,Atlantic Ocean Road,atlantic-ocean-road,atlantic-ocean-road,UNK
+National Hurricane Center,255317,871,114,3343855;3589067;53846,http://en.wikipedia.org/wiki/National_Hurricane_Center,National Hurricane Center,national-hurricane-center,national-hurricane-center,UNK
+Lixion Avila,3343855,43,8,255317,http://en.wikipedia.org/wiki/Lixion_Avila,Lixion Avila,lixion-avila,lixion-avila,PER
+GMT,12701,3323,226,,http://en.wikipedia.org/wiki/Greenwich_Mean_Time,Greenwich Mean Time,greenwich-mean-time,greenwich-mean-time,UNK
+GMT,8465437,5,10,,http://en.wikipedia.org/wiki/GMT_Records,GMT Records,gmt-records,gmt-records,ORG
+GMT,8984512,57,45,,http://en.wikipedia.org/wiki/GMT360,GMT360,gmt360,gmt360,UNK
+GMT,26207611,229,250,,http://en.wikipedia.org/wiki/GMT_(programme),GMT,gmt,gmt-programme,UNK
+Lesser Antilles,160659,1126,123,3589067;27203221;698;18956035,http://en.wikipedia.org/wiki/Lesser_Antilles,Lesser Antilles,lesser-antilles,lesser-antilles,UNK

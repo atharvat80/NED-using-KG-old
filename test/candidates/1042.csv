@@ -1,0 +1,34 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+TOKYO,30057,20218,1027,24210789;482088;482178;166215;29025998;42989724;32165991;18357891;10765373;364805;5460564;265516;266152;23076410;37154180;1877139;18443430;1171535;148869;2913859;30057,http://en.wikipedia.org/wiki/Tokyo,Tokyo,tokyo,tokyo,GPE
+TOKYO,15409922,14,17,166215;15409922,"http://en.wikipedia.org/wiki/University_of_Tokyo,_Komaba_Campus","University of Tokyo, Komaba Campus",university-of-tokyo-komaba-campus,university-of-tokyo-komaba-campus,UNK
+TOKYO,30855569,15,28,,http://en.wikipedia.org/wiki/Tokyo_Park,Tokyo Park,tokyo-park,tokyo-park,UNK
+TOKYO,10765373,9,5,30057,http://en.wikipedia.org/wiki/Tokyo_Journal,Tokyo Journal,tokyo-journal,tokyo-journal,ORG
+TOKYO,1077950,209,183,,"http://en.wikipedia.org/wiki/Little_Tokyo,_Los_Angeles","Little Tokyo, Los Angeles",little-tokyo-los-angeles,little-tokyo-los-angeles,UNK
+TOKYO,32165991,84,163,148869;30057,http://en.wikipedia.org/wiki/Tokyo_Building,Tokyo Building,tokyo-building,tokyo-building,UNK
+TOKYO,23076410,5,24,30057,http://en.wikipedia.org/wiki/Tokyo_Tokyo,Tokyo Tokyo,tokyo-tokyo,tokyo-tokyo,UNK
+TOKYO,5460564,42,47,30057,http://en.wikipedia.org/wiki/Tokyo-Ga,Tokyo-Ga,tokyo-ga,tokyo-ga,UNK
+TOKYO,42989724,73,82,30057,http://en.wikipedia.org/wiki/.tokyo,.tokyo,tokyo,tokyo,UNK
+TOKYO,1171535,578,385,22416062;30057;1171535,http://en.wikipedia.org/wiki/F.C._Tokyo,F.C. Tokyo,fc-tokyo,fc-tokyo,UNK
+TOKYO,482178,117,10,482088;30057,http://en.wikipedia.org/wiki/Tokyo_Prefecture,Tokyo Prefecture,tokyo-prefecture,tokyo-prefecture,UNK
+TOKYO,5758622,26,58,,http://en.wikipedia.org/wiki/Tokyo_Hotel_(Chicago),Tokyo Hotel,tokyo-hotel,tokyo-hotel-chicago,UNK
+TOKYO,100006303,0,0,,http://en.wikipedia.org/wiki/Tokyo_(Single),Tokyo,tokyo,tokyo-single,UKN
+TOKYO,17065397,3,11,,http://en.wikipedia.org/wiki/Tokyo_Tribe,Tokyo Tribe,tokyo-tribe,tokyo-tribe,UNK
+TOKYO,15233114,53,67,,"http://en.wikipedia.org/wiki/Tokyo,_Oklahoma","Tokyo, Oklahoma",tokyo-oklahoma,tokyo-oklahoma,UNK
+TOKYO,18443430,17,32,18443430;30057,http://en.wikipedia.org/wiki/Tokyo_Stadium_(1962),Tokyo Stadium,tokyo-stadium,tokyo-stadium-1962,UNK
+TOKYO,18357891,36,53,30057,http://en.wikipedia.org/wiki/Tokyo!,Tokyo!,tokyo,tokyo,UNK
+TOKYO,265516,810,67,30057,http://en.wikipedia.org/wiki/Tokyo_Bay,Tokyo Bay,tokyo-bay,tokyo-bay,UNK
+TOKYO,1877139,195,183,1877139;30057;148869,http://en.wikipedia.org/wiki/Tokyo_FM,Tokyo FM,tokyo-fm,tokyo-fm,ORG
+TOKYO,482088,106,56,30057;482178,http://en.wikipedia.org/wiki/Tokyo_City,Tokyo City,tokyo-city,tokyo-city,GPE
+TOKYO,166215,1474,322,30057;166215;15409922,http://en.wikipedia.org/wiki/University_of_Tokyo,University of Tokyo,university-of-tokyo,university-of-tokyo,UNK
+TOKYO,22416062,27,33,1171535,http://en.wikipedia.org/wiki/F.C._Tokyo_(volleyball),F.C. Tokyo,fc-tokyo,fc-tokyo-volleyball,ORG
+TOKYO,148869,287,196,1877139;30057;32165991,http://en.wikipedia.org/wiki/Tokyo_Tower,Tokyo Tower,tokyo-tower,tokyo-tower,UNK
+TOKYO,364805,785,524,30057;266152,http://en.wikipedia.org/wiki/Tokyo_Station,Tokyo Station,tokyo-station,tokyo-station,UNK
+TOKYO,30922663,660,216,,http://en.wikipedia.org/wiki/Tokyō,Tokyō,tokyo,tokyo,UNK
+TOKYO,635553,252,202,,http://en.wikipedia.org/wiki/Tokyo_Mew_Mew,Tokyo Mew Mew,tokyo-mew-mew,tokyo-mew-mew,UNK
+TOKYO,2913859,187,134,30057,http://en.wikipedia.org/wiki/The_Fast_and_the_Furious:_Tokyo_Drift,The Fast and the Furious: Tokyo Drift,the-fast-and-the-furious-tokyo-drift,the-fast-and-the-furious-tokyo-drift,UNK
+TOKYO,266152,164,56,30057;364805,http://en.wikipedia.org/wiki/Tokyo_Imperial_Palace,Tokyo Imperial Palace,tokyo-imperial-palace,tokyo-imperial-palace,UNK
+TOKYO,29025998,24,50,30057,http://en.wikipedia.org/wiki/Tokyo_(Vampires_&_Wolves),Tokyo,tokyo,tokyo-vampires-wolves,UNK
+TOKYO,24210789,3,2,30057,http://en.wikipedia.org/wiki/Tokyo_Foundation,Tokyo Foundation,tokyo-foundation,tokyo-foundation,UNK
+TOKYO,37154180,67,34,30057,http://en.wikipedia.org/wiki/Tokyo_Family,Tokyo Family,tokyo-family,tokyo-family,UNK
+TOKYO,25758881,15,20,,"http://en.wikipedia.org/wiki/Little_Tokyo,_U.S.A.","Little Tokyo, U.S.A.",little-tokyo-usa,little-tokyo-usa,UNK
+TOKYO,5704277,9,13,5704277,http://en.wikipedia.org/wiki/Tokyo_Love_Story,Tokyo Love Story,tokyo-love-story,tokyo-love-story,UNK

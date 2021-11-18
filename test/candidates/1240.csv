@@ -1,0 +1,12 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Zimbabwe,34399,13344,845,23538697;25544256;2984967;34401;34399;177952;17380298;759317;56680;343206;17878788,http://en.wikipedia.org/wiki/Zimbabwe,Zimbabwe,zimbabwe,zimbabwe,GPE
+Zimbabwe,177952,181,95,34401;34399;343206;23538697,http://en.wikipedia.org/wiki/Great_Zimbabwe,Great Zimbabwe,great-zimbabwe,great-zimbabwe,UNK
+Zimbabwe,17878788,41,33,17380298;34399;343206,http://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe,Hyperinflation in Zimbabwe,hyperinflation-in-zimbabwe,hyperinflation-in-zimbabwe,UNK
+Zimbabwe,23538697,28,37,177952;34399,http://en.wikipedia.org/wiki/Kingdom_of_Zimbabwe,Kingdom of Zimbabwe,kingdom-of-zimbabwe,kingdom-of-zimbabwe,GPE
+Zimbabwe,759317,922,364,56680;34399,http://en.wikipedia.org/wiki/Zimbabwe_national_cricket_team,Zimbabwe national cricket team,zimbabwe-national-cricket-team,zimbabwe-national-cricket-team,ORG
+Zimbabwe,343206,168,239,17878788;56680;177952;17380298;34399;343206,http://en.wikipedia.org/wiki/University_of_Zimbabwe,University of Zimbabwe,university-of-zimbabwe,university-of-zimbabwe,ORG
+Zimbabwe,34401,327,254,25544256;34401;56680;177952;34399,http://en.wikipedia.org/wiki/Geography_of_Zimbabwe,Geography of Zimbabwe,geography-of-zimbabwe,geography-of-zimbabwe,UNK
+HARARE,56680,2071,329,17380298;343206;25544256;759317;2984967;34401;34399,http://en.wikipedia.org/wiki/Harare,Harare,harare,harare,GPE
+HARARE,2984967,113,64,56680;2984967;34399,http://en.wikipedia.org/wiki/Harare_International_Airport,Harare International Airport,harare-international-airport,harare-international-airport,UNK
+HARARE,25544256,118,4,34401;56680;34399,http://en.wikipedia.org/wiki/Harare_Province,Harare Province,harare-province,harare-province,GPE
+Robert Mugabe,17380298,1156,370,56680;17878788;17380298;343206;34399,http://en.wikipedia.org/wiki/Robert_Mugabe,Robert Mugabe,robert-mugabe,robert-mugabe,PER

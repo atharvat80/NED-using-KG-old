@@ -1,0 +1,100 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+BALL,899013,497,434,9904;9316;6816769;165813;320728,"http://en.wikipedia.org/wiki/Alan_Ball,_Jr.","Alan Ball, Jr.",alan-ball-jr,alan-ball-jr,PER
+BALL,320728,1,5,899013;14298229;6816769;899018,http://en.wikipedia.org/wiki/Alan_Ball,Alan Ball,alan-ball,alan-ball,PER
+BALL,899018,310,216,320728,http://en.wikipedia.org/wiki/Alan_Ball_(screenwriter),Alan Ball,alan-ball,alan-ball-screenwriter,PER
+BALL,6816769,138,135,899013;320728;9316,"http://en.wikipedia.org/wiki/Alan_Ball,_Sr.","Alan Ball, Sr.",alan-ball-sr,alan-ball-sr,PER
+BALL,14298229,108,108,320728,http://en.wikipedia.org/wiki/Alan_Ball_(American_football),Alan Ball,alan-ball,alan-ball-american-football,UNK
+MANCHESTER CITY,165813,5276,524,9904;9316;79819;20206;165813;39748005;899013;11803289,http://en.wikipedia.org/wiki/Manchester_City_F.C.,Manchester City F.C.,manchester-city-fc,manchester-city-fc,UNK
+MANCHESTER CITY,39748005,94,19,20206;165813,http://en.wikipedia.org/wiki/Manchester_City_F.C._(Sierra_Leone),Manchester City F.C.,manchester-city-fc,manchester-city-fc-sierra-leone,UNK
+MANCHESTER,20206,14773,848,7316782;596629;1776674;766971;9316;79819;2155698;165813;2313050;685747;20206;25985817;266959;6176499;27919734;19076489;5853222;20235552;39748005;16462806,http://en.wikipedia.org/wiki/Manchester,Manchester,manchester,manchester,GPE
+MANCHESTER,22475101,6,7,,"http://en.wikipedia.org/wiki/Manchester,_Nova_Scotia","Manchester, Nova Scotia",manchester-nova-scotia,manchester-nova-scotia,GPE
+MANCHESTER,9843913,2,6,260212,"http://en.wikipedia.org/wiki/Manchester,_Dorset_and_Granville_Railroad","Manchester, Dorset and Granville Railroad",manchester-dorset-and-granville-railroad,manchester-dorset-and-granville-railroad,UNK
+MANCHESTER,19076489,2,40,79819;20206;9316,"http://en.wikipedia.org/wiki/Manchester,_Bolton_and_Bury_Canal_Act_1791","Manchester, Bolton and Bury Canal Act 1791",manchester-bolton-and-bury-canal-act-1791,manchester-bolton-and-bury-canal-act-1791,UNK
+MANCHESTER,17069549,1,168,,"http://en.wikipedia.org/wiki/Manchester,_Houston","Manchester, Houston",manchester-houston,manchester-houston,UNK
+MANCHESTER,23170709,219,241,,"http://en.wikipedia.org/wiki/Manchester,_California","Manchester, California",manchester-california,manchester-california,GPE
+MANCHESTER,1281421,0,11,,http://en.wikipedia.org/wiki/Manchester_Township,Manchester Township,manchester-township,manchester-township,GPE
+MANCHESTER,27919734,2,13,20206,"http://en.wikipedia.org/wiki/Manchester,_Bolivia","Manchester, Bolivia",manchester-bolivia,manchester-bolivia,GPE
+MANCHESTER,108721,293,216,,"http://en.wikipedia.org/wiki/Manchester,_Connecticut","Manchester, Connecticut",manchester-connecticut,manchester-connecticut,GPE
+MANCHESTER,5889916,14,8,1216349,http://en.wikipedia.org/wiki/Manchester_Bridge_(Virginia),Manchester Bridge,manchester-bridge,manchester-bridge-virginia,UNK
+MANCHESTER,2155698,106,92,2155698;596629;20206,"http://en.wikipedia.org/wiki/Manchester,_Buxton,_Matlock_and_Midland_Junction_Railway","Manchester, Buxton, Matlock and Midland Junction Railway",manchester-buxton-matlock-and-midland-junction-railway,manchester-buxton-matlock-and-midland-junction-railway,UNK
+MANCHESTER,18958475,44,122,,http://en.wikipedia.org/wiki/BBC_Manchester,BBC Manchester,bbc-manchester,bbc-manchester,UNK
+MANCHESTER,32056108,20,34,1216349,"http://en.wikipedia.org/wiki/Manchester,_Chesterfield_County,_Virginia","Manchester, Chesterfield County, Virginia",manchester-chesterfield-county-virginia,manchester-chesterfield-county-virginia,GPE
+MANCHESTER,1216349,71,243,32056108;5889916,"http://en.wikipedia.org/wiki/Manchester,_Richmond,_Virginia","Manchester, Richmond, Virginia",manchester-richmond-virginia,manchester-richmond-virginia,GPE
+MANCHESTER,1776674,11,242,20206;766971;266959,http://en.wikipedia.org/wiki/HM_Prison_Manchester,HM Prison Manchester,hm-prison-manchester,hm-prison-manchester,UNK
+MANCHESTER,111898,22,29,,"http://en.wikipedia.org/wiki/Manchester,_Illinois","Manchester, Illinois",manchester-illinois,manchester-illinois,GPE
+MANCHESTER,557638,46,73,563959,http://en.wikipedia.org/wiki/USS_Manchester_(CL-83),USS Manchester,uss-manchester,uss-manchester-cl-83,UNK
+MANCHESTER,9251485,81,178,766971,http://en.wikipedia.org/wiki/Manchester_school_(anthropology),Manchester school,manchester-school,manchester-school-anthropology,UNK
+MANCHESTER,141752,0,4,29313326,"http://en.wikipedia.org/wiki/Manchester,_Wisconsin","Manchester, Wisconsin",manchester-wisconsin,manchester-wisconsin,UNK
+MANCHESTER,5853222,67,74,596629;20206;79819,"http://en.wikipedia.org/wiki/Manchester,_South_Junction_and_Altrincham_Railway","Manchester, South Junction and Altrincham Railway",manchester-south-junction-and-altrincham-railway,manchester-south-junction-and-altrincham-railway,UNK
+MANCHESTER,19782491,14,23,79819,"http://en.wikipedia.org/wiki/Manchester,_Bury_and_Rossendale_Railway","Manchester, Bury and Rossendale Railway",manchester-bury-and-rossendale-railway,manchester-bury-and-rossendale-railway,UNK
+MANCHESTER,9355566,3,8,7316782,http://en.wikipedia.org/wiki/Manchester_(ancient_township),Manchester,manchester,manchester-ancient-township,UNK
+MANCHESTER,27945350,1,7,,"http://en.wikipedia.org/wiki/Manchester,_Suriname","Manchester, Suriname",manchester-suriname,manchester-suriname,GPE
+MANCHESTER,266959,1212,662,16462806;1776674;20206;266959;9316;79819;766971,http://en.wikipedia.org/wiki/Manchester_Airport,Manchester Airport,manchester-airport,manchester-airport,UNK
+MANCHESTER,2966337,125,388,,http://en.wikipedia.org/wiki/Manchester_(Pittsburgh),Manchester,manchester,manchester-pittsburgh,UNK
+MANCHESTER,16462806,8,189,9316;20206;79819;766971;266959,http://en.wikipedia.org/wiki/Manchester_Castle,Manchester Castle,manchester-castle,manchester-castle,UNK
+MANCHESTER,685747,26,62,20206;9316,"http://en.wikipedia.org/wiki/Manchester,_New_York","Manchester, New York",manchester-new-york,manchester-new-york,GPE
+MANCHESTER,32792810,0,359,31619144,"http://en.wikipedia.org/wiki/Manchester,_Point_and_Wabash_bridge_piers","Manchester, Point and Wabash bridge piers",manchester-point-and-wabash-bridge-piers,manchester-point-and-wabash-bridge-piers,UNK
+MANCHESTER,27350376,0,58,,"http://en.wikipedia.org/wiki/Manchester,_Richmond_County,_Virginia","Manchester, Richmond County, Virginia",manchester-richmond-county-virginia,manchester-richmond-county-virginia,GPE
+MANCHESTER,29313326,32,47,141752,"http://en.wikipedia.org/wiki/Manchester_(community),_Green_Lake_County,_Wisconsin","Manchester (community), Green Lake County, Wisconsin",manchester-community-green-lake-county-wisconsin,manchester-community-green-lake-county-wisconsin,GPE
+MANCHESTER,79819,4384,657,9316;7316782;79819;20206;165813;19782491;19076489;5853222;16462806;266959;766971,http://en.wikipedia.org/wiki/Greater_Manchester,Greater Manchester,greater-manchester,greater-manchester,UNK
+MANCHESTER,27823259,1,16,,http://en.wikipedia.org/wiki/Mount_Manchester,Mount Manchester,mount-manchester,mount-manchester,UNK
+MANCHESTER,36065629,0,1,,http://en.wikipedia.org/wiki/Manchester_Road,Manchester Road,manchester-road,manchester-road,UNK
+MANCHESTER,20235552,10,8,20206,http://en.wikipedia.org/wiki/Manchester_School_(writers),Manchester School,manchester-school,manchester-school-writers,UNK
+MANCHESTER,596629,317,89,5853222;20206;2155698,"http://en.wikipedia.org/wiki/Manchester,_Sheffield_and_Lincolnshire_Railway","Manchester, Sheffield and Lincolnshire Railway",manchester-sheffield-and-lincolnshire-railway,manchester-sheffield-and-lincolnshire-railway,UNK
+MANCHESTER,25985817,9,18,20206,http://en.wikipedia.org/wiki/Manchester_Regiment_(Jacobite),Manchester Regiment,manchester-regiment,manchester-regiment-jacobite,UNK
+MANCHESTER,27494202,4,17,9316;27494202,http://en.wikipedia.org/wiki/Manchester_(barque),Manchester,manchester,manchester-barque,ORG
+MANCHESTER,23492726,110,119,,"http://en.wikipedia.org/wiki/Manchester,_New_Hampshire_municipal_election,_2009","Manchester, New Hampshire municipal election, 2009",manchester-new-hampshire-municipal-election-2009,manchester-new-hampshire-municipal-election-2009,PER
+MANCHESTER,7316782,34,43,20206;9355566;79819,http://en.wikipedia.org/wiki/Manchester_(ancient_parish),Manchester,manchester,manchester-ancient-parish,GPE
+MANCHESTER,6176499,151,68,20206;6176499,http://en.wikipedia.org/wiki/Manchester_Orchestra,Manchester Orchestra,manchester-orchestra,manchester-orchestra,UNK
+MANCHESTER,2213338,70,71,,http://en.wikipedia.org/wiki/Manchester_Parish,Manchester Parish,manchester-parish,manchester-parish,UNK
+MANCHESTER,766971,325,201,16462806;9251485;9316;1776674;20206;79819;266959,http://en.wikipedia.org/wiki/Manchester_Museum,Manchester Museum,manchester-museum,manchester-museum,UNK
+MANCHESTER,563959,3,8,557638,http://en.wikipedia.org/wiki/USS_Manchester,USS Manchester,uss-manchester,uss-manchester,UNK
+MANCHESTER,18209770,29,99,,http://en.wikipedia.org/wiki/Manchester_(The_West_Wing),Manchester,manchester,manchester-the-west-wing,UNK
+MANCHESTER,260212,235,113,9843913;9316,"http://en.wikipedia.org/wiki/Manchester_(town),_Vermont","Manchester (town), Vermont",manchester-town-vermont,manchester-town-vermont,GPE
+MANCHESTER,31619144,11,400,32792810,http://en.wikipedia.org/wiki/Manchester_Bridge_(Pittsburgh),Manchester Bridge,manchester-bridge,manchester-bridge-pittsburgh,UNK
+England,9316,158848,1726,286698;9904;9316;20206;266959;79819;6784455;2313050;899013;16462806;691024;11803289;969337;6816769;407950;165813;685747;6020679;27494202;766971;759125;19076489;260212,http://en.wikipedia.org/wiki/England,England,england,england,GPE
+England,759125,3045,583,9904;9316;691024;2313050,http://en.wikipedia.org/wiki/England_cricket_team,England cricket team,england-cricket-team,england-cricket-team,UNK
+England,969337,393,514,2313050;3401;407950;9316,http://en.wikipedia.org/wiki/England_in_the_Middle_Ages,England in the Middle Ages,england-in-the-middle-ages,england-in-the-middle-ages,UNK
+England,286698,28,66,9316,"http://en.wikipedia.org/wiki/England,_Half-English","England, Half-English",england-half-english,england-half-english,UNK
+England,1959391,13,20,,"http://en.wikipedia.org/wiki/England,_Their_England","England, Their England",england-their-england,england-their-england,UNK
+England,71290,22,46,71290,"http://en.wikipedia.org/wiki/England,_England","England, England",england-england,england-england,UNK
+England,2539441,50,55,,"http://en.wikipedia.org/wiki/England,_Arkansas","England, Arkansas",england-arkansas,england-arkansas,GPE
+England,6020679,0,42,9316,http://en.wikipedia.org/wiki/England_(British_postage_stamps),England,england,england-british-postage-stamps,UNK
+England,29406796,3,11,,http://en.wikipedia.org/wiki/Mount_England,Mount England,mount-england,mount-england,UNK
+England,8008415,23,37,1739788;4684902,http://en.wikipedia.org/wiki/USS_England_(DLG-22),USS England,uss-england,uss-england-dlg-22,UNK
+England,11803289,759,375,165813;9904;9316,http://en.wikipedia.org/wiki/England_national_under-19_football_team,England national under-19 football team,england-national-under-19-football-team,england-national-under-19-football-team,UNK
+England,4684902,174,226,8008415;1739788,http://en.wikipedia.org/wiki/USS_England_(DE-635),USS England,uss-england,uss-england-de-635,UNK
+England,691024,3595,744,9904;9316;2313050;759125,http://en.wikipedia.org/wiki/England_national_rugby_union_team,England national rugby union team,england-national-rugby-union-team,england-national-rugby-union-team,UNK
+England,407950,3926,354,9316;407950;2313050;969337,http://en.wikipedia.org/wiki/Kingdom_of_England,Kingdom of England,kingdom-of-england,kingdom-of-england,GPE
+England,2825496,25,261,,http://en.wikipedia.org/wiki/Edward_England,Edward England,edward-england,edward-england,PER
+England,9904,10143,731,9904;9316;165813;691024;899013;11803289;2313050;759125,http://en.wikipedia.org/wiki/England_national_football_team,England national football team,england-national-football-team,england-national-football-team,UNK
+England,40427896,3,17,,http://en.wikipedia.org/wiki/England_(band),England,england,england-band,UNK
+England,27926611,24,45,,"http://en.wikipedia.org/wiki/England_Hill,_Kentucky","England Hill, Kentucky",england-hill-kentucky,england-hill-kentucky,GPE
+England,29113191,14,40,,"http://en.wikipedia.org/wiki/England,_My_England","England, My England",england-my-england,england-my-england,UNK
+England,39916947,3,147,,"http://en.wikipedia.org/wiki/Little_England_(Gloucester,_Virginia)",Little England,little-england,little-england-gloucester-virginia,UNK
+England,1739788,4,5,4684902;8008415,http://en.wikipedia.org/wiki/USS_England,USS England,uss-england,uss-england,UNK
+England,3646972,38,39,,"http://en.wikipedia.org/wiki/England,_My_England_and_Other_Stories","England, My England and Other Stories",england-my-england-and-other-stories,england-my-england-and-other-stories,ORG
+England,2313050,249,428,9904;407950;691024;9316;20206;2313050;759125;969337,http://en.wikipedia.org/wiki/Geography_of_England,Geography of England,geography-of-england,geography-of-england,UNK
+Alan Ball,899013,497,434,9904;9316;6816769;165813;320728,"http://en.wikipedia.org/wiki/Alan_Ball,_Jr.","Alan Ball, Jr.",alan-ball-jr,alan-ball-jr,PER
+Alan Ball,320728,1,5,899013;14298229;6816769;899018,http://en.wikipedia.org/wiki/Alan_Ball,Alan Ball,alan-ball,alan-ball,PER
+Alan Ball,899018,310,216,320728,http://en.wikipedia.org/wiki/Alan_Ball_(screenwriter),Alan Ball,alan-ball,alan-ball-screenwriter,PER
+Alan Ball,6816769,138,135,899013;320728;9316,"http://en.wikipedia.org/wiki/Alan_Ball,_Sr.","Alan Ball, Sr.",alan-ball-sr,alan-ball-sr,PER
+Alan Ball,14298229,108,108,320728,http://en.wikipedia.org/wiki/Alan_Ball_(American_football),Alan Ball,alan-ball,alan-ball-american-football,UNK
+Manchester City,165813,5276,524,9904;9316;79819;20206;165813;39748005;899013;11803289,http://en.wikipedia.org/wiki/Manchester_City_F.C.,Manchester City F.C.,manchester-city-fc,manchester-city-fc,UNK
+Manchester City,39748005,94,19,20206;165813,http://en.wikipedia.org/wiki/Manchester_City_F.C._(Sierra_Leone),Manchester City F.C.,manchester-city-fc,manchester-city-fc-sierra-leone,UNK
+Ball,899013,497,434,9904;9316;6816769;165813;320728,"http://en.wikipedia.org/wiki/Alan_Ball,_Jr.","Alan Ball, Jr.",alan-ball-jr,alan-ball-jr,PER
+Ball,320728,1,5,899013;14298229;6816769;899018,http://en.wikipedia.org/wiki/Alan_Ball,Alan Ball,alan-ball,alan-ball,PER
+Ball,899018,310,216,320728,http://en.wikipedia.org/wiki/Alan_Ball_(screenwriter),Alan Ball,alan-ball,alan-ball-screenwriter,PER
+Ball,6816769,138,135,899013;320728;9316,"http://en.wikipedia.org/wiki/Alan_Ball,_Sr.","Alan Ball, Sr.",alan-ball-sr,alan-ball-sr,PER
+Ball,14298229,108,108,320728,http://en.wikipedia.org/wiki/Alan_Ball_(American_football),Alan Ball,alan-ball,alan-ball-american-football,UNK
+City,165813,5276,524,9904;9316;79819;20206;165813;39748005;899013;11803289,http://en.wikipedia.org/wiki/Manchester_City_F.C.,Manchester City F.C.,manchester-city-fc,manchester-city-fc,UNK
+City,39748005,94,19,20206;165813,http://en.wikipedia.org/wiki/Manchester_City_F.C._(Sierra_Leone),Manchester City F.C.,manchester-city-fc,manchester-city-fc-sierra-leone,UNK
+Board,6784455,8,16,9316,http://en.wikipedia.org/wiki/River_Board,River Board,river-board,river-board,ORG
+Board,177223,258,202,,http://en.wikipedia.org/wiki/Bodyboarding,Bodyboarding,bodyboarding,bodyboarding,UNK
+Board,6030370,12,22,,http://en.wikipedia.org/wiki/Board_of_Education_v._Earls,Board of Education v. Earls,board-of-education-v-earls,board-of-education-v-earls,UNK
+Board,3401,1680,236,969337,http://en.wikipedia.org/wiki/Board_game,Board game,board-game,board-game,UNK
+Board,4822,4293,121,,http://en.wikipedia.org/wiki/Board_of_directors,Board of directors,board-of-directors,board-of-directors,UNK
+Board,253842,74,22,,http://en.wikipedia.org/wiki/Board_foot,Board foot,board-foot,board-foot,UNK
+Board,1369367,481,540,,http://en.wikipedia.org/wiki/Board_(bridge),Board,board,board-bridge,PER
+Board,36984787,2,54,36984787,http://en.wikipedia.org/wiki/BOARD_International,BOARD International,board-international,board-international,UNK
+Board,586051,17,15,,http://en.wikipedia.org/wiki/Invision_Power_Board,Invision Power Board,invision-power-board,invision-power-board,UNK

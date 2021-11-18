@@ -1,0 +1,240 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+LONDON,17867,92094,1769,33567266;27902154;423106;12249;1679120;823473;17867;13190957;1290035;187448;3879356;2023355;3434750;22437586;98370;238524;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,326248,1048,124,3434750,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,32520400,182,200,3434750,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,238524,118,60,17867,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,187448,1900,216,823473;17867;508567;640154,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,8591270,5,9,23070,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,118409,547,127,17867;12249,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,7984054,3,37,,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,2023355,27,32,17867;3434750;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,13190957,2,122,17867,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,12249,3253,543,2193334;17867;3434750;640154;118409;1113158;1679120;98370;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,1679120,12,181,17867;98370;12249,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,40493,18,33,3434750,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,19068853,184,199,3434750,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+U.S.,3434750,529967,1252,15676401;5407;12249;17867;24353;21409712;23070;40019527;40444;40493;2279089;58296;62706;13375121;82025;91071;112558;107662;117014;116687;115396;130949;134026;135331;138873;137652;150745;151280;1277769;19068853;12078265;238192;233474;261297;23544566;23544564;23544569;30085025;313948;326248;1410761;353610;330130;39100415;10328578;41291975;1570852;435793;436898;1552882;3434750;33781123;461540;524024;23280221;6125501;30861455;21902133;23068125;3868301;20518076;643517;605077;1601287;6286880;847620;32520400;30643172;857742;1838369;950028;15749910;12803613;41686274;15859402;2023355,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S.,10328578,210,402,435793;10328648;10328590;3434750;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S.,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S.,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S.,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S.,2440624,133,162,5407;70780;23070;3868301;130949,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S.,16304842,112,175,8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S.,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S.,429750,276,240,887108;441501;79717;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S.,10328648,378,412,903062;10328590;10328578;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S.,3868301,350,531,5407;40444;3434750;2440624;79717;82025;70780;23070;30861455;59453,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S.,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S.,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S.,444113,128,143,,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S.,902392,245,190,22398962;436898;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S.,6737193,115,173,887108,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S.,233474,102,93,5407;3434750,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S.,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S.,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S.,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S.,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S.,435793,251,290,889461;498188;888778;447879;436898;10328578;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S.,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S.,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S.,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;70780;23070;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S.,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S.,889284,455,321,5407;889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;23070;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S.,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S.,889461,178,203,887108;441501;79717;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S.,903385,68,230,903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S.,447879,394,337,16304842;889461;903062;888778;435793;436898;75235;10328575;887108;9180009;441501;79717;428913;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S.,436898,769,483,889461;435793;887108;441501;889284;429750;902392;5407;888778;447879;3434750;75235;79717;428913;70780;134026;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S.,21559355,95,143,524024,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S.,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S.,70780,396,232,5407;889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;23070;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S.,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S.,605077,301,341,5407;3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S.,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;887108;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S.,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S.,238192,394,239,889461;888778;435793;447879;436898;10328648;3434750;10328620;75235;10328575;887108;441501;79717;428913;70780;903385;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S.,6310196,592,545,435793;10328648;10328590;10328578;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+U.S.,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+U.S.,79717,694,442,889461;435793;887108;9180009;441501;889284;429750;3868301;5407;150745;888778;447879;436898;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+Pacific,5887631,62,58,23070;5407,http://en.wikipedia.org/wiki/Pacific_Park,Pacific Park,pacific-park,pacific-park,UNK
+Pacific,21902133,15,42,3434750,http://en.wikipedia.org/wiki/First_Pacific,First Pacific,first-pacific,first-pacific,ORG
+Pacific,330130,684,326,3434750;23070,http://en.wikipedia.org/wiki/Pacific_Islands,Pacific Islands,pacific-islands,pacific-islands,PER
+Pacific,21584471,9,8,,http://en.wikipedia.org/wiki/Pacific_Division_(RHI),Pacific Division,pacific-division,pacific-division-rhi,UNK
+Pacific,5390925,5,77,,http://en.wikipedia.org/wiki/MS_Pacific,MS Pacific,ms-pacific,ms-pacific,UNK
+Pacific,27690257,10,11,27690257,http://en.wikipedia.org/wiki/Pacific!,Pacific!,pacific,pacific,UNK
+Pacific,1649256,39,84,,http://en.wikipedia.org/wiki/Pacificair,Pacificair,pacificair,pacificair,ORG
+Pacific,4824443,50,28,23070;150745,http://en.wikipedia.org/wiki/Pacific_Railroad,Pacific Railroad,pacific-railroad,pacific-railroad,UNK
+Pacific,24353,138,155,23070;20518076;5407;3434750,"http://en.wikipedia.org/wiki/Pacific_Beach,_San_Diego","Pacific Beach, San Diego",pacific-beach-san-diego,pacific-beach-san-diego,GPE
+Pacific,4529108,857,132,,http://en.wikipedia.org/wiki/Pacific_Division_(NHL),Pacific Division,pacific-division,pacific-division-nhl,UNK
+Pacific,9392972,53,102,5407,http://en.wikipedia.org/wiki/Pacific_Division_(AFL),Pacific Division,pacific-division,pacific-division-afl,UNK
+Pacific,520449,501,102,15676401;62706;23070,http://en.wikipedia.org/wiki/Pacific_Plate,Pacific Plate,pacific-plate,pacific-plate,UNK
+Pacific,91071,524,175,3434750;524024;151280;23070;91071,"http://en.wikipedia.org/wiki/Pacific_County,_Washington","Pacific County, Washington",pacific-county-washington,pacific-county-washington,GPE
+Pacific,2518177,28,13,,http://en.wikipedia.org/wiki/Pacific_Institute,Pacific Institute,pacific-institute,pacific-institute,ORG
+Pacific,353610,12,43,23070;3434750,"http://en.wikipedia.org/wiki/Pacific_Beach,_Washington","Pacific Beach, Washington",pacific-beach-washington,pacific-beach-washington,UNK
+Pacific,1838369,15,57,3434750,http://en.wikipedia.org/wiki/Pacific_General,Pacific General,pacific-general,pacific-general,UNK
+Pacific,15676401,2,31,520449;23070;3434750,http://en.wikipedia.org/wiki/Pacific_Marine_Ecozone_(CEC),Pacific Marine Ecozone,pacific-marine-ecozone,pacific-marine-ecozone-cec,ORG
+Pacific,23070,12089,469,520449;3868301;13375121;3434750;70780;524024;15676401;889284;4824443;330130;5407;40444;82025;98570;24353;1552882;20518076;2440624;8591270;58296;150745;428913;1277926;1410761;91071;353610;62706;5887631,http://en.wikipedia.org/wiki/Pacific_Ocean,Pacific Ocean,pacific-ocean,pacific-ocean,UNK
+Pacific,13375121,23,35,23070;3434750,http://en.wikipedia.org/wiki/SS_Pacific_(1849),SS Pacific,ss-pacific,ss-pacific-1849,UNK
+Pacific,524024,5280,66,130949;3434750;524024;151280;21559355;5407;40444;91071;107662;23070,http://en.wikipedia.org/wiki/Pacific_Time_Zone,Pacific Time Zone,pacific-time-zone,pacific-time-zone,UNK
+Pacific,138873,59,77,3434750,"http://en.wikipedia.org/wiki/Pacific,_Wisconsin","Pacific, Wisconsin",pacific-wisconsin,pacific-wisconsin,GPE
+Pacific,31451783,2,15,,http://en.wikipedia.org/wiki/Pacific_Tower_(Seattle),Pacific Tower,pacific-tower,pacific-tower-seattle,UNK
+Pacific,1262623,252,277,1262623,http://en.wikipedia.org/wiki/Pacific_Racing,Pacific Racing,pacific-racing,pacific-racing,ORG
+Pacific,6286880,1,95,3434750,"http://en.wikipedia.org/wiki/Pacific_Building_(Salem,_Oregon)",Pacific Building,pacific-building,pacific-building-salem-oregon,UNK
+Pacific,15749910,235,242,5407;3434750,"http://en.wikipedia.org/wiki/Pacific,_California","Pacific, California",pacific-california,pacific-california,GPE
+Pacific,1410761,206,156,23070;20518076;3434750,http://en.wikipedia.org/wiki/Pacific_Station,Pacific Station,pacific-station,pacific-station,ORG
+Pacific,151280,179,289,524024;91071;3434750,"http://en.wikipedia.org/wiki/Pacific,_Washington","Pacific, Washington",pacific-washington,pacific-washington,GPE
+Pacific,5216869,10,12,,http://en.wikipedia.org/wiki/Pacific_Corporation,Pacific Corporation,pacific-corporation,pacific-corporation,UNK
+Pacific,2120273,128,120,,http://en.wikipedia.org/wiki/Pacific_Mall,Pacific Mall,pacific-mall,pacific-mall,UNK
+Pacific,26431165,8,33,5407,http://en.wikipedia.org/wiki/Pacific_Division_(United_States_Army),Pacific Division,pacific-division,pacific-division-united-states-army,UNK
+Pacific,1277926,291,210,5407;23070,http://en.wikipedia.org/wiki/Pacific_decadal_oscillation,Pacific decadal oscillation,pacific-decadal-oscillation,pacific-decadal-oscillation,UNK
+Pacific,1332114,15,11,5407,http://en.wikipedia.org/wiki/Pacific_Records,Pacific Records,pacific-records,pacific-records,UNK
+Pacific,4753452,1830,211,5407,http://en.wikipedia.org/wiki/Pacific_Division_(NBA),Pacific Division,pacific-division,pacific-division-nba,UNK
+Pacific,130949,63,68,524024;3434750;2440624,"http://en.wikipedia.org/wiki/Pacific_City,_Oregon","Pacific City, Oregon",pacific-city-oregon,pacific-city-oregon,GPE
+Pacific,1885114,41,54,,http://en.wikipedia.org/wiki/Pacific_Trim,Pacific Trim,pacific-trim,pacific-trim,UNK
+Pacific,150745,182,176,79717;23070;4824443;3434750,"http://en.wikipedia.org/wiki/Pacific,_Missouri","Pacific, Missouri",pacific-missouri,pacific-missouri,GPE
+Pacific,11760254,9,11,,http://en.wikipedia.org/wiki/Pacific_Opera,Pacific Opera,pacific-opera,pacific-opera,UNK
+Pacific,1277769,292,146,3434750,http://en.wikipedia.org/wiki/Pacific_University,Pacific University,pacific-university,pacific-university,ORG
+Pacific,12803613,102,121,3434750,http://en.wikipedia.org/wiki/Pacific_Building,Pacific Building,pacific-building,pacific-building,UNK
+Pacific,38476969,5,14,,"http://en.wikipedia.org/wiki/Pacific_Tower,_Christchurch","Pacific Tower, Christchurch",pacific-tower-christchurch,pacific-tower-christchurch,UNK
+New Scientist,39431,1641,134,,http://en.wikipedia.org/wiki/New_Scientist,New Scientist,new-scientist,new-scientist,ORG
+James Harvey,7365445,23,11,9287762,http://en.wikipedia.org/wiki/James_Harvey_(basketball),James Harvey,james-harvey,james-harvey-basketball,UNK
+James Harvey,9287762,0,9,7365445;12078265,http://en.wikipedia.org/wiki/James_Harvey,James Harvey,james-harvey,james-harvey,PER
+James Harvey,12078265,2,26,3434750;9287762,http://en.wikipedia.org/wiki/James_Harvey_(artist),James Harvey,james-harvey,james-harvey-artist,PER
+Moss Landing Marine Laboratories,847620,63,46,98570;3434750;5407,http://en.wikipedia.org/wiki/Moss_Landing_Marine_Laboratories,Moss Landing Marine Laboratories,moss-landing-marine-laboratories,moss-landing-marine-laboratories,ORG
+California,5407,76175,1092,1528920;5407;134026;30861455;847620;24353;23070;15403754;273597;1277926;3773432;40444;4753452;9392972;15749910;3868301;436898;1552882;20518076;59453;58296;1409989;11712129;62706;5887631;70780;2440624;79717;196870;28786051;1332114;26431165;3434750;889284;82025;2581419;337984;524024;11273087;98570;233474;41291975;605077;107662;261297;1601287;362815,http://en.wikipedia.org/wiki/California,California,california,california,GPE
+California,1552882,0,76,23070;58296;3434750;62706;59453;5407,http://en.wikipedia.org/wiki/Etymology_of_California,Etymology of California,etymology-of-california,etymology-of-california,UNK
+California,134026,217,241,58296;5407;436898;3434750,"http://en.wikipedia.org/wiki/California,_Pennsylvania","California, Pennsylvania",california-pennsylvania,california-pennsylvania,GPE
+California,13657777,1,20,,"http://en.wikipedia.org/wiki/California,_Shasta_and_Eastern_Railway","California, Shasta and Eastern Railway",california-shasta-and-eastern-railway,california-shasta-and-eastern-railway,UNK
+California,273597,191,228,5407,"http://en.wikipedia.org/wiki/California,_Buckinghamshire","California, Buckinghamshire",california-buckinghamshire,california-buckinghamshire,UNK
+California,33232098,1,6,33232098,http://en.wikipedia.org/wiki/California_(neighborhood),California,california,california-neighborhood,UNK
+California,196870,144,71,5407;20518076,http://en.wikipedia.org/wiki/USS_California_(BB-44),USS California,uss-california,uss-california-bb-44,UNK
+California,41291975,2,21,5407;3434750,http://en.wikipedia.org/wiki/California_(titular_see),California,california,california-titular-see,GPE
+California,59453,903,361,3868301;58296;5407;1552882;59453,http://en.wikipedia.org/wiki/Spanish_missions_in_California,Spanish missions in California,spanish-missions-in-california,spanish-missions-in-california,UNK
+California,1157384,9,15,,"http://en.wikipedia.org/wiki/California,_Berkshire","California, Berkshire",california-berkshire,california-berkshire,GPE
+California,2381369,26,31,,"http://en.wikipedia.org/wiki/California,_Usulután","California, Usulután",california-usulutan,california-usulutan,GPE
+California,3832232,222,250,,"http://en.wikipedia.org/wiki/California,_Louisville","California, Louisville",california-louisville,california-louisville,UNK
+California,23574924,0,2,2565257,"http://en.wikipedia.org/wiki/California,_Ohio","California, Ohio",california-ohio,california-ohio,UNK
+California,23262954,1,13,,"http://en.wikipedia.org/wiki/California,_Here_We_Come","California, Here We Come",california-here-we-come,california-here-we-come,UNK
+California,28786051,95,127,58296;5407,"http://en.wikipedia.org/wiki/California,_Birmingham","California, Birmingham",california-birmingham,california-birmingham,GPE
+California,1601287,163,238,5407;3434750,http://en.wikipedia.org/wiki/Domestic_partnership_in_California,Domestic partnership in California,domestic-partnership-in-california,domestic-partnership-in-california,UNK
+California,1528920,10,64,5407,http://en.wikipedia.org/wiki/341_California,341 California,341-california,341-california,UNK
+California,337984,495,545,5407;337984,http://en.wikipedia.org/wiki/California_Proposition_13_(1978),California Proposition 13,california-proposition-13,california-proposition-13-1978,UNK
+California,33805843,0,179,,"http://en.wikipedia.org/wiki/California,_Bohol","California, Bohol",california-bohol,california-bohol,UNK
+California,261297,56,70,5407;3434750,http://en.wikipedia.org/wiki/California_electricity_crisis,California electricity crisis,california-electricity-crisis,california-electricity-crisis,UNK
+California,10430696,88,92,,"http://en.wikipedia.org/wiki/California,_Santander","California, Santander",california-santander,california-santander,GPE
+California,2565257,73,151,23574924,"http://en.wikipedia.org/wiki/California,_Cincinnati","California, Cincinnati",california-cincinnati,california-cincinnati,UNK
+California,3230294,10,9,,"http://en.wikipedia.org/wiki/California,_Arizona_and_Santa_Fe_Railway","California, Arizona and Santa Fe Railway",california-arizona-and-santa-fe-railway,california-arizona-and-santa-fe-railway,UNK
+California,23182465,1,24,,http://en.wikipedia.org/wiki/California_macrophylla,California macrophylla,california-macrophylla,california-macrophylla,PER
+California,58296,2208,335,21952033;5407;1552882;40444;3434750;59453;62706;28786051;134026;23070,http://en.wikipedia.org/wiki/California_Gold_Rush,California Gold Rush,california-gold-rush,california-gold-rush,UNK
+California,13584131,11,4,,"http://en.wikipedia.org/wiki/California,_Trinidad_and_Tobago","California, Trinidad and Tobago",california-trinidad-and-tobago,california-trinidad-and-tobago,UNK
+California,1409989,25,65,5407,"http://en.wikipedia.org/wiki/California,_Here_I_Come","California, Here I Come",california-here-i-come,california-here-i-come,UNK
+California,62706,314,100,58296;5407;1552882;520449;3434750;23070,http://en.wikipedia.org/wiki/Baja_California_peninsula,Baja California peninsula,baja-california-peninsula,baja-california-peninsula,UNK
+California,21952033,57,82,58296,"http://en.wikipedia.org/wiki/California,_Falkirk","California, Falkirk",california-falkirk,california-falkirk,UNK
+Harvey,7365445,23,11,9287762,http://en.wikipedia.org/wiki/James_Harvey_(basketball),James Harvey,james-harvey,james-harvey-basketball,UNK
+Harvey,9287762,0,9,7365445;12078265,http://en.wikipedia.org/wiki/James_Harvey,James Harvey,james-harvey,james-harvey,PER
+Harvey,12078265,2,26,3434750;9287762,http://en.wikipedia.org/wiki/James_Harvey_(artist),James Harvey,james-harvey,james-harvey-artist,PER
+Beaver,23571101,0,6,,http://en.wikipedia.org/wiki/Beaver_Lake_(Pictou),Beaver Lake,beaver-lake,beaver-lake-pictou,UNK
+Beaver,643506,0,20,643517;1843360;1570852;6885601;2279089;6183007,http://en.wikipedia.org/wiki/Beaver_River,Beaver River,beaver-river,beaver-river,UNK
+Beaver,1312122,0,33,,http://en.wikipedia.org/wiki/Beaver_Township,Beaver Township,beaver-township,beaver-township,GPE
+Beaver,9151519,7,22,,http://en.wikipedia.org/wiki/Beaver_Mountain,Beaver Mountain,beaver-mountain,beaver-mountain,UNK
+Beaver,313948,48,64,3434750,http://en.wikipedia.org/wiki/Beaver_Lake_(Arkansas),Beaver Lake,beaver-lake,beaver-lake-arkansas,UNK
+Beaver,4345510,8,16,,http://en.wikipedia.org/wiki/Beaver_Bridge_(Ohio_River),Beaver Bridge,beaver-bridge,beaver-bridge-ohio-river,UNK
+Beaver,26239432,3,5,,http://en.wikipedia.org/wiki/Beaver_Lake_(Halifax),Beaver Lake,beaver-lake,beaver-lake-halifax,UNK
+Beaver,6885601,282,112,23548624;643506,http://en.wikipedia.org/wiki/Beaver_River_(Canada),Beaver River,beaver-river,beaver-river-canada,UNK
+Beaver,23548624,7,11,6885601,http://en.wikipedia.org/wiki/Beaver_Lake_(Alberta),Beaver Lake,beaver-lake,beaver-lake-alberta,UNK
+Beaver,1570852,64,66,643506;3434750,http://en.wikipedia.org/wiki/Beaver_River_(Rhode_Island),Beaver River,beaver-river,beaver-river-rhode-island,UNK
+Beaver,6183007,26,26,643506,http://en.wikipedia.org/wiki/Beaver_River_(Oklahoma),Beaver River,beaver-river,beaver-river-oklahoma,UNK
+Beaver,23571047,0,5,,http://en.wikipedia.org/wiki/Beaver_Lake_(Queens),Beaver Lake,beaver-lake,beaver-lake-queens,UNK
+Beaver,553207,0,4,,http://en.wikipedia.org/wiki/Beaver_County,Beaver County,beaver-county,beaver-county,UNK
+Beaver,25399126,6,48,,http://en.wikipedia.org/wiki/Beaver_Valley_(Ontario),Beaver Valley,beaver-valley,beaver-valley-ontario,UNK
+Beaver,727996,0,17,2810199;461540,http://en.wikipedia.org/wiki/Beaver_Island,Beaver Island,beaver-island,beaver-island,UNK
+Beaver,21608862,5,21,,http://en.wikipedia.org/wiki/Beaver_Group,Beaver Group,beaver-group,beaver-group,UNK
+Beaver,23544564,2,9,3434750,http://en.wikipedia.org/wiki/Beaver_River_(Bear_Island_River),Beaver River,beaver-river,beaver-river-bear-island-river,UNK
+Beaver,2279989,42,50,,http://en.wikipedia.org/wiki/Beaver_Lake_(Kentucky),Beaver Lake,beaver-lake,beaver-lake-kentucky,UNK
+Beaver,950028,440,273,3434750,http://en.wikipedia.org/wiki/Beaver_Stadium,Beaver Stadium,beaver-stadium,beaver-stadium,UNK
+Beaver,2816071,13,22,4399,http://en.wikipedia.org/wiki/Beaver_(band),Beaver,beaver,beaver-band,UNK
+Beaver,23571086,0,7,,http://en.wikipedia.org/wiki/Beaver_Lake_(Yarmouth),Beaver Lake,beaver-lake,beaver-lake-yarmouth,UNK
+Beaver,857742,3,19,3434750,"http://en.wikipedia.org/wiki/Beaver_Lake_(King_County,_Washington)",Beaver Lake,beaver-lake,beaver-lake-king-county-washington,UNK
+Beaver,19821992,0,6,461540,"http://en.wikipedia.org/wiki/Beaver,_Michigan","Beaver, Michigan",beaver-michigan,beaver-michigan,UNK
+Beaver,141665,0,3,30085025,"http://en.wikipedia.org/wiki/Beaver,_Wisconsin","Beaver, Wisconsin",beaver-wisconsin,beaver-wisconsin,UNK
+Beaver,1843360,20,17,643506,http://en.wikipedia.org/wiki/Beaver_River_(electoral_district),Beaver River,beaver-river,beaver-river-electoral-district,PER
+Beaver,23570885,0,6,,http://en.wikipedia.org/wiki/Beaver_Lake_(Shelburne),Beaver Lake,beaver-lake,beaver-lake-shelburne,UNK
+Beaver,643517,82,112,4399;643506;3434750,http://en.wikipedia.org/wiki/Beaver_River_(Pennsylvania),Beaver River,beaver-river,beaver-river-pennsylvania,UNK
+Beaver,2279089,15,17,3434750;643506,http://en.wikipedia.org/wiki/Beaver_River_(New_York),Beaver River,beaver-river,beaver-river-new-york,UNK
+Beaver,18883003,44,51,,"http://en.wikipedia.org/wiki/Beaver,_Kansas","Beaver, Kansas",beaver-kansas,beaver-kansas,GPE
+Beaver,11712129,11,92,5407,http://en.wikipedia.org/wiki/USS_Beaver_(AS-5),USS Beaver,uss-beaver,uss-beaver-as-5,UNK
+Beaver,23544569,17,9,3434750,http://en.wikipedia.org/wiki/Beaver_River_(Lake_Superior),Beaver River,beaver-river,beaver-river-lake-superior,UNK
+Beaver,23068125,56,67,3434750,"http://en.wikipedia.org/wiki/Beaver,_Minnesota","Beaver, Minnesota",beaver-minnesota,beaver-minnesota,UNK
+Beaver,2617296,313,328,24835783,http://en.wikipedia.org/wiki/Beaver_(steamship),Beaver,beaver,beaver-steamship,UNK
+Beaver,1645946,0,1,,http://en.wikipedia.org/wiki/Beaver_Bay,Beaver Bay,beaver-bay,beaver-bay,GPE
+Beaver,1270413,76,90,,http://en.wikipedia.org/wiki/The_Beaver,The Beaver,the-beaver,the-beaver,UNK
+Beaver,923261,9,16,,http://en.wikipedia.org/wiki/Beaver_(singer),Beaver,beaver,beaver-singer,PER
+Beaver,28179725,9,11,,http://en.wikipedia.org/wiki/Beaver_Lake_(Antarctica),Beaver Lake,beaver-lake,beaver-lake-antarctica,UNK
+Beaver,4399,1041,163,2816071;643517,http://en.wikipedia.org/wiki/Beaver,Beaver,beaver,beaver,UNK
+Beaver,30085025,54,70,141665;3434750,"http://en.wikipedia.org/wiki/Beaver_(community),_Marinette_County,_Wisconsin","Beaver (community), Marinette County, Wisconsin",beaver-community-marinette-county-wisconsin,beaver-community-marinette-county-wisconsin,GPE
+Beaver,1645951,0,4,,http://en.wikipedia.org/wiki/Beaver_City,Beaver City,beaver-city,beaver-city,UNK
+Beaver,461540,82,63,727996;3434750;19821992,http://en.wikipedia.org/wiki/Beaver_Island_(Lake_Michigan),Beaver Island,beaver-island,beaver-island-lake-michigan,GPE
+Beaver,24835783,90,208,2617296,http://en.wikipedia.org/wiki/Beaver_(sternwheeler_1873),Beaver,beaver,beaver-sternwheeler-1873,UNK
+Beaver,2810199,3,10,727996,http://en.wikipedia.org/wiki/Beaver_Island_(Antarctica),Beaver Island,beaver-island,beaver-island-antarctica,UNK
+Beaver,23544566,4,12,3434750,http://en.wikipedia.org/wiki/Beaver_River_(Cloquet_River),Beaver River,beaver-river,beaver-river-cloquet-river,UNK
+Sake,21800792,1,3,,"http://en.wikipedia.org/wiki/Sake,_Rwanda","Sake, Rwanda",sake-rwanda,sake-rwanda,UNK
+Sake,28500,732,214,,http://en.wikipedia.org/wiki/Sake,Sake,sake,sake,UNK
+Sake,6600659,4,18,,"http://en.wikipedia.org/wiki/Sake,_Democratic_Republic_of_the_Congo","Sake, Democratic Republic of the Congo",sake-democratic-republic-of-the-congo,sake-democratic-republic-of-the-congo,UNK
+U.S. Navy,20518076,29566,995,764403;5407;196870;30861455;3434750;402381;14063920;24353;23070;3773432;40444;20518076;1410761,http://en.wikipedia.org/wiki/United_States_Navy,United States Navy,united-states-navy,united-states-navy,UNK
+Monterey,40444,1626,366,3868301;5407;40444;20518076;3434750;82025;30861455;2581419;98570;362815;58296;524024;23070,"http://en.wikipedia.org/wiki/Monterey,_California","Monterey, California",monterey-california,monterey-california,GPE
+Monterey,419203,11,6,402381;3773432;14063920;764403,http://en.wikipedia.org/wiki/USS_Monterey,USS Monterey,uss-monterey,uss-monterey,UNK
+Monterey,117014,41,60,16162625;3434750,"http://en.wikipedia.org/wiki/Monterey_Township,_Michigan","Monterey Township, Michigan",monterey-township-michigan,monterey-township-michigan,GPE
+Monterey,98570,350,68,5407;847620;82025;23070;40444;30861455,http://en.wikipedia.org/wiki/Monterey_Bay,Monterey Bay,monterey-bay,monterey-bay,UNK
+Monterey,3773432,22,42,20518076;5407;419203,http://en.wikipedia.org/wiki/USS_Monterey_(BM-6),USS Monterey,uss-monterey,uss-monterey-bm-6,UNK
+Monterey,33781123,44,68,3434750,"http://en.wikipedia.org/wiki/Monterey,_Pennsylvania","Monterey, Pennsylvania",monterey-pennsylvania,monterey-pennsylvania,GPE
+Monterey,362815,271,195,5407;40444,http://en.wikipedia.org/wiki/Monterey_Pop_Festival,Monterey Pop Festival,monterey-pop-festival,monterey-pop-festival,UNK
+Monterey,30861455,96,102,98570;40444;20518076;5407;3868301;3434750;82025,http://en.wikipedia.org/wiki/Monterey_Peninsula,Monterey Peninsula,monterey-peninsula,monterey-peninsula,UNK
+Monterey,16162625,0,4,15859402;117014;6125501,http://en.wikipedia.org/wiki/Monterey_Township,Monterey Township,monterey-township,monterey-township,GPE
+Monterey,402381,69,52,20518076;419203,http://en.wikipedia.org/wiki/USS_Monterey_(CVL-26),USS Monterey,uss-monterey,uss-monterey-cvl-26,UNK
+Monterey,30643172,68,80,3434750,"http://en.wikipedia.org/wiki/Monterey,_Wisconsin","Monterey, Wisconsin",monterey-wisconsin,monterey-wisconsin,GPE
+Monterey,112558,25,47,3434750,"http://en.wikipedia.org/wiki/Monterey,_Indiana","Monterey, Indiana",monterey-indiana,monterey-indiana,GPE
+Monterey,39100415,2,29,3434750,"http://en.wikipedia.org/wiki/Monterey_(Odessa,_Delaware)",Monterey,monterey,monterey-odessa-delaware,UNK
+Monterey,115396,15,35,3434750,"http://en.wikipedia.org/wiki/Monterey,_Kentucky","Monterey, Kentucky",monterey-kentucky,monterey-kentucky,GPE
+Monterey,764403,46,61,20518076;419203,http://en.wikipedia.org/wiki/USS_Monterey_(CG-61),USS Monterey,uss-monterey,uss-monterey-cg-61,UNK
+Monterey,40292707,205,229,,"http://en.wikipedia.org/wiki/Monterey,_Berks_County,_Pennsylvania","Monterey, Berks County, Pennsylvania",monterey-berks-county-pennsylvania,monterey-berks-county-pennsylvania,GPE
+Monterey,137652,244,251,40019527;3434750,"http://en.wikipedia.org/wiki/Monterey,_Virginia","Monterey, Virginia",monterey-virginia,monterey-virginia,GPE
+Monterey,82025,1347,458,98570;15403754;3868301;5407;40444;3434750;82025;23070;30861455,"http://en.wikipedia.org/wiki/Monterey_County,_California","Monterey County, California",monterey-county-california,monterey-county-california,GPE
+Monterey,21409712,25,27,3434750,"http://en.wikipedia.org/wiki/Monterey,_Louisiana","Monterey, Louisiana",monterey-louisiana,monterey-louisiana,GPE
+Monterey,41686274,1,143,3434750,"http://en.wikipedia.org/wiki/Monterey_(Roanoke,_Virginia)",Monterey,monterey,monterey-roanoke-virginia,UNK
+Monterey,15403754,17,37,5407;82025,http://en.wikipedia.org/wiki/Monterey_AVA,Monterey AVA,monterey-ava,monterey-ava,UNK
+Monterey,11273087,201,208,5407;107662,"http://en.wikipedia.org/wiki/Monterey_Park,_Calgary","Monterey Park, Calgary",monterey-park-calgary,monterey-park-calgary,GPE
+Monterey,14063920,1,12,419203;20518076,http://en.wikipedia.org/wiki/USS_Monterey_(1862),USS Monterey,uss-monterey,uss-monterey-1862,UNK
+Monterey,116687,85,126,3434750,"http://en.wikipedia.org/wiki/Monterey,_Massachusetts","Monterey, Massachusetts",monterey-massachusetts,monterey-massachusetts,GPE
+Monterey,37978223,2,4,,http://en.wikipedia.org/wiki/Monterey_Market,Monterey Market,monterey-market,monterey-market,UNK
+Monterey,23280221,76,96,3434750,"http://en.wikipedia.org/wiki/Monterey,_Illinois","Monterey, Illinois",monterey-illinois,monterey-illinois,GPE
+Monterey,40019527,3,147,137652;3434750,http://en.wikipedia.org/wiki/Monterey_Hotel,Monterey Hotel,monterey-hotel,monterey-hotel,UNK
+Monterey,135331,45,54,3434750,"http://en.wikipedia.org/wiki/Monterey,_Tennessee","Monterey, Tennessee",monterey-tennessee,monterey-tennessee,GPE
+Monterey,18412352,50,51,,"http://en.wikipedia.org/wiki/Monterey,_Roanoke,_Virginia","Monterey, Roanoke, Virginia",monterey-roanoke-virginia,monterey-roanoke-virginia,UNK
+Monterey,6125501,41,54,16162625;3434750,"http://en.wikipedia.org/wiki/Monterey_Township,_Putnam_County,_Ohio","Monterey Township, Putnam County, Ohio",monterey-township-putnam-county-ohio,monterey-township-putnam-county-ohio,GPE
+Monterey,15859402,23,36,16162625;3434750,"http://en.wikipedia.org/wiki/Monterey_Township,_Cuming_County,_Nebraska","Monterey Township, Cuming County, Nebraska",monterey-township-cuming-county-nebraska,monterey-township-cuming-county-nebraska,GPE
+Monterey,107662,422,455,5407;11273087;3434750;524024,"http://en.wikipedia.org/wiki/Monterey_Park,_California","Monterey Park, California",monterey-park-california,monterey-park-california,GPE
+Monterey,2581419,34,47,40444;5407,"http://en.wikipedia.org/wiki/Monterey,_New_South_Wales","Monterey, New South Wales",monterey-new-south-wales,monterey-new-south-wales,UNK

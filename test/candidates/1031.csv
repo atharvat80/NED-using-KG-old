@@ -1,0 +1,422 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+NEW YORK,645042,77367,1542,2499282;33567266;1245772;290327;12249;6115598;15573;17867;21560;3070563;8210131;30057;32070;27746113;173070;26035579;667548;37274;5043544;816554;538722;18935639;46638;195149;441501;3880857;351876;7402167;79717;2194942;75235;3434750;2585447;469729;645042;13141861;8293033;598652;17292183;606772;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+NEW YORK,39062092,3,8,,http://en.wikipedia.org/wiki/New_York_EP,New York EP,new-york-ep,new-york-ep,UNK
+NEW YORK,5710132,2,12,,"http://en.wikipedia.org/wiki/New_York,_Auburn_and_Lansing_Railroad","New York, Auburn and Lansing Railroad",new-york-auburn-and-lansing-railroad,new-york-auburn-and-lansing-railroad,UNK
+NEW YORK,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+NEW YORK,2001239,3,3,,"http://en.wikipedia.org/wiki/New_York,_Newfoundland_and_London_Telegraph_Company","New York, Newfoundland and London Telegraph Company",new-york-newfoundland-and-london-telegraph-company,new-york-newfoundland-and-london-telegraph-company,UNK
+NEW YORK,1159194,10,261,17867,"http://en.wikipedia.org/wiki/New_York,_Lincolnshire","New York, Lincolnshire",new-york-lincolnshire,new-york-lincolnshire,UNK
+NEW YORK,13288448,14,23,3434750,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+NEW YORK,7402167,6,16,8210131;645042;3434750,"http://en.wikipedia.org/wiki/New_York,_New_York_(So_Good_They_Named_It_Twice)","New York, New York",new-york-new-york,new-york-new-york-so-good-they-named-it-twice,UNK
+NEW YORK,17292183,104,126,645042,"http://en.wikipedia.org/wiki/New_York,_I_Love_You","New York, I Love You",new-york-i-love-you,new-york-i-love-you,UNK
+NEW YORK,27746113,5,109,13141861;3434750;645042,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railroad_Administration_Building","New York, Westchester and Boston Railroad Administration Building",new-york-westchester-and-boston-railroad-administration-building,new-york-westchester-and-boston-railroad-administration-building,UNK
+NEW YORK,21310853,2,74,351876;3434750,"http://en.wikipedia.org/wiki/New_York,_New_Haven_&_Hartford_Passenger_Depot","New York, New Haven & Hartford Passenger Depot",new-york-new-haven-hartford-passenger-depot,new-york-new-haven-hartford-passenger-depot,UNK
+NEW YORK,351876,647,399,21310853;2585447;891699;645042;13141861;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_New_Haven_and_Hartford_Railroad","New York, New Haven and Hartford Railroad",new-york-new-haven-and-hartford-railroad,new-york-new-haven-and-hartford-railroad,UNK
+NEW YORK,816554,492,446,891699;351876;645042;2499282;8210131;26723573,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_and_Western_Railway","New York, Susquehanna and Western Railway",new-york-susquehanna-and-western-railway,new-york-susquehanna-and-western-railway,UNK
+NEW YORK,8210131,70636,932,3356;2499282;33567266;290327;10819;11786;11884;12249;6115598;17867;21560;16258552;8210131;32070;173070;667548;37274;5043324;5043544;816554;13498874;1178330;195149;3880857;187633;351876;7402167;2194942;75235;3434750;891699;645042;7515928;729331;13141861;598652;111084;605077;606772;259248;115566;126281,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+NEW YORK,26723573,3,85,816554;3434750,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_&_Western_Railroad_ALCO_Type_S-2_Locomotive","New York, Susquehanna & Western Railroad ALCO Type S-2 Locomotive",new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,UNK
+NEW YORK,26035579,0,1,645042,"http://en.wikipedia.org/wiki/New_York,_US-NY","New York, US-NY",new-york-us-ny,new-york-us-ny,UNK
+NEW YORK,606772,30,81,8210131;3434750;645042,http://en.wikipedia.org/wiki/New_York:_A_Documentary_Film,New York: A Documentary Film,new-york-a-documentary-film,new-york-a-documentary-film,UNK
+NEW YORK,31747730,135,373,1555877;173070;645042,http://en.wikipedia.org/wiki/New_York_(Glee),New York,new-york,new-york-glee,UNK
+NEW YORK,891699,493,307,351876;3434750;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_Chicago_and_St._Louis_Railroad","New York, Chicago and St. Louis Railroad",new-york-chicago-and-st-louis-railroad,new-york-chicago-and-st-louis-railroad,UNK
+NEW YORK,1555877,17,13,31747730,"http://en.wikipedia.org/wiki/New_York,_New_York_(On_the_Town)","New York, New York",new-york-new-york,new-york-new-york-on-the-town,UNK
+NEW YORK,667548,10,36,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_Rio,_and_Buenos_Aires_Line","New York, Rio, and Buenos Aires Line",new-york-rio-and-buenos-aires-line,new-york-rio-and-buenos-aires-line,ORG
+NEW YORK,598652,483,197,645042;598652;8210131,http://en.wikipedia.org/wiki/New_York_School,New York School,new-york-school,new-york-school,UNK
+NEW YORK,1470149,50,16,21560,http://en.wikipedia.org/wiki/New_York_&_Company,New York & Company,new-york-company,new-york-company,UNK
+NEW YORK,493759,93,39,,"http://en.wikipedia.org/wiki/New_York,_Tyne_and_Wear","New York, Tyne and Wear",new-york-tyne-and-wear,new-york-tyne-and-wear,GPE
+NEW YORK,2499282,360,314,891699;351876;645042;816554;8210131,"http://en.wikipedia.org/wiki/New_York,_Ontario_and_Western_Railway","New York, Ontario and Western Railway",new-york-ontario-and-western-railway,new-york-ontario-and-western-railway,UNK
+NEW YORK,2585447,38,55,351876;645042,"http://en.wikipedia.org/wiki/New_York,_Providence_and_Boston_Railroad","New York, Providence and Boston Railroad",new-york-providence-and-boston-railroad,new-york-providence-and-boston-railroad,UNK
+NEW YORK,13141861,113,149,351876;8210131;645042;27746113,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railway","New York, Westchester and Boston Railway",new-york-westchester-and-boston-railway,new-york-westchester-and-boston-railway,UNK
+NEW YORK,7112349,30,43,3434750,"http://en.wikipedia.org/wiki/New_York,_Texas","New York, Texas",new-york-texas,new-york-texas,GPE
+NEW YORK,3880857,301,536,17867;3434750;645042;8210131,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+London,17867,92094,1769,3356;33567266;27902154;423106;11867;12249;1679120;15573;823473;17867;13190957;21212;8210131;30057;1159194;176736;1290035;8495631;3880857;187448;3879356;2023355;3434750;469729;645042;94347;22437586;98370;238524;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+London,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+London,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+London,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+London,12249,3253,543,2193334;17867;94347;3434750;922793;640154;11867;8210131;118409;30057;1113158;8495631;1679120;645042;98370;423106;15573,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+London,1679120,12,181,17867;922793;98370;12249,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+London,22437586,76,82,17867;42989724,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+London,326248,1048,124,3434750,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+London,32520400,182,200,3434750,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+London,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+London,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+London,238524,118,60,17867,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+London,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+London,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+London,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+London,187448,1900,216,823473;17867;508567;640154,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+London,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+London,118409,547,127,17867;94347;12249;8495631,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+London,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+London,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+London,7984054,3,37,,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+London,2023355,27,32,17867;3434750;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+London,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+London,13190957,2,122,17867,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+London,33567266,19,43,8210131;17867;645042,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+London,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+London,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+London,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+London,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+London,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+London,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+London,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+London,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+London,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+London,40493,18,33,3434750,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+London,19068853,184,199,3434750,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+London,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+London,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+Nikkei,40293,780,330,40293;914179;15573;2729996;47361,http://en.wikipedia.org/wiki/Nikkei_225,Nikkei 225,nikkei-225,nikkei-225,UNK
+Brent,21541992,86,67,32070;15440475,http://en.wikipedia.org/wiki/Brent_Hill_(politician),Brent Hill,brent-hill,brent-hill-politician,PER
+Brent,94347,616,194,17867;922793;12249;118409;8495631,http://en.wikipedia.org/wiki/London_Borough_of_Brent,London Borough of Brent,london-borough-of-brent,london-borough-of-brent,UNK
+Brent,1075815,27,74,3828906;1150532,http://en.wikipedia.org/wiki/Brent_oilfield,Brent oilfield,brent-oilfield,brent-oilfield,UNK
+Brent,130584,33,52,3434750,"http://en.wikipedia.org/wiki/Brent,_Oklahoma","Brent, Oklahoma",brent-oklahoma,brent-oklahoma,GPE
+Brent,32906981,116,70,922793;8495631,http://en.wikipedia.org/wiki/Brent_Park_(Hendon),Brent Park,brent-park,brent-park-hendon,GPE
+Brent,8495631,43,111,17867;94347;12249;32906981;118409,http://en.wikipedia.org/wiki/Brent_Park,Brent Park,brent-park,brent-park,GPE
+Brent,1853140,120,112,3434750,http://en.wikipedia.org/wiki/Brent_Albright,Brent Albright,brent-albright,brent-albright,PER
+Brent,922793,137,198,1679120;94347;12249;32906981;323937,http://en.wikipedia.org/wiki/River_Brent,River Brent,river-brent,river-brent,UNK
+Brent,15440475,4,10,21541992,http://en.wikipedia.org/wiki/Brent_Hill,Brent Hill,brent-hill,brent-hill,UNK
+Brent,3828906,9,74,1075815,http://en.wikipedia.org/wiki/Brent_System,Brent System,brent-system,brent-system,UNK
+Brent,1736023,12,29,,"http://en.wikipedia.org/wiki/Brent,_Ontario","Brent, Ontario",brent-ontario,brent-ontario,UNK
+Brent,109153,49,54,887108;3434750,"http://en.wikipedia.org/wiki/Brent,_Florida","Brent, Florida",brent-florida,brent-florida,GPE
+Brent,1150532,259,222,1150532;1075815,http://en.wikipedia.org/wiki/Brent_Crude,Brent Crude,brent-crude,brent-crude,UNK
+Brent,100805,34,43,3434750,"http://en.wikipedia.org/wiki/Brent,_Alabama","Brent, Alabama",brent-alabama,brent-alabama,GPE
+Brent,31157285,1,35,,"http://en.wikipedia.org/wiki/Brent,_Cornwall","Brent, Cornwall",brent-cornwall,brent-cornwall,GPE
+Brent,323937,20,7,922793,http://en.wikipedia.org/wiki/Brent,Brent,brent,brent,UNK
+FTSE,497717,495,558,176736;21560;47361,http://en.wikipedia.org/wiki/FTSE_100_Index,FTSE 100 Index,ftse-100-index,ftse-100-index,UNK
+German,11867,167535,1367,290327;10612;11884;11867;12249;15573;17867;262376;21212;9034086;25536;6737193;30057;32070;5043324;2766979;7515928;424727;1263999;152735;1559449;186932;476441;475014;3434750,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+German,15082689,0,4,,"http://en.wikipedia.org/wiki/German_Township,_Indiana","German Township, Indiana",german-township-indiana,german-township-indiana,UNK
+German,12453352,0,5,9269386;2241658;6046607,"http://en.wikipedia.org/wiki/German_Township,_Ohio","German Township, Ohio",german-township-ohio,german-township-ohio,UNK
+German,21212,18535,1346,22681663;1559449;10612;11884;11867;15573;17867;157649;3901931;21212;1263999;152735;11369455,http://en.wikipedia.org/wiki/Nazi_Germany,Nazi Germany,nazi-germany,nazi-germany,GPE
+German,152735,7195,672,13314138;475014;21212;1559449;1263999;290327;10612;11884;11867;152735,http://en.wikipedia.org/wiki/Germans,Germans,germans,germans,UNK
+German,1559449,163,120,1263999;11884;11867;21212;152735;10612;3434750,http://en.wikipedia.org/wiki/German_model,German model,german-model,german-model,UNK
+German,36286602,5,23,,http://en.wikipedia.org/wiki/Germán,Germán,german,german,UNK
+German,36687858,164,170,,"http://en.wikipedia.org/wiki/German,_Iran","German, Iran",german-iran,german-iran,UNK
+German,1245772,609,182,11884;645042;18935639,http://en.wikipedia.org/wiki/German_Wikipedia,German Wikipedia,german-wikipedia,german-wikipedia,UNK
+German,34977979,51,25,34978004;34977989,http://en.wikipedia.org/wiki/German_Party_(1947),German Party,german-party,german-party-1947,UNK
+German,12050833,24,279,15082701;3434750,"http://en.wikipedia.org/wiki/German_Township,_Richland_County,_Illinois","German Township, Richland County, Illinois",german-township-richland-county-illinois,german-township-richland-county-illinois,UNK
+German,11204290,5,18,30138606,"http://en.wikipedia.org/wiki/German,_Bulgaria","German, Bulgaria",german-bulgaria,german-bulgaria,GPE
+German,34378156,2,26,,http://en.wikipedia.org/wiki/Arthur_German,Arthur German,arthur-german,arthur-german,UNK
+German,13314138,20,25,22681663;11884;152735,http://en.wikipedia.org/wiki/German_Party_(Yugoslavia),German Party,german-party,german-party-yugoslavia,UNK
+German,475014,250,170,290327;11884;11867;152735,http://en.wikipedia.org/wiki/German-speaking_Community_of_Belgium,German-speaking Community of Belgium,german-speaking-community-of-belgium,german-speaking-community-of-belgium,UNK
+German,2318626,324,65,11884,http://en.wikipedia.org/wiki/German_studies,German studies,german-studies,german-studies,PER
+German,22184642,4,12,,http://en.wikipedia.org/wiki/German_River,German River,german-river,german-river,UNK
+German,11369455,41,54,21212;11884,http://en.wikipedia.org/wiki/German_Party_(Romania),German Party,german-party,german-party-romania,UNK
+German,6046607,34,48,3434750;15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Fulton_County,_Ohio","German Township, Fulton County, Ohio",german-township-fulton-county-ohio,german-township-fulton-county-ohio,GPE
+German,18512402,18,11,,http://en.wikipedia.org/wiki/Les_German,Les German,les-german,les-german,PER
+German,2241658,45,60,3434750;15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Auglaize_County,_Ohio","German Township, Auglaize County, Ohio",german-township-auglaize-county-ohio,german-township-auglaize-county-ohio,GPE
+German,239855,56,80,11884,http://en.wikipedia.org/wiki/German_alphabet,German alphabet,german-alphabet,german-alphabet,UNK
+German,132530,92,177,15082701;3434750,"http://en.wikipedia.org/wiki/German_Township,_Fayette_County,_Pennsylvania","German Township, Fayette County, Pennsylvania",german-township-fayette-county-pennsylvania,german-township-fayette-county-pennsylvania,GPE
+German,10612,1073,518,1559449;1263999;10612;11884;11867;152735;3434750;21212;15573,http://en.wikipedia.org/wiki/Cinema_of_Germany,Cinema of Germany,cinema-of-germany,cinema-of-germany,UNK
+German,30138606,9,13,11204290,http://en.wikipedia.org/wiki/German_Peninsula,German Peninsula,german-peninsula,german-peninsula,UNK
+German,126281,41,50,8210131;3434750,"http://en.wikipedia.org/wiki/German,_New_York","German, New York",german-new-york,german-new-york,GPE
+German,290327,1463,698,475014;152735;3434750;645042;173070;11884;11867;8210131,http://en.wikipedia.org/wiki/German_American,German American,german-american,german-american,UNK
+German,34978004,4,32,11884;1263999;34977979,http://en.wikipedia.org/wiki/German_Party_(1993),German Party,german-party,german-party-1993,UNK
+German,241920,127,87,,http://en.wikipedia.org/wiki/Edward_German,Edward German,edward-german,edward-german,UNK
+German,34977989,3,7,34977979,http://en.wikipedia.org/wiki/German_Party_(1961),German Party,german-party,german-party-1961,UNK
+German,24233458,2,4,,http://en.wikipedia.org/wiki/The_German,The German,the-german,the-german,UNK
+German,11884,43032,653,13314138;2318626;425582;1245772;290327;10612;11867;15606;476441;475014;3434750;3901931;21212;1263999;8210131;152735;239855;1559449;5460564;34978004;36930635;11369455,http://en.wikipedia.org/wiki/German_language,German language,german-language,german-language,UNK
+German,1263999,412,329,11884;11867;152735;1559449;1263999;34978004;21212;10612,http://en.wikipedia.org/wiki/Elections_in_Germany,Elections in Germany,elections-in-germany,elections-in-germany,UNK
+German,42060415,46,52,3434750;15082701,"http://en.wikipedia.org/wiki/German_Township,_Kossuth_County,_Iowa","German Township, Kossuth County, Iowa",german-township-kossuth-county-iowa,german-township-kossuth-county-iowa,GPE
+German,476441,101,169,11884;11867,http://en.wikipedia.org/wiki/German_name,German name,german-name,german-name,UNK
+German,15082701,0,14,132530;9269386;6046607;42060415;2241658;3434750;12050833,http://en.wikipedia.org/wiki/German_Township,German Township,german-township,german-township,GPE
+German,4356261,77,64,,http://en.wikipedia.org/wiki/German_(parish),German,german,german-parish,UNK
+German,3901931,32,37,21212;11884,http://en.wikipedia.org/wiki/German–Polish_Non-Aggression_Pact,German–Polish Non-Aggression Pact,german–polish-non-aggression-pact,german–polish-non-aggression-pact,UNK
+German,9269386,44,55,3434750;15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Clark_County,_Ohio","German Township, Clark County, Ohio",german-township-clark-county-ohio,german-township-clark-county-ohio,GPE
+Japanese,15573,121938,860,30855569;10612;11867;12249;15976;15606;15573;17867;265516;21212;30057;24210789;40293;5043324;1922311;23076410;1171535;344430;1055369;1074931;1077950;1877139;645042;7515928;2574754;3333017;364805;22416062;2611945;716657;147807;166215;18443430;186932;482088;482178;201936;3434750;2729996;32165991;1004626;2977331;247095,http://en.wikipedia.org/wiki/Japan,Japan,japan,japan,GPE
+Japanese,344430,322,507,15976;30922663;186932;30057;266152;1922311;15573,http://en.wikipedia.org/wiki/Japanese_architecture,Japanese architecture,japanese-architecture,japanese-architecture,UNK
+Japanese,26127981,7,9,,"http://en.wikipedia.org/wiki/Japanese_Village,_Knightsbridge","Japanese Village, Knightsbridge",japanese-village-knightsbridge,japanese-village-knightsbridge,UNK
+Japanese,186932,6362,307,3434750;716657;344430;11867;15976;15606;15573,http://en.wikipedia.org/wiki/Japanese_people,Japanese people,japanese-people,japanese-people,UNK
+Japanese,608926,137,53,608926,http://en.wikipedia.org/wiki/Half_Japanese,Half Japanese,half-japanese,half-japanese,PER
+Japanese,2611945,60,79,15573;15976,http://en.wikipedia.org/wiki/Japanese_rice,Japanese rice,japanese-rice,japanese-rice,UNK
+Japanese,39920721,3,80,26591527;3434750,http://en.wikipedia.org/wiki/Japanese_Hospital_(Saipan),Japanese Hospital,japanese-hospital,japanese-hospital-saipan,UNK
+Japanese,26080673,3,114,,http://en.wikipedia.org/wiki/Japanese_Village,Japanese Village,japanese-village,japanese-village,UNK
+Japanese,2729996,278,200,30057;914179;266152;15606;157649;15573;40293;47361,http://en.wikipedia.org/wiki/Japanese_asset_price_bubble,Japanese asset price bubble,japanese-asset-price-bubble,japanese-asset-price-bubble,UNK
+Japanese,2574829,10,26,3434750,http://en.wikipedia.org/wiki/Japanese_family,Japanese family,japanese-family,japanese-family,UNK
+Japanese,2977331,99,131,15606;1004626;15573,http://en.wikipedia.org/wiki/Japanese_books,Japanese books,japanese-books,japanese-books,UNK
+Japanese,914179,136,76,2729996;40293,http://en.wikipedia.org/wiki/Japanese_domestic_market,Japanese domestic market,japanese-domestic-market,japanese-domestic-market,GPE
+Japanese,1922311,354,287,30922663;30057;266152;15606;15573;344430,http://en.wikipedia.org/wiki/Japanese_castle,Japanese castle,japanese-castle,japanese-castle,UNK
+Japanese,147807,110,96,266152;15573;147807;15976,http://en.wikipedia.org/wiki/Japanese_New_Year,Japanese New Year,japanese-new-year,japanese-new-year,UNK
+Japanese,2574754,1,23,15573;30057,http://en.wikipedia.org/wiki/Japanese_neighborhood,Japanese neighborhood,japanese-neighborhood,japanese-neighborhood,UNK
+Japanese,716657,363,356,3434750;186932;15606;15573,http://en.wikipedia.org/wiki/Japanese_Brazilian,Japanese Brazilian,japanese-brazilian,japanese-brazilian,UNK
+Japanese,15976,937,662,147807;186932;2611945;1077950;3434750;15573;344430,http://en.wikipedia.org/wiki/Japanese_cuisine,Japanese cuisine,japanese-cuisine,japanese-cuisine,UNK
+Japanese,26591527,0,3,39920721,http://en.wikipedia.org/wiki/Japanese_Hospital,Japanese Hospital,japanese-hospital,japanese-hospital,UNK
+Japanese,1055369,29,27,15573,http://en.wikipedia.org/wiki/Japanese_mathematics,Japanese mathematics,japanese-mathematics,japanese-mathematics,UNK
+Japanese,18935639,156,138,15606;1245772;18935639;3434750;645042,http://en.wikipedia.org/wiki/Japanese_Wikipedia,Japanese Wikipedia,japanese-wikipedia,japanese-wikipedia,UNK
+Japanese,15606,12275,331,5460564;3434750;30855569;37154180;716657;2977331;2729996;11884;186932;30057;18935639;1922311;15606;1004626;15573;18357891,http://en.wikipedia.org/wiki/Japanese_language,Japanese language,japanese-language,japanese-language,UNK
+Japanese,1004626,140,160,2977331;15606;15573,http://en.wikipedia.org/wiki/Old_Japanese,Old Japanese,old-japanese,old-japanese,UNK
+Dow Jones,47361,425,319,46638;10819;53667;157649;40293;21560;5043324;497717;173070;2729996,http://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average,Dow Jones Industrial Average,dow-jones-industrial-average,dow-jones-industrial-average,UNK
+Dow Jones,46638,524,126,645042;173070;47361,http://en.wikipedia.org/wiki/Dow_Jones_&_Company,Dow Jones & Company,dow-jones-company,dow-jones-company,UNK
+Dow Jones,23151272,29,24,23151272,http://en.wikipedia.org/wiki/Dow_Jones_Sustainability_Index,Dow Jones Sustainability Index,dow-jones-sustainability-index,dow-jones-sustainability-index,ORG
+New York Stock Exchange,21560,3655,411,157649;1470149;3434750;538722;173070;497717;8210131;47361;469729;37274;645042;1922153,http://en.wikipedia.org/wiki/New_York_Stock_Exchange,New York Stock Exchange,new-york-stock-exchange,new-york-stock-exchange,UNK
+Treasury,53667,1431,107,195149;10819;70243;17369751;47361;53667;247095,http://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury,United States Department of the Treasury,united-states-department-of-the-treasury,united-states-department-of-the-treasury,ORG
+Treasury,176736,1007,349,17867;176736;247095;497717,http://en.wikipedia.org/wiki/HM_Treasury,HM Treasury,hm-treasury,hm-treasury,UNK
+Treasury,37004509,44,69,,http://en.wikipedia.org/wiki/The_Treasury_(New_South_Wales),The Treasury,the-treasury,the-treasury-new-south-wales,UNK
+Treasury,3333017,188,135,15573,http://en.wikipedia.org/wiki/Treasury_Islands,Treasury Islands,treasury-islands,treasury-islands,UNK
+Treasury,1235068,4,5,1235068,http://en.wikipedia.org/wiki/Treasury_services,Treasury services,treasury-services,treasury-services,UNK
+Treasury,5185976,13,35,3434750,http://en.wikipedia.org/wiki/The_Treasury_(store),The Treasury,the-treasury,the-treasury-store,UNK
+Treasury,2652657,70,91,,"http://en.wikipedia.org/wiki/Treasury_Building,_Brisbane","Treasury Building, Brisbane",treasury-building-brisbane,treasury-building-brisbane,UNK
+Treasury,4658610,130,96,,http://en.wikipedia.org/wiki/National_Treasury_(South_Africa),National Treasury,national-treasury,national-treasury-south-africa,UNK
+Treasury,5429563,116,50,247095,http://en.wikipedia.org/wiki/Department_of_the_Treasury_(Australia),Department of the Treasury,department-of-the-treasury,department-of-the-treasury-australia,UNK
+Treasury,247095,335,53,176736;5429563;53667;15573;3434750,http://en.wikipedia.org/wiki/Treasury,Treasury,treasury,treasury,UNK
+Treasury,17369751,82,120,53667;3434750,"http://en.wikipedia.org/wiki/Treasury_Building_(Washington,_D.C.)",Treasury Building,treasury-building,treasury-building-washington-dc,UNK
+Treasury,12297251,0,6,,http://en.wikipedia.org/wiki/Treasury_company,Treasury company,treasury-company,treasury-company,UNK
+Treasury,18060850,18,33,,http://en.wikipedia.org/wiki/A_Treasury,A Treasury,a-treasury,a-treasury,UNK
+Treasury,4999724,93,41,,http://en.wikipedia.org/wiki/New_Zealand_Treasury,New Zealand Treasury,new-zealand-treasury,new-zealand-treasury,ORG
+Raymond James,1922153,109,103,752288;28881353;21560;3434750,http://en.wikipedia.org/wiki/Raymond_James_Financial,Raymond James Financial,raymond-james-financial,raymond-james-financial,UNK
+Raymond James,752288,784,410,1922153,http://en.wikipedia.org/wiki/Raymond_James_Stadium,Raymond James Stadium,raymond-james-stadium,raymond-james-stadium,UNK
+Raymond James,28881353,1,14,1922153,http://en.wikipedia.org/wiki/Raymond_James_Tower,Raymond James Tower,raymond-james-tower,raymond-james-tower,UNK
+Dow,47361,425,319,46638;10819;53667;157649;40293;21560;5043324;497717;173070;2729996,http://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average,Dow Jones Industrial Average,dow-jones-industrial-average,dow-jones-industrial-average,UNK
+Dow,46638,524,126,645042;173070;47361,http://en.wikipedia.org/wiki/Dow_Jones_&_Company,Dow Jones & Company,dow-jones-company,dow-jones-company,UNK
+Dow,23151272,29,24,23151272,http://en.wikipedia.org/wiki/Dow_Jones_Sustainability_Index,Dow Jones Sustainability Index,dow-jones-sustainability-index,dow-jones-sustainability-index,ORG
+Wall Street,37274,2278,668,195149;21560;729331;157649;3434750;5043324;469729;5043544;10819;645042;32070;2194942;538722;173070;22637915;1498884;8210131,http://en.wikipedia.org/wiki/Wall_Street,Wall Street,wall-street,wall-street,UNK
+Wall Street,2766979,81,197,11867;3434750,http://en.wikipedia.org/wiki/Wall_Street_Institute,Wall Street Institute,wall-street-institute,wall-street-institute,ORG
+Wall Street,538722,45,36,37274;21560;645042,http://en.wikipedia.org/wiki/Wall_Street_bombing,Wall Street bombing,wall-street-bombing,wall-street-bombing,UNK
+Wall Street,28015003,9,33,3434750,"http://en.wikipedia.org/wiki/Wall_Street_Historic_District_(Norwalk,_Connecticut)",Wall Street Historic District,wall-street-historic-district,wall-street-historic-district-norwalk-connecticut,UNK
+Wall Street,729331,20,119,1498884;8210131;37274;3434750,http://en.wikipedia.org/wiki/Wall_Street_(IRT_Lexington_Avenue_Line),Wall Street,wall-street,wall-street-irt-lexington-avenue-line,UNK
+Wall Street,157649,724,137,37274;21560;32070;173070;2729996;47361;3434750;21212,http://en.wikipedia.org/wiki/Wall_Street_Crash_of_1929,Wall Street Crash of 1929,wall-street-crash-of-1929,wall-street-crash-of-1929,ORG
+Wall Street,22637915,136,166,173070;37274,http://en.wikipedia.org/wiki/Wall_Street:_Money_Never_Sleeps,Wall Street: Money Never Sleeps,wall-street-money-never-sleeps,wall-street-money-never-sleeps,UNK
+Wall Street,1498884,24,23,729331;37274,http://en.wikipedia.org/wiki/Wall_Street_(IRT_Broadway_–_Seventh_Avenue_Line),Wall Street,wall-street,wall-street-irt-broadway-–-seventh-avenue-line,UNK
+Wall Street,173070,6225,286,157649;3685635;3356;21560;37274;645042;22637915;290327;8210131;47361;46638;31747730,http://en.wikipedia.org/wiki/The_Wall_Street_Journal,The Wall Street Journal,the-wall-street-journal,the-wall-street-journal,UNK
+Wall Street,37845530,0,14,,http://en.wikipedia.org/wiki/Wall_Street_(1915_photograph),Wall Street,wall-street,wall-street-1915-photograph,UNK
+Wall Street,3355611,33,38,,http://en.wikipedia.org/wiki/Erin_Street_&_Wall_Street,Erin Street & Wall Street,erin-street-wall-street,erin-street-wall-street,UNK
+David Shulman,1721015,17,15,3434750,http://en.wikipedia.org/wiki/David_Shulman,David Shulman,david-shulman,david-shulman,PER
+Fed,10819,1565,765,3154281;195149;47361;3434750;5043324;5043544;10819;19223988;37274;32070;2194942;53667;8210131,http://en.wikipedia.org/wiki/Federal_Reserve_System,Federal Reserve System,federal-reserve-system,federal-reserve-system,UNK
+Fed,39005705,2,39,,http://en.wikipedia.org/wiki/Andrey_A._Fedorov,Andrey A. Fedorov,andrey-a-fedorov,andrey-a-fedorov,PER
+Fed,1074931,11,85,15573,http://en.wikipedia.org/wiki/Federation_of_Damanhur,Federation of Damanhur,federation-of-damanhur,federation-of-damanhur,UNK
+Fed,1879913,35,61,,http://en.wikipedia.org/wiki/Fedorov_Avtomat,Fedorov Avtomat,fedorov-avtomat,fedorov-avtomat,UNK
+Fed,8293033,3,24,3434750;645042,http://en.wikipedia.org/wiki/The_Fed_(Columbia_newspaper),The Fed,the-fed,the-fed-columbia-newspaper,ORG
+Fed,3154281,7,23,10819,http://en.wikipedia.org/wiki/Fed_model,Fed model,fed-model,fed-model,UNK
+Fed,19223988,72,167,10819;2194942;19223988,http://en.wikipedia.org/wiki/Federal_takeover_of_Fannie_Mae_and_Freddie_Mac,Federal takeover of Fannie Mae and Freddie Mac,federal-takeover-of-fannie-mae-and-freddie-mac,federal-takeover-of-fannie-mae-and-freddie-mac,ORG
+Fed,195149,12686,559,70243;3356;37274;201936;5043324;5043544;10819;3434750;645042;53667;25536;8210131;1764584;32070,http://en.wikipedia.org/wiki/Federal_government_of_the_United_States,Federal government of the United States,federal-government-of-the-united-states,federal-government-of-the-united-states,ORG
+Fed,262376,1815,676,3434750;262376;11867,http://en.wikipedia.org/wiki/Roger_Federer,Roger Federer,roger-federer,roger-federer,PER
+Fed,26345076,73,101,,http://en.wikipedia.org/wiki/Fed_(Law_&_Order),Fed,fed,fed-law-order,UNK
+Fed,9951070,635,151,,http://en.wikipedia.org/wiki/Fedora_(operating_system),Fedora,fedora,fedora-operating-system,UNK
+Fed,1686369,15,23,,http://en.wikipedia.org/wiki/FED_(camera),FED,fed,fed-camera,UNK
+Fed,2194942,324,121,10819;19223988;8210131;37274;3434750;645042,http://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_New_York,Federal Reserve Bank of New York,federal-reserve-bank-of-new-york,federal-reserve-bank-of-new-york,UNK
+Fed,11786,1118,471,11786;8210131,http://en.wikipedia.org/wiki/Federico_Fellini,Federico Fellini,federico-fellini,federico-fellini,PER
+Commerce Department,70243,870,78,195149;70243;605077;53667,http://en.wikipedia.org/wiki/United_States_Department_of_Commerce,United States Department of Commerce,united-states-department-of-commerce,united-states-department-of-commerce,ORG
+Clinton,3356,9511,1120,17867;15787239;173070;3356;195149;441501;9034086;25755;201936;5043324;79717;5043544;7515928;1068374;58762;8210131;187633;4566164;32070;6115598,http://en.wikipedia.org/wiki/Bill_Clinton,Bill Clinton,bill-clinton,bill-clinton,PER
+Clinton,15430859,14,36,,http://en.wikipedia.org/wiki/Clinton_Group,Clinton Group,clinton-group,clinton-group,UNK
+Clinton,16258552,67,322,8210131,http://en.wikipedia.org/wiki/Clinton_(grape),Clinton,clinton,clinton-grape,UNK
+Clinton,259248,61,63,8210131;3434750;23131702,"http://en.wikipedia.org/wiki/Clinton,_Maine","Clinton, Maine",clinton-maine,clinton-maine,GPE
+Clinton,15501685,21,32,3434750;39115658,"http://en.wikipedia.org/wiki/Clinton,_Ohio_County,_Virginia","Clinton, Ohio County, Virginia",clinton-ohio-county-virginia,clinton-ohio-county-virginia,GPE
+Clinton,26813354,4,13,26812946;26839183,http://en.wikipedia.org/wiki/Clinton_College_(Kentucky),Clinton College,clinton-college,clinton-college-kentucky,UNK
+Clinton,2634300,287,247,3434750,"http://en.wikipedia.org/wiki/Clinton,_Pennsylvania","Clinton, Pennsylvania",clinton-pennsylvania,clinton-pennsylvania,GPE
+Clinton,39582799,14,32,3434750,"http://en.wikipedia.org/wiki/Clinton,_Alabama","Clinton, Alabama",clinton-alabama,clinton-alabama,GPE
+Clinton,1599517,2,47,,http://en.wikipedia.org/wiki/Clinton_Road_(New_Jersey),Clinton Road,clinton-road,clinton-road-new-jersey,UNK
+Clinton,39115658,0,2,15501685;35790663,"http://en.wikipedia.org/wiki/Clinton,_West_Virginia","Clinton, West Virginia",clinton-west-virginia,clinton-west-virginia,UNK
+Clinton,10289396,1,1,,"http://en.wikipedia.org/wiki/Clinton,_IA_μSA","Clinton, IA μSA",clinton-ia-μsa,clinton-ia-μsa,PER
+Clinton,4739955,11,11,111084,http://en.wikipedia.org/wiki/Clinton_Lake_(Illinois),Clinton Lake,clinton-lake,clinton-lake-illinois,UNK
+Clinton,456723,157,79,58762,http://en.wikipedia.org/wiki/Baron_Clinton,Baron Clinton,baron-clinton,baron-clinton,PER
+Clinton,35790663,88,101,3434750;39115658,"http://en.wikipedia.org/wiki/Clinton,_Boone_County,_West_Virginia","Clinton, Boone County, West Virginia",clinton-boone-county-west-virginia,clinton-boone-county-west-virginia,GPE
+Clinton,28019151,2,11,,http://en.wikipedia.org/wiki/Clinton_Hill_(artist),Clinton Hill,clinton-hill,clinton-hill-artist,PER
+Clinton,783373,83,38,,"http://en.wikipedia.org/wiki/Clinton,_Ontario","Clinton, Ontario",clinton-ontario,clinton-ontario,UNK
+Clinton,1178330,163,118,17760216;8210131;3434750,http://en.wikipedia.org/wiki/Clinton_River_(Michigan),Clinton River,clinton-river,clinton-river-michigan,UNK
+Clinton,141092,9,5,,"http://en.wikipedia.org/wiki/Clinton,_Michigan","Clinton, Michigan",clinton-michigan,clinton-michigan,UNK
+Clinton,115566,71,47,8210131;3434750,"http://en.wikipedia.org/wiki/Clinton,_Louisiana","Clinton, Louisiana",clinton-louisiana,clinton-louisiana,GPE
+Clinton,260652,73,87,260653;3434750,"http://en.wikipedia.org/wiki/Clinton_(town),_Rock_County,_Wisconsin","Clinton (town), Rock County, Wisconsin",clinton-town-rock-county-wisconsin,clinton-town-rock-county-wisconsin,GPE
+Clinton,26839183,0,3,26813354;26812946,http://en.wikipedia.org/wiki/Clinton_College,Clinton College,clinton-college,clinton-college,ORG
+Clinton,6115598,189,226,8210131;3356;645042,http://en.wikipedia.org/wiki/Clinton_Foundation,Clinton Foundation,clinton-foundation,clinton-foundation,ORG
+Clinton,30130281,26,33,,"http://en.wikipedia.org/wiki/Clinton,_Virginia","Clinton, Virginia",clinton-virginia,clinton-virginia,GPE
+Clinton,22495993,88,95,22503586;3434750;23131702,"http://en.wikipedia.org/wiki/Clinton,_California","Clinton, California",clinton-california,clinton-california,GPE
+Clinton,4734389,18,28,,http://en.wikipedia.org/wiki/Clinton_Lake_(Kansas),Clinton Lake,clinton-lake,clinton-lake-kansas,UNK
+Clinton,31845910,157,170,,http://en.wikipedia.org/wiki/City_of_Clinton_(steam_ferry),City of Clinton,city-of-clinton,city-of-clinton-steam-ferry,UNK
+Clinton,9999509,126,135,10027457,http://en.wikipedia.org/wiki/USS_Clinton_(APA-144),USS Clinton,uss-clinton,uss-clinton-apa-144,UNK
+Clinton,260653,85,92,260652;3434750,"http://en.wikipedia.org/wiki/Clinton_(village),_Rock_County,_Wisconsin","Clinton (village), Rock County, Wisconsin",clinton-village-rock-county-wisconsin,clinton-village-rock-county-wisconsin,GPE
+Clinton,141341,4,4,,"http://en.wikipedia.org/wiki/Clinton,_New_York","Clinton, New York",clinton-new-york,clinton-new-york,UNK
+Clinton,26812946,7,6,26813354;26839183,http://en.wikipedia.org/wiki/Clinton_College_(Tennessee),Clinton College,clinton-college,clinton-college-tennessee,ORG
+Clinton,2592259,44,36,,http://en.wikipedia.org/wiki/Clinton_Hill_(athlete),Clinton Hill,clinton-hill,clinton-hill-athlete,UNK
+Clinton,13498874,2,9,8210131;10027457,http://en.wikipedia.org/wiki/USS_Clinton_(1864),USS Clinton,uss-clinton,uss-clinton-1864,UNK
+Clinton,1248206,0,30,,http://en.wikipedia.org/wiki/Clinton_Township,Clinton Township,clinton-township,clinton-township,GPE
+Clinton,4566164,51,50,3356,"http://en.wikipedia.org/wiki/Clinton,_New_Zealand","Clinton, New Zealand",clinton-new-zealand,clinton-new-zealand,UNK
+Clinton,16861366,4,23,3434750,http://en.wikipedia.org/wiki/Clinton_Airport,Clinton Airport,clinton-airport,clinton-airport,UNK
+Clinton,38393304,0,2,,"http://en.wikipedia.org/wiki/Clinton,_Iowa_Riverfront","Clinton, Iowa Riverfront",clinton-iowa-riverfront,clinton-iowa-riverfront,ORG
+Clinton,17760216,3,9,1178330,http://en.wikipedia.org/wiki/Clinton_River_(New_Zealand),Clinton River,clinton-river,clinton-river-new-zealand,UNK
+Clinton,10027457,3,4,13498874;9999509,http://en.wikipedia.org/wiki/USS_Clinton,USS Clinton,uss-clinton,uss-clinton,UNK
+Clinton,55466,0,11,,http://en.wikipedia.org/wiki/Clinton_County,Clinton County,clinton-county,clinton-county,UNK
+Clinton,58762,10,43,456723;3434750;3356,http://en.wikipedia.org/wiki/Clinton,Clinton,clinton,clinton,UNK
+Clinton,22503586,6,7,22495993,"http://en.wikipedia.org/wiki/Clinton,_Oakland,_California","Clinton, Oakland, California",clinton-oakland-california,clinton-oakland-california,GPE
+Clinton,23131702,111,117,259248;22495993,"http://en.wikipedia.org/wiki/Clinton,_Lassen_County,_California","Clinton, Lassen County, California",clinton-lassen-county-california,clinton-lassen-county-california,UNK
+Clinton,18745023,0,1,,"http://en.wikipedia.org/wiki/Clinton,_IA_µSA","Clinton, IA µSA",clinton-ia-µsa,clinton-ia-µsa,PER
+Clinton,111084,122,77,4739955;8210131;3434750,"http://en.wikipedia.org/wiki/Clinton,_Illinois","Clinton, Illinois",clinton-illinois,clinton-illinois,UNK
+Dick Morris,1068374,79,246,32070;187633;3434750;3356,http://en.wikipedia.org/wiki/Dick_Morris,Dick Morris,dick-morris,dick-morris,UNK
+Republican,32070,35165,1167,3356;201936;972939;10819;11867;157649;3434750;2067400;4880582;645042;11391701;7515928;1068374;8210131;1764584;1831009;32070;37274;5043324;5043544;21541992;746483;3685635;195149;187633,http://en.wikipedia.org/wiki/Republican_Party_(United_States),Republican Party,republican-party,republican-party-united-states,UNK
+Republican,1831009,277,269,11391701;32070;1831007;4880582,http://en.wikipedia.org/wiki/Republican_Party_(Northern_Mariana_Islands),Republican Party,republican-party,republican-party-northern-mariana-islands,UNK
+Republican,4991766,40,46,10891032,http://en.wikipedia.org/wiki/Republican_Party_(France),Republican Party,republican-party,republican-party-france,UNK
+Republican,11391701,452,280,1831009;32070;4880582,http://en.wikipedia.org/wiki/New_Jersey_Republican_State_Committee,New Jersey Republican State Committee,new-jersey-republican-state-committee,new-jersey-republican-state-committee,UNK
+Republican,268129,88,317,25755;1764584;772738;25536,http://en.wikipedia.org/wiki/Republicanism_in_the_United_Kingdom,Republicanism in the United Kingdom,republicanism-in-the-united-kingdom,republicanism-in-the-united-kingdom,UNK
+Republican,28535146,7,27,24516617,http://en.wikipedia.org/wiki/Republican_Party_(Cambodia),Republican Party,republican-party,republican-party-cambodia,ORG
+Republican,29747095,52,88,29715993,http://en.wikipedia.org/wiki/Republican_Party_(Turkey),Republican Party,republican-party,republican-party-turkey,ORG
+Republican,35495084,134,156,425582;972939;397335,http://en.wikipedia.org/wiki/Republican_Party_(Tunisia),Republican Party,republican-party,republican-party-tunisia,UNK
+Republican,3685635,198,114,32070;173070,"http://en.wikipedia.org/wiki/The_Republican_(Springfield,_Massachusetts)",The Republican,the-republican,the-republican-springfield-massachusetts,UNK
+Republican,163353,117,44,3434750,http://en.wikipedia.org/wiki/Republican_River,Republican River,republican-river,republican-river,UNK
+Republican,4520302,21,36,,http://en.wikipedia.org/wiki/Republican_Party_(Liberia),Republican Party,republican-party,republican-party-liberia,UNK
+Republican,36022822,1,27,39011948,"http://en.wikipedia.org/wiki/Republican_Party_(Iceland,_1953)",Republican Party,republican-party,republican-party-iceland-1953,UNK
+Republican,1826513,5,16,,http://en.wikipedia.org/wiki/Republican_Movement_(Mauritius),Republican Movement,republican-movement,republican-movement-mauritius,UNK
+Republican,30357010,13,9,,http://en.wikipedia.org/wiki/Republican_Party_(Bolivia),Republican Party,republican-party,republican-party-bolivia,ORG
+Republican,25823329,15,10,,http://en.wikipedia.org/wiki/Republican_Party_(Panama),Republican Party,republican-party,republican-party-panama,UNK
+Republican,25575725,10,12,,http://en.wikipedia.org/wiki/Republican_Party_(Brazil),Republican Party,republican-party,republican-party-brazil,ORG
+Republican,25536,2113,292,195149;772738;26793252;25755;25536;1764584;7515928;11867;268129,http://en.wikipedia.org/wiki/Republic,Republic,republic,republic,UNK
+Republican,40808573,7,28,25755,http://en.wikipedia.org/wiki/Republican_Party_(China),Republican Party,republican-party,republican-party-china,UNK
+Republican,1765880,24,23,,http://en.wikipedia.org/wiki/Republican_Party_(Malawi),Republican Party,republican-party,republican-party-malawi,UNK
+Republican,2730695,22,26,,http://en.wikipedia.org/wiki/Republican_Movement_(Ireland),Republican Movement,republican-movement,republican-movement-ireland,UNK
+Republican,39011948,2,6,36022822,"http://en.wikipedia.org/wiki/Republican_Party_(Iceland,_Current)",Republican Party,republican-party,republican-party-iceland-current,UNK
+Republican,32934828,29,33,,http://en.wikipedia.org/wiki/Republican_Party_(Jamaica),Republican Party,republican-party,republican-party-jamaica,ORG
+Republican,3875470,23,25,,http://en.wikipedia.org/wiki/Republican_Party_(Pakistan),Republican Party,republican-party,republican-party-pakistan,UNK
+Republican,2224239,98,79,2224206,http://en.wikipedia.org/wiki/New_Zealand_Republican_Party_(1995),New Zealand Republican Party,new-zealand-republican-party,new-zealand-republican-party-1995,UNK
+Republican,14090634,24,24,1645692,http://en.wikipedia.org/wiki/Republican_Party_(East_Timor),Republican Party,republican-party,republican-party-east-timor,UNK
+Republican,23773817,59,29,,http://en.wikipedia.org/wiki/Republican_Party_(Estonia),Republican Party,republican-party,republican-party-estonia,ORG
+Republican,746483,27,47,3434750;32070,http://en.wikipedia.org/wiki/Republican_In_Name_Only,Republican In Name Only,republican-in-name-only,republican-in-name-only,UNK
+Republican,19950005,2,14,,http://en.wikipedia.org/wiki/Republican_Building_(Jinan),Republican Building,republican-building,republican-building-jinan,UNK
+Republican,187633,188,218,1068374;32070;187633;5043544;8210131;3356,http://en.wikipedia.org/wiki/Republican_Revolution,Republican Revolution,republican-revolution,republican-revolution,UNK
+Republican,25755,979,227,772738;4205684;40808573;29204554;25536;3356;1764584;268129,http://en.wikipedia.org/wiki/Republicanism,Republicanism,republicanism,republicanism,UNK
+Republican,36930635,7,47,11884,http://en.wikipedia.org/wiki/Republican_Movement_(Switzerland),Republican Movement,republican-movement,republican-movement-switzerland,UNK
+Republican,4880582,299,455,15787239;1831009;11391701;32070,http://en.wikipedia.org/wiki/Republican_Party_(Puerto_Rico),Republican Party,republican-party,republican-party-puerto-rico,ORG
+Republican,1826884,45,26,,http://en.wikipedia.org/wiki/Republican_Party_(Namibia),Republican Party,republican-party,republican-party-namibia,UNK
+Republican,2224206,81,78,2224239,http://en.wikipedia.org/wiki/New_Zealand_Republican_Party_(1967),New Zealand Republican Party,new-zealand-republican-party,new-zealand-republican-party-1967,UNK
+Republican,2228574,71,72,,http://en.wikipedia.org/wiki/Republican_Movement_(Colombia),Republican Movement,republican-movement,republican-movement-colombia,UNK
+Republican,1764584,221,139,25755;195149;32070;268129;772738;25536;5043544;3434750,http://en.wikipedia.org/wiki/Republicanism_in_the_United_States,Republicanism in the United States,republicanism-in-the-united-states,republicanism-in-the-united-states,UNK
+Republican,772738,852,371,772738;25755;25536;3434750;1764584;268129,http://en.wikipedia.org/wiki/Irish_republicanism,Irish republicanism,irish-republicanism,irish-republicanism,UNK
+Republican,33017764,243,197,,"http://en.wikipedia.org/wiki/Republican_Stadium,_Yerevan","Republican Stadium, Yerevan",republican-stadium-yerevan,republican-stadium-yerevan,UNK
+Republican,639307,7,10,,http://en.wikipedia.org/wiki/Republican_Party_(Canada),Republican Party,republican-party,republican-party-canada,ORG
+Republican,1656176,14,19,,http://en.wikipedia.org/wiki/Republican_Party_(Abkhazia),Republican Party,republican-party,republican-party-abkhazia,UNK
+Democratic,5043544,35912,1060,15787239;10891032;3356;201936;10819;3434750;401521;645042;9034086;7515928;8210131;1764584;1831007;32070;37274;5043324;5043544;195149;187633,http://en.wikipedia.org/wiki/Democratic_Party_(United_States),Democratic Party,democratic-party,democratic-party-united-states,UNK
+Democratic,2361190,7,3,401521,"http://en.wikipedia.org/wiki/Democratic_Party_(UK,_1942)",Democratic Party,democratic-party,democratic-party-uk-1942,ORG
+Democratic,413328,78,53,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Cyprus),Democratic Party,democratic-party,democratic-party-cyprus,UNK
+Democratic,7461727,7,25,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Nicaragua),Democratic Party,democratic-party,democratic-party-nicaragua,ORG
+Democratic,5640778,40,33,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Solomon_Islands),Democratic Party,democratic-party,democratic-party-solomon-islands,UNK
+Democratic,1706519,95,31,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Cook_Islands),Democratic Party,democratic-party,democratic-party-cook-islands,UNK
+Democratic,24887608,20,36,9034086,http://en.wikipedia.org/wiki/Democratic_Area,Democratic Area,democratic-area,democratic-area,UNK
+Democratic,2361167,11,8,401521,"http://en.wikipedia.org/wiki/Democratic_Party_(UK,_1969)",Democratic Party,democratic-party,democratic-party-uk-1969,UNK
+Democratic,1273542,187,44,401521;1273542,http://en.wikipedia.org/wiki/Democratic_Party_(Romania),Democratic Party,democratic-party,democratic-party-romania,UNK
+Democratic,15787239,270,280,4880582;5043544;3356,http://en.wikipedia.org/wiki/Democratic_Party_(Puerto_Rico),Democratic Party,democratic-party,democratic-party-puerto-rico,UNK
+Democratic,1744137,72,42,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Kenya),Democratic Party,democratic-party,democratic-party-kenya,UNK
+Democratic,2067400,170,40,401521;32070,http://en.wikipedia.org/wiki/Democratic_Party_(Mongolia),Democratic Party,democratic-party,democratic-party-mongolia,UNK
+Democratic,1400179,41,29,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Northern_Cyprus),Democratic Party,democratic-party,democratic-party-northern-cyprus,UNK
+Democratic,424727,383,266,11867;22681663;401521;9034086,http://en.wikipedia.org/wiki/Democratic_Party_(Serbia),Democratic Party,democratic-party,democratic-party-serbia,UNK
+Democratic,39216869,16,10,,http://en.wikipedia.org/wiki/Democratic_Party_(Philippines),Democratic Party,democratic-party,democratic-party-philippines,UNK
+Democratic,401521,10,127,408248;1645692;1693279;425582;2067495;1706519;1831007;1807248;424727;1119869;7461727;9034086;972939;397335;390584;1744137;2361167;1400179;5043544;5640778;2134621;2661685;2361190;2067400;413328;2814682;29715993;24516617;521832;23262816;28385253;31859207;1273542;27927795;15044024;1973976,http://en.wikipedia.org/wiki/Democratic_Party,Democratic Party,democratic-party,democratic-party,UNK
+Democratic,1807248,53,53,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Uganda),Democratic Party,democratic-party,democratic-party-uganda,UNK
+Democratic,408248,27,29,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Andorra),Democratic Party,democratic-party,democratic-party-andorra,UNK
+Democratic,2814682,18,44,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Tanzania),Democratic Party,democratic-party,democratic-party-tanzania,UNK
+Democratic,2134621,102,85,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Bulgaria),Democratic Party,democratic-party,democratic-party-bulgaria,UNK
+Democratic,27927795,31,17,401521;23262816,http://en.wikipedia.org/wiki/Democratic_Party_(1943),Democratic Party,democratic-party,democratic-party-1943,PER
+Democratic,15044024,5,5,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Gambia),Democratic Party,democratic-party,democratic-party-gambia,ORG
+Democratic,972939,242,79,401521;32070;425582;35495084,http://en.wikipedia.org/wiki/Democratic_Party_(Indonesia),Democratic Party,democratic-party,democratic-party-indonesia,UNK
+Democratic,1831007,21,16,401521;3434750;1831009;5043544,http://en.wikipedia.org/wiki/Democratic_Party_(Northern_Mariana_Islands),Democratic Party,democratic-party,democratic-party-northern-mariana-islands,UNK
+Democratic,390584,557,369,401521,http://en.wikipedia.org/wiki/Democratic_Party_(South_Africa),Democratic Party,democratic-party,democratic-party-south-africa,UNK
+Democratic,23262816,9,11,401521;27927795,http://en.wikipedia.org/wiki/Democratic_Party_(1920),Democratic Party,democratic-party,democratic-party-1920,ORG
+Democratic,31859207,10,13,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Singapore),Democratic Party,democratic-party,democratic-party-singapore,UNK
+Democratic,861888,14,22,2067495,http://en.wikipedia.org/wiki/Democratic_Party_(Curaçao),Democratic Party,democratic-party,democratic-party-curacao,UNK
+Democratic,2067495,12,25,401521;861888,http://en.wikipedia.org/wiki/Democratic_Party_(Sint_Eustatius),Democratic Party,democratic-party,democratic-party-sint-eustatius,UNK
+Democratic,28385253,8,31,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Burma),Democratic Party,democratic-party,democratic-party-burma,ORG
+Democratic,23688978,124,159,,http://en.wikipedia.org/wiki/Democratic_Russia,Democratic Russia,democratic-russia,democratic-russia,UNK
+Democratic,425582,285,204,972939;401521;11884;397335;35495084,http://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg),Democratic Party,democratic-party,democratic-party-luxembourg,UNK
+Democratic,1119869,135,66,401521;29715993,"http://en.wikipedia.org/wiki/Democratic_Party_(Turkey,_current)",Democratic Party,democratic-party,democratic-party-turkey-current,UNK
+Democratic,1973976,27,55,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Slovakia),Democratic Party,democratic-party,democratic-party-slovakia,UNK
+Democratic,24516617,33,38,28535146;401521,http://en.wikipedia.org/wiki/Democratic_Party_(Cambodia),Democratic Party,democratic-party,democratic-party-cambodia,ORG
+Democratic,10891032,265,101,5043544;4991766,http://en.wikipedia.org/wiki/Democratic_Movement_(France),Democratic Movement,democratic-movement,democratic-movement-france,UNK
+Democratic,22681663,62,52,424727;21212;13314138,http://en.wikipedia.org/wiki/Democratic_Party_(Yugoslavia),Democratic Party,democratic-party,democratic-party-yugoslavia,UNK
+Democratic,5387718,12,19,,http://en.wikipedia.org/wiki/Democratic_International,Democratic International,democratic-international,democratic-international,ORG
+Democratic,1645692,38,45,1645692;14090634;401521;3434750,http://en.wikipedia.org/wiki/Democratic_Party_(East_Timor),Democratic Party,democratic-party,democratic-party-east-timor,UNK
+Democratic,1693279,90,74,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Mendoza),Democratic Party,democratic-party,democratic-party-mendoza,UNK
+Democratic,397335,394,153,425582;35495084;401521,http://en.wikipedia.org/wiki/Democratic_Party_(Hong_Kong),Democratic Party,democratic-party,democratic-party-hong-kong,UNK
+Democratic,29715993,65,90,1119869;401521;29747095,"http://en.wikipedia.org/wiki/Democratic_Party_(Turkey,_1970)",Democratic Party,democratic-party,democratic-party-turkey-1970,UNK
+Democratic,4205684,28,39,25755,http://en.wikipedia.org/wiki/Democratic_Party_(Portugal),Democratic Party,democratic-party,democratic-party-portugal,UNK
+Democratic,2661685,20,19,401521,http://en.wikipedia.org/wiki/Democratic_Party_(Tajikistan),Democratic Party,democratic-party,democratic-party-tajikistan,UNK
+Democratic,29204554,12,18,25755,http://en.wikipedia.org/wiki/Democratic_Party_(Spain),Democratic Party,democratic-party,democratic-party-spain,UNK
+Democratic,521832,8,12,401521,"http://en.wikipedia.org/wiki/Democratic_Party_(UK,_1998)",Democratic Party,democratic-party,democratic-party-uk-1998,UNK
+Democratic,9034086,992,446,424727;24887608;11867;3356;401521;5043544,http://en.wikipedia.org/wiki/Democratic_Party_(Italy),Democratic Party,democratic-party,democratic-party-italy,UNK
+Democratic,24236331,24,6,,"http://en.wikipedia.org/wiki/Democratic_Party_(Japan,_1947)",Democratic Party,democratic-party,democratic-party-japan-1947,UNK
+Democratic,10015348,21,33,,http://en.wikipedia.org/wiki/Democratic_Movement_(Israel),Democratic Movement,democratic-movement,democratic-movement-israel,UNK
+Morris,1068374,79,246,32070;187633;3434750;3356,http://en.wikipedia.org/wiki/Dick_Morris,Dick Morris,dick-morris,dick-morris,UNK
+Iraq,7515928,18884,662,30920463;3356;201936;5043324;5043544;11867;14665;1038799;15573;3434750;2900620;25536;7515928;8210131;26793252;30057;246612;32070,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+Iraq,5043324,6133,1280,3434750;3356;195149;37274;2900620;201936;5043324;5043544;7515928;10819;11867;8210131;26793252;47361;246612;32070;14665;1038799;10013089;15573,http://en.wikipedia.org/wiki/Iraq_War,Iraq War,iraq-war,iraq-war,UNK
+Iraq,10013089,0,8,5043324,http://en.wikipedia.org/wiki/Iraq_the_model,Iraq the model,iraq-the-model,iraq-the-model,UNK
+Iraq,2900620,479,199,2900620;246612;26793252;5043324;14665;1038799;201936;7515928,http://en.wikipedia.org/wiki/Kingdom_of_Iraq,Kingdom of Iraq,kingdom-of-iraq,kingdom-of-iraq,GPE
+Iraq,246612,247,253,5043324;14665;2900620;1038799;201936;26793252;7515928,http://en.wikipedia.org/wiki/Iraqi_dinar,Iraqi dinar,iraqi-dinar,iraqi-dinar,UNK
+Iraq,14665,219,271,5043324;14665;2900620;246612;1038799;201936;26793252;7515928,http://en.wikipedia.org/wiki/Geography_of_Iraq,Geography of Iraq,geography-of-iraq,geography-of-iraq,UNK
+Iraq,26793252,147,159,5043324;14665;2900620;246612;1038799;25536;201936;26793252;7515928,http://en.wikipedia.org/wiki/Iraqi_Republic_(1958–68),Iraqi Republic,iraqi-republic,iraqi-republic-1958–68,GPE
+Iraq,201936,2386,848,195149;26793252;201936;3434750;5043324;5043544;7515928;246612;32070;14665;1038799;2900620;3356;15573,http://en.wikipedia.org/wiki/2003_invasion_of_Iraq,2003 invasion of Iraq,2003-invasion-of-iraq,2003-invasion-of-iraq,UNK
+Iraq,1038799,151,365,2900620;246612;26793252;5043324;14665;1038799;201936;7515928,http://en.wikipedia.org/wiki/Mandatory_Iraq,Mandatory Iraq,mandatory-iraq,mandatory-iraq,GPE
+Iraq,30920463,349,324,7515928,http://en.wikipedia.org/wiki/2011_Iraqi_protests,2011 Iraqi protests,2011-iraqi-protests,2011-iraqi-protests,UNK
+New York Mercantile Exchange,469729,151,86,3070563;30057;17867;37274;21560;645042,http://en.wikipedia.org/wiki/New_York_Mercantile_Exchange,New York Mercantile Exchange,new-york-mercantile-exchange,new-york-mercantile-exchange,ORG
+New York Cotton Exchange,3070563,33,15,469729;645042,http://en.wikipedia.org/wiki/New_York_Cotton_Exchange,New York Cotton Exchange,new-york-cotton-exchange,new-york-cotton-exchange,UNK
+U.S.,3434750,529967,1252,10819;10612;11884;11867;12249;15976;15606;15573;17867;2241658;21560;30057;32070;22495993;40493;37274;18935639;1178330;58762;1077950;1068374;100805;111084;109153;115566;130584;126281;5758622;132530;157649;163353;28015003;19068853;25758881;166215;195149;186932;201936;2194942;16861366;15501685;238192;233474;260652;260653;259248;39920721;21310853;247095;290327;262376;35790663;9269386;326248;7515928;2574829;10328578;17065397;1559449;435793;436898;7402167;3434750;13288448;5043324;5043544;1645692;3868301;2766979;3880857;635553;6046607;645042;15082701;8293033;605077;606772;716657;8210131;1831007;7112349;39582799;2634300;5185976;772738;1764584;729331;17369751;746483;1721015;1922153;32520400;42060415;891699;26723573;1853140;12050833;27746113;2913859;2023355,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S.,441501,524,288,889461;888778;5430296;435793;447879;436898;3356;75235;645042;887108;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S.,10328578,210,402,435793;10328648;10328590;3434750;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S.,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S.,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S.,16304842,112,175,8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S.,233474,102,93,3434750,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S.,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;70780;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S.,429750,276,240,887108;441501;79717;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S.,10328648,378,412,903062;10328590;10328578;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S.,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S.,6737193,115,173,887108;11867,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S.,21559355,95,143,,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S.,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S.,444113,128,143,,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S.,605077,301,341,70243;8210131;3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S.,79717,694,442,889461;435793;645042;887108;9180009;441501;889284;429750;3868301;888778;447879;436898;3356;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+U.S.,902392,245,190,22398962;436898;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S.,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284;109153,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S.,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S.,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S.,889284,455,321,889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S.,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S.,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S.,435793,251,290,889461;498188;888778;447879;436898;10328578;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S.,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S.,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;645042;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;8210131;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S.,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S.,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S.,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S.,889461,178,203,887108;441501;79717;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S.,903385,68,230,903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S.,447879,394,337,16304842;889461;903062;888778;435793;436898;75235;10328575;887108;9180009;441501;79717;428913;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S.,2440624,133,162,70780;3868301,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S.,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S.,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S.,70780,396,232,889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S.,3868301,350,531,3434750;2440624;79717;70780,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S.,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S.,436898,769,483,889461;435793;887108;441501;889284;429750;902392;888778;447879;3434750;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S.,238192,394,239,889461;888778;435793;447879;436898;10328648;3434750;10328620;75235;10328575;887108;441501;79717;428913;70780;903385;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S.,6310196,592,545,435793;10328648;10328590;10328578;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+U.S.,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+FTSE 100,497717,495,558,176736;21560;47361,http://en.wikipedia.org/wiki/FTSE_100_Index,FTSE 100 Index,ftse-100-index,ftse-100-index,UNK
+Tokyo,30057,20218,1027,24210789;344430;482088;482178;166215;29025998;11867;12249;42989724;32165991;1922311;15606;15573;18357891;17867;10765373;364805;5460564;265516;3434750;266152;23076410;37154180;1877139;469729;18443430;645042;1171535;2729996;148869;7515928;2913859;2574754;30057,http://en.wikipedia.org/wiki/Tokyo,Tokyo,tokyo,tokyo,GPE
+Tokyo,482178,117,10,482088;15573;30057,http://en.wikipedia.org/wiki/Tokyo_Prefecture,Tokyo Prefecture,tokyo-prefecture,tokyo-prefecture,UNK
+Tokyo,15409922,14,17,166215;15409922,"http://en.wikipedia.org/wiki/University_of_Tokyo,_Komaba_Campus","University of Tokyo, Komaba Campus",university-of-tokyo-komaba-campus,university-of-tokyo-komaba-campus,UNK
+Tokyo,265516,810,67,30057;15573,http://en.wikipedia.org/wiki/Tokyo_Bay,Tokyo Bay,tokyo-bay,tokyo-bay,UNK
+Tokyo,10765373,9,5,30057,http://en.wikipedia.org/wiki/Tokyo_Journal,Tokyo Journal,tokyo-journal,tokyo-journal,ORG
+Tokyo,42989724,73,82,22437586;30057,http://en.wikipedia.org/wiki/.tokyo,.tokyo,tokyo,tokyo,UNK
+Tokyo,23076410,5,24,30057;15573,http://en.wikipedia.org/wiki/Tokyo_Tokyo,Tokyo Tokyo,tokyo-tokyo,tokyo-tokyo,UNK
+Tokyo,5460564,42,47,15606;30057;11884,http://en.wikipedia.org/wiki/Tokyo-Ga,Tokyo-Ga,tokyo-ga,tokyo-ga,UNK
+Tokyo,266152,164,56,30057;1922311;2729996;364805;344430;147807,http://en.wikipedia.org/wiki/Tokyo_Imperial_Palace,Tokyo Imperial Palace,tokyo-imperial-palace,tokyo-imperial-palace,UNK
+Tokyo,100006303,0,0,,http://en.wikipedia.org/wiki/Tokyo_(Single),Tokyo,tokyo,tokyo-single,UKN
+Tokyo,364805,785,524,30057;266152;15573,http://en.wikipedia.org/wiki/Tokyo_Station,Tokyo Station,tokyo-station,tokyo-station,UNK
+Tokyo,5758622,26,58,3434750,http://en.wikipedia.org/wiki/Tokyo_Hotel_(Chicago),Tokyo Hotel,tokyo-hotel,tokyo-hotel-chicago,UNK
+Tokyo,15233114,53,67,,"http://en.wikipedia.org/wiki/Tokyo,_Oklahoma","Tokyo, Oklahoma",tokyo-oklahoma,tokyo-oklahoma,UNK
+Tokyo,24210789,3,2,30057;15573,http://en.wikipedia.org/wiki/Tokyo_Foundation,Tokyo Foundation,tokyo-foundation,tokyo-foundation,UNK
+Tokyo,30922663,660,216,1922311;344430,http://en.wikipedia.org/wiki/Tokyō,Tokyō,tokyo,tokyo,UNK
+Tokyo,1877139,195,183,1877139;30057;15573;148869,http://en.wikipedia.org/wiki/Tokyo_FM,Tokyo FM,tokyo-fm,tokyo-fm,ORG
+Tokyo,25758881,15,20,3434750,"http://en.wikipedia.org/wiki/Little_Tokyo,_U.S.A.","Little Tokyo, U.S.A.",little-tokyo-usa,little-tokyo-usa,UNK
+Tokyo,2913859,187,134,30057;3434750,http://en.wikipedia.org/wiki/The_Fast_and_the_Furious:_Tokyo_Drift,The Fast and the Furious: Tokyo Drift,the-fast-and-the-furious-tokyo-drift,the-fast-and-the-furious-tokyo-drift,UNK
+Tokyo,166215,1474,322,30057;166215;3434750;15409922;15573,http://en.wikipedia.org/wiki/University_of_Tokyo,University of Tokyo,university-of-tokyo,university-of-tokyo,UNK
+Tokyo,148869,287,196,1877139;30057;32165991,http://en.wikipedia.org/wiki/Tokyo_Tower,Tokyo Tower,tokyo-tower,tokyo-tower,UNK
+Tokyo,30855569,15,28,15606;15573,http://en.wikipedia.org/wiki/Tokyo_Park,Tokyo Park,tokyo-park,tokyo-park,UNK
+Tokyo,22416062,27,33,1171535;15573,http://en.wikipedia.org/wiki/F.C._Tokyo_(volleyball),F.C. Tokyo,fc-tokyo,fc-tokyo-volleyball,ORG
+Tokyo,482088,106,56,15573;30057;482178,http://en.wikipedia.org/wiki/Tokyo_City,Tokyo City,tokyo-city,tokyo-city,GPE
+Tokyo,1077950,209,183,15573;3434750;15976,"http://en.wikipedia.org/wiki/Little_Tokyo,_Los_Angeles","Little Tokyo, Los Angeles",little-tokyo-los-angeles,little-tokyo-los-angeles,UNK
+Tokyo,18357891,36,53,15606;30057,http://en.wikipedia.org/wiki/Tokyo!,Tokyo!,tokyo,tokyo,UNK
+Tokyo,37154180,67,34,15606;30057,http://en.wikipedia.org/wiki/Tokyo_Family,Tokyo Family,tokyo-family,tokyo-family,UNK
+Tokyo,1171535,578,385,22416062;30057;1171535;15573,http://en.wikipedia.org/wiki/F.C._Tokyo,F.C. Tokyo,fc-tokyo,fc-tokyo,UNK
+Tokyo,635553,252,202,3434750,http://en.wikipedia.org/wiki/Tokyo_Mew_Mew,Tokyo Mew Mew,tokyo-mew-mew,tokyo-mew-mew,UNK
+Tokyo,29025998,24,50,30057,http://en.wikipedia.org/wiki/Tokyo_(Vampires_&_Wolves),Tokyo,tokyo,tokyo-vampires-wolves,UNK
+Tokyo,18443430,17,32,18443430;30057;15573,http://en.wikipedia.org/wiki/Tokyo_Stadium_(1962),Tokyo Stadium,tokyo-stadium,tokyo-stadium-1962,UNK
+Tokyo,5704277,9,13,5704277,http://en.wikipedia.org/wiki/Tokyo_Love_Story,Tokyo Love Story,tokyo-love-story,tokyo-love-story,UNK
+Tokyo,32165991,84,163,15573;148869;30057,http://en.wikipedia.org/wiki/Tokyo_Building,Tokyo Building,tokyo-building,tokyo-building,UNK
+Tokyo,17065397,3,11,3434750,http://en.wikipedia.org/wiki/Tokyo_Tribe,Tokyo Tribe,tokyo-tribe,tokyo-tribe,UNK

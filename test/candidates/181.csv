@@ -1,0 +1,47 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Nigeria,21383,24464,860,3542988;626168;840510;537175;2227660;2029583;37163917;39901366;1006061;1646254;8579573;2444316;21385;21383;85232,http://en.wikipedia.org/wiki/Nigeria,Nigeria,nigeria,nigeria,GPE
+Nigeria,3542988,8,207,21385;21383;3542988;85232;840510,http://en.wikipedia.org/wiki/Petroleum_industry_in_Nigeria,Petroleum industry in Nigeria,petroleum-industry-in-nigeria,petroleum-industry-in-nigeria,ORG
+Nigeria,13220894,65,71,,http://en.wikipedia.org/wiki/HMS_Nigeria_(60),HMS Nigeria,hms-nigeria,hms-nigeria-60,UNK
+Nigeria,1006061,1682,504,21383;85232,http://en.wikipedia.org/wiki/Nigeria_national_football_team,Nigeria national football team,nigeria-national-football-team,nigeria-national-football-team,ORG
+Nigeria,21385,172,215,21385;21383;2444316;3542988;2227660,http://en.wikipedia.org/wiki/Geography_of_Nigeria,Geography of Nigeria,geography-of-nigeria,geography-of-nigeria,UNK
+Nigeria,635562,56,36,,"http://en.wikipedia.org/wiki/University_of_Nigeria,_Nsukka","University of Nigeria, Nsukka",university-of-nigeria-nsukka,university-of-nigeria-nsukka,UNK
+Nigeria,39901366,2,7,21383,"http://en.wikipedia.org/wiki/Nigeria,_We_Hail_Thee","Nigeria, We Hail Thee",nigeria-we-hail-thee,nigeria-we-hail-thee,UNK
+Nigeria,3873905,23,12,,http://en.wikipedia.org/wiki/Nigeria_Regiment,Nigeria Regiment,nigeria-regiment,nigeria-regiment,ORG
+LAGOS,85232,2521,323,3542988;537175;1006061;21383;626168;438139;85232;2029583;1646254,http://en.wikipedia.org/wiki/Lagos,Lagos,lagos,lagos,GPE
+LAGOS,9082847,12,35,,http://en.wikipedia.org/wiki/General_Lagos,General Lagos,general-lagos,general-lagos,GPE
+LAGOS,626168,725,155,1646254;21383;626168;85232;2029583;2227660,http://en.wikipedia.org/wiki/Lagos_State,Lagos State,lagos-state,lagos-state,UNK
+LAGOS,2029583,191,177,21383;626168;85232,http://en.wikipedia.org/wiki/University_of_Lagos,University of Lagos,university-of-lagos,university-of-lagos,UNK
+LAGOS,33196989,3,6,33196989;438139,http://en.wikipedia.org/wiki/Lagos_Castle,Lagos Castle,lagos-castle,lagos-castle,UNK
+LAGOS,13405686,6,26,,"http://en.wikipedia.org/wiki/Lagos,_Evros","Lagos, Evros",lagos-evros,lagos-evros,UNK
+LAGOS,438139,652,160,33196989;85232;19512701,"http://en.wikipedia.org/wiki/Lagos,_Portugal","Lagos, Portugal",lagos-portugal,lagos-portugal,GPE
+LAGOS,438144,550,551,438144,"http://en.wikipedia.org/wiki/Lagos,_Pyrénées-Atlantiques","Lagos, Pyrénées-Atlantiques",lagos-pyrenees-atlantiques,lagos-pyrenees-atlantiques,ORG
+LAGOS,19512701,5,10,438139,http://en.wikipedia.org/wiki/Lagos_DOC,Lagos DOC,lagos-doc,lagos-doc,UNK
+LAGOS,12193696,8,22,,"http://en.wikipedia.org/wiki/Lagos,_Xanthi","Lagos, Xanthi",lagos-xanthi,lagos-xanthi,UNK
+LAGOS,1646254,83,37,21383;626168;85232,http://en.wikipedia.org/wiki/Lagos_Island,Lagos Island,lagos-island,lagos-island,UNK
+Nigerian,21383,24464,860,3542988;626168;840510;537175;2227660;2029583;37163917;39901366;1006061;1646254;8579573;2444316;21385;21383;85232,http://en.wikipedia.org/wiki/Nigeria,Nigeria,nigeria,nigeria,GPE
+Nigerian,8579573,143,74,21383,http://en.wikipedia.org/wiki/British_Nigerian,British Nigerian,british-nigerian,british-nigerian,UNK
+Sokoto,537175,229,77,21383;2444316;85232;840510;2227660,http://en.wikipedia.org/wiki/Sokoto,Sokoto,sokoto,sokoto,GPE
+Sokoto,12166948,319,38,2227660,http://en.wikipedia.org/wiki/Nigerian_National_Assembly_delegation_from_Sokoto,Nigerian National Assembly delegation from Sokoto,nigerian-national-assembly-delegation-from-sokoto,nigerian-national-assembly-delegation-from-sokoto,UNK
+Sokoto,2444316,51,55,21385;537175;21383;2227660,http://en.wikipedia.org/wiki/Sokoto_River,Sokoto River,sokoto-river,sokoto-river,UNK
+Sokoto,2227660,566,109,2444316;12166948;537175;21385;21383;626168;840510,http://en.wikipedia.org/wiki/Sokoto_State,Sokoto State,sokoto-state,sokoto-state,UNK
+Sokoto,840510,323,71,21383;3542988;537175;2227660,http://en.wikipedia.org/wiki/Sokoto_Caliphate,Sokoto Caliphate,sokoto-caliphate,sokoto-caliphate,GPE
+News Agency of Nigeria,37163917,6,6,21383,http://en.wikipedia.org/wiki/News_Agency_of_Nigeria,News Agency of Nigeria,news-agency-of-nigeria,news-agency-of-nigeria,ORG
+NAN,21488,2078,624,871586;868108;21488;15439559,http://en.wikipedia.org/wiki/Nanotechnology,Nanotechnology,nanotechnology,nanotechnology,UNK
+NAN,871586,11,22,21488,http://en.wikipedia.org/wiki/Nanoshell,Nanoshell,nanoshell,nanoshell,UNK
+NAN,5793307,163,64,4521775;243411,http://en.wikipedia.org/wiki/Nan_River,Nan River,nan-river,nan-river,UNK
+NAN,243411,195,132,9705017;4521775;30864707;5793307,http://en.wikipedia.org/wiki/Nan_Province,Nan Province,nan-province,nan-province,GPE
+NAN,309953,122,70,,http://en.wikipedia.org/wiki/Nan_Goldin,Nan Goldin,nan-goldin,nan-goldin,PER
+NAN,55066,669,568,55066,http://en.wikipedia.org/wiki/Nanking_Massacre,Nanking Massacre,nanking-massacre,nanking-massacre,UNK
+NAN,3237717,14,21,,http://en.wikipedia.org/wiki/Nanpa,Nanpa,nanpa,nanpa,UNK
+NAN,9705017,43,57,4521775;243411,http://en.wikipedia.org/wiki/Nan_Airport,Nan Airport,nan-airport,nan-airport,UNK
+NAN,868108,390,329,868108;21488;15439559,http://en.wikipedia.org/wiki/Nanomaterials,Nanomaterials,nanomaterials,nanomaterials,UNK
+NAN,15439559,278,262,868108;21488,http://en.wikipedia.org/wiki/Nanowire_battery,Nanowire battery,nanowire-battery,nanowire-battery,UNK
+NAN,24702240,160,144,,http://en.wikipedia.org/wiki/Nan_County,Nan County,nan-county,nan-county,GPE
+NAN,49244,54,48,,http://en.wikipedia.org/wiki/NaN,NaN,nan,nan,UNK
+NAN,731746,436,393,,http://en.wikipedia.org/wiki/Nandrolone,Nandrolone,nandrolone,nandrolone,UNK
+NAN,4521775,120,116,5793307;9705017;243411,"http://en.wikipedia.org/wiki/Nan,_Thailand","Nan, Thailand",nan-thailand,nan-thailand,GPE
+NAN,10788704,20,173,,http://en.wikipedia.org/wiki/Nancy_Folbre,Nancy Folbre,nancy-folbre,nancy-folbre,PER
+NAN,11481790,138,126,,http://en.wikipedia.org/wiki/Nancy_Grace,Nancy Grace,nancy-grace,nancy-grace,PER
+NAN,198045,483,232,,http://en.wikipedia.org/wiki/Min_Nan,Min Nan,min-nan,min-nan,UNK
+NAN,30864707,26,51,243411,http://en.wikipedia.org/wiki/Nan_F.C.,Nan F.C.,nan-fc,nan-fc,GPE
+NAN,3736266,5,133,,http://en.wikipedia.org/wiki/Nan_Mountains,Nan Mountains,nan-mountains,nan-mountains,GPE

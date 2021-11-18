@@ -1,0 +1,326 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+SMICER,549482,164,148,729739;1075697;555876;5843419;5321,http://en.wikipedia.org/wiki/Vladimír_Šmicer,Vladimír Šmicer,vladimir-smicer,vladimir-smicer,PER
+LENS,1075697,1197,297,990753;357488;6026473;1973841;1640865;1005798;236986;761302;549482;1135276;5447;1135310;5843419;253764;492068;5321;3383;1256446,http://en.wikipedia.org/wiki/RC_Lens,RC Lens,rc-lens,rc-lens,UNK
+LENS,18320,582,147,2038396;1160145;305465;193977;63978,http://en.wikipedia.org/wiki/Lens_(optics),Lens,lens,lens-optics,UNK
+LENS,9787101,8,5,,http://en.wikipedia.org/wiki/Lens_Culture,Lens Culture,lens-culture,lens-culture,UNK
+LENS,305465,346,134,18320,http://en.wikipedia.org/wiki/Lens_(anatomy),Lens,lens,lens-anatomy,UNK
+LENS,1160145,12,12,18320,http://en.wikipedia.org/wiki/Lens_(genus),Lens,lens,lens-genus,PER
+LENS,236986,1272,909,955656;761302;5843419;1075697,"http://en.wikipedia.org/wiki/Lens,_Pas-de-Calais","Lens, Pas-de-Calais",lens-pas-de-calais,lens-pas-de-calais,UNK
+LENS,6447033,34,4,,http://en.wikipedia.org/wiki/Lens_(geology),Lens,lens,lens-geology,UNK
+LENS,2136053,11,56,10597,"http://en.wikipedia.org/wiki/Lens,_Switzerland","Lens, Switzerland",lens-switzerland,lens-switzerland,UNK
+LENS,10731280,87,92,,http://en.wikipedia.org/wiki/Lensk,Lensk,lensk,lensk,UNK
+LENS,2038396,33,10,18320,http://en.wikipedia.org/wiki/Lens_(geometry),Lens,lens,lens-geometry,PER
+LENS,21593535,5,7,,http://en.wikipedia.org/wiki/Lens_Records,Lens Records,lens-records,lens-records,ORG
+LENS,63978,919,59,18320;5843419,http://en.wikipedia.org/wiki/Fresnel_lens,Fresnel lens,fresnel-lens,fresnel-lens,UNK
+LENS,1211714,272,100,193977,http://en.wikipedia.org/wiki/Lens_mount,Lens mount,lens-mount,lens-mount,UNK
+LENS,29751912,14,6,,http://en.wikipedia.org/wiki/Lens_(hydrology),Lens,lens,lens-hydrology,ORG
+LENS,175252,88,83,,"http://en.wikipedia.org/wiki/Lens,_Belgium","Lens, Belgium",lens-belgium,lens-belgium,UNK
+LENS,193977,650,288,1211714;18320,http://en.wikipedia.org/wiki/Camera_lens,Camera lens,camera-lens,camera-lens,UNK
+PARIS,22989,46849,1623,6122287;1459639;5843419;73369;3383;2567493;5447;67453;5321;11188;357488;10597;33006596;761302;3966054;22192200;17422873;23527303;18987;5612901;644329;22989;84692;955656;705310;2048999;3453075;524642;37407;7114160;11599695;513436;52711;295105;1973841;2687967;932079;2628928;250197;7758150;57906;40888948;492068,http://en.wikipedia.org/wiki/Paris,Paris,paris,paris,UNK
+PARIS,14609428,2,9,5843419,"http://en.wikipedia.org/wiki/Paris,_Kiribati","Paris, Kiribati",paris-kiribati,paris-kiribati,UNK
+PARIS,22192200,73,81,5843419;22989,http://en.wikipedia.org/wiki/.paris,.paris,paris,paris,UNK
+PARIS,513436,42,51,10597;5843419;22989,"http://en.wikipedia.org/wiki/Paris,_Yukon","Paris, Yukon",paris-yukon,paris-yukon,UNK
+PARIS,111145,145,93,9116059,"http://en.wikipedia.org/wiki/Paris,_Illinois","Paris, Illinois",paris-illinois,paris-illinois,UNK
+PARIS,295105,1324,361,295105;22989,"http://en.wikipedia.org/wiki/Paris_Peace_Conference,_1919","Paris Peace Conference, 1919",paris-peace-conference-1919,paris-peace-conference-1919,UNK
+PARIS,10308003,1,1,,"http://en.wikipedia.org/wiki/Paris,_TN_μSA","Paris, TN μSA",paris-tn-μsa,paris-tn-μsa,PER
+PARIS,932079,86,56,10597;5843419;3966054;22989;3383,http://en.wikipedia.org/wiki/Paris_Club,Paris Club,paris-club,paris-club,UNK
+PARIS,1973841,442,93,1135276;5447;1135310;5843419;22989;990753;492068;357488;1256446;1640865;1075697;761302;250197,http://en.wikipedia.org/wiki/Paris_FC,Paris FC,paris-fc,paris-fc,UNK
+PARIS,31420657,1,7,,"http://en.wikipedia.org/wiki/Paris,_Denmark","Paris, Denmark",paris-denmark,paris-denmark,UNK
+PARIS,6198965,2,10,,http://en.wikipedia.org/wiki/Little_Paris,Little Paris,little-paris,little-paris,UNK
+PARIS,705310,278,202,5843419;22989,http://en.wikipedia.org/wiki/Paris_Las_Vegas,Paris Las Vegas,paris-las-vegas,paris-las-vegas,ORG
+PARIS,5655865,40,58,141772,"http://en.wikipedia.org/wiki/Paris_(community),_Wisconsin","Paris (community), Wisconsin",paris-community-wisconsin,paris-community-wisconsin,UNK
+PARIS,248424,203,53,,"http://en.wikipedia.org/wiki/Paris,_Ontario","Paris, Ontario",paris-ontario,paris-ontario,GPE
+PARIS,23768447,3,33,,"http://en.wikipedia.org/wiki/Paris,_Not_France","Paris, Not France",paris-not-france,paris-not-france,UNK
+PARIS,3453075,551,133,22989;11188;7114160;10597;40888948,http://en.wikipedia.org/wiki/Paris_Opera,Paris Opera,paris-opera,paris-opera,ORG
+PARIS,10224966,1,1,,"http://en.wikipedia.org/wiki/Paris,_TX_μSA","Paris, TX μSA",paris-tx-μsa,paris-tx-μsa,PER
+PARIS,18746173,0,1,,"http://en.wikipedia.org/wiki/Paris,_TN_µSA","Paris, TN µSA",paris-tn-µsa,paris-tn-µsa,PER
+PARIS,31631798,30,59,,"http://en.wikipedia.org/wiki/Paris,_Iowa","Paris, Iowa",paris-iowa,paris-iowa,UNK
+PARIS,4380507,178,264,,http://en.wikipedia.org/wiki/Count_Paris,Count Paris,count-paris,count-paris,UNK
+PARIS,3320433,8,13,,http://en.wikipedia.org/wiki/Paris_(genus),Paris,paris,paris-genus,PER
+PARIS,1645419,7,11,,"http://en.wikipedia.org/wiki/Paris,_Texas_(band)","Paris, Texas",paris-texas,paris-texas-band,UNK
+PARIS,8506637,3,18,3383,http://en.wikipedia.org/wiki/París_(retail),París,paris,paris-retail,UNK
+PARIS,84692,2888,164,3776038;11188;10597;5843419;22989;57906,http://en.wikipedia.org/wiki/University_of_Paris,University of Paris,university-of-paris,university-of-paris,ORG
+PARIS,4360088,0,257,,"http://en.wikipedia.org/wiki/Paris,_je_t'aime","Paris, je t'aime",paris-je-taime,paris-je-taime,UNK
+PARIS,141772,0,3,5655865,"http://en.wikipedia.org/wiki/Paris,_Wisconsin","Paris, Wisconsin",paris-wisconsin,paris-wisconsin,GPE
+PARIS,18746176,0,1,,"http://en.wikipedia.org/wiki/Paris,_TX_µSA","Paris, TX µSA",paris-tx-µsa,paris-tx-µsa,PER
+PARIS,36726996,15,33,,"http://en.wikipedia.org/wiki/Paris,_Mississippi","Paris, Mississippi",paris-mississippi,paris-mississippi,GPE
+PARIS,11287669,34,38,,http://en.wikipedia.org/wiki/SS_Paris_(1916),SS Paris,ss-paris,ss-paris-1916,UNK
+PARIS,32977266,16,20,,http://en.wikipedia.org/wiki/Paris_(band),Paris,paris,paris-band,UNK
+PARIS,35318735,24,35,,http://en.wikipedia.org/wiki/Paris_(Ooh_La_La),Paris,paris,paris-ooh-la-la,UNK
+PARIS,15956462,49,46,,"http://en.wikipedia.org/wiki/Paris,_Tokyo","Paris, Tokyo",paris-tokyo,paris-tokyo,UNK
+PARIS,33006596,259,318,22989,http://en.wikipedia.org/wiki/Niggas_in_Paris,Niggas in Paris,niggas-in-paris,niggas-in-paris,UNK
+PARIS,1853308,0,9,,http://en.wikipedia.org/wiki/Paris_Airport,Paris Airport,paris-airport,paris-airport,UNK
+PARIS,9289655,5,10,,http://en.wikipedia.org/wiki/Paris_(actor_under_Domitian),Paris,paris,paris-actor-under-domitian,PER
+PARIS,7758150,2,9,5843419;22989,"http://en.wikipedia.org/wiki/Paris,_Paris","Paris, Paris",paris-paris,paris-paris,UNK
+PARIS,9628841,59,65,,"http://en.wikipedia.org/wiki/Paris,_Ohio","Paris, Ohio",paris-ohio,paris-ohio,GPE
+PARIS,42983166,4,22,,"http://en.wikipedia.org/wiki/Paris,_BN,_lat._4404","Paris, BN, lat. 4404",paris-bn-lat-4404,paris-bn-lat-4404,UNK
+PARIS,14384812,9,11,14384812,http://en.wikipedia.org/wiki/Paris_(Pantheon),Paris,paris,paris-pantheon,UNK
+PARIS,3111017,137,216,,"http://en.wikipedia.org/wiki/Paris,_Pennsylvania","Paris, Pennsylvania",paris-pennsylvania,paris-pennsylvania,GPE
+PARIS,13482794,52,61,,"http://en.wikipedia.org/wiki/Paris,_Virginia","Paris, Virginia",paris-virginia,paris-virginia,GPE
+PARIS,212144,63,47,,http://en.wikipedia.org/wiki/Paris_(rapper),Paris,paris,paris-rapper,UNK
+Euro 96,555876,1012,462,250197;549482;555876;5843419;3254011;5321;729739;2937139,http://en.wikipedia.org/wiki/UEFA_Euro_1996,UEFA Euro 1996,uefa-euro-1996,uefa-euro-1996,UNK
+Vladimir Smicer,549482,164,148,729739;1075697;555876;5843419;5321,http://en.wikipedia.org/wiki/Vladimír_Šmicer,Vladimír Šmicer,vladimir-smicer,vladimir-smicer,PER
+Czech Republic,5321,46127,800,5843419;5447;5321;10597;3966054;962731;1075697;8794264;22989;729739;555876;549482,http://en.wikipedia.org/wiki/Czech_Republic,Czech Republic,czech-republic,czech-republic,GPE
+Czech Republic,729739,1240,491,808402;250197;549482;555876;5843419;5321;3383;729739;3966054;149286,http://en.wikipedia.org/wiki/Czech_Republic_national_football_team,Czech Republic national football team,czech-republic-national-football-team,czech-republic-national-football-team,ORG
+Lens,1075697,1197,297,990753;357488;6026473;1973841;1640865;1005798;236986;761302;549482;1135276;5447;1135310;5843419;253764;492068;5321;3383;1256446,http://en.wikipedia.org/wiki/RC_Lens,RC Lens,rc-lens,rc-lens,UNK
+Lens,18320,582,147,2038396;1160145;305465;193977;63978,http://en.wikipedia.org/wiki/Lens_(optics),Lens,lens,lens-optics,UNK
+Lens,9787101,8,5,,http://en.wikipedia.org/wiki/Lens_Culture,Lens Culture,lens-culture,lens-culture,UNK
+Lens,305465,346,134,18320,http://en.wikipedia.org/wiki/Lens_(anatomy),Lens,lens,lens-anatomy,UNK
+Lens,1160145,12,12,18320,http://en.wikipedia.org/wiki/Lens_(genus),Lens,lens,lens-genus,PER
+Lens,236986,1272,909,955656;761302;5843419;1075697,"http://en.wikipedia.org/wiki/Lens,_Pas-de-Calais","Lens, Pas-de-Calais",lens-pas-de-calais,lens-pas-de-calais,UNK
+Lens,6447033,34,4,,http://en.wikipedia.org/wiki/Lens_(geology),Lens,lens,lens-geology,UNK
+Lens,2136053,11,56,10597,"http://en.wikipedia.org/wiki/Lens,_Switzerland","Lens, Switzerland",lens-switzerland,lens-switzerland,UNK
+Lens,10731280,87,92,,http://en.wikipedia.org/wiki/Lensk,Lensk,lensk,lensk,UNK
+Lens,2038396,33,10,18320,http://en.wikipedia.org/wiki/Lens_(geometry),Lens,lens,lens-geometry,PER
+Lens,21593535,5,7,,http://en.wikipedia.org/wiki/Lens_Records,Lens Records,lens-records,lens-records,ORG
+Lens,63978,919,59,18320;5843419,http://en.wikipedia.org/wiki/Fresnel_lens,Fresnel lens,fresnel-lens,fresnel-lens,UNK
+Lens,1211714,272,100,193977,http://en.wikipedia.org/wiki/Lens_mount,Lens mount,lens-mount,lens-mount,UNK
+Lens,29751912,14,6,,http://en.wikipedia.org/wiki/Lens_(hydrology),Lens,lens,lens-hydrology,ORG
+Lens,175252,88,83,,"http://en.wikipedia.org/wiki/Lens,_Belgium","Lens, Belgium",lens-belgium,lens-belgium,UNK
+Lens,193977,650,288,1211714;18320,http://en.wikipedia.org/wiki/Camera_lens,Camera lens,camera-lens,camera-lens,UNK
+French,5843419,190787,1650,6122287;5843419;3383;5447;5321;2245848;11188;10597;18987;5612901;22989;22997;12943731;9284387;1135276;1135310;4131857;18832784;808402;524642;37407;320082;1640865;553772;555876;57906;549482;63978;5887619;73369;1061690;2567493;67453;67473;67472;627315;357488;22192200;1075697;644329;84692;597908;42474021;7758150;40888948;5766121;1256446;962731;2937139;23527303;955656;149286;705310;2048999;2153532;11599695;14609428;932079;2628928;3254011;6026473;1459639;2195372;761302;3966054;17422873;9351658;8794264;729739;28190991;20599016;722824;236986;513436;1005798;7189794;1973841;2687967;250197;990753;492068,http://en.wikipedia.org/wiki/France,France,france,france,GPE
+French,39783493,0,18,,http://en.wikipedia.org/wiki/French_Mountain,French Mountain,french-mountain,french-mountain,UNK
+French,34368007,0,5,32924780;30896353;23911533,http://en.wikipedia.org/wiki/Edward_French,Edward French,edward-french,edward-french,PER
+French,25305700,16,24,4916317,http://en.wikipedia.org/wiki/Arthur_French_(actor),Arthur French,arthur-french,arthur-french-actor,PER
+French,7114160,196,287,22989;11188;3453075,http://en.wikipedia.org/wiki/French_opera,French opera,french-opera,french-opera,UNK
+French,13570077,3,35,10597;10904336,http://en.wikipedia.org/wiki/American_French,American French,american-french,american-french,UNK
+French,1147094,868,118,1147094;10597,http://en.wikipedia.org/wiki/French_Wikipedia,French Wikipedia,french-wikipedia,french-wikipedia,UNK
+French,102012,119,139,,http://en.wikipedia.org/wiki/French_Island_(Victoria),French Island,french-island,french-island-victoria,UNK
+French,20140721,1,7,,http://en.wikipedia.org/wiki/French_Mountains,French Mountains,french-mountains,french-mountains,UNK
+French,1711156,7,4,,http://en.wikipedia.org/wiki/The_French_(band),The French,the-french,the-french-band,UNK
+French,38870015,2,8,,http://en.wikipedia.org/wiki/French_(1790_cricketer),French,french,french-1790-cricketer,PER
+French,23544670,5,13,,http://en.wikipedia.org/wiki/French_River_(Minnesota),French River,french-river,french-river-minnesota,UNK
+French,2563278,12,46,,http://en.wikipedia.org/wiki/French_Market,French Market,french-market,french-market,UNK
+French,10597,33530,620,212066;5843419;2567493;5447;67453;5321;67473;67472;627315;2195372;11188;10597;10904336;962731;23527303;5612901;24563621;22989;84692;21713935;9284387;16808706;13570077;3776038;2642797;2048999;28190991;3453075;2153532;20599016;37407;11599695;597908;320082;513436;42473218;1005798;1147094;2687967;932079;2136053;250197;57906,http://en.wikipedia.org/wiki/French_language,French language,french-language,french-language,UNK
+French,24563621,3,24,10597,http://en.wikipedia.org/wiki/French_Church_(Bucharest),French Church,french-church,french-church-bucharest,UNK
+French,21713935,5,15,10597,http://en.wikipedia.org/wiki/French_California,French California,french-california,french-california,UNK
+French,597908,327,186,889565;5843419;10597,http://en.wikipedia.org/wiki/French_River_(Ontario),French River,french-river,french-river-ontario,UNK
+French,28190991,73,80,2628928;10597;5843419;3383,http://en.wikipedia.org/wiki/French_Florida,French Florida,french-florida,french-florida,GPE
+French,23911533,3,10,23911533;34368007,http://en.wikipedia.org/wiki/Edward_French_(professor),Edward French,edward-french,edward-french-professor,UNK
+French,11188,8628,701,2687967;962731;23527303;5843419;73369;3453075;2153532;20599016;67453;67473;67472;627315;37407;7114160;11599695;22989;84692;722824;320082;2195372;11188;357488;10597;57906;40888948,http://en.wikipedia.org/wiki/French_Revolution,French Revolution,french-revolution,french-revolution,UNK
+French,10464596,12,72,,http://en.wikipedia.org/wiki/French_Party,French Party,french-party,french-party,UNK
+French,42473218,9,15,10597,http://en.wikipedia.org/wiki/La_French,La French,la-french,la-french,UNK
+French,14640382,7,179,,http://en.wikipedia.org/wiki/French_Valley,French Valley,french-valley,french-valley,UNK
+French,889565,0,8,8788076;597908,http://en.wikipedia.org/wiki/French_River,French River,french-river,french-river,UNK
+French,21431860,17,13,4916317,http://en.wikipedia.org/wiki/Arthur_French_(politician),Arthur French,arthur-french,arthur-french-politician,PER
+French,30896353,1,24,34368007,http://en.wikipedia.org/wiki/Edward_French_(cricketer),Edward French,edward-french,edward-french-cricketer,PER
+French,2591353,64,23,,http://en.wikipedia.org/wiki/French_Louisiana,French Louisiana,french-louisiana,french-louisiana,UNK
+French,8788076,16,17,889565,http://en.wikipedia.org/wiki/French_River_(Massachusetts),French River,french-river,french-river-massachusetts,UNK
+French,17490726,0,1,1379952,http://en.wikipedia.org/wiki/Mount_French,Mount French,mount-french,mount-french,UNK
+French,212066,155,50,10597,http://en.wikipedia.org/wiki/French_Canada,French Canada,french-canada,french-canada,UNK
+French,2048999,128,61,10597;5843419;22989,http://en.wikipedia.org/wiki/French_Community,French Community,french-community,french-community,UNK
+French,1131875,166,149,,http://en.wikipedia.org/wiki/French_Hill,French Hill,french-hill,french-hill,UNK
+French,962731,5647,501,2687967;1441176;11188;23527303;10597;5843419;3383;18987;20599016;5321;67473;67472;3966054;11599695;22997,http://en.wikipedia.org/wiki/French_people,French people,french-people,french-people,UNK
+French,22868267,0,2,,http://en.wikipedia.org/wiki/French_Village,French Village,french-village,french-village,GPE
+French,2642797,4,11,10597,http://en.wikipedia.org/wiki/Pardon_my_French,Pardon my French,pardon-my-french,pardon-my-french,UNK
+French,4916317,0,6,21431860;25305700,http://en.wikipedia.org/wiki/Arthur_French,Arthur French,arthur-french,arthur-french,PER
+French,12565649,113,142,,http://en.wikipedia.org/wiki/USS_French_(DE-367),USS French,uss-french,uss-french-de-367,UNK
+French,24850237,518,135,24850237,http://en.wikipedia.org/wiki/French_Montana,French Montana,french-montana,french-montana,UNK
+French,320082,1152,187,11188;37407;10597;5843419,http://en.wikipedia.org/wiki/Old_French,Old French,old-french,old-french,UNK
+French,3798286,0,5,,http://en.wikipedia.org/wiki/French_Lake,French Lake,french-lake,french-lake,UNK
+French,1379952,10,23,17490726,http://en.wikipedia.org/wiki/Mount_French_(Queensland),Mount French,mount-french,mount-french-queensland,UNK
+French,10904336,510,152,13570077;10597,http://en.wikipedia.org/wiki/Canadian_French,Canadian French,canadian-french,canadian-french,UNK
+French,35676031,3,7,,http://en.wikipedia.org/wiki/French_Hospital_(Manhattan),French Hospital,french-hospital,french-hospital-manhattan,ORG
+French,12886373,0,9,,"http://en.wikipedia.org/wiki/French_Park_(Amberley,_Ohio)",French Park,french-park,french-park-amberley-ohio,UNK
+French,11599695,307,339,5843419;22989;11188;67473;67472;962731;18079;23527303;11599695;2687967;10597;57361;20599016,http://en.wikipedia.org/wiki/French_architecture,French architecture,french-architecture,french-architecture,UNK
+French,32924780,5,7,34368007,http://en.wikipedia.org/wiki/Edward_French_(bishop),Edward French,edward-french,edward-french-bishop,UNK
+Smicer,549482,164,148,729739;1075697;555876;5843419;5321,http://en.wikipedia.org/wiki/Vladimír_Šmicer,Vladimír Šmicer,vladimir-smicer,vladimir-smicer,PER
+Montpellier,1640865,932,272,990753;357488;1973841;1640865;250197;1135276;5447;1135310;5843419;3254011;253764;73369;492068;3383;1256446;1075697;13121884;2937139,http://en.wikipedia.org/wiki/Montpellier_HSC,Montpellier HSC,montpellier-hsc,montpellier-hsc,UNK
+Montpellier,29503584,1,5,,"http://en.wikipedia.org/wiki/Montpellier,_United_States_Virgin_Islands","Montpellier, United States Virgin Islands",montpellier-united-states-virgin-islands,montpellier-united-states-virgin-islands,UNK
+Montpellier,2245848,72,79,5843419;73369,http://en.wikipedia.org/wiki/Montpellier_(AMT),Montpellier,montpellier,montpellier-amt,UNK
+Montpellier,4648875,7,26,,"http://en.wikipedia.org/wiki/Montpellier,_Cheltenham","Montpellier, Cheltenham",montpellier-cheltenham,montpellier-cheltenham,GPE
+Montpellier,20152896,34,51,,"http://en.wikipedia.org/wiki/Montpellier,_Quebec","Montpellier, Quebec",montpellier-quebec,montpellier-quebec,UNK
+Montpellier,73369,2258,731,955656;524642;761302;67453;67472;2245848;627315;11188;37407;1640865;5843419;22989;57906;3383;40888948,http://en.wikipedia.org/wiki/Montpellier,Montpellier,montpellier,montpellier,UNK
+Montpellier,627315,267,77,5843419;11188;73369;10597,http://en.wikipedia.org/wiki/University_of_Montpellier,University of Montpellier,university-of-montpellier,university-of-montpellier,UNK
+Cameroon,5447,13707,616,1459639;5843419;20599016;5449;5447;67453;5321;1640865;10597;515426;1005798;1256446;1973841;1075697;22989;1135310;253764;16808706;990753;492068,http://en.wikipedia.org/wiki/Cameroon,Cameroon,cameroon,cameroon,GPE
+Cameroon,515426,103,33,5449;5447,http://en.wikipedia.org/wiki/Mount_Cameroon,Mount Cameroon,mount-cameroon,mount-cameroon,UNK
+Cameroon,5449,89,182,5449;5447;16808706;515426,http://en.wikipedia.org/wiki/Geography_of_Cameroon,Geography of Cameroon,geography-of-cameroon,geography-of-cameroon,UNK
+Cameroon,16808706,178,101,5449;5447;16808706;10597,http://en.wikipedia.org/wiki/Religion_in_Cameroon,Religion in Cameroon,religion-in-cameroon,religion-in-cameroon,ORG
+Cameroon,1005798,1384,516,5447;253764;492068;3966054;149286;808402;10597;250197;5843419;3383;1075697,http://en.wikipedia.org/wiki/Cameroon_national_football_team,Cameroon national football team,cameroon-national-football-team,cameroon-national-football-team,UNK
+Cameroon,22874529,4,7,,http://en.wikipedia.org/wiki/Cameroon_(sheep),Cameroon,cameroon,cameroon-sheep,PER
+Cameroon,1459639,28,114,5447;5843419;22989;40888948,http://en.wikipedia.org/wiki/Cameroon_Airlines,Cameroon Airlines,cameroon-airlines,cameroon-airlines,ORG
+Marc-Vivien Foe,253764,171,157,5447;1640865;1075697;808402;990753;1005798;250197;149286,http://en.wikipedia.org/wiki/Marc-Vivien_Foé,Marc-Vivien Foé,marc-vivien-foe,marc-vivien-foe,PER
+Paris St Germain,357488,1489,393,990753;1973841;761302;1135276;1135310;492068;149286;11188;357488;1129182;1640865;250197;5843419;22989;3383;1256446;1075697,http://en.wikipedia.org/wiki/Paris_Saint-Germain_F.C.,Paris Saint-Germain F.C.,paris-saint-germain-fc,paris-saint-germain-fc,ORG
+Nantes,1135276,1010,250,990753;357488;1973841;1640865;7189794;250197;1135310;5843419;3254011;67453;492068;1256446;1075697,http://en.wikipedia.org/wiki/FC_Nantes,FC Nantes,fc-nantes,fc-nantes,ORG
+Nantes,67453,2276,746,1061690;524642;2153532;761302;20599016;1135276;5447;553772;67453;67472;11188;37407;10597;250197;5843419;22989;73369;57906;3383;5766121;40888948,http://en.wikipedia.org/wiki/Nantes,Nantes,nantes,nantes,ORG
+Nantes,8942912,100,30,,http://en.wikipedia.org/wiki/County_of_Nantes,County of Nantes,county-of-nantes,county-of-nantes,GPE
+Nantes,2153532,236,192,5843419;67453;722824;11188;10597,http://en.wikipedia.org/wiki/University_of_Nantes,University of Nantes,university-of-nantes,university-of-nantes,ORG
+Nantes,5766121,39,49,67453;5843419,"http://en.wikipedia.org/wiki/Nantes,_Quebec","Nantes, Quebec",nantes-quebec,nantes-quebec,GPE
+Nantes,1061690,6,6,5843419;67453;3383,"http://en.wikipedia.org/wiki/Nantes,_São_Paulo","Nantes, São Paulo",nantes-sao-paulo,nantes-sao-paulo,GPE
+Robert Pires,553772,464,418,1135310;5843419;808402;990753;67453;492068;6026473;3383;2937139;761302;250197;149286;40888948,http://en.wikipedia.org/wiki/Robert_Pirès,Robert Pirès,robert-pires,robert-pires,PER
+France,5843419,190787,1650,6122287;5843419;3383;5447;5321;2245848;11188;10597;18987;5612901;22989;22997;12943731;9284387;1135276;1135310;4131857;18832784;808402;524642;37407;320082;1640865;553772;555876;57906;549482;63978;5887619;73369;1061690;2567493;67453;67473;67472;627315;357488;22192200;1075697;644329;84692;597908;42474021;7758150;40888948;5766121;1256446;962731;2937139;23527303;955656;149286;705310;2048999;2153532;11599695;14609428;932079;2628928;3254011;6026473;1459639;2195372;761302;3966054;17422873;9351658;8794264;729739;28190991;20599016;722824;236986;513436;1005798;7189794;1973841;2687967;250197;990753;492068,http://en.wikipedia.org/wiki/France,France,france,france,GPE
+France,67472,417,303,5843419;67453;11188;73369;67473;67472;3383;962731;23527303;11599695;2687967;10597;20599016,http://en.wikipedia.org/wiki/Geography_of_France,Geography of France,geography-of-france,geography-of-france,UNK
+France,3776038,24,8,10597;84692,http://en.wikipedia.org/wiki/University_of_France,University of France,university-of-france,university-of-france,ORG
+France,644329,374,225,5843419;22989;955656;644329,http://en.wikipedia.org/wiki/France_Télévisions,France Télévisions,france-televisions,france-televisions,ORG
+France,67473,488,455,5843419;4131857;11188;67473;67472;962731;23527303;11599695;2687967;10597;20599016,http://en.wikipedia.org/wiki/Economy_of_France,Economy of France,economy-of-france,economy-of-france,UNK
+France,2589960,11,10,,http://en.wikipedia.org/wiki/France_family,France family,france-family,france-family,UNK
+France,9351658,5,36,5843419,http://en.wikipedia.org/wiki/France_II,France II,france-ii,france-ii,UNK
+France,5612901,146,75,2567493;10597;5843419;22989;40888948,http://en.wikipedia.org/wiki/France_Culture,France Culture,france-culture,france-culture,UNK
+France,6132809,173,168,,http://en.wikipedia.org/wiki/Little_France,Little France,little-france,little-france,UNK
+France,30770045,0,5,,http://en.wikipedia.org/wiki/Edward_France,Edward France,edward-france,edward-france,PER
+France,2567493,90,99,37407;5612901;10597;5843419;57906;22989;40888948,http://en.wikipedia.org/wiki/France_Info,France Info,france-info,france-info,UNK
+France,11809,513,287,,http://en.wikipedia.org/wiki/Francesco_Cossiga,Francesco Cossiga,francesco-cossiga,francesco-cossiga,PER
+France,12943731,411,384,5843419;955656;250197,http://en.wikipedia.org/wiki/France_national_youth_football_team,France national youth football team,france-national-youth-football-team,france-national-youth-football-team,ORG
+France,40175041,26,46,,"http://en.wikipedia.org/wiki/La_France,_South_Carolina","La France, South Carolina",la-france-south-carolina,la-france-south-carolina,GPE
+France,42474021,5,22,5843419,http://en.wikipedia.org/wiki/Little_France_(castle),Little France,little-france,little-france-castle,UNK
+France,39251067,5,13,,http://en.wikipedia.org/wiki/La_France_(French_newspaper),La France,la-france,la-france-french-newspaper,UNK
+France,2687967,3313,297,18079;2687967;962731;11188;23527303;10597;5843419;20599016;67473;67472;11599695;22989,http://en.wikipedia.org/wiki/Kingdom_of_France,Kingdom of France,kingdom-of-france,kingdom-of-france,GPE
+France,250197,3412,873,955656;1973841;1135276;553772;253764;729739;2937139;149286;808402;357488;1640865;10597;250197;555876;5843419;3383;40888948;524642;1005798;761302;67453;492068;681926;3966054;6026473;37407;22989;3254011;12943731,http://en.wikipedia.org/wiki/France_national_football_team,France national football team,france-national-football-team,france-national-football-team,UNK
+France,9116059,3,89,111145,http://en.wikipedia.org/wiki/France_Hotel,France Hotel,france-hotel,france-hotel,UNK
+France,20599016,2454,744,2687967;20599016;5447;67453;67473;67472;962731;11188;23527303;11599695;10597;5843419,http://en.wikipedia.org/wiki/Vichy_France,Vichy France,vichy-france,vichy-france,GPE
+France,23527303,196,15,962731;5843419;22989;11599695;11188;2687967;10597;20599016;67473;67472,http://en.wikipedia.org/wiki/Kingdom_of_France_(1791–92),Kingdom of France,kingdom-of-france,kingdom-of-france-1791–92,GPE
+France,6122287,56,58,5843419;6122421;22989,http://en.wikipedia.org/wiki/France_(Epcot),France,france,france-epcot,UNK
+France,955656,2298,525,236986;761302;644329;250197;5843419;22989;73369;12943731;40888948,http://en.wikipedia.org/wiki/France_national_rugby_union_team,France national rugby union team,france-national-rugby-union-team,france-national-rugby-union-team,UNK
+France,4131857,209,198,5843419;4131857;67473,http://en.wikipedia.org/wiki/Nuclear_power_in_France,Nuclear power in France,nuclear-power-in-france,nuclear-power-in-france,UNK
+France,19088931,16,6,,http://en.wikipedia.org/wiki/La_France_(airship),La France,la-france,la-france-airship,UNK
+Metz,1135310,1014,206,990753;357488;1973841;1640865;1135276;5447;553772;5843419;492068;57906;1256446;1075697,http://en.wikipedia.org/wiki/FC_Metz,FC Metz,fc-metz,fc-metz,UNK
+Metz,14301495,4,38,,"http://en.wikipedia.org/wiki/Metz,_Indiana","Metz, Indiana",metz-indiana,metz-indiana,GPE
+Metz,39424495,19,15,,http://en.wikipedia.org/wiki/METZ,METZ,metz,metz,UNK
+Metz,23474324,125,130,,"http://en.wikipedia.org/wiki/Metz,_California","Metz, California",metz-california,metz-california,GPE
+Metz,6050376,7,10,,http://en.wikipedia.org/wiki/Metz_(company),Metz,metz,metz-company,ORG
+Metz,3999363,28,22,42863249,http://en.wikipedia.org/wiki/Don_Metz_(ice_hockey),Don Metz,don-metz,don-metz-ice-hockey,PER
+Metz,12372896,5,9,,http://en.wikipedia.org/wiki/Metz_(drink),Metz,metz,metz-drink,UNK
+Metz,12029066,19,16,,http://en.wikipedia.org/wiki/Metz_Brewery,Metz Brewery,metz-brewery,metz-brewery,ORG
+Metz,24101109,10,9,,http://en.wikipedia.org/wiki/Metz_family,Metz family,metz-family,metz-family,ORG
+Metz,57906,2622,1266,524642;2567493;1135310;67453;29026607;11188;37407;10597;5843419;22989;84692;73369;57906;40888948,http://en.wikipedia.org/wiki/Metz,Metz,metz,metz,UNK
+Metz,25246133,49,71,,"http://en.wikipedia.org/wiki/Metz,_West_Virginia","Metz, West Virginia",metz-west-virginia,metz-west-virginia,GPE
+Metz,123285,24,41,,"http://en.wikipedia.org/wiki/Metz,_Missouri","Metz, Missouri",metz-missouri,metz-missouri,GPE
+Metz,42863249,0,3,3196980;3999363,http://en.wikipedia.org/wiki/Don_Metz,Don Metz,don-metz,don-metz,PER
+Metz,9093178,6,9,9093178,http://en.wikipedia.org/wiki/Metz_&_Co,Metz & Co,metz-co,metz-co,UNK
+Metz,29026607,11,42,57906,http://en.wikipedia.org/wiki/County_of_Metz,County of Metz,county-of-metz,county-of-metz,GPE
+Metz,3196980,4,9,42863249,http://en.wikipedia.org/wiki/Don_Metz_(architect),Don Metz,don-metz,don-metz-architect,UNK
+Metz,36148086,37,53,,"http://en.wikipedia.org/wiki/Metz,_Limpopo","Metz, Limpopo",metz-limpopo,metz-limpopo,UNK
+Metz,23430910,115,123,,"http://en.wikipedia.org/wiki/Metz,_Wisconsin","Metz, Wisconsin",metz-wisconsin,metz-wisconsin,GPE
+Metz,16286925,13,20,,http://en.wikipedia.org/wiki/Metz_Company,Metz Company,metz-company,metz-company,UNK
+Metz,118934,23,41,,"http://en.wikipedia.org/wiki/Metz_Township,_Michigan","Metz Township, Michigan",metz-township-michigan,metz-township-michigan,GPE
+Strasbourg,1256446,1008,298,990753;357488;37407;1973841;1640865;1135276;5447;1135310;5843419;492068;1256446;1075697,http://en.wikipedia.org/wiki/RC_Strasbourg,RC Strasbourg,rc-strasbourg,rc-strasbourg,UNK
+Strasbourg,722824,771,278,11188;37407;2153532;5843419,http://en.wikipedia.org/wiki/University_of_Strasbourg,University of Strasbourg,university-of-strasbourg,university-of-strasbourg,ORG
+Strasbourg,37407,4569,1211,722824;9284387;320082;11188;10597;250197;5843419;73369;57906;40888948;524642;2567493;67453;37407;22989;1256446,http://en.wikipedia.org/wiki/Strasbourg,Strasbourg,strasbourg,strasbourg,GPE
+Strasbourg,9284387,101,112,37407;10597;5843419,http://en.wikipedia.org/wiki/Strasbourg_International_Airport,Strasbourg International Airport,strasbourg-international-airport,strasbourg-international-airport,UNK
+Strasbourg,3216167,204,194,,"http://en.wikipedia.org/wiki/Strasbourg,_Saskatchewan","Strasbourg, Saskatchewan",strasbourg-saskatchewan,strasbourg-saskatchewan,GPE
+Pires,553772,464,418,1135310;5843419;808402;990753;67453;492068;6026473;3383;2937139;761302;250197;149286;40888948,http://en.wikipedia.org/wiki/Robert_Pirès,Robert Pirès,robert-pires,robert-pires,PER
+French,250197,3412,873,955656;1973841;1135276;553772;253764;729739;2937139;149286;808402;357488;1640865;10597;250197;555876;5843419;3383;40888948;524642;1005798;761302;67453;492068;681926;3966054;6026473;37407;22989;3254011;12943731,http://en.wikipedia.org/wiki/France_national_football_team,France national football team,france-national-football-team,france-national-football-team,UNK
+Aime Jacquet,2937139,192,220,553772;1640865;555876;5843419;3254011;250197;149286,http://en.wikipedia.org/wiki/Aimé_Jacquet,Aimé Jacquet,aime-jacquet,aime-jacquet,PER
+Mexico,808402,2853,649,1005798;553772;253764;681926;729739;3966054;149286;250197;5843419;22997;3383;18987,http://en.wikipedia.org/wiki/Mexico_national_football_team,Mexico national football team,mexico-national-football-team,mexico-national-football-team,UNK
+Mexico,15951028,11,16,,http://en.wikipedia.org/wiki/Mexico_(barque),Mexico,mexico,mexico-barque,UNK
+Mexico,259974,19,78,,"http://en.wikipedia.org/wiki/Mexico,_New_York","Mexico, New York",mexico-new-york,mexico-new-york,GPE
+Mexico,17392310,27,45,17392268,"http://en.wikipedia.org/wiki/Mexico,_Wyandot_County,_Ohio","Mexico, Wyandot County, Ohio",mexico-wyandot-county-ohio,mexico-wyandot-county-ohio,UNK
+Mexico,17392235,20,27,,"http://en.wikipedia.org/wiki/Mexico,_Texas","Mexico, Texas",mexico-texas,mexico-texas,UNK
+Mexico,248045,493,402,56695;2628928;18987;3966054,http://en.wikipedia.org/wiki/Music_of_Mexico,Music of Mexico,music-of-mexico,music-of-mexico,UNK
+Mexico,17392176,41,48,17392268,"http://en.wikipedia.org/wiki/Mexico,_Crawford_County,_Ohio","Mexico, Crawford County, Ohio",mexico-crawford-county-ohio,mexico-crawford-county-ohio,UNK
+Mexico,9298547,8,65,18987;222243;3966054,http://en.wikipedia.org/wiki/Name_of_Mexico,Name of Mexico,name-of-mexico,name-of-mexico,UNK
+Mexico,33750806,4,11,,"http://en.wikipedia.org/wiki/Mexico,_South_Carolina","Mexico, South Carolina",mexico-south-carolina,mexico-south-carolina,UNK
+Mexico,10308968,0,1,,"http://en.wikipedia.org/wiki/Mexico,_MO_μSA","Mexico, MO μSA",mexico-mo-μsa,mexico-mo-μsa,PER
+Mexico,259270,77,93,259269;3966054,"http://en.wikipedia.org/wiki/Mexico,_Maine","Mexico, Maine",mexico-maine,mexico-maine,GPE
+Mexico,17392268,0,2,17392310;17392176,"http://en.wikipedia.org/wiki/Mexico,_Ohio","Mexico, Ohio",mexico-ohio,mexico-ohio,UNK
+Mexico,2137099,81,146,3966054,"http://en.wikipedia.org/wiki/Mexico,_Pampanga","Mexico, Pampanga",mexico-pampanga,mexico-pampanga,UNK
+Mexico,32231716,2,9,3966054,http://en.wikipedia.org/wiki/Mexico_(genus),Mexico,mexico,mexico-genus,PER
+Mexico,259269,51,74,259270,"http://en.wikipedia.org/wiki/Mexico_(CDP),_Maine","Mexico (CDP), Maine",mexico-cdp-maine,mexico-cdp-maine,GPE
+Mexico,222243,1191,290,222243;18987;3966054;9298547,http://en.wikipedia.org/wiki/State_of_Mexico,State of Mexico,state-of-mexico,state-of-mexico,GPE
+Mexico,122496,253,358,,"http://en.wikipedia.org/wiki/Mexico,_Missouri","Mexico, Missouri",mexico-missouri,mexico-missouri,GPE
+Mexico,2628928,441,301,28190991;5843419;22989;56695;18987;3966054;248045,http://en.wikipedia.org/wiki/French_intervention_in_Mexico,French intervention in Mexico,french-intervention-in-mexico,french-intervention-in-mexico,UNK
+Mexico,6122421,56,51,18987;6122287;3966054,http://en.wikipedia.org/wiki/Mexico_(Epcot),Mexico,mexico,mexico-epcot,UNK
+Mexico,37995472,2,10,,http://en.wikipedia.org/wiki/A_México,A México,a-mexico,a-mexico,UNK
+Mexico,17391954,63,73,17391890,"http://en.wikipedia.org/wiki/Mexico,_Allegany_County,_Maryland","Mexico, Allegany County, Maryland",mexico-allegany-county-maryland,mexico-allegany-county-maryland,GPE
+Mexico,9997826,1,6,,"http://en.wikipedia.org/wiki/México,_la_revolución_congelada","México, la revolución congelada",mexico-la-revolucion-congelada,mexico-la-revolucion-congelada,UNK
+Mexico,407223,1,2,17392347,"http://en.wikipedia.org/wiki/Mexico,_Pennsylvania","Mexico, Pennsylvania",mexico-pennsylvania,mexico-pennsylvania,UNK
+Mexico,3127822,30,85,3966054,http://en.wikipedia.org/wiki/1959_Mexico_hurricane,1959 Mexico hurricane,1959-mexico-hurricane,1959-mexico-hurricane,UNK
+Mexico,18745941,0,1,,"http://en.wikipedia.org/wiki/Mexico,_MO_µSA","Mexico, MO µSA",mexico-mo-µsa,mexico-mo-µsa,PER
+Mexico,31025972,1,6,3966054,"http://en.wikipedia.org/wiki/México,_México,_ra,_ra,_ra","México, México, ra, ra, ra",mexico-mexico-ra-ra-ra,mexico-mexico-ra-ra-ra,UNK
+Mexico,18242643,11,31,,http://en.wikipedia.org/wiki/Mexico_(instrumental),Mexico,mexico,mexico-instrumental,UNK
+Mexico,17391999,55,53,17391890,"http://en.wikipedia.org/wiki/Mexico,_Carroll_County,_Maryland","Mexico, Carroll County, Maryland",mexico-carroll-county-maryland,mexico-carroll-county-maryland,GPE
+Mexico,17391890,0,4,17391999;17391954,"http://en.wikipedia.org/wiki/Mexico,_Maryland","Mexico, Maryland",mexico-maryland,mexico-maryland,UNK
+Mexico,3966054,62316,818,6122421;5843419;3383;5321;9298547;962731;18987;22989;22997;149286;3490848;808402;32231716;932079;2628928;56695;2137099;57361;3127822;3966054;31025972;222243;8794264;24562807;729739;17158888;1005798;30868004;259270;250197;248045,http://en.wikipedia.org/wiki/Mexico,Mexico,mexico,mexico,GPE
+Mexico,3490848,62,149,18987;357590;3966054,http://en.wikipedia.org/wiki/Popular_Socialist_Party_of_Mexico,Popular Socialist Party of Mexico,popular-socialist-party-of-mexico,popular-socialist-party-of-mexico,UNK
+Mexico,17392347,20,28,407223,"http://en.wikipedia.org/wiki/Mexico,_Montour_County,_Pennsylvania","Mexico, Montour County, Pennsylvania",mexico-montour-county-pennsylvania,mexico-montour-county-pennsylvania,GPE
+Mexico,17158888,1,12,3966054,http://en.wikipedia.org/wiki/Mexico_City_(former_administrative_division),Mexico City,mexico-city,mexico-city-former-administrative-division,UNK
+Mexico,56695,189,231,2628928;18987;23393;3966054;56695;248045,http://en.wikipedia.org/wiki/Geography_of_Mexico,Geography of Mexico,geography-of-mexico,geography-of-mexico,UNK
+Mexico,17391812,14,20,,"http://en.wikipedia.org/wiki/Mexico,_Kentucky","Mexico, Kentucky",mexico-kentucky,mexico-kentucky,UNK
+Mexico,18987,11953,992,6122421;808402;5843419;3383;9298547;3966054;962731;2628928;18987;56695;222243;22989;22997;57361;248045;3490848,http://en.wikipedia.org/wiki/Mexico_City,Mexico City,mexico-city,mexico-city,GPE
+Mexico,27915165,111,333,,http://en.wikipedia.org/wiki/Little_Mexico,Little Mexico,little-mexico,little-mexico,UNK
+Mexico,24562807,26,8,3966054,http://en.wikipedia.org/wiki/México_FC,México FC,mexico-fc,mexico-fc,ORG
+Parc des Princes,761302,918,227,990753;357488;955656;1973841;236986;250197;553772;5843419;22989;67453;73369;1075697;149286;40888948,http://en.wikipedia.org/wiki/Parc_des_Princes,Parc des Princes,parc-des-princes,parc-des-princes,UNK
+Foe,253764,171,157,5447;1640865;1075697;808402;990753;1005798;250197;149286,http://en.wikipedia.org/wiki/Marc-Vivien_Foé,Marc-Vivien Foé,marc-vivien-foe,marc-vivien-foe,PER
+Foe,1656118,8,16,,http://en.wikipedia.org/wiki/Foe_(unit),Foe,foe,foe-unit,UNK
+Foe,9539257,0,22,,http://en.wikipedia.org/wiki/Foe_(EP),Foe,foe,foe-ep,UNK
+Kader Ferhaoui,13121884,24,32,1640865;6026473,http://en.wikipedia.org/wiki/Abdelkader_Ferhaoui,Abdelkader Ferhaoui,abdelkader-ferhaoui,abdelkader-ferhaoui,PER
+Tony Vairelles,6026473,83,61,553772;1075697;5843419;250197;13121884,http://en.wikipedia.org/wiki/Tony_Vairelles,Tony Vairelles,tony-vairelles,tony-vairelles,PER
+Fabien Lefevre,18832784,256,251,5843419,http://en.wikipedia.org/wiki/Fabien_Lefèvre,Fabien Lefèvre,fabien-lefevre,fabien-lefevre,UNK
+PSG,357488,1489,393,990753;1973841;761302;1135276;1135310;492068;149286;11188;357488;1129182;1640865;250197;5843419;22989;3383;1256446;1075697,http://en.wikipedia.org/wiki/Paris_Saint-Germain_F.C.,Paris Saint-Germain F.C.,paris-saint-germain-fc,paris-saint-germain-fc,ORG
+Patrice Loko,3254011,122,102,1135276;2937139;1640865;555876;5843419;250197,http://en.wikipedia.org/wiki/Patrice_Loko,Patrice Loko,patrice-loko,patrice-loko,PER
+Benoit Cauet,7189794,32,14,5843419;1135276;492068,http://en.wikipedia.org/wiki/Benoît_Cauet,Benoît Cauet,benoit-cauet,benoit-cauet,PER
+Loko,3254011,122,102,1135276;2937139;1640865;555876;5843419;250197,http://en.wikipedia.org/wiki/Patrice_Loko,Patrice Loko,patrice-loko,patrice-loko,PER
+Parisians,22989,46849,1623,6122287;1459639;5843419;73369;3383;2567493;5447;67453;5321;11188;357488;10597;33006596;761302;3966054;22192200;17422873;23527303;18987;5612901;644329;22989;84692;955656;705310;2048999;3453075;524642;37407;7114160;11599695;513436;52711;295105;1973841;2687967;932079;2628928;250197;7758150;57906;40888948;492068,http://en.wikipedia.org/wiki/Paris,Paris,paris,paris,UNK
+Brazil,3383,84101,1038,1129182;5843419;3383;3631;4364250;13688885;962731;18987;22989;22997;149286;4628340;808402;1640865;932079;681926;8506637;20518395;553772;57361;73369;1061690;67453;67472;357590;357488;3966054;1075697;8794264;729739;28190991;112165;1005798;30868004;27301828;19886337;250197;492068,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Brazil,16052160,4,59,,"http://en.wikipedia.org/wiki/Brazil,_Northern_Cape","Brazil, Northern Cape",brazil-northern-cape,brazil-northern-cape,UNK
+Brazil,38411413,57,77,,"http://en.wikipedia.org/wiki/Little_Brazil,_Manhattan","Little Brazil, Manhattan",little-brazil-manhattan,little-brazil-manhattan,UNK
+Brazil,13707513,57,75,112165,"http://en.wikipedia.org/wiki/Brazil_Township,_Clay_County,_Indiana","Brazil Township, Clay County, Indiana",brazil-township-clay-county-indiana,brazil-township-clay-county-indiana,GPE
+Brazil,13688885,76,71,3383,http://en.wikipedia.org/wiki/Kingdom_of_Brazil,Kingdom of Brazil,kingdom-of-brazil,kingdom-of-brazil,GPE
+Brazil,3631,653,292,3383;23393;3631;8794264,http://en.wikipedia.org/wiki/Geography_of_Brazil,Geography of Brazil,geography-of-brazil,geography-of-brazil,UNK
+Brazil,681926,1338,314,808402;250197;3383;149286,http://en.wikipedia.org/wiki/Brazilian_Football_Confederation,Brazilian Football Confederation,brazilian-football-confederation,brazilian-football-confederation,UNK
+Brazil,36002865,24,50,,http://en.wikipedia.org/wiki/Brazil_with_Michael_Palin,Brazil with Michael Palin,brazil-with-michael-palin,brazil-with-michael-palin,UNK
+Brazil,22575394,2,6,,"http://en.wikipedia.org/wiki/Brazil_Lake,_Nova_Scotia","Brazil Lake, Nova Scotia",brazil-lake-nova-scotia,brazil-lake-nova-scotia,GPE
+Brazil,38154757,13,29,,"http://en.wikipedia.org/wiki/Brazil,_Kentucky","Brazil, Kentucky",brazil-kentucky,brazil-kentucky,UNK
+Brazil,149286,3969,1115,553772;253764;729739;2937139;149286;808402;357488;1129182;250197;5843419;3383;1005798;761302;681926;3966054,http://en.wikipedia.org/wiki/Brazil_national_football_team,Brazil national football team,brazil-national-football-team,brazil-national-football-team,ORG
+Brazil,112165,193,213,13707513;3383,"http://en.wikipedia.org/wiki/Brazil,_Indiana","Brazil, Indiana",brazil-indiana,brazil-indiana,GPE
+Brazil,29333456,0,11,,http://en.wikipedia.org/wiki/Mount_Brazil,Mount Brazil,mount-brazil,mount-brazil,UNK
+Brazil,27301828,209,230,8794264;3383,http://en.wikipedia.org/wiki/Coffee_production_in_Brazil,Coffee production in Brazil,coffee-production-in-brazil,coffee-production-in-brazil,UNK
+Brazil,4628340,199,184,3383,http://en.wikipedia.org/wiki/Dutch_Brazil,Dutch Brazil,dutch-brazil,dutch-brazil,GPE
+Brazil,27565426,23,40,,"http://en.wikipedia.org/wiki/Brazil,_Mississippi","Brazil, Mississippi",brazil-mississippi,brazil-mississippi,GPE
+Brazil,30868004,2,61,3966054;3383,http://en.wikipedia.org/wiki/Brazil_International,Brazil International,brazil-international,brazil-international,UNK
+Brazil,357590,167,107,3490848;3383,http://en.wikipedia.org/wiki/Communist_Party_of_Brazil,Communist Party of Brazil,communist-party-of-brazil,communist-party-of-brazil,ORG
+Brazil,8794264,635,458,27301828;5843419;22997;5321;3383;3631;3966054,http://en.wikipedia.org/wiki/Tourism_in_Brazil,Tourism in Brazil,tourism-in-brazil,tourism-in-brazil,ORG
+Brazil,7519411,23,26,,http://en.wikipedia.org/wiki/Brazil_(band),Brazil,brazil,brazil-band,UNK
+Brazil,4497173,48,14,,http://en.wikipedia.org/wiki/Little_Brazil,Little Brazil,little-brazil,little-brazil,UNK
+Brazil,19886337,4,48,3383,http://en.wikipedia.org/wiki/Brazil_(public_relations_agency),Brazil,brazil,brazil-public-relations-agency,UNK
+Leonardo,16082956,52,45,,http://en.wikipedia.org/wiki/The_Leonardo,The Leonardo,the-leonardo,the-leonardo,UNK
+Leonardo,538066,135,137,18079;497320,http://en.wikipedia.org/wiki/Leonardo_(Teenage_Mutant_Ninja_Turtles),Leonardo,leonardo,leonardo-teenage-mutant-ninja-turtles,UNK
+Leonardo,25059577,215,182,18079,http://en.wikipedia.org/wiki/Leonardo_(ISS_module),Leonardo,leonardo,leonardo-iss-module,UNK
+Leonardo,20518395,82,53,497320;3383,http://en.wikipedia.org/wiki/Leonardo_Rodriguez_Pereira,Leonardo Rodriguez Pereira,leonardo-rodriguez-pereira,leonardo-rodriguez-pereira,PER
+Leonardo,52711,1217,590,497320;52711;18079;22989,http://en.wikipedia.org/wiki/Leonardo_DiCaprio,Leonardo DiCaprio,leonardo-dicaprio,leonardo-dicaprio,PER
+Leonardo,10130255,2,8,,"http://en.wikipedia.org/wiki/Leonardo,_the_Terrible_Monster","Leonardo, the Terrible Monster",leonardo-the-terrible-monster,leonardo-the-terrible-monster,UNK
+Leonardo,10213664,4,18,,http://en.wikipedia.org/wiki/Leonardo_(robot),Leonardo,leonardo,leonardo-robot,UNK
+Leonardo,17422873,37,13,5843419;22989;17422873,http://en.wikipedia.org/wiki/Leonardo_(journal),Leonardo,leonardo,leonardo-journal,ORG
+Leonardo,1129182,313,254,497320;5887619;357488;3383;149286,http://en.wikipedia.org/wiki/Leonardo_Araújo,Leonardo Araújo,leonardo-araujo,leonardo-araujo,PER
+Leonardo,22150287,3,10,,http://en.wikipedia.org/wiki/Leonardo_(moth),Leonardo,leonardo,leonardo-moth,PER
+Leonardo,19231641,4,8,18079,http://en.wikipedia.org/wiki/The_Leonardo_(Salt_Lake_City),The Leonardo,the-leonardo,the-leonardo-salt-lake-city,UNK
+Leonardo,125477,153,186,,"http://en.wikipedia.org/wiki/Leonardo,_New_Jersey","Leonardo, New Jersey",leonardo-new-jersey,leonardo-new-jersey,GPE
+Leonardo,497320,12,28,1129182;20518395;538066;52711;18079,http://en.wikipedia.org/wiki/Leonardo,Leonardo,leonardo,leonardo,UNK
+Leonardo,18079,2092,260,497320;52711;18079;2687967;538066;11599695;25059577;19231641,http://en.wikipedia.org/wiki/Leonardo_da_Vinci,Leonardo da Vinci,leonardo-da-vinci,leonardo-da-vinci,UNK
+Panama,22997,13915,357,24486844;808402;5843419;6242909;3383;9452020;7961383;627986;3966054;962731;18987;8794264;22997;23393;587048;57361;22384865;5887619,http://en.wikipedia.org/wiki/Panama,Panama,panama,panama,GPE
+Panama,587048,166,61,30488407;57361;22384865;22997,http://en.wikipedia.org/wiki/Panamá_Province,Panamá Province,panama-province,panama-province,UNK
+Panama,110814,84,97,,"http://en.wikipedia.org/wiki/Panama,_Illinois","Panama, Illinois",panama-illinois,panama-illinois,GPE
+Panama,9452020,14,76,57361;108975;22997,http://en.wikipedia.org/wiki/Panama_(Prison_Break),Panama,panama,panama-prison-break,UNK
+Panama,4364250,7,15,3383,"http://en.wikipedia.org/wiki/Panamá,_Goiás","Panamá, Goiás",panama-goias,panama-goias,GPE
+Panama,124049,29,42,,"http://en.wikipedia.org/wiki/Panama,_Nebraska","Panama, Nebraska",panama-nebraska,panama-nebraska,GPE
+Panama,41093079,3,7,,http://en.wikipedia.org/wiki/Panama_(band),Panama,panama,panama-band,UNK
+Panama,4170789,68,113,,http://en.wikipedia.org/wiki/Panama_(cryptography),Panama,panama,panama-cryptography,UNK
+Panama,22336171,1,1,22336133,http://en.wikipedia.org/wiki/USS_Panama,USS Panama,uss-panama,uss-panama,UNK
+Panama,114222,20,51,,"http://en.wikipedia.org/wiki/Panama,_Iowa","Panama, Iowa",panama-iowa,panama-iowa,GPE
+Panama,22336133,6,23,22336171,http://en.wikipedia.org/wiki/USS_Panama_(SP-101),USS Panama,uss-panama,uss-panama-sp-101,UNK
+Panama,7961383,42,118,57361;22997,http://en.wikipedia.org/wiki/University_of_Panama,University of Panama,university-of-panama,university-of-panama,ORG
+Panama,57361,1711,271,108975;9452020;3966054;22384865;7961383;11599695;587048;22997;6242909;3383;18987;23393;627986,http://en.wikipedia.org/wiki/Panama_City,Panama City,panama-city,panama-city,GPE
+Panama,22970249,333,340,,"http://en.wikipedia.org/wiki/Panama,_California","Panama, California",panama-california,panama-california,GPE
+Panama,22384865,73,92,587048;57361;22997,http://en.wikipedia.org/wiki/Panamá_District,Panamá District,panama-district,panama-district,GPE
+Panama,24486844,2,12,22997,http://en.wikipedia.org/wiki/Panama_(sheep),Panama,panama,panama-sheep,PER
+Panama,11580180,92,86,11580180,http://en.wikipedia.org/wiki/Panama_(ad_system),Panama,panama,panama-ad-system,UNK
+Panama,126254,77,85,,"http://en.wikipedia.org/wiki/Panama,_New_York","Panama, New York",panama-new-york,panama-new-york,GPE
+Panama,4654884,131,145,,http://en.wikipedia.org/wiki/Panama_Limited,Panama Limited,panama-limited,panama-limited,UNK
+Panama,23393,125,155,56695;23393;3631;57361;22997,http://en.wikipedia.org/wiki/Geography_of_Panama,Geography of Panama,geography-of-panama,geography-of-panama,UNK
+Panama,471904,92,22,,http://en.wikipedia.org/wiki/Panama_hat,Panama hat,panama-hat,panama-hat,UNK
+Panama,6242909,30,6,57361;22997,http://en.wikipedia.org/wiki/Panama_Bay,Panama Bay,panama-bay,panama-bay,GPE
+Panama,627986,64,70,57361;22997,"http://en.wikipedia.org/wiki/Panamanian_general_election,_2004","Panamanian general election, 2004",panamanian-general-election-2004,panamanian-general-election-2004,ORG
+Panama,130314,55,66,,"http://en.wikipedia.org/wiki/Panama,_Oklahoma","Panama, Oklahoma",panama-oklahoma,panama-oklahoma,GPE
+Panama,30488407,13,24,587048,http://en.wikipedia.org/wiki/Panama_State,Panama State,panama-state,panama-state,UNK
+Panama,6306001,79,98,,http://en.wikipedia.org/wiki/Panama_(jazz_standard),Panama,panama,panama-jazz-standard,UNK
+Panama,13328237,6,79,,"http://en.wikipedia.org/wiki/Panama_Hotel_(Seattle,_Washington)",Panama Hotel,panama-hotel,panama-hotel-seattle-washington,UNK
+Panama,108975,661,140,9452020;57361,"http://en.wikipedia.org/wiki/Panama_City,_Florida","Panama City, Florida",panama-city-florida,panama-city-florida,GPE
+Julio Cesar Dely Valdes,5887619,164,117,1129182;5843419;22997,http://en.wikipedia.org/wiki/Julio_Dely_Valdés,Julio Dely Valdés,julio-dely-valdes,julio-dely-valdes,PER
+Auxerre,990753,1134,331,357488;524642;1973841;1640865;761302;1135276;5447;1135310;553772;5843419;253764;492068;1256446;1075697,http://en.wikipedia.org/wiki/AJ_Auxerre,AJ Auxerre,aj-auxerre,aj-auxerre,UNK
+Auxerre,1120237,45,23,524642,http://en.wikipedia.org/wiki/County_of_Auxerre,County of Auxerre,county-of-auxerre,county-of-auxerre,UNK
+Auxerre,524642,935,701,990753;37407;250197;5843419;22989;67453;73369;1120237;57906;40888948,http://en.wikipedia.org/wiki/Auxerre,Auxerre,auxerre,auxerre,UNK
+Marseille,492068,1996,471,990753;1973841;1005798;7189794;1135276;5447;1135310;553772;492068;357488;1640865;250197;5843419;22989;3383;1256446;1075697;40888948,http://en.wikipedia.org/wiki/Olympique_de_Marseille,Olympique de Marseille,olympique-de-marseille,olympique-de-marseille,ORG
+Marseille,40888948,4331,933,955656;553772;2195372;11188;250197;1459639;5843419;73369;57906;40888948;5612901;3453075;524642;761302;2567493;67453;492068;37407;22989,http://en.wikipedia.org/wiki/Marseille,Marseille,marseille,marseille,UNK
+Marseille,1441176,994,1202,962731,http://en.wikipedia.org/wiki/Hans-Joachim_Marseille,Hans-Joachim Marseille,hans-joachim-marseille,hans-joachim-marseille,PER
+Marseille,2195372,112,153,11188;10597;5843419;40888948,http://en.wikipedia.org/wiki/Tarot_of_Marseilles,Tarot of Marseilles,tarot-of-marseilles,tarot-of-marseilles,UNK
+Marseille,14051505,12,23,,http://en.wikipedia.org/wiki/Marseille_(band),Marseille,marseille,marseille-band,UNK

@@ -1,0 +1,76 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+CZECH,5321,46127,800,1806294;5321;5322;12185856;6343;1810963;3861344;335703;403131;23844;23346;151873;34514507;31717;723555;9200791;130329;303222;57575;672020,http://en.wikipedia.org/wiki/Czech_Republic,Czech Republic,czech-republic,czech-republic,GPE
+CZECH,12185856,3,63,5321,http://en.wikipedia.org/wiki/Czech_International,Czech International,czech-international,czech-international,UNK
+CZECH,6343,4508,375,303222;335703;3349006;1810963;57575;151873;672020;5321;5322;23844;124190;6343;1003832,http://en.wikipedia.org/wiki/Czech_language,Czech language,czech-language,czech-language,UNK
+CZECH,3861344,22,56,5321;5322,http://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog,Czechoslovakian Wolfdog,czechoslovakian-wolfdog,czechoslovakian-wolfdog,UNK
+CZECH,1810963,476,232,23844;6343;5321;5322,http://en.wikipedia.org/wiki/Czechoslovak_Socialist_Republic,Czechoslovak Socialist Republic,czechoslovak-socialist-republic,czechoslovak-socialist-republic,GPE
+CZECH,18972507,48,57,,"http://en.wikipedia.org/wiki/Czech,_Łódź_Voivodeship","Czech, Łódź Voivodeship",czech-lodz-voivodeship,czech-lodz-voivodeship,GPE
+CZECH,5322,17420,257,1806294;5321;6343;1810963;9200791;3861344;335703;23844;255963;57575;151873;672020;31717,http://en.wikipedia.org/wiki/Czechoslovakia,Czechoslovakia,czechoslovakia,czechoslovakia,GPE
+CZECH,3349006,107,103,6343;3349006,http://en.wikipedia.org/wiki/Czech_Wikipedia,Czech Wikipedia,czech-wikipedia,czech-wikipedia,UNK
+CZECH,151873,2051,225,303222;5321;5322;23844;6343;31717,http://en.wikipedia.org/wiki/Czechs,Czechs,czechs,czechs,UNK
+CZECH,335703,476,361,23844;6343;5321;5322,http://en.wikipedia.org/wiki/Czech_Airlines,Czech Airlines,czech-airlines,czech-airlines,ORG
+PRAGUE,23844,14890,706,1806294;5321;5322;6343;1810963;1003832;335703;852005;23844;130329;303222;57575;151873;672020;34514507;124190;31717,http://en.wikipedia.org/wiki/Prague,Prague,prague,prague,UNK
+PRAGUE,672020,259,77,23844;6343;5321;5322,http://en.wikipedia.org/wiki/Prague_Castle,Prague Castle,prague-castle,prague-castle,UNK
+PRAGUE,34514507,3,27,23844;5321,http://en.wikipedia.org/wiki/Prague_College,Prague College,prague-college,prague-college,ORG
+PRAGUE,31123051,7,11,,http://en.wikipedia.org/wiki/Prague_(band),Prague,prague,prague-band,UNK
+PRAGUE,1003832,14,49,23844;1003832;6343,http://en.wikipedia.org/wiki/Prague_school,Prague school,prague-school,prague-school,UNK
+PRAGUE,12558198,98,114,,http://en.wikipedia.org/wiki/Prague_Hotel,Prague Hotel,prague-hotel,prague-hotel,UNK
+PRAGUE,852005,11,5,23844,http://en.wikipedia.org/wiki/University_of_Prague,University of Prague,university-of-prague,university-of-prague,ORG
+PRAGUE,124190,127,139,23844;6343,"http://en.wikipedia.org/wiki/Prague,_Nebraska","Prague, Nebraska",prague-nebraska,prague-nebraska,GPE
+PRAGUE,130329,145,143,23844;5321,"http://en.wikipedia.org/wiki/Prague,_Oklahoma","Prague, Oklahoma",prague-oklahoma,prague-oklahoma,GPE
+ODS,33149196,0,5,,http://en.wikipedia.org/wiki/The_O.D's,The O.D's,the-ods,the-ods,UNK
+Josef Zieleniec,1806294,22,821,23844;5321;5322,http://en.wikipedia.org/wiki/Josef_Zieleniec,Josef Zieleniec,josef-zieleniec,josef-zieleniec,PER
+Zieleniec,1806294,22,821,23844;5321;5322,http://en.wikipedia.org/wiki/Josef_Zieleniec,Josef Zieleniec,josef-zieleniec,josef-zieleniec,PER
+Reuters,18998750,9093,418,18998750;2171552;31717,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750;31717,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Vaclav Klaus,303222,246,267,23844;151873;6343;5321;733933,http://en.wikipedia.org/wiki/Václav_Klaus,Václav Klaus,vaclav-klaus,vaclav-klaus,PER
+Czech,5321,46127,800,1806294;5321;5322;12185856;6343;1810963;3861344;335703;403131;23844;23346;151873;34514507;31717;723555;9200791;130329;303222;57575;672020,http://en.wikipedia.org/wiki/Czech_Republic,Czech Republic,czech-republic,czech-republic,GPE
+Czech,12185856,3,63,5321,http://en.wikipedia.org/wiki/Czech_International,Czech International,czech-international,czech-international,UNK
+Czech,6343,4508,375,303222;335703;3349006;1810963;57575;151873;672020;5321;5322;23844;124190;6343;1003832,http://en.wikipedia.org/wiki/Czech_language,Czech language,czech-language,czech-language,UNK
+Czech,3861344,22,56,5321;5322,http://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog,Czechoslovakian Wolfdog,czechoslovakian-wolfdog,czechoslovakian-wolfdog,UNK
+Czech,1810963,476,232,23844;6343;5321;5322,http://en.wikipedia.org/wiki/Czechoslovak_Socialist_Republic,Czechoslovak Socialist Republic,czechoslovak-socialist-republic,czechoslovak-socialist-republic,GPE
+Czech,18972507,48,57,,"http://en.wikipedia.org/wiki/Czech,_Łódź_Voivodeship","Czech, Łódź Voivodeship",czech-lodz-voivodeship,czech-lodz-voivodeship,GPE
+Czech,5322,17420,257,1806294;5321;6343;1810963;9200791;3861344;335703;23844;255963;57575;151873;672020;31717,http://en.wikipedia.org/wiki/Czechoslovakia,Czechoslovakia,czechoslovakia,czechoslovakia,GPE
+Czech,3349006,107,103,6343;3349006,http://en.wikipedia.org/wiki/Czech_Wikipedia,Czech Wikipedia,czech-wikipedia,czech-wikipedia,UNK
+Czech,151873,2051,225,303222;5321;5322;23844;6343;31717,http://en.wikipedia.org/wiki/Czechs,Czechs,czechs,czechs,UNK
+Czech,335703,476,361,23844;6343;5321;5322,http://en.wikipedia.org/wiki/Czech_Airlines,Czech Airlines,czech-airlines,czech-airlines,ORG
+Brno,57575,2778,242,5321;5322;23844;6343;31717,http://en.wikipedia.org/wiki/Brno,Brno,brno,brno,UNK
+Klaus,22657191,2,12,22657191,http://en.wikipedia.org/wiki/Klaus_Obermeyer,Klaus Obermeyer,klaus-obermeyer,klaus-obermeyer,ORG
+Klaus,14710537,99,114,14710537,"http://en.wikipedia.org/wiki/Klaus,_Vorarlberg","Klaus, Vorarlberg",klaus-vorarlberg,klaus-vorarlberg,UNK
+Klaus,21236620,45,99,,http://en.wikipedia.org/wiki/Cyclone_Klaus,Cyclone Klaus,cyclone-klaus,cyclone-klaus,UNK
+Klaus,240444,100,96,733933,http://en.wikipedia.org/wiki/Klaus_Nomi,Klaus Nomi,klaus-nomi,klaus-nomi,UNK
+Klaus,1305066,56,63,733933,http://en.wikipedia.org/wiki/Klaus_Baudelaire,Klaus Baudelaire,klaus-baudelaire,klaus-baudelaire,UNK
+Klaus,255963,183,214,5322,http://en.wikipedia.org/wiki/Klaus_Mann,Klaus Mann,klaus-mann,klaus-mann,UNK
+Klaus,6961228,11,8,733933,http://en.wikipedia.org/wiki/Frank_Klaus,Frank Klaus,frank-klaus,frank-klaus,PER
+Klaus,733933,16,46,1305066;240444;6961228;303222,http://en.wikipedia.org/wiki/Klaus,Klaus,klaus,klaus,UNK
+Klaus,20788261,5,55,,http://en.wikipedia.org/wiki/François_Klaus,François Klaus,francois-klaus,francois-klaus,PER
+Klaus,303222,246,267,23844;151873;6343;5321;733933,http://en.wikipedia.org/wiki/Václav_Klaus,Václav Klaus,vaclav-klaus,vaclav-klaus,PER
+British,31717,184306,1536,3736;4179;4721;5321;5322;19831;23844;31717;2528948;4208015;57575;3574003;18998750;9200791;1513051;403131;151873;19097669;201013;5188309;2171552;460615;723555;752921;21308184,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+British,22315902,2,16,,http://en.wikipedia.org/wiki/British_school,British school,british-school,british-school,ORG
+British,377070,55,22,3736,http://en.wikipedia.org/wiki/British_Islands,British Islands,british-islands,british-islands,UNK
+British,21308184,2,10,31717,"http://en.wikipedia.org/wiki/British_School,_Kuala_Lumpur","British School, Kuala Lumpur",british-school-kuala-lumpur,british-school-kuala-lumpur,ORG
+British,4721,7762,934,19831;19097669;3574003;3736;4179;4721;4208015;31717,http://en.wikipedia.org/wiki/British_Empire,British Empire,british-empire,british-empire,UNK
+British,19097669,5651,715,3736;4179;4721;4208015;31717,http://en.wikipedia.org/wiki/British_people,British people,british-people,british-people,UNK
+British,5188309,390,398,31717;5188309,http://en.wikipedia.org/wiki/Energy_efficiency_in_British_housing,Energy efficiency in British housing,energy-efficiency-in-british-housing,energy-efficiency-in-british-housing,UNK
+British,12068557,33,45,3574003;12068557,http://en.wikipedia.org/wiki/British_India_(band),British India,british-india,british-india-band,UNK
+British,1513051,536,241,31717,http://en.wikipedia.org/wiki/British_Formula_Three_Championship,British Formula Three Championship,british-formula-three-championship,british-formula-three-championship,UNK
+British,752921,36,197,752921;31717,http://en.wikipedia.org/wiki/British_humour,British humour,british-humour,british-humour,UNK
+British,4179,1639,331,4179;4721;19097669;31717;3736,http://en.wikipedia.org/wiki/British_English,British English,british-english,british-english,UNK
+British,460615,608,224,31717;19831,http://en.wikipedia.org/wiki/British_undergraduate_degree_classification,British undergraduate degree classification,british-undergraduate-degree-classification,british-undergraduate-degree-classification,UNK
+British,9200791,227,281,9200791;31717;5321;5322,http://en.wikipedia.org/wiki/British_Figure_Skating_Championships,British Figure Skating Championships,british-figure-skating-championships,british-figure-skating-championships,UNK
+British,2528948,87,128,1347221;31717,http://en.wikipedia.org/wiki/British_Airways_Flight_9,British Airways Flight 9,british-airways-flight-9,british-airways-flight-9,UNK
+British,1347221,57,98,2528948,http://en.wikipedia.org/wiki/British_Airways_Flight_5390,British Airways Flight 5390,british-airways-flight-5390,british-airways-flight-5390,UNK
+British,4208015,6322,788,19097669;3574003;4721;31717,http://en.wikipedia.org/wiki/British_Raj,British Raj,british-raj,british-raj,GPE
+British,3736,2695,375,4179;4721;377070;19097669;31717;3736,http://en.wikipedia.org/wiki/British_Isles,British Isles,british-isles,british-isles,UNK
+British,9467811,242,263,,http://en.wikipedia.org/wiki/British_baseball,British baseball,british-baseball,british-baseball,UNK
+British,13353120,113,130,,http://en.wikipedia.org/wiki/British_Band,British Band,british-band,british-band,UNK
+British,201013,43,50,31717,http://en.wikipedia.org/wiki/Lord_British,Lord British,lord-british,lord-british,UNK
+British,3574003,155,303,31717;4208015;4721;12068557,http://en.wikipedia.org/wiki/Presidencies_and_provinces_of_British_India,Presidencies and provinces of British India,presidencies-and-provinces-of-british-india,presidencies-and-provinces-of-british-india,GPE
+Margaret Thatcher,19831,3701,1470,7497483;19831;4721;460615;31717,http://en.wikipedia.org/wiki/Margaret_Thatcher,Margaret Thatcher,margaret-thatcher,margaret-thatcher,PER
+Margaret Thatcher,7497483,14,25,19831,http://en.wikipedia.org/wiki/Margaret_Thatcher_(Due_South),Margaret Thatcher,margaret-thatcher,margaret-thatcher-due-south,UNK
+post-Communist,23346,204,254,5321,http://en.wikipedia.org/wiki/Post-communism,Post-communism,post-communism,post-communism,ORG
+Social Democrats,34400771,1,6,,http://en.wikipedia.org/wiki/The_Social_Democrats,The Social Democrats,the-social-democrats,the-social-democrats,UNK
+Social Democrats,23718576,6,36,,http://en.wikipedia.org/wiki/Social_Democrats_(Norway),Social Democrats,social-democrats,social-democrats-norway,UNK
+Social Democrats,248600,129,266,,"http://en.wikipedia.org/wiki/Social_Democrats,_USA","Social Democrats, USA",social-democrats-usa,social-democrats-usa,UNK
+Social Democrats,403131,512,262,723555;31717;5321,http://en.wikipedia.org/wiki/Social_Democrats_(Denmark),Social Democrats,social-democrats,social-democrats-denmark,UNK
+Social Democrats,723555,182,211,31717;403131;5321,http://en.wikipedia.org/wiki/Social_Democrats_(Slovenia),Social Democrats,social-democrats,social-democrats-slovenia,UNK

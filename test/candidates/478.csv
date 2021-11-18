@@ -1,0 +1,69 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Israeli,9282173,39459,898,2326241;769536;1340538;8530;14083292;479389;1114732;14687;17424;5741112;6104877;1262063;12236643;343508;14240977;9282173;1515679;216248;8561774;33209;39237;597862;1013634;803752;938680;13341685;46216;546314;52949;25955086;367929;610738;27989636;181296;307916;33610767;5324800;5216051;61770,http://en.wikipedia.org/wiki/Israel,Israel,israel,israel,GPE
+Israeli,181296,1153,396,1114732;39237;33610767;1262063;14687;25955086;9282173;52949;343508;597862;1515679;2326241;46216;367929;61770,http://en.wikipedia.org/wiki/Israelis,Israelis,israelis,israelis,UNK
+Israeli,367929,406,512,33209;1114732;39237;14687;479389;9282173;343508;597862;181296;2326241;46216;216248;367929,http://en.wikipedia.org/wiki/Israeli_West_Bank_barrier,Israeli West Bank barrier,israeli-west-bank-barrier,israeli-west-bank-barrier,UNK
+Israeli,5324800,5,10,9282173,http://en.wikipedia.org/wiki/Israeli_(newspaper),Israeli,israeli,israeli-newspaper,ORG
+Israeli,5216051,201,188,9282173;39237,http://en.wikipedia.org/wiki/Israeli_military_decorations,Israeli military decorations,israeli-military-decorations,israeli-military-decorations,UNK
+West Bank,20949967,86,181,,http://en.wikipedia.org/wiki/West_Bank_Light,West Bank Light,west-bank-light,west-bank-light,UNK
+West Bank,1013634,110,115,33610767;343508;46216;33209;216248;1114732;9282173;39237,http://en.wikipedia.org/wiki/Jordanian_occupation_of_the_West_Bank,Jordanian occupation of the West Bank,jordanian-occupation-of-the-west-bank,jordanian-occupation-of-the-west-bank,GPE
+West Bank,367929,406,512,33209;1114732;39237;14687;479389;9282173;343508;597862;181296;2326241;46216;216248;367929,http://en.wikipedia.org/wiki/Israeli_West_Bank_barrier,Israeli West Bank barrier,israeli-west-bank-barrier,israeli-west-bank-barrier,UNK
+West Bank,124626,30,49,,"http://en.wikipedia.org/wiki/West_Bank_Township,_Swift_County,_Minnesota","West Bank Township, Swift County, Minnesota",west-bank-township-swift-county-minnesota,west-bank-township-swift-county-minnesota,GPE
+West Bank,33209,3114,265,8530;343508;14240977;479389;9282173;2326241;367929;307916;1114732;39237;33610767;14687;597862;46216;1013634;803752,http://en.wikipedia.org/wiki/West_Bank,West Bank,west-bank,west-bank,UNK
+Bedouin,61770,1221,155,1114732;39237;9282173;597862;181296,http://en.wikipedia.org/wiki/Bedouin,Bedouin,bedouin,bedouin,UNK
+Palestinians,1114732,5932,522,17424;8530;546314;52949;343508;14240977;33209;25955086;479389;9282173;181296;367929;1114732;33610767;7978072;1515679;46216;1013634;61770;803752,http://en.wikipedia.org/wiki/Palestine,Palestine,palestine,palestine,UNK
+Jewish,25955086,5372,656,17424;52949;343508;14240977;5741112;9282173;181296;307916;1114732;33610767;1262063;7978072;14687;1515679;7139292;46216,http://en.wikipedia.org/wiki/Jews,Jews,jews,jews,UNK
+Jewish,14240977,148,182,33610767;1262063;33209;25955086;479389;1114732;9282173;803752,http://en.wikipedia.org/wiki/Jewish_state,Jewish state,jewish-state,jewish-state,UNK
+Jewish,580849,16,40,41289039,"http://en.wikipedia.org/wiki/Jewish_Museum,_Berlin","Jewish Museum, Berlin",jewish-museum-berlin,jewish-museum-berlin,UNK
+Jewish,1453127,111,141,,http://en.wikipedia.org/wiki/Jewish_Museum_(Manhattan),Jewish Museum,jewish-museum,jewish-museum-manhattan,UNK
+Jewish,938680,4,16,9282173,http://en.wikipedia.org/wiki/Jewish_Museum_(Bucharest),Jewish Museum,jewish-museum,jewish-museum-bucharest,UNK
+Jewish,1262063,813,790,307916;33610767;1262063;25955086;546314;9282173;52949;8561774;1515679;181296;46216;14240977,http://en.wikipedia.org/wiki/Jewish_culture,Jewish culture,jewish-culture,jewish-culture,UNK
+Jewish,307916,219,435,33209;307916;17424;33610767;1262063;46216;25955086;7978072;479389;9282173;52949,http://en.wikipedia.org/wiki/Jewish_refugees,Jewish refugees,jewish-refugees,jewish-refugees,UNK
+Jewish,25842589,0,18,23323129,http://en.wikipedia.org/wiki/Jewish_Center,Jewish Center,jewish-center,jewish-center,UNK
+Jewish,7978072,239,224,307916;25955086;1114732,http://en.wikipedia.org/wiki/Jewish_Bolshevism,Jewish Bolshevism,jewish-bolshevism,jewish-bolshevism,ORG
+Jewish,5290396,1,6,10628856,http://en.wikipedia.org/wiki/Jewish_Hospital,Jewish Hospital,jewish-hospital,jewish-hospital,UNK
+Jewish,32827282,20,36,,http://en.wikipedia.org/wiki/Jewish_Party_(Czechoslovakia),Jewish Party,jewish-party,jewish-party-czechoslovakia,UNK
+Jewish,7139292,203,241,25955086,http://en.wikipedia.org/wiki/Jewish_Ghetto_Police,Jewish Ghetto Police,jewish-ghetto-police,jewish-ghetto-police,GPE
+Jewish,41289039,3,7,580849,"http://en.wikipedia.org/wiki/Jewish_Museum,_Emmendingen","Jewish Museum, Emmendingen",jewish-museum-emmendingen,jewish-museum-emmendingen,UNK
+Jewish,23323129,2,18,25842589,http://en.wikipedia.org/wiki/Jewish_Center_(Manhattan),Jewish Center,jewish-center,jewish-center-manhattan,UNK
+Jewish,13094692,17,12,,"http://en.wikipedia.org/wiki/Jewish_Theatre,_Warsaw","Jewish Theatre, Warsaw",jewish-theatre-warsaw,jewish-theatre-warsaw,UNK
+Jewish,546314,32,123,1114732;9282173;1262063;8561774,http://en.wikipedia.org/wiki/Jewish_humour,Jewish humour,jewish-humour,jewish-humour,UNK
+Jewish,11398393,37,37,,http://en.wikipedia.org/wiki/Jewish_Party_(Romania),Jewish Party,jewish-party,jewish-party-romania,UNK
+Jewish,10628856,1,5,5290396,"http://en.wikipedia.org/wiki/Jewish_Hospital_(Cincinnati,_Ohio)",Jewish Hospital,jewish-hospital,jewish-hospital-cincinnati-ohio,ORG
+Israel,9282173,39459,898,2326241;769536;1340538;8530;14083292;479389;1114732;14687;17424;5741112;6104877;1262063;12236643;343508;14240977;9282173;1515679;216248;8561774;33209;39237;597862;1013634;803752;938680;13341685;46216;546314;52949;25955086;367929;610738;27989636;181296;307916;33610767;5324800;5216051;61770,http://en.wikipedia.org/wiki/Israel,Israel,israel,israel,GPE
+Israel,8561774,370,295,2326241;39237;1262063;546314;9282173;8561774,http://en.wikipedia.org/wiki/Cinema_of_Israel,Cinema of Israel,cinema-of-israel,cinema-of-israel,UNK
+Israel,2917172,76,86,,"http://en.wikipedia.org/wiki/Israel,_West_Virginia","Israel, West Virginia",israel-west-virginia,israel-west-virginia,GPE
+Israel,1390338,17,18,,http://en.wikipedia.org/wiki/Israel_River,Israel River,israel-river,israel-river,UNK
+Israel,14687,454,230,343508;33209;17424;1515679;181296;2326241;39237;33610767;14687;25955086;8530;9282173;367929,http://en.wikipedia.org/wiki/Geography_of_Israel,Geography of Israel,geography-of-israel,geography-of-israel,UNK
+Israel,9424010,38,49,,"http://en.wikipedia.org/wiki/Israel_Township,_Preble_County,_Ohio","Israel Township, Preble County, Ohio",israel-township-preble-county-ohio,israel-township-preble-county-ohio,GPE
+Israel,610738,126,81,9282173;39237,http://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction,Israel and weapons of mass destruction,israel-and-weapons-of-mass-destruction,israel-and-weapons-of-mass-destruction,UNK
+Israel,12236643,1,25,9282173,http://en.wikipedia.org/wiki/Israel_International,Israel International,israel-international,israel-international,UNK
+Israel,6104877,144,24,9282173,http://en.wikipedia.org/wiki/Israel_Project,Israel Project,israel-project,israel-project,ORG
+Israel,1553519,28,37,,http://en.wikipedia.org/wiki/Israel_Cruz,Israel Cruz,israel-cruz,israel-cruz,PER
+Israel,1340538,379,57,33610767;9282173,http://en.wikipedia.org/wiki/Israel_Museum,Israel Museum,israel-museum,israel-museum,UNK
+Israel,39237,3012,544,8530;8561774;343508;33209;479389;9282173;181296;2326241;367929;39237;33610767;5216051;610738;14687;597862;46216;1013634;61770,http://en.wikipedia.org/wiki/Israel_Defense_Forces,Israel Defense Forces,israel-defense-forces,israel-defense-forces,UNK
+Israel,27989636,9,25,9282173,http://en.wikipedia.org/wiki/Kingdom_of_Israel_(group),Kingdom of Israel,kingdom-of-israel,kingdom-of-israel-group,UNK
+Israel,46216,1550,831,307916;1114732;39237;33610767;1262063;343508;33209;25955086;479389;9282173;597862;181296;2326241;46216;216248;1013634;367929,http://en.wikipedia.org/wiki/Israeli–Palestinian_conflict,Israeli–Palestinian conflict,israeli–palestinian-conflict,israeli–palestinian-conflict,UNK
+Israel,27302272,89,91,26678792,http://en.wikipedia.org/wiki/Israel_of_Kashkar,Israel of Kashkar,israel-of-kashkar,israel-of-kashkar,UNK
+Israel,33610767,1377,404,307916;17424;1114732;39237;1262063;8530;52949;343508;14240977;33209;1340538;14687;25955086;9282173;1515679;181296;2326241;46216;1013634;803752,http://en.wikipedia.org/wiki/Land_of_Israel,Land of Israel,land-of-israel,land-of-israel,UNK
+Israel,13341685,6,15,9282173,http://en.wikipedia.org/wiki/Israel_Singer,Israel Singer,israel-singer,israel-singer,PER
+Israel,216248,218,119,597862;46216;1013634;479389;9282173;367929,http://en.wikipedia.org/wiki/Israel–Jordan_peace_treaty,Israel–Jordan peace treaty,israel–jordan-peace-treaty,israel–jordan-peace-treaty,UNK
+Israel,769536,1489,593,9282173,http://en.wikipedia.org/wiki/Israel_national_football_team,Israel national football team,israel-national-football-team,israel-national-football-team,UNK
+Israel,17424,408,214,307916;1114732;1515679;33610767;14687;25955086;9282173;52949,http://en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria),Kingdom of Israel,kingdom-of-israel,kingdom-of-israel-samaria,GPE
+Israel,958973,120,147,,http://en.wikipedia.org/wiki/USS_Israel_(DD-98),USS Israel,uss-israel,uss-israel-dd-98,UNK
+Israel,479389,506,401,597862;33209;307916;1114732;39237;46216;216248;479389;9282173;367929;14240977,"http://en.wikipedia.org/wiki/Israel,_Palestine,_and_the_United_Nations","Israel, Palestine, and the United Nations",israel-palestine-and-the-united-nations,israel-palestine-and-the-united-nations,UNK
+Israel,8404422,139,79,,http://en.wikipedia.org/wiki/Israel_Houghton,Israel Houghton,israel-houghton,israel-houghton,UNK
+Israel,52949,1025,513,307916;17424;1114732;33610767;1262063;25955086;9282173;52949;1515679;181296,http://en.wikipedia.org/wiki/Israelites,Israelites,israelites,israelites,UNK
+Israel,6333805,27,53,,http://en.wikipedia.org/wiki/Israel_(footballer),Israel,israel,israel-footballer,PER
+Israel,5531612,9,17,,http://en.wikipedia.org/wiki/Edward_Israel,Edward Israel,edward-israel,edward-israel,PER
+Israel,1515679,398,217,17424;1114732;181296;33610767;1262063;14687;25955086;9282173;52949,http://en.wikipedia.org/wiki/Kingdom_of_Israel_(united_monarchy),Kingdom of Israel,kingdom-of-israel,kingdom-of-israel-united-monarchy,GPE
+Israel,803752,128,151,33610767;33209;1114732;9282173;14240977,http://en.wikipedia.org/wiki/Greater_Israel,Greater Israel,greater-israel,greater-israel,UNK
+Israel,14083292,70,45,9282173,http://en.wikipedia.org/wiki/Israel_Corporation,Israel Corporation,israel-corporation,israel-corporation,UNK
+Israel,17108939,11,20,,http://en.wikipedia.org/wiki/Al_Israel,Al Israel,al-israel,al-israel,PER
+Israel,597862,263,395,33209;181296;39237;46216;216248;479389;9282173;367929;61770,http://en.wikipedia.org/wiki/Israeli_disengagement_from_Gaza,Israeli disengagement from Gaza,israeli-disengagement-from-gaza,israeli-disengagement-from-gaza,UNK
+Israel,2326241,119,281,33610767;46216;33209;14687;8530;9282173;367929;8561774;181296;39237,http://en.wikipedia.org/wiki/LGBT_rights_in_Israel,LGBT rights in Israel,lgbt-rights-in-israel,lgbt-rights-in-israel,UNK
+Israel,26678792,93,87,27302272,http://en.wikipedia.org/wiki/Israel_(Nestorian_Patriarch),Israel,israel,israel-nestorian-patriarch,UNK
+Israel,5741112,38,16,25955086;9282173,http://en.wikipedia.org/wiki/Mikveh_Israel,Mikveh Israel,mikveh-israel,mikveh-israel,UNK
+Bedouins,61770,1221,155,1114732;39237;9282173;597862;181296,http://en.wikipedia.org/wiki/Bedouin,Bedouin,bedouin,bedouin,UNK
+East Jerusalem,343508,731,242,33209;1114732;39237;33610767;14687;25955086;9282173;343508;181296;46216;1013634;367929,http://en.wikipedia.org/wiki/East_Jerusalem,East Jerusalem,east-jerusalem,east-jerusalem,UNK
+Dead Sea,8530,841,392,33209;1114732;39237;33610767;14687;9282173;15865362;2326241,http://en.wikipedia.org/wiki/Dead_Sea,Dead Sea,dead-sea,dead-sea,UNK
+Dead Sea,15865362,3,34,8530,http://en.wikipedia.org/wiki/Dead_Sea_salt,Dead Sea salt,dead-sea-salt,dead-sea-salt,UNK

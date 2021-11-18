@@ -1,0 +1,85 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Fairmont,138476,723,487,6225800;138420;57861,"http://en.wikipedia.org/wiki/Fairmont,_West_Virginia","Fairmont, West Virginia",fairmont-west-virginia,fairmont-west-virginia,GPE
+Fairmont,120728,113,251,120729,"http://en.wikipedia.org/wiki/Fairmont,_Minnesota","Fairmont, Minnesota",fairmont-minnesota,fairmont-minnesota,GPE
+Fairmont,111585,181,151,,"http://en.wikipedia.org/wiki/Fairmont_City,_Illinois","Fairmont City, Illinois",fairmont-city-illinois,fairmont-city-illinois,UNK
+Fairmont,845712,240,206,845712,http://en.wikipedia.org/wiki/Ford_Fairmont,Ford Fairmont,ford-fairmont,ford-fairmont,UNK
+Fairmont,18745301,0,1,,"http://en.wikipedia.org/wiki/Fairmont,_MN_µSA","Fairmont, MN µSA",fairmont-mn-µsa,fairmont-mn-µsa,PER
+Fairmont,18745315,0,1,,"http://en.wikipedia.org/wiki/Fairmont,_WV_µSA","Fairmont, WV µSA",fairmont-wv-µsa,fairmont-wv-µsa,PER
+Fairmont,123889,38,45,,"http://en.wikipedia.org/wiki/Fairmont,_Nebraska","Fairmont, Nebraska",fairmont-nebraska,fairmont-nebraska,GPE
+Fairmont,10288153,1,1,,"http://en.wikipedia.org/wiki/Fairmont,_WV_μSA","Fairmont, WV μSA",fairmont-wv-μsa,fairmont-wv-μsa,PER
+Fairmont,1890201,35,79,,http://en.wikipedia.org/wiki/Fairmont_Singapore,Fairmont Singapore,fairmont-singapore,fairmont-singapore,UNK
+Fairmont,112053,89,100,,"http://en.wikipedia.org/wiki/Fairmont,_Illinois","Fairmont, Illinois",fairmont-illinois,fairmont-illinois,GPE
+Fairmont,120729,32,55,120728,"http://en.wikipedia.org/wiki/Fairmont_Township,_Martin_County,_Minnesota","Fairmont Township, Martin County, Minnesota",fairmont-township-martin-county-minnesota,fairmont-township-martin-county-minnesota,GPE
+Fairmont,10288756,1,1,,"http://en.wikipedia.org/wiki/Fairmont,_MN_μSA","Fairmont, MN μSA",fairmont-mn-μsa,fairmont-mn-μsa,PER
+Fairmont,42050796,7,27,,http://en.wikipedia.org/wiki/Fairmont_(band),Fairmont,fairmont,fairmont-band,UNK
+Fairmont,128165,60,54,,"http://en.wikipedia.org/wiki/Fairmont,_North_Carolina","Fairmont, North Carolina",fairmont-north-carolina,fairmont-north-carolina,GPE
+Fairmont,130199,25,46,,"http://en.wikipedia.org/wiki/Fairmont,_Oklahoma","Fairmont, Oklahoma",fairmont-oklahoma,fairmont-oklahoma,GPE
+Steptoe & Johnson,16350825,25,63,19660705,http://en.wikipedia.org/wiki/Steptoe_&_Johnson,Steptoe & Johnson,steptoe-johnson,steptoe-johnson,UNK
+Steptoe & Johnson,19660705,2,29,19660705;16350825;57861,http://en.wikipedia.org/wiki/Steptoe_&_Johnson_PLLC,Steptoe & Johnson PLLC,steptoe-johnson-pllc,steptoe-johnson-pllc,ORG
+Clarksburg,138420,639,504,6225800;138476;82869;57861,"http://en.wikipedia.org/wiki/Clarksburg,_West_Virginia","Clarksburg, West Virginia",clarksburg-west-virginia,clarksburg-west-virginia,GPE
+Clarksburg,4145598,132,112,22682677;82869;15470770,"http://en.wikipedia.org/wiki/Clarksburg,_California","Clarksburg, California",clarksburg-california,clarksburg-california,GPE
+Clarksburg,135106,25,43,82869,"http://en.wikipedia.org/wiki/Clarksburg,_Tennessee","Clarksburg, Tennessee",clarksburg-tennessee,clarksburg-tennessee,GPE
+Clarksburg,27732214,5,82,1058785;26597188,"http://en.wikipedia.org/wiki/Clarksburg_School_(Clarksburg,_New_Jersey)",Clarksburg School,clarksburg-school,clarksburg-school-clarksburg-new-jersey,UNK
+Clarksburg,26597188,0,3,27732214;20143058,http://en.wikipedia.org/wiki/Clarksburg_School,Clarksburg School,clarksburg-school,clarksburg-school,ORG
+Clarksburg,15470770,6,29,82869;4145598,http://en.wikipedia.org/wiki/Clarksburg_AVA,Clarksburg AVA,clarksburg-ava,clarksburg-ava,UNK
+Clarksburg,122922,17,34,30848241;82869,"http://en.wikipedia.org/wiki/Clarksburg,_Missouri","Clarksburg, Missouri",clarksburg-missouri,clarksburg-missouri,GPE
+Clarksburg,15073471,47,61,82869,"http://en.wikipedia.org/wiki/Clarksburg,_Indiana","Clarksburg, Indiana",clarksburg-indiana,clarksburg-indiana,GPE
+Clarksburg,129783,41,59,82869,"http://en.wikipedia.org/wiki/Clarksburg,_Ohio","Clarksburg, Ohio",clarksburg-ohio,clarksburg-ohio,GPE
+Clarksburg,18745003,0,1,,"http://en.wikipedia.org/wiki/Clarksburg,_WV_µSA","Clarksburg, WV µSA",clarksburg-wv-µsa,clarksburg-wv-µsa,PER
+Clarksburg,12315247,44,302,36314541;110934,"http://en.wikipedia.org/wiki/Clarksburg_Township,_Shelby_County,_Illinois","Clarksburg Township, Shelby County, Illinois",clarksburg-township-shelby-county-illinois,clarksburg-township-shelby-county-illinois,UNK
+Clarksburg,30848241,1,2,122922,http://en.wikipedia.org/wiki/Clarksburg_College,Clarksburg College,clarksburg-college,clarksburg-college,ORG
+Clarksburg,36314541,45,60,12315247,"http://en.wikipedia.org/wiki/Clarksburg,_Illinois","Clarksburg, Illinois",clarksburg-illinois,clarksburg-illinois,GPE
+Clarksburg,82869,6,15,15073471;1058785;135106;138420;15470770;116473;4145598;116679;4955130;129783;122922,http://en.wikipedia.org/wiki/Clarksburg,Clarksburg,clarksburg,clarksburg,UNK
+Clarksburg,1058785,128,149,82869;27732214,"http://en.wikipedia.org/wiki/Clarksburg,_New_Jersey","Clarksburg, New Jersey",clarksburg-new-jersey,clarksburg-new-jersey,UNK
+Clarksburg,10141864,1,1,,"http://en.wikipedia.org/wiki/Clarksburg,_WV_μSA","Clarksburg, WV μSA",clarksburg-wv-μsa,clarksburg-wv-μsa,PER
+Clarksburg,20143058,2,41,116473;26597188,"http://en.wikipedia.org/wiki/Clarksburg_School_(Clarksburg,_Maryland)",Clarksburg School,clarksburg-school,clarksburg-school-clarksburg-maryland,UNK
+Clarksburg,4955130,61,144,82869,"http://en.wikipedia.org/wiki/Clarksburg,_Pennsylvania","Clarksburg, Pennsylvania",clarksburg-pennsylvania,clarksburg-pennsylvania,UNK
+Clarksburg,23880891,170,170,,"http://en.wikipedia.org/wiki/Clarksburg,_New_York","Clarksburg, New York",clarksburg-new-york,clarksburg-new-york,GPE
+Clarksburg,116679,66,115,82869;24892508,"http://en.wikipedia.org/wiki/Clarksburg,_Massachusetts","Clarksburg, Massachusetts",clarksburg-massachusetts,clarksburg-massachusetts,GPE
+Clarksburg,116473,122,224,20143058;82869,"http://en.wikipedia.org/wiki/Clarksburg,_Maryland","Clarksburg, Maryland",clarksburg-maryland,clarksburg-maryland,GPE
+Clarksburg,24892508,268,267,116679,http://en.wikipedia.org/wiki/Clarksburg_State_Park,Clarksburg State Park,clarksburg-state-park,clarksburg-state-park,UNK
+Charleston,57861,2011,918,61024;19660705;6225800;138476;138420;57861,"http://en.wikipedia.org/wiki/Charleston,_West_Virginia","Charleston, West Virginia",charleston-west-virginia,charleston-west-virginia,GPE
+Charleston,7049054,36,60,,"http://en.wikipedia.org/wiki/Charleston,_Dundee","Charleston, Dundee",charleston-dundee,charleston-dundee,UNK
+Charleston,15762451,111,134,,"http://en.wikipedia.org/wiki/Charleston,_Angus","Charleston, Angus",charleston-angus,charleston-angus,GPE
+Charleston,38534254,0,3,,"http://en.wikipedia.org/wiki/Charleston,_Ottawa_County,_Michigan","Charleston, Ottawa County, Michigan",charleston-ottawa-county-michigan,charleston-ottawa-county-michigan,UNK
+Charleston,23237453,0,2,22682677;23237507,"http://en.wikipedia.org/wiki/Charleston,_California","Charleston, California",charleston-california,charleston-california,GPE
+Charleston,22567568,3,7,,"http://en.wikipedia.org/wiki/Charleston,_Nova_Scotia","Charleston, Nova Scotia",charleston-nova-scotia,charleston-nova-scotia,GPE
+Charleston,18505189,0,0,,"http://en.wikipedia.org/wiki/Charleston,_Michigan","Charleston, Michigan",charleston-michigan,charleston-michigan,UNK
+Charleston,987443,47,29,,http://en.wikipedia.org/wiki/Mount_Charleston,Mount Charleston,mount-charleston,mount-charleston,UNK
+Charleston,206926,8,5,204392;14689447;213737;2275322;10212088,http://en.wikipedia.org/wiki/USS_Charleston,USS Charleston,uss-charleston,uss-charleston,UNK
+Charleston,1308180,0,2,,http://en.wikipedia.org/wiki/Charleston_Township,Charleston Township,charleston-township,charleston-township,GPE
+Charleston,42329675,17,27,,"http://en.wikipedia.org/wiki/Charleston,_Kansas","Charleston, Kansas",charleston-kansas,charleston-kansas,GPE
+Charleston,1802533,2,10,,"http://en.wikipedia.org/wiki/Charleston,_Paisley","Charleston, Paisley",charleston-paisley,charleston-paisley,UNK
+Charleston,1120084,111,100,,"http://en.wikipedia.org/wiki/Charleston,_Staten_Island","Charleston, Staten Island",charleston-staten-island,charleston-staten-island,UNK
+Charleston,212620,24,39,,"http://en.wikipedia.org/wiki/Charleston,_Kentucky","Charleston, Kentucky",charleston-kentucky,charleston-kentucky,GPE
+Charleston,294579,80,74,61024;37718767,http://en.wikipedia.org/wiki/Charleston_International_Airport,Charleston International Airport,charleston-international-airport,charleston-international-airport,UNK
+Charleston,18776198,52,54,,"http://en.wikipedia.org/wiki/Charleston,_South_Australia","Charleston, South Australia",charleston-south-australia,charleston-south-australia,UNK
+Charleston,30407265,6,8,61024,"http://en.wikipedia.org/wiki/Charleston,_Sumter_and_Northern_Railroad","Charleston, Sumter and Northern Railroad",charleston-sumter-and-northern-railroad,charleston-sumter-and-northern-railroad,UNK
+Charleston,8634653,90,97,,"http://en.wikipedia.org/wiki/Charleston,_Arizona","Charleston, Arizona",charleston-arizona,charleston-arizona,GPE
+Charleston,5452969,23,7,61024,http://en.wikipedia.org/wiki/Charleston_Museum,Charleston Museum,charleston-museum,charleston-museum,UNK
+Charleston,11442791,21,29,,http://en.wikipedia.org/wiki/Charleston_Light,Charleston Light,charleston-light,charleston-light,UNK
+Charleston,3568774,23,43,59866,http://en.wikipedia.org/wiki/Charleston_Chew,Charleston Chew,charleston-chew,charleston-chew,ORG
+Charleston,6225800,182,200,138476;138420;57861,"http://en.wikipedia.org/wiki/Charleston,_West_Virginia_metropolitan_area","Charleston, West Virginia metropolitan area",charleston-west-virginia-metropolitan-area,charleston-west-virginia-metropolitan-area,UNK
+Charleston,22682677,91,93,23237453;4145598,"http://en.wikipedia.org/wiki/Charleston,_Yolo_County,_California","Charleston, Yolo County, California",charleston-yolo-county-california,charleston-yolo-county-california,UNK
+Charleston,110934,1503,124,12315247,"http://en.wikipedia.org/wiki/Charleston,_Illinois","Charleston, Illinois",charleston-illinois,charleston-illinois,GPE
+Charleston,25339589,5,4,,"http://en.wikipedia.org/wiki/Charleston,_Newfoundland_and_Labrador","Charleston, Newfoundland and Labrador",charleston-newfoundland-and-labrador,charleston-newfoundland-and-labrador,UNK
+Charleston,10212088,10,41,61024;206926,http://en.wikipedia.org/wiki/USS_Charleston_(PG-51),USS Charleston,uss-charleston,uss-charleston-pg-51,UNK
+Charleston,7429467,11,15,,"http://en.wikipedia.org/wiki/Charleston,_Oklahoma","Charleston, Oklahoma",charleston-oklahoma,charleston-oklahoma,UNK
+Charleston,37718767,0,6,294579,http://en.wikipedia.org/wiki/Charleston_Airport,Charleston Airport,charleston-airport,charleston-airport,UNK
+Charleston,17522263,100,42,61024,"http://en.wikipedia.org/wiki/Charleston,_South_Carolina_metropolitan_area","Charleston, South Carolina metropolitan area",charleston-south-carolina-metropolitan-area,charleston-south-carolina-metropolitan-area,GPE
+Charleston,2275322,12,18,206926;61024,http://en.wikipedia.org/wiki/USS_Charleston_(LKA-113),USS Charleston,uss-charleston,uss-charleston-lka-113,UNK
+Charleston,1998277,42,35,,"http://en.wikipedia.org/wiki/Charleston,_New_Zealand","Charleston, New Zealand",charleston-new-zealand,charleston-new-zealand,UNK
+Charleston,14689447,3,10,61024;206926,http://en.wikipedia.org/wiki/USS_Charleston_(1798),USS Charleston,uss-charleston,uss-charleston-1798,UNK
+Charleston,39809260,48,66,,"http://en.wikipedia.org/wiki/Charleston,_Nevada","Charleston, Nevada",charleston-nevada,charleston-nevada,UNK
+Charleston,22790759,32,24,,"http://en.wikipedia.org/wiki/Charleston,_Iowa","Charleston, Iowa",charleston-iowa,charleston-iowa,GPE
+Charleston,24282299,2,1,61024,"http://en.wikipedia.org/wiki/Charleston,_SC.","Charleston, SC.",charleston-sc,charleston-sc,UNK
+Charleston,30308275,3,5,61024,"http://en.wikipedia.org/wiki/Charleston,_Cincinnati,_and_Chicago_Railroad","Charleston, Cincinnati, and Chicago Railroad",charleston-cincinnati-and-chicago-railroad,charleston-cincinnati-and-chicago-railroad,UNK
+Charleston,7099555,34,56,61024,"http://en.wikipedia.org/wiki/Charleston,_South_Carolina_in_the_American_Civil_War","Charleston, South Carolina in the American Civil War",charleston-south-carolina-in-the-american-civil-war,charleston-south-carolina-in-the-american-civil-war,ORG
+Charleston,29024970,25,73,,"http://en.wikipedia.org/wiki/Charleston,_SC_1966","Charleston, SC 1966",charleston-sc-1966,charleston-sc-1966,UNK
+Charleston,23237507,87,90,23237453,"http://en.wikipedia.org/wiki/Charleston,_Merced_County,_California","Charleston, Merced County, California",charleston-merced-county-california,charleston-merced-county-california,UNK
+Charleston,6695626,49,56,,"http://en.wikipedia.org/wiki/Charleston,_Oregon","Charleston, Oregon",charleston-oregon,charleston-oregon,GPE
+Charleston,59866,239,109,3568774;61024,http://en.wikipedia.org/wiki/Charleston_(dance),Charleston,charleston,charleston-dance,UNK
+Charleston,61024,5964,573,30407265;7099555;30308275;10212088;2275322;24282299;61024;5452969;59866;14689447;17522263;57861;294579,"http://en.wikipedia.org/wiki/Charleston,_South_Carolina","Charleston, South Carolina",charleston-south-carolina,charleston-south-carolina,GPE
+Charleston,213737,37,43,206926,http://en.wikipedia.org/wiki/USS_Charleston_(C-2),USS Charleston,uss-charleston,uss-charleston-c-2,UNK
+Charleston,204392,26,68,206926,http://en.wikipedia.org/wiki/USS_Charleston_(C-22),USS Charleston,uss-charleston,uss-charleston-c-22,UNK
+Charleston,6399487,5,10,,http://en.wikipedia.org/wiki/Charleston_Lake,Charleston Lake,charleston-lake,charleston-lake,UNK

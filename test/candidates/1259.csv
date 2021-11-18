@@ -1,0 +1,63 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Brazil,3383,84101,1038,8079600;3383;3631;30863678;13688885;18524;25936;149286;4628340;681926;11982053;5029525;1043873;14986292;357590;3434750;8794264;23530966;112165;229419;30868004;27301828;19886337,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Brazil,112165,193,213,3434750;13707513;3383,"http://en.wikipedia.org/wiki/Brazil,_Indiana","Brazil, Indiana",brazil-indiana,brazil-indiana,GPE
+Brazil,3631,653,292,25936;1043873;3383;3631;8794264;229419;30863678;11982053,http://en.wikipedia.org/wiki/Geography_of_Brazil,Geography of Brazil,geography-of-brazil,geography-of-brazil,UNK
+Brazil,8794264,635,458,25936;27301828;18524;1043873;3434750;3383;3631;229419;30863678;11982053,http://en.wikipedia.org/wiki/Tourism_in_Brazil,Tourism in Brazil,tourism-in-brazil,tourism-in-brazil,ORG
+Brazil,16052160,4,59,,"http://en.wikipedia.org/wiki/Brazil,_Northern_Cape","Brazil, Northern Cape",brazil-northern-cape,brazil-northern-cape,UNK
+Brazil,22575394,2,6,,"http://en.wikipedia.org/wiki/Brazil_Lake,_Nova_Scotia","Brazil Lake, Nova Scotia",brazil-lake-nova-scotia,brazil-lake-nova-scotia,GPE
+Brazil,27301828,209,230,8794264;25936;3383,http://en.wikipedia.org/wiki/Coffee_production_in_Brazil,Coffee production in Brazil,coffee-production-in-brazil,coffee-production-in-brazil,UNK
+Brazil,7519411,23,26,3434750,http://en.wikipedia.org/wiki/Brazil_(band),Brazil,brazil,brazil-band,UNK
+Brazil,36002865,24,50,25936,http://en.wikipedia.org/wiki/Brazil_with_Michael_Palin,Brazil with Michael Palin,brazil-with-michael-palin,brazil-with-michael-palin,UNK
+Brazil,149286,3969,1115,25936;3434750;149286;3383;681926;229419,http://en.wikipedia.org/wiki/Brazil_national_football_team,Brazil national football team,brazil-national-football-team,brazil-national-football-team,ORG
+Brazil,30868004,2,61,3434750;3383,http://en.wikipedia.org/wiki/Brazil_International,Brazil International,brazil-international,brazil-international,UNK
+Brazil,29333456,0,11,,http://en.wikipedia.org/wiki/Mount_Brazil,Mount Brazil,mount-brazil,mount-brazil,UNK
+Brazil,13688885,76,71,25936;3383,http://en.wikipedia.org/wiki/Kingdom_of_Brazil,Kingdom of Brazil,kingdom-of-brazil,kingdom-of-brazil,GPE
+Brazil,357590,167,107,229419;25936;3383,http://en.wikipedia.org/wiki/Communist_Party_of_Brazil,Communist Party of Brazil,communist-party-of-brazil,communist-party-of-brazil,ORG
+Brazil,27565426,23,40,,"http://en.wikipedia.org/wiki/Brazil,_Mississippi","Brazil, Mississippi",brazil-mississippi,brazil-mississippi,GPE
+Brazil,38411413,57,77,11982053,"http://en.wikipedia.org/wiki/Little_Brazil,_Manhattan","Little Brazil, Manhattan",little-brazil-manhattan,little-brazil-manhattan,UNK
+Brazil,681926,1338,314,3383;229419;149286,http://en.wikipedia.org/wiki/Brazilian_Football_Confederation,Brazilian Football Confederation,brazilian-football-confederation,brazilian-football-confederation,UNK
+Brazil,13707513,57,75,112165;3434750,"http://en.wikipedia.org/wiki/Brazil_Township,_Clay_County,_Indiana","Brazil Township, Clay County, Indiana",brazil-township-clay-county-indiana,brazil-township-clay-county-indiana,GPE
+Brazil,4497173,48,14,,http://en.wikipedia.org/wiki/Little_Brazil,Little Brazil,little-brazil,little-brazil,UNK
+Brazil,38154757,13,29,3434750,"http://en.wikipedia.org/wiki/Brazil,_Kentucky","Brazil, Kentucky",brazil-kentucky,brazil-kentucky,UNK
+Brazil,4628340,199,184,11982053;3383,http://en.wikipedia.org/wiki/Dutch_Brazil,Dutch Brazil,dutch-brazil,dutch-brazil,GPE
+Brazil,19886337,4,48,3383,http://en.wikipedia.org/wiki/Brazil_(public_relations_agency),Brazil,brazil,brazil-public-relations-agency,UNK
+RIO DE JANEIRO,25936,9760,1176,13688885;27301828;3434750;18524;1043873;3383;3631;8794264;11982053;14986292;36002865;25936;149286;357590;17451546;30863678;229419,http://en.wikipedia.org/wiki/Rio_de_Janeiro,Rio de Janeiro,rio-de-janeiro,rio-de-janeiro,GPE
+RIO DE JANEIRO,23530966,3,6,3383,http://en.wikipedia.org/wiki/Rio_de_Janeiro_(Bahia),Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-bahia,UNK
+RIO DE JANEIRO,229419,2057,312,14986292;25936;681926;8794264;149286;357590;1043873;3383;3631;30863678;11982053,http://en.wikipedia.org/wiki/Rio_de_Janeiro_(state),Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-state,UNK
+RIO DE JANEIRO,23580387,3,5,28027968,http://en.wikipedia.org/wiki/MS_Rio_de_Janeiro,MS Rio de Janeiro,ms-rio-de-janeiro,ms-rio-de-janeiro,UNK
+RIO DE JANEIRO,14986292,28,28,229419;25936;3383,http://en.wikipedia.org/wiki/Greater_Rio_de_Janeiro,Greater Rio de Janeiro,greater-rio-de-janeiro,greater-rio-de-janeiro,UNK
+RIO DE JANEIRO,28027968,12,24,23580387,http://en.wikipedia.org/wiki/MS_Rio_de_Janeiro_(1914),MS Rio de Janeiro,ms-rio-de-janeiro,ms-rio-de-janeiro-1914,ORG
+Brazilians,3383,84101,1038,8079600;3383;3631;30863678;13688885;18524;25936;149286;4628340;681926;11982053;5029525;1043873;14986292;357590;3434750;8794264;23530966;112165;229419;30868004;27301828;19886337,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Latin America,18524,6566,628,3434750;18524;3383;22033;8794264;25936;17451546,http://en.wikipedia.org/wiki/Latin_America,Latin America,latin-america,latin-america,UNK
+Latin America,17451546,11,95,18524;25936,"http://en.wikipedia.org/wiki/Latin_America,_the_Caribbean_and_the_European_Union_Summit","Latin America, the Caribbean and the European Union Summit",latin-america-the-caribbean-and-the-european-union-summit,latin-america-the-caribbean-and-the-european-union-summit,UNK
+United States,3434750,529967,1252,3383;18524;22033;25936;1134236;39529;40570;65508;112165;149286;3663136;7519411;7422188;431669;38154757;3434750;461232;5029525;30868004;6174697;2719448;11982053;4096888;14863992;895667;13707513;1043873;8794264;993845,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+United States,195550,101,127,195515,http://en.wikipedia.org/wiki/USS_United_States_(1797),USS United States,uss-united-states,uss-united-states-1797,UNK
+United States,2719448,16,46,3434750,http://en.wikipedia.org/wiki/United_States_Live,United States Live,united-states-live,united-states-live,UNK
+United States,5029525,27,254,3434750;3383,http://en.wikipedia.org/wiki/Ethanol_fuel_in_the_United_States,Ethanol fuel in the United States,ethanol-fuel-in-the-united-states,ethanol-fuel-in-the-united-states,UNK
+United States,4096888,712,458,4096888;3434750;39529,"http://en.wikipedia.org/wiki/United_States_elections,_2006","United States elections, 2006",united-states-elections-2006,united-states-elections-2006,UNK
+United States,195515,9,7,195637;461232;195550,http://en.wikipedia.org/wiki/USS_United_States,USS United States,uss-united-states,uss-united-states,UNK
+United States,40570,857,545,431669;39529;3434750;40570,"http://en.wikipedia.org/wiki/United_States_presidential_election,_1980","United States presidential election, 1980",united-states-presidential-election-1980,united-states-presidential-election-1980,UNK
+United States,431669,2237,285,431669;39529;3434750;40570;6174697,http://en.wikipedia.org/wiki/Northeastern_United_States,Northeastern United States,northeastern-united-states,northeastern-united-states,UNK
+United States,993845,746,312,3434750;993845,http://en.wikipedia.org/wiki/United_States_nationality_law,United States nationality law,united-states-nationality-law,united-states-nationality-law,UNK
+United States,7422188,509,575,1134236;3434750,"http://en.wikipedia.org/wiki/United_States_Senate_elections,_2012","United States Senate elections, 2012",united-states-senate-elections-2012,united-states-senate-elections-2012,UNK
+United States,22033,135,97,18524;3434750,http://en.wikipedia.org/wiki/Nicaragua_v._United_States,Nicaragua v. United States,nicaragua-v-united-states,nicaragua-v-united-states,PER
+United States,195637,31,45,195515,http://en.wikipedia.org/wiki/USS_United_States_(CVA-58),USS United States,uss-united-states,uss-united-states-cva-58,UNK
+United States,636847,221,42,65508,http://en.wikipedia.org/wiki/United_States_Customs_Service,United States Customs Service,united-states-customs-service,united-states-customs-service,ORG
+United States,14863992,10,221,3434750;14863992,http://en.wikipedia.org/wiki/United_States_withdrawal_from_the_United_Nations,United States withdrawal from the United Nations,united-states-withdrawal-from-the-united-nations,united-states-withdrawal-from-the-united-nations,UNK
+United States,2111551,11,25,,http://en.wikipedia.org/wiki/Cramer_v._United_States,Cramer v. United States,cramer-v-united-states,cramer-v-united-states,UNK
+United States,65508,277,275,3434750;636847,http://en.wikipedia.org/wiki/Great_Seal_of_the_United_States,Great Seal of the United States,great-seal-of-the-united-states,great-seal-of-the-united-states,UNK
+United States,1380075,391,371,,http://en.wikipedia.org/wiki/Reynolds_v._United_States,Reynolds v. United States,reynolds-v-united-states,reynolds-v-united-states,UNK
+United States,10341263,6,88,10341263,http://en.wikipedia.org/wiki/United_States_raw_milk_debate,United States raw milk debate,united-states-raw-milk-debate,united-states-raw-milk-debate,GPE
+United States,6174697,566,530,431669;6174697;3434750,http://en.wikipedia.org/wiki/Territorial_evolution_of_the_United_States,Territorial evolution of the United States,territorial-evolution-of-the-united-states,territorial-evolution-of-the-united-states,UNK
+United States,39529,1083,393,431669;4096888;3434750;40570,"http://en.wikipedia.org/wiki/United_States_presidential_election,_1992","United States presidential election, 1992",united-states-presidential-election-1992,united-states-presidential-election-1992,UNK
+United States,3663136,242,335,3434750;3663136,http://en.wikipedia.org/wiki/High-speed_rail_in_the_United_States,High-speed rail in the United States,high-speed-rail-in-the-united-states,high-speed-rail-in-the-united-states,UNK
+United States,461232,241,384,3434750;195515,http://en.wikipedia.org/wiki/SS_United_States,SS United States,ss-united-states,ss-united-states,UNK
+United States,1134236,415,587,7422188;3434750,"http://en.wikipedia.org/wiki/United_States_Senate_elections,_2010","United States Senate elections, 2010",united-states-senate-elections-2010,united-states-senate-elections-2010,UNK
+United States,895667,46,133,3434750,http://en.wikipedia.org/wiki/United_States_Olympic_Hall_of_Fame,United States Olympic Hall of Fame,united-states-olympic-hall-of-fame,united-states-olympic-hall-of-fame,UNK
+United States,244351,94,228,,http://en.wikipedia.org/wiki/Korematsu_v._United_States,Korematsu v. United States,korematsu-v-united-states,korematsu-v-united-states,UNK
+Brazilian,3383,84101,1038,8079600;3383;3631;30863678;13688885;18524;25936;149286;4628340;681926;11982053;5029525;1043873;14986292;357590;3434750;8794264;23530966;112165;229419;30868004;27301828;19886337,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Brazilian,8079600,11,28,3383,http://en.wikipedia.org/wiki/Brazilian_Island,Brazilian Island,brazilian-island,brazilian-island,UNK
+Brazilian,1043873,372,442,3434750;3383;3631;8794264;229419;30863678;11982053;25936,http://en.wikipedia.org/wiki/German_Brazilian,German Brazilian,german-brazilian,german-brazilian,UNK
+Brazilian,8691009,13,27,,http://en.wikipedia.org/wiki/The_Brazilian,The Brazilian,the-brazilian,the-brazilian,UNK
+Brazilian,30863678,354,347,1043873;3383;3631;8794264;229419;30863678;11982053;25936,http://en.wikipedia.org/wiki/Italian_Brazilian,Italian Brazilian,italian-brazilian,italian-brazilian,UNK
+Brazilian,11982053,1714,305,25936;3434750;8794264;1043873;3383;3631;229419;30863678;4628340;38411413,http://en.wikipedia.org/wiki/Brazilian_people,Brazilian people,brazilian-people,brazilian-people,UNK

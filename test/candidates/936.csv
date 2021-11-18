@@ -1,0 +1,228 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Algeria,358,17332,718,358;1644;2185;20667174;24176735;7960202;40229;14903046;413616;8087628;14712233;327229;15012;52625;1973841;4087576;403399;27857534;159433;1029528;575244;22989;23235;3248748;7172945;5183392;31717,http://en.wikipedia.org/wiki/Algeria,Algeria,algeria,algeria,GPE
+Algeria,40229,125,132,1644;358;9348,http://en.wikipedia.org/wiki/Geography_of_Algeria,Geography of Algeria,geography-of-algeria,geography-of-algeria,UNK
+Algeria,14903046,0,6,358,http://en.wikipedia.org/wiki/Algeria_International,Algeria International,algeria-international,algeria-international,UNK
+Algeria,413616,187,99,20667174;358,http://en.wikipedia.org/wiki/Flag_of_Algeria,Flag of Algeria,flag-of-algeria,flag-of-algeria,UNK
+Algeria,35791232,32,46,,"http://en.wikipedia.org/wiki/Algeria,_West_Virginia","Algeria, West Virginia",algeria-west-virginia,algeria-west-virginia,GPE
+Algeria,1029528,1384,719,1029528;358;1644;31717;8087628,http://en.wikipedia.org/wiki/Algeria_national_football_team,Algeria national football team,algeria-national-football-team,algeria-national-football-team,UNK
+Algeria,24176735,199,224,1644;358,http://en.wikipedia.org/wiki/French_conquest_of_Algeria,French conquest of Algeria,french-conquest-of-algeria,french-conquest-of-algeria,UNK
+Britain,31717,184306,1536,358;1644;2185;9348;10331;12249;8087628;1679120;13913;13525;15012;17867;13190957;18881565;22989;23235;31717;327229;326248;52625;3662295;354551;11145385;17271126;9555087;7960202;412419;158019;402886;159433;409543;152256;7984054;932079;3248748;187448;13530298;480153;1026286;1029528;6375316;5380456,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+Britain,38279445,148,154,,"http://en.wikipedia.org/wiki/Little_Britain,_Pennsylvania","Little Britain, Pennsylvania",little-britain-pennsylvania,little-britain-pennsylvania,GPE
+Britain,3365792,82,95,,"http://en.wikipedia.org/wiki/Britain,_Virginia","Britain, Virginia",britain-virginia,britain-virginia,GPE
+Britain,25191544,6,11,,http://en.wikipedia.org/wiki/Mr._Britain,Mr. Britain,mr-britain,mr-britain,UNK
+Britain,12386536,24,23,,"http://en.wikipedia.org/wiki/Little_Britain,_London","Little Britain, London",little-britain-london,little-britain-london,GPE
+Britain,158019,6631,401,17867;13530298;158019;17271126;152256;13525;7984054;31717,http://en.wikipedia.org/wiki/Kingdom_of_Great_Britain,Kingdom of Great Britain,kingdom-of-great-britain,kingdom-of-great-britain,GPE
+Britain,17271126,68,172,158019;13530298;152256;31717;13525,http://en.wikipedia.org/wiki/Britain_(placename),Britain,britain,britain-placename,UNK
+Britain,1185144,86,82,,"http://en.wikipedia.org/wiki/Little_Britain,_New_York","Little Britain, New York",little-britain-new-york,little-britain-new-york,UNK
+Britain,13530298,15528,510,5380456;12249;13525;17867;158019;1026286;575244;6037917;9037218;17271126;152256;31717,http://en.wikipedia.org/wiki/Great_Britain,Great Britain,great-britain,great-britain,UNK
+Britain,412419,404,297,31717;17867;412419,http://en.wikipedia.org/wiki/Captain_Britain,Captain Britain,captain-britain,captain-britain,UNK
+Britain,152256,8595,755,17867;13530298;158019;17271126;8087628;508567;152256;13525;7984054;31717,http://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland,United Kingdom of Great Britain and Ireland,united-kingdom-of-great-britain-and-ireland,united-kingdom-of-great-britain-and-ireland,GPE
+Britain,20823802,57,65,,"http://en.wikipedia.org/wiki/Britain,_Australia_and_the_Bomb","Britain, Australia and the Bomb",britain-australia-and-the-bomb,britain-australia-and-the-bomb,UNK
+Britain,7954202,68,60,,"http://en.wikipedia.org/wiki/Little_Britain,_Ontario","Little Britain, Ontario",little-britain-ontario,little-britain-ontario,UNK
+Britain,480153,370,113,31717,http://en.wikipedia.org/wiki/Little_Britain,Little Britain,little-britain,little-britain,UNK
+Britain,409543,134,241,1644;31717;17867,http://en.wikipedia.org/wiki/New_Communist_Party_of_Britain,New Communist Party of Britain,new-communist-party-of-britain,new-communist-party-of-britain,UNK
+Britain,13525,2496,556,17867;13530298;152256;496519;13525;158019;31717;17271126,http://en.wikipedia.org/wiki/Roman_Britain,Roman Britain,roman-britain,roman-britain,ORG
+Islamists,15012,1789,568,17867;358;1946196;13913;2646438;37477763;37543158;15012;403399;14810;146740;228250;31717;159433;12249;24730658;1026286;276104;12750648;6037917;11145385;8087628;23235,http://en.wikipedia.org/wiki/Islamism,Islamism,islamism,islamism,UNK
+PARIS,22989,46849,1623,358;1644;33567266;12249;33006596;8087628;22192200;17867;22989;84692;705310;31717;3453075;513436;295105;1973841;932079;7758150,http://en.wikipedia.org/wiki/Paris,Paris,paris,paris,UNK
+PARIS,22192200,73,81,22437586;22989,http://en.wikipedia.org/wiki/.paris,.paris,paris,paris,UNK
+PARIS,14609428,2,9,8591270,"http://en.wikipedia.org/wiki/Paris,_Kiribati","Paris, Kiribati",paris-kiribati,paris-kiribati,UNK
+PARIS,7758150,2,9,22989,"http://en.wikipedia.org/wiki/Paris,_Paris","Paris, Paris",paris-paris,paris-paris,UNK
+PARIS,3453075,551,133,22989,http://en.wikipedia.org/wiki/Paris_Opera,Paris Opera,paris-opera,paris-opera,ORG
+PARIS,295105,1324,361,295105;22989,"http://en.wikipedia.org/wiki/Paris_Peace_Conference,_1919","Paris Peace Conference, 1919",paris-peace-conference-1919,paris-peace-conference-1919,UNK
+PARIS,10308003,1,1,,"http://en.wikipedia.org/wiki/Paris,_TN_μSA","Paris, TN μSA",paris-tn-μsa,paris-tn-μsa,PER
+PARIS,31420657,1,7,,"http://en.wikipedia.org/wiki/Paris,_Denmark","Paris, Denmark",paris-denmark,paris-denmark,UNK
+PARIS,6198965,2,10,,http://en.wikipedia.org/wiki/Little_Paris,Little Paris,little-paris,little-paris,UNK
+PARIS,5655865,40,58,141772,"http://en.wikipedia.org/wiki/Paris_(community),_Wisconsin","Paris (community), Wisconsin",paris-community-wisconsin,paris-community-wisconsin,UNK
+PARIS,111145,145,93,,"http://en.wikipedia.org/wiki/Paris,_Illinois","Paris, Illinois",paris-illinois,paris-illinois,UNK
+PARIS,248424,203,53,,"http://en.wikipedia.org/wiki/Paris,_Ontario","Paris, Ontario",paris-ontario,paris-ontario,GPE
+PARIS,23768447,3,33,,"http://en.wikipedia.org/wiki/Paris,_Not_France","Paris, Not France",paris-not-france,paris-not-france,UNK
+PARIS,10224966,1,1,,"http://en.wikipedia.org/wiki/Paris,_TX_μSA","Paris, TX μSA",paris-tx-μsa,paris-tx-μsa,PER
+PARIS,18746173,0,1,,"http://en.wikipedia.org/wiki/Paris,_TN_µSA","Paris, TN µSA",paris-tn-µsa,paris-tn-µsa,PER
+PARIS,31631798,30,59,,"http://en.wikipedia.org/wiki/Paris,_Iowa","Paris, Iowa",paris-iowa,paris-iowa,UNK
+PARIS,4380507,178,264,,http://en.wikipedia.org/wiki/Count_Paris,Count Paris,count-paris,count-paris,UNK
+PARIS,3320433,8,13,,http://en.wikipedia.org/wiki/Paris_(genus),Paris,paris,paris-genus,PER
+PARIS,1645419,7,11,,"http://en.wikipedia.org/wiki/Paris,_Texas_(band)","Paris, Texas",paris-texas,paris-texas-band,UNK
+PARIS,4360088,0,257,,"http://en.wikipedia.org/wiki/Paris,_je_t'aime","Paris, je t'aime",paris-je-taime,paris-je-taime,UNK
+PARIS,141772,0,3,5655865,"http://en.wikipedia.org/wiki/Paris,_Wisconsin","Paris, Wisconsin",paris-wisconsin,paris-wisconsin,GPE
+PARIS,18746176,0,1,,"http://en.wikipedia.org/wiki/Paris,_TX_µSA","Paris, TX µSA",paris-tx-µsa,paris-tx-µsa,PER
+PARIS,36726996,15,33,,"http://en.wikipedia.org/wiki/Paris,_Mississippi","Paris, Mississippi",paris-mississippi,paris-mississippi,GPE
+PARIS,705310,278,202,22989,http://en.wikipedia.org/wiki/Paris_Las_Vegas,Paris Las Vegas,paris-las-vegas,paris-las-vegas,ORG
+PARIS,11287669,34,38,,http://en.wikipedia.org/wiki/SS_Paris_(1916),SS Paris,ss-paris,ss-paris-1916,UNK
+PARIS,32977266,16,20,,http://en.wikipedia.org/wiki/Paris_(band),Paris,paris,paris-band,UNK
+PARIS,35318735,24,35,,http://en.wikipedia.org/wiki/Paris_(Ooh_La_La),Paris,paris,paris-ooh-la-la,UNK
+PARIS,15956462,49,46,,"http://en.wikipedia.org/wiki/Paris,_Tokyo","Paris, Tokyo",paris-tokyo,paris-tokyo,UNK
+PARIS,33006596,259,318,22989,http://en.wikipedia.org/wiki/Niggas_in_Paris,Niggas in Paris,niggas-in-paris,niggas-in-paris,UNK
+PARIS,1853308,0,9,,http://en.wikipedia.org/wiki/Paris_Airport,Paris Airport,paris-airport,paris-airport,UNK
+PARIS,9289655,5,10,,http://en.wikipedia.org/wiki/Paris_(actor_under_Domitian),Paris,paris,paris-actor-under-domitian,PER
+PARIS,9628841,59,65,,"http://en.wikipedia.org/wiki/Paris,_Ohio","Paris, Ohio",paris-ohio,paris-ohio,GPE
+PARIS,932079,86,56,31717;22989,http://en.wikipedia.org/wiki/Paris_Club,Paris Club,paris-club,paris-club,UNK
+PARIS,8506637,3,18,,http://en.wikipedia.org/wiki/París_(retail),París,paris,paris-retail,UNK
+PARIS,42983166,4,22,,"http://en.wikipedia.org/wiki/Paris,_BN,_lat._4404","Paris, BN, lat. 4404",paris-bn-lat-4404,paris-bn-lat-4404,UNK
+PARIS,84692,2888,164,22989,http://en.wikipedia.org/wiki/University_of_Paris,University of Paris,university-of-paris,university-of-paris,ORG
+PARIS,14384812,9,11,14384812,http://en.wikipedia.org/wiki/Paris_(Pantheon),Paris,paris,paris-pantheon,UNK
+PARIS,513436,42,51,22989,"http://en.wikipedia.org/wiki/Paris,_Yukon","Paris, Yukon",paris-yukon,paris-yukon,UNK
+PARIS,3111017,137,216,,"http://en.wikipedia.org/wiki/Paris,_Pennsylvania","Paris, Pennsylvania",paris-pennsylvania,paris-pennsylvania,GPE
+PARIS,13482794,52,61,,"http://en.wikipedia.org/wiki/Paris,_Virginia","Paris, Virginia",paris-virginia,paris-virginia,GPE
+PARIS,1973841,442,93,22989;358,http://en.wikipedia.org/wiki/Paris_FC,Paris FC,paris-fc,paris-fc,UNK
+PARIS,212144,63,47,,http://en.wikipedia.org/wiki/Paris_(rapper),Paris,paris,paris-rapper,UNK
+Moslem,6037917,20084,792,13530298;874;2185;3068;146740;19623898;37095529;6685329;10331;24730658;8087628;13913;2646438;37477763;15012;14810;17099208;52625;17867;30320828;4087576;403399;27857534;228250;159433;1026286;18881565;17003120;1946196;6037917;23235;3662295;28624608;276104,http://en.wikipedia.org/wiki/Islam,Islam,islam,islam,UNK
+Islamist,15012,1789,568,17867;358;1946196;13913;2646438;37477763;37543158;15012;403399;14810;146740;228250;31717;159433;12249;24730658;1026286;276104;12750648;6037917;11145385;8087628;23235,http://en.wikipedia.org/wiki/Islamism,Islamism,islamism,islamism,UNK
+Islamist,11145385,14,65,31717;18881565;15012,http://en.wikipedia.org/wiki/The_Islamist,The Islamist,the-islamist,the-islamist,UNK
+London,17867,92094,1769,1644;33567266;27902154;423106;412419;12249;8087628;1679120;13525;15012;823473;17867;158019;13190957;18881565;409543;22989;23235;152256;31717;1290035;22670366;187448;3879356;13530298;2023355;14506235;6037917;22437586;5380456;98370;238524;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+London,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+London,9037218,5,13,13530298,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+London,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+London,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+London,2023355,27,32,17867;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+London,187448,1900,216,823473;17867;508567;640154;31717;8087628,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+London,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+London,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+London,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+London,238524,118,60,17867,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+London,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+London,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+London,1679120,12,181,17867;98370;12249;31717,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+London,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+London,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+London,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+London,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+London,118409,547,127,17867;12249,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+London,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+London,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+London,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+London,326248,1048,124,31717,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+London,13190957,2,122,17867;31717,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+London,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+London,7984054,3,37,158019;31717;152256,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+London,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+London,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+London,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+London,12249,3253,543,2193334;17867;13530298;640154;118409;1113158;1679120;15012;5380456;98370;31717;22989;423106;23235,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+London,22437586,76,82,17867;22192200,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+London,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+London,508567,484,369,823473;187448;152256,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+London,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+London,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+London,33567266,19,43,17867;22989,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+London,8591270,5,9,14609428,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+London,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+Arab,159433,1061,277,2185;6685329;52625;358;15012;9555087;27857534;14506235;3248748;31717;159433;7960202;4087576;24730658;6037917;8087628;23235,http://en.wikipedia.org/wiki/Arab_world,Arab world,arab-world,arab-world,UNK
+Arab,52625,1864,454,52625;358;7960202;354551;13913;4087576;1644;2185;6685329;27857534;31717;159433;276104;6037917;8087628;23235,http://en.wikipedia.org/wiki/Arab_League,Arab League,arab-league,arab-league,GPE
+Arab,100008858,0,0,,http://en.wikipedia.org/wiki/Arab_(rapper),Arab,arab,arab-rapper,UKN
+Arab,18944015,0,3,,"http://en.wikipedia.org/wiki/Arab,_Azerbaijan","Arab, Azerbaijan",arab-azerbaijan,arab-azerbaijan,UNK
+Arab,22670366,11,9,17867;40574623,http://en.wikipedia.org/wiki/Al-Arab,Al-Arab,al-arab,al-arab,UNK
+Arab,4114697,2,7,4114697,http://en.wikipedia.org/wiki/AraB,AraB,arab,arab,UNK
+Arab,24557426,8,14,,http://en.wikipedia.org/wiki/Arab_College_(Jerusalem),Arab College,arab-college,arab-college-jerusalem,ORG
+Arab,24730658,9,139,6037917;15012;4087576;3156480;159433;8087628,http://en.wikipedia.org/wiki/Arab_street,Arab street,arab-street,arab-street,UNK
+Arab,39793220,2,31,,http://en.wikipedia.org/wiki/American_Arab,American Arab,american-arab,american-arab,UNK
+Arab,6685329,1179,489,2185;6685329;52625;50953;159433;6037917;23235,http://en.wikipedia.org/wiki/Arabic_script,Arabic script,arabic-script,arabic-script,ORG
+Arab,40574623,3,10,22670366,http://en.wikipedia.org/wiki/Al_Arab,Al Arab,al-arab,al-arab,ORG
+Arab,3450948,6,38,2185,http://en.wikipedia.org/wiki/Arab_(etymology),Arab,arab,arab-etymology,UNK
+Arab,2185,1278,808,52625;358;874;4087576;496519;37477763;2185;6685329;3450948;27857534;10331;228250;31717;159433;6037917;8087628,http://en.wikipedia.org/wiki/Arabs,Arabs,arabs,arabs,UNK
+Arab,35607793,240,254,,"http://en.wikipedia.org/wiki/Arab,_Iran","Arab, Iran",arab-iran,arab-iran,UNK
+Arab,7960202,1920,527,52625;358;7960202;13913;5380456;3248748;31717;159433;8087628;23235,http://en.wikipedia.org/wiki/Arab–Israeli_conflict,Arab–Israeli conflict,arab–israeli-conflict,arab–israeli-conflict,UNK
+Arab,104617,93,120,34655312;4666760,"http://en.wikipedia.org/wiki/Arab,_Alabama","Arab, Alabama",arab-alabama,arab-alabama,GPE
+Arab,3156480,13,20,24730658,http://en.wikipedia.org/wiki/Arab_Street,Arab Street,arab-street,arab-street,UNK
+Arab,4666760,45,62,104617,"http://en.wikipedia.org/wiki/Arab,_Missouri","Arab, Missouri",arab-missouri,arab-missouri,GPE
+Arab,11094877,2,7,,http://en.wikipedia.org/wiki/Mount_Arab,Mount Arab,mount-arab,mount-arab,UNK
+Arab,27857534,0,459,2185;159433;52625;358;6037917;8087628,http://en.wikipedia.org/wiki/Arabs_in_India,Arabs in India,arabs-in-india,arabs-in-india,UNK
+Arab,16764133,1,8,,"http://en.wikipedia.org/wiki/Arab,_Tajikistan","Arab, Tajikistan",arab-tajikistan,arab-tajikistan,GPE
+Arab,14506235,2,18,17867;14506235;159433,http://en.wikipedia.org/wiki/The_Arab_(magazine),The Arab,the-arab,the-arab-magazine,UNK
+Arab,4087576,342,245,2185;159433;52625;358;4087576;24730658;276104;6037917;8087628,http://en.wikipedia.org/wiki/Arab_culture,Arab culture,arab-culture,arab-culture,UNK
+Egypt,8087628,30727,927,358;874;1644;2185;7960202;146740;37095529;9348;10331;24730658;8087628;13913;15012;14810;17867;37543158;402886;159433;1029528;1946196;22989;6037917;23235;152256;31717;234082;327229;10236490;52625;4087576;27857534;50953;496519;14410566;3248748;187448;9555087,http://en.wikipedia.org/wiki/Egypt,Egypt,egypt,egypt,GPE
+Egypt,27810757,11,26,27810685,"http://en.wikipedia.org/wiki/Egypt,_Chickasaw_County,_Mississippi","Egypt, Chickasaw County, Mississippi",egypt-chickasaw-county-mississippi,egypt-chickasaw-county-mississippi,GPE
+Egypt,23599182,62,72,2916862,"http://en.wikipedia.org/wiki/Egypt,_Summers_County,_West_Virginia","Egypt, Summers County, West Virginia",egypt-summers-county-west-virginia,egypt-summers-county-west-virginia,UNK
+Egypt,10236490,221,197,37477763;234082;10331;50953;874;8087628;496519,http://en.wikipedia.org/wiki/Ancient_Egyptian_technology,Ancient Egyptian technology,ancient-egyptian-technology,ancient-egyptian-technology,UNK
+Egypt,27693853,26,43,27810685,"http://en.wikipedia.org/wiki/Egypt,_Holmes_County,_Mississippi","Egypt, Holmes County, Mississippi",egypt-holmes-county-mississippi,egypt-holmes-county-mississippi,GPE
+Egypt,22020899,32,39,7436338,"http://en.wikipedia.org/wiki/Egypt,_Montgomery_County,_Texas","Egypt, Montgomery County, Texas",egypt-montgomery-county-texas,egypt-montgomery-county-texas,GPE
+Egypt,18076003,90,144,874,"http://en.wikipedia.org/wiki/Egypt,_Pennsylvania","Egypt, Pennsylvania",egypt-pennsylvania,egypt-pennsylvania,GPE
+Egypt,11730185,2,39,11730185,http://en.wikipedia.org/wiki/Egypt_(band),Egypt,egypt,egypt-band,UNK
+Egypt,22648334,1,7,,"http://en.wikipedia.org/wiki/Egypt_Road,_Nova_Scotia","Egypt Road, Nova Scotia",egypt-road-nova-scotia,egypt-road-nova-scotia,GPE
+Egypt,874,4914,880,10236490;874;496519;2185;10331;50953;234082;8087628;37477763;9555087;18076003;6037917,http://en.wikipedia.org/wiki/Ancient_Egypt,Ancient Egypt,ancient-egypt,ancient-egypt,UNK
+Egypt,34655312,16,33,104617;34655154,"http://en.wikipedia.org/wiki/Egypt,_Marshall_County,_Alabama","Egypt, Marshall County, Alabama",egypt-marshall-county-alabama,egypt-marshall-county-alabama,GPE
+Egypt,27612890,41,50,,"http://en.wikipedia.org/wiki/Egypt,_Ohio","Egypt, Ohio",egypt-ohio,egypt-ohio,GPE
+Egypt,496519,409,324,2185;10236490;9555087;9348;10331;50953;3248748;874;8087628;13525,http://en.wikipedia.org/wiki/Egypt_(Roman_province),Egypt,egypt,egypt-roman-province,UNK
+Egypt,37095529,147,103,37543158;6037917;8087628,http://en.wikipedia.org/wiki/Egypt_Party,Egypt Party,egypt-party,egypt-party,UNK
+Egypt,2916862,44,58,23599182,"http://en.wikipedia.org/wiki/Egypt,_West_Virginia","Egypt, West Virginia",egypt-west-virginia,egypt-west-virginia,GPE
+Egypt,402886,32,63,31717;8087628,"http://en.wikipedia.org/wiki/Egypt,_Buckinghamshire","Egypt, Buckinghamshire",egypt-buckinghamshire,egypt-buckinghamshire,UNK
+Egypt,9348,222,313,234082;31717;40229;496519;23363;9555087;9348;3248748;8087628,http://en.wikipedia.org/wiki/Geography_of_Egypt,Geography of Egypt,geography-of-egypt,geography-of-egypt,UNK
+Egypt,15180517,40,55,,"http://en.wikipedia.org/wiki/Egypt,_Indiana","Egypt, Indiana",egypt-indiana,egypt-indiana,GPE
+Egypt,7436338,0,3,22020899;22020934;22020859,"http://en.wikipedia.org/wiki/Egypt,_Texas","Egypt, Texas",egypt-texas,egypt-texas,GPE
+Egypt,8382034,3,6,,http://en.wikipedia.org/wiki/Egypt_River,Egypt River,egypt-river,egypt-river,UNK
+Egypt,30490175,13,27,,"http://en.wikipedia.org/wiki/Egypt,_Kentucky","Egypt, Kentucky",egypt-kentucky,egypt-kentucky,UNK
+Egypt,34655214,28,45,34655154,"http://en.wikipedia.org/wiki/Egypt,_Etowah_County,_Alabama","Egypt, Etowah County, Alabama",egypt-etowah-county-alabama,egypt-etowah-county-alabama,GPE
+Egypt,234082,601,59,10236490;9348;10331;874;8087628,http://en.wikipedia.org/wiki/Lower_Egypt,Lower Egypt,lower-egypt,lower-egypt,UNK
+Egypt,10331,1099,533,2185;10236490;10331;50953;874;234082;31717;496519;6037917;8087628,http://en.wikipedia.org/wiki/Ancient_Egyptian_religion,Ancient Egyptian religion,ancient-egyptian-religion,ancient-egyptian-religion,UNK
+Egypt,50953,1534,523,10236490;874;496519;6685329;10331;8087628,http://en.wikipedia.org/wiki/Egyptian_hieroglyphs,Egyptian hieroglyphs,egyptian-hieroglyphs,egyptian-hieroglyphs,UNK
+Egypt,22020934,16,24,7436338,"http://en.wikipedia.org/wiki/Egypt,_Leon_County,_Texas","Egypt, Leon County, Texas",egypt-leon-county-texas,egypt-leon-county-texas,UNK
+Egypt,33090017,1,16,,http://en.wikipedia.org/wiki/Egypt_Sherrod,Egypt Sherrod,egypt-sherrod,egypt-sherrod,PER
+Egypt,33931295,225,305,,http://en.wikipedia.org/wiki/Little_Egypt_(archaeological_site),Little Egypt,little-egypt,little-egypt-archaeological-site,UNK
+Egypt,22020859,37,49,7436338,"http://en.wikipedia.org/wiki/Egypt,_Wharton_County,_Texas","Egypt, Wharton County, Texas",egypt-wharton-county-texas,egypt-wharton-county-texas,GPE
+Egypt,25896406,2,30,,"http://en.wikipedia.org/wiki/Egypt,_Tennessee","Egypt, Tennessee",egypt-tennessee,egypt-tennessee,UNK
+Egypt,34867224,19,59,,http://en.wikipedia.org/wiki/Little_Egypt_(Ying-Yang),Little Egypt,little-egypt,little-egypt-ying-yang,UNK
+Egypt,6069146,65,83,,"http://en.wikipedia.org/wiki/Egypt_Lake,_Florida","Egypt Lake, Florida",egypt-lake-florida,egypt-lake-florida,GPE
+Egypt,106924,33,40,,"http://en.wikipedia.org/wiki/Egypt,_Arkansas","Egypt, Arkansas",egypt-arkansas,egypt-arkansas,GPE
+Egypt,14410566,1,13,8087628,http://en.wikipedia.org/wiki/Mr_Egypt,Mr Egypt,mr-egypt,mr-egypt,ORG
+Egypt,9555087,511,106,31717;159433;496519;9348;3248748;874;8087628,http://en.wikipedia.org/wiki/Kingdom_of_Egypt,Kingdom of Egypt,kingdom-of-egypt,kingdom-of-egypt,GPE
+Egypt,3248748,363,243,31717;159433;7960202;358;1026286;496519;9555087;9348;3248748;8087628,http://en.wikipedia.org/wiki/Egyptian_Revolution_of_1952,Egyptian Revolution of 1952,egyptian-revolution-of-1952,egyptian-revolution-of-1952,UNK
+Egypt,27810685,1,2,27693853;27810757,"http://en.wikipedia.org/wiki/Egypt,_Mississippi","Egypt, Mississippi",egypt-mississippi,egypt-mississippi,UNK
+Egypt,474350,20,38,,http://en.wikipedia.org/wiki/Little_Egypt_(dancer),Little Egypt,little-egypt,little-egypt-dancer,UNK
+Egypt,34655154,0,2,34655312;34655214,"http://en.wikipedia.org/wiki/Egypt,_Alabama","Egypt, Alabama",egypt-alabama,egypt-alabama,UNK
+British Jewish,5380456,152,328,31717;7960202;17867;12249;13530298,http://en.wikipedia.org/wiki/British_Jews,British Jews,british-jews,british-jews,UNK
+Hamas,13913,2096,563,52625;7960202;13913;2646438;15012;403399;31717;6037917;8087628;23235,http://en.wikipedia.org/wiki/Hamas,Hamas,hamas,hamas,ORG
+Algerian,358,17332,718,358;1644;2185;20667174;24176735;7960202;40229;14903046;413616;8087628;14712233;327229;15012;52625;1973841;4087576;403399;27857534;159433;1029528;575244;22989;23235;3248748;7172945;5183392;31717,http://en.wikipedia.org/wiki/Algeria,Algeria,algeria,algeria,GPE
+Algerian,39316193,63,0,,http://en.wikipedia.org/wiki/Algerian_(solitaire),Algerian,algerian,algerian-solitaire,UNK
+Algerian,20667174,547,443,358;4699587;1644;20667174;413616,http://en.wikipedia.org/wiki/Algerian_cuisine,Algerian cuisine,algerian-cuisine,algerian-cuisine,UNK
+Islamic Salvation Front,403399,206,196,1644;6037917;146740;13913;358;15012;1946196;2646438,http://en.wikipedia.org/wiki/Islamic_Salvation_Front,Islamic Salvation Front,islamic-salvation-front,islamic-salvation-front,UNK
+FIS,403399,206,196,1644;6037917;146740;13913;358;15012;1946196;2646438,http://en.wikipedia.org/wiki/Islamic_Salvation_Front,Islamic Salvation Front,islamic-salvation-front,islamic-salvation-front,UNK
+FIS,12684962,36,66,,http://en.wikipedia.org/wiki/Fisher–Yates_shuffle,Fisher–Yates shuffle,fisher–yates-shuffle,fisher–yates-shuffle,PER
+FIS,33738444,73,89,,"http://en.wikipedia.org/wiki/Fisk,_Wisconsin","Fisk, Wisconsin",fisk-wisconsin,fisk-wisconsin,GPE
+FIS,544499,546,420,,http://en.wikipedia.org/wiki/Fisher_(animal),Fisher,fisher,fisher-animal,UNK
+FIS,10967846,4,16,10967904,http://en.wikipedia.org/wiki/Fis,Fis,fis,fis,ORG
+FIS,10967904,3,9,10967846,http://en.wikipedia.org/wiki/FIS_(protein),FIS,fis,fis-protein,PER
+FIS,122546,31,50,,"http://en.wikipedia.org/wiki/Fisk,_Missouri","Fisk, Missouri",fisk-missouri,fisk-missouri,GPE
+FIS,4699587,7686,533,4699587;20667174;1137395,http://en.wikipedia.org/wiki/Fish,Fish,fish,fish,UNK
+FIS,25238642,1,21,25238642,http://en.wikipedia.org/wiki/FIS_Group,FIS Group,fis-group,fis-group,UNK
+FIS,18982861,12,14,,http://en.wikipedia.org/wiki/Fish_Information_and_Services,Fish Information and Services,fish-information-and-services,fish-information-and-services,UNK
+FIS,1137395,627,282,4699587,http://en.wikipedia.org/wiki/Fishing_net,Fishing net,fishing-net,fishing-net,UNK
+FIS,999306,446,368,999306,http://en.wikipedia.org/wiki/Fish_oil,Fish oil,fish-oil,fish-oil,UNK
+Islamic,6037917,20084,792,13530298;874;2185;3068;146740;19623898;37095529;6685329;10331;24730658;8087628;13913;2646438;37477763;15012;14810;17099208;52625;17867;30320828;4087576;403399;27857534;228250;159433;1026286;18881565;17003120;1946196;6037917;23235;3662295;28624608;276104,http://en.wikipedia.org/wiki/Islam,Islam,islam,islam,UNK
+Islamic,28624608,3,18,11954567;6037917;28624608,http://en.wikipedia.org/wiki/Islamic_university,Islamic university,islamic-university,islamic-university,UNK
+Islamic,37477763,627,303,2185;10236490;15012;14810;146740;228250;874;1946196;276104;2646438;6037917,http://en.wikipedia.org/wiki/Islamic_Golden_Age,Islamic Golden Age,islamic-golden-age,islamic-golden-age,UNK
+Islamic,3068,89,122,6037917;23235,http://en.wikipedia.org/wiki/Islamic_conquest_of_Afghanistan,Islamic conquest of Afghanistan,islamic-conquest-of-afghanistan,islamic-conquest-of-afghanistan,PER
+Islamic,276104,1059,257,52625;15012;14810;146740;228250;1946196;4087576;37477763;6037917;23235,http://en.wikipedia.org/wiki/Islamic_architecture,Islamic architecture,islamic-architecture,islamic-architecture,UNK
+Islamic,1946196,799,182,15012;403399;14810;146740;228250;1946196;276104;2646438;37477763;6037917;8087628;23235,http://en.wikipedia.org/wiki/Islamic_culture,Islamic culture,islamic-culture,islamic-culture,UNK
+Islamic,17099208,4,3,6037917,http://en.wikipedia.org/wiki/Islamic_Movement_(Nigeria),Islamic Movement,islamic-movement,islamic-movement-nigeria,UNK
+Islamic,2646438,247,120,37477763;6037917;228250;13913;15012;403399;1946196;2646438;23235,http://en.wikipedia.org/wiki/Islamic_state,Islamic state,islamic-state,islamic-state,UNK
+Islamic,327229,6,96,37543158;12750648;358;31717;8087628;23235,http://en.wikipedia.org/wiki/Islamic_party,Islamic party,islamic-party,islamic-party,ORG
+Islamic,11954567,71,56,28624608,http://en.wikipedia.org/wiki/Islamic_University,Islamic University,islamic-university,islamic-university,ORG
+Islamic,228250,1194,277,2185;15012;14810;146740;228250;1946196;1026286;276104;2646438;37477763;6037917;23235,http://en.wikipedia.org/wiki/Islamic_studies,Islamic studies,islamic-studies,islamic-studies,UNK
+Islamic,18881565,41,31,11145385;17867;31717;6037917,http://en.wikipedia.org/wiki/Islamic_Forum_of_Europe,Islamic Forum of Europe,islamic-forum-of-europe,islamic-forum-of-europe,ORG
+Islamic,146740,486,308,37543158;15012;403399;276104;37477763;14810;6037917;146740;228250;1946196;8087628;23235,http://en.wikipedia.org/wiki/Islamic_banking,Islamic banking,islamic-banking,islamic-banking,UNK
+Islamic,37543158,125,110,327229;15012;146740;37095529;8087628,http://en.wikipedia.org/wiki/Islamic_Party_(Egypt),Islamic Party,islamic-party,islamic-party-egypt,UNK
+Islamic,19623898,3,42,6037917,"http://en.wikipedia.org/wiki/Islamic_Museum,_Jerusalem","Islamic Museum, Jerusalem",islamic-museum-jerusalem,islamic-museum-jerusalem,UNK
+Islamic,12311464,2,9,,http://en.wikipedia.org/wiki/Islamic_Society_(Bahrain),Islamic Society,islamic-society,islamic-society-bahrain,UNK
+Islamic,12750648,64,40,327229;15012,http://en.wikipedia.org/wiki/Islamic_Group_(Lebanon),Islamic Group,islamic-group,islamic-group-lebanon,ORG
+Islamic,17003120,3,11,6037917,http://en.wikipedia.org/wiki/Islamic_Foundation,Islamic Foundation,islamic-foundation,islamic-foundation,UNK
+Islamic,30320828,3,7,6037917,"http://en.wikipedia.org/wiki/Islamic_School,_Irbid","Islamic School, Irbid",islamic-school-irbid,islamic-school-irbid,ORG
+Islamic,14810,4339,794,228250;8087628;1946196;37477763;15012;146740;276104;6037917;23235,http://en.wikipedia.org/wiki/Islamic_calendar,Islamic calendar,islamic-calendar,islamic-calendar,UNK
+British,31717,184306,1536,358;1644;2185;9348;10331;12249;8087628;1679120;13913;13525;15012;17867;13190957;18881565;22989;23235;31717;327229;326248;52625;3662295;354551;11145385;17271126;9555087;7960202;412419;158019;402886;159433;409543;152256;7984054;932079;3248748;187448;13530298;480153;1026286;1029528;6375316;5380456,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+Algiers,358,17332,718,358;1644;2185;20667174;24176735;7960202;40229;14903046;413616;8087628;14712233;327229;15012;52625;1973841;4087576;403399;27857534;159433;1029528;575244;22989;23235;3248748;7172945;5183392;31717,http://en.wikipedia.org/wiki/Algeria,Algeria,algeria,algeria,GPE
+Algiers,7172945,322,134,1644;7172945;358,http://en.wikipedia.org/wiki/Algiers_Province,Algiers Province,algiers-province,algiers-province,UNK
+Algiers,14712233,34,45,358,"http://en.wikipedia.org/wiki/Algiers,_Vermont","Algiers, Vermont",algiers-vermont,algiers-vermont,UNK
+Algiers,575244,89,83,13530298;358,"http://en.wikipedia.org/wiki/Algiers,_New_Orleans","Algiers, New Orleans",algiers-new-orleans,algiers-new-orleans,UNK
+Algiers,5183392,162,105,1644;358,http://en.wikipedia.org/wiki/University_of_Algiers,University of Algiers,university-of-algiers,university-of-algiers,ORG
+Algiers,1644,3457,584,52625;17867;358;403399;20667174;8087628;409543;24176735;1029528;40229;7172945;29214636;5183392;31717;22989,http://en.wikipedia.org/wiki/Algiers,Algiers,algiers,algiers,GPE
+Algiers,42622712,25,30,,"http://en.wikipedia.org/wiki/Algiers,_Indiana","Algiers, Indiana",algiers-indiana,algiers-indiana,GPE
+Algiers,29214636,235,228,1644,http://en.wikipedia.org/wiki/Capture_of_Algiers_(1516),Capture of Algiers,capture-of-algiers,capture-of-algiers-1516,UNK
+Foreign Office,2253457,256,76,,http://en.wikipedia.org/wiki/Foreign_Office_(Germany),Foreign Office,foreign-office,foreign-office-germany,ORG
+Malcolm Rifkind,354551,689,680,52625;31717,http://en.wikipedia.org/wiki/Malcolm_Rifkind,Malcolm Rifkind,malcolm-rifkind,malcolm-rifkind,PER
+Pakistan,23235,33617,1132,358;3068;7960202;1965925;146740;12249;8087628;13913;15012;14810;759295;17867;228250;159433;1026286;1946196;23363;6037917;23235;464417;31717;276104;6375316;6685329;2646438;327229;52625;3662295,http://en.wikipedia.org/wiki/Pakistan,Pakistan,pakistan,pakistan,GPE
+Pakistan,1965925,2031,377,3662295;6375316;1965925;759295;1026286;23363;23235,http://en.wikipedia.org/wiki/Pakistan_Army,Pakistan Army,pakistan-army,pakistan-army,ORG
+Pakistan,464417,6,20,23235,http://en.wikipedia.org/wiki/Pakistan_International,Pakistan International,pakistan-international,pakistan-international,UNK
+Pakistan,3662295,473,123,24442938;31717;23363;6037917;1965925;6375316;759295;23235,http://en.wikipedia.org/wiki/Dominion_of_Pakistan,Dominion of Pakistan,dominion-of-pakistan,dominion-of-pakistan,GPE
+Pakistan,24442938,2,14,3662295,"http://en.wikipedia.org/wiki/Pakistan,_India","Pakistan, India",pakistan-india,pakistan-india,UNK
+Pakistan,1026286,1055,367,15012;1965925;228250;13530298;759295;3248748;31717;1026286;23363;6037917;6375316;23235,http://en.wikipedia.org/wiki/Pakistan_Movement,Pakistan Movement,pakistan-movement,pakistan-movement,ORG
+Pakistan,6375316,856,581,1965925;759295;3662295;31717;1026286;23363;6375316;23235,http://en.wikipedia.org/wiki/Nuclear_power_in_Pakistan,Nuclear power in Pakistan,nuclear-power-in-pakistan,nuclear-power-in-pakistan,UNK
+Pakistan,23363,415,510,1026286;23363;9348;1965925;6375316;759295;3662295;23235,http://en.wikipedia.org/wiki/Geography_of_Pakistan,Geography of Pakistan,geography-of-pakistan,geography-of-pakistan,GPE
+Pakistan,759295,1423,649,3662295;6375316;1965925;759295;1026286;23363;23235,http://en.wikipedia.org/wiki/Pakistan_national_cricket_team,Pakistan national cricket team,pakistan-national-cricket-team,pakistan-national-cricket-team,ORG

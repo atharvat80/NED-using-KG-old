@@ -1,0 +1,44 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+BOBSLEIGH-WORLD CUP,16339018,180,178,10301463;951198;263861;13162738;12677615;6292729;11370;22309191;16680211;1299136;1543977;12312312;7239;26964606;3434750;13187649;2706303,http://en.wikipedia.org/wiki/Bobsleigh_World_Cup,Bobsleigh World Cup,bobsleigh-world-cup,bobsleigh-world-cup,UNK
+Austria,26964606,55411,711,16339018;3434750;2706303;13162738;26964606;126460,http://en.wikipedia.org/wiki/Austria,Austria,austria,austria,GPE
+World Cup,22309191,286,125,10301463;951198;16339018;263861;11370;22309191;1543977;12312312;7239;3434750;2706303,http://en.wikipedia.org/wiki/UCI_Cyclo-cross_World_Cup,UCI Cyclo-cross World Cup,uci-cyclo-cross-world-cup,uci-cyclo-cross-world-cup,UNK
+World Cup,12312312,874,369,10301463;16339018;1543977;22309191;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Rugby_League_World_Cup,Rugby League World Cup,rugby-league-world-cup,rugby-league-world-cup,ORG
+World Cup,2900585,596,210,2900585;7239;266217,http://en.wikipedia.org/wiki/2011_Cricket_World_Cup,2011 Cricket World Cup,2011-cricket-world-cup,2011-cricket-world-cup,UNK
+World Cup,951198,797,254,10301463;16339018;1543977;22309191;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Hockey_World_Cup,Hockey World Cup,hockey-world-cup,hockey-world-cup,ORG
+World Cup,263861,503,173,10301463;16339018;1543977;7239;951198;11370;22309191;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_of_Hockey,World Cup of Hockey,world-cup-of-hockey,world-cup-of-hockey,ORG
+World Cup,7239,828,277,10301463;16339018;1543977;22309191;2900585;7239;951198;263861;11370;266217;12312312;2706303,http://en.wikipedia.org/wiki/Cricket_World_Cup,Cricket World Cup,cricket-world-cup,cricket-world-cup,UNK
+World Cup,656933,3267,404,52622;147793;157233;11370;126460;656933;168079,http://en.wikipedia.org/wiki/2014_FIFA_World_Cup,2014 FIFA World Cup,2014-fifa-world-cup,2014-fifa-world-cup,UNK
+World Cup,10301463,108,177,951198;16339018;263861;11370;22309191;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/World_Cup_(snooker),World Cup,world-cup,world-cup-snooker,UNK
+World Cup,1543977,0,470,10301463;16339018;7239;3434750;951198;263861;11370;22309191;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_(men's_golf),World Cup,world-cup,world-cup-mens-golf,UNK
+World Cup,157233,3239,557,52622;147793;157233;3434750;11370;126460;656933;168079,http://en.wikipedia.org/wiki/2006_FIFA_World_Cup,2006 FIFA World Cup,2006-fifa-world-cup,2006-fifa-world-cup,UNK
+World Cup,168079,3921,505,52622;147793;157233;11370;126460;656933;168079,http://en.wikipedia.org/wiki/2010_FIFA_World_Cup,2010 FIFA World Cup,2010-fifa-world-cup,2010-fifa-world-cup,UNK
+World Cup,11370,5586,616,52622;147793;157233;3434750;263861;11370;2706303;10301463;126460;656933;22309191;951198;16339018;1543977;168079;7239;12312312,http://en.wikipedia.org/wiki/FIFA_World_Cup,FIFA World Cup,fifa-world-cup,fifa-world-cup,UNK
+World Cup,17269063,107,125,3434750,http://en.wikipedia.org/wiki/Chess_World_Cup,Chess World Cup,chess-world-cup,chess-world-cup,PER
+World Cup,126460,2360,526,52622;126460;147793;656933;157233;3434750;26964606;168079;11370,http://en.wikipedia.org/wiki/1998_FIFA_World_Cup,1998 FIFA World Cup,1998-fifa-world-cup,1998-fifa-world-cup,UNK
+World Cup,52622,2464,534,52622;126460;41038712;147793;656933;157233;3434750;168079;11370,http://en.wikipedia.org/wiki/2002_FIFA_World_Cup,2002 FIFA World Cup,2002-fifa-world-cup,2002-fifa-world-cup,UNK
+World Cup,41038712,1,16,52622,http://en.wikipedia.org/wiki/World_Cup_Park,World Cup Park,world-cup-park,world-cup-park,UNK
+World Cup,147793,1790,463,52622;126460;147793;656933;157233;3434750;168079;11370,http://en.wikipedia.org/wiki/1994_FIFA_World_Cup,1994 FIFA World Cup,1994-fifa-world-cup,1994-fifa-world-cup,UNK
+World Cup,266217,683,220,2900585;7239;266217,http://en.wikipedia.org/wiki/2007_Cricket_World_Cup,2007 Cricket World Cup,2007-cricket-world-cup,2007-cricket-world-cup,UNK
+World Cup,2706303,281,186,10301463;951198;16339018;263861;11370;22309191;1543977;12312312;7239;26964606;3434750;2706303,http://en.wikipedia.org/wiki/UCI_Mountain_Bike_World_Cup,UCI Mountain Bike World Cup,uci-mountain-bike-world-cup,uci-mountain-bike-world-cup,ORG
+Brian Shimer,12677615,53,38,16339018;13162738;3434750;8710077;1299136;6292813,http://en.wikipedia.org/wiki/Brian_Shimer,Brian Shimer,brian-shimer,brian-shimer,PER
+Randy Jones,8710077,12,26,12677615;3434750;12677487;964385,http://en.wikipedia.org/wiki/Randy_Jones_(bobsleigh),Randy Jones,randy-jones,randy-jones-bobsleigh,PER
+Randy Jones,3704716,41,45,964385,http://en.wikipedia.org/wiki/Randy_Jones_(ice_hockey),Randy Jones,randy-jones,randy-jones-ice-hockey,PER
+Randy Jones,964385,2,4,961599;8710077;2437760;3704716,http://en.wikipedia.org/wiki/Randy_Jones,Randy Jones,randy-jones,randy-jones,PER
+Randy Jones,2437760,50,48,3434750;964385,http://en.wikipedia.org/wiki/Randy_Jones_(singer),Randy Jones,randy-jones,randy-jones-singer,UNK
+Randy Jones,961599,387,390,964385,http://en.wikipedia.org/wiki/Randy_Jones_(baseball),Randy Jones,randy-jones,randy-jones-baseball,PER
+Guenther Huber,6292813,137,137,6292854;1299136;12750739;6292705;12677615;6292729;3434750,http://en.wikipedia.org/wiki/Günther_Huber,Günther Huber,gunther-huber,gunther-huber,PER
+Antonio Tartaglia,6292854,58,53,12750739;3434750;1299136;6292813,http://en.wikipedia.org/wiki/Antonio_Tartaglia,Antonio Tartaglia,antonio-tartaglia,antonio-tartaglia,PER
+Pierre Lueders,1299136,174,158,12750739;16339018;13162738;6292705;12677615;6292729;6292854;6292813;3434750,http://en.wikipedia.org/wiki/Pierre_Lueders,Pierre Lueders,pierre-lueders,pierre-lueders,PER
+Dave MacEachern,12750739,54,55,6292854;3434750;1299136;6292813,http://en.wikipedia.org/wiki/David_MacEachern,David MacEachern,david-maceachern,david-maceachern,UNK
+Sepp Dostthaler,16680211,4,5,16339018,http://en.wikipedia.org/wiki/Sepp_Dostthaler,Sepp Dostthaler,sepp-dostthaler,sepp-dostthaler,PER
+Reto Goetschi,6292729,97,90,1299136;6292813;16339018;6292705,http://en.wikipedia.org/wiki/Reto_Götschi,Reto Götschi,reto-gotschi,reto-gotschi,UNK
+Guido Acklin,6292705,99,88,1299136;6292813;6292729,http://en.wikipedia.org/wiki/Guido_Acklin,Guido Acklin,guido-acklin,guido-acklin,UNK
+Dirk Wiese,13187649,6,7,16339018,http://en.wikipedia.org/wiki/Dirk_Wiese,Dirk Wiese,dirk-wiese,dirk-wiese,PER
+Jiri Dzmura,13629790,4,8,,http://en.wikipedia.org/wiki/Jiří_Džmura,Jiří Džmura,jiri-dzmura,jiri-dzmura,PER
+Pavel Polomsky,13629893,3,9,,http://en.wikipedia.org/wiki/Pavel_Polomský,Pavel Polomský,pavel-polomsky,pavel-polomsky,PER
+Hubert Schoesser,13162738,28,32,12677615;16339018;1299136;26964606,http://en.wikipedia.org/wiki/Hubert_Schösser,Hubert Schösser,hubert-schosser,hubert-schosser,PER
+Britain I,36945713,44,11,,http://en.wikipedia.org/wiki/Britain_I.,Britain I.,britain-i,britain-i,UNK
+Sean Olsson,12660738,8,6,,http://en.wikipedia.org/wiki/Sean_Olsson,Sean Olsson,sean-olsson,sean-olsson,PER
+Dean Ward,12660811,4,11,,http://en.wikipedia.org/wiki/Dean_Ward,Dean Ward,dean-ward,dean-ward,PER
+United States I,3434750,529967,1252,11370;52622;26964606;126460;157233;147793;1299136;22309191;17269063;6292854;6292813;1543977;2437760;16339018;3434750;2706303;12677487;12677615;8710077;12750739,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+Garrett Hines,12677487,13,15,3434750;8710077,http://en.wikipedia.org/wiki/Garrett_Hines,Garrett Hines,garrett-hines,garrett-hines,UNK

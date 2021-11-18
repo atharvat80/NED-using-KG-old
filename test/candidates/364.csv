@@ -1,0 +1,255 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+GOLF,849905,75,46,19568112;12465670;849905,http://en.wikipedia.org/wiki/Golf_club,Golf club,golf-club,golf-club,UNK
+GOLF,30835044,67,74,19568112,http://en.wikipedia.org/wiki/Golf_(patience),Golf,golf,golf-patience,UNK
+GOLF,896706,1,13,896706,http://en.wikipedia.org/wiki/Golf_(Videopac),Golf,golf,golf-videopac,UNK
+GOLF,12465670,89,179,19568112;12465670;849905,http://en.wikipedia.org/wiki/Golf_equipment,Golf equipment,golf-equipment,golf-equipment,UNK
+GOLF,182188,468,201,,http://en.wikipedia.org/wiki/Volkswagen_Golf,Volkswagen Golf,volkswagen-golf,volkswagen-golf,UNK
+GOLF,2054546,0,75,19568112,http://en.wikipedia.org/wiki/Everybody's_Golf,Everybody's Golf,everybodys-golf,everybodys-golf,UNK
+GOLF,1932355,8,13,19568112,http://en.wikipedia.org/wiki/Golf_(Atari_2600),Golf,golf,golf-atari-2600,UNK
+GOLF,32775292,118,122,19568112,http://en.wikipedia.org/wiki/King_Golf,King Golf,king-golf,king-golf,UNK
+GOLF,42442786,1,9,19568112;12552846,http://en.wikipedia.org/wiki/Golf_Queensland,Golf Queensland,golf-queensland,golf-queensland,UNK
+GOLF,12552846,127,122,1567244;19568112;42442786,http://en.wikipedia.org/wiki/Golf_Australia,Golf Australia,golf-australia,golf-australia,ORG
+GOLF,436969,164,54,19568112,http://en.wikipedia.org/wiki/Golf_(billiards),Golf,golf,golf-billiards,UNK
+GOLF,109589,98,263,,"http://en.wikipedia.org/wiki/Golf,_Florida","Golf, Florida",golf-florida,golf-florida,GPE
+GOLF,1567244,37,68,31717;19568112;34593883;12552846,http://en.wikipedia.org/wiki/Golf_Canada,Golf Canada,golf-canada,golf-canada,UNK
+GOLF,24531333,0,5,19568112,http://en.wikipedia.org/wiki/Golf_USA,Golf USA,golf-usa,golf-usa,ORG
+GOLF,5445708,20,51,13530298;31717;19568112,http://en.wikipedia.org/wiki/Golf_(Virtual_Boy),Golf,golf,golf-virtual-boy,UNK
+GOLF,11415834,24,19,11415834,http://en.wikipedia.org/wiki/Golf_Records,Golf Records,golf-records,golf-records,ORG
+GOLF,34593883,9,4,19568112;1567244,http://en.wikipedia.org/wiki/Golf_Saskatchewan,Golf Saskatchewan,golf-saskatchewan,golf-saskatchewan,PER
+GOLF,23099022,109,114,,"http://en.wikipedia.org/wiki/Golf,_California","Golf, California",golf-california,golf-california,UNK
+GOLF,19568112,9475,219,780871;12552846;667682;4435993;5445708;19097669;436969;24531333;1932355;5271765;2054546;21265;5272617;30835044;5412184;34593883;147575;849905;4308246;5088382;12465670;5242970;5276824;4375906;1034991;32775292;1688190;11867;26667;4344819;11818919;5022198;4488686;1567244;19568112;14560;31717;42442786,http://en.wikipedia.org/wiki/Golf,Golf,golf,golf,UNK
+GOLF,110986,190,244,,"http://en.wikipedia.org/wiki/Golf,_Illinois","Golf, Illinois",golf-illinois,golf-illinois,UNK
+GERMAN OPEN,4488686,142,147,14560;1034991;19568112;5058739;26667;33166;667299;4913064;11867,http://en.wikipedia.org/wiki/German_Open_(golf),German Open,german-open,german-open-golf,UNK
+GERMAN OPEN,667299,3,7,11867;3953139;4488686;28244201,http://en.wikipedia.org/wiki/German_Open,German Open,german-open,german-open,UNK
+GERMAN OPEN,28244201,73,105,667299;11867,http://en.wikipedia.org/wiki/German_Open_(darts),German Open,german-open,german-open-darts,UNK
+GERMAN OPEN,3953139,80,109,667299;11867,http://en.wikipedia.org/wiki/German_Open_(badminton),German Open,german-open,german-open-badminton,UNK
+STUTTGART,28565,6634,631,33166;578510;21493015;194890;714817;270015;2089384;737608;28565;250204;11867;38007179;106812;31717,http://en.wikipedia.org/wiki/Stuttgart,Stuttgart,stuttgart,stuttgart,GPE
+STUTTGART,2089384,367,143,11867;28565,http://en.wikipedia.org/wiki/University_of_Stuttgart,University of Stuttgart,university-of-stuttgart,university-of-stuttgart,ORG
+STUTTGART,2752396,5,14,106812,http://en.wikipedia.org/wiki/Stuttgart_(soil),Stuttgart,stuttgart,stuttgart-soil,UNK
+STUTTGART,38007179,3,37,28565,http://en.wikipedia.org/wiki/Stuttgart_II_(electoral_district),Stuttgart II,stuttgart-ii,stuttgart-ii-electoral-district,UNK
+STUTTGART,270015,423,239,11867;28565,http://en.wikipedia.org/wiki/Stuttgart_Airport,Stuttgart Airport,stuttgart-airport,stuttgart-airport,UNK
+STUTTGART,194890,412,22,11867;28565;714817,http://en.wikipedia.org/wiki/Stuttgart_(region),Stuttgart,stuttgart,stuttgart-region,UNK
+STUTTGART,6169089,15,27,,"http://en.wikipedia.org/wiki/Stuttgart,_Kansas","Stuttgart, Kansas",stuttgart-kansas,stuttgart-kansas,GPE
+STUTTGART,737608,2155,584,13058;737608;28565;4913064;1023035;250204;11867;5058739;26667,http://en.wikipedia.org/wiki/VfB_Stuttgart,VfB Stuttgart,vfb-stuttgart,vfb-stuttgart,UNK
+STUTTGART,714817,27,34,194890;28565;11867,http://en.wikipedia.org/wiki/Stuttgart_Region,Stuttgart Region,stuttgart-region,stuttgart-region,UNK
+STUTTGART,106812,115,65,2752396;28565;11867,"http://en.wikipedia.org/wiki/Stuttgart,_Arkansas","Stuttgart, Arkansas",stuttgart-arkansas,stuttgart-arkansas,GPE
+Germany,11867,167535,1367,6120192;11867;13058;14560;578468;578510;21354;270015;6108409;2793759;273633;28565;26667;26889;31717;8113702;33166;315351;4488686;18933019;27138927;2760003;5064191;21493015;5058739;5242970;883816;106812;609825;3313708;131046;10293321;2089384;714817;147575;19568112;4380250;667682;667299;194890;19097669;480153;1034991;2167839;28244201;1023035;1988802;1490969;3190225;737608;250204;3953139,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+Germany,8113702,170,233,1930320;884716;11867,"http://en.wikipedia.org/wiki/Little_Germany,_Bradford","Little Germany, Bradford",little-germany-bradford,little-germany-bradford,UNK
+Germany,26004346,1,6,,http://en.wikipedia.org/wiki/Germany_Foundation,Germany Foundation,germany-foundation,germany-foundation,UNK
+Germany,11159076,19,29,33166,"http://en.wikipedia.org/wiki/Germany,_Pale_Mother","Germany, Pale Mother",germany-pale-mother,germany-pale-mother,UNK
+Germany,40919574,2,12,40919574,"http://en.wikipedia.org/wiki/Germany,_Texas","Germany, Texas",germany-texas,germany-texas,UNK
+Germany,2793759,83,197,409543;273633;11867;972201,http://en.wikipedia.org/wiki/Communist_Party_of_Germany_(1990),Communist Party of Germany,communist-party-of-germany,communist-party-of-germany-1990,UNK
+Germany,1490969,272,272,13058;33166;21493015;11867;1490969,http://en.wikipedia.org/wiki/Religion_in_Germany,Religion in Germany,religion-in-germany,religion-in-germany,UNK
+Germany,21493015,248,403,13058;33166;21493015;11867;1490969;156486;28565;26889,http://en.wikipedia.org/wiki/Geography_of_Germany,Geography of Germany,geography-of-germany,geography-of-germany,UNK
+Germany,6108409,53,68,11867,http://en.wikipedia.org/wiki/Germany_(Epcot),Germany,germany,germany-epcot,UNK
+Germany,1271511,0,0,,"http://en.wikipedia.org/wiki/Little_Germany,_Ontario","Little Germany, Ontario",little-germany-ontario,little-germany-ontario,UNK
+Germany,884716,1,4,8113702,http://en.wikipedia.org/wiki/Little_Germany,Little Germany,little-germany,little-germany,UNK
+Germany,250204,3856,681,737608;33166;609825;28565;250204;11867;26667;578468;578510;13058;6967081;1023035;5058739,http://en.wikipedia.org/wiki/Germany_national_football_team,Germany national football team,germany-national-football-team,germany-national-football-team,UNK
+Germany,131046,77,98,13530298;11867,"http://en.wikipedia.org/wiki/Germany_Township,_Adams_County,_Pennsylvania","Germany Township, Adams County, Pennsylvania",germany-township-adams-county-pennsylvania,germany-township-adams-county-pennsylvania,GPE
+Germany,13058,10184,611,1490969;3190225;33166;21493015;737608;250204;11867;13058;31717,http://en.wikipedia.org/wiki/East_Germany,East Germany,east-germany,east-germany,GPE
+Germany,27138927,71,105,26667;27138927;11867,http://en.wikipedia.org/wiki/The_Biggest_Loser_Germany,The Biggest Loser Germany,the-biggest-loser-germany,the-biggest-loser-germany,ORG
+Germany,11947058,137,165,,http://en.wikipedia.org/wiki/Germany_Valley,Germany Valley,germany-valley,germany-valley,UNK
+Germany,883816,158,187,11867,"http://en.wikipedia.org/wiki/Little_Germany,_Manhattan","Little Germany, Manhattan",little-germany-manhattan,little-germany-manhattan,UNK
+Germany,33166,17376,488,1490969;21493015;11867;5193762;13058;4488686;11159076;3190225;609825;578468;578510;28565;250204;1023035;31717,http://en.wikipedia.org/wiki/West_Germany,West Germany,west-germany,west-germany,GPE
+Germany,3190225,341,109,13058;33166;11867,http://en.wikipedia.org/wiki/Kingdom_of_Germany,Kingdom of Germany,kingdom-of-germany,kingdom-of-germany,GPE
+Germany,5064191,123,136,11867,"http://en.wikipedia.org/wiki/Germany,_Year_Zero","Germany, Year Zero",germany-year-zero,germany-year-zero,UNK
+Germany,41476893,1,36,,http://en.wikipedia.org/wiki/Germany_Kent,Germany Kent,germany-kent,germany-kent,PER
+Briton,19097669,5651,715,13530298;4913064;158019;21265;11720086;147575;11867;26667;17271126;152256;13525;19568112;14560;31717;168432,http://en.wikipedia.org/wiki/British_people,British people,british-people,british-people,UNK
+Ian Woosnam,1034991,321,248,1988802;5193762;5022198;19568112;1519060;1688190;26667;21265;4488686;11867;14560;2167839;5058739;667682;4308246,http://en.wikipedia.org/wiki/Ian_Woosnam,Ian Woosnam,ian-woosnam,ian-woosnam,UNK
+German Open,4488686,142,147,14560;1034991;19568112;5058739;26667;33166;667299;4913064;11867,http://en.wikipedia.org/wiki/German_Open_(golf),German Open,german-open,german-open-golf,UNK
+German Open,667299,3,7,11867;3953139;4488686;28244201,http://en.wikipedia.org/wiki/German_Open,German Open,german-open,german-open,UNK
+German Open,28244201,73,105,667299;11867,http://en.wikipedia.org/wiki/German_Open_(darts),German Open,german-open,german-open-darts,UNK
+German Open,3953139,80,109,667299;11867,http://en.wikipedia.org/wiki/German_Open_(badminton),German Open,german-open,german-open-badminton,UNK
+Britain,31717,184306,1536,11867;13058;13525;14560;18285383;578468;578510;21670;21265;21354;273592;4501411;28565;26667;31717;33166;315351;3392129;18933019;1148043;6430550;2316836;8287938;3565457;18954340;5058739;609825;17271126;412419;156486;158019;409543;147575;152256;16045038;19568112;5445708;1567244;168432;4913064;13530298;4435993;19097669;480153;217537,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+Britain,38279445,148,154,,"http://en.wikipedia.org/wiki/Little_Britain,_Pennsylvania","Little Britain, Pennsylvania",little-britain-pennsylvania,little-britain-pennsylvania,GPE
+Britain,3365792,82,95,,"http://en.wikipedia.org/wiki/Britain,_Virginia","Britain, Virginia",britain-virginia,britain-virginia,GPE
+Britain,25191544,6,11,,http://en.wikipedia.org/wiki/Mr._Britain,Mr. Britain,mr-britain,mr-britain,UNK
+Britain,12386536,24,23,,"http://en.wikipedia.org/wiki/Little_Britain,_London","Little Britain, London",little-britain-london,little-britain-london,GPE
+Britain,17271126,68,172,14560;158019;13530298;19097669;152256;21265;31717;147575;168432;13525,http://en.wikipedia.org/wiki/Britain_(placename),Britain,britain,britain-placename,UNK
+Britain,158019,6631,401,13530298;158019;19097669;21265;147575;12264384;17271126;152256;13525;14560;31717;168432,http://en.wikipedia.org/wiki/Kingdom_of_Great_Britain,Kingdom of Great Britain,kingdom-of-great-britain,kingdom-of-great-britain,GPE
+Britain,412419,404,297,31717;412419,http://en.wikipedia.org/wiki/Captain_Britain,Captain Britain,captain-britain,captain-britain,UNK
+Britain,409543,134,241,273633;21265;31717;2793759;972201,http://en.wikipedia.org/wiki/New_Communist_Party_of_Britain,New Communist Party of Britain,new-communist-party-of-britain,new-communist-party-of-britain,UNK
+Britain,1185144,86,82,,"http://en.wikipedia.org/wiki/Little_Britain,_New_York","Little Britain, New York",little-britain-new-york,little-britain-new-york,UNK
+Britain,20823802,57,65,,"http://en.wikipedia.org/wiki/Britain,_Australia_and_the_Bomb","Britain, Australia and the Bomb",britain-australia-and-the-bomb,britain-australia-and-the-bomb,UNK
+Britain,7954202,68,60,,"http://en.wikipedia.org/wiki/Little_Britain,_Ontario","Little Britain, Ontario",little-britain-ontario,little-britain-ontario,UNK
+Britain,13530298,15528,510,5445708;19097669;13525;14560;168432;156486;158019;21265;147575;217537;131046;17271126;152256;31717,http://en.wikipedia.org/wiki/Great_Britain,Great Britain,great-britain,great-britain,UNK
+Britain,13525,2496,556,13530298;152256;13525;158019;19097669;31717;168432;17271126,http://en.wikipedia.org/wiki/Roman_Britain,Roman Britain,roman-britain,roman-britain,ORG
+Britain,480153,370,113,31717;11867;4913064;26667,http://en.wikipedia.org/wiki/Little_Britain,Little Britain,little-britain,little-britain,UNK
+Britain,152256,8595,755,156486;13530298;158019;19097669;21265;25689950;147575;17271126;152256;13525;18933019;14560;31717;168432,http://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland,United Kingdom of Great Britain and Ireland,united-kingdom-of-great-britain-and-ireland,united-kingdom-of-great-britain-and-ireland,GPE
+Robert Karlsson,1988802,155,109,1564436;1519060;1688190;26667;11867;1034991;5058739;667682,http://en.wikipedia.org/wiki/Robert_Karlsson,Robert Karlsson,robert-karlsson,robert-karlsson,UNK
+Sweden,5058739,77359,853,6120192;976346;11867;133621;14560;578468;578510;147575;1688190;26667;26889;1519060;31717;667682;1564436;3767091;4488686;6430550;4435993;5412184;4308246;1034991;780871;217537;1023035;5058739;1988802;10791592;5242970;609825;5272617;3313708;5088382;737608;250204,http://en.wikipedia.org/wiki/Sweden,Sweden,sweden,sweden,GPE
+Sweden,10791592,32,39,5058739;10791592,http://en.wikipedia.org/wiki/Sweden_Party,Sweden Party,sweden-party,sweden-party,UNK
+Sweden,3767091,118,72,3422357;3392129;5058739;578468,http://en.wikipedia.org/wiki/Australian_rules_football_in_Sweden,Australian rules football in Sweden,australian-rules-football-in-sweden,australian-rules-football-in-sweden,PER
+Sweden,217537,459,295,31717;5058739;217537;13530298;26889,http://en.wikipedia.org/wiki/Union_between_Sweden_and_Norway,Union between Sweden and Norway,union-between-sweden-and-norway,union-between-sweden-and-norway,GPE
+Sweden,38358054,40,54,133621,"http://en.wikipedia.org/wiki/Sweden_Valley,_Pennsylvania","Sweden Valley, Pennsylvania",sweden-valley-pennsylvania,sweden-valley-pennsylvania,GPE
+Sweden,37500323,20,41,,"http://en.wikipedia.org/wiki/Sweden,_Arkansas","Sweden, Arkansas",sweden-arkansas,sweden-arkansas,UNK
+Sweden,30241072,11,21,,"http://en.wikipedia.org/wiki/Sweden,_Texas","Sweden, Texas",sweden-texas,sweden-texas,UNK
+Sweden,26889,163,292,217537;21493015;11867;5058739;26889;156486,http://en.wikipedia.org/wiki/Geography_of_Sweden,Geography of Sweden,geography-of-sweden,geography-of-sweden,UNK
+Sweden,126646,65,64,,"http://en.wikipedia.org/wiki/Sweden,_New_York","Sweden, New York",sweden-new-york,sweden-new-york,GPE
+Sweden,133621,43,54,5058739;38358054,"http://en.wikipedia.org/wiki/Sweden_Township,_Potter_County,_Pennsylvania","Sweden Township, Potter County, Pennsylvania",sweden-township-potter-county-pennsylvania,sweden-township-potter-county-pennsylvania,GPE
+Sweden,976346,30,39,5058739,http://en.wikipedia.org/wiki/Name_of_Sweden,Name of Sweden,name-of-sweden,name-of-sweden,UNK
+Sweden,6430550,146,185,31717;5058739,http://en.wikipedia.org/wiki/Sweden_and_the_euro,Sweden and the euro,sweden-and-the-euro,sweden-and-the-euro,UNK
+Sweden,578468,3430,805,2731678;33166;609825;250204;11867;3565457;26667;578468;578510;6967081;31717;5058739;3767091,http://en.wikipedia.org/wiki/Sweden_national_football_team,Sweden national football team,sweden-national-football-team,sweden-national-football-team,UNK
+Sweden,116094,60,85,,"http://en.wikipedia.org/wiki/Sweden,_Maine","Sweden, Maine",sweden-maine,sweden-maine,GPE
+Ian Pyman,5088382,22,39,21265;5058739;19568112,http://en.wikipedia.org/wiki/Iain_Pyman,Iain Pyman,iain-pyman,iain-pyman,PER
+Spain,26667,100383,1235,6120192;11867;14560;578468;578510;273633;1688190;26667;22527166;31717;33877579;4488686;18933019;27138927;5022198;5285076;5058739;5242970;609825;5271765;3313708;10293321;147575;4375906;11818919;19568112;667682;1564436;4913064;19097669;480153;1034991;5193762;780871;2167839;1023035;459319;1988802;4663484;737608;250204,http://en.wikipedia.org/wiki/Spain,Spain,spain,spain,GPE
+Spain,459319,361,284,26667,http://en.wikipedia.org/wiki/Flag_of_Spain,Flag of Spain,flag-of-spain,flag-of-spain,UNK
+Spain,10293321,265,185,26667;11867,http://en.wikipedia.org/wiki/Solar_power_in_Spain,Solar power in Spain,solar-power-in-spain,solar-power-in-spain,UNK
+Spain,27663544,87,8,3313708;609825,http://en.wikipedia.org/wiki/Spain_national_youth_football_team,Spain national youth football team,spain-national-youth-football-team,spain-national-youth-football-team,UNK
+Spain,4663484,17,38,26667,http://en.wikipedia.org/wiki/Spain_(band),Spain,spain,spain-band,UNK
+Spain,33877579,5,33,26667,http://en.wikipedia.org/wiki/Spain..._on_the_Road_Again,Spain... on the Road Again,spain-on-the-road-again,spain-on-the-road-again,UNK
+Spain,484051,22,63,,http://en.wikipedia.org/wiki/Spain_(composition),Spain,spain,spain-composition,UNK
+Spain,8740160,51,50,,http://en.wikipedia.org/wiki/Spain_(Auden),Spain,spain,spain-auden,UNK
+Spain,609825,3430,790,33166;609825;27663544;250204;11867;26667;578468;578510;6967081;1023035;31717;5058739;3313708,http://en.wikipedia.org/wiki/Spain_national_football_team,Spain national football team,spain-national-football-team,spain-national-football-team,UNK
+Spain,273633,300,182,409543;26667;2793759;11867;972201,http://en.wikipedia.org/wiki/Communist_Party_of_Spain,Communist Party of Spain,communist-party-of-spain,communist-party-of-spain,UNK
+Spain,3313708,922,317,609825;27663544;11867;5058739;26667,http://en.wikipedia.org/wiki/Spain_national_under-21_football_team,Spain national under-21 football team,spain-national-under-21-football-team,spain-national-under-21-football-team,UNK
+Diego Borrego,5271765,10,22,19568112;26667,http://en.wikipedia.org/wiki/Diego_Borrego,Diego Borrego,diego-borrego,diego-borrego,PER
+Miguel Angel Martin,5022198,33,38,1034991;19568112;9345815;26667,http://en.wikipedia.org/wiki/Miguel_Ángel_Martín_(golfer),Miguel Ángel Martín,miguel-angel-martin,miguel-angel-martin-golfer,PER
+Miguel Angel Martin,9345815,1,3,5022198,http://en.wikipedia.org/wiki/Miguel_Ángel_Martín,Miguel Ángel Martín,miguel-angel-martin,miguel-angel-martin,PER
+Stephen Ames,780871,129,83,19568112;5058739;3565457;26667;5285076,http://en.wikipedia.org/wiki/Stephen_Ames,Stephen Ames,stephen-ames,stephen-ames,PER
+Trinidad,136066,40,51,,"http://en.wikipedia.org/wiki/Trinidad,_Texas","Trinidad, Texas",trinidad-texas,trinidad-texas,GPE
+Trinidad,107483,220,237,,"http://en.wikipedia.org/wiki/Trinidad,_California","Trinidad, California",trinidad-california,trinidad-california,GPE
+Trinidad,2090297,130,67,,"http://en.wikipedia.org/wiki/Trinidad,_Bohol","Trinidad, Bohol",trinidad-bohol,trinidad-bohol,UNK
+Trinidad,16059902,31,32,,"http://en.wikipedia.org/wiki/Trinidad,_Paraguay","Trinidad, Paraguay",trinidad-paraguay,trinidad-paraguay,GPE
+Trinidad,2392540,9,17,2392540,"http://en.wikipedia.org/wiki/La_Trinidad,_Estelí","La Trinidad, Estelí",la-trinidad-esteli,la-trinidad-esteli,GPE
+Trinidad,22225774,4,19,3565457,http://en.wikipedia.org/wiki/Trinidad_Province,Trinidad Province,trinidad-province,trinidad-province,UNK
+Trinidad,1883352,107,61,20057777,"http://en.wikipedia.org/wiki/Trinidad,_Bolivia","Trinidad, Bolivia",trinidad-bolivia,trinidad-bolivia,GPE
+Trinidad,108565,988,106,,"http://en.wikipedia.org/wiki/Trinidad,_Colorado","Trinidad, Colorado",trinidad-colorado,trinidad-colorado,GPE
+Trinidad,1071060,89,88,452912;3565457,http://en.wikipedia.org/wiki/Trinidad_and_Tobago_Carnival,Trinidad and Tobago Carnival,trinidad-and-tobago-carnival,trinidad-and-tobago-carnival,UNK
+Trinidad,23532760,1,4,,http://en.wikipedia.org/wiki/Trinidad_River_(Mexico),Trinidad River,trinidad-river,trinidad-river-mexico,UNK
+Trinidad,2227867,36,18,,"http://en.wikipedia.org/wiki/Trinidad,_Uruguay","Trinidad, Uruguay",trinidad-uruguay,trinidad-uruguay,UNK
+Trinidad,1593088,155,108,4134130,"http://en.wikipedia.org/wiki/Trinidad,_Washington,_D.C.","Trinidad, Washington, D.C.",trinidad-washington-dc,trinidad-washington-dc,UNK
+Trinidad,10603796,27,26,28288295,"http://en.wikipedia.org/wiki/Trinidad,_Casanare","Trinidad, Casanare",trinidad-casanare,trinidad-casanare,UNK
+Trinidad,452912,2967,80,2344979;1071060;3565457,http://en.wikipedia.org/wiki/Trinidad,Trinidad,trinidad,trinidad,UNK
+Trinidad,576049,56,51,,http://en.wikipedia.org/wiki/Affair_in_Trinidad,Affair in Trinidad,affair-in-trinidad,affair-in-trinidad,UNK
+Trinidad,3565457,8217,976,780871;4913064;452912;578468;21670;21265;3904383;22225774;2316836;3565457;1071060;18933019;1023035;14560;31717,http://en.wikipedia.org/wiki/Trinidad_and_Tobago,Trinidad and Tobago,trinidad-and-tobago,trinidad-and-tobago,GPE
+Trinidad,4134130,30,39,1593088,"http://en.wikipedia.org/wiki/Trinidad,_Washington","Trinidad, Washington",trinidad-washington,trinidad-washington,UNK
+Trinidad,2342426,22,28,,"http://en.wikipedia.org/wiki/La_Trinidad,_Comayagua","La Trinidad, Comayagua",la-trinidad-comayagua,la-trinidad-comayagua,GPE
+Trinidad,2105025,143,260,,"http://en.wikipedia.org/wiki/La_Trinidad,_Benguet","La Trinidad, Benguet",la-trinidad-benguet,la-trinidad-benguet,GPE
+Trinidad,569476,100,52,4999066,"http://en.wikipedia.org/wiki/Trinidad,_Cuba","Trinidad, Cuba",trinidad-cuba,trinidad-cuba,GPE
+Trinidad,28288295,0,2,20057777;10603796,http://en.wikipedia.org/wiki/Trinidad_Municipality,Trinidad Municipality,trinidad-municipality,trinidad-municipality,GPE
+Trinidad,4999066,46,56,569476,http://en.wikipedia.org/wiki/Trinidad_(cigar),Trinidad,trinidad,trinidad-cigar,UNK
+Trinidad,2344979,30,38,452912,"http://en.wikipedia.org/wiki/Trinidad,_Santa_Bárbara","Trinidad, Santa Bárbara",trinidad-santa-barbara,trinidad-santa-barbara,GPE
+Trinidad,795929,24,9,,http://en.wikipedia.org/wiki/Trinidad_Stadium,Trinidad Stadium,trinidad-stadium,trinidad-stadium,UNK
+Trinidad,20057777,49,53,1883352;28288295,"http://en.wikipedia.org/wiki/Trinidad_Municipality,_Beni","Trinidad Municipality, Beni",trinidad-municipality-beni,trinidad-municipality-beni,UNK
+Roger Chapman,4380250,84,80,5193762;14560;11867,http://en.wikipedia.org/wiki/Roger_Chapman_(golfer),Roger Chapman,roger-chapman,roger-chapman-golfer,PER
+Roger Chapman,3775745,95,66,,http://en.wikipedia.org/wiki/Roger_Chapman,Roger Chapman,roger-chapman,roger-chapman,UNK
+Paul Broadhurst,1688190,86,89,1988802;1034991;19568112;1564436;1519060;5058739;26667;21265;5272617;667682;4308246,http://en.wikipedia.org/wiki/Paul_Broadhurst,Paul Broadhurst,paul-broadhurst,paul-broadhurst,PER
+Stephen Field,34824249,0,4,,http://en.wikipedia.org/wiki/Stephen_Field,Stephen Field,stephen-field,stephen-field,PER
+Carl Suneson,11818919,15,25,19568112;26667,http://en.wikipedia.org/wiki/Carl_Suneson,Carl Suneson,carl-suneson,carl-suneson,PER
+Greg Turner,5276824,59,67,19568112;4913064,http://en.wikipedia.org/wiki/Greg_Turner,Greg Turner,greg-turner,greg-turner,UNK
+New Zealand,4913064,57468,846,11510858;14560;21670;21265;21353;21354;147575;26667;22527166;31717;667682;315351;455232;3889279;3392129;4488686;1148043;4913064;19097669;3422357;480153;5276824;2316836;5193762;478115;2313225;29417435;646010;3565457;1023035;7188443;1112461;737608,http://en.wikipedia.org/wiki/New_Zealand,New Zealand,new-zealand,new-zealand,GPE
+New Zealand,29417435,1,12,4913064,http://en.wikipedia.org/wiki/Mount_New_Zealand,Mount New Zealand,mount-new-zealand,mount-new-zealand,UNK
+New Zealand,21865279,41,58,,http://en.wikipedia.org/wiki/New_Zealand_Town,New Zealand Town,new-zealand-town,new-zealand-town,UNK
+New Zealand,21353,149,205,21353;21354;2316836;21670;4913064,http://en.wikipedia.org/wiki/Geography_of_New_Zealand,Geography of New Zealand,geography-of-new-zealand,geography-of-new-zealand,UNK
+New Zealand,426231,107,11,,http://en.wikipedia.org/wiki/University_of_New_Zealand,University of New Zealand,university-of-new-zealand,university-of-new-zealand,ORG
+New Zealand,21354,158,259,31717;11867;21353;21354;2316836;21670;4913064,http://en.wikipedia.org/wiki/Demographics_of_New_Zealand,Demographics of New Zealand,demographics-of-new-zealand,demographics-of-new-zealand,UNK
+New Zealand,455232,88,75,4913064,http://en.wikipedia.org/wiki/New_Zealand_Division,New Zealand Division,new-zealand-division,new-zealand-division,ORG
+New Zealand,646010,92,99,4913064,http://en.wikipedia.org/wiki/New_Zealand_Party,New Zealand Party,new-zealand-party,new-zealand-party,UNK
+New Zealand,2316836,290,262,3565457;31717;21353;21354;14560;21670;4913064,http://en.wikipedia.org/wiki/New_Zealand_nationality_law,New Zealand nationality law,new-zealand-nationality-law,new-zealand-nationality-law,ORG
+New Zealand,7188443,494,443,3889279;4913064;1056562,"http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008","New Zealand general election, 2008",new-zealand-general-election-2008,new-zealand-general-election-2008,UNK
+New Zealand,315351,207,130,31717;11867;4913064,http://en.wikipedia.org/wiki/New_Zealand_Company,New Zealand Company,new-zealand-company,new-zealand-company,UNK
+New Zealand,1148043,368,147,31717;4913064,http://en.wikipedia.org/wiki/New_Zealand_cuisine,New Zealand cuisine,new-zealand-cuisine,new-zealand-cuisine,UNK
+New Zealand,1023035,1494,454,3422357;478115;737608;33166;609825;4913064;1023035;250204;2313225;11867;5058739;3565457;26667,http://en.wikipedia.org/wiki/New_Zealand_national_football_team,New Zealand national football team,new-zealand-national-football-team,new-zealand-national-football-team,UNK
+New Zealand,2313225,404,283,2313225;4913064;1023035;1112461,http://en.wikipedia.org/wiki/New_Zealand_Football,New Zealand Football,new-zealand-football,new-zealand-football,ORG
+New Zealand,478115,1457,488,3422357;4913064;1023035;14560,http://en.wikipedia.org/wiki/New_Zealand_national_cricket_team,New Zealand national cricket team,new-zealand-national-cricket-team,new-zealand-national-cricket-team,UNK
+New Zealand,1112461,412,343,2313225;4913064,http://en.wikipedia.org/wiki/New_Zealand_Rugby_League,New Zealand Rugby League,new-zealand-rugby-league,new-zealand-rugby-league,UNK
+New Zealand,3422357,83,89,3392129;1023035;4913064;147575;3767091;478115,http://en.wikipedia.org/wiki/New_Zealand_national_Australian_rules_football_team,New Zealand national Australian rules football team,new-zealand-national-australian-rules-football-team,new-zealand-national-australian-rules-football-team,UNK
+New Zealand,3889279,87,121,7188443;4913064;1056562,http://en.wikipedia.org/wiki/Electoral_system_of_New_Zealand,Electoral system of New Zealand,electoral-system-of-new-zealand,electoral-system-of-new-zealand,UNK
+New Zealand,11510858,0,8,4913064,http://en.wikipedia.org/wiki/New_Zealand_College,New Zealand College,new-zealand-college,new-zealand-college,UNK
+New Zealand,28561395,29,35,,"http://en.wikipedia.org/wiki/New_Zealand,_Derby","New Zealand, Derby",new-zealand-derby,new-zealand-derby,GPE
+New Zealand,18285383,3,28,31717,"http://en.wikipedia.org/wiki/New_Zealand,_Wiltshire","New Zealand, Wiltshire",new-zealand-wiltshire,new-zealand-wiltshire,GPE
+New Zealand,21670,516,409,31717;21670;4913064;3565457;21265;21353;21354;14560;2316836,http://en.wikipedia.org/wiki/New_Zealand_English,New Zealand English,new-zealand-english,new-zealand-english,ORG
+New Zealand,273592,191,224,31717,"http://en.wikipedia.org/wiki/New_Zealand,_Buckinghamshire","New Zealand, Buckinghamshire",new-zealand-buckinghamshire,new-zealand-buckinghamshire,UNK
+Ronan Rafferty,1519060,97,76,1988802;5193762;1034991;5058739;1688190;21265;667682,http://en.wikipedia.org/wiki/Ronan_Rafferty,Ronan Rafferty,ronan-rafferty,ronan-rafferty,PER
+Barry Lane,2167839,60,66,1034991;11867;4308246;26667,http://en.wikipedia.org/wiki/Barry_Lane,Barry Lane,barry-lane,barry-lane,PER
+David Carter,4344819,15,21,4375906;19568112;4344832,http://en.wikipedia.org/wiki/David_Carter_(golfer),David Carter,david-carter,david-carter-golfer,PER
+David Carter,1056562,210,168,4344832;3889279;7188443,http://en.wikipedia.org/wiki/David_Carter_(politician),David Carter,david-carter,david-carter-politician,PER
+David Carter,31659639,12,99,4344832,http://en.wikipedia.org/wiki/David_Carter_(defensive_lineman),David Carter,david-carter,david-carter-defensive-lineman,UNK
+David Carter,4344832,0,16,22278260;13825878;5649936;24553401;31659639;1056562;26991850;4344819;22527166;38186398,http://en.wikipedia.org/wiki/David_Carter,David Carter,david-carter,david-carter,PER
+David Carter,22527166,141,97,4344832;26667;4913064,http://en.wikipedia.org/wiki/David_Carter_(tennis),David Carter,david-carter,david-carter-tennis,PER
+David Carter,24553401,12,7,4344832,http://en.wikipedia.org/wiki/David_Carter_(field_hockey),David Carter,david-carter,david-carter-field-hockey,UNK
+David Carter,38186398,3,19,4344832,http://en.wikipedia.org/wiki/David_Carter_(entrepreneur),David Carter,david-carter,david-carter-entrepreneur,PER
+David Carter,13825878,6,11,4344832,http://en.wikipedia.org/wiki/David_Carter_(offensive_lineman),David Carter,david-carter,david-carter-offensive-lineman,PER
+David Carter,22278260,25,32,4344832,http://en.wikipedia.org/wiki/David_Carter_(basketball),David Carter,david-carter,david-carter-basketball,UNK
+David Carter,5649936,9,15,4344832,http://en.wikipedia.org/wiki/David_Carter_(industrial_designer),David Carter,david-carter,david-carter-industrial-designer,PER
+David Carter,26991850,4,15,4344832,http://en.wikipedia.org/wiki/David_Carter_(diplomat),David Carter,david-carter,david-carter-diplomat,PER
+Michael Jonzon,5242970,21,28,5058739;11867;19568112;26667,http://en.wikipedia.org/wiki/Michael_Jonzon,Michael Jonzon,michael-jonzon,michael-jonzon,PER
+David Williams,28233794,27,38,701138,http://en.wikipedia.org/wiki/David_Williams_(bishop),David Williams,david-williams,david-williams-bishop,PER
+David Williams,33257668,8,11,701138,http://en.wikipedia.org/wiki/David_Williams_(Australian_politician),David Williams,david-williams,david-williams-australian-politician,UNK
+David Williams,701138,2,94,11631480;25077257;28233794;8596288;21272290;18954340;13676532;23675089;15398399;2760003;8451886;9491377;12264384;28144965;1092773;21494101;23632873;21856818;14789333;32378957;17337509;3546622;41058173;12256515;8287938;33257668;15779546;11720086;3904383;5208495;6120192;3800652;12264547;37287598,http://en.wikipedia.org/wiki/David_Williams,David Williams,david-williams,david-williams,PER
+David Williams,18954340,90,90,701138;31717,http://en.wikipedia.org/wiki/David_Williams_(Royal_Navy_officer),David Williams,david-williams,david-williams-royal-navy-officer,PER
+David Williams,13676532,11,10,701138,http://en.wikipedia.org/wiki/David_Williams_(Merioneth),David Williams,david-williams,david-williams-merioneth,PER
+David Williams,23675089,3,13,701138,http://en.wikipedia.org/wiki/David_Williams_(space_administrator),David Williams,david-williams,david-williams-space-administrator,PER
+David Williams,3546622,4,7,701138,http://en.wikipedia.org/wiki/David_Williams_(journalist),David Williams,david-williams,david-williams-journalist,PER
+David Williams,14789333,13,19,701138,http://en.wikipedia.org/wiki/David_Williams_(ice_hockey),David Williams,david-williams,david-williams-ice-hockey,PER
+David Williams,28144965,4,3,701138,http://en.wikipedia.org/wiki/David_Williams_(rugby_union),David Williams,david-williams,david-williams-rugby-union,PER
+David Williams,11631480,280,358,701138,http://en.wikipedia.org/wiki/David_Williams_(offensive_lineman),David Williams,david-williams,david-williams-offensive-lineman,UNK
+David Williams,21494101,5,19,701138,http://en.wikipedia.org/wiki/David_Williams_(Methodist_minister),David Williams,david-williams,david-williams-methodist-minister,PER
+David Williams,17337509,188,181,701138,http://en.wikipedia.org/wiki/David_Williams_(rugby_league),David Williams,david-williams,david-williams-rugby-league,UNK
+David Williams,21856818,4,7,701138,http://en.wikipedia.org/wiki/David_Williams_(Australian_rules_footballer),David Williams,david-williams,david-williams-australian-rules-footballer,UNK
+David Williams,21272290,3,17,701138,http://en.wikipedia.org/wiki/David_Williams_(geologist),David Williams,david-williams,david-williams-geologist,PER
+David Williams,8451886,151,155,701138,http://en.wikipedia.org/wiki/David_Williams_(Welsh_footballer),David Williams,david-williams,david-williams-welsh-footballer,PER
+David Williams,6120192,1,23,11867;5058739;701138;26667,http://en.wikipedia.org/wiki/David_Williams_(Australian_indigenous_musician),David Williams,david-williams,david-williams-australian-indigenous-musician,UNK
+David Williams,1092773,12,19,701138,http://en.wikipedia.org/wiki/David_Williams_(soldier),David Williams,david-williams,david-williams-soldier,UNK
+David Williams,2760003,119,72,701138;11867,http://en.wikipedia.org/wiki/David_Williams_(Australian_association_footballer),David Williams,david-williams,david-williams-australian-association-footballer,PER
+David Williams,15398399,24,32,701138,http://en.wikipedia.org/wiki/David_Williams_(mathematician),David Williams,david-williams,david-williams-mathematician,PER
+David Williams,3800652,154,170,701138,http://en.wikipedia.org/wiki/David_Williams_(wide_receiver),David Williams,david-williams,david-williams-wide-receiver,UNK
+David Williams,32378957,6,13,701138,http://en.wikipedia.org/wiki/David_Williams_(academic),David Williams,david-williams,david-williams-academic,PER
+David Williams,5208495,12,3,701138,http://en.wikipedia.org/wiki/David_Williams_(historian),David Williams,david-williams,david-williams-historian,UNK
+David Williams,23632873,31,56,701138,http://en.wikipedia.org/wiki/David_Williams_(guitarist),David Williams,david-williams,david-williams-guitarist,PER
+David Williams,11720086,9,11,19097669;701138,http://en.wikipedia.org/wiki/David_Williams_(screenwriter),David Williams,david-williams,david-williams-screenwriter,PER
+David Williams,3904383,32,34,701138;3565457,http://en.wikipedia.org/wiki/David_Williams_(cricketer),David Williams,david-williams,david-williams-cricketer,UNK
+David Williams,12256515,7,21,701138,http://en.wikipedia.org/wiki/David_Williams_(crime_writer),David Williams,david-williams,david-williams-crime-writer,PER
+David Williams,12264547,3,8,701138;12264384,http://en.wikipedia.org/wiki/David_Williams_(1709–1784),David Williams,david-williams,david-williams-1709–1784,PER
+David Williams,37287598,4,10,701138,http://en.wikipedia.org/wiki/David_Williams_(Alaska_architect),David Williams,david-williams,david-williams-alaska-architect,UNK
+David Williams,25077257,24,26,701138,http://en.wikipedia.org/wiki/David_Williams_(footballer_born_1968),David Williams,david-williams,david-williams-footballer-born-1968,PER
+David Williams,8287938,2,7,701138;31717,http://en.wikipedia.org/wiki/David_Williams_(industrialist),David Williams,david-williams,david-williams-industrialist,PER
+David Williams,100008029,0,0,,http://en.wikipedia.org/wiki/David_Williams_(Canadian_football_player),David Williams,david-williams,david-williams-canadian-football-player,UKN
+David Williams,41058173,8,8,701138,http://en.wikipedia.org/wiki/David_Williams_(coal_owner),David Williams,david-williams,david-williams-coal-owner,PER
+David Williams,8596288,15,17,701138,http://en.wikipedia.org/wiki/David_Williams_(producer),David Williams,david-williams,david-williams-producer,PER
+David Williams,9491377,19,26,701138,http://en.wikipedia.org/wiki/David_Williams_(Swansea_politician),David Williams,david-williams,david-williams-swansea-politician,PER
+David Williams,12264384,27,88,158019;701138;12264547,http://en.wikipedia.org/wiki/David_Williams_(philosopher),David Williams,david-williams,david-williams-philosopher,PER
+David Williams,15779546,2,1,701138,http://en.wikipedia.org/wiki/David_Williams_(bassist),David Williams,david-williams,david-williams-bassist,UNK
+Lee Westwood,667682,309,227,1988802;1564436;1519060;1688190;11867;1034991;5058739;4913064;19568112;26667;21265;14560,http://en.wikipedia.org/wiki/Lee_Westwood,Lee Westwood,lee-westwood,lee-westwood,PER
+Gary Emerson,5412184,13,19,5058739;19568112,http://en.wikipedia.org/wiki/Gary_Emerson,Gary Emerson,gary-emerson,gary-emerson,UNK
+Peter Baker,4308246,83,94,1034991;19568112;2167839;5058739;1688190;4498374;5272617,http://en.wikipedia.org/wiki/Peter_Baker_(golfer),Peter Baker,peter-baker,peter-baker-golfer,PER
+Peter Baker,12546593,43,22,4498374,http://en.wikipedia.org/wiki/Peter_Baker_(author),Peter Baker,peter-baker,peter-baker-author,PER
+Peter Baker,4498374,2,10,15916767;11584656;12546593;4501411;4308246;28918756,http://en.wikipedia.org/wiki/Peter_Baker,Peter Baker,peter-baker,peter-baker,PER
+Peter Baker,28918756,2,27,4498374,http://en.wikipedia.org/wiki/Peter_Baker_(cricketer),Peter Baker,peter-baker,peter-baker-cricketer,PER
+Peter Baker,4501411,14,159,31717;4498374,http://en.wikipedia.org/wiki/Peter_Baker_(British_politician),Peter Baker,peter-baker,peter-baker-british-politician,PER
+Peter Baker,15916767,3,13,11584656;4498374,http://en.wikipedia.org/wiki/Peter_Baker_(footballer_born_1934),Peter Baker,peter-baker,peter-baker-footballer-born-1934,PER
+Peter Baker,11584656,14,14,15916767;4498374,http://en.wikipedia.org/wiki/Peter_Baker_(footballer_born_1931),Peter Baker,peter-baker,peter-baker-footballer-born-1931,PER
+Des Smyth,5193762,88,97,14560;1034991;1519060;26667;33166;4913064;4380250,http://en.wikipedia.org/wiki/Des_Smyth,Des Smyth,des-smyth,des-smyth,UNK
+Ireland,14560,33957,1344,8391466;13530298;19097669;7154641;972201;1034991;2316836;11867;5193762;478115;6967081;156486;158019;578510;21670;21265;147575;2731678;3565457;26667;152256;19568112;4380250;31717;5058739;667682;1564436;25689950;4488686;18933019;168432;4913064;17271126,http://en.wikipedia.org/wiki/Republic_of_Ireland,Republic of Ireland,republic-of-ireland,republic-of-ireland,GPE
+Ireland,7154641,98,69,14560,http://en.wikipedia.org/wiki/Ireland_AM,Ireland AM,ireland-am,ireland-am,UNK
+Ireland,8391466,1483,312,6967081;8391466;14560;21265;578510,http://en.wikipedia.org/wiki/League_of_Ireland,League of Ireland,league-of-ireland,league-of-ireland,ORG
+Ireland,2410633,50,60,147575,"http://en.wikipedia.org/wiki/Ireland,_Indiana","Ireland, Indiana",ireland-indiana,ireland-indiana,GPE
+Ireland,21932111,1,6,,"http://en.wikipedia.org/wiki/Ireland,_Nova_Scotia","Ireland, Nova Scotia",ireland-nova-scotia,ireland-nova-scotia,GPE
+Ireland,18583408,3,15,,http://en.wikipedia.org/wiki/Mount_Ireland,Mount Ireland,mount-ireland,mount-ireland,UNK
+Ireland,3392129,62,72,3422357;31717;4913064;147575;3767091,http://en.wikipedia.org/wiki/Ireland_national_Australian_rules_football_team,Ireland national Australian rules football team,ireland-national-australian-rules-football-team,ireland-national-australian-rules-football-team,UNK
+Ireland,2560333,34,59,147575,http://en.wikipedia.org/wiki/Great_Ireland,Great Ireland,great-ireland,great-ireland,UNK
+Ireland,168432,1145,353,147575;156486;18933019;14560;158019;13530298;19097669;152256;31717;21265;25689950;17271126;13525,http://en.wikipedia.org/wiki/Kingdom_of_Ireland,Kingdom of Ireland,kingdom-of-ireland,kingdom-of-ireland,GPE
+Ireland,6967081,981,283,609825;147575;8391466;14560;250204;21265;578468;578510,http://en.wikipedia.org/wiki/Ireland_national_football_team_(1882–1950),Ireland national football team,ireland-national-football-team,ireland-national-football-team-1882–1950,UNK
+Ireland,2731678,171,173,147575;14560;578468;578510,http://en.wikipedia.org/wiki/Stephen_Ireland,Stephen Ireland,stephen-ireland,stephen-ireland,PER
+Ireland,21265,20794,1109,8391466;13530298;667682;19097669;972201;1034991;6967081;18933019;14560;168432;156486;4913064;158019;578510;409543;21670;21265;147575;5088382;1688190;3565457;17271126;1519060;152256;19568112;31717,http://en.wikipedia.org/wiki/Northern_Ireland,Northern Ireland,northern-ireland,northern-ireland,GPE
+Ireland,100007221,0,0,,http://en.wikipedia.org/wiki/Ireland_(Home_Nation),Ireland,ireland,ireland-home-nation,UKN
+Ireland,578510,2532,578,147575;8391466;2731678;21265;33166;609825;6967081;28565;14560;250204;31717;11867;5058739;26667;578468;578510,http://en.wikipedia.org/wiki/Republic_of_Ireland_national_football_team,Republic of Ireland national football team,republic-of-ireland-national-football-team,republic-of-ireland-national-football-team,UNK
+Ireland,152256,8595,755,156486;13530298;158019;19097669;21265;25689950;147575;17271126;152256;13525;18933019;14560;31717;168432,http://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland,United Kingdom of Great Britain and Ireland,united-kingdom-of-great-britain-and-ireland,united-kingdom-of-great-britain-and-ireland,GPE
+Ireland,147575,33024,1097,13530298;19097669;3422357;2917157;35298741;22120682;2560333;11867;6967081;14560;156486;158019;578510;21265;147575;2731678;26667;152256;19568112;31717;5058739;3392129;18933019;168432;4913064;3187717;2410633;17271126,http://en.wikipedia.org/wiki/Ireland,Ireland,ireland,ireland,GPE
+Ireland,18933019,318,328,31717;147575;11867;156486;18933019;168432;3565457;26667;21265;14560;152256,http://en.wikipedia.org/wiki/Economy_of_the_Republic_of_Ireland,Economy of the Republic of Ireland,economy-of-the-republic-of-ireland,economy-of-the-republic-of-ireland,UNK
+Ireland,2917157,50,63,147575,"http://en.wikipedia.org/wiki/Ireland,_West_Virginia","Ireland, West Virginia",ireland-west-virginia,ireland-west-virginia,GPE
+Ireland,25689950,3,118,14560;152256;168432,http://en.wikipedia.org/wiki/Blasphemy_law_in_the_Republic_of_Ireland,Blasphemy law in the Republic of Ireland,blasphemy-law-in-the-republic-of-ireland,blasphemy-law-in-the-republic-of-ireland,UNK
+Ireland,1930320,166,231,8113702,http://en.wikipedia.org/wiki/Ireland_Bridge,Ireland Bridge,ireland-bridge,ireland-bridge,UNK
+Ireland,16045038,132,151,31717,"http://en.wikipedia.org/wiki/Ireland,_Bedfordshire","Ireland, Bedfordshire",ireland-bedfordshire,ireland-bedfordshire,GPE
+Ireland,3187717,31,11,147575,"http://en.wikipedia.org/wiki/Ireland_Island,_Bermuda","Ireland Island, Bermuda",ireland-island-bermuda,ireland-island-bermuda,UNK
+Ireland,156486,225,517,21493015;31717;147575;18933019;168432;21265;14560;13530298;26889;152256,http://en.wikipedia.org/wiki/Geography_of_Ireland,Geography of Ireland,geography-of-ireland,geography-of-ireland,UNK
+Ireland,972201,206,257,409543;273633;21265;2793759;14560,http://en.wikipedia.org/wiki/Communist_Party_of_Ireland,Communist Party of Ireland,communist-party-of-ireland,communist-party-of-ireland,UNK
+Ireland,22120682,7,27,147575,http://en.wikipedia.org/wiki/Ireland_Park,Ireland Park,ireland-park,ireland-park,UNK
+Ireland,35298741,5,3,147575,http://en.wikipedia.org/wiki/Little_Ireland,Little Ireland,little-ireland,little-ireland,GPE
+Paul Lawrie,1564436,225,175,1988802;1688190;26667;14560;5058739;667682,http://en.wikipedia.org/wiki/Paul_Lawrie,Paul Lawrie,paul-lawrie,paul-lawrie,PER
+Pedro Linhart,5285076,7,20,780871;26667,http://en.wikipedia.org/wiki/Pedro_Linhart,Pedro Linhart,pedro-linhart,pedro-linhart,PER
+Jonathan Lomas,5272617,59,64,19568112;5058739;1688190;4308246;36220702,http://en.wikipedia.org/wiki/Jonathan_Lomas,Jonathan Lomas,jonathan-lomas,jonathan-lomas,PER
+Jonathan Lomas,36220702,2,15,5272617,http://en.wikipedia.org/wiki/Jonathan_Lomas_(researcher),Jonathan Lomas,jonathan-lomas,jonathan-lomas-researcher,PER
+Paul Eales,4435993,10,25,5058739;31717;19568112,http://en.wikipedia.org/wiki/Paul_Eales,Paul Eales,paul-eales,paul-eales,PER
+Raymond Russell,4375906,17,27,4344819;19568112;26667,http://en.wikipedia.org/wiki/Raymond_Russell,Raymond Russell,raymond-russell,raymond-russell,PER

@@ -1,0 +1,51 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Atlantic City,106211,3066,666,2066048;10155745;2169813;22998135;21648,"http://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey","Atlantic City, New Jersey",atlantic-city-new-jersey,atlantic-city-new-jersey,GPE
+Atlantic City,10155745,221,239,106211;10155745;21648,http://en.wikipedia.org/wiki/Atlantic_City_(How_I_Met_Your_Mother),Atlantic City,atlantic-city,atlantic-city-how-i-met-your-mother,UNK
+Atlantic City,22998135,269,268,106211;816554;2499282;891699;351876,http://en.wikipedia.org/wiki/Atlantic_City_Railroad,Atlantic City Railroad,atlantic-city-railroad,atlantic-city-railroad,UNK
+Atlantic City,2169813,195,174,2066048;106211;21648,http://en.wikipedia.org/wiki/Atlantic_City_International_Airport,Atlantic City International Airport,atlantic-city-international-airport,atlantic-city-international-airport,UNK
+Atlantic City,2066048,35,17,106211;2169813;21648,http://en.wikipedia.org/wiki/Atlantic_City_Rail_Terminal,Atlantic City Rail Terminal,atlantic-city-rail-terminal,atlantic-city-rail-terminal,UNK
+Atlantic City,22338289,3,1,,http://en.wikipedia.org/wiki/Atlantic_City_EP,Atlantic City EP,atlantic-city-ep,atlantic-city-ep,UNK
+Atlantic City,140091,41,54,,"http://en.wikipedia.org/wiki/Atlantic_City,_Wyoming","Atlantic City, Wyoming",atlantic-city-wyoming,atlantic-city-wyoming,GPE
+ATLANTIC CITY,106211,3066,666,2066048;10155745;2169813;22998135;21648,"http://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey","Atlantic City, New Jersey",atlantic-city-new-jersey,atlantic-city-new-jersey,GPE
+ATLANTIC CITY,10155745,221,239,106211;10155745;21648,http://en.wikipedia.org/wiki/Atlantic_City_(How_I_Met_Your_Mother),Atlantic City,atlantic-city,atlantic-city-how-i-met-your-mother,UNK
+ATLANTIC CITY,22998135,269,268,106211;816554;2499282;891699;351876,http://en.wikipedia.org/wiki/Atlantic_City_Railroad,Atlantic City Railroad,atlantic-city-railroad,atlantic-city-railroad,UNK
+ATLANTIC CITY,2169813,195,174,2066048;106211;21648,http://en.wikipedia.org/wiki/Atlantic_City_International_Airport,Atlantic City International Airport,atlantic-city-international-airport,atlantic-city-international-airport,UNK
+ATLANTIC CITY,2066048,35,17,106211;2169813;21648,http://en.wikipedia.org/wiki/Atlantic_City_Rail_Terminal,Atlantic City Rail Terminal,atlantic-city-rail-terminal,atlantic-city-rail-terminal,UNK
+ATLANTIC CITY,22338289,3,1,,http://en.wikipedia.org/wiki/Atlantic_City_EP,Atlantic City EP,atlantic-city-ep,atlantic-city-ep,UNK
+ATLANTIC CITY,140091,41,54,,"http://en.wikipedia.org/wiki/Atlantic_City,_Wyoming","Atlantic City, Wyoming",atlantic-city-wyoming,atlantic-city-wyoming,GPE
+N.J.,21648,26067,1293,351876;2499282;2066048;2169813;21648;645042;10155745;8210131;106211;26723573;816554,http://en.wikipedia.org/wiki/New_Jersey,New Jersey,new-jersey,new-jersey,UNK
+Richard Andrews,14418926,0,5,14419202;3253677,http://en.wikipedia.org/wiki/Richard_Andrews,Richard Andrews,richard-andrews,richard-andrews,PER
+Richard Andrews,14419202,3,5,14418926,http://en.wikipedia.org/wiki/Richard_Andrews_(industrialist),Richard Andrews,richard-andrews,richard-andrews-industrialist,UNK
+Richard Andrews,3253677,9,17,14418926,http://en.wikipedia.org/wiki/Richard_Andrews_(soldier),Richard Andrews,richard-andrews,richard-andrews-soldier,PER
+Andrews,14418926,0,5,14419202;3253677,http://en.wikipedia.org/wiki/Richard_Andrews,Richard Andrews,richard-andrews,richard-andrews,PER
+Andrews,14419202,3,5,14418926,http://en.wikipedia.org/wiki/Richard_Andrews_(industrialist),Richard Andrews,richard-andrews,richard-andrews-industrialist,UNK
+Andrews,3253677,9,17,14418926,http://en.wikipedia.org/wiki/Richard_Andrews_(soldier),Richard Andrews,richard-andrews,richard-andrews-soldier,PER
+New York,645042,77367,1542,2499282;21648;8210131;27746113;26035579;667548;816554;3880857;351876;7402167;2585447;645042;13141861;598652;17292183;606772;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+New York,39062092,3,8,,http://en.wikipedia.org/wiki/New_York_EP,New York EP,new-york-ep,new-york-ep,UNK
+New York,5710132,2,12,,"http://en.wikipedia.org/wiki/New_York,_Auburn_and_Lansing_Railroad","New York, Auburn and Lansing Railroad",new-york-auburn-and-lansing-railroad,new-york-auburn-and-lansing-railroad,UNK
+New York,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+New York,2001239,3,3,,"http://en.wikipedia.org/wiki/New_York,_Newfoundland_and_London_Telegraph_Company","New York, Newfoundland and London Telegraph Company",new-york-newfoundland-and-london-telegraph-company,new-york-newfoundland-and-london-telegraph-company,UNK
+New York,1159194,10,261,,"http://en.wikipedia.org/wiki/New_York,_Lincolnshire","New York, Lincolnshire",new-york-lincolnshire,new-york-lincolnshire,UNK
+New York,17292183,104,126,645042,"http://en.wikipedia.org/wiki/New_York,_I_Love_You","New York, I Love You",new-york-i-love-you,new-york-i-love-you,UNK
+New York,7402167,6,16,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_New_York_(So_Good_They_Named_It_Twice)","New York, New York",new-york-new-york,new-york-new-york-so-good-they-named-it-twice,UNK
+New York,816554,492,446,891699;21648;351876;645042;2499282;8210131;22998135;26723573,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_and_Western_Railway","New York, Susquehanna and Western Railway",new-york-susquehanna-and-western-railway,new-york-susquehanna-and-western-railway,UNK
+New York,3880857,301,536,645042;8210131,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+New York,26035579,0,1,645042,"http://en.wikipedia.org/wiki/New_York,_US-NY","New York, US-NY",new-york-us-ny,new-york-us-ny,UNK
+New York,21310853,2,74,351876,"http://en.wikipedia.org/wiki/New_York,_New_Haven_&_Hartford_Passenger_Depot","New York, New Haven & Hartford Passenger Depot",new-york-new-haven-hartford-passenger-depot,new-york-new-haven-hartford-passenger-depot,UNK
+New York,1470149,50,16,,http://en.wikipedia.org/wiki/New_York_&_Company,New York & Company,new-york-company,new-york-company,UNK
+New York,606772,30,81,8210131;645042,http://en.wikipedia.org/wiki/New_York:_A_Documentary_Film,New York: A Documentary Film,new-york-a-documentary-film,new-york-a-documentary-film,UNK
+New York,26723573,3,85,816554;21648,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_&_Western_Railroad_ALCO_Type_S-2_Locomotive","New York, Susquehanna & Western Railroad ALCO Type S-2 Locomotive",new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,UNK
+New York,351876,647,399,21310853;2585447;891699;21648;645042;13141861;816554;2499282;8210131;22998135,"http://en.wikipedia.org/wiki/New_York,_New_Haven_and_Hartford_Railroad","New York, New Haven and Hartford Railroad",new-york-new-haven-and-hartford-railroad,new-york-new-haven-and-hartford-railroad,UNK
+New York,1555877,17,13,31747730,"http://en.wikipedia.org/wiki/New_York,_New_York_(On_the_Town)","New York, New York",new-york-new-york,new-york-new-york-on-the-town,UNK
+New York,667548,10,36,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_Rio,_and_Buenos_Aires_Line","New York, Rio, and Buenos Aires Line",new-york-rio-and-buenos-aires-line,new-york-rio-and-buenos-aires-line,ORG
+New York,27746113,5,109,13141861;645042,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railroad_Administration_Building","New York, Westchester and Boston Railroad Administration Building",new-york-westchester-and-boston-railroad-administration-building,new-york-westchester-and-boston-railroad-administration-building,UNK
+New York,598652,483,197,645042;598652;8210131,http://en.wikipedia.org/wiki/New_York_School,New York School,new-york-school,new-york-school,UNK
+New York,31747730,135,373,1555877;645042,http://en.wikipedia.org/wiki/New_York_(Glee),New York,new-york,new-york-glee,UNK
+New York,2499282,360,314,891699;21648;351876;645042;816554;8210131;22998135,"http://en.wikipedia.org/wiki/New_York,_Ontario_and_Western_Railway","New York, Ontario and Western Railway",new-york-ontario-and-western-railway,new-york-ontario-and-western-railway,UNK
+New York,493759,93,39,,"http://en.wikipedia.org/wiki/New_York,_Tyne_and_Wear","New York, Tyne and Wear",new-york-tyne-and-wear,new-york-tyne-and-wear,GPE
+New York,891699,493,307,351876;816554;2499282;8210131;22998135,"http://en.wikipedia.org/wiki/New_York,_Chicago_and_St._Louis_Railroad","New York, Chicago and St. Louis Railroad",new-york-chicago-and-st-louis-railroad,new-york-chicago-and-st-louis-railroad,UNK
+New York,2585447,38,55,351876;645042,"http://en.wikipedia.org/wiki/New_York,_Providence_and_Boston_Railroad","New York, Providence and Boston Railroad",new-york-providence-and-boston-railroad,new-york-providence-and-boston-railroad,UNK
+New York,13141861,113,149,351876;8210131;645042;27746113,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railway","New York, Westchester and Boston Railway",new-york-westchester-and-boston-railway,new-york-westchester-and-boston-railway,UNK
+New York,7112349,30,43,,"http://en.wikipedia.org/wiki/New_York,_Texas","New York, Texas",new-york-texas,new-york-texas,GPE
+New York,8210131,70636,932,2499282;21648;8210131;667548;816554;3880857;351876;7402167;891699;645042;13141861;598652;606772,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+New York,13288448,14,23,,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK

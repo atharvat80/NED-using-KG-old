@@ -1,0 +1,261 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+U.S.,3434750,529967,1252,3383;6340;8227;18987;56695;4580705;76972;92111;112165;122496;130520;126573;136047;139146;149286;176767;181327;238192;233474;259269;259270;259974;248045;281157;9298547;18242643;17259359;328618;10328578;7519411;1526892;435793;436898;33750806;38154757;3434750;2477935;3916785;1684950;5042916;3868301;605077;30868004;617153;2628928;7174310;735276;1719227;17391954;17392176;17392347;17392310;808402;13707513;7954681;19851291;18717338;3966054;8794264,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S.,10328578,210,402,435793;10328648;10328590;3434750;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S.,3868301,350,531,3434750;2440624;79717;3966054;70780,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S.,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S.,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S.,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S.,889461,178,203,887108;441501;79717;5042916;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S.,16304842,112,175,8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S.,233474,102,93,3434750,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S.,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S.,10328648,378,412,903062;10328590;10328578;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S.,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S.,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S.,429750,276,240,887108;441501;79717;5042916;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S.,902392,245,190,22398962;436898;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S.,6737193,115,173,887108,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S.,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S.,605077,301,341,3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S.,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S.,889284,455,321,889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S.,21559355,95,143,5042916,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S.,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;887108;136047;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S.,444113,128,143,5042916,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S.,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S.,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S.,435793,251,290,889461;498188;888778;447879;436898;10328578;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S.,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S.,436898,769,483,889461;435793;887108;441501;889284;429750;902392;888778;447879;3434750;75235;13707513;112165;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S.,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S.,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S.,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S.,903385,68,230,903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S.,447879,394,337,16304842;889461;903062;888778;435793;436898;75235;10328575;887108;9180009;441501;79717;428913;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S.,2440624,133,162,70780;3868301,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S.,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S.,70780,396,232,889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;3966054;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S.,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S.,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;3966054;70780;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S.,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S.,79717,694,442,889461;435793;887108;9180009;441501;889284;429750;3868301;888778;447879;436898;75235;617153;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+U.S.,238192,394,239,889461;888778;435793;447879;436898;10328648;3434750;10328620;75235;10328575;887108;441501;79717;428913;70780;903385;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S.,6310196,592,545,435793;10328648;10328590;10328578;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+U.S.,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+COPENHAGEN,5166,11844,1203,21861355;12810138;3916785;3383;194884;5166;1388411;645189;5863;14746998;8098738;176767;145493;8227;861285;8383335;181327;7159372;415928;126573;23200967;76972,http://en.wikipedia.org/wiki/Copenhagen,Copenhagen,copenhagen,copenhagen,GPE
+COPENHAGEN,415928,55,176,76972;5166,http://en.wikipedia.org/wiki/Copenhagen_criteria,Copenhagen criteria,copenhagen-criteria,copenhagen-criteria,UNK
+COPENHAGEN,145493,79,41,76972;5166;12810138,http://en.wikipedia.org/wiki/Copenhagen_County,Copenhagen County,copenhagen-county,copenhagen-county,UNK
+COPENHAGEN,8383335,12,67,194884;76972;5166;8227,"http://en.wikipedia.org/wiki/Copenhagen_Airport,_Kastrup_Station","Copenhagen Airport, Kastrup Station",copenhagen-airport-kastrup-station,copenhagen-airport-kastrup-station,UNK
+COPENHAGEN,861285,838,294,5042916;76972;861285;5166;3383,http://en.wikipedia.org/wiki/F.C._Copenhagen,F.C. Copenhagen,fc-copenhagen,fc-copenhagen,ORG
+COPENHAGEN,12810138,295,270,176767;76972;8227;194884;5166;145493,http://en.wikipedia.org/wiki/Copenhagen_Municipality,Copenhagen Municipality,copenhagen-municipality,copenhagen-municipality,GPE
+COPENHAGEN,126573,51,56,76972;5166;3434750,"http://en.wikipedia.org/wiki/Copenhagen,_New_York","Copenhagen, New York",copenhagen-new-york,copenhagen-new-york,GPE
+COPENHAGEN,5863,176,160,1388411;5166,http://en.wikipedia.org/wiki/Copenhagen_interpretation,Copenhagen interpretation,copenhagen-interpretation,copenhagen-interpretation,UNK
+COPENHAGEN,3206716,4,7,,http://en.wikipedia.org/wiki/Copenhagen_Institute,Copenhagen Institute,copenhagen-institute,copenhagen-institute,UNK
+COPENHAGEN,3916785,6,18,5166;76972;3434750,"http://en.wikipedia.org/wiki/Copenhagen,_Louisiana","Copenhagen, Louisiana",copenhagen-louisiana,copenhagen-louisiana,UNK
+COPENHAGEN,9367774,27,29,8098738,http://en.wikipedia.org/wiki/Copenhagen_School_(international_relations),Copenhagen School,copenhagen-school,copenhagen-school-international-relations,ORG
+COPENHAGEN,645189,39,84,5166,http://en.wikipedia.org/wiki/Copenhagen_Consensus,Copenhagen Consensus,copenhagen-consensus,copenhagen-consensus,UNK
+COPENHAGEN,34055652,1,10,,http://en.wikipedia.org/wiki/Copenhagen_(EWTC_show),Copenhagen,copenhagen,copenhagen-ewtc-show,UNK
+COPENHAGEN,19086659,1,20,8098738,http://en.wikipedia.org/wiki/Copenhagen_School_(linguistics),Copenhagen School,copenhagen-school,copenhagen-school-linguistics,UNK
+COPENHAGEN,21861355,63,40,76972;5166,http://en.wikipedia.org/wiki/Copenhagen_Records,Copenhagen Records,copenhagen-records,copenhagen-records,UNK
+COPENHAGEN,2416496,41,27,,http://en.wikipedia.org/wiki/Copenhagen_(tobacco),Copenhagen,copenhagen,copenhagen-tobacco,ORG
+COPENHAGEN,1388411,111,119,76972;5166;5863,http://en.wikipedia.org/wiki/Copenhagen_(play),Copenhagen,copenhagen,copenhagen-play,UNK
+COPENHAGEN,23200967,74,14,76972;5166;8227;23200967,http://en.wikipedia.org/wiki/Copenhagen_Castle,Copenhagen Castle,copenhagen-castle,copenhagen-castle,UNK
+COPENHAGEN,8098738,0,4,5166;9367774;19086659;76972,http://en.wikipedia.org/wiki/Copenhagen_School,Copenhagen School,copenhagen-school,copenhagen-school,ORG
+COPENHAGEN,7159372,129,142,76972;8227;5166,http://en.wikipedia.org/wiki/Royal_Copenhagen,Royal Copenhagen,royal-copenhagen,royal-copenhagen,UNK
+COPENHAGEN,176767,1352,392,8227;12810138;194884;76972;5166;3434750,http://en.wikipedia.org/wiki/University_of_Copenhagen,University of Copenhagen,university-of-copenhagen,university-of-copenhagen,ORG
+COPENHAGEN,194884,616,418,8227;12810138;176767;76972;5166;8383335,http://en.wikipedia.org/wiki/Copenhagen_Airport,Copenhagen Airport,copenhagen-airport,copenhagen-airport,UNK
+Danish,76972,46317,1391,3916785;5166;145493;8227;7159372;415928;3966054;76972;3413454;3434750;18987;1388411;8794264;328618;1867634;176767;5042916;21861355;12810138;3105111;194884;14746998;8098738;861285;8383335;181327;126573;23200967,http://en.wikipedia.org/wiki/Denmark,Denmark,denmark,denmark,GPE
+Danish,8227,4787,304,5042916;1867634;8227;3434750;12810138;3105111;8383335;3383;7159372;194884;5166;23200967;176767;76972;1706469;3413454,http://en.wikipedia.org/wiki/Danish_language,Danish language,danish-language,danish-language,UNK
+Danish,181327,42,41,76972;5166;3434750,http://en.wikipedia.org/wiki/Danish_pastry,Danish pastry,danish-pastry,danish-pastry,UNK
+Danish,3105111,43,37,76972;8227,http://en.wikipedia.org/wiki/Danish_Division,Danish Division,danish-division,danish-division,ORG
+Danish,42187405,14,78,,http://en.wikipedia.org/wiki/Danish_Party,Danish Party,danish-party,danish-party,UNK
+Danish,14746998,55,73,76972;5166,http://en.wikipedia.org/wiki/Royal_Danish,Royal Danish,royal-danish,royal-danish,PER
+Danish,3413454,165,171,76972;8227,http://en.wikipedia.org/wiki/Danish_India,Danish India,danish-india,danish-india,GPE
+Danish,1867634,180,152,76972;8227,http://en.wikipedia.org/wiki/Danish_Estonia,Danish Estonia,danish-estonia,danish-estonia,GPE
+Danish,1706469,103,109,8227,http://en.wikipedia.org/wiki/Danish_Wikipedia,Danish Wikipedia,danish-wikipedia,danish-wikipedia,UNK
+Danish,33812519,0,8,,http://en.wikipedia.org/wiki/Dr._Danish,Dr. Danish,dr-danish,dr-danish,UNK
+U.S,3434750,529967,1252,3383;6340;8227;18987;56695;4580705;76972;92111;112165;122496;130520;126573;136047;139146;149286;176767;181327;238192;233474;259269;259270;259974;248045;281157;9298547;18242643;17259359;328618;10328578;7519411;1526892;435793;436898;33750806;38154757;3434750;2477935;3916785;1684950;5042916;3868301;605077;30868004;617153;2628928;7174310;735276;1719227;17391954;17392176;17392347;17392310;808402;13707513;7954681;19851291;18717338;3966054;8794264,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S,10328578,210,402,435793;10328648;10328590;3434750;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S,3868301,350,531,3434750;2440624;79717;3966054;70780,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S,889461,178,203,887108;441501;79717;5042916;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S,16304842,112,175,8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S,233474,102,93,3434750,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S,10328648,378,412,903062;10328590;10328578;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S,429750,276,240,887108;441501;79717;5042916;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S,902392,245,190,22398962;436898;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S,6737193,115,173,887108,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S,605077,301,341,3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S,889284,455,321,889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S,21559355,95,143,5042916,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;887108;136047;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S,444113,128,143,5042916,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S,435793,251,290,889461;498188;888778;447879;436898;10328578;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S,436898,769,483,889461;435793;887108;441501;889284;429750;902392;888778;447879;3434750;75235;13707513;112165;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S,903385,68,230,903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S,447879,394,337,16304842;889461;903062;888778;435793;436898;75235;10328575;887108;9180009;441501;79717;428913;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S,2440624,133,162,70780;3868301,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S,70780,396,232,889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;3966054;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;3966054;70780;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S,79717,694,442,889461;435793;887108;9180009;441501;889284;429750;3868301;888778;447879;436898;75235;617153;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+U.S,238192,394,239,889461;888778;435793;447879;436898;10328648;3434750;10328620;75235;10328575;887108;441501;79717;428913;70780;903385;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S,6310196,592,545,435793;10328648;10328590;10328578;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+U.S,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+Canadian,5042916,159749,788,28154926;281157;3383;6340;8227;4236671;18987;1702572;17232762;808402;5042916;1177731;28142876;73277;17259359;76972;889461;328618;28103230;28109445;1093595;15643955;30868004;1603721;861285;7954681;1526892;2095237;156915;19851291;149286;18717338;2947756;952445;444113;429750;21559355;9089046;3966054;3434750;8794264;22575394;26544195;7174310;6399816;3206876;1719227;2477935;31300676;23548674,http://en.wikipedia.org/wiki/Canada,Canada,canada,canada,GPE
+Canadian,136047,323,375,3434750;617153;441501,"http://en.wikipedia.org/wiki/Canadian,_Texas","Canadian, Texas",canadian-texas,canadian-texas,GPE
+Canadian,617153,208,50,136047;79717;92111;3434750,http://en.wikipedia.org/wiki/Canadian_River,Canadian River,canadian-river,canadian-river,UNK
+Canadian,9089046,5,9,5042916,http://en.wikipedia.org/wiki/Canadian_Bandurist_Capella,Canadian Bandurist Capella,canadian-bandurist-capella,canadian-bandurist-capella,UNK
+Canadian,6340,1256,589,5042916;7174310;7954681;3434750;19851291;18717338;6340,http://en.wikipedia.org/wiki/Canadian_English,Canadian English,canadian-english,canadian-english,ORG
+Canadian,17232762,30,39,5042916,http://en.wikipedia.org/wiki/Canadian_College,Canadian College,canadian-college,canadian-college,ORG
+Canadian,26544195,41,8,5042916;26544195,http://en.wikipedia.org/wiki/Canadian_Musician,Canadian Musician,canadian-musician,canadian-musician,ORG
+Canadian,328618,637,343,76972;5042916;328618;3434750;3383;3966054;7954681,http://en.wikipedia.org/wiki/Canadian_Space_Agency,Canadian Space Agency,canadian-space-agency,canadian-space-agency,ORG
+Canadian,130520,35,46,3434750,"http://en.wikipedia.org/wiki/Canadian,_Oklahoma","Canadian, Oklahoma",canadian-oklahoma,canadian-oklahoma,GPE
+Canadian,1684950,6,20,3434750,http://en.wikipedia.org/wiki/Canadian_River_(Colorado),Canadian River,canadian-river,canadian-river-colorado,UNK
+Canadian,21336436,40,47,,"http://en.wikipedia.org/wiki/Canadian,_Victoria","Canadian, Victoria",canadian-victoria,canadian-victoria,UNK
+Canadian,4526025,84,25,,http://en.wikipedia.org/wiki/Canadian_Division,Canadian Division,canadian-division,canadian-division,ORG
+Canadian,1526892,168,210,5042916;7954681;3434750,http://en.wikipedia.org/wiki/Canadian_(train),Canadian,canadian,canadian-train,UNK
+Canadian,17259359,3,27,7954681;3434750;5042916,http://en.wikipedia.org/wiki/Canadian_International_(badminton),Canadian International,canadian-international,canadian-international-badminton,PER
+Canadian,952445,14,28,5042916,http://en.wikipedia.org/wiki/Canadian_Party,Canadian Party,canadian-party,canadian-party,UNK
+Canadian,1702572,66,78,5042916,http://en.wikipedia.org/wiki/Canadian_Club,Canadian Club,canadian-club,canadian-club,UNK
+Canadian,281157,198,250,5042916;3434750;3383,http://en.wikipedia.org/wiki/Canadian_Airlines,Canadian Airlines,canadian-airlines,canadian-airlines,ORG
+Canadian,6399816,78,77,5042916,http://en.wikipedia.org/wiki/Canadian_GAA,Canadian GAA,canadian-gaa,canadian-gaa,GPE
+Canadian,4236671,83,91,5042916,http://en.wikipedia.org/wiki/Canadian_Silver_Maple_Leaf,Canadian Silver Maple Leaf,canadian-silver-maple-leaf,canadian-silver-maple-leaf,UNK
+Canadian,2477935,122,138,1093595;2477935;5042916;7954681;3434750,http://en.wikipedia.org/wiki/Canadian_Chinese_cuisine,Canadian Chinese cuisine,canadian-chinese-cuisine,canadian-chinese-cuisine,UNK
+Canadian,7174310,1,278,5042916;19851291;6340;3434750,http://en.wikipedia.org/wiki/American_Canadian,American Canadian,american-canadian,american-canadian,UNK
+Canadian,92111,394,276,3434750;617153;92111,"http://en.wikipedia.org/wiki/Canadian_County,_Oklahoma","Canadian County, Oklahoma",canadian-county-oklahoma,canadian-county-oklahoma,GPE
+Canadian,19851291,1524,619,5042916;7174310;7954681;3434750;3966054;6340,http://en.wikipedia.org/wiki/Canadians,Canadians,canadians,canadians,UNK
+US$,18717338,16188,846,6340;3127822;5042916;3966054;3434750;18987;18717338,http://en.wikipedia.org/wiki/United_States_dollar,United States dollar,united-states-dollar,united-states-dollar,UNK
+Montreal,7954681,19878,965,3206876;7954681;1093595;73277;3383;1526892;6340;17758318;5042916;1719227;35205700;17259359;4580705;3966054;2095237;139146;3434750;1177731;156915;19851291;18987;1603721;328618;2477935;22736662;31300676;2947756,http://en.wikipedia.org/wiki/Montreal,Montreal,montreal,montreal,GPE
+Montreal,28109445,9,18,28142876;644589;5042916,"http://en.wikipedia.org/wiki/Montreal_River_(Algoma–Sudbury,_Ontario)",Montreal River,montreal-river,montreal-river-algoma–sudbury-ontario,UNK
+Montreal,3206876,43,53,5042916;7954681,http://en.wikipedia.org/wiki/Montreal_hot_dog,Montreal hot dog,montreal-hot-dog,montreal-hot-dog,UNK
+Montreal,754493,26,18,,http://en.wikipedia.org/wiki/Montreal_(Crusader_castle),Montreal,montreal,montreal-crusader-castle,UNK
+Montreal,1719227,231,344,5042916;3434750;7954681,"http://en.wikipedia.org/wiki/Montreal,_Maine_and_Atlantic_Railway","Montreal, Maine and Atlantic Railway",montreal-maine-and-atlantic-railway,montreal-maine-and-atlantic-railway,UNK
+Montreal,156915,253,32,5042916;35205700;7954681,http://en.wikipedia.org/wiki/Montreal_Symphony_Orchestra,Montreal Symphony Orchestra,montreal-symphony-orchestra,montreal-symphony-orchestra,UNK
+Montreal,1603721,604,397,5042916;2095237;73277;1177731;1603721;17758318;7954681,http://en.wikipedia.org/wiki/Greater_Montreal,Greater Montreal,greater-montreal,greater-montreal,GPE
+Montreal,1177731,178,151,1603721;5042916;2095237;7954681;73277,http://en.wikipedia.org/wiki/Urban_agglomeration_of_Montreal,Urban agglomeration of Montreal,urban-agglomeration-of-montreal,urban-agglomeration-of-montreal,GPE
+Montreal,4406968,96,92,,http://en.wikipedia.org/wiki/Montreal_Road,Montreal Road,montreal-road,montreal-road,UNK
+Montreal,17758318,76,126,1603721;7954681;73277,http://en.wikipedia.org/wiki/Geography_of_Montreal,Geography of Montreal,geography-of-montreal,geography-of-montreal,UNK
+Montreal,15429269,342,335,15429269,"http://en.wikipedia.org/wiki/Montréal,_Ardèche","Montréal, Ardèche",montreal-ardeche,montreal-ardeche,ORG
+Montreal,23548674,11,20,28109360;28154926;5042916;38749483,http://en.wikipedia.org/wiki/Montreal_Lake_(Saskatchewan),Montreal Lake,montreal-lake,montreal-lake-saskatchewan,UNK
+Montreal,15643955,110,119,5042916;73277,http://en.wikipedia.org/wiki/Montreal_Island_(Nunavut),Montreal Island,montreal-island,montreal-island-nunavut,UNK
+Montreal,15674301,459,461,,"http://en.wikipedia.org/wiki/Montréal,_Yonne","Montréal, Yonne",montreal-yonne,montreal-yonne,UNK
+Montreal,644589,1,5,28109445;28103230;735276;6560191;28154926,http://en.wikipedia.org/wiki/Montreal_River,Montreal River,montreal-river,montreal-river,UNK
+Montreal,4580705,29,38,7954681;3434750,"http://en.wikipedia.org/wiki/Montreal,_Missouri","Montreal, Missouri",montreal-missouri,montreal-missouri,GPE
+Montreal,31300676,18,75,5042916;7954681,http://en.wikipedia.org/wiki/Montreal_Group,Montreal Group,montreal-group,montreal-group,PER
+Montreal,22736662,13,17,7954681,"http://en.wikipedia.org/wiki/Montreal_Light,_Heat_&_Power","Montreal Light, Heat & Power",montreal-light-heat-power,montreal-light-heat-power,UNK
+Montreal,38749483,14,57,28109360;23548674,"http://en.wikipedia.org/wiki/Montreal_Lake,_Saskatchewan","Montreal Lake, Saskatchewan",montreal-lake-saskatchewan,montreal-lake-saskatchewan,GPE
+Montreal,39397856,3,9,,http://en.wikipedia.org/wiki/Montreal_District,Montreal District,montreal-district,montreal-district,UNK
+Montreal,9879731,5,5,,"http://en.wikipedia.org/wiki/Montreal,_Portland_and_Boston_Railway","Montreal, Portland and Boston Railway",montreal-portland-and-boston-railway,montreal-portland-and-boston-railway,UNK
+Montreal,2095237,270,190,1603721;5042916;7954681;1177731,http://en.wikipedia.org/wiki/Old_Montreal,Old Montreal,old-montreal,old-montreal,UNK
+Montreal,28142876,3,13,5042916;28109360;28109445,http://en.wikipedia.org/wiki/Montreal_Lake_(Ontario),Montreal Lake,montreal-lake,montreal-lake-ontario,UNK
+Montreal,73277,400,145,5042916;15643955;1177731;1603721;17758318;7954681,http://en.wikipedia.org/wiki/Island_of_Montreal,Island of Montreal,island-of-montreal,island-of-montreal,UNK
+Montreal,28154926,5,27,644589;5042916;23548674,http://en.wikipedia.org/wiki/Montreal_River_(Saskatchewan),Montreal River,montreal-river,montreal-river-saskatchewan,UNK
+Montreal,28109360,0,4,28142876;38749483;23548674,http://en.wikipedia.org/wiki/Montreal_Lake,Montreal Lake,montreal-lake,montreal-lake,UNK
+Montreal,35586657,6,7,,http://en.wikipedia.org/wiki/Montreal_Park,Montreal Park,montreal-park,montreal-park,UNK
+Montreal,14836337,472,460,,"http://en.wikipedia.org/wiki/Montréal,_Gers","Montréal, Gers",montreal-gers,montreal-gers,UNK
+Montreal,735276,10,24,644589;3434750;139146,http://en.wikipedia.org/wiki/Montreal_River_(Wisconsin–Michigan),Montreal River,montreal-river,montreal-river-wisconsin–michigan,UNK
+Montreal,139146,48,71,7954681;3434750;735276;139146,"http://en.wikipedia.org/wiki/Montreal,_Wisconsin","Montreal, Wisconsin",montreal-wisconsin,montreal-wisconsin,GPE
+Montreal,6560191,7,4,644589,http://en.wikipedia.org/wiki/Montreal_River_(Michigan),Montreal River,montreal-river,montreal-river-michigan,UNK
+Montreal,2101556,448,434,2101556,"http://en.wikipedia.org/wiki/Montréal,_Aude","Montréal, Aude",montreal-aude,montreal-aude,ORG
+Montreal,28103230,28,25,644589;5042916,http://en.wikipedia.org/wiki/Montreal_River_(Timiskaming_District),Montreal River,montreal-river,montreal-river-timiskaming-district,UNK
+Montreal,2947756,37,114,5042916;7954681,http://en.wikipedia.org/wiki/Montreal_Xtreme,Montreal Xtreme,montreal-xtreme,montreal-xtreme,ORG
+Montreal,1093595,59,89,2477935;5042916;7954681,http://en.wikipedia.org/wiki/Montreal-style_bagel,Montreal-style bagel,montreal-style-bagel,montreal-style-bagel,UNK
+Montreal,35205700,8,35,7954681;156915,http://en.wikipedia.org/wiki/Montreal_Orchestra,Montreal Orchestra,montreal-orchestra,montreal-orchestra,UNK
+Mexico,3966054,62316,818,6122421;7954681;3383;9298547;19851291;18987;149286;18717338;3490848;808402;5042916;32231716;3868301;2628928;56695;2137099;428913;70780;3127822;3966054;76972;3434750;31025972;222243;8794264;328618;24562807;17158888;30868004;259270;248045,http://en.wikipedia.org/wiki/Mexico,Mexico,mexico,mexico,GPE
+Mexico,15951028,11,16,,http://en.wikipedia.org/wiki/Mexico_(barque),Mexico,mexico,mexico-barque,UNK
+Mexico,17392235,20,27,,"http://en.wikipedia.org/wiki/Mexico,_Texas","Mexico, Texas",mexico-texas,mexico-texas,UNK
+Mexico,6122421,56,51,18987;3966054,http://en.wikipedia.org/wiki/Mexico_(Epcot),Mexico,mexico,mexico-epcot,UNK
+Mexico,33750806,4,11,3434750,"http://en.wikipedia.org/wiki/Mexico,_South_Carolina","Mexico, South Carolina",mexico-south-carolina,mexico-south-carolina,UNK
+Mexico,9298547,8,65,18987;222243;3434750;3966054,http://en.wikipedia.org/wiki/Name_of_Mexico,Name of Mexico,name-of-mexico,name-of-mexico,UNK
+Mexico,10308968,0,1,,"http://en.wikipedia.org/wiki/Mexico,_MO_μSA","Mexico, MO μSA",mexico-mo-μsa,mexico-mo-μsa,PER
+Mexico,56695,189,231,2628928;18987;3966054;56695;248045;3434750,http://en.wikipedia.org/wiki/Geography_of_Mexico,Geography of Mexico,geography-of-mexico,geography-of-mexico,UNK
+Mexico,248045,493,402,56695;3434750;2628928;18987;3966054,http://en.wikipedia.org/wiki/Music_of_Mexico,Music of Mexico,music-of-mexico,music-of-mexico,UNK
+Mexico,2628928,441,301,56695;3434750;18987;3966054;248045,http://en.wikipedia.org/wiki/French_intervention_in_Mexico,French intervention in Mexico,french-intervention-in-mexico,french-intervention-in-mexico,UNK
+Mexico,17392268,0,2,17392310;17392176,"http://en.wikipedia.org/wiki/Mexico,_Ohio","Mexico, Ohio",mexico-ohio,mexico-ohio,UNK
+Mexico,2137099,81,146,3966054,"http://en.wikipedia.org/wiki/Mexico,_Pampanga","Mexico, Pampanga",mexico-pampanga,mexico-pampanga,UNK
+Mexico,32231716,2,9,3966054,http://en.wikipedia.org/wiki/Mexico_(genus),Mexico,mexico,mexico-genus,PER
+Mexico,122496,253,358,3434750,"http://en.wikipedia.org/wiki/Mexico,_Missouri","Mexico, Missouri",mexico-missouri,mexico-missouri,GPE
+Mexico,18987,11953,992,6122421;7954681;808402;3383;5042916;9298547;3966054;76972;3434750;2628928;18987;56695;222243;18717338;248045;3490848,http://en.wikipedia.org/wiki/Mexico_City,Mexico City,mexico-city,mexico-city,GPE
+Mexico,222243,1191,290,222243;18987;3966054;9298547,http://en.wikipedia.org/wiki/State_of_Mexico,State of Mexico,state-of-mexico,state-of-mexico,GPE
+Mexico,17392310,27,45,17392268;3434750,"http://en.wikipedia.org/wiki/Mexico,_Wyandot_County,_Ohio","Mexico, Wyandot County, Ohio",mexico-wyandot-county-ohio,mexico-wyandot-county-ohio,UNK
+Mexico,18242643,11,31,3434750,http://en.wikipedia.org/wiki/Mexico_(instrumental),Mexico,mexico,mexico-instrumental,UNK
+Mexico,17392176,41,48,17392268;3434750,"http://en.wikipedia.org/wiki/Mexico,_Crawford_County,_Ohio","Mexico, Crawford County, Ohio",mexico-crawford-county-ohio,mexico-crawford-county-ohio,UNK
+Mexico,259270,77,93,259269;3434750;3966054,"http://en.wikipedia.org/wiki/Mexico,_Maine","Mexico, Maine",mexico-maine,mexico-maine,GPE
+Mexico,37995472,2,10,,http://en.wikipedia.org/wiki/A_México,A México,a-mexico,a-mexico,UNK
+Mexico,9997826,1,6,,"http://en.wikipedia.org/wiki/México,_la_revolución_congelada","México, la revolución congelada",mexico-la-revolucion-congelada,mexico-la-revolucion-congelada,UNK
+Mexico,259269,51,74,3434750;259270,"http://en.wikipedia.org/wiki/Mexico_(CDP),_Maine","Mexico (CDP), Maine",mexico-cdp-maine,mexico-cdp-maine,GPE
+Mexico,407223,1,2,17392347,"http://en.wikipedia.org/wiki/Mexico,_Pennsylvania","Mexico, Pennsylvania",mexico-pennsylvania,mexico-pennsylvania,UNK
+Mexico,18745941,0,1,,"http://en.wikipedia.org/wiki/Mexico,_MO_µSA","Mexico, MO µSA",mexico-mo-µsa,mexico-mo-µsa,PER
+Mexico,31025972,1,6,3966054,"http://en.wikipedia.org/wiki/México,_México,_ra,_ra,_ra","México, México, ra, ra, ra",mexico-mexico-ra-ra-ra,mexico-mexico-ra-ra-ra,UNK
+Mexico,259974,19,78,3434750,"http://en.wikipedia.org/wiki/Mexico,_New_York","Mexico, New York",mexico-new-york,mexico-new-york,GPE
+Mexico,17392347,20,28,407223;3434750,"http://en.wikipedia.org/wiki/Mexico,_Montour_County,_Pennsylvania","Mexico, Montour County, Pennsylvania",mexico-montour-county-pennsylvania,mexico-montour-county-pennsylvania,GPE
+Mexico,3127822,30,85,3966054;18717338,http://en.wikipedia.org/wiki/1959_Mexico_hurricane,1959 Mexico hurricane,1959-mexico-hurricane,1959-mexico-hurricane,UNK
+Mexico,17391999,55,53,17391890,"http://en.wikipedia.org/wiki/Mexico,_Carroll_County,_Maryland","Mexico, Carroll County, Maryland",mexico-carroll-county-maryland,mexico-carroll-county-maryland,GPE
+Mexico,17391890,0,4,17391999;17391954,"http://en.wikipedia.org/wiki/Mexico,_Maryland","Mexico, Maryland",mexico-maryland,mexico-maryland,UNK
+Mexico,17391954,63,73,3434750;17391890,"http://en.wikipedia.org/wiki/Mexico,_Allegany_County,_Maryland","Mexico, Allegany County, Maryland",mexico-allegany-county-maryland,mexico-allegany-county-maryland,GPE
+Mexico,3490848,62,149,18987;357590;3966054,http://en.wikipedia.org/wiki/Popular_Socialist_Party_of_Mexico,Popular Socialist Party of Mexico,popular-socialist-party-of-mexico,popular-socialist-party-of-mexico,UNK
+Mexico,17158888,1,12,3966054,http://en.wikipedia.org/wiki/Mexico_City_(former_administrative_division),Mexico City,mexico-city,mexico-city-former-administrative-division,UNK
+Mexico,17391812,14,20,,"http://en.wikipedia.org/wiki/Mexico,_Kentucky","Mexico, Kentucky",mexico-kentucky,mexico-kentucky,UNK
+Mexico,808402,2853,649,5042916;3434750;681926;3966054;149286;3383;18987,http://en.wikipedia.org/wiki/Mexico_national_football_team,Mexico national football team,mexico-national-football-team,mexico-national-football-team,UNK
+Mexico,27915165,111,333,,http://en.wikipedia.org/wiki/Little_Mexico,Little Mexico,little-mexico,little-mexico,UNK
+Mexico,24562807,26,8,3966054,http://en.wikipedia.org/wiki/México_FC,México FC,mexico-fc,mexico-fc,ORG
+Brazil,3383,84101,1038,7954681;281157;3383;3631;5166;8227;13688885;18987;149286;4628340;808402;5042916;681926;357590;3966054;3434750;8794264;328618;112165;30868004;27301828;19886337;861285,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Brazil,681926,1338,314,808402;3383;149286,http://en.wikipedia.org/wiki/Brazilian_Football_Confederation,Brazilian Football Confederation,brazilian-football-confederation,brazilian-football-confederation,UNK
+Brazil,13707513,57,75,112165;436898;3434750,"http://en.wikipedia.org/wiki/Brazil_Township,_Clay_County,_Indiana","Brazil Township, Clay County, Indiana",brazil-township-clay-county-indiana,brazil-township-clay-county-indiana,GPE
+Brazil,16052160,4,59,,"http://en.wikipedia.org/wiki/Brazil,_Northern_Cape","Brazil, Northern Cape",brazil-northern-cape,brazil-northern-cape,UNK
+Brazil,38411413,57,77,,"http://en.wikipedia.org/wiki/Little_Brazil,_Manhattan","Little Brazil, Manhattan",little-brazil-manhattan,little-brazil-manhattan,UNK
+Brazil,149286,3969,1115,5042916;3434750;149286;808402;3383;681926;3966054,http://en.wikipedia.org/wiki/Brazil_national_football_team,Brazil national football team,brazil-national-football-team,brazil-national-football-team,ORG
+Brazil,13688885,76,71,3383,http://en.wikipedia.org/wiki/Kingdom_of_Brazil,Kingdom of Brazil,kingdom-of-brazil,kingdom-of-brazil,GPE
+Brazil,112165,193,213,436898;3434750;13707513;3383,"http://en.wikipedia.org/wiki/Brazil,_Indiana","Brazil, Indiana",brazil-indiana,brazil-indiana,GPE
+Brazil,36002865,24,50,,http://en.wikipedia.org/wiki/Brazil_with_Michael_Palin,Brazil with Michael Palin,brazil-with-michael-palin,brazil-with-michael-palin,UNK
+Brazil,8794264,635,458,5042916;27301828;76972;3434750;3383;3631;3966054,http://en.wikipedia.org/wiki/Tourism_in_Brazil,Tourism in Brazil,tourism-in-brazil,tourism-in-brazil,ORG
+Brazil,7519411,23,26,3434750,http://en.wikipedia.org/wiki/Brazil_(band),Brazil,brazil,brazil-band,UNK
+Brazil,29333456,0,11,,http://en.wikipedia.org/wiki/Mount_Brazil,Mount Brazil,mount-brazil,mount-brazil,UNK
+Brazil,27301828,209,230,8794264;3383,http://en.wikipedia.org/wiki/Coffee_production_in_Brazil,Coffee production in Brazil,coffee-production-in-brazil,coffee-production-in-brazil,UNK
+Brazil,4628340,199,184,3383,http://en.wikipedia.org/wiki/Dutch_Brazil,Dutch Brazil,dutch-brazil,dutch-brazil,GPE
+Brazil,27565426,23,40,,"http://en.wikipedia.org/wiki/Brazil,_Mississippi","Brazil, Mississippi",brazil-mississippi,brazil-mississippi,GPE
+Brazil,22575394,2,6,5042916,"http://en.wikipedia.org/wiki/Brazil_Lake,_Nova_Scotia","Brazil Lake, Nova Scotia",brazil-lake-nova-scotia,brazil-lake-nova-scotia,GPE
+Brazil,3631,653,292,3383;3631;8794264,http://en.wikipedia.org/wiki/Geography_of_Brazil,Geography of Brazil,geography-of-brazil,geography-of-brazil,UNK
+Brazil,30868004,2,61,5042916;3434750;3966054;3383,http://en.wikipedia.org/wiki/Brazil_International,Brazil International,brazil-international,brazil-international,UNK
+Brazil,357590,167,107,3490848;3383,http://en.wikipedia.org/wiki/Communist_Party_of_Brazil,Communist Party of Brazil,communist-party-of-brazil,communist-party-of-brazil,ORG
+Brazil,4497173,48,14,,http://en.wikipedia.org/wiki/Little_Brazil,Little Brazil,little-brazil,little-brazil,UNK
+Brazil,38154757,13,29,3434750,"http://en.wikipedia.org/wiki/Brazil,_Kentucky","Brazil, Kentucky",brazil-kentucky,brazil-kentucky,UNK
+Brazil,19886337,4,48,3383,http://en.wikipedia.org/wiki/Brazil_(public_relations_agency),Brazil,brazil,brazil-public-relations-agency,UNK
+Copenhagen,5166,11844,1203,21861355;12810138;3916785;3383;194884;5166;1388411;645189;5863;14746998;8098738;176767;145493;8227;861285;8383335;181327;7159372;415928;126573;23200967;76972,http://en.wikipedia.org/wiki/Copenhagen,Copenhagen,copenhagen,copenhagen,GPE
+Copenhagen,415928,55,176,76972;5166,http://en.wikipedia.org/wiki/Copenhagen_criteria,Copenhagen criteria,copenhagen-criteria,copenhagen-criteria,UNK
+Copenhagen,145493,79,41,76972;5166;12810138,http://en.wikipedia.org/wiki/Copenhagen_County,Copenhagen County,copenhagen-county,copenhagen-county,UNK
+Copenhagen,8383335,12,67,194884;76972;5166;8227,"http://en.wikipedia.org/wiki/Copenhagen_Airport,_Kastrup_Station","Copenhagen Airport, Kastrup Station",copenhagen-airport-kastrup-station,copenhagen-airport-kastrup-station,UNK
+Copenhagen,861285,838,294,5042916;76972;861285;5166;3383,http://en.wikipedia.org/wiki/F.C._Copenhagen,F.C. Copenhagen,fc-copenhagen,fc-copenhagen,ORG
+Copenhagen,12810138,295,270,176767;76972;8227;194884;5166;145493,http://en.wikipedia.org/wiki/Copenhagen_Municipality,Copenhagen Municipality,copenhagen-municipality,copenhagen-municipality,GPE
+Copenhagen,126573,51,56,76972;5166;3434750,"http://en.wikipedia.org/wiki/Copenhagen,_New_York","Copenhagen, New York",copenhagen-new-york,copenhagen-new-york,GPE
+Copenhagen,5863,176,160,1388411;5166,http://en.wikipedia.org/wiki/Copenhagen_interpretation,Copenhagen interpretation,copenhagen-interpretation,copenhagen-interpretation,UNK
+Copenhagen,3206716,4,7,,http://en.wikipedia.org/wiki/Copenhagen_Institute,Copenhagen Institute,copenhagen-institute,copenhagen-institute,UNK
+Copenhagen,3916785,6,18,5166;76972;3434750,"http://en.wikipedia.org/wiki/Copenhagen,_Louisiana","Copenhagen, Louisiana",copenhagen-louisiana,copenhagen-louisiana,UNK
+Copenhagen,9367774,27,29,8098738,http://en.wikipedia.org/wiki/Copenhagen_School_(international_relations),Copenhagen School,copenhagen-school,copenhagen-school-international-relations,ORG
+Copenhagen,645189,39,84,5166,http://en.wikipedia.org/wiki/Copenhagen_Consensus,Copenhagen Consensus,copenhagen-consensus,copenhagen-consensus,UNK
+Copenhagen,34055652,1,10,,http://en.wikipedia.org/wiki/Copenhagen_(EWTC_show),Copenhagen,copenhagen,copenhagen-ewtc-show,UNK
+Copenhagen,19086659,1,20,8098738,http://en.wikipedia.org/wiki/Copenhagen_School_(linguistics),Copenhagen School,copenhagen-school,copenhagen-school-linguistics,UNK
+Copenhagen,21861355,63,40,76972;5166,http://en.wikipedia.org/wiki/Copenhagen_Records,Copenhagen Records,copenhagen-records,copenhagen-records,UNK
+Copenhagen,2416496,41,27,,http://en.wikipedia.org/wiki/Copenhagen_(tobacco),Copenhagen,copenhagen,copenhagen-tobacco,ORG
+Copenhagen,1388411,111,119,76972;5166;5863,http://en.wikipedia.org/wiki/Copenhagen_(play),Copenhagen,copenhagen,copenhagen-play,UNK
+Copenhagen,23200967,74,14,76972;5166;8227;23200967,http://en.wikipedia.org/wiki/Copenhagen_Castle,Copenhagen Castle,copenhagen-castle,copenhagen-castle,UNK
+Copenhagen,8098738,0,4,5166;9367774;19086659;76972,http://en.wikipedia.org/wiki/Copenhagen_School,Copenhagen School,copenhagen-school,copenhagen-school,ORG
+Copenhagen,7159372,129,142,76972;8227;5166,http://en.wikipedia.org/wiki/Royal_Copenhagen,Royal Copenhagen,royal-copenhagen,royal-copenhagen,UNK
+Copenhagen,176767,1352,392,8227;12810138;194884;76972;5166;3434750,http://en.wikipedia.org/wiki/University_of_Copenhagen,University of Copenhagen,university-of-copenhagen,university-of-copenhagen,ORG
+Copenhagen,194884,616,418,8227;12810138;176767;76972;5166;8383335,http://en.wikipedia.org/wiki/Copenhagen_Airport,Copenhagen Airport,copenhagen-airport,copenhagen-airport,UNK

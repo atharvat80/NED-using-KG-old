@@ -1,0 +1,41 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Colombia,5222,32640,736,6976458;211271;5222;10710785;3056298;5836;3299732;357286;2495069;20810797;4057142;26100;340197;2451807;13064314;30411804;680175;2696975;124974;34235937;185251,http://en.wikipedia.org/wiki/Colombia,Colombia,colombia,colombia,GPE
+Colombia,680175,1637,408,680175;5222;211271;20810797,http://en.wikipedia.org/wiki/Colombia_national_football_team,Colombia national football team,colombia-national-football-team,colombia-national-football-team,UNK
+Colombia,34235937,90,62,5222,http://en.wikipedia.org/wiki/Colombia_(cycling_team),Colombia,colombia,colombia-cycling-team,UNK
+Colombia,10710785,37,43,5222,"http://en.wikipedia.org/wiki/Colombia,_Huila","Colombia, Huila",colombia-huila,colombia-huila,UNK
+Colombia,5836,161,207,211271;5222;5836;13064314,http://en.wikipedia.org/wiki/Geography_of_Colombia,Geography of Colombia,geography-of-colombia,geography-of-colombia,UNK
+Colombia,13064314,131,446,211271;5222;340197;357286;185251;26100;5836,http://en.wikipedia.org/wiki/Timeline_of_Colombian_history,Timeline of Colombian history,timeline-of-colombian-history,timeline-of-colombian-history,UNK
+Colombia,6976458,2,11,5222,http://en.wikipedia.org/wiki/Colombia_(cocktail),Colombia,colombia,colombia-cocktail,UNK
+Colombia,41935657,0,3,,http://en.wikipedia.org/wiki/Ms._Colombia,Ms. Colombia,ms-colombia,ms-colombia,PER
+Colombia,13604395,14,17,,"http://en.wikipedia.org/wiki/Colombia,_Cuba","Colombia, Cuba",colombia-cuba,colombia-cuba,GPE
+Colombia,11200119,13,14,,"http://en.wikipedia.org/wiki/Colombia,_Nuevo_León","Colombia, Nuevo León",colombia-nuevo-leon,colombia-nuevo-leon,GPE
+Colombia,3056298,13,17,5222,http://en.wikipedia.org/wiki/Colômbia,Colômbia,colombia,colombia,GPE
+BOGOTA,211271,3477,357,26100;340197;13064314;680175;5222;124974;5836;185251;3299732;20810797,http://en.wikipedia.org/wiki/Bogotá,Bogotá,bogota,bogota,GPE
+BOGOTA,2428202,15,27,,"http://en.wikipedia.org/wiki/Bogota,_Tennessee","Bogota, Tennessee",bogota-tennessee,bogota-tennessee,UNK
+BOGOTA,20838657,24,36,,"http://en.wikipedia.org/wiki/Bogota,_Illinois","Bogota, Illinois",bogota-illinois,bogota-illinois,GPE
+BOGOTA,20810797,52,53,5222;680175;211271,http://en.wikipedia.org/wiki/Bogotá_F.C.,Bogotá F.C.,bogota-fc,bogota-fc,ORG
+BOGOTA,40721400,3,150,,"http://en.wikipedia.org/wiki/Bogota_(Port_Republic,_Virginia)",Bogota,bogota,bogota-port-republic-virginia,UNK
+BOGOTA,124974,145,224,211271;5222,"http://en.wikipedia.org/wiki/Bogota,_New_Jersey","Bogota, New Jersey",bogota-new-jersey,bogota-new-jersey,GPE
+BOGOTA,3299732,20,12,5222;211271,http://en.wikipedia.org/wiki/Bogotá_River,Bogotá River,bogota-river,bogota-river,UNK
+BOGOTA,30419701,5,11,,http://en.wikipedia.org/wiki/Bogotá_Province,Bogotá Province,bogota-province,bogota-province,UNK
+Antioquia,185251,427,217,30411804;211271;5222;2495069;340197;17164817;357286;26100;13064314,http://en.wikipedia.org/wiki/Antioquia_Department,Antioquia Department,antioquia-department,antioquia-department,UNK
+Antioquia,17164817,129,152,185251,http://en.wikipedia.org/wiki/Antioquia_District,Antioquia District,antioquia-district,antioquia-district,UNK
+Antioquia,2696975,103,131,5222;340197,http://en.wikipedia.org/wiki/University_of_Antioquia,University of Antioquia,university-of-antioquia,university-of-antioquia,ORG
+Antioquia,30411804,157,148,5222;185251;2495069;340197,http://en.wikipedia.org/wiki/Antioquia_State,Antioquia State,antioquia-state,antioquia-state,UNK
+Anza,2075204,43,94,2075204,http://en.wikipedia.org/wiki/Anza_(missile),Anza,anza,anza-missile,UNK
+Anza,24140798,4,13,,http://en.wikipedia.org/wiki/Anza_(river),Anza,anza,anza-river,UNK
+Anza,13311786,11,14,,http://en.wikipedia.org/wiki/Santo_Anzà,Santo Anzà,santo-anza,santo-anza,UNK
+Anza,22852246,114,117,3304634,"http://en.wikipedia.org/wiki/Anza,_Imperial_County,_California","Anza, Imperial County, California",anza-imperial-county-california,anza-imperial-county-california,GPE
+Anza,53721,152,173,12468947;3304634,http://en.wikipedia.org/wiki/Juan_Bautista_de_Anza,Juan Bautista de Anza,juan-bautista-de-anza,juan-bautista-de-anza,PER
+Anza,2495069,140,135,5222;185251;30411804;340197,"http://en.wikipedia.org/wiki/Anzá,_Antioquia","Anzá, Antioquia",anza-antioquia,anza-antioquia,GPE
+Anza,12468947,6,82,53721,http://en.wikipedia.org/wiki/Lake_Anza,Lake Anza,lake-anza,lake-anza,UNK
+Anza,3304634,193,273,22852246;53721,"http://en.wikipedia.org/wiki/Anza,_California","Anza, California",anza-california,anza-california,GPE
+Anza,1736097,18,44,,http://en.wikipedia.org/wiki/Anza_(singer),Anza,anza,anza-singer,UNK
+Medellin,340197,1481,321,30411804;5222;2696975;2451807;340197;185251;211271;2495069;357286;4057142;13064314,http://en.wikipedia.org/wiki/Medellín,Medellín,medellin,medellin,GPE
+Medellin,4057142,16,8,5222;340197,http://en.wikipedia.org/wiki/Medellín_River,Medellín River,medellin-river,medellin-river,UNK
+Medellin,23182300,188,176,2451807,"http://en.wikipedia.org/wiki/Medellín,_Veracruz","Medellín, Veracruz",medellin-veracruz,medellin-veracruz,UNK
+Medellin,2043653,84,74,2451807,"http://en.wikipedia.org/wiki/Medellin,_Cebu","Medellin, Cebu",medellin-cebu,medellin-cebu,UNK
+Medellin,357286,126,74,5222;185251;340197;13064314,http://en.wikipedia.org/wiki/Medellín_Cartel,Medellín Cartel,medellin-cartel,medellin-cartel,UNK
+Medellin,2451807,174,186,2043653;23182300;5222;340197,"http://en.wikipedia.org/wiki/Medellín,_Spain","Medellín, Spain",medellin-spain,medellin-spain,UNK
+Revolutionary Armed Forces of Colombia,26100,288,278,211271;5222;185251;13064314,http://en.wikipedia.org/wiki/FARC,FARC,farc,farc,UNK
+FARC,26100,288,278,211271;5222;185251;13064314,http://en.wikipedia.org/wiki/FARC,FARC,farc,farc,UNK

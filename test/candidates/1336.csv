@@ -1,0 +1,72 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+China,5405,76886,1206,5405;2259195;26207532;15041295;29031717;18603746;263168;33167689;6108359;20404059;23237;44498;3405577;32919758;4463189;183525;3733255;14229618;40710796;24662193;37283728;332456;217487;338666;24700316;1988499;601694;1231558;367843;11641871;124485,http://en.wikipedia.org/wiki/China,China,china,china,GPE
+China,9041110,9,11,,http://en.wikipedia.org/wiki/China_Club,China Club,china-club,china-club,UNK
+China,367843,339,506,5405;183525;217487;367843;33167689;23237,http://en.wikipedia.org/wiki/Religion_in_China,Religion in China,religion-in-china,religion-in-china,UNK
+China,36907282,1,7,,http://en.wikipedia.org/wiki/BBC_China,BBC China,bbc-china,bbc-china,UNK
+China,30809009,1,14,,http://en.wikipedia.org/wiki/China_(footballer_born_1964),China,china,china-footballer-born-1964,PER
+China,3676975,33,38,,http://en.wikipedia.org/wiki/China_Kantner,China Kantner,china-kantner,china-kantner,PER
+China,32215636,132,153,,"http://en.wikipedia.org/wiki/China,_IL","China, IL",china-il,china-il,UNK
+China,11641871,21,20,5405,http://en.wikipedia.org/wiki/China_Team,China Team,china-team,china-team,ORG
+China,6108359,52,54,5405,http://en.wikipedia.org/wiki/China_(Epcot),China,china,china-epcot,UNK
+China,332456,4,14,5405,http://en.wikipedia.org/wiki/China_Hotel,China Hotel,china-hotel,china-hotel,UNK
+China,217487,320,734,217487;33167689;18603746;5405;183525;367843;44498;23237,http://en.wikipedia.org/wiki/Human_rights_in_China,Human rights in China,human-rights-in-china,human-rights-in-china,ORG
+China,689521,269,153,,http://en.wikipedia.org/wiki/China_Beach,China Beach,china-beach,china-beach,UNK
+China,5865836,201,77,,http://en.wikipedia.org/wiki/Chin,Chin,chin,chin,UNK
+China,2259195,63,130,18603746;5405,http://en.wikipedia.org/wiki/Recognition_of_same-sex_unions_in_China,Recognition of same-sex unions in China,recognition-of-same-sex-unions-in-china,recognition-of-same-sex-unions-in-china,GPE
+China,33167689,655,414,217487;18603746;5405;183525;304460;367843;184224;23237,http://en.wikipedia.org/wiki/Republic_of_China_(1912–49),Republic of China,republic-of-china,republic-of-china-1912–49,GPE
+China,29668485,209,261,,http://en.wikipedia.org/wiki/China_(The_Office),China,china,china-the-office,UNK
+China,184224,201,253,18603746;33167689;183525;124485,http://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China,Flag of the Republic of China,flag-of-the-republic-of-china,flag-of-the-republic-of-china,UNK
+China,1231558,12,53,5405,http://en.wikipedia.org/wiki/China_Poblana,China Poblana,china-poblana,china-poblana,UNK
+China,1002769,48,20,,http://en.wikipedia.org/wiki/China_Records,China Records,china-records,china-records,UNK
+China,20500198,0,22,,http://en.wikipedia.org/wiki/China_(footballer_born_1980),China,china,china-footballer-born-1980,PER
+China,40710796,6,16,5405,http://en.wikipedia.org/wiki/China_Association,China Association,china-association,china-association,ORG
+China,23237,408,328,18603746;5405;917647;183525;217487;367843;601694;33167689,http://en.wikipedia.org/wiki/Geography_of_China,Geography of China,geography-of-china,geography-of-china,UNK
+China,6421885,57,48,,"http://en.wikipedia.org/wiki/China,_Nuevo_León","China, Nuevo León",china-nuevo-leon,china-nuevo-leon,GPE
+China,29031717,42,83,5405,http://en.wikipedia.org/wiki/China_(Superleague_Formula_team),China,china,china-superleague-formula-team,UNK
+China,33089020,4,14,,http://en.wikipedia.org/wiki/On_China,On China,on-china,on-china,UNK
+China,3733255,99,95,5405,http://en.wikipedia.org/wiki/China_Institute,China Institute,china-institute,china-institute,UNK
+China,124485,570,414,5405;184224;124485,http://en.wikipedia.org/wiki/China_Airlines,China Airlines,china-airlines,china-airlines,UNK
+China,32919758,2,19,5405,http://en.wikipedia.org/wiki/China_Information,China Information,china-information,china-information,ORG
+China,601694,143,45,5405;23237,http://en.wikipedia.org/wiki/Greater_China,Greater China,greater-china,greater-china,UNK
+China,21265151,4,9,,http://en.wikipedia.org/wiki/China_Beach_(Canada),China Beach,china-beach,china-beach-canada,UNK
+Guilin,304460,811,213,39727225;33167689;18603746;3405577;183525;15041295;1988499,http://en.wikipedia.org/wiki/Guilin,Guilin,guilin,guilin,GPE
+Guilin,39727225,8,212,304460,"http://en.wikipedia.org/wiki/Guilin,_Singapore","Guilin, Singapore",guilin-singapore,guilin-singapore,UNK
+Guilin,15041295,4,22,5405;304460,http://en.wikipedia.org/wiki/Little_Guilin,Little Guilin,little-guilin,little-guilin,UNK
+BEIJING,18603746,17387,1124,14229618;1988499;5405;2259195;1216759;26207532;44498;3405577;34423576;18603746;33167689;4463189;13371938;23237;217487;183525;304460;184224;917647,http://en.wikipedia.org/wiki/Beijing,Beijing,beijing,beijing,GPE
+BEIJING,917647,38,156,34423576;18603746;23237,http://en.wikipedia.org/wiki/Geography_of_Beijing,Geography of Beijing,geography-of-beijing,geography-of-beijing,UNK
+BEIJING,34423576,36,125,18603746;917647,http://en.wikipedia.org/wiki/Names_of_Beijing,Names of Beijing,names-of-beijing,names-of-beijing,ORG
+BEIJING,13371938,36,44,18603746,http://en.wikipedia.org/wiki/Beijing_(locomotive),Beijing,beijing,beijing-locomotive,UNK
+BEIJING,4463189,80,121,18603746;5405,http://en.wikipedia.org/wiki/Beijing_Ancient_Observatory,Beijing Ancient Observatory,beijing-ancient-observatory,beijing-ancient-observatory,UNK
+BEIJING,1216759,19,28,18603746,http://en.wikipedia.org/wiki/Beijing_Hotel,Beijing Hotel,beijing-hotel,beijing-hotel,UNK
+BEIJING,26207532,507,339,18603746;5405,http://en.wikipedia.org/wiki/Beijing_National_Stadium,Beijing National Stadium,beijing-national-stadium,beijing-national-stadium,UNK
+Guangxi,183525,2219,356,217487;33167689;18603746;5405;183525;304460;184224;37283728;3405577;367843;23237,http://en.wikipedia.org/wiki/Guangxi,Guangxi,guangxi,guangxi,UNK
+Guangxi,3405577,177,176,304460;18603746;5405;183525,http://en.wikipedia.org/wiki/Guangxi_University,Guangxi University,guangxi-university,guangxi-university,ORG
+Guangxi,37283728,1,8,5405;183525,http://en.wikipedia.org/wiki/Guangxi_Stadium,Guangxi Stadium,guangxi-stadium,guangxi-stadium,UNK
+Xinhua,263168,1153,110,5405;14229618;44498;1988499,http://en.wikipedia.org/wiki/Xinhua_News_Agency,Xinhua News Agency,xinhua-news-agency,xinhua-news-agency,UNK
+Xinhua,38511372,2,13,,"http://en.wikipedia.org/wiki/Xinhua,_Hegang","Xinhua, Hegang",xinhua-hegang,xinhua-hegang,UNK
+Xinhua,338666,173,146,5405,http://en.wikipedia.org/wiki/Xinhua_County,Xinhua County,xinhua-county,xinhua-county,GPE
+Xinhua,38538244,1,10,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Tianquan_County","Xinhua Township, Tianquan County",xinhua-township-tianquan-county,xinhua-township-tianquan-county,UNK
+Xinhua,38526873,1,13,,"http://en.wikipedia.org/wiki/Xinhua,_Wenshan","Xinhua, Wenshan",xinhua-wenshan,xinhua-wenshan,GPE
+Xinhua,38527375,2,12,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Heilongjiang","Xinhua Township, Heilongjiang",xinhua-township-heilongjiang,xinhua-township-heilongjiang,UNK
+Xinhua,38512072,1,11,,"http://en.wikipedia.org/wiki/Xinhua,_Xuanhan_County","Xinhua, Xuanhan County",xinhua-xuanhan-county,xinhua-xuanhan-county,UNK
+Xinhua,38527234,1,9,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Chongqing","Xinhua Township, Chongqing",xinhua-township-chongqing,xinhua-township-chongqing,UNK
+Xinhua,38527339,1,11,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Guizhou","Xinhua Township, Guizhou",xinhua-township-guizhou,xinhua-township-guizhou,UNK
+Xinhua,20404059,7,16,5405,http://en.wikipedia.org/wiki/Xinhua_Hospital,Xinhua Hospital,xinhua-hospital,xinhua-hospital,ORG
+Xinhua,38538767,1,10,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Tengchong_County","Xinhua Township, Tengchong County",xinhua-township-tengchong-county,xinhua-township-tengchong-county,GPE
+Xinhua,38538684,1,10,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Pingbian_County","Xinhua Township, Pingbian County",xinhua-township-pingbian-county,xinhua-township-pingbian-county,GPE
+Xinhua,38511983,3,13,,"http://en.wikipedia.org/wiki/Xinhua,_Tongyu_County","Xinhua, Tongyu County",xinhua-tongyu-county,xinhua-tongyu-county,UNK
+Xinhua,24700316,181,184,5405,"http://en.wikipedia.org/wiki/Xinhua_District,_Pingdingshan","Xinhua District, Pingdingshan",xinhua-district-pingdingshan,xinhua-district-pingdingshan,GPE
+Xinhua,38538850,1,11,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Yuanmou_County","Xinhua Township, Yuanmou County",xinhua-township-yuanmou-county,xinhua-township-yuanmou-county,GPE
+Xinhua,38511642,3,11,,"http://en.wikipedia.org/wiki/Xinhua,_Shennongjia","Xinhua, Shennongjia",xinhua-shennongjia,xinhua-shennongjia,UNK
+Xinhua,38511263,1,13,,"http://en.wikipedia.org/wiki/Xinhua,_Linze_County","Xinhua, Linze County",xinhua-linze-county,xinhua-linze-county,UNK
+Xinhua,24662193,200,203,5405;24690608,"http://en.wikipedia.org/wiki/Xinhua_District,_Shijiazhuang","Xinhua District, Shijiazhuang",xinhua-district-shijiazhuang,xinhua-district-shijiazhuang,GPE
+Xinhua,38537646,1,10,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Ningnan_County","Xinhua Township, Ningnan County",xinhua-township-ningnan-county,xinhua-township-ningnan-county,UNK
+Xinhua,38527302,1,12,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Gansu","Xinhua Township, Gansu",xinhua-township-gansu,xinhua-township-gansu,UNK
+Xinhua,38511774,1,12,,"http://en.wikipedia.org/wiki/Xinhua_Town,_Bayannur","Xinhua Town, Bayannur",xinhua-town-bayannur,xinhua-town-bayannur,UNK
+Xinhua,957763,46,59,,"http://en.wikipedia.org/wiki/Xinhua_District,_Tainan","Xinhua District, Tainan",xinhua-district-tainan,xinhua-district-tainan,UNK
+Xinhua,24690608,184,190,24662193,"http://en.wikipedia.org/wiki/Xinhua_District,_Cangzhou","Xinhua District, Cangzhou",xinhua-district-cangzhou,xinhua-district-cangzhou,GPE
+State Council,44498,0,182,217487;263168;18603746;5405;14229618;1988499,http://en.wikipedia.org/wiki/State_Council_of_the_People's_Republic_of_China,State Council of the People's Republic of China,state-council-of-the-peoples-republic-of-china,state-council-of-the-peoples-republic-of-china,ORG
+State Council,10408223,78,145,29214052,http://en.wikipedia.org/wiki/State_Council_(Russia),State Council,state-council,state-council-russia,UNK
+State Council,29214052,101,45,10408223,http://en.wikipedia.org/wiki/State_Council_of_the_Soviet_Union,State Council of the Soviet Union,state-council-of-the-soviet-union,state-council-of-the-soviet-union,UNK
+Civil Aviation Administration of China,1988499,518,427,263168;18603746;5405;14229618;304460;44498,http://en.wikipedia.org/wiki/Civil_Aviation_Administration_of_China,Civil Aviation Administration of China,civil-aviation-administration-of-china,civil-aviation-administration-of-china,ORG
+General Administration of Customs,14229618,294,221,263168;18603746;44498;5405;1988499,http://en.wikipedia.org/wiki/General_Administration_of_Customs,General Administration of Customs,general-administration-of-customs,general-administration-of-customs,ORG

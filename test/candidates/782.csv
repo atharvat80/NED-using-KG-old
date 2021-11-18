@@ -1,0 +1,22 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Cambodia,334751,9020,692,334751;51591;350579;350603;1493374;702431;23960727;6658821;12468951;5429;35804510;12219062;9422640;20953821;2178404;42818904;30495652;1591347,http://en.wikipedia.org/wiki/Cambodia,Cambodia,cambodia,cambodia,GPE
+Cambodia,5429,95,104,350579;42818904;334751;51591;350603,http://en.wikipedia.org/wiki/Geography_of_Cambodia,Geography of Cambodia,geography-of-cambodia,geography-of-cambodia,UNK
+Cambodia,42818904,23,82,51591;350579;334751;5429;350603,http://en.wikipedia.org/wiki/Kingdom_of_Cambodia_(1975–76),Kingdom of Cambodia,kingdom-of-cambodia,kingdom-of-cambodia-1975–76,GPE
+Cambodia,30495652,9,19,51591;334751,http://en.wikipedia.org/wiki/University_of_Cambodia,University of Cambodia,university-of-cambodia,university-of-cambodia,UNK
+Cambodia,23960727,0,15,334751,"http://en.wikipedia.org/wiki/Cambodia,_Pol_Pot,_and_the_United_States","Cambodia, Pol Pot, and the United States",cambodia-pol-pot-and-the-united-states,cambodia-pol-pot-and-the-united-states,UNK
+Cambodia,350603,40,181,350579;42818904;334751;5429;51591,http://en.wikipedia.org/wiki/Kingdom_of_Cambodia_(1953–70),Kingdom of Cambodia,kingdom-of-cambodia,kingdom-of-cambodia-1953–70,GPE
+Cambodia,2178404,109,307,334751;35804510,"http://en.wikipedia.org/wiki/Cambodia_Town,_Long_Beach,_California","Cambodia Town, Long Beach, California",cambodia-town-long-beach-california,cambodia-town-long-beach-california,UNK
+Cambodia,35804510,108,316,334751;35804510;2178404,http://en.wikipedia.org/wiki/Little_Cambodia,Little Cambodia,little-cambodia,little-cambodia,UNK
+Cambodia,1591347,22,35,51591;334751;702431,http://en.wikipedia.org/wiki/Cambodia_Airlines,Cambodia Airlines,cambodia-airlines,cambodia-airlines,ORG
+Cambodia,350579,103,122,42818904;334751;5429;350603,http://en.wikipedia.org/wiki/Modern_Cambodia,Modern Cambodia,modern-cambodia,modern-cambodia,UNK
+PHNOM PENH,51591,1616,317,334751;12468951;5429;350603;42818904;30495652;702431;20953821;1591347;6658821,http://en.wikipedia.org/wiki/Phnom_Penh,Phnom Penh,phnom-penh,phnom-penh,GPE
+PHNOM PENH,702431,105,82,334751;51591;9422640;1591347,http://en.wikipedia.org/wiki/Phnom_Penh_International_Airport,Phnom Penh International Airport,phnom-penh-international-airport,phnom-penh-international-airport,UNK
+PHNOM PENH,20953821,2,7,51591;334751,http://en.wikipedia.org/wiki/Phnom_Penh_Hotel,Phnom Penh Hotel,phnom-penh-hotel,phnom-penh-hotel,UNK
+MI-17,1493374,342,233,334751,http://en.wikipedia.org/wiki/Mil_Mi-17,Mil Mi-17,mil-mi-17,mil-mi-17,UNK
+Phnom Penh,51591,1616,317,334751;12468951;5429;350603;42818904;30495652;702431;20953821;1591347;6658821,http://en.wikipedia.org/wiki/Phnom_Penh,Phnom Penh,phnom-penh,phnom-penh,GPE
+Phnom Penh,702431,105,82,334751;51591;9422640;1591347,http://en.wikipedia.org/wiki/Phnom_Penh_International_Airport,Phnom Penh International Airport,phnom-penh-international-airport,phnom-penh-international-airport,UNK
+Phnom Penh,20953821,2,7,51591;334751,http://en.wikipedia.org/wiki/Phnom_Penh_Hotel,Phnom Penh Hotel,phnom-penh-hotel,phnom-penh-hotel,UNK
+Ieng Mouly,12219062,6,6,334751,http://en.wikipedia.org/wiki/Ieng_Mouly,Ieng Mouly,ieng-mouly,ieng-mouly,PER
+Stung Treng,6658821,47,24,51591;9422640;12468951;334751,http://en.wikipedia.org/wiki/Stung_Treng,Stung Treng,stung-treng,stung-treng,GPE
+Stung Treng,12468951,188,206,334751;51591;6658821,http://en.wikipedia.org/wiki/Stung_Treng_District,Stung Treng District,stung-treng-district,stung-treng-district,GPE
+Stung Treng,9422640,18,28,334751;702431;6658821,http://en.wikipedia.org/wiki/Stung_Treng_Airport,Stung Treng Airport,stung-treng-airport,stung-treng-airport,UNK

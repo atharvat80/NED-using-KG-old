@@ -1,0 +1,41 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+CZECH,5321,46127,800,5321;5322;12185856;6343;5347958;34891158;1810963;3861344;4036422;335703;23844;895511;1138124;896034;151873;34514507;4991040;8146110;4746509;729739;1650918;1650901;1650910;3752998;28992815;1004409;3310797;34472801;130329;34060099;861331;672020,http://en.wikipedia.org/wiki/Czech_Republic,Czech Republic,czech-republic,czech-republic,GPE
+CZECH,151873,2051,225,5321;5322;23844;6343,http://en.wikipedia.org/wiki/Czechs,Czechs,czechs,czechs,UNK
+CZECH,12185856,3,63,5321,http://en.wikipedia.org/wiki/Czech_International,Czech International,czech-international,czech-international,UNK
+CZECH,3861344,22,56,5321;5322,http://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog,Czechoslovakian Wolfdog,czechoslovakian-wolfdog,czechoslovakian-wolfdog,UNK
+CZECH,1810963,476,232,23844;6343;5321;5322,http://en.wikipedia.org/wiki/Czechoslovak_Socialist_Republic,Czechoslovak Socialist Republic,czechoslovak-socialist-republic,czechoslovak-socialist-republic,GPE
+CZECH,5322,17420,257,729739;1650918;1650901;5321;6343;3752998;1810963;3861344;335703;23844;151873;672020,http://en.wikipedia.org/wiki/Czechoslovakia,Czechoslovakia,czechoslovakia,czechoslovakia,GPE
+CZECH,18972507,48,57,,"http://en.wikipedia.org/wiki/Czech,_Łódź_Voivodeship","Czech, Łódź Voivodeship",czech-lodz-voivodeship,czech-lodz-voivodeship,GPE
+CZECH,3349006,107,103,6343;3349006,http://en.wikipedia.org/wiki/Czech_Wikipedia,Czech Wikipedia,czech-wikipedia,czech-wikipedia,UNK
+CZECH,335703,476,361,23844;6343;5321;5322,http://en.wikipedia.org/wiki/Czech_Airlines,Czech Airlines,czech-airlines,czech-airlines,ORG
+CZECH,6343,4508,375,335703;729739;861331;896034;3349006;1810963;151873;672020;5321;5322;23844;124190;6343;1003832,http://en.wikipedia.org/wiki/Czech_language,Czech language,czech-language,czech-language,UNK
+PRAGUE,23844,14890,706,729739;1650901;1650910;5321;5322;6343;3752998;28992815;1810963;1004409;1003832;335703;852005;23844;130329;34060099;1138124;861331;896034;151873;672020;34514507;124190,http://en.wikipedia.org/wiki/Prague,Prague,prague,prague,UNK
+PRAGUE,672020,259,77,23844;6343;5321;5322,http://en.wikipedia.org/wiki/Prague_Castle,Prague Castle,prague-castle,prague-castle,UNK
+PRAGUE,34514507,3,27,23844;5321,http://en.wikipedia.org/wiki/Prague_College,Prague College,prague-college,prague-college,ORG
+PRAGUE,31123051,7,11,,http://en.wikipedia.org/wiki/Prague_(band),Prague,prague,prague-band,UNK
+PRAGUE,1003832,14,49,23844;1003832;6343,http://en.wikipedia.org/wiki/Prague_school,Prague school,prague-school,prague-school,UNK
+PRAGUE,12558198,98,114,,http://en.wikipedia.org/wiki/Prague_Hotel,Prague Hotel,prague-hotel,prague-hotel,UNK
+PRAGUE,852005,11,5,23844,http://en.wikipedia.org/wiki/University_of_Prague,University of Prague,university-of-prague,university-of-prague,ORG
+PRAGUE,124190,127,139,23844;6343,"http://en.wikipedia.org/wiki/Prague,_Nebraska","Prague, Nebraska",prague-nebraska,prague-nebraska,GPE
+PRAGUE,130329,145,143,23844;5321,"http://en.wikipedia.org/wiki/Prague,_Oklahoma","Prague, Oklahoma",prague-oklahoma,prague-oklahoma,GPE
+Czech Republic,5321,46127,800,5321;5322;12185856;6343;5347958;34891158;1810963;3861344;4036422;335703;23844;895511;1138124;896034;151873;34514507;4991040;8146110;4746509;729739;1650918;1650901;1650910;3752998;28992815;1004409;3310797;34472801;130329;34060099;861331;672020,http://en.wikipedia.org/wiki/Czech_Republic,Czech Republic,czech-republic,czech-republic,GPE
+Czech Republic,729739,1240,491,1650901;23844;6343;861331;896034;5321;5322;4991040;729739;4036422,http://en.wikipedia.org/wiki/Czech_Republic_national_football_team,Czech Republic national football team,czech-republic-national-football-team,czech-republic-national-football-team,ORG
+Petra Drnovice,1650918,158,86,1004409;4991040;1650901;895511;1650910;3752998;861331;8146110;896034;3310797;5347958;1138124;5321;5322;4746509;4036422,http://en.wikipedia.org/wiki/FK_Drnovice,FK Drnovice,fk-drnovice,fk-drnovice,UNK
+Slovan Liberec,1650901,645,394,1650918;1004409;1650910;23844;861331;3752998;896034;5347958;5321;5322;4991040;729739;3310797;4036422;895511;8146110;1138124;4746509,http://en.wikipedia.org/wiki/FC_Slovan_Liberec,FC Slovan Liberec,fc-slovan-liberec,fc-slovan-liberec,UNK
+SK Slavia Praha,896034,500,194,1650918;1004409;1650901;1650910;23844;861331;3752998;34060099;896034;6343;5347958;5321;4991040;729739;3310797;4036422;895511;8146110;1138124;4746509,http://en.wikipedia.org/wiki/SK_Slavia_Prague,SK Slavia Prague,sk-slavia-prague,sk-slavia-prague,UNK
+SK Slavia Praha,34060099,49,43,28992815;5321;34891158;23844;896034,http://en.wikipedia.org/wiki/SK_Slavia_Praha_(women),SK Slavia Praha,sk-slavia-praha,sk-slavia-praha-women,UNK
+SK Ceske Budejovice,4746509,263,136,1650918;1004409;4991040;1650901;1650910;861331;3310797;4036422;895511;3752998;8146110;896034;5347958;1138124;5321,http://en.wikipedia.org/wiki/SK_Dynamo_České_Budějovice,SK Dynamo České Budějovice,sk-dynamo-ceske-budejovice,sk-dynamo-ceske-budejovice,ORG
+FK Jablonec,4991040,476,318,1650918;1004409;1650901;1650910;861331;3752998;896034;5347958;5321;729739;3310797;4036422;895511;8146110;1138124;4746509,http://en.wikipedia.org/wiki/FK_Baumit_Jablonec,FK Baumit Jablonec,fk-baumit-jablonec,fk-baumit-jablonec,UNK
+Viktoria Zizkov,3752998,357,183,1650918;1004409;1650901;1650910;23844;861331;896034;5347958;5321;5322;4991040;3310797;4036422;895511;8146110;1138124;4746509,http://en.wikipedia.org/wiki/FK_Viktoria_Žižkov,FK Viktoria Žižkov,fk-viktoria-zizkov,fk-viktoria-zizkov,ORG
+Banik Ostrava,1138124,504,168,1650918;1004409;1650901;34891158;1650910;23844;861331;3752998;896034;5347958;5321;4991040;3310797;4036422;895511;8146110;4746509,http://en.wikipedia.org/wiki/FC_Baník_Ostrava,FC Baník Ostrava,fc-banik-ostrava,fc-banik-ostrava,UNK
+Banik Ostrava,34891158,11,21,28992815;34060099;1138124;5321,http://en.wikipedia.org/wiki/FC_Baník_Ostrava_(women),FC Baník Ostrava,fc-banik-ostrava,fc-banik-ostrava-women,UNK
+FK Teplice,1650910,387,150,1650918;1004409;1650901;23844;861331;3752998;896034;5347958;5321;4991040;3310797;4036422;895511;8146110;1138124;4746509,http://en.wikipedia.org/wiki/FK_Teplice,FK Teplice,fk-teplice,fk-teplice,UNK
+Boby Brno,3310797,253,179,1650918;1004409;4991040;1650901;1650910;861331;4036422;895511;3752998;8146110;896034;5347958;1138124;5321;4746509,http://en.wikipedia.org/wiki/FC_Zbrojovka_Brno,FC Zbrojovka Brno,fc-zbrojovka-brno,fc-zbrojovka-brno,ORG
+Sigma Olomouc,895511,397,118,1650918;1004409;1650901;1650910;861331;3752998;896034;5347958;5321;4991040;3310797;4036422;8146110;1138124;4746509,http://en.wikipedia.org/wiki/SK_Sigma_Olomouc,SK Sigma Olomouc,sk-sigma-olomouc,sk-sigma-olomouc,ORG
+FC Bohemians,1004409,439,138,1650918;1650901;1650910;23844;861331;3752998;896034;5347958;5321;4991040;3310797;4036422;895511;8146110;1138124;4746509,http://en.wikipedia.org/wiki/Bohemians_1905,Bohemians 1905,bohemians-1905,bohemians-1905,UNK
+SK Hradec Kralove,5347958,277,148,1650918;1004409;4991040;1650901;1650910;861331;3310797;4036422;895511;3752998;8146110;896034;1138124;5321;4746509,http://en.wikipedia.org/wiki/FC_Hradec_Králové,FC Hradec Králové,fc-hradec-kralove,fc-hradec-kralove,UNK
+Kaucuk Opava,8146110,208,104,1650918;1004409;4991040;1650901;1650910;861331;3310797;4036422;895511;3752998;896034;5347958;1138124;5321;4746509,http://en.wikipedia.org/wiki/SFC_Opava,SFC Opava,sfc-opava,sfc-opava,ORG
+Viktoria Plzen,4036422,776,417,1650918;1004409;1650901;1650910;3752998;3310797;895511;1138124;861331;896034;5347958;5321;4991040;729739;4036422;8146110;4746509,http://en.wikipedia.org/wiki/FC_Viktoria_Plzeň,FC Viktoria Plzeň,fc-viktoria-plzen,fc-viktoria-plzen,UNK
+AC Sparta Praha,861331,1062,444,1650918;1004409;1650901;1650910;23844;3752998;6343;3310797;895511;1138124;861331;896034;28992815;5347958;5321;34472801;4991040;729739;4036422;8146110;4746509,http://en.wikipedia.org/wiki/AC_Sparta_Prague,AC Sparta Prague,ac-sparta-prague,ac-sparta-prague,UNK
+AC Sparta Praha,28992815,92,106,34891158;34060099;23844;861331;5321;34472801,http://en.wikipedia.org/wiki/AC_Sparta_Praha_(women),AC Sparta Praha,ac-sparta-praha,ac-sparta-praha-women,UNK
+AC Sparta Praha,34472801,13,19,28992815;861331;5321,http://en.wikipedia.org/wiki/AC_Sparta_Praha_(cycling_team),AC Sparta Praha,ac-sparta-praha,ac-sparta-praha-cycling-team,ORG

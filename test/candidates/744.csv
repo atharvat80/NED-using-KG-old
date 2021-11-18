@@ -1,0 +1,40 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Swiss,26748,62648,1091,842695;144626;1120468;22757515;162873;26748;314803;313833;681862;427067;59568;555344;5280601;96065;245620;7351032;361362;253102;40334603;6369019,http://en.wikipedia.org/wiki/Switzerland,Switzerland,switzerland,switzerland,GPE
+Swiss,144626,271,205,26748;427067;144626,http://en.wikipedia.org/wiki/Swiss_Guard,Swiss Guard,swiss-guard,swiss-guard,ORG
+Swiss,15463860,8,5,,"http://en.wikipedia.org/wiki/Swiss,_North_Carolina","Swiss, North Carolina",swiss-north-carolina,swiss-north-carolina,UNK
+Swiss,27003,118,44,,http://en.wikipedia.org/wiki/Swiss_cheese,Swiss cheese,swiss-cheese,swiss-cheese,UNK
+Swiss,8475710,16,25,,http://en.wikipedia.org/wiki/Swiss_Movement,Swiss Movement,swiss-movement,swiss-movement,UNK
+Swiss,427067,135,76,26748;7351032;144626,http://en.wikipedia.org/wiki/Swiss_mercenaries,Swiss mercenaries,swiss-mercenaries,swiss-mercenaries,UNK
+Swiss,313833,297,293,26748,http://en.wikipedia.org/wiki/Swiss_Army_knife,Swiss Army knife,swiss-army-knife,swiss-army-knife,UNK
+Swiss,14353790,113,114,,http://en.wikipedia.org/wiki/Swiss_Tower,Swiss Tower,swiss-tower,swiss-tower,UNK
+Swiss,15471841,1,5,,"http://en.wikipedia.org/wiki/Swiss,_Missouri","Swiss, Missouri",swiss-missouri,swiss-missouri,GPE
+Swiss,15463848,51,65,,"http://en.wikipedia.org/wiki/Swiss,_West_Virginia","Swiss, West Virginia",swiss-west-virginia,swiss-west-virginia,GPE
+Swiss,138776,48,71,,"http://en.wikipedia.org/wiki/Swiss,_Wisconsin","Swiss, Wisconsin",swiss-wisconsin,swiss-wisconsin,GPE
+Swiss,7351032,640,284,361362;427067;1120468;26748,http://en.wikipedia.org/wiki/Swiss_people,Swiss people,swiss-people,swiss-people,UNK
+Swiss,162873,483,358,361362;26748;253102;842695;245620,http://en.wikipedia.org/wiki/Swiss_International_Air_Lines,Swiss International Air Lines,swiss-international-air-lines,swiss-international-air-lines,ORG
+Swiss,361362,852,263,40334603;1120468;245620;26748;842695;162873;7351032,http://en.wikipedia.org/wiki/Swiss_franc,Swiss franc,swiss-franc,swiss-franc,UNK
+ZURICH,40334603,3186,481,245620;253102;59568;26748;555344;842695;361362;22757515;6369019,http://en.wikipedia.org/wiki/Zürich,Zürich,zurich,zurich,UNK
+ZURICH,111473,169,396,59568,"http://en.wikipedia.org/wiki/Lake_Zurich,_Illinois","Lake Zurich, Illinois",lake-zurich-illinois,lake-zurich-illinois,UNK
+ZURICH,443296,18,12,,"http://en.wikipedia.org/wiki/Zurich,_Ontario","Zurich, Ontario",zurich-ontario,zurich-ontario,GPE
+ZURICH,245620,631,191,40334603;361362;26748;22757515;253102;162873;59568,http://en.wikipedia.org/wiki/Canton_of_Zürich,Canton of Zürich,canton-of-zurich,canton-of-zurich,GPE
+ZURICH,38000745,16,26,,"http://en.wikipedia.org/wiki/Zurich,_Montana","Zurich, Montana",zurich-montana,zurich-montana,UNK
+ZURICH,5280601,147,30,26748,http://en.wikipedia.org/wiki/Zurich_Opera,Zurich Opera,zurich-opera,zurich-opera,ORG
+ZURICH,114889,13,218,,"http://en.wikipedia.org/wiki/Zurich,_Kansas","Zurich, Kansas",zurich-kansas,zurich-kansas,GPE
+ZURICH,253102,444,299,40334603;26748;162873;245620,http://en.wikipedia.org/wiki/Zurich_Airport,Zurich Airport,zurich-airport,zurich-airport,UNK
+ZURICH,555344,1070,523,40334603;681862;26748,http://en.wikipedia.org/wiki/FC_Zürich,FC Zürich,fc-zurich,fc-zurich,UNK
+ZURICH,59568,219,107,26748;40334603;22757515;111473;245620;59568,http://en.wikipedia.org/wiki/Lake_Zurich,Lake Zurich,lake-zurich,lake-zurich,UNK
+ZURICH,22757515,66,98,26748;245620;40334603;59568,http://en.wikipedia.org/wiki/Zürich_District,Zürich District,zurich-district,zurich-district,GPE
+ZURICH,21033168,4,80,21033168,"http://en.wikipedia.org/wiki/Zurich,_Friesland","Zurich, Friesland",zurich-friesland,zurich-friesland,GPE
+ZURICH,6369019,3,11,40334603;26748,http://en.wikipedia.org/wiki/Zürich_model,Zürich model,zurich-model,zurich-model,ORG
+ZURICH,314803,706,130,26748,http://en.wikipedia.org/wiki/University_of_Zurich,University of Zurich,university-of-zurich,university-of-zurich,ORG
+ZURICH,22868037,133,140,,"http://en.wikipedia.org/wiki/Zurich,_California","Zurich, California",zurich-california,zurich-california,GPE
+Credit Suisse,842695,746,180,40334603;361362;26748;162873,http://en.wikipedia.org/wiki/Credit_Suisse,Credit Suisse,credit-suisse,credit-suisse,UNK
+Switzerland,26748,62648,1091,842695;144626;1120468;22757515;162873;26748;314803;313833;681862;427067;59568;555344;5280601;96065;245620;7351032;361362;253102;40334603;6369019,http://en.wikipedia.org/wiki/Switzerland,Switzerland,switzerland,switzerland,GPE
+Switzerland,1841220,35,44,,http://en.wikipedia.org/wiki/Gun_politics_in_Switzerland,Gun politics in Switzerland,gun-politics-in-switzerland,gun-politics-in-switzerland,ORG
+Switzerland,15578904,19,27,,"http://en.wikipedia.org/wiki/Switzerland,_South_Carolina","Switzerland, South Carolina",switzerland-south-carolina,switzerland-south-carolina,GPE
+Switzerland,681862,2053,388,26748;555344,http://en.wikipedia.org/wiki/Switzerland_national_football_team,Switzerland national football team,switzerland-national-football-team,switzerland-national-football-team,UNK
+Switzerland,18695033,4,15,,http://en.wikipedia.org/wiki/Switzerland_(software),Switzerland,switzerland,switzerland-software,UNK
+Switzerland,1120468,261,279,26748;361362;7351032,http://en.wikipedia.org/wiki/Switzerland_during_the_World_Wars,Switzerland during the World Wars,switzerland-during-the-world-wars,switzerland-during-the-world-wars,UNK
+Switzerland,9294418,41,57,,"http://en.wikipedia.org/wiki/Switzerland_Township,_Monroe_County,_Ohio","Switzerland Township, Monroe County, Ohio",switzerland-township-monroe-county-ohio,switzerland-township-monroe-county-ohio,GPE
+Switzerland,5788337,29,40,,"http://en.wikipedia.org/wiki/Switzerland,_Florida","Switzerland, Florida",switzerland-florida,switzerland-florida,GPE
+Switzerland,96065,357,261,26748;96065,"http://en.wikipedia.org/wiki/Switzerland_County,_Indiana","Switzerland County, Indiana",switzerland-county-indiana,switzerland-county-indiana,GPE

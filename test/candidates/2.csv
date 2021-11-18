@@ -1,0 +1,274 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Hendrix,16095,3326,549,6374464;37398884;16095;41490541;9642649,http://en.wikipedia.org/wiki/Jimi_Hendrix,Jimi Hendrix,jimi-hendrix,jimi-hendrix,UNK
+Hendrix,9642649,146,181,6374464;16095,http://en.wikipedia.org/wiki/Soundtrack_Recordings_from_the_Film_Jimi_Hendrix,Soundtrack Recordings from the Film Jimi Hendrix,soundtrack-recordings-from-the-film-jimi-hendrix,soundtrack-recordings-from-the-film-jimi-hendrix,UNK
+Hendrix,41490541,53,115,16095,http://en.wikipedia.org/wiki/Jimi_Hendrix_Park,Jimi Hendrix Park,jimi-hendrix-park,jimi-hendrix-park,UNK
+Hendrix,6374464,147,204,326248;16095;9642649,http://en.wikipedia.org/wiki/Jimi_Hendrix_discography,Jimi Hendrix discography,jimi-hendrix-discography,jimi-hendrix-discography,UNK
+LONDON,17867,92094,1769,1897;4179;33567266;27902154;423106;9316;12249;1679120;823473;17867;13190957;1290035;4771063;187448;3879356;2023355;911650;3434750;26547793;4689264;22437586;1982864;98370;238524;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,1113158,173,161,2193334;9316;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,118409,547,127,17867;12249;9316,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,823473,354,150,187448;17867;508567;9316,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,2023355,27,32,17867;3434750;98370;9316,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,32520400,182,200,3434750,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,187448,1900,216,823473;17867;508567;640154,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,7984054,3,37,,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,13190957,2,122,17867,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,2193334,214,159,9316;1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,326248,1048,124,6374464;3434750,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,1679120,12,181,17867;98370;12249,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,40493,18,33,3434750,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,19068853,184,199,3434750,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,12249,3253,543,2193334;17867;3434750;9316;640154;118409;1113158;1679120;98370;4689264;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,238524,118,60,17867;9316,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+U.S.,3434750,529967,1252,1897;1890;3079;4179;9316;12249;14996;17867;40493;18933066;20025340;70551;109564;18974570;116682;129421;126930;126650;124915;122926;134073;157294;19068853;28994013;28994929;2181857;4689264;238192;233474;9289385;326248;310841;27260919;328159;10328578;15274776;458284;435793;436898;3434750;514816;3868301;21987263;3838846;1626272;654432;605077;41538546;7122809;18411363;25086027;8569916;4732785;32520400;18803164;18723148;4907971;2023355;13833075;27695737,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S.,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S.,16304842,112,175,8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S.,233474,102,93,3434750,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S.,902392,245,190,22398962;436898;18933066;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S.,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;70780;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S.,429750,276,240,887108;441501;79717;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S.,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S.,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;18933066;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S.,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;18933066;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S.,21559355,95,143,,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S.,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S.,444113,128,143,,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S.,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S.,605077,301,341,3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S.,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S.,889284,455,321,889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S.,79717,694,442,889461;435793;887108;9180009;441501;889284;429750;3868301;888778;447879;436898;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+U.S.,10328578,210,402,435793;10328648;10328590;18933066;3434750;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S.,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S.,238192,394,239,889461;888778;435793;447879;436898;10328648;18933066;3434750;10328620;75235;10328575;887108;441501;79717;428913;2181857;70780;903385;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S.,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S.,6737193,115,173,887108;18933066,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S.,447879,394,337,16304842;889461;903062;888778;435793;436898;18933066;75235;10328575;887108;9180009;441501;79717;428913;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S.,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S.,435793,251,290,889461;498188;888778;447879;436898;10328578;18933066;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S.,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S.,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;18933066;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S.,10328590,233,357,10328648;10328578;18933066;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S.,903062,82,123,10328575;903385;887108;447879;10328648;428913;18933066,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S.,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;18933066;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S.,889461,178,203,887108;441501;79717;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S.,903385,68,230,903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S.,2440624,133,162,70780;3868301,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S.,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S.,70780,396,232,889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S.,3868301,350,531,3434750;2440624;79717;70780,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S.,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;887108;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S.,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S.,6310196,592,545,435793;10328648;10328590;10328578;18933066;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+U.S.,436898,769,483,889461;435793;887108;441501;889284;429750;902392;888778;447879;3434750;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S.,10328648,378,412,903062;10328590;10328578;18933066;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S.,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+Jimi Hendrix,16095,3326,549,6374464;37398884;16095;41490541;9642649,http://en.wikipedia.org/wiki/Jimi_Hendrix,Jimi Hendrix,jimi-hendrix,jimi-hendrix,UNK
+Jimi Hendrix,9642649,146,181,6374464;16095,http://en.wikipedia.org/wiki/Soundtrack_Recordings_from_the_Film_Jimi_Hendrix,Soundtrack Recordings from the Film Jimi Hendrix,soundtrack-recordings-from-the-film-jimi-hendrix,soundtrack-recordings-from-the-film-jimi-hendrix,UNK
+Jimi Hendrix,41490541,53,115,16095,http://en.wikipedia.org/wiki/Jimi_Hendrix_Park,Jimi Hendrix Park,jimi-hendrix-park,jimi-hendrix-park,UNK
+Jimi Hendrix,6374464,147,204,326248;16095;9642649,http://en.wikipedia.org/wiki/Jimi_Hendrix_discography,Jimi Hendrix discography,jimi-hendrix-discography,jimi-hendrix-discography,UNK
+Florida,3056453,32,30,,http://en.wikipedia.org/wiki/Florida_Province,Florida Province,florida-province,florida-province,UNK
+Florida,10707182,66,68,,"http://en.wikipedia.org/wiki/La_Florida,_Nariño","La Florida, Nariño",la-florida-narino,la-florida-narino,UNK
+Florida,28190991,73,80,18933066,http://en.wikipedia.org/wiki/French_Florida,French Florida,french-florida,french-florida,GPE
+Florida,10719816,57,49,,"http://en.wikipedia.org/wiki/Florida,_Valle_del_Cauca","Florida, Valle del Cauca",florida-valle-del-cauca,florida-valle-del-cauca,GPE
+Florida,116682,72,121,3434750,"http://en.wikipedia.org/wiki/Florida,_Massachusetts","Florida, Massachusetts",florida-massachusetts,florida-massachusetts,GPE
+Florida,37977909,147,165,,http://en.wikipedia.org/wiki/Florida_(30_Rock),Florida,florida,florida-30-rock,UNK
+Florida,2227875,65,26,,"http://en.wikipedia.org/wiki/Florida,_Uruguay","Florida, Uruguay",florida-uruguay,florida-uruguay,GPE
+Florida,1180233,4,4,1180233;18933066,"http://en.wikipedia.org/wiki/Florida,_Georgia_and_Western_Railway","Florida, Georgia and Western Railway",florida-georgia-and-western-railway,florida-georgia-and-western-railway,UNK
+Florida,2181857,118,225,238192;18933066;3434750,http://en.wikipedia.org/wiki/Florida_State_Capitol,Florida State Capitol,florida-state-capitol,florida-state-capitol,UNK
+Florida,675044,36,57,189818;18933066,http://en.wikipedia.org/wiki/USS_Florida_(SSGN-728),USS Florida,uss-florida,uss-florida-ssgn-728,UNK
+Florida,70551,2153,512,70551;3434750;18933066,http://en.wikipedia.org/wiki/Florida_Panthers,Florida Panthers,florida-panthers,florida-panthers,UNK
+Florida,27207101,2,7,27207101,"http://en.wikipedia.org/wiki/La_Florida,_San_Luis","La Florida, San Luis",la-florida-san-luis,la-florida-san-luis,GPE
+Florida,15274776,50,62,3434750,"http://en.wikipedia.org/wiki/Florida,_Indiana","Florida, Indiana",florida-indiana,florida-indiana,GPE
+Florida,5871383,192,158,,"http://en.wikipedia.org/wiki/Florida,_Buenos_Aires","Florida, Buenos Aires",florida-buenos-aires,florida-buenos-aires,GPE
+Florida,28371733,66,88,28371733,"http://en.wikipedia.org/wiki/Florida,_Chile","Florida, Chile",florida-chile,florida-chile,GPE
+Florida,28682585,4,14,,http://en.wikipedia.org/wiki/Florida_Taj_Mahal_scandal,Florida Taj Mahal scandal,florida-taj-mahal-scandal,florida-taj-mahal-scandal,UNK
+Florida,141348,5,2,126650;126930,"http://en.wikipedia.org/wiki/Florida,_New_York","Florida, New York",florida-new-york,florida-new-york,UNK
+Florida,8156646,56,63,,http://en.wikipedia.org/wiki/Florida_(Petipa/Pugni),Florida,florida,florida-petipa-pugni,UNK
+Florida,250947,142,124,,http://en.wikipedia.org/wiki/Florida_election_recount,Florida election recount,florida-election-recount,florida-election-recount,ORG
+Florida,6921868,86,103,,"http://en.wikipedia.org/wiki/Florida_District,_Peru","Florida District, Peru",florida-district-peru,florida-district-peru,UNK
+Florida,674738,3,24,189818;18933066,http://en.wikipedia.org/wiki/USS_Florida_(1850),USS Florida,uss-florida,uss-florida-1850,UNK
+Florida,4445423,24,23,,"http://en.wikipedia.org/wiki/Florida,_Cuba","Florida, Cuba",florida-cuba,florida-cuba,GPE
+Florida,10822892,6,11,,http://en.wikipedia.org/wiki/Florida_Suite,Florida Suite,florida-suite,florida-suite,UNK
+Florida,20962070,5,23,18933066,http://en.wikipedia.org/wiki/Florida_(Where_the_Sawgrass_Meets_the_Sky),Florida,florida,florida-where-the-sawgrass-meets-the-sky,UNK
+Florida,189820,66,87,674935;189818,http://en.wikipedia.org/wiki/USS_Florida_(BB-30),USS Florida,uss-florida,uss-florida-bb-30,UNK
+Florida,2342582,25,33,,"http://en.wikipedia.org/wiki/Florida,_Copán","Florida, Copán",florida-copan,florida-copan,GPE
+Florida,109564,131,233,18933066;3434750,"http://en.wikipedia.org/wiki/Windermere,_Florida","Windermere, Florida",windermere-florida,windermere-florida,GPE
+Florida,674935,15,36,189818;189820,http://en.wikipedia.org/wiki/USS_Florida_(BM-9),USS Florida,uss-florida,uss-florida-bm-9,UNK
+Florida,654432,174,155,654432;3434750,"http://en.wikipedia.org/wiki/Florida,_Puerto_Rico","Florida, Puerto Rico",florida-puerto-rico,florida-puerto-rico,UNK
+Florida,25553569,323,387,,"http://en.wikipedia.org/wiki/Flórida,_Paraná","Flórida, Paraná",florida-parana,florida-parana,GPE
+Florida,122926,24,52,3434750,"http://en.wikipedia.org/wiki/Florida,_Missouri","Florida, Missouri",florida-missouri,florida-missouri,GPE
+Florida,18933066,34312,1143,70551;903062;902392;1890;1180233;2181857;75235;3434750;887108;20962070;6737193;10328648;10328590;10328578;10328620;10328575;6310196;28190991;238192;109564;447879;18933066;435793;189818;8569916;126650;674738;4157702;675044,http://en.wikipedia.org/wiki/Florida,Florida,florida,florida,GPE
+Florida,129421,35,49,3434750,"http://en.wikipedia.org/wiki/Florida,_Ohio","Florida, Ohio",florida-ohio,florida-ohio,GPE
+Florida,2049562,122,87,,"http://en.wikipedia.org/wiki/La_Florida,_Chile","La Florida, Chile",la-florida-chile,la-florida-chile,GPE
+Florida,31198229,1,12,,http://en.wikipedia.org/wiki/La_Florida_(park),La Florida,la-florida,la-florida-park,UNK
+Florida,189818,12,18,674935;189820;18933066;674738;675044,http://en.wikipedia.org/wiki/USS_Florida,USS Florida,uss-florida,uss-florida,UNK
+Florida,126930,125,131,126650;141348;3434750,"http://en.wikipedia.org/wiki/Florida,_Orange_County,_New_York","Florida, Orange County, New York",florida-orange-county-new-york,florida-orange-county-new-york,GPE
+Florida,31919663,10,18,,"http://en.wikipedia.org/wiki/Florida,_Atlantic_and_Gulf_Central_Railroad","Florida, Atlantic and Gulf Central Railroad",florida-atlantic-and-gulf-central-railroad,florida-atlantic-and-gulf-central-railroad,UNK
+Florida,1691888,69,371,8569916,"http://en.wikipedia.org/wiki/Florida,_Gauteng","Florida, Gauteng",florida-gauteng,florida-gauteng,UNK
+Florida,126650,57,67,18933066;141348;3434750;126930,"http://en.wikipedia.org/wiki/Florida,_Montgomery_County,_New_York","Florida, Montgomery County, New York",florida-montgomery-county-new-york,florida-montgomery-county-new-york,GPE
+London,17867,92094,1769,1897;4179;33567266;27902154;423106;9316;12249;1679120;823473;17867;13190957;1290035;4771063;187448;3879356;2023355;911650;3434750;26547793;4689264;22437586;1982864;98370;238524;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+London,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+London,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+London,1113158,173,161,2193334;9316;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+London,118409,547,127,17867;12249;9316,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+London,823473,354,150,187448;17867;508567;9316,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+London,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+London,2023355,27,32,17867;3434750;98370;9316,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+London,32520400,182,200,3434750,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+London,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+London,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+London,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+London,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+London,187448,1900,216,823473;17867;508567;640154,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+London,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+London,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+London,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+London,7984054,3,37,,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+London,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+London,13190957,2,122,17867,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+London,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+London,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+London,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+London,2193334,214,159,9316;1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+London,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+London,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+London,326248,1048,124,6374464;3434750,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+London,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+London,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+London,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+London,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+London,1679120,12,181,17867;98370;12249,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+London,40493,18,33,3434750,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+London,19068853,184,199,3434750,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+London,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+London,12249,3253,543,2193334;17867;3434750;9316;640154;118409;1113158;1679120;98370;4689264;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+London,238524,118,60,17867;9316,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+London,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+English,9316,158848,1726,1897;1890;562171;4179;9316;12249;14996;25921578;823473;17867;22667;1940085;18831196;39470;20793534;19773161;18803164;37398884;1626272;118409;1113158;35364732;157294;2023355;2193334;3434750;4689264;1982864;238524;25086027;8569916,http://en.wikipedia.org/wiki/England,England,england,england,GPE
+English,8569916,71129,716,1897;1890;4179;9316;14996;22667;1691888;1151508;3265305;48771;18933066;4157702;18803164;3434750;333371;328159;1626272;1867839;4689264;18974570;8569916,http://en.wikipedia.org/wiki/English_language,English language,english-language,english-language,UNK
+English,1151508,6,33,8569916,http://en.wikipedia.org/wiki/English_village,English village,english-village,english-village,UNK
+English,4771063,4,16,17867,http://en.wikipedia.org/wiki/American/English,American/English,american-english,american-english,UNK
+English,8318332,11,61,,http://en.wikipedia.org/wiki/English_Party,English Party,english-party,english-party,UNK
+English,4907971,6,64,3434750,"http://en.wikipedia.org/wiki/English,_Fitz_or_Percy_(Prison_Break)","English, Fitz or Percy",english-fitz-or-percy,english-fitz-or-percy-prison-break,UNK
+English,48771,2,14,8569916;48771,http://en.wikipedia.org/wiki/English_(programming_language),English,english,english-programming-language,UNK
+English,937317,41,28,2165164;940821,http://en.wikipedia.org/wiki/English_River_(Ontario),English River,english-river,english-river-ontario,UNK
+English,27260919,42,55,28994929;3434750,"http://en.wikipedia.org/wiki/English,_Brazoria_County,_Texas","English, Brazoria County, Texas",english-brazoria-county-texas,english-brazoria-county-texas,GPE
+English,940821,0,6,937317;2165164;458284,http://en.wikipedia.org/wiki/English_River,English River,english-river,english-river,UNK
+English,18974570,1178,130,14996;8569916;3434750;4689264,http://en.wikipedia.org/wiki/English_studies,English studies,english-studies,english-studies,UNK
+English,22651056,26,77,18803164,http://en.wikipedia.org/wiki/English_Neighborhood,English Neighborhood,english-neighborhood,english-neighborhood,UNK
+English,8459056,40,14,,http://en.wikipedia.org/wiki/English_Park,English Park,english-park,english-park,UNK
+English,3838846,116,129,3434750,"http://en.wikipedia.org/wiki/English,_West_Virginia","English, West Virginia",english-west-virginia,english-west-virginia,GPE
+English,2232489,363,128,292723;20014954,http://en.wikipedia.org/wiki/English_Bay_(Vancouver),English Bay,english-bay,english-bay-vancouver,UNK
+English,22046807,2,9,1982864,http://en.wikipedia.org/wiki/English_Bridge_(Saint_Petersburg),English Bridge,english-bridge,english-bridge-saint-petersburg,UNK
+English,1867839,4,5,8569916;4689264,http://en.wikipedia.org/wiki/English_Australia,English Australia,english-australia,english-australia,GPE
+English,39195958,144,152,,http://en.wikipedia.org/wiki/English_Park_(Yerevan),English Park,english-park,english-park-yerevan,UNK
+English,22083958,29,7,,http://en.wikipedia.org/wiki/English_Association,English Association,english-association,english-association,ORG
+English,21987263,18,23,3434750;21987263,http://en.wikipedia.org/wiki/English_Journal,English Journal,english-journal,english-journal,ORG
+English,4179,1639,331,17867;4179;8569916;3434750;9316;1897;1890;14996;328159;1626272;22667;4689264,http://en.wikipedia.org/wiki/British_English,British English,british-english,british-english,UNK
+English,2710111,69,117,,http://en.wikipedia.org/wiki/USS_English_(DD-696),USS English,uss-english,uss-english-dd-696,UNK
+English,3458300,4,11,,http://en.wikipedia.org/wiki/English_Island_(South_Australia),English Island,english-island,english-island-south-australia,UNK
+English,41538546,2,147,3434750,"http://en.wikipedia.org/wiki/English_Village_(Richmond,_Virginia)",English Village,english-village,english-village-richmond-virginia,UNK
+English,28994013,14,23,28994929;3434750,"http://en.wikipedia.org/wiki/English,_Red_River_County,_Texas","English, Red River County, Texas",english-red-river-county-texas,english-red-river-county-texas,GPE
+English,22667,3259,300,8569916;9316;18803164;4179;14996;328159;22667,http://en.wikipedia.org/wiki/Old_English,Old English,old-english,old-english,UNK
+English,458284,15,23,3434750;940821,http://en.wikipedia.org/wiki/English_River_(Iowa),English River,english-river,english-river-iowa,UNK
+English,18803164,14910,369,562171;21982148;22651056;9316;25921578;3434750;22667;8569916;124915;4689264,http://en.wikipedia.org/wiki/English_people,English people,english-people,english-people,UNK
+English,333371,14,38,8569916;1890,http://en.wikipedia.org/wiki/U.S._English_(organization),U.S. English,us-english,us-english-organization,ORG
+English,328159,181,197,1890;8569916;4179;22667;3434750,http://en.wikipedia.org/wiki/English_Wikipedia,English Wikipedia,english-wikipedia,english-wikipedia,UNK
+English,20014954,52,54,2232489,http://en.wikipedia.org/wiki/English_Bay_(neighbourhood),English Bay,english-bay,english-bay-neighbourhood,UNK
+English,28994929,0,4,28994013;3434750;27260919,"http://en.wikipedia.org/wiki/English,_Texas","English, Texas",english-texas,english-texas,UNK
+English,292723,0,4,2232489,http://en.wikipedia.org/wiki/English_Bay,English Bay,english-bay,english-bay,UNK
+English,562171,159,130,18803164;9316,http://en.wikipedia.org/wiki/English_Canada,English Canada,english-canada,english-canada,UNK
+English,147992,56,29,147992,"http://en.wikipedia.org/wiki/English_Island,_Isles_of_Scilly","English Island, Isles of Scilly",english-island-isles-of-scilly,english-island-isles-of-scilly,UNK
+English,36819322,5,19,,"http://en.wikipedia.org/wiki/English,_baby!","English, baby!",english-baby,english-baby,UNK
+English,4157702,42,102,8569916;18933066,http://en.wikipedia.org/wiki/English_District_(LCMS),English District,english-district,english-district-lcms,ORG
+English,14007675,9,9,,"http://en.wikipedia.org/wiki/English,_August","English, August",english-august,english-august,UNK
+English,20311445,2,2,,http://en.wikipedia.org/wiki/English_Station,English Station,english-station,english-station,UNK
+English,14996,36,205,9316;4689264;1897;1890;18974570;8569916;4179;1626272;22667;3434750,http://en.wikipedia.org/wiki/International_English,International English,international-english,international-english,UNK
+English,26547793,6,7,17867,"http://en.wikipedia.org/wiki/English,_Scottish_and_Australian_Bank","English, Scottish and Australian Bank",english-scottish-and-australian-bank,english-scottish-and-australian-bank,UNK
+English,21982148,86,62,18803164,http://en.wikipedia.org/wiki/Old_English_(Ireland),Old English,old-english,old-english-ireland,UNK
+English,2165164,9,104,937317;940821,"http://en.wikipedia.org/wiki/English_River,_Ontario","English River, Ontario",english-river-ontario,english-river-ontario,GPE
+English,1890,3485,773,8569916;3434750;9316;1897;1890;333371;1626272;4179;14996;18933066;7122809;328159;4689264,http://en.wikipedia.org/wiki/American_English,American English,american-english,american-english,UNK
+English,25921578,4,28,18803164;9316,http://en.wikipedia.org/wiki/Edward_English,Edward English,edward-english,edward-english,PER
+English,1626272,292,311,8569916;14996;4179;1626272;3434750;9316;1897;1890,http://en.wikipedia.org/wiki/California_English,California English,california-english,california-english,UNK
+English,16235747,224,284,,http://en.wikipedia.org/wiki/English_Market,English Market,english-market,english-market,UNK
+English,1982864,69,88,17867;9316;22046807,http://en.wikipedia.org/wiki/English_Bridge,English Bridge,english-bridge,english-bridge,UNK
+Nottingham,39470,5616,705,10411358;157294;19773161;9316;18831196;25086027;35364732;39470;20793534;310830;18076763;476466,http://en.wikipedia.org/wiki/Nottingham,Nottingham,nottingham,nottingham,GPE
+Nottingham,1499178,446,451,,http://en.wikipedia.org/wiki/Nottingham_Island,Nottingham Island,nottingham-island,nottingham-island,UNK
+Nottingham,27695737,71,88,3434750,"http://en.wikipedia.org/wiki/Nottingham,_West_Virginia","Nottingham, West Virginia",nottingham-west-virginia,nottingham-west-virginia,GPE
+Nottingham,40454083,33,47,,http://en.wikipedia.org/wiki/Nottingham_Road,Nottingham Road,nottingham-road,nottingham-road,GPE
+Nottingham,310830,193,131,18831196;39470;157294;476466;25086027,http://en.wikipedia.org/wiki/Nottingham_Castle,Nottingham Castle,nottingham-castle,nottingham-castle,UNK
+Nottingham,124915,173,92,18803164;3434750,"http://en.wikipedia.org/wiki/Nottingham,_New_Hampshire","Nottingham, New Hampshire",nottingham-new-hampshire,nottingham-new-hampshire,GPE
+Nottingham,310841,171,162,3434750,"http://en.wikipedia.org/wiki/Nottingham,_Pennsylvania","Nottingham, Pennsylvania",nottingham-pennsylvania,nottingham-pennsylvania,UNK
+Nottingham,18411363,73,80,3434750,"http://en.wikipedia.org/wiki/Nottingham,_Virginia","Nottingham, Virginia",nottingham-virginia,nottingham-virginia,GPE
+Nottingham,20025340,0,343,3434750,"http://en.wikipedia.org/wiki/Nottingham,_Prince_George's_County,_Maryland","Nottingham, Prince George's County, Maryland",nottingham-prince-georges-county-maryland,nottingham-prince-georges-county-maryland,UNK
+Nottingham,19773161,0,11,39470;9316,http://en.wikipedia.org/wiki/Nottingham_Brewery,Nottingham Brewery,nottingham-brewery,nottingham-brewery,UNK
+Nottingham,1940085,138,127,9316,http://en.wikipedia.org/wiki/Nottingham_Airport,Nottingham Airport,nottingham-airport,nottingham-airport,UNK
+Nottingham,20793534,19,30,9316;39470,http://en.wikipedia.org/wiki/HM_Prison_Nottingham,HM Prison Nottingham,hm-prison-nottingham,hm-prison-nottingham,UNK
+Nottingham,10411358,62,66,39470,http://en.wikipedia.org/wiki/Nottingham_Building_Society,Nottingham Building Society,nottingham-building-society,nottingham-building-society,UNK
+Nottingham,18831196,155,66,9316;39470;310830,http://en.wikipedia.org/wiki/Sheriff_of_Nottingham,Sheriff of Nottingham,sheriff-of-nottingham,sheriff-of-nottingham,UNK
+Nottingham,18185429,0,3,9289385;13833075;8714485,http://en.wikipedia.org/wiki/Nottingham_Township,Nottingham Township,nottingham-township,nottingham-township,GPE
+Nottingham,13833075,39,47,18185429;3434750,"http://en.wikipedia.org/wiki/Nottingham_Township,_Wells_County,_Indiana","Nottingham Township, Wells County, Indiana",nottingham-township-wells-county-indiana,nottingham-township-wells-county-indiana,GPE
+Nottingham,9289385,36,49,18185429;3434750,"http://en.wikipedia.org/wiki/Nottingham_Township,_Harrison_County,_Ohio","Nottingham Township, Harrison County, Ohio",nottingham-township-harrison-county-ohio,nottingham-township-harrison-county-ohio,GPE
+Nottingham,25086027,1588,394,39470;3434750;9316;310830;4689264;476466;25086027,http://en.wikipedia.org/wiki/University_of_Nottingham,University of Nottingham,university-of-nottingham,university-of-nottingham,ORG
+Nottingham,18723148,89,95,3434750,"http://en.wikipedia.org/wiki/Nottingham,_Maryland","Nottingham, Maryland",nottingham-maryland,nottingham-maryland,GPE
+Nottingham,2388952,72,89,,http://en.wikipedia.org/wiki/Don_Nottingham,Don Nottingham,don-nottingham,don-nottingham,UNK
+Nottingham,35364732,10,3,9316;39470,http://en.wikipedia.org/wiki/Nottingham_(speedway),Nottingham,nottingham,nottingham-speedway,UNK
+Nottingham,18076763,4,32,39470,http://en.wikipedia.org/wiki/Nottingham_London_Road_railway_station,Nottingham London Road railway station,nottingham-london-road-railway-station,nottingham-london-road-railway-station,UNK
+Nottingham,28353438,3,2,,"http://en.wikipedia.org/wiki/Nottingham,_Ohio","Nottingham, Ohio",nottingham-ohio,nottingham-ohio,GPE
+Nottingham,21828171,6,22,,http://en.wikipedia.org/wiki/Edward_Nottingham,Edward Nottingham,edward-nottingham,edward-nottingham,PER
+Nottingham,8714485,6,11,18185429,"http://en.wikipedia.org/wiki/Nottingham_Township,_New_Jersey","Nottingham Township, New Jersey",nottingham-township-new-jersey,nottingham-township-new-jersey,GPE
+Nottingham,33973358,67,53,,http://en.wikipedia.org/wiki/Nottingham_Journal,Nottingham Journal,nottingham-journal,nottingham-journal,UNK
+Nottingham,134073,138,218,3434750,"http://en.wikipedia.org/wiki/Nottingham_Township,_Washington_County,_Pennsylvania","Nottingham Township, Washington County, Pennsylvania",nottingham-township-washington-county-pennsylvania,nottingham-township-washington-county-pennsylvania,GPE
+Nottingham,157294,3787,534,157294;3434750;9316;39470;310830,http://en.wikipedia.org/wiki/Nottingham_Forest_F.C.,Nottingham Forest F.C.,nottingham-forest-fc,nottingham-forest-fc,ORG
+Nottingham,476466,629,304,310830;39470;25086027,http://en.wikipedia.org/wiki/Nottingham_Trent_University,Nottingham Trent University,nottingham-trent-university,nottingham-trent-university,ORG
+Nottingham,4196150,1,102,,http://en.wikipedia.org/wiki/Nottingham_Cooperative,Nottingham Cooperative,nottingham-cooperative,nottingham-cooperative,UNK
+Nottingham,30111645,2,9,,http://en.wikipedia.org/wiki/Nottingham_group,Nottingham group,nottingham-group,nottingham-group,UNK
+Kathy Etchingham,37398884,8,20,16095;9316,http://en.wikipedia.org/wiki/Kathy_Etchingham,Kathy Etchingham,kathy-etchingham,kathy-etchingham,PER
+Australian,4689264,136194,1016,1495;1897;1890;840646;2403;3079;4179;4732785;9316;12249;14996;17867;18803164;911650;11197621;1867839;18974570;396952;2048074;165705;445359;3265305;171629;7122809;189907;1189447;3434750;4689264;521158;514816;25086027;8569916,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australian,1189447,125,110,1495;4689264;171629,http://en.wikipedia.org/wiki/Australian_Conservation_Foundation,Australian Conservation Foundation,australian-conservation-foundation,australian-conservation-foundation,ORG
+Australian,4732785,8927,643,3434750;2403;3079;4732785;4689264,http://en.wikipedia.org/wiki/Australian_Football_League,Australian Football League,australian-football-league,australian-football-league,ORG
+Australian,3079,6230,535,1495;3434750;1897;2048074;3079;4732785;171629;4689264,http://en.wikipedia.org/wiki/Australian_Broadcasting_Corporation,Australian Broadcasting Corporation,australian-broadcasting-corporation,australian-broadcasting-corporation,UNK
+Australian,189907,50,110,4689264,http://en.wikipedia.org/wiki/Australian_Airlines,Australian Airlines,australian-airlines,australian-airlines,UNK
+Australian,1897,945,509,17867;14996;4179;2403;7122809;3079;8569916;1495;1626272;3434750;9316;4689264;3265305;11197621;1897;1890,http://en.wikipedia.org/wiki/Australian_English,Australian English,australian-english,australian-english,UNK
+Australian,396952,3151,159,2048074;911650;39943361;171629;4689264,http://en.wikipedia.org/wiki/The_Australian,The Australian,the-australian,the-australian,UNK
+Australian,521158,1015,284,4689264,http://en.wikipedia.org/wiki/Australian_Rugby_League,Australian Rugby League,australian-rugby-league,australian-rugby-league,PER
+Australian,39185064,2,5,,"http://en.wikipedia.org/wiki/Australian,_Windsor,_Richmond,_and_Hawkesbury_Advertiser","Australian, Windsor, Richmond, and Hawkesbury Advertiser",australian-windsor-richmond-and-hawkesbury-advertiser,australian-windsor-richmond-and-hawkesbury-advertiser,UNK
+Australian,17856651,6,15,,"http://en.wikipedia.org/wiki/Australian,_British_Columbia","Australian, British Columbia",australian-british-columbia,australian-british-columbia,GPE
+Australian,165705,1861,377,171629;1495;165705;2048074;4689264,http://en.wikipedia.org/wiki/Australian_Senate,Australian Senate,australian-senate,australian-senate,ORG
+Australian,2403,11032,495,1897;2403;4732785;4689264,http://en.wikipedia.org/wiki/Australian_rules_football,Australian rules football,australian-rules-football,australian-rules-football,UNK
+Australian,1495,8801,426,1495;1897;2048074;3079;1189447;165705;171629;7122809;4689264,http://en.wikipedia.org/wiki/Australian_Labor_Party,Australian Labor Party,australian-labor-party,australian-labor-party,UNK
+Australian,445359,156,205,4689264;514816,http://en.wikipedia.org/wiki/Australian_Cattle_Dog,Australian Cattle Dog,australian-cattle-dog,australian-cattle-dog,UNK
+Australian,911650,958,182,17867;396952;4689264,http://en.wikipedia.org/wiki/Australian_Associated_Press,Australian Associated Press,australian-associated-press,australian-associated-press,ORG
+Australian,171629,2637,472,1189447;396952;1495;165705;2048074;3079;4689264,http://en.wikipedia.org/wiki/Australian_Greens,Australian Greens,australian-greens,australian-greens,UNK
+Australian,7122809,188,252,4689264;3265305;11197621;1897;1890;1495;3434750,http://en.wikipedia.org/wiki/American_Australian,American Australian,american-australian,american-australian,UNK
+Australian,5204925,35,29,,http://en.wikipedia.org/wiki/Australian_Club,Australian Club,australian-club,australian-club,ORG
+Australian,2048074,28,109,396952;165705;1495;4689264;171629;3079,http://en.wikipedia.org/wiki/Australian_Party,Australian Party,australian-party,australian-party,ORG
+Australian,8574469,7,11,,http://en.wikipedia.org/wiki/Australian_Church,Australian Church,australian-church,australian-church,UNK
+Australian,3265305,267,285,7122809;4689264;11197621;1897;8569916,http://en.wikipedia.org/wiki/German_Australian,German Australian,german-australian,german-australian,UNK
+Australian,840646,504,170,4689264,http://en.wikipedia.org/wiki/Australian_Museum,Australian Museum,australian-museum,australian-museum,UNK
+Australian,11197621,837,316,7122809;4689264;3265305;1897,http://en.wikipedia.org/wiki/Australians,Australians,australians,australians,UNK
+Australian,39943361,6,3,396952,http://en.wikipedia.org/wiki/The_Australian_(1824_newspaper),The Australian,the-australian,the-australian-1824-newspaper,UNK
+Australian,14859750,15,14,,http://en.wikipedia.org/wiki/Australian_Musician,Australian Musician,australian-musician,australian-musician,ORG
+Australian,514816,205,185,4689264;445359;3434750,http://en.wikipedia.org/wiki/Australian_Shepherd,Australian Shepherd,australian-shepherd,australian-shepherd,UNK

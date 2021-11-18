@@ -1,0 +1,64 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+ISRAELI,9282173,39459,898,19590134;7387;2869548;5834227;844333;844311;4174431;16043;16822;1755537;161402;2936614;2864754;893539;2301245;9282173;10400096;3770284;31453;3704109;19486919;18364599;5166496;36016574;36016612;319872;31796731;4074731;4024423;20804931;367929;5333420;5897396;374266;181296;5324800;3385909;5216051;622044,http://en.wikipedia.org/wiki/Israel,Israel,israel,israel,GPE
+ISRAELI,5216051,201,188,9282173,http://en.wikipedia.org/wiki/Israeli_military_decorations,Israeli military decorations,israeli-military-decorations,israeli-military-decorations,UNK
+ISRAELI,367929,406,512,9282173;16043;31453;5893392;161402;181296;367929;4024423,http://en.wikipedia.org/wiki/Israeli_West_Bank_barrier,Israeli West Bank barrier,israeli-west-bank-barrier,israeli-west-bank-barrier,UNK
+ISRAELI,181296,1153,396,9282173;16043;31453;367929,http://en.wikipedia.org/wiki/Israelis,Israelis,israelis,israelis,UNK
+ISRAELI,5324800,5,10,31453;9282173,http://en.wikipedia.org/wiki/Israeli_(newspaper),Israeli,israeli,israeli-newspaper,ORG
+JERUSALEM,16043,11108,1385,16822;5893392;4024423;20911317;20804931;367929;1755537;36659099;7387;5834227;374266;22027505;9282173;181296;127618;3770284;38034307;24468785;3385909;844333;844311;4174431;20181397;16043;31453;3704109,http://en.wikipedia.org/wiki/Jerusalem,Jerusalem,jerusalem,jerusalem,UNK
+JERUSALEM,7484849,7,16,,http://en.wikipedia.org/wiki/Jerusalem_(British_band),Jerusalem,jerusalem,jerusalem-british-band,UNK
+JERUSALEM,129634,45,59,,"http://en.wikipedia.org/wiki/Jerusalem,_Ohio","Jerusalem, Ohio",jerusalem-ohio,jerusalem-ohio,GPE
+JERUSALEM,21340414,90,65,,"http://en.wikipedia.org/wiki/Jerusalem,_Baltimore_County,_Maryland","Jerusalem, Baltimore County, Maryland",jerusalem-baltimore-county-maryland,jerusalem-baltimore-county-maryland,GPE
+JERUSALEM,4024423,192,160,36659099;844333;16822;16043;9282173;31453;367929;5893392,http://en.wikipedia.org/wiki/Positions_on_Jerusalem,Positions on Jerusalem,positions-on-jerusalem,positions-on-jerusalem,UNK
+JERUSALEM,4174431,15,579,16043;9282173,http://en.wikipedia.org/wiki/Jerusalem_(Mendelssohn),Jerusalem,jerusalem,jerusalem-mendelssohn,ORG
+JERUSALEM,39760889,165,13,,"http://en.wikipedia.org/wiki/Jerusalem_Church,_Copenhagen","Jerusalem Church, Copenhagen",jerusalem-church-copenhagen,jerusalem-church-copenhagen,UNK
+JERUSALEM,2455517,33,39,,http://en.wikipedia.org/wiki/Jerusalem_(Swedish_band),Jerusalem,jerusalem,jerusalem-swedish-band,UNK
+JERUSALEM,20804931,27,47,31453;16043;9282173,http://en.wikipedia.org/wiki/Jerusalem_Foundation,Jerusalem Foundation,jerusalem-foundation,jerusalem-foundation,UNK
+JERUSALEM,127618,55,65,16043,"http://en.wikipedia.org/wiki/Jerusalem,_New_York","Jerusalem, New York",jerusalem-new-york,jerusalem-new-york,GPE
+JERUSALEM,37617580,11,28,,http://en.wikipedia.org/wiki/Jerusalem_(EP),Jerusalem,jerusalem,jerusalem-ep,UNK
+JERUSALEM,41498870,1,16,,http://en.wikipedia.org/wiki/American_Jerusalem,American Jerusalem,american-jerusalem,american-jerusalem,UNK
+JERUSALEM,3385909,7,19,9282173;16043,http://en.wikipedia.org/wiki/Jerusalem_(computer_virus),Jerusalem,jerusalem,jerusalem-computer-virus,UNK
+JERUSALEM,8867780,88,119,,http://en.wikipedia.org/wiki/Jérusalem,Jérusalem,jerusalem,jerusalem,UNK
+JERUSALEM,374266,28,43,16043;9282173,"http://en.wikipedia.org/wiki/Jerusalem,_New_Zealand","Jerusalem, New Zealand",jerusalem-new-zealand,jerusalem-new-zealand,GPE
+JERUSALEM,23980716,50,31,,http://en.wikipedia.org/wiki/Jerusalem_(play),Jerusalem,jerusalem,jerusalem-play,UNK
+JERUSALEM,28737300,4,24,28737300,http://en.wikipedia.org/wiki/Jerusalem-Project,Jerusalem-Project,jerusalem-project,jerusalem-project,UNK
+JERUSALEM,5893392,142,81,844333;16043;367929;4024423,http://en.wikipedia.org/wiki/Jerusalem_Governorate,Jerusalem Governorate,jerusalem-governorate,jerusalem-governorate,UNK
+JERUSALEM,24468785,36,5,16043,"http://en.wikipedia.org/wiki/Jerusalem,_Rhode_Island","Jerusalem, Rhode Island",jerusalem-rhode-island,jerusalem-rhode-island,UNK
+JERUSALEM,6115457,140,57,,"http://en.wikipedia.org/wiki/Jerusalem_Township,_Lucas_County,_Ohio","Jerusalem Township, Lucas County, Ohio",jerusalem-township-lucas-county-ohio,jerusalem-township-lucas-county-ohio,GPE
+JERUSALEM,23290820,0,1,,http://en.wikipedia.org/wiki/Jerusalem_street,Jerusalem street,jerusalem-street,jerusalem-street,UNK
+JERUSALEM,36659099,31,8,844333;4024423;36659099;16043,http://en.wikipedia.org/wiki/Municipality_of_Jerusalem,Municipality of Jerusalem,municipality-of-jerusalem,municipality-of-jerusalem,UNK
+JERUSALEM,20911317,2,94,16043,"http://en.wikipedia.org/wiki/Jerusalem,_Lincolnshire","Jerusalem, Lincolnshire",jerusalem-lincolnshire,jerusalem-lincolnshire,GPE
+JERUSALEM,22027505,3,69,16043,http://en.wikipedia.org/wiki/Jerusalem_Church_(Berlin),Jerusalem Church,jerusalem-church,jerusalem-church-berlin,UNK
+JERUSALEM,7387,1123,392,9282173;16043,http://en.wikipedia.org/wiki/Cyril_of_Jerusalem,Cyril of Jerusalem,cyril-of-jerusalem,cyril-of-jerusalem,PER
+JERUSALEM,32153615,20,38,,"http://en.wikipedia.org/wiki/Jerusalem,_Arkansas","Jerusalem, Arkansas",jerusalem-arkansas,jerusalem-arkansas,UNK
+JERUSALEM,29036701,7,70,,http://en.wikipedia.org/wiki/Jerusalem_and_Dopesmoker,Jerusalem and Dopesmoker,jerusalem-and-dopesmoker,jerusalem-and-dopesmoker,UNK
+JERUSALEM,20181397,10,21,844333;844311;16043,http://en.wikipedia.org/wiki/Greater_Jerusalem,Greater Jerusalem,greater-jerusalem,greater-jerusalem,ORG
+JERUSALEM,844333,344,37,36659099;844333;844311;16043;9282173;20181397;31453;5893392;4024423,http://en.wikipedia.org/wiki/Jerusalem_District,Jerusalem District,jerusalem-district,jerusalem-district,UNK
+JERUSALEM,16822,793,371,9282173;16043;31453;4024423,http://en.wikipedia.org/wiki/Kingdom_of_Jerusalem,Kingdom of Jerusalem,kingdom-of-jerusalem,kingdom-of-jerusalem,GPE
+JERUSALEM,38034307,5,18,16043,http://en.wikipedia.org/wiki/Jerusalem_(Königsberg),Jerusalem,jerusalem,jerusalem-konigsberg,GPE
+JERUSALEM,2535734,131,135,,http://en.wikipedia.org/wiki/Jerusalem_The_Emanation_of_the_Giant_Albion,Jerusalem The Emanation of the Giant Albion,jerusalem-the-emanation-of-the-giant-albion,jerusalem-the-emanation-of-the-giant-albion,UNK
+Hapoel Zafririm Holon,10400096,148,83,319872;1755537;5333420;5897396;9282173;5834227;2869548;2301245;893539;5166496,http://en.wikipedia.org/wiki/Hapoel_Tzafririm_Holon_F.C.,Hapoel Tzafririm Holon F.C.,hapoel-tzafririm-holon-fc,hapoel-tzafririm-holon-fc,UNK
+Hapoel Tel Aviv,2301245,1075,482,5333420;2869548;2301245;2864754;1755537;5166496;5834227;9282173;893539;5897396;31453;319872;10400096,http://en.wikipedia.org/wiki/Hapoel_Tel_Aviv_F.C.,Hapoel Tel Aviv F.C.,hapoel-tel-aviv-fc,hapoel-tel-aviv-fc,UNK
+Hapoel Tel Aviv,2936614,135,51,9282173;31453;3704109;18364599;2864754,http://en.wikipedia.org/wiki/Hapoel_Tel_Aviv_B.C.,Hapoel Tel Aviv B.C.,hapoel-tel-aviv-bc,hapoel-tel-aviv-bc,ORG
+Hapoel Tel Aviv,2864754,63,21,31453;2936614;1755537;2301245;9282173,http://en.wikipedia.org/wiki/Hapoel_Tel_Aviv,Hapoel Tel Aviv,hapoel-tel-aviv,hapoel-tel-aviv,ORG
+Maccabi Haifa,319872,1105,425,5333420;622044;2869548;2301245;1755537;5166496;5834227;19590134;9282173;893539;5897396;319872;10400096,http://en.wikipedia.org/wiki/Maccabi_Haifa_F.C.,Maccabi Haifa F.C.,maccabi-haifa-fc,maccabi-haifa-fc,UNK
+Maccabi Haifa,4074731,0,3,9282173,http://en.wikipedia.org/wiki/Maccabi_Haifa_(Weightlifting),Maccabi Haifa,maccabi-haifa,maccabi-haifa-weightlifting,UNK
+Maccabi Haifa,622044,95,24,319872;1755537;9282173;18364599,http://en.wikipedia.org/wiki/Maccabi_Haifa,Maccabi Haifa,maccabi-haifa,maccabi-haifa,ORG
+Maccabi Haifa,18364599,141,135,622044;2936614;31796731;9282173;3704109,http://en.wikipedia.org/wiki/Maccabi_Haifa_B.C.,Maccabi Haifa B.C.,maccabi-haifa-bc,maccabi-haifa-bc,ORG
+Hapoel Jerusalem,5834227,306,166,319872;5333420;10400096;2869548;2301245;1755537;16043;5897396;9282173;3770284;893539;5166496,http://en.wikipedia.org/wiki/Hapoel_Jerusalem_F.C.,Hapoel Jerusalem F.C.,hapoel-jerusalem-fc,hapoel-jerusalem-fc,UNK
+Hapoel Jerusalem,3770284,57,19,1755537;16043;3704109;9282173;5834227,http://en.wikipedia.org/wiki/Hapoel_Jerusalem,Hapoel Jerusalem,hapoel-jerusalem,hapoel-jerusalem,ORG
+Hapoel Jerusalem,3704109,284,189,2936614;16043;9282173;3770284;31453;18364599,http://en.wikipedia.org/wiki/Hapoel_Jerusalem_B.C.,Hapoel Jerusalem B.C.,hapoel-jerusalem-bc,hapoel-jerusalem-bc,ORG
+Hapoel Petah Tikva,5166496,479,202,5333420;2869548;2301245;1755537;5897396;319872;5834227;10400096;9282173;893539,http://en.wikipedia.org/wiki/Hapoel_Petah_Tikva_F.C.,Hapoel Petah Tikva F.C.,hapoel-petah-tikva-fc,hapoel-petah-tikva-fc,UNK
+Hapoel Petah Tikva,36016574,7,5,9282173;36016612,http://en.wikipedia.org/wiki/Hapoel_Petah_Tikva_(handball),Hapoel Petah Tikva,hapoel-petah-tikva,hapoel-petah-tikva-handball,UNK
+Hapoel Ironi Rishon,5897396,232,169,319872;5333420;5834227;10400096;2869548;2301245;1755537;9282173;893539;5166496,http://en.wikipedia.org/wiki/Hapoel_Rishon_LeZion_F.C.,Hapoel Rishon LeZion F.C.,hapoel-rishon-lezion-fc,hapoel-rishon-lezion-fc,UNK
+Hapoel Taibe,19486919,33,63,9282173,http://en.wikipedia.org/wiki/Hapoel_Tayibe_F.C.,Hapoel Tayibe F.C.,hapoel-tayibe-fc,hapoel-tayibe-fc,UNK
+Hapoel Beit She'an,19590134,0,122,319872;1755537;9282173,http://en.wikipedia.org/wiki/Hapoel_Beit_She'an_F.C.,Hapoel Beit She'an F.C.,hapoel-beit-shean-fc,hapoel-beit-shean-fc,UNK
+Maccabi Petah Tikva,893539,389,126,5333420;2869548;2301245;1755537;5897396;5166496;319872;5834227;10400096;9282173;36016612,http://en.wikipedia.org/wiki/Maccabi_Petah_Tikva_F.C.,Maccabi Petah Tikva F.C.,maccabi-petah-tikva-fc,maccabi-petah-tikva-fc,UNK
+Maccabi Petah Tikva,36016612,2,4,9282173;893539;36016574,http://en.wikipedia.org/wiki/Maccabi_Petah_Tikva_(handball),Maccabi Petah Tikva,maccabi-petah-tikva,maccabi-petah-tikva-handball,UNK
+Betar Jerusalem,1755537,512,263,5333420;622044;2869548;2301245;2864754;1755537;16043;5897396;31453;5166496;319872;5834227;10400096;19590134;9282173;3770284;893539,http://en.wikipedia.org/wiki/Beitar_Jerusalem_F.C.,Beitar Jerusalem F.C.,beitar-jerusalem-fc,beitar-jerusalem-fc,ORG
+Hapoel Haifa,2869548,457,189,5333420;2869548;2301245;1755537;5897396;31453;5166496;319872;5834227;10400096;31796731;9282173;893539,http://en.wikipedia.org/wiki/Hapoel_Haifa_F.C.,Hapoel Haifa F.C.,hapoel-haifa-fc,hapoel-haifa-fc,ORG
+Hapoel Haifa,31796731,11,8,18364599;9282173;2869548,http://en.wikipedia.org/wiki/Hapoel_Haifa_B.C.,Hapoel Haifa B.C.,hapoel-haifa-bc,hapoel-haifa-bc,ORG
+Tel Aviv,2301245,1075,482,5333420;2869548;2301245;2864754;1755537;5166496;5834227;9282173;893539;5897396;31453;319872;10400096,http://en.wikipedia.org/wiki/Hapoel_Tel_Aviv_F.C.,Hapoel Tel Aviv F.C.,hapoel-tel-aviv-fc,hapoel-tel-aviv-fc,UNK
+Tel Aviv,844311,279,33,844333;844311;16043;9282173;20181397;31453,http://en.wikipedia.org/wiki/Tel_Aviv_District,Tel Aviv District,tel-aviv-district,tel-aviv-district,UNK
+Tel Aviv,161402,1223,230,9282173;31453;161402;367929,http://en.wikipedia.org/wiki/Tel_Aviv_University,Tel Aviv University,tel-aviv-university,tel-aviv-university,ORG
+Tel Aviv,31453,5424,530,2869548;16822;4024423;2301245;20804931;9282173;181296;367929;1755537;5324800;844333;844311;161402;2936614;2864754;16043;3704109,http://en.wikipedia.org/wiki/Tel_Aviv,Tel Aviv,tel-aviv,tel-aviv,UNK
+Maccabi Herzliya,5333420,290,158,319872;5834227;10400096;2869548;2301245;1755537;5897396;9282173;893539;5166496,http://en.wikipedia.org/wiki/Maccabi_Herzliya_F.C.,Maccabi Herzliya F.C.,maccabi-herzliya-fc,maccabi-herzliya-fc,UNK

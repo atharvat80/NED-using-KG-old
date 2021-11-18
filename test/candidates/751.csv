@@ -1,0 +1,78 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+MILTIADIS EVERT,5481658,44,37,1216,http://en.wikipedia.org/wiki/Miltiadis_Evert,Miltiadis Evert,miltiadis-evert,miltiadis-evert,PER
+ALEXANDROUPOLIS,1749399,358,335,1216;9303867,http://en.wikipedia.org/wiki/Alexandroupoli,Alexandroupoli,alexandroupoli,alexandroupoli,UNK
+ALEXANDROUPOLIS,9303867,54,70,48962;1749399,http://en.wikipedia.org/wiki/Alexandroupolis_International_Airport,Alexandroupolis International Airport,alexandroupolis-international-airport,alexandroupolis-international-airport,UNK
+ATHENS,1216,15159,1410,70107;104851;1216;139326;8111453;7679136;132172;23035410;9954;131455;131456;9239;9317;111694;1749399;13517898;135291;48962;136048;138509;4705193;5481658;137424;24564223;259810;117211;117210;116172;115536;3833962;42450518;1596912;341110;393824;186859;17983302;93140,http://en.wikipedia.org/wiki/Athens,Athens,athens,athens,UNK
+ATHENS,259811,24,55,259810,"http://en.wikipedia.org/wiki/Athens,_New_York","Athens, New York",athens-new-york,athens-new-york,GPE
+ATHENS,117211,41,59,1328159;1216;117210,"http://en.wikipedia.org/wiki/Athens_Township,_Michigan","Athens Township, Michigan",athens-township-michigan,athens-township-michigan,GPE
+ATHENS,23035410,22,26,1216,"http://en.wikipedia.org/wiki/Athens,_Arkansas","Athens, Arkansas",athens-arkansas,athens-arkansas,UNK
+ATHENS,24564223,41,67,1216,"http://en.wikipedia.org/wiki/Athens,_Minnesota","Athens, Minnesota",athens-minnesota,athens-minnesota,GPE
+ATHENS,139326,127,143,1216,"http://en.wikipedia.org/wiki/Athens,_Wisconsin","Athens, Wisconsin",athens-wisconsin,athens-wisconsin,GPE
+ATHENS,11331841,0,2,,"http://en.wikipedia.org/wiki/Athens_Township,_Ohio","Athens Township, Ohio",athens-township-ohio,athens-township-ohio,UNK
+ATHENS,12397993,2,82,70107,http://en.wikipedia.org/wiki/Athens_B_&_O_Train_Depot,Athens B & O Train Depot,athens-b-o-train-depot,athens-b-o-train-depot,UNK
+ATHENS,70107,707,189,1216;12397993;93140,"http://en.wikipedia.org/wiki/Athens,_Ohio","Athens, Ohio",athens-ohio,athens-ohio,GPE
+ATHENS,8111453,30,50,1216,"http://en.wikipedia.org/wiki/Athens,_Indiana","Athens, Indiana",athens-indiana,athens-indiana,GPE
+ATHENS,42450518,13,20,1216,"http://en.wikipedia.org/wiki/Athens,_Missouri","Athens, Missouri",athens-missouri,athens-missouri,UNK
+ATHENS,3833962,100,127,7679136;1216,http://en.wikipedia.org/wiki/Athens_Prefecture,Athens Prefecture,athens-prefecture,athens-prefecture,UNK
+ATHENS,115536,31,37,1216,"http://en.wikipedia.org/wiki/Athens,_Louisiana","Athens, Louisiana",athens-louisiana,athens-louisiana,UNK
+ATHENS,4705193,39,49,1216,"http://en.wikipedia.org/wiki/Athens,_Mississippi","Athens, Mississippi",athens-mississippi,athens-mississippi,GPE
+ATHENS,341110,44,22,1216,"http://en.wikipedia.org/wiki/Athens,_Ontario","Athens, Ontario",athens-ontario,athens-ontario,GPE
+ATHENS,117210,54,60,1216;117211,"http://en.wikipedia.org/wiki/Athens,_Michigan","Athens, Michigan",athens-michigan,athens-michigan,GPE
+ATHENS,10282847,1,1,93140,"http://en.wikipedia.org/wiki/Athens,_OH_μSA","Athens, OH μSA",athens-oh-μsa,athens-oh-μsa,PER
+ATHENS,1328159,0,6,132172;117211;131456,http://en.wikipedia.org/wiki/Athens_Township,Athens Township,athens-township,athens-township,GPE
+ATHENS,1596912,277,361,1216,"http://en.wikipedia.org/wiki/Athens,_California","Athens, California",athens-california,athens-california,GPE
+ATHENS,10288370,2,1,,"http://en.wikipedia.org/wiki/Athens,_TN_μSA","Athens, TN μSA",athens-tn-μsa,athens-tn-μsa,PER
+ATHENS,7679136,33,36,1216;3833962,http://en.wikipedia.org/wiki/Athens_Football_Clubs_Association,Athens Football Clubs Association,athens-football-clubs-association,athens-football-clubs-association,UNK
+ATHENS,131456,73,86,132172;131455;1328159;1216;141391,"http://en.wikipedia.org/wiki/Athens_Township,_Bradford_County,_Pennsylvania","Athens Township, Bradford County, Pennsylvania",athens-township-bradford-county-pennsylvania,athens-township-bradford-county-pennsylvania,GPE
+ATHENS,111694,65,60,1216,"http://en.wikipedia.org/wiki/Athens,_Illinois","Athens, Illinois",athens-illinois,athens-illinois,UNK
+ATHENS,17983302,107,187,1216,"http://en.wikipedia.org/wiki/Athens,_Kentucky","Athens, Kentucky",athens-kentucky,athens-kentucky,GPE
+ATHENS,132172,82,87,1328159;1216;131456;141391,"http://en.wikipedia.org/wiki/Athens_Township,_Crawford_County,_Pennsylvania","Athens Township, Crawford County, Pennsylvania",athens-township-crawford-county-pennsylvania,athens-township-crawford-county-pennsylvania,GPE
+ATHENS,27969541,4,51,104851,"http://en.wikipedia.org/wiki/Old_Athens,_Alabama_Main_Post_Office","Old Athens, Alabama Main Post Office",old-athens-alabama-main-post-office,old-athens-alabama-main-post-office,UNK
+ATHENS,18744737,0,1,,"http://en.wikipedia.org/wiki/Athens,_TN_µSA","Athens, TN µSA",athens-tn-µsa,athens-tn-µsa,PER
+ATHENS,93140,542,267,1216;18744733;10282847;70107;93140,"http://en.wikipedia.org/wiki/Athens_County,_Ohio","Athens County, Ohio",athens-county-ohio,athens-county-ohio,GPE
+ATHENS,136048,411,400,1216,"http://en.wikipedia.org/wiki/Athens,_Texas","Athens, Texas",athens-texas,athens-texas,GPE
+ATHENS,18744741,0,1,,"http://en.wikipedia.org/wiki/Athens,_TX_µSA","Athens, TX µSA",athens-tx-µsa,athens-tx-µsa,PER
+ATHENS,116172,63,74,1216,"http://en.wikipedia.org/wiki/Athens,_Maine","Athens, Maine",athens-maine,athens-maine,GPE
+ATHENS,10221370,1,1,,"http://en.wikipedia.org/wiki/Athens,_TX_μSA","Athens, TX μSA",athens-tx-μsa,athens-tx-μsa,PER
+ATHENS,48962,397,273,4090285;1216;393824;9303867,http://en.wikipedia.org/wiki/Athens_International_Airport,Athens International Airport,athens-international-airport,athens-international-airport,UNK
+ATHENS,131455,124,112,1216;131456,"http://en.wikipedia.org/wiki/Athens,_Pennsylvania","Athens, Pennsylvania",athens-pennsylvania,athens-pennsylvania,GPE
+ATHENS,135291,146,106,1216,"http://en.wikipedia.org/wiki/Athens,_Tennessee","Athens, Tennessee",athens-tennessee,athens-tennessee,GPE
+ATHENS,137424,54,62,1216,"http://en.wikipedia.org/wiki/Athens,_Vermont","Athens, Vermont",athens-vermont,athens-vermont,GPE
+ATHENS,3383478,7,15,186859,"http://en.wikipedia.org/wiki/Athens,_GA:_Inside/Out","Athens, GA: Inside/Out",athens-ga-inside-out,athens-ga-inside-out,UNK
+ATHENS,4090285,0,4,48962,http://en.wikipedia.org/wiki/Athens_Airport,Athens Airport,athens-airport,athens-airport,UNK
+ATHENS,141391,0,2,132172;131456,"http://en.wikipedia.org/wiki/Athens_Township,_Pennsylvania","Athens Township, Pennsylvania",athens-township-pennsylvania,athens-township-pennsylvania,GPE
+ATHENS,2018079,36,41,,http://en.wikipedia.org/wiki/Athens_College,Athens College,athens-college,athens-college,ORG
+ATHENS,104851,246,199,27969541;1216,"http://en.wikipedia.org/wiki/Athens,_Alabama","Athens, Alabama",athens-alabama,athens-alabama,GPE
+ATHENS,18744733,0,1,93140,"http://en.wikipedia.org/wiki/Athens,_OH_µSA","Athens, OH µSA",athens-oh-µsa,athens-oh-µsa,PER
+ATHENS,138509,343,333,1216,"http://en.wikipedia.org/wiki/Athens,_West_Virginia","Athens, West Virginia",athens-west-virginia,athens-west-virginia,GPE
+ATHENS,27492464,135,152,,"http://en.wikipedia.org/wiki/Athens,_Virginia","Athens, Virginia",athens-virginia,athens-virginia,GPE
+ATHENS,259810,53,65,1216;259811,"http://en.wikipedia.org/wiki/Athens_(village),_New_York","Athens (village), New York",athens-village-new-york,athens-village-new-york,GPE
+ATHENS,186859,2476,502,1216;3383478,"http://en.wikipedia.org/wiki/Athens,_Georgia","Athens, Georgia",athens-georgia,athens-georgia,GPE
+ATHENS,9314852,27,21,,http://en.wikipedia.org/wiki/Little_Athens,Little Athens,little-athens,little-athens,UNK
+ATHENS,13517898,649,462,1216,http://en.wikipedia.org/wiki/Classical_Athens,Classical Athens,classical-athens,classical-athens,GPE
+ND,1514747,303,166,,http://en.wikipedia.org/wiki/N_(New_York_City_Subway_service),N,n,n-new-york-city-subway-service,UNK
+ND,489658,80,69,,http://en.wikipedia.org/wiki/Nd:YAG_laser,Nd:YAG laser,nd-yag-laser,nd-yag-laser,UNK
+Miltiadis Evert,5481658,44,37,1216,http://en.wikipedia.org/wiki/Miltiadis_Evert,Miltiadis Evert,miltiadis-evert,miltiadis-evert,PER
+Alexandroupolis,1749399,358,335,1216;9303867,http://en.wikipedia.org/wiki/Alexandroupoli,Alexandroupoli,alexandroupoli,alexandroupoli,UNK
+Alexandroupolis,9303867,54,70,48962;1749399,http://en.wikipedia.org/wiki/Alexandroupolis_International_Airport,Alexandroupolis International Airport,alexandroupolis-international-airport,alexandroupolis-international-airport,UNK
+Evert,222469,1035,595,,http://en.wikipedia.org/wiki/Chris_Evert,Chris Evert,chris-evert,chris-evert,PER
+Costas Simitis,393824,256,225,9317;1216;9582;48962,http://en.wikipedia.org/wiki/Costas_Simitis,Costas Simitis,costas-simitis,costas-simitis,PER
+Simitis,393824,256,225,9317;1216;9582;48962,http://en.wikipedia.org/wiki/Costas_Simitis,Costas Simitis,costas-simitis,costas-simitis,PER
+EU,20753177,36,83,,http://en.wikipedia.org/wiki/Euthanasia_device,Euthanasia device,euthanasia-device,euthanasia-device,UNK
+EU,9472,7193,685,1598533;300632;9239;9317;9477;9582;1884378,http://en.wikipedia.org/wiki/Euro,Euro,euro,euro,UNK
+EU,9954,3944,585,1216;9954;9239;9317;300632,http://en.wikipedia.org/wiki/Eurovision_Song_Contest,Eurovision Song Contest,eurovision-song-contest,eurovision-song-contest,UNK
+EU,1884378,42,79,9472;1598533;9317;1884378,http://en.wikipedia.org/wiki/Euro_convergence_criteria,Euro convergence criteria,euro-convergence-criteria,euro-convergence-criteria,UNK
+EU,1598533,661,805,1598533;1884378;9239;300632;9317;9472;9582,http://en.wikipedia.org/wiki/Economy_of_the_European_Union,Economy of the European Union,economy-of-the-european-union,economy-of-the-european-union,UNK
+EU,300632,260,352,9954;9239;300632;9317;9472;1598533;9582,http://en.wikipedia.org/wiki/Symbols_of_Europe,Symbols of Europe,symbols-of-europe,symbols-of-europe,UNK
+EU,9477,332,266,9239;9472;9477,http://en.wikipedia.org/wiki/Europium,Europium,europium,europium,UNK
+EU,450398,441,214,,http://en.wikipedia.org/wiki/Free_Software_Foundation_Europe,Free Software Foundation Europe,free-software-foundation-europe,free-software-foundation-europe,ORG
+EU,11654068,302,202,,http://en.wikipedia.org/wiki/Eucoccidiorida,Eucoccidiorida,eucoccidiorida,eucoccidiorida,UNK
+EU,14024977,1,5,,http://en.wikipedia.org/wiki/EU_(group),EU,eu,eu-group,UNK
+EU,3908028,71,80,9317;9582,http://en.wikipedia.org/wiki/EUDemocrats,EUDemocrats,eudemocrats,eudemocrats,UNK
+EU,2780146,123,41,2780146;9317,http://en.wikipedia.org/wiki/European_emission_standards,European emission standards,european-emission-standards,european-emission-standards,UNK
+EU,319563,335,343,9239;9317;319563,http://en.wikipedia.org/wiki/.eu,.eu,eu,eu,UNK
+EU,9582,1137,478,1598533;393824;300632;9317;9472;3908028;9582,http://en.wikipedia.org/wiki/European_Council,European Council,european-council,european-council,UNK
+EU,21347120,806,762,,"http://en.wikipedia.org/wiki/Eu,_Seine-Maritime","Eu, Seine-Maritime",eu-seine-maritime,eu-seine-maritime,ORG
+EU,9239,51349,1032,1216;9954;9239;9317;9472;9477;319563;300632;1598533,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+EU,15416516,2,1,,http://en.wikipedia.org/wiki/Eu-,Eu-,eu,eu,GPE
+EU,9317,19822,836,1216;2780146;9954;9239;9317;9472;9582;319563;1884378;1598533;300632;393824;3908028,http://en.wikipedia.org/wiki/European_Union,European Union,european-union,european-union,UNK

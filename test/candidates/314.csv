@@ -1,0 +1,222 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+SWEDISH,5058739,77359,853,3343;976346;8035;27052423;10946;11867;133621;1816947;27483885;1515224;580173;578468;21148;162977;26689;26889;38161630;3767091;9614518;679716;6430550;349775;67302;9647657;76972;10454397;33894446;18781780;217537;18949613;1019545;15000902;19907266;1023035;5058739;8060626;10791592;1226329;511282;12133235;130787;250204;248865,http://en.wikipedia.org/wiki/Sweden,Sweden,sweden,sweden,GPE
+SWEDISH,162977,406,88,1738964;5058739;26689,http://en.wikipedia.org/wiki/Finland_Swedish,Finland Swedish,finland-swedish,finland-swedish,UNK
+SWEDISH,26689,7581,370,1515224;4863289;7822176;578468;1738964;976346;162977;217537;10791592;26689;18935003;1816947;76972;5058739,http://en.wikipedia.org/wiki/Swedish_language,Swedish language,swedish-language,swedish-language,UNK
+SWEDISH,1738964,155,188,26689;976346;162977,http://en.wikipedia.org/wiki/Old_Swedish,Old Swedish,old-swedish,old-swedish,UNK
+SWEDISH,7822176,26,26,26689;4863289,http://en.wikipedia.org/wiki/Swedish_Theatre_(Stockholm),Swedish Theatre,swedish-theatre,swedish-theatre-stockholm,UNK
+SWEDISH,4863289,28,19,26689;7822176,http://en.wikipedia.org/wiki/Swedish_Theatre,Swedish Theatre,swedish-theatre,swedish-theatre,UNK
+SWEDISH,1515224,79,48,26689;5058739,http://en.wikipedia.org/wiki/Swedish_Institute,Swedish Institute,swedish-institute,swedish-institute,UNK
+SWEDISH,18935003,120,108,26689;18935003,http://en.wikipedia.org/wiki/Swedish_Wikipedia,Swedish Wikipedia,swedish-wikipedia,swedish-wikipedia,UNK
+GRAND PRIX,25701623,2,8,,http://en.wikipedia.org/wiki/Grand_Prix_(chair),Grand Prix,grand-prix,grand-prix-chair,UNK
+GRAND PRIX,2509139,114,118,,http://en.wikipedia.org/wiki/Grand_Prix_4,Grand Prix 4,grand-prix-4,grand-prix-4,UNK
+GRAND PRIX,348674,634,292,10946;291626;11867;3343;349775;294253;248865,http://en.wikipedia.org/wiki/Grand_Prix_motor_racing,Grand Prix motor racing,grand-prix-motor-racing,grand-prix-motor-racing,UNK
+GRAND PRIX,248865,398,325,10946;291626;11867;5058739;4913064;348674;349775;511282;294253,http://en.wikipedia.org/wiki/United_States_Grand_Prix,United States Grand Prix,united-states-grand-prix,united-states-grand-prix,UNK
+GRAND PRIX,539881,233,137,539881,http://en.wikipedia.org/wiki/Pontiac_Grand_Prix,Pontiac Grand Prix,pontiac-grand-prix,pontiac-grand-prix,UNK
+GRAND PRIX,54221,2520,458,13729;21148;243320;11867;13504069;54221,http://en.wikipedia.org/wiki/Grand_Prix_motorcycle_racing,Grand Prix motorcycle racing,grand-prix-motorcycle-racing,grand-prix-motorcycle-racing,UNK
+GRAND PRIX,27052423,90,112,5058739,http://en.wikipedia.org/wiki/British_Grand_Prix_(athletics),British Grand Prix,british-grand-prix,british-grand-prix-athletics,UNK
+GRAND PRIX,4064650,184,121,11867;21148,http://en.wikipedia.org/wiki/Grand_Prix_(Magic:_The_Gathering),Grand Prix,grand-prix,grand-prix-magic-the-gathering,UNK
+GRAND PRIX,29227825,4,41,,http://en.wikipedia.org/wiki/Grand_Prix_(Annecy_Film_Festival),Grand Prix,grand-prix,grand-prix-annecy-film-festival,UNK
+GRAND PRIX,294253,323,293,10946;33166;291626;11867;348674;349775;511282;248865,http://en.wikipedia.org/wiki/British_Grand_Prix,British Grand Prix,british-grand-prix,british-grand-prix,UNK
+GRAND PRIX,291626,444,397,76972;10946;11867;3343;4913064;348674;349775;511282;294253;13729;248865,http://en.wikipedia.org/wiki/Australian_Grand_Prix,Australian Grand Prix,australian-grand-prix,australian-grand-prix,UNK
+GRAND PRIX,33894446,44,56,5058739,http://en.wikipedia.org/wiki/British_Grand_Prix_(squash),British Grand Prix,british-grand-prix,british-grand-prix-squash,UNK
+GRAND PRIX,37478843,59,287,3343,http://en.wikipedia.org/wiki/Grand_Prix_(Belgian_Film_Critics_Association),Grand Prix,grand-prix,grand-prix-belgian-film-critics-association,UNK
+GRAND PRIX,12133235,212,216,76972;33166;11867;5058739;3343,http://en.wikipedia.org/wiki/Grand_Prix_(Cannes_Film_Festival),Grand Prix,grand-prix,grand-prix-cannes-film-festival,UNK
+GRAND PRIX,10946,378,346,291626;11867;5058739;4913064;348674;349775;511282;294253;248865,http://en.wikipedia.org/wiki/Monaco_Grand_Prix,Monaco Grand Prix,monaco-grand-prix,monaco-grand-prix,UNK
+GRAND PRIX,36421909,4,15,,http://en.wikipedia.org/wiki/The_Grand_Prix,The Grand Prix,the-grand-prix,the-grand-prix,UNK
+GRAND PRIX,2048162,973,171,4913064,http://en.wikipedia.org/wiki/Grand_Prix_tennis_circuit,Grand Prix tennis circuit,grand-prix-tennis-circuit,grand-prix-tennis-circuit,ORG
+GRAND PRIX,349775,282,336,10946;33166;291626;11867;5058739;3343;4913064;348674;511282;294253;248865,http://en.wikipedia.org/wiki/German_Grand_Prix,German Grand Prix,german-grand-prix,german-grand-prix,UNK
+GRAND PRIX,511282,144,169,294253;10946;291626;11867;248865;5058739;1226329;349775,http://en.wikipedia.org/wiki/San_Marino_Grand_Prix,San Marino Grand Prix,san-marino-grand-prix,san-marino-grand-prix,UNK
+LANDSKRONA,1019545,368,108,76972;1816947;5058739;3767091;130787,http://en.wikipedia.org/wiki/Landskrona,Landskrona,landskrona,landskrona,GPE
+LANDSKRONA,1816947,471,336,76972;1816947;33166;5058739;1019545;26689;19907266;578468,http://en.wikipedia.org/wiki/Landskrona_BoIS,Landskrona BoIS,landskrona-bois,landskrona-bois,UNK
+LANDSKRONA,130787,87,104,76972;5058739;1019545;11867,http://en.wikipedia.org/wiki/Landskrona_Municipality,Landskrona Municipality,landskrona-municipality,landskrona-municipality,GPE
+Sweden,5058739,77359,853,3343;976346;8035;27052423;10946;11867;133621;1816947;27483885;1515224;580173;578468;21148;162977;26689;26889;38161630;3767091;9614518;679716;6430550;349775;67302;9647657;76972;10454397;33894446;18781780;217537;18949613;1019545;15000902;19907266;1023035;5058739;8060626;10791592;1226329;511282;12133235;130787;250204;248865,http://en.wikipedia.org/wiki/Sweden,Sweden,sweden,sweden,GPE
+Sweden,976346,30,39,26689;5058739;1738964,http://en.wikipedia.org/wiki/Name_of_Sweden,Name of Sweden,name-of-sweden,name-of-sweden,UNK
+Sweden,116094,60,85,116074,"http://en.wikipedia.org/wiki/Sweden,_Maine","Sweden, Maine",sweden-maine,sweden-maine,GPE
+Sweden,38358054,40,54,133621,"http://en.wikipedia.org/wiki/Sweden_Valley,_Pennsylvania","Sweden Valley, Pennsylvania",sweden-valley-pennsylvania,sweden-valley-pennsylvania,GPE
+Sweden,37500323,20,41,,"http://en.wikipedia.org/wiki/Sweden,_Arkansas","Sweden, Arkansas",sweden-arkansas,sweden-arkansas,UNK
+Sweden,217537,459,295,76972;5058739;26689;217537;26889,http://en.wikipedia.org/wiki/Union_between_Sweden_and_Norway,Union between Sweden and Norway,union-between-sweden-and-norway,union-between-sweden-and-norway,GPE
+Sweden,6430550,146,185,76972;5058739,http://en.wikipedia.org/wiki/Sweden_and_the_euro,Sweden and the euro,sweden-and-the-euro,sweden-and-the-euro,UNK
+Sweden,30241072,11,21,,"http://en.wikipedia.org/wiki/Sweden,_Texas","Sweden, Texas",sweden-texas,sweden-texas,UNK
+Sweden,10791592,32,39,5058739;26689;10791592,http://en.wikipedia.org/wiki/Sweden_Party,Sweden Party,sweden-party,sweden-party,UNK
+Sweden,26889,163,292,76972;217537;67302;21493015;8032;11867;5058739;26889,http://en.wikipedia.org/wiki/Geography_of_Sweden,Geography of Sweden,geography-of-sweden,geography-of-sweden,UNK
+Sweden,578468,3430,805,580173;33166;9647657;250204;11867;3343;26689;679716;578468;19907266;1816947;21148;76972;5058739;3767091,http://en.wikipedia.org/wiki/Sweden_national_football_team,Sweden national football team,sweden-national-football-team,sweden-national-football-team,UNK
+Sweden,126646,65,64,,"http://en.wikipedia.org/wiki/Sweden,_New_York","Sweden, New York",sweden-new-york,sweden-new-york,GPE
+Sweden,133621,43,54,5058739;38358054,"http://en.wikipedia.org/wiki/Sweden_Township,_Potter_County,_Pennsylvania","Sweden Township, Potter County, Pennsylvania",sweden-township-potter-county-pennsylvania,sweden-township-potter-county-pennsylvania,GPE
+Sweden,3767091,118,72,3422357;76972;5058739;3335617;1019545;578468,http://en.wikipedia.org/wiki/Australian_rules_football_in_Sweden,Australian rules football in Sweden,australian-rules-football-in-sweden,australian-rules-football-in-sweden,PER
+Swedish,5058739,77359,853,3343;976346;8035;27052423;10946;11867;133621;1816947;27483885;1515224;580173;578468;21148;162977;26689;26889;38161630;3767091;9614518;679716;6430550;349775;67302;9647657;76972;10454397;33894446;18781780;217537;18949613;1019545;15000902;19907266;1023035;5058739;8060626;10791592;1226329;511282;12133235;130787;250204;248865,http://en.wikipedia.org/wiki/Sweden,Sweden,sweden,sweden,GPE
+Swedish,162977,406,88,1738964;5058739;26689,http://en.wikipedia.org/wiki/Finland_Swedish,Finland Swedish,finland-swedish,finland-swedish,UNK
+Swedish,26689,7581,370,1515224;4863289;7822176;578468;1738964;976346;162977;217537;10791592;26689;18935003;1816947;76972;5058739,http://en.wikipedia.org/wiki/Swedish_language,Swedish language,swedish-language,swedish-language,UNK
+Swedish,1738964,155,188,26689;976346;162977,http://en.wikipedia.org/wiki/Old_Swedish,Old Swedish,old-swedish,old-swedish,UNK
+Swedish,7822176,26,26,26689;4863289,http://en.wikipedia.org/wiki/Swedish_Theatre_(Stockholm),Swedish Theatre,swedish-theatre,swedish-theatre-stockholm,UNK
+Swedish,4863289,28,19,26689;7822176,http://en.wikipedia.org/wiki/Swedish_Theatre,Swedish Theatre,swedish-theatre,swedish-theatre,UNK
+Swedish,1515224,79,48,26689;5058739,http://en.wikipedia.org/wiki/Swedish_Institute,Swedish Institute,swedish-institute,swedish-institute,UNK
+Swedish,18935003,120,108,26689;18935003,http://en.wikipedia.org/wiki/Swedish_Wikipedia,Swedish Wikipedia,swedish-wikipedia,swedish-wikipedia,UNK
+Grand Prix,25701623,2,8,,http://en.wikipedia.org/wiki/Grand_Prix_(chair),Grand Prix,grand-prix,grand-prix-chair,UNK
+Grand Prix,2509139,114,118,,http://en.wikipedia.org/wiki/Grand_Prix_4,Grand Prix 4,grand-prix-4,grand-prix-4,UNK
+Grand Prix,348674,634,292,10946;291626;11867;3343;349775;294253;248865,http://en.wikipedia.org/wiki/Grand_Prix_motor_racing,Grand Prix motor racing,grand-prix-motor-racing,grand-prix-motor-racing,UNK
+Grand Prix,248865,398,325,10946;291626;11867;5058739;4913064;348674;349775;511282;294253,http://en.wikipedia.org/wiki/United_States_Grand_Prix,United States Grand Prix,united-states-grand-prix,united-states-grand-prix,UNK
+Grand Prix,539881,233,137,539881,http://en.wikipedia.org/wiki/Pontiac_Grand_Prix,Pontiac Grand Prix,pontiac-grand-prix,pontiac-grand-prix,UNK
+Grand Prix,54221,2520,458,13729;21148;243320;11867;13504069;54221,http://en.wikipedia.org/wiki/Grand_Prix_motorcycle_racing,Grand Prix motorcycle racing,grand-prix-motorcycle-racing,grand-prix-motorcycle-racing,UNK
+Grand Prix,27052423,90,112,5058739,http://en.wikipedia.org/wiki/British_Grand_Prix_(athletics),British Grand Prix,british-grand-prix,british-grand-prix-athletics,UNK
+Grand Prix,4064650,184,121,11867;21148,http://en.wikipedia.org/wiki/Grand_Prix_(Magic:_The_Gathering),Grand Prix,grand-prix,grand-prix-magic-the-gathering,UNK
+Grand Prix,29227825,4,41,,http://en.wikipedia.org/wiki/Grand_Prix_(Annecy_Film_Festival),Grand Prix,grand-prix,grand-prix-annecy-film-festival,UNK
+Grand Prix,294253,323,293,10946;33166;291626;11867;348674;349775;511282;248865,http://en.wikipedia.org/wiki/British_Grand_Prix,British Grand Prix,british-grand-prix,british-grand-prix,UNK
+Grand Prix,291626,444,397,76972;10946;11867;3343;4913064;348674;349775;511282;294253;13729;248865,http://en.wikipedia.org/wiki/Australian_Grand_Prix,Australian Grand Prix,australian-grand-prix,australian-grand-prix,UNK
+Grand Prix,33894446,44,56,5058739,http://en.wikipedia.org/wiki/British_Grand_Prix_(squash),British Grand Prix,british-grand-prix,british-grand-prix-squash,UNK
+Grand Prix,37478843,59,287,3343,http://en.wikipedia.org/wiki/Grand_Prix_(Belgian_Film_Critics_Association),Grand Prix,grand-prix,grand-prix-belgian-film-critics-association,UNK
+Grand Prix,12133235,212,216,76972;33166;11867;5058739;3343,http://en.wikipedia.org/wiki/Grand_Prix_(Cannes_Film_Festival),Grand Prix,grand-prix,grand-prix-cannes-film-festival,UNK
+Grand Prix,10946,378,346,291626;11867;5058739;4913064;348674;349775;511282;294253;248865,http://en.wikipedia.org/wiki/Monaco_Grand_Prix,Monaco Grand Prix,monaco-grand-prix,monaco-grand-prix,UNK
+Grand Prix,36421909,4,15,,http://en.wikipedia.org/wiki/The_Grand_Prix,The Grand Prix,the-grand-prix,the-grand-prix,UNK
+Grand Prix,2048162,973,171,4913064,http://en.wikipedia.org/wiki/Grand_Prix_tennis_circuit,Grand Prix tennis circuit,grand-prix-tennis-circuit,grand-prix-tennis-circuit,ORG
+Grand Prix,349775,282,336,10946;33166;291626;11867;5058739;3343;4913064;348674;511282;294253;248865,http://en.wikipedia.org/wiki/German_Grand_Prix,German Grand Prix,german-grand-prix,german-grand-prix,UNK
+Grand Prix,511282,144,169,294253;10946;291626;11867;248865;5058739;1226329;349775,http://en.wikipedia.org/wiki/San_Marino_Grand_Prix,San Marino Grand Prix,san-marino-grand-prix,san-marino-grand-prix,UNK
+Joel Smets,6369246,109,119,40412317;243320;3347463;14948713;18769304;3343;679716;11867,http://en.wikipedia.org/wiki/Joël_Smets,Joël Smets,joel-smets,joel-smets,PER
+Belgium,3343,55772,902,37478843;3343;8035;11867;291626;580173;22885373;578468;21332;21148;33166;662640;4913064;679716;349775;348674;21493015;67302;33005082;9647657;76972;2164343;5434703;18949613;5058739;14948713;1226329;12133235;250204;6369246,http://en.wikipedia.org/wiki/Belgium,Belgium,belgium,belgium,GPE
+Belgium,260594,47,66,260593,"http://en.wikipedia.org/wiki/Belgium,_Wisconsin","Belgium, Wisconsin",belgium-wisconsin,belgium-wisconsin,GPE
+Belgium,2916721,43,53,,"http://en.wikipedia.org/wiki/Belgium,_West_Virginia","Belgium, West Virginia",belgium-west-virginia,belgium-west-virginia,GPE
+Belgium,662640,224,217,67302;1490969;662640;3378533;3343,http://en.wikipedia.org/wiki/Religion_in_Belgium,Religion in Belgium,religion-in-belgium,religion-in-belgium,UNK
+Belgium,67302,137,293,76972;67302;21493015;8032;11867;18949613;21148;662640;5058739;26889;3343,http://en.wikipedia.org/wiki/Geography_of_Belgium,Geography of Belgium,geography-of-belgium,geography-of-belgium,UNK
+Belgium,22885373,1,102,3343,http://en.wikipedia.org/wiki/Belgium_Rugby_League,Belgium Rugby League,belgium-rugby-league,belgium-rugby-league,UNK
+Belgium,260593,34,43,260594,"http://en.wikipedia.org/wiki/Belgium_(town),_Wisconsin","Belgium (town), Wisconsin",belgium-town-wisconsin,belgium-town-wisconsin,GPE
+Belgium,111979,61,325,,"http://en.wikipedia.org/wiki/Belgium,_Illinois","Belgium, Illinois",belgium-illinois,belgium-illinois,GPE
+Belgium,679716,2505,927,580173;21148;33166;6369246;1023035;9647657;250204;11867;5058739;3343;679716;578468,http://en.wikipedia.org/wiki/Belgium_national_football_team,Belgium national football team,belgium-national-football-team,belgium-national-football-team,UNK
+Belgium,33005082,1,36,3343;33005082,http://en.wikipedia.org/wiki/Belgium_(1914–18),Belgium,belgium,belgium-1914–18,GPE
+Belgium,121335,78,100,,"http://en.wikipedia.org/wiki/Belgium_Township,_Polk_County,_Minnesota","Belgium Township, Polk County, Minnesota",belgium-township-polk-county-minnesota,belgium-township-polk-county-minnesota,GPE
+Husaberg,3347463,27,22,6369246;13504069;243320,http://en.wikipedia.org/wiki/Husaberg,Husaberg,husaberg,husaberg,UNK
+Peter Johansson,18781780,4,9,5058739;18781521;243320,http://en.wikipedia.org/wiki/Peter_Johansson_(motorcyclist),Peter Johansson,peter-johansson,peter-johansson-motorcyclist,UNK
+Peter Johansson,9614518,51,43,5058739;15000902;18781521,http://en.wikipedia.org/wiki/Peter_Johansson_(figure_skater),Peter Johansson,peter-johansson,peter-johansson-figure-skater,UNK
+Peter Johansson,38161630,2,11,5058739;18781521,http://en.wikipedia.org/wiki/Peter_Johansson_(footballer),Peter Johansson,peter-johansson,peter-johansson-footballer,PER
+Peter Johansson,18781521,4,5,15000902;9614518;38161630;18781780,http://en.wikipedia.org/wiki/Peter_Johansson,Peter Johansson,peter-johansson,peter-johansson,PER
+Peter Johansson,15000902,4,15,11867;5058739;18781521;9614518,http://en.wikipedia.org/wiki/Peter_Johansson_(musician),Peter Johansson,peter-johansson,peter-johansson-musician,UNK
+Husqvarna,13504069,202,129,243320;3347463;14948713;13504069;8060626;54221,http://en.wikipedia.org/wiki/Husqvarna_Motorcycles,Husqvarna Motorcycles,husqvarna-motorcycles,husqvarna-motorcycles,UNK
+Husqvarna,8060626,103,80,5058739;13504069;19907266,http://en.wikipedia.org/wiki/Husqvarna_AB,Husqvarna AB,husqvarna-ab,husqvarna-ab,UNK
+Husqvarna,19907266,107,120,76972;1816947;11867;8060626;5058739;578468,http://en.wikipedia.org/wiki/Husqvarna_FF,Husqvarna FF,husqvarna-ff,husqvarna-ff,UNK
+Netherlands,21148,78333,1147,3343;8035;11867;27483885;580173;578468;21332;21354;21148;21161;33166;169683;4913064;54221;1553658;679716;21493015;67302;9647657;76972;475061;2164343;5434703;18949613;1023035;5058739;4064650;1226329;250204,http://en.wikipedia.org/wiki/Netherlands,Netherlands,netherlands,netherlands,GPE
+Netherlands,169683,33,39,21148,http://en.wikipedia.org/wiki/Capital_of_the_Netherlands,Capital of the Netherlands,capital-of-the-netherlands,capital-of-the-netherlands,GPE
+Netherlands,2164343,701,337,4913064;478115;9647657;3343;21148,http://en.wikipedia.org/wiki/Netherlands_national_cricket_team,Netherlands national cricket team,netherlands-national-cricket-team,netherlands-national-cricket-team,UNK
+Netherlands,9647657,3010,688,5434703;580173;33166;9647657;250204;11867;3343;679716;578468;27483885;2164343;21148;1023035;5058739,http://en.wikipedia.org/wiki/Netherlands_national_football_team,Netherlands national football team,netherlands-national-football-team,netherlands-national-football-team,UNK
+Netherlands,21332,1952,394,21670;18949613;21148;21161;4913064;3343,http://en.wikipedia.org/wiki/Netherlands_Antilles,Netherlands Antilles,netherlands-antilles,netherlands-antilles,GPE
+Netherlands,27483885,513,309,5058739;9647657;21148,http://en.wikipedia.org/wiki/Netherlands_national_under-19_football_team,Netherlands national under-19 football team,netherlands-national-under-19-football-team,netherlands-national-under-19-football-team,UNK
+Netherlands,475061,100,133,21148;5434703,http://en.wikipedia.org/wiki/Greater_Netherlands,Greater Netherlands,greater-netherlands,greater-netherlands,UNK
+Netherlands,5434703,71,174,21148;21161;475061;9647657;3343;4913064;18949613,http://en.wikipedia.org/wiki/Netherlands_(toponymy),Netherlands,netherlands,netherlands-toponymy,UNK
+Netherlands,1553658,68,12,21148;18949613,http://en.wikipedia.org/wiki/European_Netherlands,European Netherlands,european-netherlands,european-netherlands,UNK
+Netherlands,10477250,25,56,,http://en.wikipedia.org/wiki/Great_Depression_in_the_Netherlands,Great Depression in the Netherlands,great-depression-in-the-netherlands,great-depression-in-the-netherlands,UNK
+Netherlands,21161,153,222,21332;11867;18949613;21148;21161;5434703,http://en.wikipedia.org/wiki/Transport_in_the_Netherlands,Transport in the Netherlands,transport-in-the-netherlands,transport-in-the-netherlands,UNK
+Netherlands,18949613,1365,341,1553658;4913064;5434703;76972;67302;11867;5058739;3343;21332;21148;21161,http://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands,Kingdom of the Netherlands,kingdom-of-the-netherlands,kingdom-of-the-netherlands,GPE
+Honda,13729,4786,876,933600;950208;894513;5394328;2498915;2013905;753812;462232;4779396;13729;2662513;7138251;7417292;364459;4821737;291626;9403458;14948713;54221,http://en.wikipedia.org/wiki/Honda,Honda,honda,honda,UNK
+Honda,894513,307,313,364459;950208;2498915;933600;2013905;7417292;4779396;5394328;13729;462232,http://en.wikipedia.org/wiki/Honda_City,Honda City,honda-city,honda-city,UNK
+Honda,23593860,8,12,,"http://en.wikipedia.org/wiki/Honda_Bay,_Philippines","Honda Bay, Philippines",honda-bay-philippines,honda-bay-philippines,UNK
+Honda,4821737,277,207,13729,http://en.wikipedia.org/wiki/Little_Honda,Little Honda,little-honda,little-honda,UNK
+Honda,9403458,140,143,13729,http://en.wikipedia.org/wiki/Honda_Airport,Honda Airport,honda-airport,honda-airport,UNK
+Honda,4779396,236,275,364459;7417292;950208;5394328;13729;462232;2498915;933600;894513;4913064;2013905,http://en.wikipedia.org/wiki/Honda_City_(AA),Honda City,honda-city,honda-city-aa,UNK
+Honda,950208,242,230,364459;7417292;950208;4779396;5394328;13729;462232;2498915;894513;2013905,http://en.wikipedia.org/wiki/Honda_B_engine,Honda B engine,honda-b-engine,honda-b-engine,UNK
+Honda,462232,77,256,7138251;364459;950208;4779396;5394328;13729;2498915;2662513;894513;2013905,http://en.wikipedia.org/wiki/Honda_Magna,Honda Magna,honda-magna,honda-magna,UNK
+Honda,933600,72,14,364459;13729;894513;4779396;2498915,http://en.wikipedia.org/wiki/Honda_Type_R,Honda Type R,honda-type-r,honda-type-r,ORG
+Honda,753812,849,391,13729,http://en.wikipedia.org/wiki/Honda_Center,Honda Center,honda-center,honda-center,UNK
+Honda,383758,250,174,,http://en.wikipedia.org/wiki/Mike_Honda,Mike Honda,mike-honda,mike-honda,PER
+Honda,2013905,254,252,364459;7417292;950208;4779396;5394328;13729;462232;2498915;894513,http://en.wikipedia.org/wiki/Honda_FCX_Clarity,Honda FCX Clarity,honda-fcx-clarity,honda-fcx-clarity,UNK
+Honda,2498915,243,268,364459;7417292;950208;4779396;5394328;13729;462232;933600;894513;2013905,http://en.wikipedia.org/wiki/Honda_HR-V,Honda HR-V,honda-hr-v,honda-hr-v,UNK
+Honda,7138251,61,87,462232;2662513;13729,http://en.wikipedia.org/wiki/Honda_CMX250C,Honda CMX250C,honda-cmx250c,honda-cmx250c,UNK
+Honda,689441,82,196,,"http://en.wikipedia.org/wiki/La_Honda,_California","La Honda, California",la-honda-california,la-honda-california,GPE
+Honda,5394328,232,240,364459;7417292;950208;4779396;13729;462232;2498915;894513;2013905,http://en.wikipedia.org/wiki/Honda_ST_series_(minibike),Honda ST series,honda-st-series,honda-st-series-minibike,UNK
+Honda,2662513,64,94,7138251;462232;13729,http://en.wikipedia.org/wiki/Honda_CBR1100XX,Honda CBR1100XX,honda-cbr1100xx,honda-cbr1100xx,UNK
+Honda,364459,618,375,364459;950208;2498915;933600;2013905;7417292;4779396;5394328;13729;462232;894513,http://en.wikipedia.org/wiki/Honda_Accord,Honda Accord,honda-accord,honda-accord,UNK
+Honda,9009349,28,104,,http://en.wikipedia.org/wiki/DJ_Honda,DJ Honda,dj-honda,dj-honda,UNK
+Honda,7417292,388,516,364459;950208;2498915;2013905;4779396;5394328;13729;894513,http://en.wikipedia.org/wiki/Honda_FC,Honda FC,honda-fc,honda-fc,UNK
+Honda,23120495,30,42,,http://en.wikipedia.org/wiki/Honda_Station,Honda Station,honda-station,honda-station,UNK
+Honda,13223744,32,11,,http://en.wikipedia.org/wiki/Honda_clan,Honda clan,honda-clan,honda-clan,GPE
+Honda,2389099,78,53,,"http://en.wikipedia.org/wiki/Honda,_Tolima","Honda, Tolima",honda-tolima,honda-tolima,GPE
+Jacky Martens,14948713,49,55,6369246;13504069;13729;18769304;3343;243320,http://en.wikipedia.org/wiki/Jacky_Martens,Jacky Martens,jacky-martens,jacky-martens,PER
+KTM,243320,568,74,3347463;6369246;14948713;13504069;18781780;54221;18769304,http://en.wikipedia.org/wiki/KTM,KTM,ktm,ktm,UNK
+KTM,1778971,162,146,,http://en.wikipedia.org/wiki/KTM_Komuter,KTM Komuter,ktm-komuter,ktm-komuter,UNK
+KTM,13990130,39,77,,http://en.wikipedia.org/wiki/KTMK,KTMK,ktmk,ktmk,ORG
+Shayne King,18769304,27,37,6369246;243320;4913064;14948713,http://en.wikipedia.org/wiki/Shayne_King,Shayne King,shayne-king,shayne-king,UNK
+New Zealand,4913064,57468,846,11510858;3343;10946;291626;21670;21332;21353;21354;21148;315351;2048162;455232;3889279;1148043;4913064;4779396;349775;3422357;2316836;478115;76972;2313225;29417435;646010;2164343;5434703;18949613;1023035;7188443;18769304;1112461;248865,http://en.wikipedia.org/wiki/New_Zealand,New Zealand,new-zealand,new-zealand,GPE
+New Zealand,21354,158,259,11867;21353;21354;21148;2316836;21670;4913064,http://en.wikipedia.org/wiki/Demographics_of_New_Zealand,Demographics of New Zealand,demographics-of-new-zealand,demographics-of-new-zealand,UNK
+New Zealand,29417435,1,12,4913064,http://en.wikipedia.org/wiki/Mount_New_Zealand,Mount New Zealand,mount-new-zealand,mount-new-zealand,UNK
+New Zealand,3889279,87,121,7188443;4913064,http://en.wikipedia.org/wiki/Electoral_system_of_New_Zealand,Electoral system of New Zealand,electoral-system-of-new-zealand,electoral-system-of-new-zealand,UNK
+New Zealand,7188443,494,443,3889279;4913064,"http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008","New Zealand general election, 2008",new-zealand-general-election-2008,new-zealand-general-election-2008,UNK
+New Zealand,21865279,41,58,,http://en.wikipedia.org/wiki/New_Zealand_Town,New Zealand Town,new-zealand-town,new-zealand-town,UNK
+New Zealand,21353,149,205,21353;21354;2316836;21670;4913064,http://en.wikipedia.org/wiki/Geography_of_New_Zealand,Geography of New Zealand,geography-of-new-zealand,geography-of-new-zealand,UNK
+New Zealand,426231,107,11,,http://en.wikipedia.org/wiki/University_of_New_Zealand,University of New Zealand,university-of-new-zealand,university-of-new-zealand,ORG
+New Zealand,455232,88,75,4913064,http://en.wikipedia.org/wiki/New_Zealand_Division,New Zealand Division,new-zealand-division,new-zealand-division,ORG
+New Zealand,21670,516,409,21670;4913064;21332;21353;21354;2316836,http://en.wikipedia.org/wiki/New_Zealand_English,New Zealand English,new-zealand-english,new-zealand-english,ORG
+New Zealand,646010,92,99,4913064,http://en.wikipedia.org/wiki/New_Zealand_Party,New Zealand Party,new-zealand-party,new-zealand-party,UNK
+New Zealand,3422357,83,89,1023035;3335617;4913064;3767091;478115,http://en.wikipedia.org/wiki/New_Zealand_national_Australian_rules_football_team,New Zealand national Australian rules football team,new-zealand-national-australian-rules-football-team,new-zealand-national-australian-rules-football-team,UNK
+New Zealand,18285383,3,28,,"http://en.wikipedia.org/wiki/New_Zealand,_Wiltshire","New Zealand, Wiltshire",new-zealand-wiltshire,new-zealand-wiltshire,GPE
+New Zealand,273592,191,224,,"http://en.wikipedia.org/wiki/New_Zealand,_Buckinghamshire","New Zealand, Buckinghamshire",new-zealand-buckinghamshire,new-zealand-buckinghamshire,UNK
+New Zealand,2316836,290,262,21353;21354;21670;4913064,http://en.wikipedia.org/wiki/New_Zealand_nationality_law,New Zealand nationality law,new-zealand-nationality-law,new-zealand-nationality-law,ORG
+New Zealand,315351,207,130,11867;4913064,http://en.wikipedia.org/wiki/New_Zealand_Company,New Zealand Company,new-zealand-company,new-zealand-company,UNK
+New Zealand,478115,1457,488,3422357;2164343;4913064;1023035,http://en.wikipedia.org/wiki/New_Zealand_national_cricket_team,New Zealand national cricket team,new-zealand-national-cricket-team,new-zealand-national-cricket-team,UNK
+New Zealand,2313225,404,283,2313225;4913064;1023035;1112461,http://en.wikipedia.org/wiki/New_Zealand_Football,New Zealand Football,new-zealand-football,new-zealand-football,ORG
+New Zealand,1112461,412,343,2313225;4913064,http://en.wikipedia.org/wiki/New_Zealand_Rugby_League,New Zealand Rugby League,new-zealand-rugby-league,new-zealand-rugby-league,UNK
+New Zealand,11510858,0,8,4913064,http://en.wikipedia.org/wiki/New_Zealand_College,New Zealand College,new-zealand-college,new-zealand-college,UNK
+New Zealand,1023035,1494,454,3422357;478115;580173;21148;33166;4913064;1023035;9647657;250204;2313225;11867;5058739;679716,http://en.wikipedia.org/wiki/New_Zealand_national_football_team,New Zealand national football team,new-zealand-national-football-team,new-zealand-national-football-team,UNK
+New Zealand,28561395,29,35,,"http://en.wikipedia.org/wiki/New_Zealand,_Derby","New Zealand, Derby",new-zealand-derby,new-zealand-derby,GPE
+New Zealand,1148043,368,147,4913064,http://en.wikipedia.org/wiki/New_Zealand_cuisine,New Zealand cuisine,new-zealand-cuisine,new-zealand-cuisine,UNK
+Martens,14948713,49,55,6369246;13504069;13729;18769304;3343;243320,http://en.wikipedia.org/wiki/Jacky_Martens,Jacky Martens,jacky-martens,jacky-martens,PER
+Germany,11867,167535,1367,3343;8035;10946;11867;13058;294253;291626;580173;578468;21354;21148;21161;6108409;2793759;26889;8113702;33166;315351;27138927;54221;349775;348674;5064191;21493015;67302;76972;18949613;5058739;4064650;883816;130787;131046;679716;9647657;10454397;15000902;19907266;1023035;1490969;1226329;511282;3190225;12133235;250204;248865;6369246,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+Germany,26004346,1,6,,http://en.wikipedia.org/wiki/Germany_Foundation,Germany Foundation,germany-foundation,germany-foundation,UNK
+Germany,8113702,170,233,884716;11867,"http://en.wikipedia.org/wiki/Little_Germany,_Bradford","Little Germany, Bradford",little-germany-bradford,little-germany-bradford,UNK
+Germany,11159076,19,29,33166,"http://en.wikipedia.org/wiki/Germany,_Pale_Mother","Germany, Pale Mother",germany-pale-mother,germany-pale-mother,UNK
+Germany,40919574,2,12,40919574,"http://en.wikipedia.org/wiki/Germany,_Texas","Germany, Texas",germany-texas,germany-texas,UNK
+Germany,250204,3856,681,580173;33166;9647657;250204;11867;3343;679716;578468;13058;21148;1023035;5058739,http://en.wikipedia.org/wiki/Germany_national_football_team,Germany national football team,germany-national-football-team,germany-national-football-team,UNK
+Germany,6108409,53,68,11867,http://en.wikipedia.org/wiki/Germany_(Epcot),Germany,germany,germany-epcot,UNK
+Germany,1271511,0,0,,"http://en.wikipedia.org/wiki/Little_Germany,_Ontario","Little Germany, Ontario",little-germany-ontario,little-germany-ontario,UNK
+Germany,884716,1,4,8113702,http://en.wikipedia.org/wiki/Little_Germany,Little Germany,little-germany,little-germany,UNK
+Germany,131046,77,98,11867,"http://en.wikipedia.org/wiki/Germany_Township,_Adams_County,_Pennsylvania","Germany Township, Adams County, Pennsylvania",germany-township-adams-county-pennsylvania,germany-township-adams-county-pennsylvania,GPE
+Germany,27138927,71,105,27138927;11867,http://en.wikipedia.org/wiki/The_Biggest_Loser_Germany,The Biggest Loser Germany,the-biggest-loser-germany,the-biggest-loser-germany,ORG
+Germany,13058,10184,611,1490969;3190225;33166;21493015;250204;11867;13058,http://en.wikipedia.org/wiki/East_Germany,East Germany,east-germany,east-germany,GPE
+Germany,11947058,137,165,,http://en.wikipedia.org/wiki/Germany_Valley,Germany Valley,germany-valley,germany-valley,UNK
+Germany,1490969,272,272,13058;33166;21493015;11867;1490969;662640;3378533,http://en.wikipedia.org/wiki/Religion_in_Germany,Religion in Germany,religion-in-germany,religion-in-germany,UNK
+Germany,883816,158,187,11867,"http://en.wikipedia.org/wiki/Little_Germany,_Manhattan","Little Germany, Manhattan",little-germany-manhattan,little-germany-manhattan,UNK
+Germany,21493015,248,403,76972;13058;67302;33166;21493015;11867;1490969;3343;8032;21148;26889,http://en.wikipedia.org/wiki/Geography_of_Germany,Geography of Germany,geography-of-germany,geography-of-germany,UNK
+Germany,3190225,341,109,13058;33166;11867,http://en.wikipedia.org/wiki/Kingdom_of_Germany,Kingdom of Germany,kingdom-of-germany,kingdom-of-germany,GPE
+Germany,2793759,83,197,11867;1829198;1829176,http://en.wikipedia.org/wiki/Communist_Party_of_Germany_(1990),Communist Party of Germany,communist-party-of-germany,communist-party-of-germany-1990,UNK
+Germany,5064191,123,136,11867,"http://en.wikipedia.org/wiki/Germany,_Year_Zero","Germany, Year Zero",germany-year-zero,germany-year-zero,UNK
+Germany,41476893,1,36,,http://en.wikipedia.org/wiki/Germany_Kent,Germany Kent,germany-kent,germany-kent,PER
+Germany,33166,17376,488,1490969;349775;3343;21493015;9647657;11867;13058;294253;1816947;11159076;3190225;580173;12133235;578468;21148;250204;679716;1023035,http://en.wikipedia.org/wiki/West_Germany,West Germany,west-germany,west-germany,GPE
+Denmark,76972,46317,1391,3343;21493015;67302;8032;8035;11867;1816947;138731;76972;291626;580173;10454397;578468;21148;1829198;1829176;217537;18949613;1019545;26689;26889;19907266;5058739;3767091;3335617;1715996;1226329;12133235;4913064;3378533;116074;130787;25786608;126574;6430550,http://en.wikipedia.org/wiki/Denmark,Denmark,denmark,denmark,GPE
+Denmark,19726300,114,126,,http://en.wikipedia.org/wiki/Denmark_Bay,Denmark Bay,denmark-bay,denmark-bay,UNK
+Denmark,126574,44,62,76972,"http://en.wikipedia.org/wiki/Denmark,_New_York","Denmark, New York",denmark-new-york,denmark-new-york,GPE
+Denmark,119166,42,65,14943872,"http://en.wikipedia.org/wiki/Denmark_Township,_Michigan","Denmark Township, Michigan",denmark-township-michigan,denmark-township-michigan,GPE
+Denmark,3335617,33,37,3767091;3422357;76972,http://en.wikipedia.org/wiki/Denmark_national_Australian_rules_football_team,Denmark national Australian rules football team,denmark-national-australian-rules-football-team,denmark-national-australian-rules-football-team,UNK
+Denmark,16187478,2,11,,http://en.wikipedia.org/wiki/Lake_Denmark,Lake Denmark,lake-denmark,lake-denmark,UNK
+Denmark,1715996,2,10,76972,"http://en.wikipedia.org/wiki/Ø,_Denmark","Ø, Denmark",ø-denmark,ø-denmark,UNK
+Denmark,14943872,0,2,119166;9353317,http://en.wikipedia.org/wiki/Denmark_Township,Denmark Township,denmark-township,denmark-township,UNK
+Denmark,8032,156,196,76972;67302;8032;21493015;8035;26889;3378533,http://en.wikipedia.org/wiki/Geography_of_Denmark,Geography of Denmark,geography-of-denmark,geography-of-denmark,UNK
+Denmark,134390,65,46,,"http://en.wikipedia.org/wiki/Denmark,_South_Carolina","Denmark, South Carolina",denmark-south-carolina,denmark-south-carolina,GPE
+Denmark,36727123,11,31,,"http://en.wikipedia.org/wiki/Denmark,_Mississippi","Denmark, Mississippi",denmark-mississippi,denmark-mississippi,GPE
+Denmark,10454397,90,139,76972;5058739;11867,http://en.wikipedia.org/wiki/Wind_power_in_Denmark,Wind power in Denmark,wind-power-in-denmark,wind-power-in-denmark,GPE
+Denmark,580173,2523,515,580173;21148;33166;1023035;9647657;250204;76972;11867;5058739;3343;679716;578468,http://en.wikipedia.org/wiki/Denmark_national_football_team,Denmark national football team,denmark-national-football-team,denmark-national-football-team,ORG
+Denmark,3378533,245,171,76972;8032;8035;1490969;662640;3378533,http://en.wikipedia.org/wiki/Religion_in_Denmark,Religion in Denmark,religion-in-denmark,religion-in-denmark,UNK
+Denmark,17790819,14,21,,"http://en.wikipedia.org/wiki/Denmark,_Kansas","Denmark, Kansas",denmark-kansas,denmark-kansas,GPE
+Denmark,2519266,124,92,13596610,"http://en.wikipedia.org/wiki/Denmark,_Western_Australia","Denmark, Western Australia",denmark-western-australia,denmark-western-australia,GPE
+Denmark,18057900,45,40,41744839,"http://en.wikipedia.org/wiki/Denmark,_Iowa","Denmark, Iowa",denmark-iowa,denmark-iowa,GPE
+Denmark,20077536,20,42,,"http://en.wikipedia.org/wiki/Denmark,_Tennessee","Denmark, Tennessee",denmark-tennessee,denmark-tennessee,GPE
+Denmark,9353317,53,69,14943872,"http://en.wikipedia.org/wiki/Denmark_Township,_Ashtabula_County,_Ohio","Denmark Township, Ashtabula County, Ohio",denmark-township-ashtabula-county-ohio,denmark-township-ashtabula-county-ohio,GPE
+Denmark,5837175,233,43,,http://en.wikipedia.org/wiki/Denmark_Street,Denmark Street,denmark-street,denmark-street,UNK
+Denmark,26018147,18,32,,"http://en.wikipedia.org/wiki/Denmark,_Illinois","Denmark, Illinois",denmark-illinois,denmark-illinois,GPE
+Denmark,21895202,5,6,,"http://en.wikipedia.org/wiki/Denmark,_Nova_Scotia","Denmark, Nova Scotia",denmark-nova-scotia,denmark-nova-scotia,GPE
+Denmark,138731,95,97,76972,"http://en.wikipedia.org/wiki/Denmark,_Wisconsin","Denmark, Wisconsin",denmark-wisconsin,denmark-wisconsin,GPE
+Denmark,41744839,3,23,18057900,"http://en.wikipedia.org/wiki/Denmark_Township,_Lee_County,_Iowa","Denmark Township, Lee County, Iowa",denmark-township-lee-county-iowa,denmark-township-lee-county-iowa,GPE
+Denmark,122043,43,60,,"http://en.wikipedia.org/wiki/Denmark_Township,_Washington_County,_Minnesota","Denmark Township, Washington County, Minnesota",denmark-township-washington-county-minnesota,denmark-township-washington-county-minnesota,GPE
+Denmark,13596610,168,182,2519266,http://en.wikipedia.org/wiki/Denmark_River,Denmark River,denmark-river,denmark-river,UNK
+Denmark,22715298,25,35,,"http://en.wikipedia.org/wiki/Denmark_Township,_Emmet_County,_Iowa","Denmark Township, Emmet County, Iowa",denmark-township-emmet-county-iowa,denmark-township-emmet-county-iowa,GPE
+Denmark,1829198,95,78,76972;2793759;1829176,http://en.wikipedia.org/wiki/Communist_Party_in_Denmark,Communist Party in Denmark,communist-party-in-denmark,communist-party-in-denmark,UNK
+Denmark,8035,350,611,76972;11867;5058739;3378533;3343;8032;8035;21148,http://en.wikipedia.org/wiki/Economy_of_Denmark,Economy of Denmark,economy-of-denmark,economy-of-denmark,UNK
+Denmark,116074,68,104,76972;116094,"http://en.wikipedia.org/wiki/Denmark,_Maine","Denmark, Maine",denmark-maine,denmark-maine,GPE
+Denmark,25786608,22,56,76972,"http://en.wikipedia.org/wiki/Denmark,_Oregon","Denmark, Oregon",denmark-oregon,denmark-oregon,GPE
+Denmark,1609584,115,62,,http://en.wikipedia.org/wiki/Denmark_Hill,Denmark Hill,denmark-hill,denmark-hill,GPE
+Denmark,24849754,12,55,,"http://en.wikipedia.org/wiki/Denmark_Parish,_New_Brunswick","Denmark Parish, New Brunswick",denmark-parish-new-brunswick,denmark-parish-new-brunswick,GPE
+Denmark,1829176,164,79,76972;2793759;1829198,http://en.wikipedia.org/wiki/Communist_Party_of_Denmark,Communist Party of Denmark,communist-party-of-denmark,communist-party-of-denmark,UNK
+Smets,40412317,77,12,6369246,http://en.wikipedia.org/wiki/Smets,Smets,smets,smets,UNK
+Smets,6369246,109,119,40412317;243320;3347463;14948713;18769304;3343;679716;11867,http://en.wikipedia.org/wiki/Joël_Smets,Joël Smets,joel-smets,joel-smets,PER
+Van Doorn,26190008,2,19,,http://en.wikipedia.org/wiki/Van_Doorn,Van Doorn,van-doorn,van-doorn,UNK
+Johansson,1226329,645,633,76972;11867;5058739;3343;511282;21148,http://en.wikipedia.org/wiki/Stefan_Johansson,Stefan Johansson,stefan-johansson,stefan-johansson,PER
+Johansson,9614518,51,43,5058739;15000902;18781521,http://en.wikipedia.org/wiki/Peter_Johansson_(figure_skater),Peter Johansson,peter-johansson,peter-johansson-figure-skater,UNK
+Johansson,38161630,2,11,5058739;18781521,http://en.wikipedia.org/wiki/Peter_Johansson_(footballer),Peter Johansson,peter-johansson,peter-johansson-footballer,PER
+Johansson,18781521,4,5,15000902;9614518;38161630;18781780,http://en.wikipedia.org/wiki/Peter_Johansson,Peter Johansson,peter-johansson,peter-johansson,PER
+Johansson,15000902,4,15,11867;5058739;18781521;9614518,http://en.wikipedia.org/wiki/Peter_Johansson_(musician),Peter Johansson,peter-johansson,peter-johansson-musician,UNK
+Johansson,18781780,4,9,5058739;18781521;243320,http://en.wikipedia.org/wiki/Peter_Johansson_(motorcyclist),Peter Johansson,peter-johansson,peter-johansson-motorcyclist,UNK
+Lacher,7859466,17,20,,http://en.wikipedia.org/wiki/Blaine_Lacher,Blaine Lacher,blaine-lacher,blaine-lacher,PER

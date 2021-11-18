@@ -1,0 +1,129 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Canadian,5042916,159749,788,281157;3392;6340;3058101;4236671;9438108;19977;1702572;271067;32706;17232762;5042916;53099;17259359;328618;651929;3582046;1526892;19851291;713770;952445;173411;177015;17592546;1787648;1787962;17565147;17565236;17579714;9089046;1195525;26544195;7174310;6399816;523992;5661344;233978;2477935;3457355,http://en.wikipedia.org/wiki/Canada,Canada,canada,canada,GPE
+Canadian,17259359,3,27,5042916,http://en.wikipedia.org/wiki/Canadian_International_(badminton),Canadian International,canadian-international,canadian-international-badminton,PER
+Canadian,281157,198,250,5042916;32706;177015;3392,http://en.wikipedia.org/wiki/Canadian_Airlines,Canadian Airlines,canadian-airlines,canadian-airlines,ORG
+Canadian,9089046,5,9,5042916,http://en.wikipedia.org/wiki/Canadian_Bandurist_Capella,Canadian Bandurist Capella,canadian-bandurist-capella,canadian-bandurist-capella,UNK
+Canadian,26544195,41,8,5042916;26544195,http://en.wikipedia.org/wiki/Canadian_Musician,Canadian Musician,canadian-musician,canadian-musician,ORG
+Canadian,21336436,40,47,,"http://en.wikipedia.org/wiki/Canadian,_Victoria","Canadian, Victoria",canadian-victoria,canadian-victoria,UNK
+Canadian,136047,323,375,617153,"http://en.wikipedia.org/wiki/Canadian,_Texas","Canadian, Texas",canadian-texas,canadian-texas,GPE
+Canadian,17232762,30,39,3392;5042916;32706;173411,http://en.wikipedia.org/wiki/Canadian_College,Canadian College,canadian-college,canadian-college,ORG
+Canadian,4526025,84,25,,http://en.wikipedia.org/wiki/Canadian_Division,Canadian Division,canadian-division,canadian-division,ORG
+Canadian,952445,14,28,5042916,http://en.wikipedia.org/wiki/Canadian_Party,Canadian Party,canadian-party,canadian-party,UNK
+Canadian,1702572,66,78,5042916,http://en.wikipedia.org/wiki/Canadian_Club,Canadian Club,canadian-club,canadian-club,UNK
+Canadian,92111,394,276,617153;92111,"http://en.wikipedia.org/wiki/Canadian_County,_Oklahoma","Canadian County, Oklahoma",canadian-county-oklahoma,canadian-county-oklahoma,GPE
+Canadian,328618,637,343,5042916;32706;328618,http://en.wikipedia.org/wiki/Canadian_Space_Agency,Canadian Space Agency,canadian-space-agency,canadian-space-agency,ORG
+Canadian,1684950,6,20,,http://en.wikipedia.org/wiki/Canadian_River_(Colorado),Canadian River,canadian-river,canadian-river-colorado,UNK
+Canadian,6340,1256,589,5042916;53099;7174310;19851291;32706;6340;173411;5661344;3392,http://en.wikipedia.org/wiki/Canadian_English,Canadian English,canadian-english,canadian-english,ORG
+Canadian,7174310,1,278,5042916;19851291;6340,http://en.wikipedia.org/wiki/American_Canadian,American Canadian,american-canadian,american-canadian,UNK
+Canadian,6399816,78,77,5042916,http://en.wikipedia.org/wiki/Canadian_GAA,Canadian GAA,canadian-gaa,canadian-gaa,GPE
+Canadian,4236671,83,91,5042916,http://en.wikipedia.org/wiki/Canadian_Silver_Maple_Leaf,Canadian Silver Maple Leaf,canadian-silver-maple-leaf,canadian-silver-maple-leaf,UNK
+Canadian,19851291,1524,619,5042916;7174310;32706;6340;3392,http://en.wikipedia.org/wiki/Canadians,Canadians,canadians,canadians,UNK
+Canadian,130520,35,46,,"http://en.wikipedia.org/wiki/Canadian,_Oklahoma","Canadian, Oklahoma",canadian-oklahoma,canadian-oklahoma,GPE
+Canadian,1526892,168,210,5042916;32706;3392,http://en.wikipedia.org/wiki/Canadian_(train),Canadian,canadian,canadian-train,UNK
+Canadian,2477935,122,138,2477935;3392;5042916;32706,http://en.wikipedia.org/wiki/Canadian_Chinese_cuisine,Canadian Chinese cuisine,canadian-chinese-cuisine,canadian-chinese-cuisine,UNK
+Canadian,617153,208,50,136047;92111,http://en.wikipedia.org/wiki/Canadian_River,Canadian River,canadian-river,canadian-river,UNK
+PEMBERTON,3582046,197,165,5042916;17579714;32706;3392,"http://en.wikipedia.org/wiki/Pemberton,_British_Columbia","Pemberton, British Columbia",pemberton-british-columbia,pemberton-british-columbia,GPE
+PEMBERTON,17351366,2,22,125043,http://en.wikipedia.org/wiki/Pemberton_Airport,Pemberton Airport,pemberton-airport,pemberton-airport,UNK
+PEMBERTON,9613997,38,46,,"http://en.wikipedia.org/wiki/Pemberton,_Ohio","Pemberton, Ohio",pemberton-ohio,pemberton-ohio,UNK
+PEMBERTON,39575122,13,31,,"http://en.wikipedia.org/wiki/Pemberton,_Virginia","Pemberton, Virginia",pemberton-virginia,pemberton-virginia,GPE
+PEMBERTON,125044,135,228,125043,"http://en.wikipedia.org/wiki/Pemberton_Township,_New_Jersey","Pemberton Township, New Jersey",pemberton-township-new-jersey,pemberton-township-new-jersey,GPE
+PEMBERTON,27376304,168,185,,"http://en.wikipedia.org/wiki/Pemberton,_West_Virginia","Pemberton, West Virginia",pemberton-west-virginia,pemberton-west-virginia,GPE
+PEMBERTON,5510835,14,22,,"http://en.wikipedia.org/wiki/Pemberton,_Carmarthenshire","Pemberton, Carmarthenshire",pemberton-carmarthenshire,pemberton-carmarthenshire,GPE
+PEMBERTON,6505610,41,60,,"http://en.wikipedia.org/wiki/Pemberton,_Greater_Manchester","Pemberton, Greater Manchester",pemberton-greater-manchester,pemberton-greater-manchester,GPE
+PEMBERTON,125043,183,192,17351366;125044,"http://en.wikipedia.org/wiki/Pemberton,_New_Jersey","Pemberton, New Jersey",pemberton-new-jersey,pemberton-new-jersey,GPE
+PEMBERTON,63576,50,31,651929,http://en.wikipedia.org/wiki/John_Pemberton,John Pemberton,john-pemberton,john-pemberton,PER
+PEMBERTON,17579714,24,12,3582046;5042916,http://en.wikipedia.org/wiki/Pemberton_Valley,Pemberton Valley,pemberton-valley,pemberton-valley,UNK
+PEMBERTON,2405620,117,103,,"http://en.wikipedia.org/wiki/Pemberton,_Western_Australia","Pemberton, Western Australia",pemberton-western-australia,pemberton-western-australia,UNK
+PEMBERTON,651929,97,115,63576;5042916,http://en.wikipedia.org/wiki/John_C._Pemberton,John C. Pemberton,john-c-pemberton,john-c-pemberton,PER
+PEMBERTON,119553,45,63,,"http://en.wikipedia.org/wiki/Pemberton,_Minnesota","Pemberton, Minnesota",pemberton-minnesota,pemberton-minnesota,GPE
+British Columbia,3392,22845,818,17232762;281157;173411;1803701;3392;523992;1526892;6340;3058101;177015;5042916;9438108;3582046;5661344;18592743;233978;1195525;17592546;53099;1787648;19851291;1787962;2477935;12402837;3457355;271067;32706,http://en.wikipedia.org/wiki/British_Columbia,British Columbia,british-columbia,british-columbia,UNK
+British Columbia,173411,2996,660,5042916;17232762;53099;271067;3392;1195525;32706;6340,http://en.wikipedia.org/wiki/University_of_British_Columbia,University of British Columbia,university-of-british-columbia,university-of-british-columbia,ORG
+British Columbia,523992,55,43,3392;5042916,http://en.wikipedia.org/wiki/British_Columbia_Party,British Columbia Party,british-columbia-party,british-columbia-party,UNK
+British Columbia,3058101,48,293,53099;5042916;32706;3392,http://en.wikipedia.org/wiki/Geography_of_British_Columbia,Geography of British Columbia,geography-of-british-columbia,geography-of-british-columbia,UNK
+Eco-Challenge,12402837,148,167,19977;3392;31716,http://en.wikipedia.org/wiki/Eco-Challenge,Eco-Challenge,eco-challenge,eco-challenge,UNK
+Utah,31716,11622,1081,192227;71080;19977;3172407;1342517;1403775;167485;12402837;2404247;32097;18589339;31716,http://en.wikipedia.org/wiki/Utah,Utah,utah,utah,UNK
+Utah,71080,504,217,31716;2404247;1342517;1403775;71080;167485,"http://en.wikipedia.org/wiki/Utah_County,_Utah","Utah County, Utah",utah-county-utah,utah-county-utah,GPE
+Utah,1403775,63,42,31716;18589339;71080;167485;25038524,http://en.wikipedia.org/wiki/Utah_Valley,Utah Valley,utah-valley,utah-valley,UNK
+Utah,2404247,6,109,1342517;31716;71080,"http://en.wikipedia.org/wiki/Utah,_We_Love_Thee","Utah, We Love Thee",utah-we-love-thee,utah-we-love-thee,UNK
+Utah,192227,111,201,31716,http://en.wikipedia.org/wiki/USS_Utah_(BB-31),USS Utah,uss-utah,uss-utah-bb-31,UNK
+Utah,32097,2803,345,32097;31716,http://en.wikipedia.org/wiki/University_of_Utah,University of Utah,university-of-utah,university-of-utah,ORG
+Utah,3172407,348,329,31716;18589339,http://en.wikipedia.org/wiki/Utah_Railway,Utah Railway,utah-railway,utah-railway,UNK
+Utah,25038524,1,28,1403775;25038524,http://en.wikipedia.org/wiki/UTAH_FC,UTAH FC,utah-fc,utah-fc,UNK
+Utah,24896947,76,86,,http://en.wikipedia.org/wiki/District_of_Utah,District of Utah,district-of-utah,district-of-utah,UNK
+Utah,30423486,22,7,,http://en.wikipedia.org/wiki/Utah_Opera,Utah Opera,utah-opera,utah-opera,UNK
+Utah,667813,288,387,,http://en.wikipedia.org/wiki/Utah_Beach,Utah Beach,utah-beach,utah-beach,UNK
+Utah,1342517,2,109,2404247;31716;71080,"http://en.wikipedia.org/wiki/Utah,_This_Is_the_Place","Utah, This Is the Place",utah-this-is-the-place,utah-this-is-the-place,UNK
+Utah,167485,114,109,1403775;31716;71080,http://en.wikipedia.org/wiki/Utah_Lake,Utah Lake,utah-lake,utah-lake,UNK
+Utah,18589339,14,90,3172407;1403775;31716,http://en.wikipedia.org/wiki/Utah_Division_(D&RGW),Utah Division,utah-division,utah-division-d-rgw,UNK
+Maine,316560,170,121,316560;19977;495364;514809,http://en.wikipedia.org/wiki/Maine_(province),Maine,maine,maine-province,UNK
+Maine,583054,228,35,19977;495364,http://en.wikipedia.org/wiki/District_of_Maine,District of Maine,district-of-maine,district-of-maine,UNK
+Maine,16307698,47,48,,http://en.wikipedia.org/wiki/Maine_Liquor_Licensing_and_Compliance_Division,Maine Liquor Licensing and Compliance Division,maine-liquor-licensing-and-compliance-division,maine-liquor-licensing-and-compliance-division,ORG
+Maine,548728,677,197,,http://en.wikipedia.org/wiki/Maine_Road,Maine Road,maine-road,maine-road,UNK
+Maine,126139,50,64,,"http://en.wikipedia.org/wiki/Maine,_New_York","Maine, New York",maine-new-york,maine-new-york,GPE
+Maine,10322752,16,8,,http://en.wikipedia.org/wiki/Maine_Soft_Drinks_Ltd,Maine Soft Drinks Ltd,maine-soft-drinks-ltd,maine-soft-drinks-ltd,ORG
+Maine,18894049,66,9,82797,http://en.wikipedia.org/wiki/SS_Maine,SS Maine,ss-maine,ss-maine,UNK
+Maine,41739034,30,1,34116909,"http://en.wikipedia.org/wiki/Maine_Township,_Linn_County,_Iowa","Maine Township, Linn County, Iowa",maine-township-linn-county-iowa,maine-township-linn-county-iowa,UNK
+Maine,6723604,10,27,,http://en.wikipedia.org/wiki/United_States_v._Maine,United States v. Maine,united-states-v-maine,united-states-v-maine,UNK
+Maine,116041,401,217,19977,"http://en.wikipedia.org/wiki/Rockland,_Maine","Rockland, Maine",rockland-maine,rockland-maine,GPE
+Maine,205391,31,47,82797;19977,http://en.wikipedia.org/wiki/USS_Maine_(SSBN-741),USS Maine,uss-maine,uss-maine-ssbn-741,UNK
+Maine,16844049,90,68,189610,http://en.wikipedia.org/wiki/The_Maine_(band),The Maine,the-maine,the-maine-band,UNK
+Maine,121152,91,112,34116909,"http://en.wikipedia.org/wiki/Maine_Township,_Otter_Tail_County,_Minnesota","Maine Township, Otter Tail County, Minnesota",maine-township-otter-tail-county-minnesota,maine-township-otter-tail-county-minnesota,GPE
+Maine,495364,45,30,583054;316560;19977,http://en.wikipedia.org/wiki/Province_of_Maine,Province of Maine,province-of-maine,province-of-maine,UNK
+Maine,34116909,0,10,12016039;41739034;18588347;9449847;121152,http://en.wikipedia.org/wiki/Maine_Township,Maine Township,maine-township,maine-township,GPE
+Maine,139513,69,84,,"http://en.wikipedia.org/wiki/Maine,_Outagamie_County,_Wisconsin","Maine, Outagamie County, Wisconsin",maine-outagamie-county-wisconsin,maine-outagamie-county-wisconsin,GPE
+Maine,9449847,182,408,34116909;34606179,"http://en.wikipedia.org/wiki/Maine_Township,_Cook_County,_Illinois","Maine Township, Cook County, Illinois",maine-township-cook-county-illinois,maine-township-cook-county-illinois,UNK
+Maine,190093,38,44,189610;82797;19977,http://en.wikipedia.org/wiki/USS_Maine_(BB-10),USS Maine,uss-maine,uss-maine-bb-10,UNK
+Maine,24229729,0,8,19977,"http://en.wikipedia.org/wiki/Maine,_Maine","Maine, Maine",maine-maine,maine-maine,UNK
+Maine,139357,119,136,,"http://en.wikipedia.org/wiki/Maine,_Marathon_County,_Wisconsin","Maine, Marathon County, Wisconsin",maine-marathon-county-wisconsin,maine-marathon-county-wisconsin,GPE
+Maine,3992473,15,47,19977,http://en.wikipedia.org/wiki/Maine_School_of_Science_and_Mathematics,Maine School of Science and Mathematics,maine-school-of-science-and-mathematics,maine-school-of-science-and-mathematics,ORG
+Maine,16226775,48,54,,http://en.wikipedia.org/wiki/El_Maine,El Maine,el-maine,el-maine,UNK
+Maine,370467,1129,353,19977;370467,http://en.wikipedia.org/wiki/University_of_Maine,University of Maine,university-of-maine,university-of-maine,ORG
+Maine,82797,10,12,190093;189610;18894049;19977;205391,http://en.wikipedia.org/wiki/USS_Maine,USS Maine,uss-maine,uss-maine,UNK
+Maine,23588088,2,15,19977;514809,http://en.wikipedia.org/wiki/Maine_River_(Maine),Maine River,maine-river,maine-river-maine,UNK
+Maine,514809,14,10,23588088;316560,http://en.wikipedia.org/wiki/Maine_(river),Maine,maine,maine-river,UNK
+Maine,8462105,132,328,19977,http://en.wikipedia.org/wiki/Domestic_partnership_in_Maine,Domestic partnership in Maine,domestic-partnership-in-maine,domestic-partnership-in-maine,UNK
+Maine,19977,10480,927,8462105;19977;23588088;190093;189610;316560;82797;205391;24229729;116041;3992473;5042916;12402837;370467;495364;583054;31716,http://en.wikipedia.org/wiki/Maine,Maine,maine,maine,UNK
+Maine,18588347,41,39,34116909,"http://en.wikipedia.org/wiki/Maine_Township,_Adams_County,_North_Dakota","Maine Township, Adams County, North Dakota",maine-township-adams-county-north-dakota,maine-township-adams-county-north-dakota,GPE
+Maine,13835503,147,121,,http://en.wikipedia.org/wiki/University_of_Maine_(France),University of Maine,university-of-maine,university-of-maine-france,ORG
+Maine,12016039,42,51,34116909;34606179,"http://en.wikipedia.org/wiki/Maine_Township,_Grundy_County,_Illinois","Maine Township, Grundy County, Illinois",maine-township-grundy-county-illinois,maine-township-grundy-county-illinois,UNK
+Maine,189610,468,370,190093;82797;16844049;19977;189610,http://en.wikipedia.org/wiki/USS_Maine_(ACR-1),USS Maine,uss-maine,uss-maine-acr-1,UNK
+Maine,34606179,0,3,12016039;9449847,"http://en.wikipedia.org/wiki/Maine_Township,_Illinois","Maine Township, Illinois",maine-township-illinois,maine-township-illinois,UNK
+Pemberton,3582046,197,165,5042916;17579714;32706;3392,"http://en.wikipedia.org/wiki/Pemberton,_British_Columbia","Pemberton, British Columbia",pemberton-british-columbia,pemberton-british-columbia,GPE
+Pemberton,17351366,2,22,125043,http://en.wikipedia.org/wiki/Pemberton_Airport,Pemberton Airport,pemberton-airport,pemberton-airport,UNK
+Pemberton,9613997,38,46,,"http://en.wikipedia.org/wiki/Pemberton,_Ohio","Pemberton, Ohio",pemberton-ohio,pemberton-ohio,UNK
+Pemberton,39575122,13,31,,"http://en.wikipedia.org/wiki/Pemberton,_Virginia","Pemberton, Virginia",pemberton-virginia,pemberton-virginia,GPE
+Pemberton,125044,135,228,125043,"http://en.wikipedia.org/wiki/Pemberton_Township,_New_Jersey","Pemberton Township, New Jersey",pemberton-township-new-jersey,pemberton-township-new-jersey,GPE
+Pemberton,27376304,168,185,,"http://en.wikipedia.org/wiki/Pemberton,_West_Virginia","Pemberton, West Virginia",pemberton-west-virginia,pemberton-west-virginia,GPE
+Pemberton,5510835,14,22,,"http://en.wikipedia.org/wiki/Pemberton,_Carmarthenshire","Pemberton, Carmarthenshire",pemberton-carmarthenshire,pemberton-carmarthenshire,GPE
+Pemberton,6505610,41,60,,"http://en.wikipedia.org/wiki/Pemberton,_Greater_Manchester","Pemberton, Greater Manchester",pemberton-greater-manchester,pemberton-greater-manchester,GPE
+Pemberton,125043,183,192,17351366;125044,"http://en.wikipedia.org/wiki/Pemberton,_New_Jersey","Pemberton, New Jersey",pemberton-new-jersey,pemberton-new-jersey,GPE
+Pemberton,63576,50,31,651929,http://en.wikipedia.org/wiki/John_Pemberton,John Pemberton,john-pemberton,john-pemberton,PER
+Pemberton,17579714,24,12,3582046;5042916,http://en.wikipedia.org/wiki/Pemberton_Valley,Pemberton Valley,pemberton-valley,pemberton-valley,UNK
+Pemberton,2405620,117,103,,"http://en.wikipedia.org/wiki/Pemberton,_Western_Australia","Pemberton, Western Australia",pemberton-western-australia,pemberton-western-australia,UNK
+Pemberton,651929,97,115,63576;5042916,http://en.wikipedia.org/wiki/John_C._Pemberton,John C. Pemberton,john-c-pemberton,john-c-pemberton,PER
+Pemberton,119553,45,63,,"http://en.wikipedia.org/wiki/Pemberton,_Minnesota","Pemberton, Minnesota",pemberton-minnesota,pemberton-minnesota,GPE
+Vancouver,32706,12967,920,17232762;281157;173411;1803701;15945875;3392;1526892;6340;7217838;3058101;177015;5042916;9438108;3582046;5661344;18592743;233978;1195525;53099;19851291;1787962;328618;2477935;271067;32706,http://en.wikipedia.org/wiki/Vancouver,Vancouver,vancouver,vancouver,GPE
+Vancouver,9438108,104,115,3392;5042916;32706;271067,http://en.wikipedia.org/wiki/Vancouver_Film_Studios,Vancouver Film Studios,vancouver-film-studios,vancouver-film-studios,UNK
+Vancouver,230928,15,80,18592743,http://en.wikipedia.org/wiki/USS_Vancouver_(LPD-2),USS Vancouver,uss-vancouver,uss-vancouver-lpd-2,UNK
+Vancouver,31585805,11,24,,http://en.wikipedia.org/wiki/Vancouver_(EP),Vancouver,vancouver,vancouver-ep,UNK
+Vancouver,1787962,19,21,32706;3392;3362621;5042916,http://en.wikipedia.org/wiki/Vancouver_City,Vancouver City,vancouver-city,vancouver-city,PER
+Vancouver,13086906,3,14,713770,http://en.wikipedia.org/wiki/Mount_Vancouver_(New_Zealand),Mount Vancouver,mount-vancouver,mount-vancouver-new-zealand,UNK
+Vancouver,7217838,4,21,32706,http://en.wikipedia.org/wiki/Vancouver_system,Vancouver system,vancouver-system,vancouver-system,UNK
+Vancouver,17565236,4,10,5042916;17565147,http://en.wikipedia.org/wiki/Vancouver_River,Vancouver River,vancouver-river,vancouver-river,UNK
+Vancouver,1787648,39,33,3392;3457355;5042916;3362621,http://en.wikipedia.org/wiki/Vancouver_(electoral_district),Vancouver,vancouver,vancouver-electoral-district,PER
+Vancouver,17592546,94,139,53099;3392;5042916,http://en.wikipedia.org/wiki/Vancouver_(steamboat),Vancouver,vancouver,vancouver-steamboat,UNK
+Vancouver,3362621,26,42,1787962;53099;3457355;1787648,http://en.wikipedia.org/wiki/Vancouver_(electoral_districts),Vancouver,vancouver,vancouver-electoral-districts,GPE
+Vancouver,5661344,112,135,6340;3392;5042916;32706,http://en.wikipedia.org/wiki/Vancouver_College,Vancouver College,vancouver-college,vancouver-college,UNK
+Vancouver,11216613,16,12,11216613,http://en.wikipedia.org/wiki/Vancouver_Foundation,Vancouver Foundation,vancouver-foundation,vancouver-foundation,ORG
+Vancouver,233978,803,41,5042916;32706;3392,http://en.wikipedia.org/wiki/The_Vancouver_Sun,The Vancouver Sun,the-vancouver-sun,the-vancouver-sun,UNK
+Vancouver,53099,2035,361,5042916;1195525;32706;6340;173411;3058101;3392;3362621;17592546,http://en.wikipedia.org/wiki/Vancouver_Island,Vancouver Island,vancouver-island,vancouver-island,UNK
+Vancouver,177015,2077,332,5042916;281157;32706;271067;3392,http://en.wikipedia.org/wiki/Vancouver_International_Airport,Vancouver International Airport,vancouver-international-airport,vancouver-international-airport,UNK
+Vancouver,713770,21,24,5042916;13086906,http://en.wikipedia.org/wiki/Mount_Vancouver,Mount Vancouver,mount-vancouver,mount-vancouver,UNK
+Vancouver,1803701,83,21,3392;32706,http://en.wikipedia.org/wiki/Vancouver_Opera,Vancouver Opera,vancouver-opera,vancouver-opera,ORG
+Vancouver,271067,733,152,5042916;1195525;32706;271067;177015;3392;9438108;173411,http://en.wikipedia.org/wiki/Metro_Vancouver,Metro Vancouver,metro-vancouver,metro-vancouver,GPE
+Vancouver,17565147,4,10,5042916;17565236,"http://en.wikipedia.org/wiki/Vancouver_Bay,_British_Columbia","Vancouver Bay, British Columbia",vancouver-bay-british-columbia,vancouver-bay-british-columbia,GPE
+Vancouver,18592743,1339,456,3299042;32706;230928;3392,"http://en.wikipedia.org/wiki/Vancouver,_Washington","Vancouver, Washington",vancouver-washington,vancouver-washington,GPE
+Vancouver,15945875,39,42,32706,http://en.wikipedia.org/wiki/Vancouver_School,Vancouver School,vancouver-school,vancouver-school,PER
+Vancouver,3299042,12,59,18592743,http://en.wikipedia.org/wiki/Vancouver_Lake,Vancouver Lake,vancouver-lake,vancouver-lake,UNK
+Vancouver,1195525,382,225,5042916;32706;271067;3392;53099;173411,http://en.wikipedia.org/wiki/Greater_Vancouver,Greater Vancouver,greater-vancouver,greater-vancouver,UNK
+Vancouver,3457355,8,7,5042916;3392;3362621;1787648,http://en.wikipedia.org/wiki/Vancouver_Island_(electoral_district),Vancouver Island,vancouver-island,vancouver-island-electoral-district,PER

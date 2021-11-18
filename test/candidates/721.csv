@@ -1,0 +1,46 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Estonia,28222445,21079,1385,522384;3335;670051;28222445;4213;7004569;11444440;379531;9052109;9388;9391;10702878;18998750;11691277;1006164;11439522;1473586;39624644;4457786;188675;13579784;787614;341466;26779;338077;31577;31611,http://en.wikipedia.org/wiki/Estonia,Estonia,estonia,estonia,GPE
+Estonia,670051,311,244,31577;11444440;9388;9391;13579784;28222445,http://en.wikipedia.org/wiki/Governorate_of_Estonia,Governorate of Estonia,governorate-of-estonia,governorate-of-estonia,UNK
+Estonia,9052109,7,8,31577;28222445,http://en.wikipedia.org/wiki/Estonia_Piano_Factory,Estonia Piano Factory,estonia-piano-factory,estonia-piano-factory,UNK
+Estonia,11439522,18,44,31577;28222445,http://en.wikipedia.org/wiki/2007_cyberattacks_on_Estonia,2007 cyberattacks on Estonia,2007-cyberattacks-on-estonia,2007-cyberattacks-on-estonia,UNK
+Estonia,9388,181,200,31577;670051;9388;9391;26779;13579784;3335;28222445,http://en.wikipedia.org/wiki/Geography_of_Estonia,Geography of Estonia,geography-of-estonia,geography-of-estonia,UNK
+Estonia,7004569,2,19,7004569;28222445,http://en.wikipedia.org/wiki/Estonia_(race_car),Estonia,estonia,estonia-race-car,UNK
+Estonia,1006164,1384,455,31577;26779;28222445,http://en.wikipedia.org/wiki/Estonia_national_football_team,Estonia national football team,estonia-national-football-team,estonia-national-football-team,UNK
+Estonia,11444440,23,27,31577;670051;28222445,http://en.wikipedia.org/wiki/Autonomous_Governorate_of_Estonia,Autonomous Governorate of Estonia,autonomous-governorate-of-estonia,autonomous-governorate-of-estonia,UNK
+Estonia,522384,192,97,31577;26779;3335;28222445,http://en.wikipedia.org/wiki/MS_Estonia,MS Estonia,ms-estonia,ms-estonia,UNK
+Estonia,11691277,109,81,787614;31577;31611;4457786;28222445,http://en.wikipedia.org/wiki/Estonia_Theatre,Estonia Theatre,estonia-theatre,estonia-theatre,UNK
+Estonia,9391,365,456,31577;670051;9388;9391;26779;13579784;18998750;28222445,http://en.wikipedia.org/wiki/Economy_of_Estonia,Economy of Estonia,economy-of-estonia,economy-of-estonia,UNK
+Estonia,13579784,318,489,31577;670051;9388;9391;26779;28222445,http://en.wikipedia.org/wiki/Estonia_at_the_Olympics,Estonia at the Olympics,estonia-at-the-olympics,estonia-at-the-olympics,UNK
+TALLINN,31577,4588,847,9052109;9388;9391;522384;39624644;4457786;188675;11691277;3335;670051;26779;28222445;1006164;11439522;13579784;787614;31577;31611;11444440;379531,http://en.wikipedia.org/wiki/Tallinn,Tallinn,tallinn,tallinn,GPE
+TALLINN,4457786,190,129,787614;31577;11691277;31611;28222445,http://en.wikipedia.org/wiki/Tallinn_University,Tallinn University,tallinn-university,tallinn-university,ORG
+TALLINN,31611,47,303,787614;31577;11691277;26779;4457786;379531;28222445,http://en.wikipedia.org/wiki/Tallinn_Airport,Tallinn Airport,tallinn-airport,tallinn-airport,UNK
+TALLINN,787614,300,244,31577;11691277;31611;4457786;28222445,http://en.wikipedia.org/wiki/Tallinn_University_of_Technology,Tallinn University of Technology,tallinn-university-of-technology,tallinn-university-of-technology,ORG
+TALLINN,39624644,40,25,31577;28222445,http://en.wikipedia.org/wiki/Tallinn_Bay,Tallinn Bay,tallinn-bay,tallinn-bay,UNK
+Baltic,25013298,8,10,,http://en.wikipedia.org/wiki/Baltic_Project,Baltic Project,baltic-project,baltic-project,UNK
+Baltic,3784265,21,35,3335,http://en.wikipedia.org/wiki/Baltic_Dry_Index,Baltic Dry Index,baltic-dry-index,baltic-dry-index,UNK
+Baltic,10702878,9,20,28222445,http://en.wikipedia.org/wiki/Baltic_University,Baltic University,baltic-university,baltic-university,ORG
+Baltic,18032182,58,137,,"http://en.wikipedia.org/wiki/Baltic,_Connecticut","Baltic, Connecticut",baltic-connecticut,baltic-connecticut,GPE
+Baltic,981852,62,32,,http://en.wikipedia.org/wiki/Baltic_Centre_for_Contemporary_Art,Baltic Centre for Contemporary Art,baltic-centre-for-contemporary-art,baltic-centre-for-contemporary-art,UNK
+Baltic,188675,896,288,338077;4213;188675;31577;4751135;3335;26779;28222445,http://en.wikipedia.org/wiki/Baltic_states,Baltic states,baltic-states,baltic-states,UNK
+Baltic,4213,272,196,26779;188675;4213;3335;28222445,http://en.wikipedia.org/wiki/Baltic_languages,Baltic languages,baltic-languages,baltic-languages,UNK
+Baltic,22367156,1,3,,http://en.wikipedia.org/wiki/Baltic_(steamship),Baltic,baltic,baltic-steamship,UNK
+Baltic,3335,4588,638,29888104;886388;9388;522384;188675;26779;28222445;338077;4213;3784265;31577;379531,http://en.wikipedia.org/wiki/Baltic_Sea,Baltic Sea,baltic-sea,baltic-sea,UNK
+Baltic,29888104,4,22,3335,http://en.wikipedia.org/wiki/Baltic_(tug),Baltic,baltic,baltic-tug,PER
+Baltic,134963,224,62,,"http://en.wikipedia.org/wiki/Baltic,_South_Dakota","Baltic, South Dakota",baltic-south-dakota,baltic-south-dakota,GPE
+Baltic,886388,4,13,3335,http://en.wikipedia.org/wiki/Baltic_Institute,Baltic Institute,baltic-institute,baltic-institute,UNK
+Baltic,150890,144,164,,"http://en.wikipedia.org/wiki/Baltic,_Ohio","Baltic, Ohio",baltic-ohio,baltic-ohio,GPE
+Baltic,338077,509,112,3335;188675;28222445,http://en.wikipedia.org/wiki/Baltic_region,Baltic region,baltic-region,baltic-region,UNK
+Lennart Meri,379531,147,148,31577;31611;341466;26779;3335;28222445,http://en.wikipedia.org/wiki/Lennart_Meri,Lennart Meri,lennart-meri,lennart-meri,PER
+Arnold Ruutel,341466,88,97,1473586;26779;379531;28222445,http://en.wikipedia.org/wiki/Arnold_Rüütel,Arnold Rüütel,arnold-ruutel,arnold-ruutel,PER
+Meri,379531,147,148,31577;31611;341466;26779;3335;28222445,http://en.wikipedia.org/wiki/Lennart_Meri,Lennart Meri,lennart-meri,lennart-meri,PER
+Soviet,26779,47970,815,2253373;625864;3335;28222445;4213;9388;9391;80197;13579784;341466;4751135;26779;31577;31611;522384;379531;723059;1006164;188675,http://en.wikipedia.org/wiki/Soviet_Union,Soviet Union,soviet-union,soviet-union,UNK
+Soviet,4751135,587,597,80197;188675;4751135;26779,http://en.wikipedia.org/wiki/Soviet_war_crimes,Soviet war crimes,soviet-war-crimes,soviet-war-crimes,UNK
+Soviet,625864,241,58,26779;2253373;625864,http://en.wikipedia.org/wiki/Soviet_(council),Soviet,soviet,soviet-council,GPE
+Soviet,723059,390,412,26779,http://en.wikipedia.org/wiki/Soviet_space_program,Soviet space program,soviet-space-program,soviet-space-program,UNK
+Soviet,80197,1587,877,80197;4751135;26779,http://en.wikipedia.org/wiki/Soviet_war_in_Afghanistan,Soviet war in Afghanistan,soviet-war-in-afghanistan,soviet-war-in-afghanistan,UNK
+Soviet,2253373,218,145,26779;2253373;625864,http://en.wikipedia.org/wiki/Soviet_democracy,Soviet democracy,soviet-democracy,soviet-democracy,UNK
+Soviet,7638944,46,77,,http://en.wikipedia.org/wiki/Soviet_Song,Soviet Song,soviet-song,soviet-song,UNK
+Reuters,18998750,9093,418,28222445;9391;18998750;2171552,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Toomas Savi,1473586,772,799,341466;28222445,http://en.wikipedia.org/wiki/Toomas_Savi,Toomas Savi,toomas-savi,toomas-savi,PER
+Ruutel,341466,88,97,1473586;26779;379531;28222445,http://en.wikipedia.org/wiki/Arnold_Rüütel,Arnold Rüütel,arnold-ruutel,arnold-ruutel,PER

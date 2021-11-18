@@ -1,0 +1,104 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+TWA,152449,465,362,30658;21840;21648;645042;512123;18315;8210131,http://en.wikipedia.org/wiki/Trans_World_Airlines,Trans World Airlines,trans-world-airlines,trans-world-airlines,ORG
+TWA,512123,91,77,152449,http://en.wikipedia.org/wiki/TWA_Flight_847,TWA Flight 847,twa-flight-847,twa-flight-847,UNK
+TWA,32290377,27,42,32432605,http://en.wikipedia.org/wiki/Twa,Twa,twa,twa,UNK
+TWA,32432605,42,45,32290377,http://en.wikipedia.org/wiki/Great_Lakes_Twa,Great Lakes Twa,great-lakes-twa,great-lakes-twa,UNK
+TWA,30658,173,150,152449;21840;18315;8210131;11127,http://en.wikipedia.org/wiki/TWA_Flight_800,TWA Flight 800,twa-flight-800,twa-flight-800,UNK
+ATLANTIC HIGHLANDS,136974,181,257,309785;21648,"http://en.wikipedia.org/wiki/Atlantic_Highlands,_New_Jersey","Atlantic Highlands, New Jersey",atlantic-highlands-new-jersey,atlantic-highlands-new-jersey,GPE
+N.J.,21648,26067,1293,351876;698;2499282;19209140;486979;11127;7847093;136974;21648;331685;645042;8210131;152449;4472857;39421496;26723573;816554;12996723;191006;191015;190896;38955139;255867;6702429;309785,http://en.wikipedia.org/wiki/New_Jersey,New Jersey,new-jersey,new-jersey,UNK
+New Jersey,21648,26067,1293,351876;698;2499282;19209140;486979;11127;7847093;136974;21648;331685;645042;8210131;152449;4472857;39421496;26723573;816554;12996723;191006;191015;190896;38955139;255867;6702429;309785,http://en.wikipedia.org/wiki/New_Jersey,New Jersey,new-jersey,new-jersey,UNK
+New Jersey,938854,145,132,,http://en.wikipedia.org/wiki/New_Jersey_Plan,New Jersey Plan,new-jersey-plan,new-jersey-plan,UNK
+New Jersey,1199251,11,27,,http://en.wikipedia.org/wiki/New_Jersey_v._T._L._O.,New Jersey v. T. L. O.,new-jersey-v-t-l-o,new-jersey-v-t-l-o,UNK
+New Jersey,191015,312,556,21648;698;190896,http://en.wikipedia.org/wiki/USS_New_Jersey_(BB-62),USS New Jersey,uss-new-jersey,uss-new-jersey-bb-62,UNK
+New Jersey,191006,52,66,21648;698;190896,http://en.wikipedia.org/wiki/USS_New_Jersey_(BB-16),USS New Jersey,uss-new-jersey,uss-new-jersey-bb-16,UNK
+New Jersey,331685,279,112,21648;6702429,http://en.wikipedia.org/wiki/New_Jersey_Meadowlands,New Jersey Meadowlands,new-jersey-meadowlands,new-jersey-meadowlands,UNK
+New Jersey,39421496,3,17,486979;645042;21648,http://en.wikipedia.org/wiki/New_Jersey_Journal,New Jersey Journal,new-jersey-journal,new-jersey-journal,ORG
+New Jersey,20070479,4,2,,"http://en.wikipedia.org/wiki/New_Jersey,_Indiana_and_Illinois_Railroad","New Jersey, Indiana and Illinois Railroad",new-jersey-indiana-and-illinois-railroad,new-jersey-indiana-and-illinois-railroad,UNK
+New Jersey,6702429,187,192,698;331685;21648;8210131;645042,http://en.wikipedia.org/wiki/Geography_of_New_Jersey,Geography of New Jersey,geography-of-new-jersey,geography-of-new-jersey,UNK
+New Jersey,19209140,5,12,21648,http://en.wikipedia.org/wiki/New_Jersey:_The_Movie,New Jersey: The Movie,new-jersey-the-movie,new-jersey-the-movie,UNK
+New Jersey,12996723,18,51,309785;8210131;21648,http://en.wikipedia.org/wiki/New_Jersey_Transit_Police_Department,New Jersey Transit Police Department,new-jersey-transit-police-department,new-jersey-transit-police-department,UNK
+New Jersey,190896,7,4,21648;191006;191015,http://en.wikipedia.org/wiki/USS_New_Jersey,USS New Jersey,uss-new-jersey,uss-new-jersey,UNK
+New Jersey,309785,1289,158,309785;37139;21648;645042;136974;816554;12996723;8210131,http://en.wikipedia.org/wiki/New_Jersey_Transit,New Jersey Transit,new-jersey-transit,new-jersey-transit,UNK
+New Jersey,7847093,38,62,21648,http://en.wikipedia.org/wiki/New_Jersey_District_(LCMS),New Jersey District,new-jersey-district,new-jersey-district-lcms,UNK
+New Jersey,486979,334,104,21648;645042;39421496;8210131,http://en.wikipedia.org/wiki/Province_of_New_Jersey,Province of New Jersey,province-of-new-jersey,province-of-new-jersey,GPE
+Long Island,18315,5262,862,156273;698;59265;5757860;8210131;30658;3880857;30536135;152449;518608;37139;645042;255867,http://en.wikipedia.org/wiki/Long_Island,Long Island,long-island,long-island,UNK
+Long Island,30353679,2,8,,http://en.wikipedia.org/wiki/Long_Island_Beach,Long Island Beach,long-island-beach,long-island-beach,UNK
+Long Island,38955139,95,93,21648,"http://en.wikipedia.org/wiki/Long_Island,_Bahamas","Long Island, Bahamas",long-island-bahamas,long-island-bahamas,UNK
+Long Island,32954393,1,10,,http://en.wikipedia.org/wiki/Long_Island_(Antarctica),Long Island,long-island,long-island-antarctica,UNK
+Long Island,2994687,70,114,,http://en.wikipedia.org/wiki/Long_Island_(New_South_Wales),Long Island,long-island,long-island-new-south-wales,UNK
+Long Island,6920726,7,7,,http://en.wikipedia.org/wiki/Long_Island_(Washington),Long Island,long-island,long-island-washington,UNK
+Long Island,3189288,5,7,,"http://en.wikipedia.org/wiki/Long_Island,_Bermuda","Long Island, Bermuda",long-island-bermuda,long-island-bermuda,UNK
+Long Island,13138358,66,58,,http://en.wikipedia.org/wiki/Long_Island_(Whitsunday_Islands),Long Island,long-island,long-island-whitsunday-islands,UNK
+Long Island,6331949,137,145,,http://en.wikipedia.org/wiki/Long_Island_(Papua_New_Guinea),Long Island,long-island,long-island-papua-new-guinea,UNK
+Long Island,59265,419,275,37139;645042;18315;8210131,http://en.wikipedia.org/wiki/Long_Island_City,Long Island City,long-island-city,long-island-city,UNK
+Long Island,14160194,6,38,,http://en.wikipedia.org/wiki/Long_Island_(Dorset),Long Island,long-island,long-island-dorset,GPE
+Long Island,7817849,5,25,,http://en.wikipedia.org/wiki/Long_Island_(Tasmania),Long Island,long-island,long-island-tasmania,UNK
+Long Island,28213998,1,3,,"http://en.wikipedia.org/wiki/Long_Island,_Hamilton,_Bermuda","Long Island, Hamilton, Bermuda",long-island-hamilton-bermuda,long-island-hamilton-bermuda,UNK
+Long Island,1856136,6,9,,"http://en.wikipedia.org/wiki/Long_Island,_Marlborough","Long Island, Marlborough",long-island-marlborough,long-island-marlborough,UNK
+Long Island,31621646,2,6,,http://en.wikipedia.org/wiki/Long_Island_(Hampshire),Long Island,long-island,long-island-hampshire,UNK
+Long Island,115942,144,169,8210131,"http://en.wikipedia.org/wiki/Long_Island,_Maine","Long Island, Maine",long-island-maine,long-island-maine,GPE
+Long Island,5757860,8,6,18315,http://en.wikipedia.org/wiki/Long_Island_Association,Long Island Association,long-island-association,long-island-association,ORG
+Long Island,6187930,66,63,,http://en.wikipedia.org/wiki/Long_Island_(Wisconsin),Long Island,long-island,long-island-wisconsin,UNK
+Long Island,100001596,0,0,,http://en.wikipedia.org/wiki/Long_Island_(Nunavut),Long Island,long-island,long-island-nunavut,UKN
+Long Island,23467006,439,448,1505822,"http://en.wikipedia.org/wiki/Long_Island_(Frobisher_Bay,_Nunavut)",Long Island,long-island,long-island-frobisher-bay-nunavut,UNK
+Long Island,255867,1055,195,2585447;21648;351876;645042;698;18315;15640568;8210131,http://en.wikipedia.org/wiki/Long_Island_Sound,Long Island Sound,long-island-sound,long-island-sound,UNK
+Long Island,15640568,11,22,8210131;698;255867,http://en.wikipedia.org/wiki/Long_Island_AVA,Long Island AVA,long-island-ava,long-island-ava,UNK
+Long Island,24980455,15,32,,"http://en.wikipedia.org/wiki/Long_Island,_Virginia","Long Island, Virginia",long-island-virginia,long-island-virginia,GPE
+Long Island,114823,23,220,,"http://en.wikipedia.org/wiki/Long_Island,_Kansas","Long Island, Kansas",long-island-kansas,long-island-kansas,GPE
+Long Island,8266767,9,21,,http://en.wikipedia.org/wiki/Long_Island_(Nova_Scotia),Long Island,long-island,long-island-nova-scotia,UNK
+Long Island,156273,90,78,18315,http://en.wikipedia.org/wiki/Long_Island_Iced_Tea,Long Island Iced Tea,long-island-iced-tea,long-island-iced-tea,UNK
+Long Island,6461149,38,92,,http://en.wikipedia.org/wiki/Long_Island_(Massachusetts),Long Island,long-island,long-island-massachusetts,UNK
+Long Island,23544794,1,7,,http://en.wikipedia.org/wiki/Long_Island_River_(Minnesota),Long Island River,long-island-river,long-island-river-minnesota,UNK
+Long Island,15886570,1,15,,"http://en.wikipedia.org/wiki/Long_Island,_Hogan_Group_(Tasmania)","Long Island, Hogan Group",long-island-hogan-group,long-island-hogan-group-tasmania,UNK
+Long Island,29670235,4,8,,"http://en.wikipedia.org/wiki/Long_Island,_Southland","Long Island, Southland",long-island-southland,long-island-southland,UNK
+Long Island,27377310,6,11,,"http://en.wikipedia.org/wiki/Long_Island,_County_Cork","Long Island, County Cork",long-island-county-cork,long-island-county-cork,GPE
+Long Island,14400971,140,129,,"http://en.wikipedia.org/wiki/Long_Island,_Falkland_Islands","Long Island, Falkland Islands",long-island-falkland-islands,long-island-falkland-islands,UNK
+Long Island,27318939,7,10,,http://en.wikipedia.org/wiki/Long_Island_(Connecticut),Long Island,long-island,long-island-connecticut,ORG
+Long Island,22877003,32,39,,"http://en.wikipedia.org/wiki/Long_Island,_Alabama","Long Island, Alabama",long-island-alabama,long-island-alabama,GPE
+Long Island,7138900,7,8,,http://en.wikipedia.org/wiki/Long_Island_(Alaska),Long Island,long-island,long-island-alaska,UNK
+Long Island,1505822,442,449,23467006,"http://en.wikipedia.org/wiki/Long_Island_(Hudson_Bay,_Nunavut)",Long Island,long-island,long-island-hudson-bay-nunavut,UNK
+Long Island,37139,1419,472,59265;309785;2585447;37139;891699;351876;11127;645042;816554;18315;2499282;8210131,http://en.wikipedia.org/wiki/Long_Island_Rail_Road,Long Island Rail Road,long-island-rail-road,long-island-rail-road,UNK
+Long Island,30536135,2,18,8210131;645042;18315,http://en.wikipedia.org/wiki/Long_Island_(proposed_state),Long Island,long-island,long-island-proposed-state,UNK
+Long Island,10959261,29,92,,http://en.wikipedia.org/wiki/Long_Island_(Tennessee),Long Island,long-island,long-island-tennessee,UNK
+Long Island,518608,655,355,3880857;18315;8210131,http://en.wikipedia.org/wiki/Long_Island_University,Long Island University,long-island-university,long-island-university,ORG
+Long Island,28214000,0,3,,"http://en.wikipedia.org/wiki/Long_Island,_Saint_George's,_Bermuda","Long Island, Saint George's, Bermuda",long-island-saint-georges-bermuda,long-island-saint-georges-bermuda,UNK
+Island Beach State Park,4472857,96,134,21648,http://en.wikipedia.org/wiki/Island_Beach_State_Park,Island Beach State Park,island-beach-state-park,island-beach-state-park,UNK
+New York,8210131,70636,932,698;2499282;11127;18315;21648;8210131;30658;152449;37139;667548;816554;59265;6702429;3880857;309785;351876;486979;7402167;30536135;891699;645042;13141861;518608;15640568;598652;12996723;606772;115942;255867,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+New York,39062092,3,8,,http://en.wikipedia.org/wiki/New_York_EP,New York EP,new-york-ep,new-york-ep,UNK
+New York,5710132,2,12,,"http://en.wikipedia.org/wiki/New_York,_Auburn_and_Lansing_Railroad","New York, Auburn and Lansing Railroad",new-york-auburn-and-lansing-railroad,new-york-auburn-and-lansing-railroad,UNK
+New York,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+New York,2499282,360,314,37139;891699;21648;351876;645042;816554;8210131,"http://en.wikipedia.org/wiki/New_York,_Ontario_and_Western_Railway","New York, Ontario and Western Railway",new-york-ontario-and-western-railway,new-york-ontario-and-western-railway,UNK
+New York,2001239,3,3,,"http://en.wikipedia.org/wiki/New_York,_Newfoundland_and_London_Telegraph_Company","New York, Newfoundland and London Telegraph Company",new-york-newfoundland-and-london-telegraph-company,new-york-newfoundland-and-london-telegraph-company,UNK
+New York,1159194,10,261,,"http://en.wikipedia.org/wiki/New_York,_Lincolnshire","New York, Lincolnshire",new-york-lincolnshire,new-york-lincolnshire,UNK
+New York,3880857,301,536,518608;645042;18315;8210131,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+New York,17292183,104,126,645042,"http://en.wikipedia.org/wiki/New_York,_I_Love_You","New York, I Love You",new-york-i-love-you,new-york-i-love-you,UNK
+New York,7402167,6,16,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_New_York_(So_Good_They_Named_It_Twice)","New York, New York",new-york-new-york,new-york-new-york-so-good-they-named-it-twice,UNK
+New York,891699,493,307,37139;351876;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_Chicago_and_St._Louis_Railroad","New York, Chicago and St. Louis Railroad",new-york-chicago-and-st-louis-railroad,new-york-chicago-and-st-louis-railroad,UNK
+New York,26035579,0,1,645042,"http://en.wikipedia.org/wiki/New_York,_US-NY","New York, US-NY",new-york-us-ny,new-york-us-ny,UNK
+New York,21310853,2,74,351876,"http://en.wikipedia.org/wiki/New_York,_New_Haven_&_Hartford_Passenger_Depot","New York, New Haven & Hartford Passenger Depot",new-york-new-haven-hartford-passenger-depot,new-york-new-haven-hartford-passenger-depot,UNK
+New York,1470149,50,16,,http://en.wikipedia.org/wiki/New_York_&_Company,New York & Company,new-york-company,new-york-company,UNK
+New York,606772,30,81,8210131;645042,http://en.wikipedia.org/wiki/New_York:_A_Documentary_Film,New York: A Documentary Film,new-york-a-documentary-film,new-york-a-documentary-film,UNK
+New York,26723573,3,85,816554;21648,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_&_Western_Railroad_ALCO_Type_S-2_Locomotive","New York, Susquehanna & Western Railroad ALCO Type S-2 Locomotive",new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,UNK
+New York,1555877,17,13,31747730,"http://en.wikipedia.org/wiki/New_York,_New_York_(On_the_Town)","New York, New York",new-york-new-york,new-york-new-york-on-the-town,UNK
+New York,667548,10,36,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_Rio,_and_Buenos_Aires_Line","New York, Rio, and Buenos Aires Line",new-york-rio-and-buenos-aires-line,new-york-rio-and-buenos-aires-line,ORG
+New York,27746113,5,109,13141861;645042,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railroad_Administration_Building","New York, Westchester and Boston Railroad Administration Building",new-york-westchester-and-boston-railroad-administration-building,new-york-westchester-and-boston-railroad-administration-building,UNK
+New York,598652,483,197,645042;598652;8210131,http://en.wikipedia.org/wiki/New_York_School,New York School,new-york-school,new-york-school,UNK
+New York,31747730,135,373,1555877;645042,http://en.wikipedia.org/wiki/New_York_(Glee),New York,new-york,new-york-glee,UNK
+New York,493759,93,39,,"http://en.wikipedia.org/wiki/New_York,_Tyne_and_Wear","New York, Tyne and Wear",new-york-tyne-and-wear,new-york-tyne-and-wear,GPE
+New York,2585447,38,55,351876;37139;645042;255867,"http://en.wikipedia.org/wiki/New_York,_Providence_and_Boston_Railroad","New York, Providence and Boston Railroad",new-york-providence-and-boston-railroad,new-york-providence-and-boston-railroad,UNK
+New York,13141861,113,149,351876;8210131;645042;27746113,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railway","New York, Westchester and Boston Railway",new-york-westchester-and-boston-railway,new-york-westchester-and-boston-railway,UNK
+New York,7112349,30,43,,"http://en.wikipedia.org/wiki/New_York,_Texas","New York, Texas",new-york-texas,new-york-texas,GPE
+New York,351876,647,399,21310853;2585447;37139;891699;21648;645042;13141861;816554;2499282;255867;8210131,"http://en.wikipedia.org/wiki/New_York,_New_Haven_and_Hartford_Railroad","New York, New Haven and Hartford Railroad",new-york-new-haven-and-hartford-railroad,new-york-new-haven-and-hartford-railroad,UNK
+New York,816554,492,446,309785;37139;891699;21648;351876;645042;2499282;8210131;26723573,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_and_Western_Railway","New York, Susquehanna and Western Railway",new-york-susquehanna-and-western-railway,new-york-susquehanna-and-western-railway,UNK
+New York,13288448,14,23,,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+New York,645042,77367,1542,698;2499282;11127;18315;21648;8210131;152449;27746113;39421496;26035579;37139;667548;816554;59265;6702429;3880857;309785;351876;486979;7402167;2585447;30536135;645042;13141861;598652;17292183;606772;255867;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+National Transportation Safety Board,21840,839,260,30658;11127;152449;698,http://en.wikipedia.org/wiki/National_Transportation_Safety_Board,National Transportation Safety Board,national-transportation-safety-board,national-transportation-safety-board,ORG
+FBI,11127,5332,1027,4385414;11127;8210131;30658;21840;21648;37139;645042;215371;21527615,http://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation,Federal Bureau of Investigation,federal-bureau-of-investigation,federal-bureau-of-investigation,UNK
+FBI,4385414,145,154,11127;4385414,http://en.wikipedia.org/wiki/FBI_on_The_Sopranos,FBI on The Sopranos,fbi-on-the-sopranos,fbi-on-the-sopranos,UNK
+FBI,18324113,63,84,,http://en.wikipedia.org/wiki/F.B.I._(instrumental),F.B.I.,fbi,fbi-instrumental,UNK
+FBI,215371,204,133,21527615;11127,http://en.wikipedia.org/wiki/FBI_Academy,FBI Academy,fbi-academy,fbi-academy,UNK
+FBI,1185650,107,83,,http://en.wikipedia.org/wiki/FBi_Radio,FBi Radio,fbi-radio,fbi-radio,ORG
+FBI,21527615,104,121,215371;11127,http://en.wikipedia.org/wiki/FBI_National_Academy,FBI National Academy,fbi-national-academy,fbi-national-academy,ORG
+Atlantic Ocean,698,10945,525,191006;191015;18315;21840;21648;645042;15640568;255867;6702429;8210131,http://en.wikipedia.org/wiki/Atlantic_Ocean,Atlantic Ocean,atlantic-ocean,atlantic-ocean,UNK
+Atlantic Ocean,17618834,3,14,,http://en.wikipedia.org/wiki/Atlantic_Ocean_(band),Atlantic Ocean,atlantic-ocean,atlantic-ocean-band,UNK
+Atlantic Ocean,452270,23,58,,http://en.wikipedia.org/wiki/Atlantic_Ocean_Road,Atlantic Ocean Road,atlantic-ocean-road,atlantic-ocean-road,UNK

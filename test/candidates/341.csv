@@ -1,0 +1,27 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+ROMANIAN,25445,52892,1099,41024362;2498018;25534;25445;2384775;2384859;20546700;36877;14200218;322831;2554958;553982;1339199;8154308;893411;3569554;3569562;3575077;384458;3574206;12154722;2958305;8581901;1240318;861358;1351047,http://en.wikipedia.org/wiki/Romania,Romania,romania,romania,GPE
+ROMANIAN,12154722,3,52,25445,http://en.wikipedia.org/wiki/Romanian_International,Romanian International,romanian-international,romanian-international,UNK
+ROMANIAN,8581901,34,38,25534;25445;36877,http://en.wikipedia.org/wiki/BBC_Romanian,BBC Romanian,bbc-romanian,bbc-romanian,ORG
+ROMANIAN,8154308,5,15,25445,http://en.wikipedia.org/wiki/The_Romanian:_Story_of_an_Obsession,The Romanian: Story of an Obsession,the-romanian-story-of-an-obsession,the-romanian-story-of-an-obsession,UNK
+ROMANIAN,14200218,171,227,322831;25534;25445;384458,http://en.wikipedia.org/wiki/Romanian_architecture,Romanian architecture,romanian-architecture,romanian-architecture,UNK
+ROMANIAN,1351047,103,110,25534;25445,http://en.wikipedia.org/wiki/Romanian_Wikipedia,Romanian Wikipedia,romanian-wikipedia,romanian-wikipedia,UNK
+ROMANIAN,322831,2017,430,25534;25445;36877;14200218;384458,http://en.wikipedia.org/wiki/Romanians,Romanians,romanians,romanians,UNK
+ROMANIAN,384458,749,173,36877;322831;14200218;25534;25445,http://en.wikipedia.org/wiki/Romanian_Orthodox_Church,Romanian Orthodox Church,romanian-orthodox-church,romanian-orthodox-church,UNK
+ROMANIAN,25534,4623,522,553982;25534;25445;322831;384458;8581901;36877;14200218;1351047;2554958;3569562,http://en.wikipedia.org/wiki/Romanian_language,Romanian language,romanian-language,romanian-language,UNK
+BUCHAREST,36877,6804,606,384458;8581901;36877;893411;553982;25534;25445;1240318;322831;861358;2498018,http://en.wikipedia.org/wiki/Bucharest,Bucharest,bucharest,bucharest,UNK
+BUCHAREST,553982,661,234,36877;25534;25445,http://en.wikipedia.org/wiki/University_of_Bucharest,University of Bucharest,university-of-bucharest,university-of-bucharest,ORG
+Ceahlaul Piatra Neamt,2958305,236,188,2554958;1339199;893411;861358;3569554;2958305;25445;3575077,http://en.wikipedia.org/wiki/FC_Ceahlăul_Piatra_Neamț,FC Ceahlăul Piatra Neamț,fc-ceahlaul-piatra-neamt,fc-ceahlaul-piatra-neamt,UNK
+Otelul Galati,3569554,358,177,41024362;2554958;1339199;893411;861358;3569554;2958305;25445;3575077,http://en.wikipedia.org/wiki/FC_Oțelul_Galați,FC Oțelul Galați,fc-otelul-galati,fc-otelul-galati,UNK
+F.C. Farul Constanta,3569562,106,80,2384775;25534;2384859;2498018;861358;25445;1240318,http://en.wikipedia.org/wiki/FC_Farul_Constanța,FC Farul Constanța,fc-farul-constanta,fc-farul-constanta,UNK
+Sportul Studentesc,2498018,131,54,2384775;36877;2384859;3569562;25445;1240318,http://en.wikipedia.org/wiki/FC_Sportul_Studențesc_București,FC Sportul Studențesc București,fc-sportul-studentesc-bucuresti,fc-sportul-studentesc-bucuresti,UNK
+Universitatea Craiova,2384859,543,98,893411;861358;20546700;25445;41024362;2498018;1240318;2384775;2384859;3569562,http://en.wikipedia.org/wiki/FC_Universitatea_Craiova,FC Universitatea Craiova,fc-universitatea-craiova,fc-universitatea-craiova,UNK
+F.C. Petrolul Ploiesti,3575077,642,417,2554958;1339199;893411;861358;2958305;25445;1240318;3569554;3575077,http://en.wikipedia.org/wiki/FC_Petrolul_Ploiești,FC Petrolul Ploiești,fc-petrolul-ploiesti,fc-petrolul-ploiesti,UNK
+Politehnica Timisoara,20546700,237,101,41024362;893411;861358;1240318;2384859;25445,http://en.wikipedia.org/wiki/FC_Politehnica_Timișoara,FC Politehnica Timișoara,fc-politehnica-timisoara,fc-politehnica-timisoara,UNK
+Politehnica Timisoara,41024362,137,59,41024362;2384859;3569554;20546700;893411;861358;25445;1240318,http://en.wikipedia.org/wiki/FC_Politehnica_Timişoara,FC Politehnica Timişoara,fc-politehnica-timisoara,fc-politehnica-timisoara,UNK
+F.C. Brasov,1339199,313,249,2554958;1339199;893411;861358;2958305;25445;1240318;3569554;3575077,http://en.wikipedia.org/wiki/FC_Brașov,FC Brașov,fc-brasov,fc-brasov,UNK
+Jiul Petrosani,3574206,19,57,25445,http://en.wikipedia.org/wiki/CS_Jiul_Petroșani,CS Jiul Petroșani,cs-jiul-petrosani,cs-jiul-petrosani,UNK
+Dinamo Bucharest,861358,606,282,36877;2554958;1339199;893411;861358;20546700;2958305;25445;41024362;1240318;2384859;3569554;3569562;3575077,http://en.wikipedia.org/wiki/FC_Dinamo_București,FC Dinamo București,fc-dinamo-bucuresti,fc-dinamo-bucuresti,UNK
+Gloria Bistrita,2384775,78,142,2384859;2498018;3569562;893411;25445;1240318,http://en.wikipedia.org/wiki/ACF_Gloria_Bistrița,ACF Gloria Bistrița,acf-gloria-bistrita,acf-gloria-bistrita,UNK
+Universitatea Cluj,2554958,365,154,1339199;893411;861358;25534;2958305;25445;1240318;3569554;3575077,http://en.wikipedia.org/wiki/FC_Universitatea_Cluj,FC Universitatea Cluj,fc-universitatea-cluj,fc-universitatea-cluj,UNK
+Rapid Bucharest,1240318,328,195,36877;2554958;1339199;893411;861358;20546700;25445;41024362;2498018;2384775;2384859;3569562;3575077,http://en.wikipedia.org/wiki/FC_Rapid_București,FC Rapid București,fc-rapid-bucuresti,fc-rapid-bucuresti,UNK
+Steaua Bucharest,893411,881,498,36877;1339199;893411;2958305;41024362;3575077;2554958;861358;20546700;25445;1240318;2384775;2384859;3569554,http://en.wikipedia.org/wiki/FC_Steaua_București,FC Steaua București,fc-steaua-bucuresti,fc-steaua-bucuresti,UNK

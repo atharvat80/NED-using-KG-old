@@ -1,0 +1,96 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+RUGBY UNION,25405,17190,543,905152;3422357;42052961;1748767;478115;690902;2313225;4913064;21904572;17416221;25405;25002;4692085;771803;376115;771734;740724;1023035;154957,http://en.wikipedia.org/wiki/Rugby_union,Rugby union,rugby-union,rugby-union,UNK
+RUGBY UNION,771803,2214,126,1748767;25405;4913064;154957;376115;42052961;740724,http://en.wikipedia.org/wiki/Rugby_union_positions,Rugby union positions,rugby-union-positions,rugby-union-positions,UNK
+RUGBY UNION,4692085,441,252,154957;771734;25405;18334982;4692085,http://en.wikipedia.org/wiki/Rugby_union_in_the_United_States,Rugby union in the United States,rugby-union-in-the-united-states,rugby-union-in-the-united-states,UNK
+RUGBY UNION,18334982,234,45,4692085,http://en.wikipedia.org/wiki/Florida_Rugby_Union,Florida Rugby Union,florida-rugby-union,florida-rugby-union,UNK
+RUGBY UNION,771734,523,252,771734;25405;4692085,http://en.wikipedia.org/wiki/Rugby_union_at_the_Summer_Olympics,Rugby union at the Summer Olympics,rugby-union-at-the-summer-olympics,rugby-union-at-the-summer-olympics,UNK
+NEW ZEALAND,154957,2121,530,3422357;478115;25405;21904572;690902;905152;4913064;1023035;4692085;771803;376115;42052961;740724,http://en.wikipedia.org/wiki/New_Zealand_national_rugby_union_team,New Zealand national rugby union team,new-zealand-national-rugby-union-team,new-zealand-national-rugby-union-team,UNK
+NEW ZEALAND,29417435,1,12,4913064,http://en.wikipedia.org/wiki/Mount_New_Zealand,Mount New Zealand,mount-new-zealand,mount-new-zealand,UNK
+NEW ZEALAND,3889279,87,121,7188443;4913064,http://en.wikipedia.org/wiki/Electoral_system_of_New_Zealand,Electoral system of New Zealand,electoral-system-of-new-zealand,electoral-system-of-new-zealand,UNK
+NEW ZEALAND,7188443,494,443,3889279;4913064,"http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008","New Zealand general election, 2008",new-zealand-general-election-2008,new-zealand-general-election-2008,UNK
+NEW ZEALAND,21865279,41,58,,http://en.wikipedia.org/wiki/New_Zealand_Town,New Zealand Town,new-zealand-town,new-zealand-town,UNK
+NEW ZEALAND,21353,149,205,21353;21354;2316836;21670;4913064,http://en.wikipedia.org/wiki/Geography_of_New_Zealand,Geography of New Zealand,geography-of-new-zealand,geography-of-new-zealand,UNK
+NEW ZEALAND,426231,107,11,,http://en.wikipedia.org/wiki/University_of_New_Zealand,University of New Zealand,university-of-new-zealand,university-of-new-zealand,ORG
+NEW ZEALAND,455232,88,75,4913064,http://en.wikipedia.org/wiki/New_Zealand_Division,New Zealand Division,new-zealand-division,new-zealand-division,ORG
+NEW ZEALAND,646010,92,99,4913064,http://en.wikipedia.org/wiki/New_Zealand_Party,New Zealand Party,new-zealand-party,new-zealand-party,UNK
+NEW ZEALAND,3422357,83,89,154957;1023035;25405;4913064;3394012;478115,http://en.wikipedia.org/wiki/New_Zealand_national_Australian_rules_football_team,New Zealand national Australian rules football team,new-zealand-national-australian-rules-football-team,new-zealand-national-australian-rules-football-team,UNK
+NEW ZEALAND,18285383,3,28,,"http://en.wikipedia.org/wiki/New_Zealand,_Wiltshire","New Zealand, Wiltshire",new-zealand-wiltshire,new-zealand-wiltshire,GPE
+NEW ZEALAND,273592,191,224,,"http://en.wikipedia.org/wiki/New_Zealand,_Buckinghamshire","New Zealand, Buckinghamshire",new-zealand-buckinghamshire,new-zealand-buckinghamshire,UNK
+NEW ZEALAND,2316836,290,262,17416221;21353;21354;21670;4913064,http://en.wikipedia.org/wiki/New_Zealand_nationality_law,New Zealand nationality law,new-zealand-nationality-law,new-zealand-nationality-law,ORG
+NEW ZEALAND,21354,158,259,17416221;21353;21354;2316836;21670;4913064,http://en.wikipedia.org/wiki/Demographics_of_New_Zealand,Demographics of New Zealand,demographics-of-new-zealand,demographics-of-new-zealand,UNK
+NEW ZEALAND,4913064,57468,846,11510858;21670;21353;21354;25405;154957;315351;455232;3394012;3889279;1148043;4913064;3422357;2316836;1748767;478115;2313225;29417435;646010;17416221;771803;1018598;1023035;7188443;1112461;740724,http://en.wikipedia.org/wiki/New_Zealand,New Zealand,new-zealand,new-zealand,GPE
+NEW ZEALAND,1112461,412,343,2313225;4913064,http://en.wikipedia.org/wiki/New_Zealand_Rugby_League,New Zealand Rugby League,new-zealand-rugby-league,new-zealand-rugby-league,UNK
+NEW ZEALAND,315351,207,130,4913064,http://en.wikipedia.org/wiki/New_Zealand_Company,New Zealand Company,new-zealand-company,new-zealand-company,UNK
+NEW ZEALAND,11510858,0,8,4913064,http://en.wikipedia.org/wiki/New_Zealand_College,New Zealand College,new-zealand-college,new-zealand-college,UNK
+NEW ZEALAND,1023035,1494,454,3422357;478115;25405;4913064;1023035;154957;2313225;1018598;17416221,http://en.wikipedia.org/wiki/New_Zealand_national_football_team,New Zealand national football team,new-zealand-national-football-team,new-zealand-national-football-team,UNK
+NEW ZEALAND,28561395,29,35,,"http://en.wikipedia.org/wiki/New_Zealand,_Derby","New Zealand, Derby",new-zealand-derby,new-zealand-derby,GPE
+NEW ZEALAND,2313225,404,283,2313225;25405;4913064;1023035;1112461,http://en.wikipedia.org/wiki/New_Zealand_Football,New Zealand Football,new-zealand-football,new-zealand-football,ORG
+NEW ZEALAND,21670,516,409,21670;4913064;17416221;21353;21354;2316836,http://en.wikipedia.org/wiki/New_Zealand_English,New Zealand English,new-zealand-english,new-zealand-english,ORG
+NEW ZEALAND,1148043,368,147,4913064,http://en.wikipedia.org/wiki/New_Zealand_cuisine,New Zealand cuisine,new-zealand-cuisine,new-zealand-cuisine,UNK
+NEW ZEALAND,478115,1457,488,3422357;25405;4913064;1023035;759263;154957;17416221,http://en.wikipedia.org/wiki/New_Zealand_national_cricket_team,New Zealand national cricket team,new-zealand-national-cricket-team,new-zealand-national-cricket-team,UNK
+SOUTH AFRICA,376115,2028,619,1748767;3394012;25405;21904572;25002;690902;28580;759263;154957;771803;1018598;17416221;23443855,http://en.wikipedia.org/wiki/South_Africa_national_rugby_union_team,South Africa national rugby union team,south-africa-national-rugby-union-team,south-africa-national-rugby-union-team,UNK
+SOUTH AFRICA,65639,171,310,17416221;65639;25002,http://en.wikipedia.org/wiki/Geography_of_South_Africa,Geography of South Africa,geography-of-south-africa,geography-of-south-africa,UNK
+SOUTH AFRICA,8822906,78,102,17416221,http://en.wikipedia.org/wiki/South_Africa_(The_Goodies),South Africa,south-africa,south-africa-the-goodies,UNK
+SOUTH AFRICA,3394012,64,66,759263;3422357;1018598;17416221;376115;4913064,http://en.wikipedia.org/wiki/South_Africa_national_Australian_rules_football_team,South Africa national Australian rules football team,south-africa-national-australian-rules-football-team,south-africa-national-australian-rules-football-team,UNK
+SOUTH AFRICA,759263,1457,311,3394012;478115;1018598;376115;17416221;25002,http://en.wikipedia.org/wiki/South_Africa_national_cricket_team,South Africa national cricket team,south-africa-national-cricket-team,south-africa-national-cricket-team,UNK
+SOUTH AFRICA,17416221,57523,1123,21670;21904572;21354;25405;25002;28580;3394012;4913064;65639;2316836;1748767;478115;759263;23443855;17416221;1018598;12303804;1023035;27946798;8822906;363843;376115;3183652,http://en.wikipedia.org/wiki/South_Africa,South Africa,south-africa,south-africa,GPE
+SOUTH AFRICA,1018598,1434,587,3394012;25002;4913064;1023035;759263;376115;17416221,http://en.wikipedia.org/wiki/South_Africa_national_football_team,South Africa national football team,south-africa-national-football-team,south-africa-national-football-team,UNK
+SOUTH AFRICA,35754887,316,351,25002,http://en.wikipedia.org/wiki/Greater_South_Africa,Greater South Africa,greater-south-africa,greater-south-africa,UNK
+SOUTH AFRICA,12303804,332,115,12303804;17416221;23443855;363843;25002,http://en.wikipedia.org/wiki/University_of_South_Africa,University of South Africa,university-of-south-africa,university-of-south-africa,ORG
+SOUTH AFRICA,363843,270,147,12303804;17416221,http://en.wikipedia.org/wiki/State_President_of_South_Africa,State President of South Africa,state-president-of-south-africa,state-president-of-south-africa,UNK
+PRETORIA,25002,2997,411,25405;27946798;1850496;25002;35754887;1018598;376115;1748767;65639;21904572;12303804;759263;17416221;23443855;3183652,http://en.wikipedia.org/wiki/Pretoria,Pretoria,pretoria,pretoria,GPE
+PRETORIA,31700301,11,25,,"http://en.wikipedia.org/wiki/Pretoria,_Georgia","Pretoria, Georgia",pretoria-georgia,pretoria-georgia,GPE
+PRETORIA,22010550,7,34,,http://en.wikipedia.org/wiki/USS_Pretoria_(1897),USS Pretoria,uss-pretoria,uss-pretoria-1897,UNK
+PRETORIA,1850496,5,13,25002,http://en.wikipedia.org/wiki/Pretoria_Bridge,Pretoria Bridge,pretoria-bridge,pretoria-bridge,UNK
+PRETORIA,9929292,2,4,,http://en.wikipedia.org/wiki/Pretoria_Castle,Pretoria Castle,pretoria-castle,pretoria-castle,UNK
+PRETORIA,27946798,7,33,25002;17416221,http://en.wikipedia.org/wiki/Pretoria_railway_station,Pretoria railway station,pretoria-railway-station,pretoria-railway-station,UNK
+PRETORIA,23443855,759,291,1748767;376115;12303804;17416221;23443855;25002,http://en.wikipedia.org/wiki/University_of_Pretoria,University of Pretoria,university-of-pretoria,university-of-pretoria,ORG
+PRETORIA,3183652,11,40,25002;17416221,http://en.wikipedia.org/wiki/Pretoria_Regiment,Pretoria Regiment,pretoria-regiment,pretoria-regiment,ORG
+South Africa,17416221,57523,1123,21670;21904572;21354;25405;25002;28580;3394012;4913064;65639;2316836;1748767;478115;759263;23443855;17416221;1018598;12303804;1023035;27946798;8822906;363843;376115;3183652,http://en.wikipedia.org/wiki/South_Africa,South Africa,south-africa,south-africa,GPE
+South Africa,65639,171,310,17416221;65639;25002,http://en.wikipedia.org/wiki/Geography_of_South_Africa,Geography of South Africa,geography-of-south-africa,geography-of-south-africa,UNK
+South Africa,376115,2028,619,1748767;3394012;25405;21904572;25002;690902;28580;759263;154957;771803;1018598;17416221;23443855,http://en.wikipedia.org/wiki/South_Africa_national_rugby_union_team,South Africa national rugby union team,south-africa-national-rugby-union-team,south-africa-national-rugby-union-team,UNK
+South Africa,8822906,78,102,17416221,http://en.wikipedia.org/wiki/South_Africa_(The_Goodies),South Africa,south-africa,south-africa-the-goodies,UNK
+South Africa,3394012,64,66,759263;3422357;1018598;17416221;376115;4913064,http://en.wikipedia.org/wiki/South_Africa_national_Australian_rules_football_team,South Africa national Australian rules football team,south-africa-national-australian-rules-football-team,south-africa-national-australian-rules-football-team,UNK
+South Africa,759263,1457,311,3394012;478115;1018598;376115;17416221;25002,http://en.wikipedia.org/wiki/South_Africa_national_cricket_team,South Africa national cricket team,south-africa-national-cricket-team,south-africa-national-cricket-team,UNK
+South Africa,1018598,1434,587,3394012;25002;4913064;1023035;759263;376115;17416221,http://en.wikipedia.org/wiki/South_Africa_national_football_team,South Africa national football team,south-africa-national-football-team,south-africa-national-football-team,UNK
+South Africa,35754887,316,351,25002,http://en.wikipedia.org/wiki/Greater_South_Africa,Greater South Africa,greater-south-africa,greater-south-africa,UNK
+South Africa,12303804,332,115,12303804;17416221;23443855;363843;25002,http://en.wikipedia.org/wiki/University_of_South_Africa,University of South Africa,university-of-south-africa,university-of-south-africa,ORG
+South Africa,363843,270,147,12303804;17416221,http://en.wikipedia.org/wiki/State_President_of_South_Africa,State President of South Africa,state-president-of-south-africa,state-president-of-south-africa,UNK
+New Zealand,154957,2121,530,3422357;478115;25405;21904572;690902;905152;4913064;1023035;4692085;771803;376115;42052961;740724,http://en.wikipedia.org/wiki/New_Zealand_national_rugby_union_team,New Zealand national rugby union team,new-zealand-national-rugby-union-team,new-zealand-national-rugby-union-team,UNK
+New Zealand,29417435,1,12,4913064,http://en.wikipedia.org/wiki/Mount_New_Zealand,Mount New Zealand,mount-new-zealand,mount-new-zealand,UNK
+New Zealand,3889279,87,121,7188443;4913064,http://en.wikipedia.org/wiki/Electoral_system_of_New_Zealand,Electoral system of New Zealand,electoral-system-of-new-zealand,electoral-system-of-new-zealand,UNK
+New Zealand,7188443,494,443,3889279;4913064,"http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008","New Zealand general election, 2008",new-zealand-general-election-2008,new-zealand-general-election-2008,UNK
+New Zealand,21865279,41,58,,http://en.wikipedia.org/wiki/New_Zealand_Town,New Zealand Town,new-zealand-town,new-zealand-town,UNK
+New Zealand,21353,149,205,21353;21354;2316836;21670;4913064,http://en.wikipedia.org/wiki/Geography_of_New_Zealand,Geography of New Zealand,geography-of-new-zealand,geography-of-new-zealand,UNK
+New Zealand,426231,107,11,,http://en.wikipedia.org/wiki/University_of_New_Zealand,University of New Zealand,university-of-new-zealand,university-of-new-zealand,ORG
+New Zealand,455232,88,75,4913064,http://en.wikipedia.org/wiki/New_Zealand_Division,New Zealand Division,new-zealand-division,new-zealand-division,ORG
+New Zealand,646010,92,99,4913064,http://en.wikipedia.org/wiki/New_Zealand_Party,New Zealand Party,new-zealand-party,new-zealand-party,UNK
+New Zealand,3422357,83,89,154957;1023035;25405;4913064;3394012;478115,http://en.wikipedia.org/wiki/New_Zealand_national_Australian_rules_football_team,New Zealand national Australian rules football team,new-zealand-national-australian-rules-football-team,new-zealand-national-australian-rules-football-team,UNK
+New Zealand,18285383,3,28,,"http://en.wikipedia.org/wiki/New_Zealand,_Wiltshire","New Zealand, Wiltshire",new-zealand-wiltshire,new-zealand-wiltshire,GPE
+New Zealand,273592,191,224,,"http://en.wikipedia.org/wiki/New_Zealand,_Buckinghamshire","New Zealand, Buckinghamshire",new-zealand-buckinghamshire,new-zealand-buckinghamshire,UNK
+New Zealand,2316836,290,262,17416221;21353;21354;21670;4913064,http://en.wikipedia.org/wiki/New_Zealand_nationality_law,New Zealand nationality law,new-zealand-nationality-law,new-zealand-nationality-law,ORG
+New Zealand,21354,158,259,17416221;21353;21354;2316836;21670;4913064,http://en.wikipedia.org/wiki/Demographics_of_New_Zealand,Demographics of New Zealand,demographics-of-new-zealand,demographics-of-new-zealand,UNK
+New Zealand,4913064,57468,846,11510858;21670;21353;21354;25405;154957;315351;455232;3394012;3889279;1148043;4913064;3422357;2316836;1748767;478115;2313225;29417435;646010;17416221;771803;1018598;1023035;7188443;1112461;740724,http://en.wikipedia.org/wiki/New_Zealand,New Zealand,new-zealand,new-zealand,GPE
+New Zealand,1112461,412,343,2313225;4913064,http://en.wikipedia.org/wiki/New_Zealand_Rugby_League,New Zealand Rugby League,new-zealand-rugby-league,new-zealand-rugby-league,UNK
+New Zealand,315351,207,130,4913064,http://en.wikipedia.org/wiki/New_Zealand_Company,New Zealand Company,new-zealand-company,new-zealand-company,UNK
+New Zealand,11510858,0,8,4913064,http://en.wikipedia.org/wiki/New_Zealand_College,New Zealand College,new-zealand-college,new-zealand-college,UNK
+New Zealand,1023035,1494,454,3422357;478115;25405;4913064;1023035;154957;2313225;1018598;17416221,http://en.wikipedia.org/wiki/New_Zealand_national_football_team,New Zealand national football team,new-zealand-national-football-team,new-zealand-national-football-team,UNK
+New Zealand,28561395,29,35,,"http://en.wikipedia.org/wiki/New_Zealand,_Derby","New Zealand, Derby",new-zealand-derby,new-zealand-derby,GPE
+New Zealand,2313225,404,283,2313225;25405;4913064;1023035;1112461,http://en.wikipedia.org/wiki/New_Zealand_Football,New Zealand Football,new-zealand-football,new-zealand-football,ORG
+New Zealand,21670,516,409,21670;4913064;17416221;21353;21354;2316836,http://en.wikipedia.org/wiki/New_Zealand_English,New Zealand English,new-zealand-english,new-zealand-english,ORG
+New Zealand,1148043,368,147,4913064,http://en.wikipedia.org/wiki/New_Zealand_cuisine,New Zealand cuisine,new-zealand-cuisine,new-zealand-cuisine,UNK
+New Zealand,478115,1457,488,3422357;25405;4913064;1023035;759263;154957;17416221,http://en.wikipedia.org/wiki/New_Zealand_national_cricket_team,New Zealand national cricket team,new-zealand-national-cricket-team,new-zealand-national-cricket-team,UNK
+All Blacks,154957,2121,530,3422357;478115;25405;21904572;690902;905152;4913064;1023035;4692085;771803;376115;42052961;740724,http://en.wikipedia.org/wiki/New_Zealand_national_rugby_union_team,New Zealand national rugby union team,new-zealand-national-rugby-union-team,new-zealand-national-rugby-union-team,UNK
+All Blacks,7818636,47,14,,http://en.wikipedia.org/wiki/All_Blacks_F.C.,All Blacks F.C.,all-blacks-fc,all-blacks-fc,UNK
+Springboks,376115,2028,619,1748767;3394012;25405;21904572;25002;690902;28580;759263;154957;771803;1018598;17416221;23443855,http://en.wikipedia.org/wiki/South_Africa_national_rugby_union_team,South Africa national rugby union team,south-africa-national-rugby-union-team,south-africa-national-rugby-union-team,UNK
+Springboks,28580,385,347,376115;17416221,http://en.wikipedia.org/wiki/Springbok,Springbok,springbok,springbok,UNK
+Jeff Wilson,905152,104,85,154957;904926;740724;41620349;25405,http://en.wikipedia.org/wiki/Jeff_Wilson_(sportsman),Jeff Wilson,jeff-wilson,jeff-wilson-sportsman,PER
+Jeff Wilson,41620349,1,11,24815912;905152;35606268;904926,http://en.wikipedia.org/wiki/Jeff_Wilson_(professor),Jeff Wilson,jeff-wilson,jeff-wilson-professor,PER
+Jeff Wilson,35606268,95,102,904926;41620349,http://en.wikipedia.org/wiki/Jeff_Wilson_(politician),Jeff Wilson,jeff-wilson,jeff-wilson-politician,PER
+Jeff Wilson,904926,7,7,24815912;35606268;41620349;905152,http://en.wikipedia.org/wiki/Jeff_Wilson,Jeff Wilson,jeff-wilson,jeff-wilson,PER
+Jeff Wilson,24815912,4,6,41620349;904926,http://en.wikipedia.org/wiki/Jeff_Wilson_(racing_driver),Jeff Wilson,jeff-wilson,jeff-wilson-racing-driver,PER
+Ruben Kruger,21904572,69,75,1748767;154957;17416221;376115;690902;25405;25002,http://en.wikipedia.org/wiki/Ruben_Kruger,Ruben Kruger,ruben-kruger,ruben-kruger,PER
+Joost van der Westhuizen,1748767,123,98,17416221;23443855;25002;771803;21904572;376115;690902;25405;4913064,http://en.wikipedia.org/wiki/Joost_van_der_Westhuizen,Joost van der Westhuizen,joost-van-der-westhuizen,joost-van-der-westhuizen,PER
+Joel Stransky,690902,86,45,1748767;154957;21904572;376115;25405,http://en.wikipedia.org/wiki/Joel_Stransky,Joel Stransky,joel-stransky,joel-stransky,PER
+Jon Preston,42052961,38,36,154957;740724;771803;25405,http://en.wikipedia.org/wiki/Jon_Preston,Jon Preston,jon-preston,jon-preston,UNK
+Zinzan Brooke,740724,155,152,154957;42052961;905152;771803;25405;4913064,http://en.wikipedia.org/wiki/Zinzan_Brooke,Zinzan Brooke,zinzan-brooke,zinzan-brooke,PER

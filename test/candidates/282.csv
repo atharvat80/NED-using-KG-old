@@ -1,0 +1,21 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Nigeria,21383,24464,860,3542988;626168;2029583;37163917;39901366;1006061;1646254;21385;21383;85232,http://en.wikipedia.org/wiki/Nigeria,Nigeria,nigeria,nigeria,GPE
+Nigeria,21385,172,215,21385;21383;3542988,http://en.wikipedia.org/wiki/Geography_of_Nigeria,Geography of Nigeria,geography-of-nigeria,geography-of-nigeria,UNK
+Nigeria,13220894,65,71,,http://en.wikipedia.org/wiki/HMS_Nigeria_(60),HMS Nigeria,hms-nigeria,hms-nigeria-60,UNK
+Nigeria,1006061,1682,504,21383;85232,http://en.wikipedia.org/wiki/Nigeria_national_football_team,Nigeria national football team,nigeria-national-football-team,nigeria-national-football-team,ORG
+Nigeria,635562,56,36,,"http://en.wikipedia.org/wiki/University_of_Nigeria,_Nsukka","University of Nigeria, Nsukka",university-of-nigeria-nsukka,university-of-nigeria-nsukka,UNK
+Nigeria,39901366,2,7,21383,"http://en.wikipedia.org/wiki/Nigeria,_We_Hail_Thee","Nigeria, We Hail Thee",nigeria-we-hail-thee,nigeria-we-hail-thee,UNK
+Nigeria,3873905,23,12,,http://en.wikipedia.org/wiki/Nigeria_Regiment,Nigeria Regiment,nigeria-regiment,nigeria-regiment,ORG
+Nigeria,3542988,8,207,21385;21383;3542988;85232,http://en.wikipedia.org/wiki/Petroleum_industry_in_Nigeria,Petroleum industry in Nigeria,petroleum-industry-in-nigeria,petroleum-industry-in-nigeria,ORG
+LAGOS,85232,2521,323,3542988;1006061;21383;626168;438139;85232;2029583;1646254,http://en.wikipedia.org/wiki/Lagos,Lagos,lagos,lagos,GPE
+LAGOS,9082847,12,35,,http://en.wikipedia.org/wiki/General_Lagos,General Lagos,general-lagos,general-lagos,GPE
+LAGOS,2029583,191,177,21383;626168;85232,http://en.wikipedia.org/wiki/University_of_Lagos,University of Lagos,university-of-lagos,university-of-lagos,UNK
+LAGOS,33196989,3,6,33196989;438139,http://en.wikipedia.org/wiki/Lagos_Castle,Lagos Castle,lagos-castle,lagos-castle,UNK
+LAGOS,13405686,6,26,,"http://en.wikipedia.org/wiki/Lagos,_Evros","Lagos, Evros",lagos-evros,lagos-evros,UNK
+LAGOS,438139,652,160,33196989;85232;19512701,"http://en.wikipedia.org/wiki/Lagos,_Portugal","Lagos, Portugal",lagos-portugal,lagos-portugal,GPE
+LAGOS,438144,550,551,438144,"http://en.wikipedia.org/wiki/Lagos,_Pyrénées-Atlantiques","Lagos, Pyrénées-Atlantiques",lagos-pyrenees-atlantiques,lagos-pyrenees-atlantiques,ORG
+LAGOS,626168,725,155,1646254;21383;626168;85232;2029583,http://en.wikipedia.org/wiki/Lagos_State,Lagos State,lagos-state,lagos-state,UNK
+LAGOS,19512701,5,10,438139,http://en.wikipedia.org/wiki/Lagos_DOC,Lagos DOC,lagos-doc,lagos-doc,UNK
+LAGOS,12193696,8,22,,"http://en.wikipedia.org/wiki/Lagos,_Xanthi","Lagos, Xanthi",lagos-xanthi,lagos-xanthi,UNK
+LAGOS,1646254,83,37,21383;626168;85232,http://en.wikipedia.org/wiki/Lagos_Island,Lagos Island,lagos-island,lagos-island,UNK
+News Agency of Nigeria,37163917,6,6,21383,http://en.wikipedia.org/wiki/News_Agency_of_Nigeria,News Agency of Nigeria,news-agency-of-nigeria,news-agency-of-nigeria,ORG

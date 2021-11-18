@@ -1,0 +1,30 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Nepal,171166,16037,441,1091816;1214527;5758321;2919212;2150953;40626443;392573;171166;364670;11545946;403685;17168;160195;18598010;21324;4840876;40015111;1690950;16179885;9287922;63366,http://en.wikipedia.org/wiki/Nepal,Nepal,nepal,nepal,GPE
+Nepal,21324,441,363,171166;2919212;2150953;63366;160195;403685;17168,http://en.wikipedia.org/wiki/Geography_of_Nepal,Geography of Nepal,geography-of-nepal,geography-of-nepal,UNK
+Nepal,6152294,18,45,,http://en.wikipedia.org/wiki/Nepal_(band),Nepal,nepal,nepal-band,UNK
+Nepal,160195,414,78,171166;11545946;40626443;392573;63366;364670;403685;21324;17168,http://en.wikipedia.org/wiki/Kingdom_of_Nepal,Kingdom of Nepal,kingdom-of-nepal,kingdom-of-nepal,GPE
+Nepal,40015111,1,6,171166;40015111,http://en.wikipedia.org/wiki/Nepal_(magazine),Nepal,nepal,nepal-magazine,UNK
+Nepal,5758321,147,152,171166;17168,http://en.wikipedia.org/wiki/All_Nepal_Football_Association,All Nepal Football Association,all-nepal-football-association,all-nepal-football-association,ORG
+Nepal,1214527,75,82,364670;171166;17168,http://en.wikipedia.org/wiki/Nepal_Airlines,Nepal Airlines,nepal-airlines,nepal-airlines,ORG
+Nepal,11545946,285,44,160195;171166;403685;11545946;17168,http://en.wikipedia.org/wiki/Nepalese_royal_massacre,Nepalese royal massacre,nepalese-royal-massacre,nepalese-royal-massacre,UNK
+Nepal,40626443,106,134,160195;171166;403685;17168,http://en.wikipedia.org/wiki/Greater_Nepal,Greater Nepal,greater-nepal,greater-nepal,UNK
+Maoist,403685,244,312,171166;11545946;40626443;392573;63366;364670;160195;21324;4840876;17168,http://en.wikipedia.org/wiki/Unified_Communist_Party_of_Nepal_(Maoist),Unified Communist Party of Nepal,unified-communist-party-of-nepal,unified-communist-party-of-nepal-maoist,UNK
+Gopal Sharma,3964842,5,20,,http://en.wikipedia.org/wiki/Gopal_Sharma,Gopal Sharma,gopal-sharma,gopal-sharma,UNK
+KATHMANDU,17168,2179,530,171166;364670;160195;1690950;11545946;1214527;40626443;403685;21324;2919212;392573;63366;5758321;2150953,http://en.wikipedia.org/wiki/Kathmandu,Kathmandu,kathmandu,kathmandu,GPE
+KATHMANDU,5862310,45,56,,http://en.wikipedia.org/wiki/Kathmandu_(company),Kathmandu,kathmandu,kathmandu-company,ORG
+KATHMANDU,1690950,44,20,17168;171166,http://en.wikipedia.org/wiki/Kathmandu_University,Kathmandu University,kathmandu-university,kathmandu-university,UNK
+KATHMANDU,2150953,290,57,171166;2919212;21324;63366;17168,http://en.wikipedia.org/wiki/Kathmandu_Valley,Kathmandu Valley,kathmandu-valley,kathmandu-valley,UNK
+KATHMANDU,2919212,297,164,171166;2150953;21324;63366;17168,http://en.wikipedia.org/wiki/Kathmandu_District,Kathmandu District,kathmandu-district,kathmandu-district,UNK
+Maoists,403685,244,312,171166;11545946;40626443;392573;63366;364670;160195;21324;4840876;17168,http://en.wikipedia.org/wiki/Unified_Communist_Party_of_Nepal_(Maoist),Unified Communist Party of Nepal,unified-communist-party-of-nepal,unified-communist-party-of-nepal-maoist,UNK
+Nepali,171166,16037,441,1091816;1214527;5758321;2919212;2150953;40626443;392573;171166;364670;11545946;403685;17168;160195;18598010;21324;4840876;40015111;1690950;16179885;9287922;63366,http://en.wikipedia.org/wiki/Nepal,Nepal,nepal,nepal,GPE
+Nepali,27305000,114,115,63366,http://en.wikipedia.org/wiki/BBC_Nepali,BBC Nepali,bbc-nepali,bbc-nepali,GPE
+Nepali,9287922,60,23,63366;171166,http://en.wikipedia.org/wiki/Nepali_literature,Nepali literature,nepali-literature,nepali-literature,UNK
+Nepali,63366,1945,267,9287922;171166;364670;160195;27305000;403685;21324;4840876;17168;2919212;392573;2150953,http://en.wikipedia.org/wiki/Nepali_language,Nepali language,nepali-language,nepali-language,UNK
+Bhattarai,392573,233,68,364670;160195;171166;403685;4840876;63366;17168,http://en.wikipedia.org/wiki/Baburam_Bhattarai,Baburam Bhattarai,baburam-bhattarai,baburam-bhattarai,PER
+Bhattarai,4840876,3,32,364670;171166;392573;403685;63366,http://en.wikipedia.org/wiki/Bhattarai,Bhattarai,bhattarai,bhattarai,UNK
+Nepali Congress,364670,411,84,171166;1214527;392573;63366;364670;160195;1091816;403685;4840876;17168;18598010,http://en.wikipedia.org/wiki/Nepali_Congress,Nepali Congress,nepali-congress,nepali-congress,UNK
+Nepali Congress,16179885,5,11,171166,http://en.wikipedia.org/wiki/Nepali_Congress_(Rastrabadi),Nepali Congress,nepali-congress,nepali-congress-rastrabadi,UNK
+Nepali Congress,1091816,30,41,364670;1091816;171166,http://en.wikipedia.org/wiki/Nepali_Congress_(Democratic),Nepali Congress,nepali-congress,nepali-congress-democratic,UNK
+Nepali Congress,18598010,5,7,171166;364670,http://en.wikipedia.org/wiki/Nepali_Congress_(Subarna),Nepali Congress,nepali-congress,nepali-congress-subarna,UNK
+UML,1894394,25,22,,http://en.wikipedia.org/wiki/UML_tool,UML tool,uml-tool,uml-tool,UNK
+UML,31973,157,115,,http://en.wikipedia.org/wiki/Germanic_umlaut,Germanic umlaut,germanic-umlaut,germanic-umlaut,UNK

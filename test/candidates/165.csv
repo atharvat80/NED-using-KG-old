@@ -1,0 +1,240 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+EURO,9239,51349,1032,564173;11125639;2983;3343;8032;8035;9239;9317;9472;12521;21241;25702;25391;27765303;191684;1553658;1168603;57612;1338528;67302;67542;76972;20611504;25996692;8419772;8707335;232175;26964606,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+EURO,32715043,1,4,,http://en.wikipedia.org/wiki/Euro_College,Euro College,euro-college,euro-college,UNK
+EURO,54325,188,141,923545;9317;9472;54210,http://en.wikipedia.org/wiki/Finnish_euro_coins,Finnish euro coins,finnish-euro-coins,finnish-euro-coins,UNK
+EURO,9472,7193,685,11125639;2983;10454397;3343;67542;54325;8035;54210;25391;9239;9317;923545;26964606;8419772;169412;8788934,http://en.wikipedia.org/wiki/Euro,Euro,euro,euro,UNK
+EURO,12996025,1,14,,"http://en.wikipedia.org/wiki/Euro_Street,_Hubin_Road","Euro Street, Hubin Road",euro-street-hubin-road,euro-street-hubin-road,UNK
+EURO,564173,190,19,9239;9317,http://en.wikipedia.org/wiki/Euro_NCAP,Euro NCAP,euro-ncap,euro-ncap,UNK
+EURO,30935732,96,109,,"http://en.wikipedia.org/wiki/Euro,_Western_Australia","Euro, Western Australia",euro-western-australia,euro-western-australia,UNK
+EURO,39177963,64,63,,http://en.wikipedia.org/wiki/Euro_Tower,Euro Tower,euro-tower,euro-tower,UNK
+EURO,923545,189,136,76972;9317;54325;9472;54210,http://en.wikipedia.org/wiki/Sammarinese_euro_coins,Sammarinese euro coins,sammarinese-euro-coins,sammarinese-euro-coins,UNK
+EURO,662351,1339,421,743577;12521;26964606;555876;203277;3343;25391;25127146;11125639;662351;679716;580173;21241;695226,http://en.wikipedia.org/wiki/UEFA_Euro_2008,UEFA Euro 2008,uefa-euro-2008,uefa-euro-2008,UNK
+EURO,42477854,2,10,,http://en.wikipedia.org/wiki/Euro_(rapper),Euro,euro,euro-rapper,UNK
+EURO,54210,190,145,923545;9317;54325;9472,http://en.wikipedia.org/wiki/Greek_euro_coins,Greek euro coins,greek-euro-coins,greek-euro-coins,UNK
+EURO,8788934,3,18,9317;9472,http://en.wikipedia.org/wiki/Captain_Euro,Captain Euro,captain-euro,captain-euro,UNK
+EURO,555876,1012,462,743577;26964606;76972;555876;203277;3343;25391;25127146;11125639;662351;679716;580173;695226,http://en.wikipedia.org/wiki/UEFA_Euro_1996,UEFA Euro 1996,uefa-euro-1996,uefa-euro-1996,UNK
+GENEVA,12521,7127,465,26035602;6281217;342348;77841;9239;22546545;662351;13082;3402034;12521;292834;168985;10031718;292616;743577;230151;4318649;23443846,http://en.wikipedia.org/wiki/Geneva,Geneva,geneva,geneva,UNK
+GENEVA,141120,0,2,119204,"http://en.wikipedia.org/wiki/Geneva_Township,_Michigan","Geneva Township, Michigan",geneva-township-michigan,geneva-township-michigan,UNK
+GENEVA,109775,41,46,,"http://en.wikipedia.org/wiki/Geneva,_Florida","Geneva, Florida",geneva-florida,geneva-florida,GPE
+GENEVA,292616,266,244,292834;9317;12521,http://en.wikipedia.org/wiki/Geneva_International_Airport,Geneva International Airport,geneva-international-airport,geneva-international-airport,UNK
+GENEVA,104715,68,114,77841,"http://en.wikipedia.org/wiki/Geneva,_Alabama","Geneva, Alabama",geneva-alabama,geneva-alabama,GPE
+GENEVA,15066829,0,9,119204;120057;42010323,http://en.wikipedia.org/wiki/Geneva_Township,Geneva Township,geneva-township,geneva-township,GPE
+GENEVA,128901,110,139,230151;9353317,"http://en.wikipedia.org/wiki/Geneva,_Ohio","Geneva, Ohio",geneva-ohio,geneva-ohio,GPE
+GENEVA,26035602,0,1,12521,"http://en.wikipedia.org/wiki/Geneva,_CH-GE","Geneva, CH-GE",geneva-ch-ge,geneva-ch-ge,UNK
+GENEVA,10031718,4,26,12521,http://en.wikipedia.org/wiki/Geneva_Association,Geneva Association,geneva-association,geneva-association,UNK
+GENEVA,132192,78,86,,"http://en.wikipedia.org/wiki/Geneva,_Pennsylvania","Geneva, Pennsylvania",geneva-pennsylvania,geneva-pennsylvania,GPE
+GENEVA,13082,473,293,12521,http://en.wikipedia.org/wiki/Geneva_College,Geneva College,geneva-college,geneva-college,UNK
+GENEVA,230151,430,148,139904;77841;1225400;120056;9010122;128901;12521;259942,"http://en.wikipedia.org/wiki/Geneva,_New_York","Geneva, New York",geneva-new-york,geneva-new-york,GPE
+GENEVA,14358041,34,49,,"http://en.wikipedia.org/wiki/Geneva,_Shelby_County,_Indiana","Geneva, Shelby County, Indiana",geneva-shelby-county-indiana,geneva-shelby-county-indiana,GPE
+GENEVA,6281217,24,54,12521;168985,http://en.wikipedia.org/wiki/County_of_Geneva,County of Geneva,county-of-geneva,county-of-geneva,GPE
+GENEVA,9010122,239,224,230151;139904;1225400,"http://en.wikipedia.org/wiki/Geneva,_Illinois","Geneva, Illinois",geneva-illinois,geneva-illinois,UNK
+GENEVA,110350,25,25,,"http://en.wikipedia.org/wiki/Geneva,_Georgia","Geneva, Georgia",geneva-georgia,geneva-georgia,GPE
+GENEVA,259942,44,73,230151,"http://en.wikipedia.org/wiki/Geneva_(town),_New_York","Geneva (town), New York",geneva-town-new-york,geneva-town-new-york,GPE
+GENEVA,2998743,12,19,,http://en.wikipedia.org/wiki/Geneva_School,Geneva School,geneva-school,geneva-school,UNK
+GENEVA,139901,85,97,139904,"http://en.wikipedia.org/wiki/Geneva,_Wisconsin","Geneva, Wisconsin",geneva-wisconsin,geneva-wisconsin,GPE
+GENEVA,4318649,315,141,76972;12521,http://en.wikipedia.org/wiki/United_Nations_Office_at_Geneva,United Nations Office at Geneva,united-nations-office-at-geneva,united-nations-office-at-geneva,UNK
+GENEVA,168985,521,145,292834;168985;342348;12521;6281217,http://en.wikipedia.org/wiki/Lake_Geneva,Lake Geneva,lake-geneva,lake-geneva,UNK
+GENEVA,23515219,1,6,,http://en.wikipedia.org/wiki/Geneva_River,Geneva River,geneva-river,geneva-river,UNK
+GENEVA,292834,377,86,168985;292616;342348;12521,http://en.wikipedia.org/wiki/Canton_of_Geneva,Canton of Geneva,canton-of-geneva,canton-of-geneva,GPE
+GENEVA,34762346,33,9,,"http://en.wikipedia.org/wiki/Geneva,_MN_2001","Geneva, MN 2001",geneva-mn-2001,geneva-mn-2001,UNK
+GENEVA,38283592,1,21,,http://en.wikipedia.org/wiki/Great_Geneva,Great Geneva,great-geneva,great-geneva,UNK
+GENEVA,138311,30,44,,"http://en.wikipedia.org/wiki/Geneva,_Washington","Geneva, Washington",geneva-washington,geneva-washington,GPE
+GENEVA,1225400,26,25,9010122;230151;139904,http://en.wikipedia.org/wiki/Geneva_Lake,Geneva Lake,geneva-lake,geneva-lake,UNK
+GENEVA,119204,41,56,15066829;141120,"http://en.wikipedia.org/wiki/Geneva_Township,_Van_Buren_County,_Michigan","Geneva Township, Van Buren County, Michigan",geneva-township-van-buren-county-michigan,geneva-township-van-buren-county-michigan,GPE
+GENEVA,77841,289,184,230151;77841;12521;104715,"http://en.wikipedia.org/wiki/Geneva_County,_Alabama","Geneva County, Alabama",geneva-county-alabama,geneva-county-alabama,GPE
+GENEVA,42010323,32,47,113792;15066829,"http://en.wikipedia.org/wiki/Geneva_Township,_Franklin_County,_Iowa","Geneva Township, Franklin County, Iowa",geneva-township-franklin-county-iowa,geneva-township-franklin-county-iowa,GPE
+GENEVA,123891,42,68,,"http://en.wikipedia.org/wiki/Geneva,_Nebraska","Geneva, Nebraska",geneva-nebraska,geneva-nebraska,GPE
+GENEVA,23443846,699,209,76972;3343;23443846;12521,http://en.wikipedia.org/wiki/Geneva_Conventions,Geneva Conventions,geneva-conventions,geneva-conventions,ORG
+GENEVA,35545220,26,39,,"http://en.wikipedia.org/wiki/Lake_Geneva,_Florida","Lake Geneva, Florida",lake-geneva-florida,lake-geneva-florida,GPE
+GENEVA,113792,32,62,42010323,"http://en.wikipedia.org/wiki/Geneva,_Iowa","Geneva, Iowa",geneva-iowa,geneva-iowa,GPE
+GENEVA,2279756,20,32,,http://en.wikipedia.org/wiki/Geneva_(band),Geneva,geneva,geneva-band,PER
+GENEVA,120057,40,61,120056;15066829,"http://en.wikipedia.org/wiki/Geneva_Township,_Freeborn_County,_Minnesota","Geneva Township, Freeborn County, Minnesota",geneva-township-freeborn-county-minnesota,geneva-township-freeborn-county-minnesota,GPE
+GENEVA,25462976,2,81,,"http://en.wikipedia.org/wiki/Geneva_(Alexandria,_Louisiana)",Geneva,geneva,geneva-alexandria-louisiana,UNK
+GENEVA,120056,50,62,120057;230151,"http://en.wikipedia.org/wiki/Geneva,_Minnesota","Geneva, Minnesota",geneva-minnesota,geneva-minnesota,GPE
+GENEVA,342348,739,281,292834;168985;12521;3343;25391,http://en.wikipedia.org/wiki/University_of_Geneva,University of Geneva,university-of-geneva,university-of-geneva,ORG
+GENEVA,139904,530,140,230151;139901;1225400;9010122;6335055,"http://en.wikipedia.org/wiki/Lake_Geneva,_Wisconsin","Lake Geneva, Wisconsin",lake-geneva-wisconsin,lake-geneva-wisconsin,GPE
+GENEVA,3774164,37,63,,http://en.wikipedia.org/wiki/USS_Geneva_(APA-86),USS Geneva,uss-geneva,uss-geneva-apa-86,UNK
+GENEVA,14183391,32,51,,"http://en.wikipedia.org/wiki/Geneva,_Kansas","Geneva, Kansas",geneva-kansas,geneva-kansas,GPE
+GENEVA,112109,98,110,,"http://en.wikipedia.org/wiki/Geneva,_Indiana","Geneva, Indiana",geneva-indiana,geneva-indiana,GPE
+GENEVA,18968958,21,37,,"http://en.wikipedia.org/wiki/Geneva,_Idaho","Geneva, Idaho",geneva-idaho,geneva-idaho,UNK
+European,9239,51349,1032,564173;11125639;2983;3343;8032;8035;9239;9317;9472;12521;21241;25702;25391;27765303;191684;1553658;1168603;57612;1338528;67302;67542;76972;20611504;25996692;8419772;8707335;232175;26964606,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+European,1553658,68,12,9239,http://en.wikipedia.org/wiki/European_Netherlands,European Netherlands,european-netherlands,european-netherlands,UNK
+European,3402034,1943,727,3402034;12521;25391;21241;26964606;76972;3343,http://en.wikipedia.org/wiki/European_Figure_Skating_Championships,European Figure Skating Championships,european-figure-skating-championships,european-figure-skating-championships,UNK
+European,1739264,4,7,674507,"http://en.wikipedia.org/wiki/European_School,_Bergen","European School, Bergen",european-school-bergen,european-school-bergen,ORG
+European,7432187,9,22,7432187;9317,http://en.wikipedia.org/wiki/European_Union_Public_Licence,European Union Public Licence,european-union-public-licence,european-union-public-licence,UNK
+European,23454667,3,4,674507,"http://en.wikipedia.org/wiki/European_School,_Luxembourg_II","European School, Luxembourg II",european-school-luxembourg-ii,european-school-luxembourg-ii,UNK
+European,8599208,322,346,9317;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Ireland)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-ireland,UNK
+European,1338528,556,124,4091317;25391;20611504;9239;25702,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+European,2333629,3,14,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Varese","European School, Varese",european-school-varese,european-school-varese,ORG
+European,674507,33,58,1739264;1991050;2333629;23454667;36091903;1014388;25996692;191684,http://en.wikipedia.org/wiki/European_School,European School,european-school,european-school,UNK
+European,31465880,8,18,,http://en.wikipedia.org/wiki/The_European_(2009_magazine),The European,the-european,the-european-2009-magazine,UNK
+European,11696187,17,37,,http://en.wikipedia.org/wiki/European_Song,European Song,european-song,european-song,UNK
+European,9317,19822,836,564173;1030;11125639;8599208;3343;8707335;1014388;7432187;67542;8035;9239;9317;9472;36091903;292616;76972;191684;10454397;21241;54325;54210;616004;15125201;25391;2333629;25996692;923545;1168603;26964606;8788934,http://en.wikipedia.org/wiki/European_Union,European Union,european-union,european-union,UNK
+European,15125201,307,276,9317;8599208;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Portugal)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-portugal,UNK
+European,20919804,2,28,20919804,http://en.wikipedia.org/wiki/The_European_(1953_magazine),The European,the-european,the-european-1953-magazine,ORG
+European,1014388,7,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Munich","European School, Munich",european-school-munich,european-school-munich,ORG
+European,616004,129,58,9317;616004,http://en.wikipedia.org/wiki/European_Foundation_(think_tank),European Foundation,european-foundation,european-foundation-think-tank,ORG
+European,1168603,28,107,9239;76972;9317,http://en.wikipedia.org/wiki/European_Round_Table_of_Industrialists,European Round Table of Industrialists,european-round-table-of-industrialists,european-round-table-of-industrialists,UNK
+European,17428699,4,24,,http://en.wikipedia.org/wiki/European_Institute,European Institute,european-institute,european-institute,ORG
+European,191684,95,91,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Culham","European School, Culham",european-school-culham,european-school-culham,ORG
+European,41345734,1,9,41345734,http://en.wikipedia.org/wiki/European_Group,European Group,european-group,european-group,UNK
+European,4042903,39,29,,http://en.wikipedia.org/wiki/European_Party_(Cyprus),European Party,european-party,european-party-cyprus,UNK
+European,22546545,14,61,12521,http://en.wikipedia.org/wiki/European_University,European University,european-university,european-university,ORG
+European,1991050,8,12,3343;674507,"http://en.wikipedia.org/wiki/European_School,_Mol","European School, Mol",european-school-mol,european-school-mol,UNK
+European,25996692,3,35,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Karlsruhe","European School, Karlsruhe",european-school-karlsruhe,european-school-karlsruhe,UNK
+European,36091903,3,9,3343;9317;674507,"http://en.wikipedia.org/wiki/European_School,_Brussels_III","European School, Brussels III",european-school-brussels-iii,european-school-brussels-iii,ORG
+European,8707335,5,14,9317;9239,http://en.wikipedia.org/wiki/European_Journal,European Journal,european-journal,european-journal,UNK
+European,1338717,69,62,,http://en.wikipedia.org/wiki/The_European_(newspaper),The European,the-european,the-european-newspaper,UNK
+UEFA Cup,232175,6454,443,25391;11125639;9239;3343;1167720;232175;1216600,http://en.wikipedia.org/wiki/UEFA_Europa_League,UEFA Europa League,uefa-europa-league,uefa-europa-league,UNK
+Lyngby,1117976,274,93,76972;1117691;580173,http://en.wikipedia.org/wiki/Lyngby_Boldklub,Lyngby Boldklub,lyngby-boldklub,lyngby-boldklub,ORG
+Lyngby,1117691,189,119,76972;5504956;1117976,http://en.wikipedia.org/wiki/Kongens_Lyngby,Kongens Lyngby,kongens-lyngby,kongens-lyngby,GPE
+Lyngby,2458166,5,5,,http://en.wikipedia.org/wiki/Lyngby_culture,Lyngby culture,lyngby-culture,lyngby-culture,UNK
+Lyngby,5504956,23,19,76972;1117691,http://en.wikipedia.org/wiki/Lyngby_station,Lyngby station,lyngby-station,lyngby-station,UNK
+Denmark,76972,46317,1391,11125639;3343;67302;8032;8035;9239;9317;203277;138731;76972;1117976;1117691;23443846;580173;10454397;20611504;21241;1829198;1829176;5504956;25391;13824333;4318649;3335617;3402034;1715996;3378533;116074;25786608;923545;1168603;26964606;555876;57612;126574,http://en.wikipedia.org/wiki/Denmark,Denmark,denmark,denmark,GPE
+Denmark,19726300,114,126,,http://en.wikipedia.org/wiki/Denmark_Bay,Denmark Bay,denmark-bay,denmark-bay,UNK
+Denmark,126574,44,62,76972,"http://en.wikipedia.org/wiki/Denmark,_New_York","Denmark, New York",denmark-new-york,denmark-new-york,GPE
+Denmark,119166,42,65,14943872,"http://en.wikipedia.org/wiki/Denmark_Township,_Michigan","Denmark Township, Michigan",denmark-township-michigan,denmark-township-michigan,GPE
+Denmark,16187478,2,11,,http://en.wikipedia.org/wiki/Lake_Denmark,Lake Denmark,lake-denmark,lake-denmark,UNK
+Denmark,116074,68,104,76972;259272;259271,"http://en.wikipedia.org/wiki/Denmark,_Maine","Denmark, Maine",denmark-maine,denmark-maine,GPE
+Denmark,1715996,2,10,76972,"http://en.wikipedia.org/wiki/Ø,_Denmark","Ø, Denmark",ø-denmark,ø-denmark,UNK
+Denmark,1829198,95,78,76972;2730305;1829176,http://en.wikipedia.org/wiki/Communist_Party_in_Denmark,Communist Party in Denmark,communist-party-in-denmark,communist-party-in-denmark,UNK
+Denmark,3335617,33,37,76972,http://en.wikipedia.org/wiki/Denmark_national_Australian_rules_football_team,Denmark national Australian rules football team,denmark-national-australian-rules-football-team,denmark-national-australian-rules-football-team,UNK
+Denmark,14943872,0,2,119166;9353317,http://en.wikipedia.org/wiki/Denmark_Township,Denmark Township,denmark-township,denmark-township,UNK
+Denmark,36727123,11,31,,"http://en.wikipedia.org/wiki/Denmark,_Mississippi","Denmark, Mississippi",denmark-mississippi,denmark-mississippi,GPE
+Denmark,10454397,90,139,9472;76972;9317;21241,http://en.wikipedia.org/wiki/Wind_power_in_Denmark,Wind power in Denmark,wind-power-in-denmark,wind-power-in-denmark,GPE
+Denmark,17790819,14,21,,"http://en.wikipedia.org/wiki/Denmark,_Kansas","Denmark, Kansas",denmark-kansas,denmark-kansas,GPE
+Denmark,8035,350,611,76972;3378533;3343;25391;9239;9317;8032;8035;9472;21241;26964606,http://en.wikipedia.org/wiki/Economy_of_Denmark,Economy of Denmark,economy-of-denmark,economy-of-denmark,UNK
+Denmark,2519266,124,92,13596610,"http://en.wikipedia.org/wiki/Denmark,_Western_Australia","Denmark, Western Australia",denmark-western-australia,denmark-western-australia,GPE
+Denmark,18057900,45,40,41744839,"http://en.wikipedia.org/wiki/Denmark,_Iowa","Denmark, Iowa",denmark-iowa,denmark-iowa,GPE
+Denmark,20077536,20,42,,"http://en.wikipedia.org/wiki/Denmark,_Tennessee","Denmark, Tennessee",denmark-tennessee,denmark-tennessee,GPE
+Denmark,1829176,164,79,76972;1829198,http://en.wikipedia.org/wiki/Communist_Party_of_Denmark,Communist Party of Denmark,communist-party-of-denmark,communist-party-of-denmark,UNK
+Denmark,134390,65,46,134621,"http://en.wikipedia.org/wiki/Denmark,_South_Carolina","Denmark, South Carolina",denmark-south-carolina,denmark-south-carolina,GPE
+Denmark,3378533,245,171,76972;8419772;8032;8035;662640;3378533,http://en.wikipedia.org/wiki/Religion_in_Denmark,Religion in Denmark,religion-in-denmark,religion-in-denmark,UNK
+Denmark,5837175,233,43,,http://en.wikipedia.org/wiki/Denmark_Street,Denmark Street,denmark-street,denmark-street,UNK
+Denmark,8032,156,196,9239;76972;30199;67302;8032;8035;57612;25702;3378533;67542,http://en.wikipedia.org/wiki/Geography_of_Denmark,Geography of Denmark,geography-of-denmark,geography-of-denmark,UNK
+Denmark,9353317,53,69,128901;14943872,"http://en.wikipedia.org/wiki/Denmark_Township,_Ashtabula_County,_Ohio","Denmark Township, Ashtabula County, Ohio",denmark-township-ashtabula-county-ohio,denmark-township-ashtabula-county-ohio,GPE
+Denmark,26018147,18,32,,"http://en.wikipedia.org/wiki/Denmark,_Illinois","Denmark, Illinois",denmark-illinois,denmark-illinois,GPE
+Denmark,21895202,5,6,,"http://en.wikipedia.org/wiki/Denmark,_Nova_Scotia","Denmark, Nova Scotia",denmark-nova-scotia,denmark-nova-scotia,GPE
+Denmark,580173,2523,515,25127146;580173;21241;695226;743577;26964606;76972;555876;1117976;203277;3343;662351;679716,http://en.wikipedia.org/wiki/Denmark_national_football_team,Denmark national football team,denmark-national-football-team,denmark-national-football-team,ORG
+Denmark,138731,95,97,76972,"http://en.wikipedia.org/wiki/Denmark,_Wisconsin","Denmark, Wisconsin",denmark-wisconsin,denmark-wisconsin,GPE
+Denmark,41744839,3,23,18057900,"http://en.wikipedia.org/wiki/Denmark_Township,_Lee_County,_Iowa","Denmark Township, Lee County, Iowa",denmark-township-lee-county-iowa,denmark-township-lee-county-iowa,GPE
+Denmark,122043,43,60,,"http://en.wikipedia.org/wiki/Denmark_Township,_Washington_County,_Minnesota","Denmark Township, Washington County, Minnesota",denmark-township-washington-county-minnesota,denmark-township-washington-county-minnesota,GPE
+Denmark,13596610,168,182,2519266,http://en.wikipedia.org/wiki/Denmark_River,Denmark River,denmark-river,denmark-river,UNK
+Denmark,22715298,25,35,,"http://en.wikipedia.org/wiki/Denmark_Township,_Emmet_County,_Iowa","Denmark Township, Emmet County, Iowa",denmark-township-emmet-county-iowa,denmark-township-emmet-county-iowa,GPE
+Denmark,25786608,22,56,76972,"http://en.wikipedia.org/wiki/Denmark,_Oregon","Denmark, Oregon",denmark-oregon,denmark-oregon,GPE
+Denmark,1609584,115,62,,http://en.wikipedia.org/wiki/Denmark_Hill,Denmark Hill,denmark-hill,denmark-hill,GPE
+Denmark,24849754,12,55,,"http://en.wikipedia.org/wiki/Denmark_Parish,_New_Brunswick","Denmark Parish, New Brunswick",denmark-parish-new-brunswick,denmark-parish-new-brunswick,GPE
+Belgium,3343,55772,902,11125639;3343;8035;9239;9317;9472;695226;580173;22885373;21241;25391;152348;25127146;13824333;662640;662351;36091903;3402034;555876;679716;1167720;1744402;67302;33005082;203277;76972;23443846;20611504;342348;1216600;232175;1991050;26964606;743577,http://en.wikipedia.org/wiki/Belgium,Belgium,belgium,belgium,GPE
+Belgium,260594,47,66,260593,"http://en.wikipedia.org/wiki/Belgium,_Wisconsin","Belgium, Wisconsin",belgium-wisconsin,belgium-wisconsin,GPE
+Belgium,2916721,43,53,,"http://en.wikipedia.org/wiki/Belgium,_West_Virginia","Belgium, West Virginia",belgium-west-virginia,belgium-west-virginia,GPE
+Belgium,22885373,1,102,3343,http://en.wikipedia.org/wiki/Belgium_Rugby_League,Belgium Rugby League,belgium-rugby-league,belgium-rugby-league,UNK
+Belgium,260593,34,43,260594,"http://en.wikipedia.org/wiki/Belgium_(town),_Wisconsin","Belgium (town), Wisconsin",belgium-town-wisconsin,belgium-town-wisconsin,GPE
+Belgium,111979,61,325,,"http://en.wikipedia.org/wiki/Belgium,_Illinois","Belgium, Illinois",belgium-illinois,belgium-illinois,GPE
+Belgium,662640,224,217,8419772;67302;662640;3378533;26964606;3343,http://en.wikipedia.org/wiki/Religion_in_Belgium,Religion in Belgium,religion-in-belgium,religion-in-belgium,UNK
+Belgium,121335,78,100,121404,"http://en.wikipedia.org/wiki/Belgium_Township,_Polk_County,_Minnesota","Belgium Township, Polk County, Minnesota",belgium-township-polk-county-minnesota,belgium-township-polk-county-minnesota,GPE
+Belgium,33005082,1,36,3343;33005082,http://en.wikipedia.org/wiki/Belgium_(1914–18),Belgium,belgium,belgium-1914–18,GPE
+Belgium,67302,137,293,11125639;9239;76972;30199;67302;8032;57612;25702;662640;21241;67542;26964606;3343;25391,http://en.wikipedia.org/wiki/Geography_of_Belgium,Geography of Belgium,geography-of-belgium,geography-of-belgium,UNK
+Belgium,679716,2505,927,25391;25127146;580173;695226;743577;26964606;555876;203277;3343;662351;679716,http://en.wikipedia.org/wiki/Belgium_national_football_team,Belgium national football team,belgium-national-football-team,belgium-national-football-team,UNK
+Austria,26964606,55411,711,1030;11125639;2983;3343;8035;9239;9317;9472;695226;580173;21241;25391;25127146;27765303;662640;662351;3402034;169412;192068;555876;679716;67302;67542;203277;76972;8419772;1216600;26964606;6490870;743577;6490884,http://en.wikipedia.org/wiki/Austria,Austria,austria,austria,GPE
+Austria,25224993,6,31,,http://en.wikipedia.org/wiki/Austria_(Lombard),Austria,austria,austria-lombard,UNK
+Austria,6490870,478,182,67542;8419772;2983;26964606;6490884,http://en.wikipedia.org/wiki/Archduchy_of_Austria,Archduchy of Austria,archduchy-of-austria,archduchy-of-austria,GPE
+Austria,169412,20,48,9472;26964606,"http://en.wikipedia.org/wiki/Fucking,_Austria","Fucking, Austria",fucking-austria,fucking-austria,UNK
+Austria,8419772,231,177,11125639;6490870;9239;8419772;2983;9472;662640;3378533;67542;26964606;6490884,http://en.wikipedia.org/wiki/Religion_in_Austria,Religion in Austria,religion-in-austria,religion-in-austria,ORG
+Austria,27765303,256,226,9239;695226;26964606,http://en.wikipedia.org/wiki/Austria_national_under-19_football_team,Austria national under-19 football team,austria-national-under-19-football-team,austria-national-under-19-football-team,UNK
+Austria,2983,7373,824,2983;20611504;67542;25391;9239;9472;695226;26964606;8419772;6490870;6490884,http://en.wikipedia.org/wiki/Austria-Hungary,Austria-Hungary,austria-hungary,austria-hungary,GPE
+Austria,695226,1890,498,27765303;25391;25127146;11125639;580173;2983;743577;26964606;555876;1216600;203277;3343;662351;679716,http://en.wikipedia.org/wiki/Austria_national_football_team,Austria national football team,austria-national-football-team,austria-national-football-team,UNK
+Austria,2416949,10,29,,http://en.wikipedia.org/wiki/SS_Austria,SS Austria,ss-austria,ss-austria,UNK
+Austria,67542,223,341,67302;67542;11125639;6490870;9239;30199;8419772;9317;8032;57612;25702;2983;9472;26964606;6490884,http://en.wikipedia.org/wiki/Geography_of_Austria,Geography of Austria,geography-of-austria,geography-of-austria,UNK
+Austria,6490884,203,126,6490870;8419772;2983;67542;26964606,http://en.wikipedia.org/wiki/Duchy_of_Austria,Duchy of Austria,duchy-of-austria,duchy-of-austria,GPE
+Austria,1030,723,262,26964606;1030;9317,http://en.wikipedia.org/wiki/Austrian_School,Austrian School,austrian-school,austrian-school,UNK
+Ekeren,1744402,53,38,3343,http://en.wikipedia.org/wiki/Ekeren,Ekeren,ekeren,ekeren,UNK
+Besiktas,1216600,1500,517,914895;743577;26964606;1216600;232175;3343;11125639;695226,http://en.wikipedia.org/wiki/Beşiktaş_J.K.,Beşiktaş J.K.,besiktas-jk,besiktas-jk,ORG
+Besiktas,36414638,3,12,11125639;36414638,"http://en.wikipedia.org/wiki/Beşiktaş,_Ardahan","Beşiktaş, Ardahan",besiktas-ardahan,besiktas-ardahan,UNK
+Besiktas,914895,245,174,11125639;1216600,http://en.wikipedia.org/wiki/Beşiktaş,Beşiktaş,besiktas,besiktas,UNK
+Turkey,9112329,237,88,9112329,http://en.wikipedia.org/wiki/Dustin_the_Turkey,Dustin the Turkey,dustin-the-turkey,dustin-the-turkey,UNK
+Turkey,27291963,49,48,11125639,http://en.wikipedia.org/wiki/Turkey_Party,Turkey Party,turkey-party,turkey-party,UNK
+Turkey,296928,427,140,11125639;24513964;72821,http://en.wikipedia.org/wiki/Domesticated_turkey,Domesticated turkey,domesticated-turkey,domesticated-turkey,UNK
+Turkey,34786292,28,36,,"http://en.wikipedia.org/wiki/Turkey,_Kentucky","Turkey, Kentucky",turkey-kentucky,turkey-kentucky,GPE
+Turkey,16094744,4,4,16747837,http://en.wikipedia.org/wiki/Turkey_Mountain_(New_York),Turkey Mountain,turkey-mountain,turkey-mountain-new-york,UNK
+Turkey,4772844,179,211,4772844,http://en.wikipedia.org/wiki/Turkey_Hill_(company),Turkey Hill,turkey-hill,turkey-hill-company,UNK
+Turkey,11495681,4,4,11497678;11496730,http://en.wikipedia.org/wiki/USS_Turkey,USS Turkey,uss-turkey,uss-turkey,UNK
+Turkey,15444730,37,33,,http://en.wikipedia.org/wiki/The_Turkey,The Turkey,the-turkey,the-turkey,UNK
+Turkey,10267070,0,2,10267784;5448213,http://en.wikipedia.org/wiki/Turkey_River,Turkey River,turkey-river,turkey-river,UNK
+Turkey,20414892,2,41,,"http://en.wikipedia.org/wiki/Turkey_Hill_(Linthicum_Heights,_Maryland)",Turkey Hill,turkey-hill,turkey-hill-linthicum-heights-maryland,UNK
+Turkey,11125639,51709,902,11125639;3343;9239;9317;9472;695226;21241;25391;30199;13824333;662351;296928;555876;1167720;72821;67302;67542;27291963;914895;76972;20611504;2730305;36414638;8419772;1216600;232175;128233;26964606;743577,http://en.wikipedia.org/wiki/Turkey,Turkey,turkey,turkey,GPE
+Turkey,72821,410,138,128233;11125639;296928;24513964;11497678,http://en.wikipedia.org/wiki/Turkey_(bird),Turkey,turkey,turkey-bird,UNK
+Turkey,11496730,59,107,11495681;21241,http://en.wikipedia.org/wiki/USS_Turkey_(AM-13),USS Turkey,uss-turkey,uss-turkey-am-13,UNK
+Turkey,743577,1890,521,12521;25127146;11125639;580173;695226;743577;26964606;555876;1216600;203277;3343;662351;679716,http://en.wikipedia.org/wiki/Turkey_national_football_team,Turkey national football team,turkey-national-football-team,turkey-national-football-team,ORG
+Turkey,5448213,7,14,10267070,http://en.wikipedia.org/wiki/Turkey_River_(New_Hampshire),Turkey River,turkey-river,turkey-river-new-hampshire,UNK
+Turkey,30199,342,394,67302;67542;11125639;30199;8032;57612;25702,http://en.wikipedia.org/wiki/Geography_of_Turkey,Geography of Turkey,geography-of-turkey,geography-of-turkey,UNK
+Turkey,11497678,74,126,11495681;72821,http://en.wikipedia.org/wiki/USS_Turkey_(AMS-56),USS Turkey,uss-turkey,uss-turkey-ams-56,UNK
+Turkey,24513964,72,183,296928;72821,http://en.wikipedia.org/wiki/Turkey_meat,Turkey meat,turkey-meat,turkey-meat,UNK
+Turkey,3790633,15,10,,http://en.wikipedia.org/wiki/Little_Turkey,Little Turkey,little-turkey,little-turkey,PER
+Turkey,128233,24,48,11125639;72821,"http://en.wikipedia.org/wiki/Turkey,_North_Carolina","Turkey, North Carolina",turkey-north-carolina,turkey-north-carolina,GPE
+Turkey,27648807,0,19,,"http://en.wikipedia.org/wiki/Turkey_Beach,_Queensland","Turkey Beach, Queensland",turkey-beach-queensland,turkey-beach-queensland,UNK
+Turkey,135979,26,27,,"http://en.wikipedia.org/wiki/Turkey,_Texas","Turkey, Texas",turkey-texas,turkey-texas,GPE
+Turkey,37318848,38,53,,"http://en.wikipedia.org/wiki/Turkey,_Limpopo","Turkey, Limpopo",turkey-limpopo,turkey-limpopo,UNK
+Turkey,13824333,0,37,3343;11125639;25391;76972,http://en.wikipedia.org/wiki/Turkey_International,Turkey International,turkey-international,turkey-international,UNK
+Turkey,2730305,91,11,11125639;1829198,http://en.wikipedia.org/wiki/Communist_Labour_Party_of_Turkey/Leninist,Communist Labour Party of Turkey/Leninist,communist-labour-party-of-turkey-leninist,communist-labour-party-of-turkey-leninist,UNK
+Turkey,16747837,0,2,16094744,http://en.wikipedia.org/wiki/Turkey_Mountain,Turkey Mountain,turkey-mountain,turkey-mountain,UNK
+Turkey,10267784,20,24,10267070,http://en.wikipedia.org/wiki/Turkey_River_(Iowa),Turkey River,turkey-river,turkey-river-iowa,UNK
+Turkey,11554626,118,100,,http://en.wikipedia.org/wiki/Turkey_Point_Light,Turkey Point Light,turkey-point-light,turkey-point-light,UNK
+Molenbeek,1452159,64,11,,http://en.wikipedia.org/wiki/R._White_Daring_Molenbeek,R. White Daring Molenbeek,r-white-daring-molenbeek,r-white-daring-molenbeek,UNK
+Molenbeek,152348,106,81,3343,http://en.wikipedia.org/wiki/Sint-Jans-Molenbeek,Sint-Jans-Molenbeek,sint-jans-molenbeek,sint-jans-molenbeek,UNK
+Molenbeek,35337497,20,23,,http://en.wikipedia.org/wiki/Molenbeek_(Erpe-Mere_Bovenschelde),Molenbeek,molenbeek,molenbeek-erpe-mere-bovenschelde,UNK
+Alania Vladikavkaz,1167720,589,120,232175;3343;25391;11125639,http://en.wikipedia.org/wiki/FC_Alania_Vladikavkaz,FC Alania Vladikavkaz,fc-alania-vladikavkaz,fc-alania-vladikavkaz,UNK
+Russia,25391,96899,1757,11125639;2983;3343;1526308;8035;9239;9317;9472;695226;21241;588941;25702;25391;25127146;13824333;525972;525971;662351;3402034;9384268;555876;679716;57612;1167720;21805600;1338528;10892530;67302;203277;10761758;76972;20611504;7873254;342348;3821983;232175;2818394;26964606;18020135;4091317,http://en.wikipedia.org/wiki/Russia,Russia,russia,russia,GPE
+Russia,10892530,33,74,10892530;18020135;25391;525972,http://en.wikipedia.org/wiki/Great_Russia_(political_party),Great Russia,great-russia,great-russia-political-party,UNK
+Russia,18020135,97,115,20611504;10892530;18020135;25391,http://en.wikipedia.org/wiki/Greater_Russia,Greater Russia,greater-russia,greater-russia,UNK
+Russia,2818394,130,157,2818394;25391,http://en.wikipedia.org/wiki/Russia_Tower,Russia Tower,russia-tower,russia-tower,UNK
+Russia,588941,130,294,1526308;25391,http://en.wikipedia.org/wiki/Russia_and_weapons_of_mass_destruction,Russia and weapons of mass destruction,russia-and-weapons-of-mass-destruction,russia-and-weapons-of-mass-destruction,UNK
+Russia,9384268,7,195,25391,http://en.wikipedia.org/wiki/Russia-1,Russia-1,russia-1,russia-1,UNK
+Russia,7873254,176,179,25391,http://en.wikipedia.org/wiki/Russian_Chess_Championship,Russian Chess Championship,russian-chess-championship,russian-chess-championship,UNK
+Russia,126524,53,68,126521,"http://en.wikipedia.org/wiki/Russia,_New_York","Russia, New York",russia-new-york,russia-new-york,GPE
+Russia,20611504,12186,703,1338528;11125639;2983;3343;1526308;525971;9239;76972;20611504;21241;25702;25391;18020135;4091317,http://en.wikipedia.org/wiki/Russian_Empire,Russian Empire,russian-empire,russian-empire,GPE
+Russia,25702,339,588,4091317;67302;67542;25391;20611504;9239;30199;8032;57612;25702;21241;1338528,http://en.wikipedia.org/wiki/Geography_of_Russia,Geography of Russia,geography-of-russia,geography-of-russia,UNK
+Russia,129821,48,76,,"http://en.wikipedia.org/wiki/Russia,_Ohio","Russia, Ohio",russia-ohio,russia-ohio,GPE
+Russia,11471837,31,16,525971,"http://en.wikipedia.org/wiki/Little_Russia,_London","Little Russia, London",little-russia-london,little-russia-london,GPE
+Russia,121404,79,101,121335,"http://en.wikipedia.org/wiki/Russia_Township,_Polk_County,_Minnesota","Russia Township, Polk County, Minnesota",russia-township-polk-county-minnesota,russia-township-polk-county-minnesota,GPE
+Russia,21805600,0,70,25391,http://en.wikipedia.org/wiki/Russia-K,Russia-K,russia-k,russia-k,ORG
+Russia,1526308,569,334,1526308;25391;20611504;588941,http://en.wikipedia.org/wiki/Russian_Air_Force,Russian Air Force,russian-air-force,russian-air-force,ORG
+Russia,25127146,1379,474,25391;580173;695226;743577;26964606;555876;203277;3343;662351;679716,http://en.wikipedia.org/wiki/Russia_national_football_team,Russia national football team,russia-national-football-team,russia-national-football-team,ORG
+Russia,3821983,291,173,3821983;25391,http://en.wikipedia.org/wiki/1998_Russian_financial_crisis,1998 Russian financial crisis,1998-russian-financial-crisis,1998-russian-financial-crisis,UNK
+Russia,1338528,556,124,4091317;25391;20611504;9239;25702,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+Russia,21599323,3,24,,http://en.wikipedia.org/wiki/Mr_Russia,Mr Russia,mr-russia,mr-russia,UNK
+Russia,10761758,242,162,25391;10761758,http://en.wikipedia.org/wiki/Church_of_Scientology_Moscow_v._Russia,Church of Scientology Moscow v. Russia,church-of-scientology-moscow-v-russia,church-of-scientology-moscow-v-russia,UNK
+Russia,4091317,202,519,4091317;25391;20611504;25702;1338528,http://en.wikipedia.org/wiki/LGBT_rights_in_Russia,LGBT rights in Russia,lgbt-rights-in-russia,lgbt-rights-in-russia,UNK
+Russia,525972,31,17,10892530;25391;525971,http://en.wikipedia.org/wiki/Great_Russia,Great Russia,great-russia,great-russia,UNK
+Russia,525971,186,136,20611504;525972;11471837;25391,http://en.wikipedia.org/wiki/Little_Russia,Little Russia,little-russia,little-russia,UNK
+Brann Bergen,192068,714,214,203277;21241;26964606,http://en.wikipedia.org/wiki/SK_Brann,SK Brann,sk-brann,sk-brann,UNK
+Norway,21241,55035,1236,11125639;3343;8035;9239;9317;13810680;580173;21241;6108283;25702;25391;6335055;7678095;662351;3402034;192068;11496730;57612;67302;203277;76972;10454397;20611504;112755;26964606,http://en.wikipedia.org/wiki/Norway,Norway,norway,norway,GPE
+Norway,1315135,0,16,120027;42757917;120477;117391;25917134,http://en.wikipedia.org/wiki/Norway_Township,Norway Township,norway-township,norway-township,GPE
+Norway,259272,107,120,259271;116074,"http://en.wikipedia.org/wiki/Norway,_Maine","Norway, Maine",norway-maine,norway-maine,GPE
+Norway,25196547,4,3,,"http://en.wikipedia.org/wiki/Norway,_Prince_Edward_Island","Norway, Prince Edward Island",norway-prince-edward-island,norway-prince-edward-island,GPE
+Norway,36348993,2,77,,http://en.wikipedia.org/wiki/Norway_Bridge,Norway Bridge,norway-bridge,norway-bridge,UNK
+Norway,24611297,40,58,15032866,"http://en.wikipedia.org/wiki/Norway,_Oregon","Norway, Oregon",norway-oregon,norway-oregon,GPE
+Norway,134621,36,46,134390,"http://en.wikipedia.org/wiki/Norway,_South_Carolina","Norway, South Carolina",norway-south-carolina,norway-south-carolina,GPE
+Norway,12624548,1161,108,,http://en.wikipedia.org/wiki/Norway_Corporation,Norway Corporation,norway-corporation,norway-corporation,UNK
+Norway,120027,50,67,141279;1315135,"http://en.wikipedia.org/wiki/Norway_Township,_Fillmore_County,_Minnesota","Norway Township, Fillmore County, Minnesota",norway-township-fillmore-county-minnesota,norway-township-fillmore-county-minnesota,GPE
+Norway,57612,266,521,76972;67302;67542;25391;9239;30199;8032;57612;25702;21241,http://en.wikipedia.org/wiki/Geography_of_Norway,Geography of Norway,geography-of-norway,geography-of-norway,ORG
+Norway,12565953,18,21,,"http://en.wikipedia.org/wiki/Norway,_Kansas","Norway, Kansas",norway-kansas,norway-kansas,GPE
+Norway,1936956,67,68,,http://en.wikipedia.org/wiki/Little_Norway,Little Norway,little-norway,little-norway,UNK
+Norway,42757917,23,28,1315135,"http://en.wikipedia.org/wiki/Norway_Township,_Winnebago_County,_Iowa","Norway Township, Winnebago County, Iowa",norway-township-winnebago-county-iowa,norway-township-winnebago-county-iowa,GPE
+Norway,25917134,31,42,1315135,"http://en.wikipedia.org/wiki/Norway_Township,_Humboldt_County,_Iowa","Norway Township, Humboldt County, Iowa",norway-township-humboldt-county-iowa,norway-township-humboldt-county-iowa,GPE
+Norway,117390,60,61,117391,"http://en.wikipedia.org/wiki/Norway,_Michigan","Norway, Michigan",norway-michigan,norway-michigan,GPE
+Norway,6335055,14,18,139904;21241,"http://en.wikipedia.org/wiki/Little_Norway,_Wisconsin","Little Norway, Wisconsin",little-norway-wisconsin,little-norway-wisconsin,UNK
+Norway,112755,52,83,21241,"http://en.wikipedia.org/wiki/Norway,_Iowa","Norway, Iowa",norway-iowa,norway-iowa,GPE
+Norway,126521,52,69,126524,"http://en.wikipedia.org/wiki/Norway,_New_York","Norway, New York",norway-new-york,norway-new-york,GPE
+Norway,7678095,42,102,21241,http://en.wikipedia.org/wiki/Norway_Airlines,Norway Airlines,norway-airlines,norway-airlines,UNK
+Norway,203277,2041,486,192068;25391;25127146;580173;21241;695226;743577;26964606;76972;555876;203277;3343;662351;679716,http://en.wikipedia.org/wiki/Norway_national_football_team,Norway national football team,norway-national-football-team,norway-national-football-team,ORG
+Norway,259271,51,74,116074;259272,"http://en.wikipedia.org/wiki/Norway_(CDP),_Maine","Norway (CDP), Maine",norway-cdp-maine,norway-cdp-maine,GPE
+Norway,26510166,1,21,,http://en.wikipedia.org/wiki/Norway_Lake_(Rainy_Creek_drainage_basin),Norway Lake,norway-lake,norway-lake-rainy-creek-drainage-basin,UNK
+Norway,15032866,2,12,24611297,http://en.wikipedia.org/wiki/Norway_Airport,Norway Airport,norway-airport,norway-airport,UNK
+Norway,112704,31,48,,"http://en.wikipedia.org/wiki/Norway,_Indiana","Norway, Indiana",norway-indiana,norway-indiana,GPE
+Norway,139612,52,64,,"http://en.wikipedia.org/wiki/Norway,_Wisconsin","Norway, Wisconsin",norway-wisconsin,norway-wisconsin,GPE
+Norway,6108283,60,58,21241,http://en.wikipedia.org/wiki/Norway_(Epcot),Norway,norway,norway-epcot,UNK
+Norway,15734183,236,243,,"http://en.wikipedia.org/wiki/Little_Norway,_California","Little Norway, California",little-norway-california,little-norway-california,GPE
+Norway,13810680,112,120,21241,"http://en.wikipedia.org/wiki/Norway,_Illinois","Norway, Illinois",norway-illinois,norway-illinois,UNK
+Norway,141279,0,2,120027;120477,"http://en.wikipedia.org/wiki/Norway_Township,_Minnesota","Norway Township, Minnesota",norway-township-minnesota,norway-township-minnesota,UNK
+Norway,120477,45,65,141279;1315135,"http://en.wikipedia.org/wiki/Norway_Township,_Kittson_County,_Minnesota","Norway Township, Kittson County, Minnesota",norway-township-kittson-county-minnesota,norway-township-kittson-county-minnesota,GPE
+Norway,117391,23,45,117390;1315135,"http://en.wikipedia.org/wiki/Norway_Township,_Michigan","Norway Township, Michigan",norway-township-michigan,norway-township-michigan,GPE

@@ -1,0 +1,9 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+S. Korean,27019,38617,831,905855;1056336;19159283;27019;4196610;4607874,http://en.wikipedia.org/wiki/South_Korea,South Korea,south-korea,south-korea,GPE
+SEOUL,19159283,10914,801,19159283;4196610;905855;4607874;27019;1056336,http://en.wikipedia.org/wiki/Seoul,Seoul,seoul,seoul,GPE
+SEOUL,1056336,815,370,1056336;19159283;27019,http://en.wikipedia.org/wiki/FC_Seoul,FC Seoul,fc-seoul,fc-seoul,UNK
+SEOUL,4196610,94,63,19159283;27019,http://en.wikipedia.org/wiki/Seoul_Institute_of_the_Arts,Seoul Institute of the Arts,seoul-institute-of-the-arts,seoul-institute-of-the-arts,UNK
+SEOUL,4975108,0,2,,http://en.wikipedia.org/wiki/Seoul_Airport,Seoul Airport,seoul-airport,seoul-airport,UNK
+SEOUL,2178409,106,299,2178409,http://en.wikipedia.org/wiki/Little_Seoul,Little Seoul,little-seoul,little-seoul,UNK
+SEOUL,4607874,41,47,19159283;27019,http://en.wikipedia.org/wiki/University_of_Seoul,University of Seoul,university-of-seoul,university-of-seoul,UNK
+SEOUL,905855,376,310,19159283;27019,http://en.wikipedia.org/wiki/Seoul_Station,Seoul Station,seoul-station,seoul-station,UNK

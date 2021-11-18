@@ -1,0 +1,16 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+RANGOON,57404,1393,241,264440;19457;28463954;4223826;338207;2242248;13480009,http://en.wikipedia.org/wiki/Yangon,Yangon,yangon,yangon,GPE
+Burmese,19457,10141,871,264440;261787;19457;28463954;29008768;40838696;57404;4223826;338207,http://en.wikipedia.org/wiki/Burma,Burma,burma,burma,GPE
+Burmese,338207,2505,174,264440;4223826;338207;2242248;31233043;19457;28463954;13480009;57404,http://en.wikipedia.org/wiki/Burmese_language,Burmese language,burmese-language,burmese-language,UNK
+Burmese,1857148,160,156,,http://en.wikipedia.org/wiki/Burmese_glass,Burmese glass,burmese-glass,burmese-glass,UNK
+Burmese,264440,486,477,31233043;19457;4223826;338207;57404,http://en.wikipedia.org/wiki/Burmese_alphabet,Burmese alphabet,burmese-alphabet,burmese-alphabet,UNK
+Burmese,31233043,24,53,338207;264440,http://en.wikipedia.org/wiki/Old_Burmese,Old Burmese,old-burmese,old-burmese,UNK
+Burmese,40838696,2,7,19457,http://en.wikipedia.org/wiki/Burmese_chicken,Burmese chicken,burmese-chicken,burmese-chicken,UNK
+Burmese,261787,4,132,19457,http://en.wikipedia.org/wiki/Burmese_cat,Burmese cat,burmese-cat,burmese-cat,UNK
+Rangoon,57404,1393,241,264440;19457;28463954;4223826;338207;2242248;13480009,http://en.wikipedia.org/wiki/Yangon,Yangon,yangon,yangon,GPE
+Insein,4223826,80,86,264440;13480009;19457;28463954;338207;14990505;29008768;57404,http://en.wikipedia.org/wiki/Insein_Township,Insein Township,insein-township,insein-township,UNK
+Insein,14990505,0,3,29008768;4223826;13480009,http://en.wikipedia.org/wiki/Insein,Insein,insein,insein,GPE
+Insein,29008768,72,87,14990505;13480009;4223826;19457,"http://en.wikipedia.org/wiki/Insein,_Kale","Insein, Kale",insein-kale,insein-kale,UNK
+Insein,13480009,44,10,338207;14990505;29008768;4223826;57404,http://en.wikipedia.org/wiki/Insein_Prison,Insein Prison,insein-prison,insein-prison,UNK
+Insein,28463954,4,5,57404;4223826;338207;19457,http://en.wikipedia.org/wiki/Insein_Road,Insein Road,insein-road,insein-road,UNK
+Rangoon University,2242248,248,134,338207;57404,http://en.wikipedia.org/wiki/University_of_Yangon,University of Yangon,university-of-yangon,university-of-yangon,ORG

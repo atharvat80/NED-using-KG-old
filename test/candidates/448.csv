@@ -1,0 +1,26 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+MOZAMBIQUE,19301,8236,706,1392449;19301;19303;19309;57044;11984357;519112;12252828;16808593;655610;448255;7122797;45567;459217,http://en.wikipedia.org/wiki/Mozambique,Mozambique,mozambique,mozambique,GPE
+MOZAMBIQUE,655610,42,96,19301,http://en.wikipedia.org/wiki/Mozambique_(music),Mozambique,mozambique,mozambique-music,UNK
+MOZAMBIQUE,16808593,232,110,16808593;19301;19309,http://en.wikipedia.org/wiki/Religion_in_Mozambique,Religion in Mozambique,religion-in-mozambique,religion-in-mozambique,PER
+MOZAMBIQUE,45567,398,321,57044;12252828;19301;19309;1392449;459217,http://en.wikipedia.org/wiki/Portuguese_Mozambique,Portuguese Mozambique,portuguese-mozambique,portuguese-mozambique,GPE
+MOZAMBIQUE,19303,79,127,19301;19309;448255;57044,http://en.wikipedia.org/wiki/Geography_of_Mozambique,Geography of Mozambique,geography-of-mozambique,geography-of-mozambique,UNK
+MOZAMBIQUE,1481595,7,16,1481595;57044,http://en.wikipedia.org/wiki/Mozambique_Drill,Mozambique Drill,mozambique-drill,mozambique-drill,ORG
+MOZAMBIQUE,459217,114,86,19301;19309;45567,http://en.wikipedia.org/wiki/Flag_of_Mozambique,Flag of Mozambique,flag-of-mozambique,flag-of-mozambique,UNK
+MOZAMBIQUE,12252828,68,71,45567;19301;19309,http://en.wikipedia.org/wiki/Mozambique_Company,Mozambique Company,mozambique-company,mozambique-company,ORG
+MOZAMBIQUE,19309,115,197,57044;16808593;12252828;18998750;19301;19303;19309;45567;459217,http://en.wikipedia.org/wiki/Military_of_Mozambique,Military of Mozambique,military-of-mozambique,military-of-mozambique,UNK
+MAPUTO,57044,1185,299,7122797;519112;45567;11984357;448255;1481595;19301;19303;19309;1392449,http://en.wikipedia.org/wiki/Maputo,Maputo,maputo,maputo,GPE
+MAPUTO,519112,35,42,57044;1392449;19301;448255,http://en.wikipedia.org/wiki/Maputo_River,Maputo River,maputo-river,maputo-river,UNK
+MAPUTO,7122797,73,43,57044;19301,http://en.wikipedia.org/wiki/Maputo_International_Airport,Maputo International Airport,maputo-international-airport,maputo-international-airport,UNK
+MAPUTO,448255,175,26,19301;19303;57044;519112,http://en.wikipedia.org/wiki/Maputo_Province,Maputo Province,maputo-province,maputo-province,UNK
+MAPUTO,1392449,42,92,19301;45567;57044;519112,http://en.wikipedia.org/wiki/Maputo_Bay,Maputo Bay,maputo-bay,maputo-bay,GPE
+Mozambican,19301,8236,706,1392449;19301;19303;19309;57044;11984357;519112;12252828;16808593;655610;448255;7122797;45567;459217,http://en.wikipedia.org/wiki/Mozambique,Mozambique,mozambique,mozambique,GPE
+Mozambican,11984357,50,74,57044;19301,http://en.wikipedia.org/wiki/Mozambican_Portuguese,Mozambican Portuguese,mozambican-portuguese,mozambican-portuguese,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Reuters,18998750,9093,418,19309;18998750;2171552,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+NOTICIAS,19599176,12,8,,http://en.wikipedia.org/wiki/Noticias_(magazine),Noticias,noticias,noticias-magazine,ORG
+Maputo,57044,1185,299,7122797;519112;45567;11984357;448255;1481595;19301;19303;19309;1392449,http://en.wikipedia.org/wiki/Maputo,Maputo,maputo,maputo,GPE
+Maputo,519112,35,42,57044;1392449;19301;448255,http://en.wikipedia.org/wiki/Maputo_River,Maputo River,maputo-river,maputo-river,UNK
+Maputo,7122797,73,43,57044;19301,http://en.wikipedia.org/wiki/Maputo_International_Airport,Maputo International Airport,maputo-international-airport,maputo-international-airport,UNK
+Maputo,448255,175,26,19301;19303;57044;519112,http://en.wikipedia.org/wiki/Maputo_Province,Maputo Province,maputo-province,maputo-province,UNK
+Maputo,1392449,42,92,19301;45567;57044;519112,http://en.wikipedia.org/wiki/Maputo_Bay,Maputo Bay,maputo-bay,maputo-bay,GPE
+Noticias,19599176,12,8,,http://en.wikipedia.org/wiki/Noticias_(magazine),Noticias,noticias,noticias-magazine,ORG

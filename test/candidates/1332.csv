@@ -1,0 +1,16 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Burmese,19457,10141,871,264440;261787;2203640;19457;18998750;40838696;57404;338207,http://en.wikipedia.org/wiki/Burma,Burma,burma,burma,GPE
+Burmese,1857148,160,156,,http://en.wikipedia.org/wiki/Burmese_glass,Burmese glass,burmese-glass,burmese-glass,UNK
+Burmese,264440,486,477,31233043;19457;338207;57404,http://en.wikipedia.org/wiki/Burmese_alphabet,Burmese alphabet,burmese-alphabet,burmese-alphabet,UNK
+Burmese,338207,2505,174,264440;338207;2242248;3026872;31233043;19457;57404,http://en.wikipedia.org/wiki/Burmese_language,Burmese language,burmese-language,burmese-language,UNK
+Burmese,31233043,24,53,338207;264440,http://en.wikipedia.org/wiki/Old_Burmese,Old Burmese,old-burmese,old-burmese,UNK
+Burmese,40838696,2,7,19457,http://en.wikipedia.org/wiki/Burmese_chicken,Burmese chicken,burmese-chicken,burmese-chicken,UNK
+Burmese,261787,4,132,19457,http://en.wikipedia.org/wiki/Burmese_cat,Burmese cat,burmese-cat,burmese-cat,UNK
+RANGOON,57404,1393,241,264440;19457;338207;2242248;3026872;2203640,http://en.wikipedia.org/wiki/Yangon,Yangon,yangon,yangon,GPE
+Yangon Institute of Technology,3026872,36,42,338207;2242248;57404,http://en.wikipedia.org/wiki/Yangon_Technological_University,Yangon Technological University,yangon-technological-university,yangon-technological-university,ORG
+YIT,12665387,42,83,,http://en.wikipedia.org/wiki/YIT,YIT,yit,yit,UNK
+Rangoon,57404,1393,241,264440;19457;338207;2242248;3026872;2203640,http://en.wikipedia.org/wiki/Yangon,Yangon,yangon,yangon,GPE
+University of Yangon,2242248,248,134,2203640;338207;3026872;57404,http://en.wikipedia.org/wiki/University_of_Yangon,University of Yangon,university-of-yangon,university-of-yangon,ORG
+Shwe Dagon,2203640,111,75,2203640;19457;2242248;57404,http://en.wikipedia.org/wiki/Shwedagon_Pagoda,Shwedagon Pagoda,shwedagon-pagoda,shwedagon-pagoda,UNK
+Reuters,18998750,9093,418,19457;18998750;2171552,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK

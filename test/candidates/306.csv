@@ -1,0 +1,70 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Basque,20514897,2442,156,41188263;4660;69802;9926;1088548;7580762;3738;683036,http://en.wikipedia.org/wiki/Basque_Country_(autonomous_community),Basque Country,basque-country,basque-country-autonomous-community,UNK
+Basque,38414493,2,13,683036;3738,http://en.wikipedia.org/wiki/Basque_pig,Basque pig,basque-pig,basque-pig,UNK
+Basque,36941773,3,10,,http://en.wikipedia.org/wiki/Basque_Park,Basque Park,basque-park,basque-park,UNK
+Basque,3738,1957,465,4660;1088548;7580762;20514897;38414493;12535866;683036,http://en.wikipedia.org/wiki/Basque_language,Basque language,basque-language,basque-language,UNK
+Basque,7580762,15,41,20514897;3738,http://en.wikipedia.org/wiki/Basque_Mountains,Basque Mountains,basque-mountains,basque-mountains,UNK
+Basque,1582809,4,8,,"http://en.wikipedia.org/wiki/Basque,_British_Columbia","Basque, British Columbia",basque-british-columbia,basque-british-columbia,GPE
+Basque,683036,476,254,20514897;38414493;9926;42108450;3738;4660,http://en.wikipedia.org/wiki/Basque_Country_(greater_region),Basque Country,basque-country,basque-country-greater-region,GPE
+Basque,12535866,101,105,3738;12535866,http://en.wikipedia.org/wiki/Basque_Wikipedia,Basque Wikipedia,basque-wikipedia,basque-wikipedia,UNK
+Basque,42108450,1,39,42108450;683036;4660,http://en.wikipedia.org/wiki/Basque_center,Basque center,basque-center,basque-center,ORG
+Basque,12417320,223,301,4660,http://en.wikipedia.org/wiki/Basque_(clothing),Basque,basque,basque-clothing,UNK
+Basque,4660,1251,314,20514897;42108450;9926;3738;683036;12417320,http://en.wikipedia.org/wiki/Basque_people,Basque people,basque-people,basque-people,UNK
+MADRID,41188263,14139,1303,69802;9926;539568;2156535;14256525;1853980;404727;10147562;115966;11607982;127192;41188263;90168;20514897,http://en.wikipedia.org/wiki/Madrid,Madrid,madrid,madrid,GPE
+MADRID,104741,25,35,,"http://en.wikipedia.org/wiki/Madrid,_Alabama","Madrid, Alabama",madrid-alabama,madrid-alabama,GPE
+MADRID,69802,1069,327,20514897;41188263;90168;11607982;1853980,http://en.wikipedia.org/wiki/Community_of_Madrid,Community of Madrid,community-of-madrid,community-of-madrid,UNK
+MADRID,90168,674,379,41188263;69802;1853980,http://en.wikipedia.org/wiki/Complutense_University_of_Madrid,Complutense University of Madrid,complutense-university-of-madrid,complutense-university-of-madrid,UNK
+MADRID,5911621,1,7,,"http://en.wikipedia.org/wiki/Madrid_County,_California","Madrid County, California",madrid-county-california,madrid-county-california,UNK
+MADRID,124112,10,29,,"http://en.wikipedia.org/wiki/Madrid,_Nebraska","Madrid, Nebraska",madrid-nebraska,madrid-nebraska,GPE
+MADRID,42773036,3,17,,"http://en.wikipedia.org/wiki/Madrid,_1987","Madrid, 1987",madrid-1987,madrid-1987,UNK
+MADRID,127192,81,75,41188263,"http://en.wikipedia.org/wiki/Madrid,_New_York","Madrid, New York",madrid-new-york,madrid-new-york,GPE
+MADRID,33622811,12,99,33622811,http://en.wikipedia.org/wiki/Madrid_system,Madrid system,madrid-system,madrid-system,UNK
+MADRID,2156535,39,51,41188263,"http://en.wikipedia.org/wiki/Madrid,_Surigao_del_Sur","Madrid, Surigao del Sur",madrid-surigao-del-sur,madrid-surigao-del-sur,UNK
+MADRID,3823591,143,142,,"http://en.wikipedia.org/wiki/Madrid,_Cundinamarca","Madrid, Cundinamarca",madrid-cundinamarca,madrid-cundinamarca,GPE
+MADRID,27156859,26,43,,"http://en.wikipedia.org/wiki/Madrid,_Colorado","Madrid, Colorado",madrid-colorado,madrid-colorado,GPE
+MADRID,25527638,3,17,,http://en.wikipedia.org/wiki/Madrid_(band),Madrid,madrid,madrid-band,UNK
+MADRID,323556,185,121,,http://en.wikipedia.org/wiki/Miguel_de_la_Madrid,Miguel de la Madrid,miguel-de-la-madrid,miguel-de-la-madrid,UNK
+MADRID,1853980,176,107,9926;90168;539568;69802;41188263,http://en.wikipedia.org/wiki/Autonomous_University_of_Madrid,Autonomous University of Madrid,autonomous-university-of-madrid,autonomous-university-of-madrid,UNK
+MADRID,11607982,24,84,69802;41188263,http://en.wikipedia.org/wiki/Vinos_de_Madrid,Vinos de Madrid,vinos-de-madrid,vinos-de-madrid,UNK
+MADRID,10147562,108,82,10147562;41188263,http://en.wikipedia.org/wiki/Districts_of_Madrid,Districts of Madrid,districts-of-madrid,districts-of-madrid,UNK
+MADRID,115966,39,74,41188263,"http://en.wikipedia.org/wiki/Madrid,_Maine","Madrid, Maine",madrid-maine,madrid-maine,GPE
+MADRID,126024,60,85,,"http://en.wikipedia.org/wiki/Madrid,_New_Mexico","Madrid, New Mexico",madrid-new-mexico,madrid-new-mexico,GPE
+MADRID,112776,47,70,,"http://en.wikipedia.org/wiki/Madrid,_Iowa","Madrid, Iowa",madrid-iowa,madrid-iowa,GPE
+MADRID,14256525,112,145,41188263,http://en.wikipedia.org/wiki/Madrid_(Spanish_Congress_Electoral_District),Madrid,madrid,madrid-spanish-congress-electoral-district,UNK
+ETA,9926,532,232,20514897;539568;308007;41188263;1088548;404727;42876940;683036;9488;4660;1853980,http://en.wikipedia.org/wiki/ETA,ETA,eta,eta,UNK
+ETA,3515317,2,46,,http://en.wikipedia.org/wiki/Eta_(glider),Eta,eta,eta-glider,UNK
+ETA,9488,99,113,28912446;9926,http://en.wikipedia.org/wiki/Eta,Eta,eta,eta,UNK
+ETA,28912446,9,15,9488;34973959,http://en.wikipedia.org/wiki/Eta_Island_(Palmer_Archipelago),Eta Island,eta-island,eta-island-palmer-archipelago,UNK
+ETA,1374327,45,34,,http://en.wikipedia.org/wiki/ETA_SA,ETA SA,eta-sa,eta-sa,UNK
+ETA,13522156,4,33,,http://en.wikipedia.org/wiki/Etak,Etak,etak,etak,UNK
+ETA,308007,11,31,9926,http://en.wikipedia.org/wiki/ETA_Systems,ETA Systems,eta-systems,eta-systems,UNK
+ETA,28213908,3,4,34973959,"http://en.wikipedia.org/wiki/Eta_Island,_Bermuda","Eta Island, Bermuda",eta-island-bermuda,eta-island-bermuda,UNK
+ETA,10685513,17,21,,http://en.wikipedia.org/wiki/Étant_donnés,Étant donnés,etant-donnes,etant-donnes,UNK
+ETA,34973959,0,3,28213908;28912446,http://en.wikipedia.org/wiki/Eta_Island,Eta Island,eta-island,eta-island,UNK
+ETA,1088548,7,8,9926;3738;20514897,http://en.wikipedia.org/wiki/ETA_political-military,ETA political-military,eta-political-military,eta-political-military,UNK
+ETA,92385,165,187,,http://en.wikipedia.org/wiki/Eta_Carinae,Eta Carinae,eta-carinae,eta-carinae,UNK
+El Mundo,539568,729,49,9926;41188263;42876940;1853980,http://en.wikipedia.org/wiki/El_Mundo_(Spain),El Mundo,el-mundo,el-mundo-spain,ORG
+El Mundo,40377249,11,3,,http://en.wikipedia.org/wiki/El_Mundo_(Colombia),El Mundo,el-mundo,el-mundo-colombia,UNK
+El Mundo,10024635,55,28,,http://en.wikipedia.org/wiki/El_Mundo_(Puerto_Rico),El Mundo,el-mundo,el-mundo-puerto-rico,UNK
+El Mundo,21749559,15,12,,http://en.wikipedia.org/wiki/El_Mundo_(Venezuela),El Mundo,el-mundo,el-mundo-venezuela,ORG
+El Mundo,36549219,2,3,,http://en.wikipedia.org/wiki/El_Mundo_(Santa_Cruz),El Mundo,el-mundo,el-mundo-santa-cruz,UNK
+El Mundo,31419974,15,25,,http://en.wikipedia.org/wiki/El_Mundo_(Argentina),El Mundo,el-mundo,el-mundo-argentina,UNK
+Basque Homeland and Freedom,9926,532,232,20514897;539568;308007;41188263;1088548;404727;42876940;683036;9488;4660;1853980,http://en.wikipedia.org/wiki/ETA,ETA,eta,eta,UNK
+CIS,29399813,0,11,,http://en.wikipedia.org/wiki/Mount_Cis,Mount Cis,mount-cis,mount-cis,UNK
+CIS,66937,574,218,,http://en.wikipedia.org/wiki/Cisgender,Cisgender,cisgender,cisgender,UNK
+CIS,5716332,268,208,6577834,http://en.wikipedia.org/wiki/CIS_(rugby),CIS,cis,cis-rugby,ORG
+CIS,28107486,3,9,,http://en.wikipedia.org/wiki/Cis_(beetle),Cis,cis,cis-beetle,PER
+CIS,19036976,19,30,,"http://en.wikipedia.org/wiki/Cis,_Świętokrzyskie_Voivodeship","Cis, Świętokrzyskie Voivodeship",cis-swietokrzyskie-voivodeship,cis-swietokrzyskie-voivodeship,GPE
+CIS,6577834,248,274,5716332,http://en.wikipedia.org/wiki/CIS_national_football_team,CIS national football team,cis-national-football-team,cis-national-football-team,UNK
+CIS,6551232,222,228,,"http://en.wikipedia.org/wiki/Cis,_Trentino","Cis, Trentino",cis-trentino,cis-trentino,GPE
+CIS,21842317,31,44,,"http://en.wikipedia.org/wiki/Cis,_Warmian-Masurian_Voivodeship","Cis, Warmian-Masurian Voivodeship",cis-warmian-masurian-voivodeship,cis-warmian-masurian-voivodeship,GPE
+CIS,3013918,200,207,,http://en.wikipedia.org/wiki/CIS_Tower,CIS Tower,cis-tower,cis-tower,UNK
+CIS,23183512,2,65,23342;23183512,http://en.wikipedia.org/wiki/Cis_AB,Cis AB,cis-ab,cis-ab,UNK
+CIS,20409626,47,57,,"http://en.wikipedia.org/wiki/Cisk,_Poland","Cisk, Poland",cisk-poland,cisk-poland,GPE
+Jose Antonio Ortega Lara,42876940,3,13,9926;539568,http://en.wikipedia.org/wiki/José_Antonio_Ortega_Lara,José Antonio Ortega Lara,jose-antonio-ortega-lara,jose-antonio-ortega-lara,PER
+Popular Party,404727,0,359,9926;41188263,http://en.wikipedia.org/wiki/People's_Party_(Spain),People's Party,peoples-party,peoples-party-spain,UNK
+PP,5321543,10,54,23342,http://en.wikipedia.org/wiki/P̃,P̃,p,p,UNK
+PP,23342,3977,67,5321543;23183512,http://en.wikipedia.org/wiki/P,P,p,p,ORG
+PP,847877,197,244,847877,http://en.wikipedia.org/wiki/Walther_PP,Walther PP,walther-pp,walther-pp,UNK
+PP,659322,84,74,,http://en.wikipedia.org/wiki/PP_(complexity),PP,pp,pp-complexity,PER
+PP,1431232,19,18,,http://en.wikipedia.org/wiki/PPK_(group),PPK,ppk,ppk-group,UNK

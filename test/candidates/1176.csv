@@ -1,0 +1,31 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+BRAZILIAN,3383,84101,1038,8079600;3383;30863678;1818272;822010;147954;25936;18564144;11982053;187305;3735115;1742904;1043873;14986292;28804047;1577470;23530966;229419,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+BRAZILIAN,1043873,372,442,147954;3383;229419;30863678;11982053;25936,http://en.wikipedia.org/wiki/German_Brazilian,German Brazilian,german-brazilian,german-brazilian,UNK
+BRAZILIAN,11982053,1714,305,147954;25936;1043873;3383;229419;30863678,http://en.wikipedia.org/wiki/Brazilian_people,Brazilian people,brazilian-people,brazilian-people,UNK
+BRAZILIAN,8079600,11,28,3383,http://en.wikipedia.org/wiki/Brazilian_Island,Brazilian Island,brazilian-island,brazilian-island,UNK
+BRAZILIAN,8691009,13,27,,http://en.wikipedia.org/wiki/The_Brazilian,The Brazilian,the-brazilian,the-brazilian,UNK
+BRAZILIAN,30863678,354,347,1043873;147954;3383;229419;30863678;11982053;25936,http://en.wikipedia.org/wiki/Italian_Brazilian,Italian Brazilian,italian-brazilian,italian-brazilian,UNK
+RIO DE JANEIRO,25936,9760,1176,1043873;3383;28804047;18564144;822010;11982053;14986292;147954;25936;30863678;187305;1818272;229419,http://en.wikipedia.org/wiki/Rio_de_Janeiro,Rio de Janeiro,rio-de-janeiro,rio-de-janeiro,GPE
+RIO DE JANEIRO,23530966,3,6,3383,http://en.wikipedia.org/wiki/Rio_de_Janeiro_(Bahia),Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-bahia,UNK
+RIO DE JANEIRO,229419,2057,312,14986292;147954;1818272;25936;1043873;3383;28804047;30863678;11982053,http://en.wikipedia.org/wiki/Rio_de_Janeiro_(state),Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-state,UNK
+RIO DE JANEIRO,23580387,3,5,28027968,http://en.wikipedia.org/wiki/MS_Rio_de_Janeiro,MS Rio de Janeiro,ms-rio-de-janeiro,ms-rio-de-janeiro,UNK
+RIO DE JANEIRO,14986292,28,28,229419;25936;3383,http://en.wikipedia.org/wiki/Greater_Rio_de_Janeiro,Greater Rio de Janeiro,greater-rio-de-janeiro,greater-rio-de-janeiro,UNK
+RIO DE JANEIRO,28027968,12,24,23580387,http://en.wikipedia.org/wiki/MS_Rio_de_Janeiro_(1914),MS Rio de Janeiro,ms-rio-de-janeiro,ms-rio-de-janeiro-1914,ORG
+Brazilian,3383,84101,1038,8079600;3383;30863678;1818272;822010;147954;25936;18564144;11982053;187305;3735115;1742904;1043873;14986292;28804047;1577470;23530966;229419,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Brazilian,1043873,372,442,147954;3383;229419;30863678;11982053;25936,http://en.wikipedia.org/wiki/German_Brazilian,German Brazilian,german-brazilian,german-brazilian,UNK
+Brazilian,11982053,1714,305,147954;25936;1043873;3383;229419;30863678,http://en.wikipedia.org/wiki/Brazilian_people,Brazilian people,brazilian-people,brazilian-people,UNK
+Brazilian,8079600,11,28,3383,http://en.wikipedia.org/wiki/Brazilian_Island,Brazilian Island,brazilian-island,brazilian-island,UNK
+Brazilian,8691009,13,27,,http://en.wikipedia.org/wiki/The_Brazilian,The Brazilian,the-brazilian,the-brazilian,UNK
+Brazilian,30863678,354,347,1043873;147954;3383;229419;30863678;11982053;25936,http://en.wikipedia.org/wiki/Italian_Brazilian,Italian Brazilian,italian-brazilian,italian-brazilian,UNK
+Goias,1577470,644,171,1742904;147954;3383;18564144;187305,http://en.wikipedia.org/wiki/Goiás_Esporte_Clube,Goiás Esporte Clube,goias-esporte-clube,goias-esporte-clube,ORG
+Goias,822010,59,47,147954;25936;3383,"http://en.wikipedia.org/wiki/Goiás,_Goiás","Goiás, Goiás",goias-goias,goias-goias,UNK
+Goias,147954,1168,323,147954;1577470;822010;25936;1043873;3383;229419;30863678;11982053,http://en.wikipedia.org/wiki/Goiás,Goiás,goias,goias,UNK
+Gremio,18564144,1239,434,1577470;187305;25936;1742904;3383;18564144,http://en.wikipedia.org/wiki/Grêmio_Foot-Ball_Porto_Alegrense,Grêmio Foot-Ball Porto Alegrense,gremio-foot-ball-porto-alegrense,gremio-foot-ball-porto-alegrense,ORG
+Portuguesa,1742904,1146,202,1577470;187305;3383;18564144,http://en.wikipedia.org/wiki/Associação_Portuguesa_de_Desportos,Associação Portuguesa de Desportos,associacao-portuguesa-de-desportos,associacao-portuguesa-de-desportos,ORG
+Portuguesa,151973,155,157,,http://en.wikipedia.org/wiki/A_Portuguesa,A Portuguesa,a-portuguesa,a-portuguesa,UNK
+Portuguesa,28804047,205,206,229419;25936;3383,"http://en.wikipedia.org/wiki/Portuguesa,_Rio_de_Janeiro","Portuguesa, Rio de Janeiro",portuguesa-rio-de-janeiro,portuguesa-rio-de-janeiro,UNK
+Portuguesa,3735115,58,99,3383,http://en.wikipedia.org/wiki/Portuguesa_FC,Portuguesa FC,portuguesa-fc,portuguesa-fc,UNK
+Portuguesa,1818272,45,14,229419;25936;3383,http://en.wikipedia.org/wiki/Associação_Atlética_Portuguesa_(RJ),Associação Atlética Portuguesa,associacao-atletica-portuguesa,associacao-atletica-portuguesa-rj,UNK
+Portuguesa,556291,80,77,556291,"http://en.wikipedia.org/wiki/Portuguesa,_Venezuela","Portuguesa, Venezuela",portuguesa-venezuela,portuguesa-venezuela,UNK
+Portuguesa,23528352,16,19,,http://en.wikipedia.org/wiki/Portuguesa_River,Portuguesa River,portuguesa-river,portuguesa-river,UNK
+Atletico Mineiro,187305,1088,316,1577470;187305;25936;1742904;3383;18564144,http://en.wikipedia.org/wiki/Clube_Atlético_Mineiro,Clube Atlético Mineiro,clube-atletico-mineiro,clube-atletico-mineiro,ORG

@@ -1,0 +1,30 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+APPLETON,151294,1102,496,33127;151294,"http://en.wikipedia.org/wiki/Appleton,_Wisconsin","Appleton, Wisconsin",appleton-wisconsin,appleton-wisconsin,GPE
+APPLETON,37784362,16,34,,"http://en.wikipedia.org/wiki/Appleton,_Tennessee","Appleton, Tennessee",appleton-tennessee,appleton-tennessee,GPE
+APPLETON,123144,25,37,124736,"http://en.wikipedia.org/wiki/Appleton_City,_Missouri","Appleton City, Missouri",appleton-city-missouri,appleton-city-missouri,GPE
+APPLETON,124736,90,76,123144,"http://en.wikipedia.org/wiki/Old_Appleton,_Missouri","Old Appleton, Missouri",old-appleton-missouri,old-appleton-missouri,GPE
+APPLETON,121894,32,52,40055168;121893,"http://en.wikipedia.org/wiki/Appleton_Township,_Swift_County,_Minnesota","Appleton Township, Swift County, Minnesota",appleton-township-swift-county-minnesota,appleton-township-swift-county-minnesota,GPE
+APPLETON,8281555,121,111,,http://en.wikipedia.org/wiki/Appleton_School,Appleton School,appleton-school,appleton-school,UNK
+APPLETON,40055168,0,3,121894;15692001,http://en.wikipedia.org/wiki/Appleton_Township,Appleton Township,appleton-township,appleton-township,GPE
+APPLETON,23908599,92,104,,"http://en.wikipedia.org/wiki/Appleton,_New_York","Appleton, New York",appleton-new-york,appleton-new-york,GPE
+APPLETON,15692001,12,27,40055168,"http://en.wikipedia.org/wiki/Appleton_Township,_Clark_County,_Kansas","Appleton Township, Clark County, Kansas",appleton-township-clark-county-kansas,appleton-township-clark-county-kansas,GPE
+APPLETON,12768342,133,191,,"http://en.wikipedia.org/wiki/Appleton,_Oxfordshire","Appleton, Oxfordshire",appleton-oxfordshire,appleton-oxfordshire,GPE
+APPLETON,116032,35,53,,"http://en.wikipedia.org/wiki/Appleton,_Maine","Appleton, Maine",appleton-maine,appleton-maine,GPE
+APPLETON,1569390,49,100,3109288,http://en.wikipedia.org/wiki/Appleton_Thorn,Appleton Thorn,appleton-thorn,appleton-thorn,GPE
+APPLETON,28845929,51,65,,"http://en.wikipedia.org/wiki/Appleton,_Illinois","Appleton, Illinois",appleton-illinois,appleton-illinois,UNK
+APPLETON,1197446,69,54,,http://en.wikipedia.org/wiki/Appleton_(music_duo),Appleton,appleton,appleton-music-duo,PER
+APPLETON,19671437,2,8,,http://en.wikipedia.org/wiki/Appleton_Building,Appleton Building,appleton-building,appleton-building,UNK
+APPLETON,30488228,20,37,,"http://en.wikipedia.org/wiki/Appleton,_Washington","Appleton, Washington",appleton-washington,appleton-washington,UNK
+APPLETON,439110,10,56,,"http://en.wikipedia.org/wiki/Appleton,_Newfoundland_and_Labrador","Appleton, Newfoundland and Labrador",appleton-newfoundland-and-labrador,appleton-newfoundland-and-labrador,UNK
+APPLETON,840713,2,2,396514,http://en.wikipedia.org/wiki/Edward_Appleton,Edward Appleton,edward-appleton,edward-appleton,PER
+APPLETON,3109288,12,36,1569390,"http://en.wikipedia.org/wiki/Appleton,_Warrington","Appleton, Warrington",appleton-warrington,appleton-warrington,UNK
+APPLETON,27807419,83,87,,"http://en.wikipedia.org/wiki/Appleton,_Arkansas","Appleton, Arkansas",appleton-arkansas,appleton-arkansas,GPE
+APPLETON,4505689,72,73,396514,http://en.wikipedia.org/wiki/Appleton_Tower,Appleton Tower,appleton-tower,appleton-tower,UNK
+APPLETON,121893,106,100,121894,"http://en.wikipedia.org/wiki/Appleton,_Minnesota","Appleton, Minnesota",appleton-minnesota,appleton-minnesota,GPE
+APPLETON,22600777,220,222,,"http://en.wikipedia.org/wiki/Appleton,_California","Appleton, California",appleton-california,appleton-california,UNK
+APPLETON,396514,302,268,840713;4505689,http://en.wikipedia.org/wiki/Edward_Victor_Appleton,Edward Victor Appleton,edward-victor-appleton,edward-victor-appleton,PER
+Wis,1365428,315,89,12585885,http://en.wikipedia.org/wiki/WISK,WISK,wisk,wisk,ORG
+Wis,33127,17871,909,33127;151294,http://en.wikipedia.org/wiki/Wisconsin,Wisconsin,wisconsin,wisconsin,UNK
+Wis,12585885,10,6,1365428,http://en.wikipedia.org/wiki/Wisk,Wisk,wisk,wisk,UNK
+Wis,2017360,112,212,,http://en.wikipedia.org/wiki/WIS,WIS,wis,wis,UNK
+Wis,1033203,1951,346,,http://en.wikipedia.org/wiki/Wisdom_in_Buddhism,Wisdom in Buddhism,wisdom-in-buddhism,wisdom-in-buddhism,UNK

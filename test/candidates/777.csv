@@ -1,0 +1,137 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Guinness Peat,33197064,49,55,31717,http://en.wikipedia.org/wiki/Guinness_Peat_Group,Guinness Peat Group,guinness-peat-group,guinness-peat-group,UNK
+SYDNEY,27862,23790,889,3293549;521158;1897;5204925;840646;2403;522978;3079;665230;4732785;23684447;3434750;189907;1113940;6469725;8856503;11533780;266313;3499711;396952;27862;31928;796228;31717;4689264,http://en.wikipedia.org/wiki/Sydney,Sydney,sydney,sydney,GPE
+SYDNEY,665230,60,54,31928;4689264;27862,http://en.wikipedia.org/wiki/Sydney_Hospital,Sydney Hospital,sydney-hospital,sydney-hospital,ORG
+SYDNEY,796228,537,286,31717;6469725;1495;3434750;4689264;171629;27862;11197621;1897;8856503;31928,http://en.wikipedia.org/wiki/City_of_Sydney,City of Sydney,city-of-sydney,city-of-sydney,UNK
+SYDNEY,1113940,907,353,1113940;4732785;2403;27862;4689264,http://en.wikipedia.org/wiki/Sydney_FC,Sydney FC,sydney-fc,sydney-fc,ORG
+SYDNEY,3499711,117,148,23684447;266313;4689264;840646;522978;27862;2403;6469725,http://en.wikipedia.org/wiki/Sydney_Park,Sydney Park,sydney-park,sydney-park,UNK
+SYDNEY,11533780,325,435,31717;3434750;4689264;27862,http://en.wikipedia.org/wiki/Sydney_International,Sydney International,sydney-international,sydney-international,UNK
+SYDNEY,58268,787,256,3293549,"http://en.wikipedia.org/wiki/Sydney,_Nova_Scotia","Sydney, Nova Scotia",sydney-nova-scotia,sydney-nova-scotia,GPE
+SYDNEY,8856503,166,170,4689264;171629;796228;27862;1495,http://en.wikipedia.org/wiki/Electoral_district_of_Sydney,Electoral district of Sydney,electoral-district-of-sydney,electoral-district-of-sydney,UNK
+SYDNEY,5941401,4,23,3434750,http://en.wikipedia.org/wiki/Sydney_Park_(actress),Sydney Park,sydney-park,sydney-park-actress,PER
+SYDNEY,1098693,16,55,,"http://en.wikipedia.org/wiki/Sydney,_Lady_Morgan","Sydney, Lady Morgan",sydney-lady-morgan,sydney-lady-morgan,PER
+SYDNEY,3293549,13,21,27862;3293668;3293549;58268,http://en.wikipedia.org/wiki/Sydney_River,Sydney River,sydney-river,sydney-river,UNK
+SYDNEY,23684447,146,28,266313;3499711;4689264;840646;522978;27862,http://en.wikipedia.org/wiki/Sydney_Theatre,Sydney Theatre,sydney-theatre,sydney-theatre,UNK
+SYDNEY,6469725,122,81,266313;3499711;4689264;840646;796228;522978;27862,http://en.wikipedia.org/wiki/Geography_of_Sydney,Geography of Sydney,geography-of-sydney,geography-of-sydney,UNK
+SYDNEY,1332907,8,10,,http://en.wikipedia.org/wiki/Baron_Sydney,Baron Sydney,baron-sydney,baron-sydney,PER
+SYDNEY,36436066,6,11,,http://en.wikipedia.org/wiki/Sydney_School,Sydney School,sydney-school,sydney-school,UNK
+SYDNEY,6163291,0,2,21773055,http://en.wikipedia.org/wiki/Sydney_Island,Sydney Island,sydney-island,sydney-island,UNK
+SYDNEY,266313,937,665,6469725;3499711;522978;27862;23684447;189907;4689264;840646,http://en.wikipedia.org/wiki/Sydney_Airport,Sydney Airport,sydney-airport,sydney-airport,UNK
+SYDNEY,21773055,1,8,6163291,http://en.wikipedia.org/wiki/Sydney_Island_(Queensland),Sydney Island,sydney-island,sydney-island-queensland,UNK
+SYDNEY,1101331,79,37,4689264,"http://en.wikipedia.org/wiki/Sydney_Road,_Melbourne","Sydney Road, Melbourne",sydney-road-melbourne,sydney-road-melbourne,UNK
+SYDNEY,522978,296,277,23684447;4689264;27862;6469725;266313;3499711;840646,http://en.wikipedia.org/wiki/Sydney_Tower,Sydney Tower,sydney-tower,sydney-tower,UNK
+SYDNEY,31928,3130,486,3434750;27862;3079;665230;31928;796228;4689264,http://en.wikipedia.org/wiki/University_of_Sydney,University of Sydney,university-of-sydney,university-of-sydney,ORG
+SYDNEY,2854921,43,11,,http://en.wikipedia.org/wiki/Sydney_Stadium,Sydney Stadium,sydney-stadium,sydney-stadium,UNK
+SYDNEY,3293668,25,9,3293668;3293549,"http://en.wikipedia.org/wiki/Sydney_River,_Nova_Scotia","Sydney River, Nova Scotia",sydney-river-nova-scotia,sydney-river-nova-scotia,GPE
+British-based,31717,184306,1536,1897;3079;4732785;22388;22199;11533780;27862;31717;796228;11197621;20706725;33197064;3434750;4689264;505873,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+Guinness Peat Group Plc,33197064,49,55,31717,http://en.wikipedia.org/wiki/Guinness_Peat_Group,Guinness Peat Group,guinness-peat-group,guinness-peat-group,UNK
+Australian,4689264,136194,1016,1495;1897;840646;2403;3079;4732785;6469725;11533780;266313;27862;31928;31717;796228;911650;11197621;23684447;1113940;1101331;8856503;3499711;396952;2048074;665230;165705;445359;3265305;171629;7122809;189907;1189447;3434750;4689264;521158;522978;514816,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australian,1189447,125,110,1495;4689264;171629,http://en.wikipedia.org/wiki/Australian_Conservation_Foundation,Australian Conservation Foundation,australian-conservation-foundation,australian-conservation-foundation,ORG
+Australian,840646,504,170,6469725;266313;3499711;23684447;4689264;522978;27862,http://en.wikipedia.org/wiki/Australian_Museum,Australian Museum,australian-museum,australian-museum,UNK
+Australian,396952,3151,159,27862;2048074;911650;39943361;171629;4689264,http://en.wikipedia.org/wiki/The_Australian,The Australian,the-australian,the-australian,UNK
+Australian,1495,8801,426,1495;1897;2048074;3079;8856503;1189447;165705;171629;7122809;796228;4689264,http://en.wikipedia.org/wiki/Australian_Labor_Party,Australian Labor Party,australian-labor-party,australian-labor-party,UNK
+Australian,39185064,2,5,,"http://en.wikipedia.org/wiki/Australian,_Windsor,_Richmond,_and_Hawkesbury_Advertiser","Australian, Windsor, Richmond, and Hawkesbury Advertiser",australian-windsor-richmond-and-hawkesbury-advertiser,australian-windsor-richmond-and-hawkesbury-advertiser,UNK
+Australian,17856651,6,15,,"http://en.wikipedia.org/wiki/Australian,_British_Columbia","Australian, British Columbia",australian-british-columbia,australian-british-columbia,GPE
+Australian,165705,1861,377,171629;1495;165705;2048074;4689264,http://en.wikipedia.org/wiki/Australian_Senate,Australian Senate,australian-senate,australian-senate,ORG
+Australian,4732785,8927,643,3434750;2403;3079;1113940;4732785;27862;31717;4689264,http://en.wikipedia.org/wiki/Australian_Football_League,Australian Football League,australian-football-league,australian-football-league,ORG
+Australian,7122809,188,252,4689264;3265305;11197621;1897;1495;3434750,http://en.wikipedia.org/wiki/American_Australian,American Australian,american-australian,american-australian,UNK
+Australian,3265305,267,285,7122809;4689264;11197621;1897,http://en.wikipedia.org/wiki/German_Australian,German Australian,german-australian,german-australian,UNK
+Australian,171629,2637,472,1189447;396952;1495;8856503;165705;2048074;796228;3079;4689264,http://en.wikipedia.org/wiki/Australian_Greens,Australian Greens,australian-greens,australian-greens,UNK
+Australian,911650,958,182,396952;4689264,http://en.wikipedia.org/wiki/Australian_Associated_Press,Australian Associated Press,australian-associated-press,australian-associated-press,ORG
+Australian,445359,156,205,4689264;514816,http://en.wikipedia.org/wiki/Australian_Cattle_Dog,Australian Cattle Dog,australian-cattle-dog,australian-cattle-dog,UNK
+Australian,2048074,28,109,396952;165705;1495;4689264;171629;3079,http://en.wikipedia.org/wiki/Australian_Party,Australian Party,australian-party,australian-party,ORG
+Australian,8574469,7,11,,http://en.wikipedia.org/wiki/Australian_Church,Australian Church,australian-church,australian-church,UNK
+Australian,3079,6230,535,1495;3434750;1897;2048074;3079;4732785;27862;171629;31928;31717;4689264,http://en.wikipedia.org/wiki/Australian_Broadcasting_Corporation,Australian Broadcasting Corporation,australian-broadcasting-corporation,australian-broadcasting-corporation,UNK
+Australian,5204925,35,29,27862,http://en.wikipedia.org/wiki/Australian_Club,Australian Club,australian-club,australian-club,ORG
+Australian,39943361,6,3,396952,http://en.wikipedia.org/wiki/The_Australian_(1824_newspaper),The Australian,the-australian,the-australian-1824-newspaper,UNK
+Australian,14859750,15,14,,http://en.wikipedia.org/wiki/Australian_Musician,Australian Musician,australian-musician,australian-musician,ORG
+Australian,189907,50,110,266313;4689264;27862,http://en.wikipedia.org/wiki/Australian_Airlines,Australian Airlines,australian-airlines,australian-airlines,UNK
+Australian,514816,205,185,4689264;445359;3434750,http://en.wikipedia.org/wiki/Australian_Shepherd,Australian Shepherd,australian-shepherd,australian-shepherd,UNK
+Australian,11197621,837,316,7122809;796228;31717;4689264;3265305;1897,http://en.wikipedia.org/wiki/Australians,Australians,australians,australians,UNK
+Australian,1897,945,509,2403;7122809;27862;796228;31717;3079;1495;3434750;4689264;3265305;11197621;1897,http://en.wikipedia.org/wiki/Australian_English,Australian English,australian-english,australian-english,UNK
+Australian,521158,1015,284,27862;4689264,http://en.wikipedia.org/wiki/Australian_Rugby_League,Australian Rugby League,australian-rugby-league,australian-rugby-league,PER
+Australian,2403,11032,495,1897;2403;1113940;3499711;4732785;27862;4689264,http://en.wikipedia.org/wiki/Australian_rules_football,Australian rules football,australian-rules-football,australian-rules-football,UNK
+Ohio,22199,26874,980,3123011;1458277;700378;9294374;3434750;888778;22388;22199;9289657;9410486;31717;20596236;7009068;238192;2479336;192358;505873;436898;61368;129914;126522;188299,http://en.wikipedia.org/wiki/Ohio,Ohio,ohio,ohio,UNK
+Ohio,8720749,20,37,3434750,"http://en.wikipedia.org/wiki/Ohio_City,_Colorado","Ohio City, Colorado",ohio-city-colorado,ohio-city-colorado,GPE
+Ohio,96087,331,241,536971;22388;96087;3434750,"http://en.wikipedia.org/wiki/Ohio_County,_Indiana","Ohio County, Indiana",ohio-county-indiana,ohio-county-indiana,GPE
+Ohio,536971,0,4,61368;95544;96087;505873,http://en.wikipedia.org/wiki/Ohio_County,Ohio County,ohio-county,ohio-county,UNK
+Ohio,700378,60,153,22199;505873;22388,http://en.wikipedia.org/wiki/Ohio_Company,Ohio Company,ohio-company,ohio-company,UNK
+Ohio,9294374,44,60,9410483;9410486;22388;3434750;13909864;9289657;22199,"http://en.wikipedia.org/wiki/Ohio_Township,_Monroe_County,_Ohio","Ohio Township, Monroe County, Ohio",ohio-township-monroe-county-ohio,ohio-township-monroe-county-ohio,GPE
+Ohio,8033169,0,11,,http://en.wikipedia.org/wiki/Ulmus_parvifolia_'Ohio',Ulmus parvifolia 'Ohio',ulmus-parvifolia-ohio,ulmus-parvifolia-ohio,UNK
+Ohio,3123011,119,137,129914;22199;3434750,"http://en.wikipedia.org/wiki/Ohio_City,_Cleveland","Ohio City, Cleveland",ohio-city-cleveland,ohio-city-cleveland,UNK
+Ohio,188299,42,46,22199,http://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726),USS Ohio,uss-ohio,uss-ohio-ssgn-726,UNK
+Ohio,20706725,6,26,3434750;31717,http://en.wikipedia.org/wiki/SS_Ohio_(1872),SS Ohio,ss-ohio,ss-ohio-1872,ORG
+Ohio,9635549,78,92,9410483;110844;3434750,"http://en.wikipedia.org/wiki/Ohio_Township,_Bureau_County,_Illinois","Ohio Township, Bureau County, Illinois",ohio-township-bureau-county-illinois,ohio-township-bureau-county-illinois,UNK
+Ohio,129914,46,58,3123011;7009068;3434750;22199,"http://en.wikipedia.org/wiki/Ohio_City,_Ohio","Ohio City, Ohio",ohio-city-ohio,ohio-city-ohio,GPE
+Ohio,13792085,33,48,9410483;35952324;3434750,"http://en.wikipedia.org/wiki/Ohio_Township,_Crawford_County,_Indiana","Ohio Township, Crawford County, Indiana",ohio-township-crawford-county-indiana,ohio-township-crawford-county-indiana,GPE
+Ohio,13909864,0,3,9289657;9294374;9410486,"http://en.wikipedia.org/wiki/Ohio_Township,_Ohio","Ohio Township, Ohio",ohio-township-ohio,ohio-township-ohio,UNK
+Ohio,7009068,0,80,129914;22199,http://en.wikipedia.org/wiki/Ohio_District,Ohio District,ohio-district,ohio-district,UNK
+Ohio,192358,32,40,22199,http://en.wikipedia.org/wiki/USS_Ohio_(BB-12),USS Ohio,uss-ohio,uss-ohio-bb-12,UNK
+Ohio,505873,261,599,700378;536971;22388;22199;31717;3434750,http://en.wikipedia.org/wiki/Ohio_Country,Ohio Country,ohio-country,ohio-country,UNK
+Ohio,61368,414,241,61368;3434750;536971;22388;22199,"http://en.wikipedia.org/wiki/Ohio_County,_West_Virginia","Ohio County, West Virginia",ohio-county-west-virginia,ohio-county-west-virginia,GPE
+Ohio,1553991,9,59,,http://en.wikipedia.org/wiki/439_Ohio,439 Ohio,439-ohio,439-ohio,UNK
+Ohio,22230970,5,9,22230920;22230812;21933118,"http://en.wikipedia.org/wiki/Ohio,_Yarmouth,_Nova_Scotia","Ohio, Yarmouth, Nova Scotia",ohio-yarmouth-nova-scotia,ohio-yarmouth-nova-scotia,GPE
+Ohio,9289657,32,49,9410483;9410486;22388;3434750;13909864;9294374;22199,"http://en.wikipedia.org/wiki/Ohio_Township,_Gallia_County,_Ohio","Ohio Township, Gallia County, Ohio",ohio-township-gallia-county-ohio,ohio-township-gallia-county-ohio,GPE
+Ohio,8543264,33,101,,http://en.wikipedia.org/wiki/Ohio_(Come_Back_to_Texas),Ohio,ohio,ohio-come-back-to-texas,UNK
+Ohio,13732749,38,46,9410483;35952324;3434750,"http://en.wikipedia.org/wiki/Ohio_Township,_Warrick_County,_Indiana","Ohio Township, Warrick County, Indiana",ohio-township-warrick-county-indiana,ohio-township-warrick-county-indiana,GPE
+Ohio,22230812,1,3,22230970;22230920;21933118,"http://en.wikipedia.org/wiki/Ohio,_Nova_Scotia","Ohio, Nova Scotia",ohio-nova-scotia,ohio-nova-scotia,UNK
+Ohio,126522,49,65,3434750;22199,"http://en.wikipedia.org/wiki/Ohio,_New_York","Ohio, New York",ohio-new-york,ohio-new-york,GPE
+Ohio,9410486,49,62,9410483;22388;3434750;13909864;9294374;9289657;22199,"http://en.wikipedia.org/wiki/Ohio_Township,_Clermont_County,_Ohio","Ohio Township, Clermont County, Ohio",ohio-township-clermont-county-ohio,ohio-township-clermont-county-ohio,GPE
+Ohio,20596236,286,258,22199,"http://en.wikipedia.org/wiki/Ohio_gubernatorial_election,_2010","Ohio gubernatorial election, 2010",ohio-gubernatorial-election-2010,ohio-gubernatorial-election-2010,PER
+Ohio,22388,3641,261,61368;95544;96087;3434750;505873;888778;436898;700378;5430296;22199;447879;9289657;9410486;441501;31717;9294374,http://en.wikipedia.org/wiki/Ohio_River,Ohio River,ohio-river,ohio-river,UNK
+Ohio,110844,84,91,9635549;3434750,"http://en.wikipedia.org/wiki/Ohio,_Illinois","Ohio, Illinois",ohio-illinois,ohio-illinois,UNK
+Ohio,35952324,0,4,13792085;13737396;13732749;13799796,"http://en.wikipedia.org/wiki/Ohio_Township,_Indiana","Ohio Township, Indiana",ohio-township-indiana,ohio-township-indiana,UNK
+Ohio,1458277,346,204,3434750;22199,http://en.wikipedia.org/wiki/Ohio_Northern_University,Ohio Northern University,ohio-northern-university,ohio-northern-university,ORG
+Ohio,30513379,59,80,9410483;3434750,"http://en.wikipedia.org/wiki/Ohio_Township,_Sedgwick_County,_Kansas","Ohio Township, Sedgwick County, Kansas",ohio-township-sedgwick-county-kansas,ohio-township-sedgwick-county-kansas,GPE
+Ohio,2479336,60,75,3434750;22199,"http://en.wikipedia.org/wiki/Center_of_the_World,_Ohio","Center of the World, Ohio",center-of-the-world-ohio,center-of-the-world-ohio,GPE
+Ohio,95544,413,264,95544;3434750;536971;22388,"http://en.wikipedia.org/wiki/Ohio_County,_Kentucky","Ohio County, Kentucky",ohio-county-kentucky,ohio-county-kentucky,GPE
+Ohio,13799796,47,57,9410483;35952324;3434750,"http://en.wikipedia.org/wiki/Ohio_Township,_Bartholomew_County,_Indiana","Ohio Township, Bartholomew County, Indiana",ohio-township-bartholomew-county-indiana,ohio-township-bartholomew-county-indiana,GPE
+Ohio,9410483,0,20,13792085;9635549;16488961;9294374;13737396;9410486;13799796;30513379;9289657;3434750;13732749,http://en.wikipedia.org/wiki/Ohio_Township,Ohio Township,ohio-township,ohio-township,GPE
+Ohio,16488961,36,50,9410483;3434750,"http://en.wikipedia.org/wiki/Ohio_Township,_Franklin_County,_Kansas","Ohio Township, Franklin County, Kansas",ohio-township-franklin-county-kansas,ohio-township-franklin-county-kansas,GPE
+Ohio,13737396,35,46,9410483;35952324;3434750,"http://en.wikipedia.org/wiki/Ohio_Township,_Spencer_County,_Indiana","Ohio Township, Spencer County, Indiana",ohio-township-spencer-county-indiana,ohio-township-spencer-county-indiana,GPE
+Ohio,131151,282,247,3434750,"http://en.wikipedia.org/wiki/Ohio_Township,_Allegheny_County,_Pennsylvania","Ohio Township, Allegheny County, Pennsylvania",ohio-township-allegheny-county-pennsylvania,ohio-township-allegheny-county-pennsylvania,GPE
+Ohio,21933118,3,8,22230970;22230920;22230812,"http://en.wikipedia.org/wiki/Ohio,_Antigonish_County","Ohio, Antigonish County",ohio-antigonish-county,ohio-antigonish-county,GPE
+Ohio,22230920,5,9,22230970;22230812;21933118,"http://en.wikipedia.org/wiki/Ohio,_Digby,_Nova_Scotia","Ohio, Digby, Nova Scotia",ohio-digby-nova-scotia,ohio-digby-nova-scotia,GPE
+U.S.,3434750,529967,1252,1897;3079;22388;22199;27862;31928;31717;61368;95544;96087;110844;129914;126522;131151;4689264;238192;233474;9294374;11533780;9289657;10328578;16488961;9410483;9410486;435793;436898;1458277;3434750;514816;2479336;505873;3868301;605077;20706725;7122809;9635549;4732785;8720749;796228;3123011;13737396;13732749;13799796;13792085;30513379;5941401,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S.,10328578,210,402,435793;10328648;10328590;3434750;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S.,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S.,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S.,16304842,112,175,8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S.,233474,102,93,3434750,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S.,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S.,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;70780;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S.,429750,276,240,887108;441501;79717;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S.,10328648,378,412,903062;10328590;10328578;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S.,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S.,21559355,95,143,,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S.,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S.,444113,128,143,,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S.,902392,245,190,22398962;436898;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S.,6737193,115,173,887108,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S.,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S.,605077,301,341,3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S.,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S.,889284,455,321,889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S.,79717,694,442,889461;435793;887108;9180009;441501;889284;429750;3868301;888778;447879;436898;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+U.S.,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S.,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S.,435793,251,290,889461;498188;888778;447879;436898;10328578;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S.,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S.,436898,769,483,889461;435793;887108;441501;22388;889284;429750;22199;902392;888778;447879;3434750;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S.,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S.,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S.,888778,214,271,887108;441501;79717;889461;22388;428913;70780;435793;447879;238192;429750;889284;436898;22199;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S.,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S.,238192,394,239,889461;888778;435793;447879;436898;10328648;3434750;10328620;75235;10328575;887108;441501;79717;428913;70780;903385;429750;889284;6310196;22199,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S.,889461,178,203,887108;441501;79717;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S.,903385,68,230,903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S.,2440624,133,162,70780;3868301,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S.,5430296,83,224,441501;22388,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+U.S.,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S.,447879,394,337,16304842;889461;903062;888778;435793;436898;75235;10328575;887108;9180009;441501;79717;22388;428913;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S.,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;887108;10540092;79717;22388;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S.,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S.,70780,396,232,889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S.,3868301,350,531,3434750;2440624;79717;70780,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S.,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S.,6310196,592,545,435793;10328648;10328590;10328578;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK

@@ -1,0 +1,77 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Burundi,1212797,265,220,1076998;16278518;1145024;21490998;250680;1029953;715265,http://en.wikipedia.org/wiki/Burundi_national_football_team,Burundi national football team,burundi-national-football-team,burundi-national-football-team,UNK
+Burundi,1812595,131,83,21490998;16278518;3695,http://en.wikipedia.org/wiki/Kingdom_of_Burundi,Kingdom of Burundi,kingdom-of-burundi,kingdom-of-burundi,GPE
+Burundi,21490998,4628,438,1812595;2082570;21490998;27308;12176;12186;1212797;3695;56617;715265;30188;5478;6293;16278518,http://en.wikipedia.org/wiki/Burundi,Burundi,burundi,burundi,GPE
+Burundi,3695,104,149,1812595;12178;21490998;16278518;3695;50810;27310,http://en.wikipedia.org/wiki/Geography_of_Burundi,Geography of Burundi,geography-of-burundi,geography-of-burundi,ORG
+Burundi,2082570,11,15,16278518;21490998,http://en.wikipedia.org/wiki/University_of_Burundi,University of Burundi,university-of-burundi,university-of-burundi,UNK
+Burundi,16278518,31,332,1812595;3695;2082570;21490998;1212797,http://en.wikipedia.org/wiki/Outline_of_Burundi,Outline of Burundi,outline-of-burundi,outline-of-burundi,GPE
+African Cup,250680,1907,249,3722802;715265;30188;1029953;1076998;6293;250680;1145024;1212797,http://en.wikipedia.org/wiki/Africa_Cup_of_Nations,Africa Cup of Nations,africa-cup-of-nations,africa-cup-of-nations,UNK
+CAIRO,6293,7881,761,8311301;609874;21490998;9170686;56617;715265;5478;1633082;589227;30207616;250680;128880;27308;12176;12186;3722802;30188;110129;138601,http://en.wikipedia.org/wiki/Cairo,Cairo,cairo,cairo,GPE
+CAIRO,2585465,5,13,,http://en.wikipedia.org/wiki/Cairo_(band),Cairo,cairo,cairo-band,UNK
+CAIRO,121532,40,61,,"http://en.wikipedia.org/wiki/Cairo_Township,_Renville_County,_Minnesota","Cairo Township, Renville County, Minnesota",cairo-township-renville-county-minnesota,cairo-township-renville-county-minnesota,GPE
+CAIRO,128880,39,59,6293;17814064,"http://en.wikipedia.org/wiki/Cairo,_Ohio","Cairo, Ohio",cairo-ohio,cairo-ohio,GPE
+CAIRO,28775766,0,6,110805,"http://en.wikipedia.org/wiki/Cairo,_Illinois_riot","Cairo, Illinois riot",cairo-illinois-riot,cairo-illinois-riot,UNK
+CAIRO,110805,428,272,28775766;124820;1345497,"http://en.wikipedia.org/wiki/Cairo,_Illinois","Cairo, Illinois",cairo-illinois,cairo-illinois,GPE
+CAIRO,1633082,21,30,9170686;6293,http://en.wikipedia.org/wiki/Cairo_Tower,Cairo Tower,cairo-tower,cairo-tower,UNK
+CAIRO,589227,690,215,6293;9170686,http://en.wikipedia.org/wiki/Cairo_International_Airport,Cairo International Airport,cairo-international-airport,cairo-international-airport,UNK
+CAIRO,37044100,1,2,37032225;37044213,"http://en.wikipedia.org/wiki/Cairo,_Tennessee","Cairo, Tennessee",cairo-tennessee,cairo-tennessee,UNK
+CAIRO,37032225,25,42,37044100,"http://en.wikipedia.org/wiki/Cairo,_Sumner_County,_Tennessee","Cairo, Sumner County, Tennessee",cairo-sumner-county-tennessee,cairo-sumner-county-tennessee,GPE
+CAIRO,10719401,47,49,,http://en.wikipedia.org/wiki/El_Cairo,El Cairo,el-cairo,el-cairo,GPE
+CAIRO,17814064,56,64,128880,"http://en.wikipedia.org/wiki/Cairo,_Stark_County,_Ohio","Cairo, Stark County, Ohio",cairo-stark-county-ohio,cairo-stark-county-ohio,GPE
+CAIRO,123944,14,29,,"http://en.wikipedia.org/wiki/Cairo,_Nebraska","Cairo, Nebraska",cairo-nebraska,cairo-nebraska,GPE
+CAIRO,1062161,252,109,,http://en.wikipedia.org/wiki/Cairo_(graphics),Cairo,cairo,cairo-graphics,UNK
+CAIRO,1345497,200,159,110805,http://en.wikipedia.org/wiki/USS_Cairo,USS Cairo,uss-cairo,uss-cairo,UNK
+CAIRO,138601,284,309,6293,"http://en.wikipedia.org/wiki/Cairo,_West_Virginia","Cairo, West Virginia",cairo-west-virginia,cairo-west-virginia,GPE
+CAIRO,259813,16,61,259812,"http://en.wikipedia.org/wiki/Cairo,_New_York","Cairo, New York",cairo-new-york,cairo-new-york,GPE
+CAIRO,259812,44,50,259813,"http://en.wikipedia.org/wiki/Cairo_(CDP),_New_York","Cairo (CDP), New York",cairo-cdp-new-york,cairo-cdp-new-york,GPE
+CAIRO,37044213,12,30,37044100,"http://en.wikipedia.org/wiki/Cairo,_Crockett_County,_Tennessee","Cairo, Crockett County, Tennessee",cairo-crockett-county-tennessee,cairo-crockett-county-tennessee,GPE
+CAIRO,8311301,104,63,6293;9170686,http://en.wikipedia.org/wiki/Old_Cairo,Old Cairo,old-cairo,old-cairo,UNK
+CAIRO,1064205,93,86,,http://en.wikipedia.org/wiki/Cairo_(operating_system),Cairo,cairo,cairo-operating-system,UNK
+CAIRO,110129,96,62,6293,"http://en.wikipedia.org/wiki/Cairo,_Georgia","Cairo, Georgia",cairo-georgia,cairo-georgia,GPE
+CAIRO,9170686,172,124,589227;8311301;6293;1633082,http://en.wikipedia.org/wiki/Greater_Cairo,Greater Cairo,greater-cairo,greater-cairo,UNK
+CAIRO,30207616,54,62,6293,http://en.wikipedia.org/wiki/Capture_of_Cairo,Capture of Cairo,capture-of-cairo,capture-of-cairo,UNK
+CAIRO,4284914,7,7,,http://en.wikipedia.org/wiki/Cairo_Road,Cairo Road,cairo-road,cairo-road,UNK
+CAIRO,25532531,28,42,,"http://en.wikipedia.org/wiki/Cairo,_Oregon","Cairo, Oregon",cairo-oregon,cairo-oregon,GPE
+CAIRO,609874,556,16,6293,http://en.wikipedia.org/wiki/Cairo_University,Cairo University,cairo-university,cairo-university,ORG
+CAIRO,7320081,2,39,,http://en.wikipedia.org/wiki/The_Cairo,The Cairo,the-cairo,the-cairo,UNK
+CAIRO,25626519,27,32,,http://en.wikipedia.org/wiki/Cairo_Station,Cairo Station,cairo-station,cairo-station,UNK
+CAIRO,124820,18,33,110805,"http://en.wikipedia.org/wiki/Cairo,_Missouri","Cairo, Missouri",cairo-missouri,cairo-missouri,GPE
+African Football Confederation,715265,3921,776,615800;1076998;21490998;250680;1145024;27308;12176;12186;1212797;3722802;30188;1029953;5478;6293,http://en.wikipedia.org/wiki/Confederation_of_African_Football,Confederation of African Football,confederation-of-african-football,confederation-of-african-football,ORG
+CAF,715265,3921,776,615800;1076998;21490998;250680;1145024;27308;12176;12186;1212797;3722802;30188;1029953;5478;6293,http://en.wikipedia.org/wiki/Confederation_of_African_Football,Confederation of African Football,confederation-of-african-football,confederation-of-african-football,ORG
+CAF,1855782,22,50,,http://en.wikipedia.org/wiki/Cafeteria_Christianity,Cafeteria Christianity,cafeteria-christianity,cafeteria-christianity,UNK
+CAF,3722802,588,118,3722802;6293;250680;715265;30188,http://en.wikipedia.org/wiki/CAF_Super_Cup,CAF Super Cup,caf-super-cup,caf-super-cup,UNK
+CAF,6868,2251,1115,727909,http://en.wikipedia.org/wiki/Caffeine,Caffeine,caffeine,caffeine,UNK
+CAF,727909,185,143,6868,http://en.wikipedia.org/wiki/Café_au_lait,Café au lait,cafe-au-lait,cafe-au-lait,UNK
+CAF,2182339,76,65,2182339,http://en.wikipedia.org/wiki/Café_racer,Café racer,cafe-racer,cafe-racer,UNK
+CAF,615800,441,393,715265,http://en.wikipedia.org/wiki/Cafu,Cafu,cafu,cafu,PER
+CAF,625856,164,119,,http://en.wikipedia.org/wiki/Café_Tacuba,Café Tacuba,cafe-tacuba,cafe-tacuba,UNK
+African Nations Cup,250680,1907,249,3722802;715265;30188;1029953;1076998;6293;250680;1145024;1212797,http://en.wikipedia.org/wiki/Africa_Cup_of_Nations,Africa Cup of Nations,africa-cup-of-nations,africa-cup-of-nations,UNK
+Central African Republic,5478,5042,570,21490998;27308;12176;12186;3746903;56617;715265;30188;5478;6293;247789,http://en.wikipedia.org/wiki/Central_African_Republic,Central African Republic,central-african-republic,central-african-republic,GPE
+Central African Republic,247789,222,141,5478;247789,http://en.wikipedia.org/wiki/Music_of_the_Central_African_Republic,Music of the Central African Republic,music-of-the-central-african-republic,music-of-the-central-african-republic,ORG
+Bangui,56617,541,322,5478;27308;6293;12176;21490998;12186;30188;3746903,http://en.wikipedia.org/wiki/Bangui,Bangui,bangui,bangui,GPE
+Bangui,25547429,261,264,,"http://en.wikipedia.org/wiki/Bangui,_Niger","Bangui, Niger",bangui-niger,bangui-niger,GPE
+Bangui,3746903,7,9,5478;56617,http://en.wikipedia.org/wiki/University_of_Bangui,University of Bangui,university-of-bangui,university-of-bangui,ORG
+Bangui,2068004,55,43,,"http://en.wikipedia.org/wiki/Bangui,_Ilocos_Norte","Bangui, Ilocos Norte",bangui-ilocos-norte,bangui-ilocos-norte,UNK
+Guinea,1076998,514,268,1145024;12176;1212797;250680;715265;1029953,http://en.wikipedia.org/wiki/Guinea_national_football_team,Guinea national football team,guinea-national-football-team,guinea-national-football-team,UNK
+Guinea,1023026,78,127,27308;12176;12186;225453,http://en.wikipedia.org/wiki/Guinea_(region),Guinea,guinea,guinea-region,GPE
+Guinea,27452408,141,153,,"http://en.wikipedia.org/wiki/Guinea,_Virginia","Guinea, Virginia",guinea-virginia,guinea-virginia,GPE
+Guinea,225453,990,97,1023026,http://en.wikipedia.org/wiki/Guinea_(British_coin),Guinea,guinea,guinea-british-coin,UNK
+Guinea,32851811,1,7,32851811,"http://en.wikipedia.org/wiki/Guinea,_Álava","Guinea, Álava",guinea-alava,guinea-alava,UNK
+Guinea,12178,116,99,12176;12186;3695;50810;27308;27310,http://en.wikipedia.org/wiki/Geography_of_Guinea,Geography of Guinea,geography-of-guinea,geography-of-guinea,ORG
+Guinea,256059,103,29,,http://en.wikipedia.org/wiki/Guineafowl,Guineafowl,guineafowl,guineafowl,ORG
+Guinea,21950293,2,6,,"http://en.wikipedia.org/wiki/Guinea,_Nova_Scotia","Guinea, Nova Scotia",guinea-nova-scotia,guinea-nova-scotia,GPE
+Guinea,12186,3412,585,21490998;27308;12176;12178;12186;56617;715265;30188;5478;6293;1023026,http://en.wikipedia.org/wiki/Guinea-Bissau,Guinea-Bissau,guinea-bissau,guinea-bissau,GPE
+Guinea,12176,6565,471,1076998;21490998;1145024;56617;715265;5478;6293;2477816;27308;27310;12176;12178;12186;11955248;30188;1023026,http://en.wikipedia.org/wiki/Guinea,Guinea,guinea,guinea,GPE
+Guinea,11955248,53,72,5720108;12176;27308,http://en.wikipedia.org/wiki/Guinea_Company_(London),Guinea Company,guinea-company,guinea-company-london,UNK
+Sierra Leone,1145024,442,282,1076998;27308;12176;1212797;250680;11666985;715265;1029953,http://en.wikipedia.org/wiki/Sierra_Leone_national_football_team,Sierra Leone national football team,sierra-leone-national-football-team,sierra-leone-national-football-team,UNK
+Sierra Leone,7522458,41,5,27308,http://en.wikipedia.org/wiki/University_of_Sierra_Leone,University of Sierra Leone,university-of-sierra-leone,university-of-sierra-leone,ORG
+Sierra Leone,2477816,313,180,27308;27310;12176;5720108;2477816,http://en.wikipedia.org/wiki/Sierra_Leone_Civil_War,Sierra Leone Civil War,sierra-leone-civil-war,sierra-leone-civil-war,UNK
+Sierra Leone,31283023,90,97,27308,http://en.wikipedia.org/wiki/Sierra_Leone_(Commonwealth_realm),Sierra Leone,sierra-leone,sierra-leone-commonwealth-realm,GPE
+Sierra Leone,5720108,109,82,27308;11955248;2477816,http://en.wikipedia.org/wiki/Sierra_Leone_Company,Sierra Leone Company,sierra-leone-company,sierra-leone-company,PER
+Sierra Leone,27310,85,118,12176;12178;3695;50810;27308;2477816,http://en.wikipedia.org/wiki/Geography_of_Sierra_Leone,Geography of Sierra Leone,geography-of-sierra-leone,geography-of-sierra-leone,UNK
+Sierra Leone,11666985,28,17,27308;1145024,http://en.wikipedia.org/wiki/Sierra_Leone_River,Sierra Leone River,sierra-leone-river,sierra-leone-river,UNK
+Sierra Leone,27308,7913,832,7522458;21490998;11666985;1145024;56617;715265;5478;5720108;6293;2477816;31283023;27308;27310;12176;12178;12186;11955248;30188;1023026,http://en.wikipedia.org/wiki/Sierra_Leone,Sierra Leone,sierra-leone,sierra-leone,GPE
+Tunisia,1029953,1273,479,1076998;250680;715265;30188;1145024;1212797,http://en.wikipedia.org/wiki/Tunisia_national_football_team,Tunisia national football team,tunisia-national-football-team,tunisia-national-football-team,UNK
+Tunisia,50810,103,126,33227645;12178;30188;3695;27310,http://en.wikipedia.org/wiki/Geography_of_Tunisia,Geography of Tunisia,geography-of-tunisia,geography-of-tunisia,UNK
+Tunisia,30188,13675,625,21490998;5478;6293;12176;12186;3722802;50810;56617;715265;1029953;33227645;250680;27308;30188,http://en.wikipedia.org/wiki/Tunisia,Tunisia,tunisia,tunisia,GPE
+Tunisia,33227645,12,134,30188;50810,http://en.wikipedia.org/wiki/Kingdom_of_Tunisia,Kingdom of Tunisia,kingdom-of-tunisia,kingdom-of-tunisia,GPE

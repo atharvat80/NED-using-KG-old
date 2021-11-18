@@ -1,0 +1,173 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+THOMSON,12065059,20,30,,"http://en.wikipedia.org/wiki/Don_Thomson,_Jr.","Don Thomson, Jr.",don-thomson-jr,don-thomson-jr,PER
+THOMSON,20599012,4,10,16941582,http://en.wikipedia.org/wiki/Arthur_Thomson_(footballer_born_1903),Arthur Thomson,arthur-thomson,arthur-thomson-footballer-born-1903,PER
+THOMSON,3492692,0,2,3493598;3489773,http://en.wikipedia.org/wiki/Thomson_Road,Thomson Road,thomson-road,thomson-road,GPE
+THOMSON,624714,93,70,70085,http://en.wikipedia.org/wiki/Thomson_scattering,Thomson scattering,thomson-scattering,thomson-scattering,UNK
+THOMSON,12125701,2,7,,http://en.wikipedia.org/wiki/Don_Thomson,Don Thomson,don-thomson,don-thomson,PER
+THOMSON,16941582,0,8,20599012;10305406;26280504;29141064;7413566;30102753,http://en.wikipedia.org/wiki/Arthur_Thomson,Arthur Thomson,arthur-thomson,arthur-thomson,PER
+THOMSON,119613,56,80,119614,"http://en.wikipedia.org/wiki/Thomson,_Minnesota","Thomson, Minnesota",thomson-minnesota,thomson-minnesota,GPE
+THOMSON,34451875,0,2,94545;119614,http://en.wikipedia.org/wiki/Thomson_Township,Thomson Township,thomson-township,thomson-township,GPE
+THOMSON,1358303,8,3,1358275;3793286,http://en.wikipedia.org/wiki/Thomson_River,Thomson River,thomson-river,thomson-river,UNK
+THOMSON,70085,537,371,4905213;725910;624714,http://en.wikipedia.org/wiki/J._J._Thomson,J. J. Thomson,j-j-thomson,j-j-thomson,PER
+THOMSON,110863,58,317,,"http://en.wikipedia.org/wiki/Thomson,_Illinois","Thomson, Illinois",thomson-illinois,thomson-illinois,ORG
+THOMSON,6228612,2,3,,http://en.wikipedia.org/wiki/Baron_Thomson,Baron Thomson,baron-thomson,baron-thomson,PER
+THOMSON,3493598,88,84,3492692,"http://en.wikipedia.org/wiki/Thomson_Road,_Hong_Kong","Thomson Road, Hong Kong",thomson-road-hong-kong,thomson-road-hong-kong,UNK
+THOMSON,30102753,1,8,16941582;26994;880348,http://en.wikipedia.org/wiki/Arthur_Thomson_(footballer_born_1948),Arthur Thomson,arthur-thomson,arthur-thomson-footballer-born-1948,PER
+THOMSON,7413566,7,20,16941582,http://en.wikipedia.org/wiki/A._A._Thomson,A. A. Thomson,a-a-thomson,a-a-thomson,PER
+THOMSON,32768347,6,6,,http://en.wikipedia.org/wiki/Thomson_Park_(Fiji),Thomson Park,thomson-park,thomson-park-fiji,PER
+THOMSON,10305406,14,12,16941582,http://en.wikipedia.org/wiki/Arthur_Thomson_(fanzines),Arthur Thomson,arthur-thomson,arthur-thomson-fanzines,UNK
+THOMSON,483185,139,102,,http://en.wikipedia.org/wiki/Thomson_Corporation,Thomson Corporation,thomson-corporation,thomson-corporation,UNK
+THOMSON,3489773,97,64,3492692;26994;1497690,"http://en.wikipedia.org/wiki/Thomson_Road,_Singapore","Thomson Road, Singapore",thomson-road-singapore,thomson-road-singapore,UNK
+THOMSON,26280504,4,11,16941582,http://en.wikipedia.org/wiki/Arthur_Thomson_(anatomist),Arthur Thomson,arthur-thomson,arthur-thomson-anatomist,UNK
+THOMSON,39271000,13,6,,http://en.wikipedia.org/wiki/Thomson_Foundation,Thomson Foundation,thomson-foundation,thomson-foundation,ORG
+THOMSON,3793286,184,207,1358303,http://en.wikipedia.org/wiki/Thomson_River_(Victoria),Thomson River,thomson-river,thomson-river-victoria,UNK
+THOMSON,119614,52,78,119613;34451875,"http://en.wikipedia.org/wiki/Thomson_Township,_Carlton_County,_Minnesota","Thomson Township, Carlton County, Minnesota",thomson-township-carlton-county-minnesota,thomson-township-carlton-county-minnesota,GPE
+THOMSON,4905213,7,12,70085,http://en.wikipedia.org/wiki/Thomson_(unit),Thomson,thomson,thomson-unit,UNK
+THOMSON,29141064,4,16,16941582,http://en.wikipedia.org/wiki/Arthur_Thomson_(physician),Arthur Thomson,arthur-thomson,arthur-thomson-physician,PER
+THOMSON,725910,274,238,70085,http://en.wikipedia.org/wiki/George_Paget_Thomson,George Paget Thomson,george-paget-thomson,george-paget-thomson,PER
+THOMSON,4641444,19,27,,http://en.wikipedia.org/wiki/Edward_Thomson,Edward Thomson,edward-thomson,edward-thomson,PER
+THOMSON,110248,202,174,,"http://en.wikipedia.org/wiki/Thomson,_Georgia","Thomson, Georgia",thomson-georgia,thomson-georgia,GPE
+THOMSON,1497690,204,214,3489773,"http://en.wikipedia.org/wiki/Thomson,_Singapore","Thomson, Singapore",thomson-singapore,thomson-singapore,UNK
+THOMSON,1358275,107,107,1358303,http://en.wikipedia.org/wiki/Thomson_River_(Queensland),Thomson River,thomson-river,thomson-river-queensland,UNK
+THOMSON,8030610,0,17,,http://en.wikipedia.org/wiki/Ulmus_davidiana_var._japonica_'Thomson',Ulmus davidiana var. japonica 'Thomson',ulmus-davidiana-var-japonica-thomson,ulmus-davidiana-var-japonica-thomson,UNK
+THOMSON,22014052,4,6,,"http://en.wikipedia.org/wiki/Thomson_Station,_Nova_Scotia","Thomson Station, Nova Scotia",thomson-station-nova-scotia,thomson-station-nova-scotia,GPE
+THOMSON,5140823,68,71,,"http://en.wikipedia.org/wiki/Thomson,_Victoria","Thomson, Victoria",thomson-victoria,thomson-victoria,UNK
+RAITH ROVERS,880348,1401,249,880348;30102753;69713;69708;23213228;226426;578101;26994;355074;350216,http://en.wikipedia.org/wiki/Raith_Rovers_F.C.,Raith Rovers F.C.,raith-rovers-fc,raith-rovers-fc,UNK
+KIRKCALDY,355074,592,263,880348;69708;26994,http://en.wikipedia.org/wiki/Kirkcaldy,Kirkcaldy,kirkcaldy,kirkcaldy,GPE
+KIRKCALDY,24545740,394,431,,"http://en.wikipedia.org/wiki/Kirkcaldy,_Alberta","Kirkcaldy, Alberta",kirkcaldy-alberta,kirkcaldy-alberta,GPE
+Scotland,26994,59696,1247,3489773;19833303;17475610;7838122;8458308;5261;5920;16166211;134736;569201;157602;23248387;578101;30102753;1138164;26994;28298428;2286781;27382059;23213228;39852802;69713;69708;350216;3124987;355074;22829002;758049;226426;94545;93249;215398;24068911;23293171;880348;2595680;506182;7474609;1349199,http://en.wikipedia.org/wiki/Scotland,Scotland,scotland,scotland,GPE
+Scotland,2565278,29,32,,"http://en.wikipedia.org/wiki/Scotland,_Arkansas","Scotland, Arkansas",scotland-arkansas,scotland-arkansas,UNK
+Scotland,3755676,19,24,,"http://en.wikipedia.org/wiki/Scotland,_Florida","Scotland, Florida",scotland-florida,scotland-florida,UNK
+Scotland,29702949,59,65,2595680,"http://en.wikipedia.org/wiki/Scotland,_Pennsylvania","Scotland, Pennsylvania",scotland-pennsylvania,scotland-pennsylvania,GPE
+Scotland,34406561,0,6,10263724,http://en.wikipedia.org/wiki/Scotland_Township,Scotland Township,scotland-township,scotland-township,GPE
+Scotland,3124987,339,398,157602;3124987;26994;23248387,http://en.wikipedia.org/wiki/Geography_of_Scotland,Geography of Scotland,geography-of-scotland,geography-of-scotland,UNK
+Scotland,94545,433,283,26980591;94545;535528;26994;34451875,"http://en.wikipedia.org/wiki/Scotland_County,_Missouri","Scotland County, Missouri",scotland-county-missouri,scotland-county-missouri,GPE
+Scotland,15129947,63,70,,"http://en.wikipedia.org/wiki/Scotland,_Indiana","Scotland, Indiana",scotland-indiana,scotland-indiana,GPE
+Scotland,3161801,20,35,,"http://en.wikipedia.org/wiki/Scotland,_Virginia","Scotland, Virginia",scotland-virginia,scotland-virginia,GPE
+Scotland,9298757,49,45,,"http://en.wikipedia.org/wiki/Scotland,_Maryland","Scotland, Maryland",scotland-maryland,scotland-maryland,GPE
+Scotland,1349199,22,27,26994,http://en.wikipedia.org/wiki/Scotland_Road,Scotland Road,scotland-road,scotland-road,UNK
+Scotland,2286781,339,136,7838122;26994,http://en.wikipedia.org/wiki/Scotland_Rugby_League,Scotland Rugby League,scotland-rugby-league,scotland-rugby-league,UNK
+Scotland,26980591,31,36,94545,"http://en.wikipedia.org/wiki/Scotland,_Missouri","Scotland, Missouri",scotland-missouri,scotland-missouri,GPE
+Scotland,22828968,0,5,12891901;22829002,http://en.wikipedia.org/wiki/Scotland_Street,Scotland Street,scotland-street,scotland-street,UNK
+Scotland,8458308,78,114,26994,http://en.wikipedia.org/wiki/Scotland_(The_Goodies),Scotland,scotland,scotland-the-goodies,UNK
+Scotland,10263724,39,298,34406561,"http://en.wikipedia.org/wiki/Scotland_Township,_McDonough_County,_Illinois","Scotland Township, McDonough County, Illinois",scotland-township-mcdonough-county-illinois,scotland-township-mcdonough-county-illinois,UNK
+Scotland,22829002,12,11,26994;22828968,"http://en.wikipedia.org/wiki/Scotland_Street,_Glasgow","Scotland Street, Glasgow",scotland-street-glasgow,scotland-street-glasgow,UNK
+Scotland,23248387,2100,436,157602;5920;23248387;3124987;26994,http://en.wikipedia.org/wiki/Kingdom_of_Scotland,Kingdom of Scotland,kingdom-of-scotland,kingdom-of-scotland,GPE
+Scotland,7838122,127,93,26994;2286781,http://en.wikipedia.org/wiki/Scotland_GAA,Scotland GAA,scotland-gaa,scotland-gaa,GPE
+Scotland,2579874,42,99,,"http://en.wikipedia.org/wiki/Scotland_Island,_New_South_Wales","Scotland Island, New South Wales",scotland-island-new-south-wales,scotland-island-new-south-wales,UNK
+Scotland,93249,356,272,93249;535528;26994,"http://en.wikipedia.org/wiki/Scotland_County,_North_Carolina","Scotland County, North Carolina",scotland-county-north-carolina,scotland-county-north-carolina,GPE
+Scotland,758049,2714,553,69713;578101;26994,http://en.wikipedia.org/wiki/Scotland_national_rugby_union_team,Scotland national rugby union team,scotland-national-rugby-union-team,scotland-national-rugby-union-team,UNK
+Scotland,39852802,1,10,26994,http://en.wikipedia.org/wiki/Scotland_Institute,Scotland Institute,scotland-institute,scotland-institute,UNK
+Scotland,151103,20,44,,"http://en.wikipedia.org/wiki/Scotland,_Texas","Scotland, Texas",scotland-texas,scotland-texas,GPE
+Scotland,134736,32,52,26994,"http://en.wikipedia.org/wiki/Scotland,_South_Dakota","Scotland, South Dakota",scotland-south-dakota,scotland-south-dakota,GPE
+Scotland,108875,73,109,,"http://en.wikipedia.org/wiki/Scotland,_Connecticut","Scotland, Connecticut",scotland-connecticut,scotland-connecticut,GPE
+Scotland,535528,0,2,94545;93249,http://en.wikipedia.org/wiki/Scotland_County,Scotland County,scotland-county,scotland-county,UNK
+Scotland,569201,907,241,69713;569201;226426;578101;26994,http://en.wikipedia.org/wiki/BBC_Scotland,BBC Scotland,bbc-scotland,bbc-scotland,UNK
+Scotland,2595680,147,158,26994;29702949,"http://en.wikipedia.org/wiki/Scotland,_PA","Scotland, PA",scotland-pa,scotland-pa,UNK
+Scotland,12891901,136,120,22828968,"http://en.wikipedia.org/wiki/Scotland_Street,_Suffolk","Scotland Street, Suffolk",scotland-street-suffolk,scotland-street-suffolk,UNK
+Scotland,110367,22,34,,"http://en.wikipedia.org/wiki/Scotland,_Georgia","Scotland, Georgia",scotland-georgia,scotland-georgia,GPE
+Scotland,578101,5193,593,880348;69713;69708;350216;506182;578101;26994;9055669;569201;215398;758049,http://en.wikipedia.org/wiki/Scotland_national_football_team,Scotland national football team,scotland-national-football-team,scotland-national-football-team,ORG
+Scotland,157602,543,503,3124987;26994;23248387,http://en.wikipedia.org/wiki/Tourism_in_Scotland,Tourism in Scotland,tourism-in-scotland,tourism-in-scotland,UNK
+Jimmy Thomson,23213228,95,98,26994;880348,http://en.wikipedia.org/wiki/Jimmy_Thomson_(footballer),Jimmy Thomson,jimmy-thomson,jimmy-thomson-footballer,PER
+Jimmy Thomson,19833303,13,20,26994,http://en.wikipedia.org/wiki/Jimmy_Thomson_(golfer),Jimmy Thomson,jimmy-thomson,jimmy-thomson-golfer,PER
+Jimmy Thomson,3842812,1,31,,"http://en.wikipedia.org/wiki/Jimmy_Thomson_(ice_hockey,_born_1927)",Jimmy Thomson,jimmy-thomson,jimmy-thomson-ice-hockey-born-1927,PER
+Scotland,226426,2368,256,880348;69713;69708;569201;226426;350216;215398;506182;26994,http://en.wikipedia.org/wiki/Scottish_Premier_League,Scottish Premier League,scottish-premier-league,scottish-premier-league,ORG
+Raith Rovers,880348,1401,249,880348;30102753;69713;69708;23213228;226426;578101;26994;355074;350216,http://en.wikipedia.org/wiki/Raith_Rovers_F.C.,Raith Rovers F.C.,raith-rovers-fc,raith-rovers-fc,UNK
+Thomson,12065059,20,30,,"http://en.wikipedia.org/wiki/Don_Thomson,_Jr.","Don Thomson, Jr.",don-thomson-jr,don-thomson-jr,PER
+Thomson,20599012,4,10,16941582,http://en.wikipedia.org/wiki/Arthur_Thomson_(footballer_born_1903),Arthur Thomson,arthur-thomson,arthur-thomson-footballer-born-1903,PER
+Thomson,3492692,0,2,3493598;3489773,http://en.wikipedia.org/wiki/Thomson_Road,Thomson Road,thomson-road,thomson-road,GPE
+Thomson,624714,93,70,70085,http://en.wikipedia.org/wiki/Thomson_scattering,Thomson scattering,thomson-scattering,thomson-scattering,UNK
+Thomson,12125701,2,7,,http://en.wikipedia.org/wiki/Don_Thomson,Don Thomson,don-thomson,don-thomson,PER
+Thomson,16941582,0,8,20599012;10305406;26280504;29141064;7413566;30102753,http://en.wikipedia.org/wiki/Arthur_Thomson,Arthur Thomson,arthur-thomson,arthur-thomson,PER
+Thomson,119613,56,80,119614,"http://en.wikipedia.org/wiki/Thomson,_Minnesota","Thomson, Minnesota",thomson-minnesota,thomson-minnesota,GPE
+Thomson,34451875,0,2,94545;119614,http://en.wikipedia.org/wiki/Thomson_Township,Thomson Township,thomson-township,thomson-township,GPE
+Thomson,1358303,8,3,1358275;3793286,http://en.wikipedia.org/wiki/Thomson_River,Thomson River,thomson-river,thomson-river,UNK
+Thomson,70085,537,371,4905213;725910;624714,http://en.wikipedia.org/wiki/J._J._Thomson,J. J. Thomson,j-j-thomson,j-j-thomson,PER
+Thomson,110863,58,317,,"http://en.wikipedia.org/wiki/Thomson,_Illinois","Thomson, Illinois",thomson-illinois,thomson-illinois,ORG
+Thomson,6228612,2,3,,http://en.wikipedia.org/wiki/Baron_Thomson,Baron Thomson,baron-thomson,baron-thomson,PER
+Thomson,3493598,88,84,3492692,"http://en.wikipedia.org/wiki/Thomson_Road,_Hong_Kong","Thomson Road, Hong Kong",thomson-road-hong-kong,thomson-road-hong-kong,UNK
+Thomson,30102753,1,8,16941582;26994;880348,http://en.wikipedia.org/wiki/Arthur_Thomson_(footballer_born_1948),Arthur Thomson,arthur-thomson,arthur-thomson-footballer-born-1948,PER
+Thomson,7413566,7,20,16941582,http://en.wikipedia.org/wiki/A._A._Thomson,A. A. Thomson,a-a-thomson,a-a-thomson,PER
+Thomson,32768347,6,6,,http://en.wikipedia.org/wiki/Thomson_Park_(Fiji),Thomson Park,thomson-park,thomson-park-fiji,PER
+Thomson,10305406,14,12,16941582,http://en.wikipedia.org/wiki/Arthur_Thomson_(fanzines),Arthur Thomson,arthur-thomson,arthur-thomson-fanzines,UNK
+Thomson,483185,139,102,,http://en.wikipedia.org/wiki/Thomson_Corporation,Thomson Corporation,thomson-corporation,thomson-corporation,UNK
+Thomson,3489773,97,64,3492692;26994;1497690,"http://en.wikipedia.org/wiki/Thomson_Road,_Singapore","Thomson Road, Singapore",thomson-road-singapore,thomson-road-singapore,UNK
+Thomson,26280504,4,11,16941582,http://en.wikipedia.org/wiki/Arthur_Thomson_(anatomist),Arthur Thomson,arthur-thomson,arthur-thomson-anatomist,UNK
+Thomson,39271000,13,6,,http://en.wikipedia.org/wiki/Thomson_Foundation,Thomson Foundation,thomson-foundation,thomson-foundation,ORG
+Thomson,3793286,184,207,1358303,http://en.wikipedia.org/wiki/Thomson_River_(Victoria),Thomson River,thomson-river,thomson-river-victoria,UNK
+Thomson,119614,52,78,119613;34451875,"http://en.wikipedia.org/wiki/Thomson_Township,_Carlton_County,_Minnesota","Thomson Township, Carlton County, Minnesota",thomson-township-carlton-county-minnesota,thomson-township-carlton-county-minnesota,GPE
+Thomson,4905213,7,12,70085,http://en.wikipedia.org/wiki/Thomson_(unit),Thomson,thomson,thomson-unit,UNK
+Thomson,29141064,4,16,16941582,http://en.wikipedia.org/wiki/Arthur_Thomson_(physician),Arthur Thomson,arthur-thomson,arthur-thomson-physician,PER
+Thomson,725910,274,238,70085,http://en.wikipedia.org/wiki/George_Paget_Thomson,George Paget Thomson,george-paget-thomson,george-paget-thomson,PER
+Thomson,4641444,19,27,,http://en.wikipedia.org/wiki/Edward_Thomson,Edward Thomson,edward-thomson,edward-thomson,PER
+Thomson,110248,202,174,,"http://en.wikipedia.org/wiki/Thomson,_Georgia","Thomson, Georgia",thomson-georgia,thomson-georgia,GPE
+Thomson,1497690,204,214,3489773,"http://en.wikipedia.org/wiki/Thomson,_Singapore","Thomson, Singapore",thomson-singapore,thomson-singapore,UNK
+Thomson,1358275,107,107,1358303,http://en.wikipedia.org/wiki/Thomson_River_(Queensland),Thomson River,thomson-river,thomson-river-queensland,UNK
+Thomson,8030610,0,17,,http://en.wikipedia.org/wiki/Ulmus_davidiana_var._japonica_'Thomson',Ulmus davidiana var. japonica 'Thomson',ulmus-davidiana-var-japonica-thomson,ulmus-davidiana-var-japonica-thomson,UNK
+Thomson,22014052,4,6,,"http://en.wikipedia.org/wiki/Thomson_Station,_Nova_Scotia","Thomson Station, Nova Scotia",thomson-station-nova-scotia,thomson-station-nova-scotia,GPE
+Thomson,5140823,68,71,,"http://en.wikipedia.org/wiki/Thomson,_Victoria","Thomson, Victoria",thomson-victoria,thomson-victoria,UNK
+Raith,880348,1401,249,880348;30102753;69713;69708;23213228;226426;578101;26994;355074;350216,http://en.wikipedia.org/wiki/Raith_Rovers_F.C.,Raith Rovers F.C.,raith-rovers-fc,raith-rovers-fc,UNK
+Rangers,69713,4392,615,880348;69713;69708;226426;350216;3288507;23293171;506182;578101;26994;2256773;569201;215398;758049,http://en.wikipedia.org/wiki/Rangers_F.C.,Rangers F.C.,rangers-fc,rangers-fc,UNK
+Rangers,18824211,0,9,,http://en.wikipedia.org/wiki/Honiara_Rangers_F.C.,Honiara Rangers F.C.,honiara-rangers-fc,honiara-rangers-fc,ORG
+Rangers,5750241,0,68,418106,http://en.wikipedia.org/wiki/Ranger's_Apprentice,Ranger's Apprentice,rangers-apprentice,rangers-apprentice,UNK
+Rangers,823636,261,91,,http://en.wikipedia.org/wiki/Ranger_(Babylon_5),Ranger,ranger,ranger-babylon-5,UNK
+Rangers,3739470,9,22,,http://en.wikipedia.org/wiki/California_Rangers,California Rangers,california-rangers,california-rangers,ORG
+Rangers,15862615,8,27,418106,http://en.wikipedia.org/wiki/Rangers_(band),Rangers,rangers,rangers-band,ORG
+Rangers,30857,4179,628,30857,http://en.wikipedia.org/wiki/Texas_Rangers_(baseball),Texas Rangers,texas-rangers,texas-rangers-baseball,UNK
+Rangers,418106,671,309,15862615;418106;5750241,http://en.wikipedia.org/wiki/United_States_Army_Rangers,United States Army Rangers,united-states-army-rangers,united-states-army-rangers,UNK
+Rangers,3288507,257,210,69713,http://en.wikipedia.org/wiki/Hong_Kong_Rangers_FC,Hong Kong Rangers FC,hong-kong-rangers-fc,hong-kong-rangers-fc,ORG
+Rangers,27382059,7,35,26994,http://en.wikipedia.org/wiki/Rangers_F.C._(Johannesburg),Rangers F.C.,rangers-fc,rangers-fc-johannesburg,UNK
+Rangers,1345792,165,118,1345792,http://en.wikipedia.org/wiki/Royal_Rangers,Royal Rangers,royal-rangers,royal-rangers,UNK
+Rangers,13871994,0,184,,http://en.wikipedia.org/wiki/Rangers'_Club,Rangers' Club,rangers-club,rangers-club,UNK
+Rangers,3615880,2601,299,538185,http://en.wikipedia.org/wiki/Ranger_(Dungeons_&_Dragons),Ranger,ranger,ranger-dungeons-dragons,UNK
+Rangers,538185,16,61,3615880,http://en.wikipedia.org/wiki/Ranger_(Middle-earth),Ranger,ranger,ranger-middle-earth,UNK
+Rangers,66881,4797,841,350216;66881,http://en.wikipedia.org/wiki/New_York_Rangers,New York Rangers,new-york-rangers,new-york-rangers,UNK
+Rangers,23293171,154,86,26994;69713,http://en.wikipedia.org/wiki/Rangers_F.C._(Superleague_Formula_team),Rangers F.C.,rangers-fc,rangers-fc-superleague-formula-team,UNK
+Rangers,8629460,2,11,,http://en.wikipedia.org/wiki/Lawn_Rangers,Lawn Rangers,lawn-rangers,lawn-rangers,UNK
+Rangers,2256773,0,70,69713,http://en.wikipedia.org/wiki/FC_Rànger's,FC Rànger's,fc-rangers,fc-rangers,UNK
+Celtic,69708,4375,534,880348;69713;69708;226426;350216;506182;578101;26994;355074;215398,http://en.wikipedia.org/wiki/Celtic_F.C.,Celtic F.C.,celtic-fc,celtic-fc,UNK
+Celtic,506182,1047,251,69713;69708;16166211;226426;578101;17475610;26994,http://en.wikipedia.org/wiki/Celtic_Park,Celtic Park,celtic-park,celtic-park,UNK
+Celtic,2612568,114,108,,http://en.wikipedia.org/wiki/Celtic_Park_(Derry),Celtic Park,celtic-park,celtic-park-derry,GPE
+Celtic,12757949,2,8,12757938;5920,http://en.wikipedia.org/wiki/USS_Celtic,USS Celtic,uss-celtic,uss-celtic,UNK
+Celtic,25886861,8,55,,http://en.wikipedia.org/wiki/Celtic_mass,Celtic mass,celtic-mass,celtic-mass,UNK
+Celtic,100000016,0,0,,http://en.wikipedia.org/wiki/Celtic_(water),Celtic,celtic,celtic-water,UKN
+Celtic,5261,1295,152,5261;5920;26994,http://en.wikipedia.org/wiki/Celtic_music,Celtic music,celtic-music,celtic-music,UNK
+Celtic,17475610,42,40,26994;506182,http://en.wikipedia.org/wiki/Celtic_Park_(Belfast),Celtic Park,celtic-park,celtic-park-belfast,UNK
+Celtic,12757938,16,28,12757949,http://en.wikipedia.org/wiki/USS_Celtic_(AF-2),USS Celtic,uss-celtic,uss-celtic-af-2,UNK
+Celtic,5920,1289,378,12757949;5261;5920;26994;23248387,http://en.wikipedia.org/wiki/Celtic_languages,Celtic languages,celtic-languages,celtic-languages,UNK
+Celtic,23885589,10,11,,http://en.wikipedia.org/wiki/Celtic_Park_(Castlebar),Celtic Park,celtic-park,celtic-park-castlebar,UNK
+Celtic,28298428,90,92,26994,http://en.wikipedia.org/wiki/Celtic_International,Celtic International,celtic-international,celtic-international,UNK
+Celtic,16166211,80,49,26994;506182,http://en.wikipedia.org/wiki/Celtic_Thunder,Celtic Thunder,celtic-thunder,celtic-thunder,UNK
+Motherwell,215398,2361,511,69713;69708;226426;350216;215398;578101;26994,http://en.wikipedia.org/wiki/Motherwell_F.C.,Motherwell F.C.,motherwell-fc,motherwell-fc,UNK
+Motherwell,7474609,13,10,350216;26994,http://en.wikipedia.org/wiki/Motherwell_College,Motherwell College,motherwell-college,motherwell-college,ORG
+Motherwell,350216,491,256,35205658;226426;7474609;880348;578101;66881;26994;215398;69713;69708,http://en.wikipedia.org/wiki/Motherwell,Motherwell,motherwell,motherwell,GPE
+Motherwell,884499,224,68,,http://en.wikipedia.org/wiki/Robert_Motherwell,Robert Motherwell,robert-motherwell,robert-motherwell,PER
+Motherwell,35205658,24,29,350216,"http://en.wikipedia.org/wiki/Motherwell,_Eastern_Cape","Motherwell, Eastern Cape",motherwell-eastern-cape,motherwell-eastern-cape,GPE
+Raith Rovers FC,880348,1401,249,880348;30102753;69713;69708;23213228;226426;578101;26994;355074;350216,http://en.wikipedia.org/wiki/Raith_Rovers_F.C.,Raith Rovers F.C.,raith-rovers-fc,raith-rovers-fc,UNK
+Jimmy,102096,1477,519,102096,http://en.wikipedia.org/wiki/Jimmy_Page,Jimmy Page,jimmy-page,jimmy-page,UNK
+Jimmy,2612809,109,50,,http://en.wikipedia.org/wiki/Jimmy_Means,Jimmy Means,jimmy-means,jimmy-means,PER
+Jimmy,13661203,50,47,,http://en.wikipedia.org/wiki/Jimmy_Conway_(footballer),Jimmy Conway,jimmy-conway,jimmy-conway-footballer,PER
+Jimmy,385290,488,382,,http://en.wikipedia.org/wiki/Jimmy_Kimmel,Jimmy Kimmel,jimmy-kimmel,jimmy-kimmel,PER
+Jimmy,7542164,130,131,,http://en.wikipedia.org/wiki/Little_Jimmy,Little Jimmy,little-jimmy,little-jimmy,UNK
+Jimmy,24236202,2,18,,http://en.wikipedia.org/wiki/Jimmy_Melbourne,Jimmy Melbourne,jimmy-melbourne,jimmy-melbourne,PER
+Jimmy,9055669,49,94,578101,http://en.wikipedia.org/wiki/Jimmy_Hill_(Northern_Ireland_footballer),Jimmy Hill,jimmy-hill,jimmy-hill-northern-ireland-footballer,PER
+Jimmy,41271262,6,2,16155092;41270905,http://en.wikipedia.org/wiki/Jimmy_London,Jimmy London,jimmy-london,jimmy-london,PER
+Jimmy,4003746,28,14,,http://en.wikipedia.org/wiki/Jimmy_Santiago_Baca,Jimmy Santiago Baca,jimmy-santiago-baca,jimmy-santiago-baca,PER
+Jimmy,5186863,85,71,,http://en.wikipedia.org/wiki/The_Jimmy,The Jimmy,the-jimmy,the-jimmy,UNK
+Jimmy,1061780,159,145,,http://en.wikipedia.org/wiki/Jimmy_McCulloch,Jimmy McCulloch,jimmy-mcculloch,jimmy-mcculloch,UNK
+Jimmy,1138164,701,258,1138164;26994,http://en.wikipedia.org/wiki/Jimmy_Barnes,Jimmy Barnes,jimmy-barnes,jimmy-barnes,UNK
+Jimmy,10360544,51,62,,http://en.wikipedia.org/wiki/Jimmy_Hill_(American_football),Jimmy Hill,jimmy-hill,jimmy-hill-american-football,UNK
+Jimmy,13588774,5,12,,http://en.wikipedia.org/wiki/Jimmy_Hutmaker,Jimmy Hutmaker,jimmy-hutmaker,jimmy-hutmaker,PER
+Jimmy,255722,342,102,,http://en.wikipedia.org/wiki/Jimmy_Hoffa,Jimmy Hoffa,jimmy-hoffa,jimmy-hoffa,PER
+Jimmy,41270905,4,18,16155092;41271262,http://en.wikipedia.org/wiki/Jimmy_London_(rock_singer),Jimmy London,jimmy-london,jimmy-london-rock-singer,UNK
+Jimmy,567439,40,49,,"http://en.wikipedia.org/wiki/Jimmy_Corrigan,_the_Smartest_Kid_on_Earth","Jimmy Corrigan, the Smartest Kid on Earth",jimmy-corrigan-the-smartest-kid-on-earth,jimmy-corrigan-the-smartest-kid-on-earth,UNK
+Jimmy,24068911,9,22,26994,http://en.wikipedia.org/wiki/Jimmy_Hill_(Scottish_footballer),Jimmy Hill,jimmy-hill,jimmy-hill-scottish-footballer,PER
+Jimmy,22017974,168,107,,http://en.wikipedia.org/wiki/Jimmy_Hill,Jimmy Hill,jimmy-hill,jimmy-hill,PER
+Jimmy,12821638,23,28,,"http://en.wikipedia.org/wiki/Jimmy,_the_Boy_Wonder","Jimmy, the Boy Wonder",jimmy-the-boy-wonder,jimmy-the-boy-wonder,UNK
+Jimmy,3703446,388,318,3703446,http://en.wikipedia.org/wiki/Jimmy_Wales,Jimmy Wales,jimmy-wales,jimmy-wales,PER
+Jimmy,250972,628,371,,http://en.wikipedia.org/wiki/Jimmy_Olsen,Jimmy Olsen,jimmy-olsen,jimmy-olsen,UNK
+Jimmy,328242,402,195,,http://en.wikipedia.org/wiki/Jimmy_Savile,Jimmy Savile,jimmy-savile,jimmy-savile,PER
+Jimmy,16155092,5,26,41271262;41270905,http://en.wikipedia.org/wiki/Jimmy_London_(reggae_singer),Jimmy London,jimmy-london,jimmy-london-reggae-singer,UNK
+Jimmy,31091773,36,42,,http://en.wikipedia.org/wiki/Jimmy_the_Kid,Jimmy the Kid,jimmy-the-kid,jimmy-the-kid,UNK
+Jimmy,22218530,7,15,,http://en.wikipedia.org/wiki/Jimmy_Singer,Jimmy Singer,jimmy-singer,jimmy-singer,PER
+Jimmy,4498645,33,28,,http://en.wikipedia.org/wiki/Jimmy_Wong,Jimmy Wong,jimmy-wong,jimmy-wong,UNK

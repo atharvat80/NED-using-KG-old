@@ -1,0 +1,24 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Taiwan,25734,23045,851,33757124;66744;25553095;34425515;3195927;203801;23843197;5695887;5920684;261888;40132846;11251923;6829556;3770600;25734;498804;57648;30089,http://en.wikipedia.org/wiki/Taiwan,Taiwan,taiwan,taiwan,GPE
+Taiwan,6829556,1,5,25734,http://en.wikipedia.org/wiki/Taiwan_Center,Taiwan Center,taiwan-center,taiwan-center,UNK
+Taiwan,147886,0,7,261888,http://en.wikipedia.org/wiki/Province_of_Taiwan,Province of Taiwan,province-of-taiwan,province-of-taiwan,UNK
+Taiwan,25553095,172,191,25734;30089;57648;498804,http://en.wikipedia.org/wiki/Smoking_in_Taiwan,Smoking in Taiwan,smoking-in-taiwan,smoking-in-taiwan,UNK
+Taiwan,5695887,0,117,25734;3770600;66744;57648;498804,"http://en.wikipedia.org/wiki/Taiwan_Province,_People's_Republic_of_China","Taiwan Province, People's Republic of China",taiwan-province-peoples-republic-of-china,taiwan-province-peoples-republic-of-china,UNK
+Taiwan,11251923,14,20,25734;57648,http://en.wikipedia.org/wiki/Taiwan_Journal,Taiwan Journal,taiwan-journal,taiwan-journal,UNK
+Taiwan,30089,198,341,25553095;3770600;25734;30089;66744;57648;498804,http://en.wikipedia.org/wiki/Geography_of_Taiwan,Geography of Taiwan,geography-of-taiwan,geography-of-taiwan,UNK
+Taiwan,5920684,3,8,25734,http://en.wikipedia.org/wiki/Little_Taiwan,Little Taiwan,little-taiwan,little-taiwan,UNK
+Taiwan,34425515,9,8,25734;66744,http://en.wikipedia.org/wiki/Taiwan_Prefecture,Taiwan Prefecture,taiwan-prefecture,taiwan-prefecture,UNK
+Taiwan,33757124,1,6,25734,http://en.wikipedia.org/wiki/Taiwan_Tower,Taiwan Tower,taiwan-tower,taiwan-tower,UNK
+Taiwan,66744,237,115,25734;23843197;34425515;30089;3770600;57648;261888;5695887,http://en.wikipedia.org/wiki/Taiwan_Province,Taiwan Province,taiwan-province,taiwan-province,UNK
+Taiwan,498804,173,224,25734;30089;25553095;57648;5695887,http://en.wikipedia.org/wiki/Taiwan_after_World_War_II,Taiwan after World War II,taiwan-after-world-war-ii,taiwan-after-world-war-ii,UNK
+Taiwan,3770600,7,42,25734;66744;261888;5695887;30089,"http://en.wikipedia.org/wiki/Taiwan,_China","Taiwan, China",taiwan-china,taiwan-china,UNK
+Cooperative Bank,4375952,15,72,5299643,http://en.wikipedia.org/wiki/National_Cooperative_Bank,National Cooperative Bank,national-cooperative-bank,national-cooperative-bank,UNK
+Cooperative Bank,5299643,363,115,4375952,http://en.wikipedia.org/wiki/Cooperative_banking,Cooperative banking,cooperative-banking,cooperative-banking,UNK
+TAIPEI,57648,4143,708,25734;25553095;261888;40132846;498804;203801;23843197;5695887;30089;11251923;66744,http://en.wikipedia.org/wiki/Taipei,Taipei,taipei,taipei,GPE
+TAIPEI,261888,5576,206,3770600;147886;25734;57648;66744,http://en.wikipedia.org/wiki/Chinese_Taipei,Chinese Taipei,chinese-taipei,chinese-taipei,ORG
+TAIPEI,3195927,3,4,25734,http://en.wikipedia.org/wiki/Taipei_Family,Taipei Family,taipei-family,taipei-family,UNK
+TAIPEI,203801,408,302,25734;57648;203801,http://en.wikipedia.org/wiki/Taipei_101,Taipei 101,taipei-101,taipei-101,UNK
+TAIPEI,40132846,163,173,25734;57648,http://en.wikipedia.org/wiki/University_of_Taipei,University of Taipei,university-of-taipei,university-of-taipei,UNK
+TAIPEI,23843197,7,28,25734;66744;57648,http://en.wikipedia.org/wiki/Taipei_Bridge,Taipei Bridge,taipei-bridge,taipei-bridge,UNK
+Cooperative,4375952,15,72,5299643,http://en.wikipedia.org/wiki/National_Cooperative_Bank,National Cooperative Bank,national-cooperative-bank,national-cooperative-bank,UNK
+Cooperative,5299643,363,115,4375952,http://en.wikipedia.org/wiki/Cooperative_banking,Cooperative banking,cooperative-banking,cooperative-banking,UNK

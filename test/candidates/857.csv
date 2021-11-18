@@ -1,0 +1,28 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Thai,30128,32096,645,7147085;3926261;2095269;2722553;16863931;2670504;2014560;30529;30130;30128;12150640;1863118;20846094;48647;883010;20032238;56615;20925168;1110063;303449;63731;14590436,http://en.wikipedia.org/wiki/Thailand,Thailand,thailand,thailand,GPE
+Thai,27125998,108,6,883010,"http://en.wikipedia.org/wiki/Thai_Town,_Sydney","Thai Town, Sydney",thai-town-sydney,thai-town-sydney,UNK
+Thai,63731,858,479,30529;30128;2014560;38921956;48647,http://en.wikipedia.org/wiki/Thai_alphabet,Thai alphabet,thai-alphabet,thai-alphabet,UNK
+Thai,883010,137,382,48647;30529;56615;27125998;30128,"http://en.wikipedia.org/wiki/Thai_Town,_Los_Angeles","Thai Town, Los Angeles",thai-town-los-angeles,thai-town-los-angeles,UNK
+Thai,48647,6104,209,7147085;2722553;56615;1863118;20925168;16863931;20846094;1110063;3926261;303449;2670504;30529;30128;883010;63731;2095269;14590436,http://en.wikipedia.org/wiki/Thai_language,Thai language,thai-language,thai-language,UNK
+Thai,2722553,103,116,30128;48647;2722553,http://en.wikipedia.org/wiki/Thai_Wikipedia,Thai Wikipedia,thai-wikipedia,thai-wikipedia,UNK
+Thai,303449,439,442,48647;30529;20032238;56615;30128,http://en.wikipedia.org/wiki/Thai_Airways,Thai Airways,thai-airways,thai-airways,ORG
+Thai,2670504,1330,352,30529;56615;30130;30128;1863118;20925168;2014560;16863931;48647;3811347,http://en.wikipedia.org/wiki/Thai_people,Thai people,thai-people,thai-people,UNK
+Thai,14590436,58,64,30128;48647;20925168,http://en.wikipedia.org/wiki/Thai_Sa,Thai Sa,thai-sa,thai-sa,PER
+Thai,30529,853,692,30529;30130;30128;20925168;303449;48647;883010;63731;2670504,http://en.wikipedia.org/wiki/Thai_cuisine,Thai cuisine,thai-cuisine,thai-cuisine,GPE
+Thai,38921956,7,4,63731,http://en.wikipedia.org/wiki/Thai_(Unicode_block),Thai,thai,thai-unicode-block,UNK
+Thai,12150640,0,112,30128,http://en.wikipedia.org/wiki/Thai_cat,Thai cat,thai-cat,thai-cat,UNK
+BANGKOK,56615,7301,719,20032238;56615;1863118;20925168;16863931;20846094;1110063;3926261;303449;2670504;30130;30128;48647;883010;3811347,http://en.wikipedia.org/wiki/Bangkok,Bangkok,bangkok,bangkok,GPE
+BANGKOK,3811347,15,18,56615;2670504,http://en.wikipedia.org/wiki/Bangkok_Opera,Bangkok Opera,bangkok-opera,bangkok-opera,UNK
+BANGKOK,3926261,166,231,30128;48647;56615,http://en.wikipedia.org/wiki/Bangkok_University,Bangkok University,bangkok-university,bangkok-university,ORG
+BANGKOK,16863931,84,88,30128;56615;2670504;48647;1110063,http://en.wikipedia.org/wiki/Bangkok_F.C.,Bangkok F.C.,bangkok-fc,bangkok-fc,GPE
+BANGKOK,20846094,42,61,30128;48647;56615,http://en.wikipedia.org/wiki/Bangkok_Elevated_Road_and_Train_System,Bangkok Elevated Road and Train System,bangkok-elevated-road-and-train-system,bangkok-elevated-road-and-train-system,UNK
+BANGKOK,7190798,0,2,,http://en.wikipedia.org/wiki/Bangkok_International_Airport,Bangkok International Airport,bangkok-international-airport,bangkok-international-airport,UNK
+BANGKOK,20032238,17,16,303449;56615;30128;1110063,http://en.wikipedia.org/wiki/Bangkok_Hospital,Bangkok Hospital,bangkok-hospital,bangkok-hospital,ORG
+Thailand,30128,32096,645,7147085;3926261;2095269;2722553;16863931;2670504;2014560;30529;30130;30128;12150640;1863118;20846094;48647;883010;20032238;56615;20925168;1110063;303449;63731;14590436,http://en.wikipedia.org/wiki/Thailand,Thailand,thailand,thailand,GPE
+Thailand,20925168,400,272,48647;30529;56615;30130;30128;20925168;2670504;14590436,http://en.wikipedia.org/wiki/Monarchy_of_Thailand,Monarchy of Thailand,monarchy-of-thailand,monarchy-of-thailand,GPE
+Thailand,30130,151,254,30130;30128;20925168;30529;56615;2670504,http://en.wikipedia.org/wiki/Geography_of_Thailand,Geography of Thailand,geography-of-thailand,geography-of-thailand,UNK
+Thailand,1110063,1800,460,20032238;56615;30128;16863931;48647,http://en.wikipedia.org/wiki/Thailand_national_football_team,Thailand national football team,thailand-national-football-team,thailand-national-football-team,UNK
+Banharn Silpa-archa,7147085,76,69,7147085;30128;48647;1863118;2014560,http://en.wikipedia.org/wiki/Banharn_Silpa-archa,Banharn Silpa-archa,banharn-silpa-archa,banharn-silpa-archa,PER
+Chatichai Choonhavan,1863118,102,93,7147085;30128;2014560;56615;2670504;48647,http://en.wikipedia.org/wiki/Chatichai_Choonhavan,Chatichai Choonhavan,chatichai-choonhavan,chatichai-choonhavan,PER
+Chavalit Yongchaiyudh,2014560,96,63,7147085;30128;1863118;2095269;63731;2670504,http://en.wikipedia.org/wiki/Chavalit_Yongchaiyudh,Chavalit Yongchaiyudh,chavalit-yongchaiyudh,chavalit-yongchaiyudh,PER
+New Aspiration Party,2095269,53,49,30128;48647;2014560,http://en.wikipedia.org/wiki/New_Aspiration_Party,New Aspiration Party,new-aspiration-party,new-aspiration-party,UNK

@@ -1,0 +1,558 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+U.S. Civil War,863,32421,849,307;863;27426216;140270;70667;2154;10503376;349174;7085;7023;3052573;360126;7599865;29804952;1054022;27056670;3117937;3552691;77667;3434750;473630;1142503;8011088;2384324;6736104;91268;13015878;32432;32087;31752;312905;34495894;34342;944685;179553;664039;178621;4678813;1095495;5319554;7064687;1222685;391889;108956;23626963;115760,http://en.wikipedia.org/wiki/American_Civil_War,American Civil War,american-civil-war,american-civil-war,UNK
+WASHINGTON,108956,32028,1189,307;863;70667;21921258;27293846;80734;6965006;637985;29804952;968589;2872747;77667;3434750;161535;14426774;3500202;1323983;38852264;22808822;6736104;13015878;32432;32087;31752;730793;34495894;6867764;179553;1095495;1222685;3832041;2057171;108956;1421794;20862995;22982228;431475;27986737;19537757;62520;41741779,"http://en.wikipedia.org/wiki/Washington,_D.C.","Washington, D.C.",washington-dc,washington-dc,GPE
+WASHINGTON,1446321,0,2,,"http://en.wikipedia.org/wiki/Washington,_England","Washington, England",washington-england,washington-england,GPE
+WASHINGTON,2039933,6,116,13015878;3434750,"http://en.wikipedia.org/wiki/Washington,_My_Home","Washington, My Home",washington-my-home,washington-my-home,UNK
+WASHINGTON,18746675,0,1,,"http://en.wikipedia.org/wiki/Washington,_IN_µSA","Washington, IN µSA",washington-in-µsa,washington-in-µsa,PER
+WASHINGTON,38852264,222,242,108956;6867764;19537757;8589494;20862995;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2014","Washington, D.C. mayoral election, 2014",washington-dc-mayoral-election-2014,washington-dc-mayoral-election-2014,PER
+WASHINGTON,22808822,35,95,3832041;108956;3434750,"http://en.wikipedia.org/wiki/Washington,_Baltimore_and_Annapolis_Electric_Railway","Washington, Baltimore and Annapolis Electric Railway",washington-baltimore-and-annapolis-electric-railway,washington-baltimore-and-annapolis-electric-railway,UNK
+WASHINGTON,5757618,147,192,,http://en.wikipedia.org/wiki/Washington_(footballer),Washington,washington,washington-footballer,PER
+WASHINGTON,10308149,1,1,,"http://en.wikipedia.org/wiki/Washington,_IN_μSA","Washington, IN μSA",washington-in-μsa,washington-in-μsa,PER
+WASHINGTON,20232735,3,11,,http://en.wikipedia.org/wiki/Washington_(SP-1241),Washington,washington,washington-sp-1241,UNK
+WASHINGTON,19537795,106,153,19537757;8589494;38852264;20862995;19537810;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1994","Washington, D.C. mayoral election, 1994",washington-dc-mayoral-election-1994,washington-dc-mayoral-election-1994,PER
+WASHINGTON,134086,890,469,32432;31752;161535;3434750;134086,"http://en.wikipedia.org/wiki/Washington,_Pennsylvania","Washington, Pennsylvania",washington-pennsylvania,washington-pennsylvania,GPE
+WASHINGTON,10289871,1,1,,"http://en.wikipedia.org/wiki/Washington,_NC_μSA","Washington, NC μSA",washington-nc-μsa,washington-nc-μsa,PER
+WASHINGTON,14698019,20,26,161535,"http://en.wikipedia.org/wiki/Washington,_Kentucky","Washington, Kentucky",washington-kentucky,washington-kentucky,UNK
+WASHINGTON,26677390,15,24,3434750;161535,http://en.wikipedia.org/wiki/Washington_Railroad_Station,Washington Railroad Station,washington-railroad-station,washington-railroad-station,UNK
+WASHINGTON,24921974,108,89,,http://en.wikipedia.org/wiki/Washington_(steamboat_1851),Washington,washington,washington-steamboat-1851,UNK
+WASHINGTON,637985,4,26,108956,"http://en.wikipedia.org/wiki/Washington,_DC_Metropolitan_Area_Special_Flight_Rules_Area","Washington, DC Metropolitan Area Special Flight Rules Area",washington-dc-metropolitan-area-special-flight-rules-area,washington-dc-metropolitan-area-special-flight-rules-area,UNK
+WASHINGTON,20862995,264,254,108956;6867764;19537757;8589494;38852264;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2010","Washington, D.C. mayoral election, 2010",washington-dc-mayoral-election-2010,washington-dc-mayoral-election-2010,UNK
+WASHINGTON,1923182,178,200,3434750,"http://en.wikipedia.org/wiki/Washington,_California","Washington, California",washington-california,washington-california,GPE
+WASHINGTON,2010233,51,39,,"http://en.wikipedia.org/wiki/Washington,_Mississippi","Washington, Mississippi",washington-mississippi,washington-mississippi,GPE
+WASHINGTON,7073789,6,91,3434750;77173,"http://en.wikipedia.org/wiki/Washington,_Brandywine_and_Point_Lookout_Railroad","Washington, Brandywine and Point Lookout Railroad",washington-brandywine-and-point-lookout-railroad,washington-brandywine-and-point-lookout-railroad,UNK
+WASHINGTON,3832041,24,38,22808822;108956,"http://en.wikipedia.org/wiki/Washington,_Baltimore_and_Annapolis_Trail","Washington, Baltimore and Annapolis Trail",washington-baltimore-and-annapolis-trail,washington-baltimore-and-annapolis-trail,UNK
+WASHINGTON,2508003,139,108,3434750,"http://en.wikipedia.org/wiki/Washington,_D.C._International_Stakes","Washington, D.C. International Stakes",washington-dc-international-stakes,washington-dc-international-stakes,UNK
+WASHINGTON,19537757,130,166,8589494;108956;38852264;20862995;19537810;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2002","Washington, D.C. mayoral election, 2002",washington-dc-mayoral-election-2002,washington-dc-mayoral-election-2002,UNK
+WASHINGTON,18746683,0,1,,"http://en.wikipedia.org/wiki/Washington,_NC_µSA","Washington, NC µSA",washington-nc-µsa,washington-nc-µsa,PER
+WASHINGTON,141810,0,13,,"http://en.wikipedia.org/wiki/Washington,_Wisconsin","Washington, Wisconsin",washington-wisconsin,washington-wisconsin,UNK
+WASHINGTON,1421794,67,104,108956;1421794;3434750,"http://en.wikipedia.org/wiki/Washington,_D.C._hardcore","Washington, D.C. hardcore",washington-dc-hardcore,washington-dc-hardcore,UNK
+WASHINGTON,6867764,223,206,108956;19537757;8589494;38852264;20862995;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2006","Washington, D.C. mayoral election, 2006",washington-dc-mayoral-election-2006,washington-dc-mayoral-election-2006,PER
+WASHINGTON,19537810,40,86,19537757;8589494;20862995;38852264;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1978","Washington, D.C. mayoral election, 1978",washington-dc-mayoral-election-1978,washington-dc-mayoral-election-1978,UNK
+WASHINGTON,27293846,15,184,108956,"http://en.wikipedia.org/wiki/Washington,_D.C._Jewish_Community_Center","Washington, D.C. Jewish Community Center",washington-dc-jewish-community-center,washington-dc-jewish-community-center,UNK
+WASHINGTON,111971,1213,92,32087;3434750;473630,"http://en.wikipedia.org/wiki/Washington,_Illinois","Washington, Illinois",washington-illinois,washington-illinois,UNK
+WASHINGTON,6736104,364,371,91268;108956;307;7023;31752;863;77667;360126,"http://en.wikipedia.org/wiki/Washington,_D.C.,_in_the_American_Civil_War","Washington, D.C., in the American Civil War",washington-dc-in-the-american-civil-war,washington-dc-in-the-american-civil-war,UNK
+WASHINGTON,7986044,0,9,161535,http://en.wikipedia.org/wiki/Ulmus_americana_'Washington',Ulmus americana 'Washington',ulmus-americana-washington,ulmus-americana-washington,UNK
+WASHINGTON,21921258,2,230,108956,"http://en.wikipedia.org/wiki/Washington,_Village_and_Capital,_1800-1878","Washington, Village and Capital, 1800-1878",washington-village-and-capital-1800-1878,washington-village-and-capital-1800-1878,UNK
+WASHINGTON,8589494,39,50,19537757;20862995;38852264;19537810;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1974","Washington, D.C. mayoral election, 1974",washington-dc-mayoral-election-1974,washington-dc-mayoral-election-1974,PER
+WASHINGTON,115760,56,66,863;3434750,"http://en.wikipedia.org/wiki/Washington,_Louisiana","Washington, Louisiana",washington-louisiana,washington-louisiana,GPE
+WASHINGTON,10308504,0,1,,"http://en.wikipedia.org/wiki/Washington,_OH_μSA","Washington, OH μSA",washington-oh-μsa,washington-oh-μsa,PER
+WASHINGTON,1489525,24,20,161535,http://en.wikipedia.org/wiki/Washington_(tree),Washington,washington,washington-tree,UNK
+WASHINGTON,24782674,99,91,,http://en.wikipedia.org/wiki/Megan_Washington,Megan Washington,megan-washington,megan-washington,UNK
+WASHINGTON,13015878,8843,1031,863;3434750;2154;179553;161535;6907489;2039933;108956;13015878;32432;32087,http://en.wikipedia.org/wiki/Washington_(state),Washington,washington,washington-state,UNK
+WASHINGTON,38467156,24,29,,"http://en.wikipedia.org/wiki/Washington,_Rhode_Island","Washington, Rhode Island",washington-rhode-island,washington-rhode-island,GPE
+WASHINGTON,40415474,2,3,,http://en.wikipedia.org/wiki/Washington_Motor_Company,Washington Motor Company,washington-motor-company,washington-motor-company,ORG
+WASHINGTON,18514024,3,20,,http://en.wikipedia.org/wiki/USS_Washington_(1775),USS Washington,uss-washington,uss-washington-1775,UNK
+Abraham Lincoln,307,6553,852,307;863;3434750;34495894;70667;473630;2154;30358613;407554;35216788;7023;224020;1142503;3620640;360126;1222685;7599865;23456676;111697;22982228;391889;10545741;6736104;91268;29946791;8126347;108956;23322450;29804952;4051193;27056670;27986737;32432;62520;31752;41741779;199106;199107;77667,http://en.wikipedia.org/wiki/Abraham_Lincoln,Abraham Lincoln,abraham-lincoln,abraham-lincoln,PER
+Abraham Lincoln,23322450,11,11,307,http://en.wikipedia.org/wiki/Abraham_Lincoln_Association,Abraham Lincoln Association,abraham-lincoln-association,abraham-lincoln-association,UNK
+Abraham Lincoln,41741779,1,18,307;108956;7599865,http://en.wikipedia.org/wiki/Abraham_Lincoln_(Flannery),Abraham Lincoln,abraham-lincoln,abraham-lincoln-flannery,UNK
+Abraham Lincoln,199107,10,11,307;407554;199106,http://en.wikipedia.org/wiki/USS_Abraham_Lincoln,USS Abraham Lincoln,uss-abraham-lincoln,uss-abraham-lincoln,UNK
+Abraham Lincoln,23456676,2,9,307,http://en.wikipedia.org/wiki/Abraham_Lincoln_(Morse_books),Abraham Lincoln,abraham-lincoln,abraham-lincoln-morse-books,UNK
+Abraham Lincoln,39558026,3,10,3434750,http://en.wikipedia.org/wiki/Abraham_Lincoln_(George_Grey_Barnard),Abraham Lincoln,abraham-lincoln,abraham-lincoln-george-grey-barnard,UNK
+Abraham Lincoln,8126347,10,21,3434750;307,http://en.wikipedia.org/wiki/Abraham_Lincoln_II,Abraham Lincoln II,abraham-lincoln-ii,abraham-lincoln-ii,PER
+Abraham Lincoln,4051193,74,89,307;7599865;22982228;10545741,http://en.wikipedia.org/wiki/Abraham_Lincoln_(captain),Abraham Lincoln,abraham-lincoln,abraham-lincoln-captain,PER
+Abraham Lincoln,407554,18,47,307;199107,http://en.wikipedia.org/wiki/USS_Abraham_Lincoln_(SSBN-602),USS Abraham Lincoln,uss-abraham-lincoln,uss-abraham-lincoln-ssbn-602,UNK
+Abraham Lincoln,35216788,10,9,307,http://en.wikipedia.org/wiki/Abraham_Lincoln_(play),Abraham Lincoln,abraham-lincoln,abraham-lincoln-play,UNK
+Abraham Lincoln,22982228,10,157,307;7599865;108956;161535;10545741;4051193,http://en.wikipedia.org/wiki/Abraham_Lincoln_(French_1920),Abraham Lincoln,abraham-lincoln,abraham-lincoln-french-1920,UNK
+Abraham Lincoln,26115673,2,4,,"http://en.wikipedia.org/wiki/Abraham_Lincoln,_Friend_of_the_People","Abraham Lincoln, Friend of the People",abraham-lincoln-friend-of-the-people,abraham-lincoln-friend-of-the-people,UNK
+Abraham Lincoln,27986737,0,14,307;108956,http://en.wikipedia.org/wiki/Abraham_Lincoln_(French_1912),Abraham Lincoln,abraham-lincoln,abraham-lincoln-french-1912,UNK
+Abraham Lincoln,15493509,124,138,3434750,http://en.wikipedia.org/wiki/Abraham_Lincoln_(train),Abraham Lincoln,abraham-lincoln,abraham-lincoln-train,UNK
+Abraham Lincoln,34495894,5,28,108956;10545741;307;863;31752,http://en.wikipedia.org/wiki/Abraham_Lincoln_(Healy),Abraham Lincoln,abraham-lincoln,abraham-lincoln-healy,UNK
+Abraham Lincoln,199106,204,125,307;199107;3434750,http://en.wikipedia.org/wiki/USS_Abraham_Lincoln_(CVN-72),USS Abraham Lincoln,uss-abraham-lincoln,uss-abraham-lincoln-cvn-72,UNK
+Abraham Lincoln,7599865,77,265,7023;41741779;307;31752;22982228;863;10545741;4051193,http://en.wikipedia.org/wiki/Abraham_Lincoln_cultural_depictions,Abraham Lincoln cultural depictions,abraham-lincoln-cultural-depictions,abraham-lincoln-cultural-depictions,UNK
+Abraham Lincoln,27056670,4,14,307;863;70667;3434750,http://en.wikipedia.org/wiki/Abraham_Lincoln_Institute,Abraham Lincoln Institute,abraham-lincoln-institute,abraham-lincoln-institute,ORG
+Abraham Lincoln,8724563,14,23,,http://en.wikipedia.org/wiki/Abraham_Lincoln_University,Abraham Lincoln University,abraham-lincoln-university,abraham-lincoln-university,UNK
+Abraham Lincoln,29804952,42,81,29946791;307;108956;863,http://en.wikipedia.org/wiki/Abraham_Lincoln_(relief_by_Schwarz),Abraham Lincoln,abraham-lincoln,abraham-lincoln-relief-by-schwarz,UNK
+Abraham Lincoln,29946791,41,63,29804952;307;3434750,http://en.wikipedia.org/wiki/Abraham_Lincoln_(bust_by_Jones),Abraham Lincoln,abraham-lincoln,abraham-lincoln-bust-by-jones,UNK
+Abraham Lincoln,3620640,3,97,307;3434750;161535,http://en.wikipedia.org/wiki/Abraham_Lincoln_(Pullman_car),Abraham Lincoln,abraham-lincoln,abraham-lincoln-pullman-car,UNK
+Abraham Lincoln,30358613,203,227,307;3434750,http://en.wikipedia.org/wiki/Abraham_Lincoln_(Cecere),Abraham Lincoln,abraham-lincoln,abraham-lincoln-cecere,UNK
+Abraham Lincoln,10545741,70,102,307;7599865;22982228;34495894;4051193,http://en.wikipedia.org/wiki/Abraham_Lincoln_and_religion,Abraham Lincoln and religion,abraham-lincoln-and-religion,abraham-lincoln-and-religion,UNK
+Abraham Lincoln,32944804,2,4,,http://en.wikipedia.org/wiki/Abraham_Lincoln_(Rogers),Abraham Lincoln,abraham-lincoln,abraham-lincoln-rogers,UNK
+National Archives,19045450,7,26,18903464;19045450,http://en.wikipedia.org/wiki/National_Archives_(Czech_Republic),National Archives,national-archives,national-archives-czech-republic,UNK
+National Archives,18903464,42,21,19045450;569595;18903464,http://en.wikipedia.org/wiki/National_Archives_of_Hungary,National Archives of Hungary,national-archives-of-hungary,national-archives-of-hungary,UNK
+National Archives,569595,2602,394,18903464;32742,http://en.wikipedia.org/wiki/The_National_Archives_(United_Kingdom),The National Archives,the-national-archives,the-national-archives-united-kingdom,UNK
+National Archives,70667,862,122,108956;2154;307;863;161535;27056670,http://en.wikipedia.org/wiki/National_Archives_and_Records_Administration,National Archives and Records Administration,national-archives-and-records-administration,national-archives-and-records-administration,ORG
+National Archives,32159752,1,10,,http://en.wikipedia.org/wiki/National_Archives_(UAE),National Archives,national-archives,national-archives-uae,ORG
+National Archives,33484241,31,22,33486494,http://en.wikipedia.org/wiki/National_Archives_of_Singapore,National Archives of Singapore,national-archives-of-singapore,national-archives-of-singapore,UNK
+National Archives,42592059,16,6,,http://en.wikipedia.org/wiki/Jane_Cameron_National_Archives,Jane Cameron National Archives,jane-cameron-national-archives,jane-cameron-national-archives,ORG
+National Archives,33486494,17,18,33484241,http://en.wikipedia.org/wiki/National_Archives_of_Thailand,National Archives of Thailand,national-archives-of-thailand,national-archives-of-thailand,UNK
+North,449174,73,87,216788,http://en.wikipedia.org/wiki/North_Shropshire,North Shropshire,north-shropshire,north-shropshire,UNK
+North,62046,2932,92,62049,http://en.wikipedia.org/wiki/North_Island,North Island,north-island,north-island,UNK
+North,923364,834,138,7172920;54422,http://en.wikipedia.org/wiki/North_China,North China,north-china,north-china,UNK
+North,3802436,130,182,3434750,http://en.wikipedia.org/wiki/North_Market,North Market,north-market,north-market,UNK
+North,381678,167,153,480411,http://en.wikipedia.org/wiki/North_River_(Hudson_River),North River,north-river,north-river-hudson-river,UNK
+North,1525987,854,349,288551;62520;3434750;383384,http://en.wikipedia.org/wiki/North_Bay_(San_Francisco_Bay_Area),North Bay,north-bay,north-bay-san-francisco-bay-area,UNK
+North,3052573,490,91,3434750;863;179553,http://en.wikipedia.org/wiki/North_Georgia,North Georgia,north-georgia,north-georgia,UNK
+North,415912,1220,207,1054022;3434750,http://en.wikipedia.org/wiki/North_Texas,North Texas,north-texas,north-texas,UNK
+North,1971404,87,182,7085;901895,http://en.wikipedia.org/wiki/North_Region_(Cameroon),North Region,north-region,north-region-cameroon,UNK
+North,922286,304,133,,http://en.wikipedia.org/wiki/North_Louisiana,North Louisiana,north-louisiana,north-louisiana,UNK
+North,8411180,27,44,,http://en.wikipedia.org/wiki/North_(poetry),North,north,north-poetry,UNK
+North,560507,288,216,,http://en.wikipedia.org/wiki/North_Toronto,North Toronto,north-toronto,north-toronto,UNK
+North,686099,2,1,,http://en.wikipedia.org/wiki/North_Valley,North Valley,north-valley,north-valley,UNK
+North,30807616,311,514,3434750,"http://en.wikipedia.org/wiki/North,_Central_American_and_Caribbean_junior_records_in_athletics","North, Central American and Caribbean junior records in athletics",north-central-american-and-caribbean-junior-records-in-athletics,north-central-american-and-caribbean-junior-records-in-athletics,PER
+North,4267190,58,48,4267110,"http://en.wikipedia.org/wiki/North_Province,_New_Caledonia","North Province, New Caledonia",north-province-new-caledonia,north-province-new-caledonia,UNK
+North,26774251,9,11,,http://en.wikipedia.org/wiki/North_(band),North,north,north-band,UNK
+North,1685102,39,38,242033;3434750,http://en.wikipedia.org/wiki/North_Park_(Colorado_basin),North Park,north-park,north-park-colorado-basin,UNK
+North,288551,10,11,1525987,http://en.wikipedia.org/wiki/North_Bay,North Bay,north-bay,north-bay,UNK
+North,3372955,12,9,,http://en.wikipedia.org/wiki/North_Victoria,North Victoria,north-victoria,north-victoria,UNK
+North,643197,1,6,,http://en.wikipedia.org/wiki/North_River_(New_Zealand),North River,north-river,north-river-new-zealand,UNK
+North,158001,1291,312,128405;158001,http://en.wikipedia.org/wiki/North_Lincolnshire,North Lincolnshire,north-lincolnshire,north-lincolnshire,UNK
+North,3766287,32,23,,http://en.wikipedia.org/wiki/Baron_North,Baron North,baron-north,baron-north,PER
+North,3943805,54,106,,http://en.wikipedia.org/wiki/BBC_North,BBC North,bbc-north,bbc-north,UNK
+North,968589,507,241,108956;963515;3434750,http://en.wikipedia.org/wiki/North_Station,North Station,north-station,north-station,UNK
+North,686061,0,3,3434750,http://en.wikipedia.org/wiki/North_Washington,North Washington,north-washington,north-washington,GPE
+North,268916,14,76,268916,http://en.wikipedia.org/wiki/North_District_(Hong_Kong),North District,north-district,north-district-hong-kong,UNK
+North,36783294,42,63,32432;3434750,"http://en.wikipedia.org/wiki/North,_Virginia","North, Virginia",north-virginia,north-virginia,GPE
+North,1552939,1453,292,678583,http://en.wikipedia.org/wiki/North_India,North India,north-india,north-india,UNK
+North,2612643,7,22,4379876,http://en.wikipedia.org/wiki/North_Mountain_(Catskills),North Mountain,north-mountain,north-mountain-catskills,UNK
+North,25020063,4,40,,"http://en.wikipedia.org/wiki/North,_South,_East,_West...Anthology","North, South, East, West...Anthology",north-south-east-westanthology,north-south-east-westanthology,UNK
+North,31777452,1,16,,http://en.wikipedia.org/wiki/North_(EP),North,north,north-ep,UNK
+North,380308,1098,74,373622,http://en.wikipedia.org/wiki/North_London,North London,north-london,north-london,UNK
+North,859621,4,12,480411,http://en.wikipedia.org/wiki/North_River_(Tennessee),North River,north-river,north-river-tennessee,UNK
+North,56478,357,52,77173,http://en.wikipedia.org/wiki/North,North,north,north,UNK
+North,383384,468,310,3434750;62520;1525987,http://en.wikipedia.org/wiki/North_County_(San_Diego_area),North County,north-county,north-county-san-diego-area,UNK
+North,480411,1,23,859621;381678,http://en.wikipedia.org/wiki/North_River,North River,north-river,north-river,UNK
+North,4379876,0,7,2612643,http://en.wikipedia.org/wiki/North_Mountain,North Mountain,north-mountain,north-mountain,UNK
+North,2109618,284,184,3041572,http://en.wikipedia.org/wiki/North_Alabama,North Alabama,north-alabama,north-alabama,UNK
+North,38648395,83,295,3434750,"http://en.wikipedia.org/wiki/North,_Central_American_and_Caribbean_nations_at_the_FIFA_World_Cup","North, Central American and Caribbean nations at the FIFA World Cup",north-central-american-and-caribbean-nations-at-the-fifa-world-cup,north-central-american-and-caribbean-nations-at-the-fifa-world-cup,PER
+North,4916311,565,125,4916311,http://en.wikipedia.org/wiki/North_Queensland,North Queensland,north-queensland,north-queensland,UNK
+North,686069,1325,162,832809;9709,http://en.wikipedia.org/wiki/North_Wales,North Wales,north-wales,north-wales,UNK
+Archives,19045450,7,26,18903464;19045450,http://en.wikipedia.org/wiki/National_Archives_(Czech_Republic),National Archives,national-archives,national-archives-czech-republic,UNK
+Archives,18903464,42,21,19045450;569595;18903464,http://en.wikipedia.org/wiki/National_Archives_of_Hungary,National Archives of Hungary,national-archives-of-hungary,national-archives-of-hungary,UNK
+Archives,569595,2602,394,18903464;32742,http://en.wikipedia.org/wiki/The_National_Archives_(United_Kingdom),The National Archives,the-national-archives,the-national-archives-united-kingdom,UNK
+Archives,70667,862,122,108956;2154;307;863;161535;27056670,http://en.wikipedia.org/wiki/National_Archives_and_Records_Administration,National Archives and Records Administration,national-archives-and-records-administration,national-archives-and-records-administration,ORG
+Archives,32159752,1,10,,http://en.wikipedia.org/wiki/National_Archives_(UAE),National Archives,national-archives,national-archives-uae,ORG
+Archives,33484241,31,22,33486494,http://en.wikipedia.org/wiki/National_Archives_of_Singapore,National Archives of Singapore,national-archives-of-singapore,national-archives-of-singapore,UNK
+Archives,42592059,16,6,,http://en.wikipedia.org/wiki/Jane_Cameron_National_Archives,Jane Cameron National Archives,jane-cameron-national-archives,jane-cameron-national-archives,ORG
+Archives,33486494,17,18,33484241,http://en.wikipedia.org/wiki/National_Archives_of_Thailand,National Archives of Thailand,national-archives-of-thailand,national-archives-of-thailand,UNK
+African American,2154,10623,597,307;863;140270;3434750;15152533;70667;30838994;2154;179553;14426774;3500202;7023;1142503;9999228;21295163;391889;91268;431475;13015878;18886506,http://en.wikipedia.org/wiki/African_American,African American,african-american,african-american,UNK
+African American,140270,565,397,2154;14426774;9999228;7023;863;1142503;179553,http://en.wikipedia.org/wiki/African_American_Vernacular_English,African American Vernacular English,african-american-vernacular-english,african-american-vernacular-english,UNK
+African American,1142503,358,435,2154;307;140270;3434750;14426774;9999228;863,http://en.wikipedia.org/wiki/African-American_culture,African-American culture,african-american-culture,african-american-culture,ORG
+African American,21295163,10,71,32432;179553;77173;2154,http://en.wikipedia.org/wiki/African-American_heritage_of_United_States_presidents,African-American heritage of United States presidents,african-american-heritage-of-united-states-presidents,african-american-heritage-of-united-states-presidents,UNK
+African American,18886506,7,14,2154,http://en.wikipedia.org/wiki/African_American_Museum_(New_York),African American Museum,african-american-museum,african-american-museum-new-york,UNK
+African American,30838994,2,18,3434750;2154,http://en.wikipedia.org/wiki/African_American_Museum_(Dallas),African American Museum,african-american-museum,african-american-museum-dallas,UNK
+African American,15152533,1,19,2154,http://en.wikipedia.org/wiki/African_American_Family,African American Family,african-american-family,african-american-family,UNK
+African American,14516565,17,53,32432,http://en.wikipedia.org/wiki/African_Americans_in_the_Revolutionary_War,African Americans in the Revolutionary War,african-americans-in-the-revolutionary-war,african-americans-in-the-revolutionary-war,ORG
+African American,14426774,340,474,108956;2154;140270;3434750;9999228;1142503;179553,http://en.wikipedia.org/wiki/African-American_neighborhood,African-American neighborhood,african-american-neighborhood,african-american-neighborhood,UNK
+African American,391889,361,315,91268;2154;307;32432;9999228;391889;7023;863;179553,http://en.wikipedia.org/wiki/African_Americans_in_the_United_States_Congress,African Americans in the United States Congress,african-americans-in-the-united-states-congress,african-americans-in-the-united-states-congress,UNK
+African American,6965006,5,67,108956;3434750,http://en.wikipedia.org/wiki/African-American_organized_crime,African-American organized crime,african-american-organized-crime,african-american-organized-crime,UNK
+Washington,108956,32028,1189,307;863;70667;21921258;27293846;80734;6965006;637985;29804952;968589;2872747;77667;3434750;161535;14426774;3500202;1323983;38852264;22808822;6736104;13015878;32432;32087;31752;730793;34495894;6867764;179553;1095495;1222685;3832041;2057171;108956;1421794;20862995;22982228;431475;27986737;19537757;62520;41741779,"http://en.wikipedia.org/wiki/Washington,_D.C.","Washington, D.C.",washington-dc,washington-dc,GPE
+Washington,1446321,0,2,,"http://en.wikipedia.org/wiki/Washington,_England","Washington, England",washington-england,washington-england,GPE
+Washington,2039933,6,116,13015878;3434750,"http://en.wikipedia.org/wiki/Washington,_My_Home","Washington, My Home",washington-my-home,washington-my-home,UNK
+Washington,18746675,0,1,,"http://en.wikipedia.org/wiki/Washington,_IN_µSA","Washington, IN µSA",washington-in-µsa,washington-in-µsa,PER
+Washington,38852264,222,242,108956;6867764;19537757;8589494;20862995;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2014","Washington, D.C. mayoral election, 2014",washington-dc-mayoral-election-2014,washington-dc-mayoral-election-2014,PER
+Washington,22808822,35,95,3832041;108956;3434750,"http://en.wikipedia.org/wiki/Washington,_Baltimore_and_Annapolis_Electric_Railway","Washington, Baltimore and Annapolis Electric Railway",washington-baltimore-and-annapolis-electric-railway,washington-baltimore-and-annapolis-electric-railway,UNK
+Washington,5757618,147,192,,http://en.wikipedia.org/wiki/Washington_(footballer),Washington,washington,washington-footballer,PER
+Washington,10308149,1,1,,"http://en.wikipedia.org/wiki/Washington,_IN_μSA","Washington, IN μSA",washington-in-μsa,washington-in-μsa,PER
+Washington,20232735,3,11,,http://en.wikipedia.org/wiki/Washington_(SP-1241),Washington,washington,washington-sp-1241,UNK
+Washington,19537795,106,153,19537757;8589494;38852264;20862995;19537810;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1994","Washington, D.C. mayoral election, 1994",washington-dc-mayoral-election-1994,washington-dc-mayoral-election-1994,PER
+Washington,134086,890,469,32432;31752;161535;3434750;134086,"http://en.wikipedia.org/wiki/Washington,_Pennsylvania","Washington, Pennsylvania",washington-pennsylvania,washington-pennsylvania,GPE
+Washington,10289871,1,1,,"http://en.wikipedia.org/wiki/Washington,_NC_μSA","Washington, NC μSA",washington-nc-μsa,washington-nc-μsa,PER
+Washington,14698019,20,26,161535,"http://en.wikipedia.org/wiki/Washington,_Kentucky","Washington, Kentucky",washington-kentucky,washington-kentucky,UNK
+Washington,26677390,15,24,3434750;161535,http://en.wikipedia.org/wiki/Washington_Railroad_Station,Washington Railroad Station,washington-railroad-station,washington-railroad-station,UNK
+Washington,24921974,108,89,,http://en.wikipedia.org/wiki/Washington_(steamboat_1851),Washington,washington,washington-steamboat-1851,UNK
+Washington,637985,4,26,108956,"http://en.wikipedia.org/wiki/Washington,_DC_Metropolitan_Area_Special_Flight_Rules_Area","Washington, DC Metropolitan Area Special Flight Rules Area",washington-dc-metropolitan-area-special-flight-rules-area,washington-dc-metropolitan-area-special-flight-rules-area,UNK
+Washington,20862995,264,254,108956;6867764;19537757;8589494;38852264;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2010","Washington, D.C. mayoral election, 2010",washington-dc-mayoral-election-2010,washington-dc-mayoral-election-2010,UNK
+Washington,1923182,178,200,3434750,"http://en.wikipedia.org/wiki/Washington,_California","Washington, California",washington-california,washington-california,GPE
+Washington,2010233,51,39,,"http://en.wikipedia.org/wiki/Washington,_Mississippi","Washington, Mississippi",washington-mississippi,washington-mississippi,GPE
+Washington,7073789,6,91,3434750;77173,"http://en.wikipedia.org/wiki/Washington,_Brandywine_and_Point_Lookout_Railroad","Washington, Brandywine and Point Lookout Railroad",washington-brandywine-and-point-lookout-railroad,washington-brandywine-and-point-lookout-railroad,UNK
+Washington,3832041,24,38,22808822;108956,"http://en.wikipedia.org/wiki/Washington,_Baltimore_and_Annapolis_Trail","Washington, Baltimore and Annapolis Trail",washington-baltimore-and-annapolis-trail,washington-baltimore-and-annapolis-trail,UNK
+Washington,2508003,139,108,3434750,"http://en.wikipedia.org/wiki/Washington,_D.C._International_Stakes","Washington, D.C. International Stakes",washington-dc-international-stakes,washington-dc-international-stakes,UNK
+Washington,19537757,130,166,8589494;108956;38852264;20862995;19537810;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2002","Washington, D.C. mayoral election, 2002",washington-dc-mayoral-election-2002,washington-dc-mayoral-election-2002,UNK
+Washington,18746683,0,1,,"http://en.wikipedia.org/wiki/Washington,_NC_µSA","Washington, NC µSA",washington-nc-µsa,washington-nc-µsa,PER
+Washington,141810,0,13,,"http://en.wikipedia.org/wiki/Washington,_Wisconsin","Washington, Wisconsin",washington-wisconsin,washington-wisconsin,UNK
+Washington,1421794,67,104,108956;1421794;3434750,"http://en.wikipedia.org/wiki/Washington,_D.C._hardcore","Washington, D.C. hardcore",washington-dc-hardcore,washington-dc-hardcore,UNK
+Washington,6867764,223,206,108956;19537757;8589494;38852264;20862995;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2006","Washington, D.C. mayoral election, 2006",washington-dc-mayoral-election-2006,washington-dc-mayoral-election-2006,PER
+Washington,19537810,40,86,19537757;8589494;20862995;38852264;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1978","Washington, D.C. mayoral election, 1978",washington-dc-mayoral-election-1978,washington-dc-mayoral-election-1978,UNK
+Washington,27293846,15,184,108956,"http://en.wikipedia.org/wiki/Washington,_D.C._Jewish_Community_Center","Washington, D.C. Jewish Community Center",washington-dc-jewish-community-center,washington-dc-jewish-community-center,UNK
+Washington,111971,1213,92,32087;3434750;473630,"http://en.wikipedia.org/wiki/Washington,_Illinois","Washington, Illinois",washington-illinois,washington-illinois,UNK
+Washington,6736104,364,371,91268;108956;307;7023;31752;863;77667;360126,"http://en.wikipedia.org/wiki/Washington,_D.C.,_in_the_American_Civil_War","Washington, D.C., in the American Civil War",washington-dc-in-the-american-civil-war,washington-dc-in-the-american-civil-war,UNK
+Washington,7986044,0,9,161535,http://en.wikipedia.org/wiki/Ulmus_americana_'Washington',Ulmus americana 'Washington',ulmus-americana-washington,ulmus-americana-washington,UNK
+Washington,21921258,2,230,108956,"http://en.wikipedia.org/wiki/Washington,_Village_and_Capital,_1800-1878","Washington, Village and Capital, 1800-1878",washington-village-and-capital-1800-1878,washington-village-and-capital-1800-1878,UNK
+Washington,8589494,39,50,19537757;20862995;38852264;19537810;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1974","Washington, D.C. mayoral election, 1974",washington-dc-mayoral-election-1974,washington-dc-mayoral-election-1974,PER
+Washington,115760,56,66,863;3434750,"http://en.wikipedia.org/wiki/Washington,_Louisiana","Washington, Louisiana",washington-louisiana,washington-louisiana,GPE
+Washington,10308504,0,1,,"http://en.wikipedia.org/wiki/Washington,_OH_μSA","Washington, OH μSA",washington-oh-μsa,washington-oh-μsa,PER
+Washington,1489525,24,20,161535,http://en.wikipedia.org/wiki/Washington_(tree),Washington,washington,washington-tree,UNK
+Washington,24782674,99,91,,http://en.wikipedia.org/wiki/Megan_Washington,Megan Washington,megan-washington,megan-washington,UNK
+Washington,13015878,8843,1031,863;3434750;2154;179553;161535;6907489;2039933;108956;13015878;32432;32087,http://en.wikipedia.org/wiki/Washington_(state),Washington,washington,washington-state,UNK
+Washington,38467156,24,29,,"http://en.wikipedia.org/wiki/Washington,_Rhode_Island","Washington, Rhode Island",washington-rhode-island,washington-rhode-island,GPE
+Washington,40415474,2,3,,http://en.wikipedia.org/wiki/Washington_Motor_Company,Washington Motor Company,washington-motor-company,washington-motor-company,ORG
+Washington,18514024,3,20,,http://en.wikipedia.org/wiki/USS_Washington_(1775),USS Washington,uss-washington,uss-washington-1775,UNK
+South,1350838,37,39,,http://en.wikipedia.org/wiki/South_Tower_(Brussels),South Tower,south-tower,south-tower-brussels,UNK
+South,568483,420,426,84504;996451;3434750,http://en.wikipedia.org/wiki/South_Beach,South Beach,south-beach,south-beach,UNK
+South,216788,82,92,449174;9709,http://en.wikipedia.org/wiki/South_Shropshire,South Shropshire,south-shropshire,south-shropshire,UNK
+South,449149,236,203,440802,http://en.wikipedia.org/wiki/South_Northamptonshire,South Northamptonshire,south-northamptonshire,south-northamptonshire,UNK
+South,26716,9326,372,27906113;1987440;26716;8821915,http://en.wikipedia.org/wiki/South_Australia,South Australia,south-australia,south-australia,UNK
+South,9021998,63,103,,http://en.wikipedia.org/wiki/South_(Luton_ward),South,south,south-luton-ward,GPE
+South,2663338,83,95,,http://en.wikipedia.org/wiki/South_Lake_(Jiaxing),South Lake,south-lake,south-lake-jiaxing,UNK
+South,22899721,8,8,,http://en.wikipedia.org/wiki/South_(composition),South,south,south-composition,UNK
+South,22318270,14,85,,http://en.wikipedia.org/wiki/I_South,I South,i-south,i-south,UNK
+South,944685,104,21,863;32432;1829173;179553,http://en.wikipedia.org/wiki/Old_South,Old South,old-south,old-south,UNK
+South,179553,4331,756,3052573;863;21295163;360126;140270;3434750;451819;2154;391889;108956;944685;13015878;179553;14426774;32432;32087;7023;714729;1350904;77173,http://en.wikipedia.org/wiki/Southern_United_States,Southern United States,southern-united-states,southern-united-states,ORG
+South,996451,1030,139,84504;568483,http://en.wikipedia.org/wiki/South_Florida,South Florida,south-florida,south-florida,UNK
+South,1597301,27,83,,http://en.wikipedia.org/wiki/South_Hampshire,South Hampshire,south-hampshire,south-hampshire,UNK
+South,587062,10,22,587090;589425,http://en.wikipedia.org/wiki/South_River,South River,south-river,south-river,UNK
+South,373622,1150,84,380308,http://en.wikipedia.org/wiki/South_London,South London,south-london,south-london,UNK
+South,128405,924,395,128405;158001;832809,http://en.wikipedia.org/wiki/South_Gloucestershire,South Gloucestershire,south-gloucestershire,south-gloucestershire,GPE
+South,448967,232,211,,http://en.wikipedia.org/wiki/South_Cambridgeshire,South Cambridgeshire,south-cambridgeshire,south-cambridgeshire,GPE
+South,242033,70,62,27977;1685102,"http://en.wikipedia.org/wiki/South_Park_(Park_County,_Colorado)",South Park,south-park,south-park-park-county-colorado,UNK
+South,62049,2853,494,62046,http://en.wikipedia.org/wiki/South_Island,South Island,south-island,south-island,UNK
+South,27977,2839,468,27977;242033,http://en.wikipedia.org/wiki/South_Park,South Park,south-park,south-park,UNK
+South,31777432,1,17,,http://en.wikipedia.org/wiki/South_(EP),South,south,south-ep,UNK
+South,2321001,406,413,3434750,http://en.wikipedia.org/wiki/South_Street_(Philadelphia),South Street,south-street,south-street-philadelphia,UNK
+South,4267110,71,54,902120;4267190,"http://en.wikipedia.org/wiki/South_Province,_New_Caledonia","South Province, New Caledonia",south-province-new-caledonia,south-province-new-caledonia,UNK
+South,1353816,0,22,1353925,http://en.wikipedia.org/wiki/South_Mountain,South Mountain,south-mountain,south-mountain,UNK
+South,449168,670,262,449168,http://en.wikipedia.org/wiki/South_Oxfordshire,South Oxfordshire,south-oxfordshire,south-oxfordshire,GPE
+South,963515,328,222,161535;3434750;968589,http://en.wikipedia.org/wiki/South_Station,South Station,south-station,south-station,UNK
+South,674966,7,14,,http://en.wikipedia.org/wiki/South_Bay,South Bay,south-bay,south-bay,UNK
+South,901895,81,169,1971404,http://en.wikipedia.org/wiki/South_Region_(Cameroon),South Region,south-region,south-region-cameroon,UNK
+South,1745916,37,132,,http://en.wikipedia.org/wiki/South_Division_(AFL),South Division,south-division,south-division-afl,UNK
+South,449192,289,145,,http://en.wikipedia.org/wiki/South_Staffordshire,South Staffordshire,south-staffordshire,south-staffordshire,UNK
+South,587090,9,14,587062;589425;3434750,http://en.wikipedia.org/wiki/South_River_(North_Carolina),South River,south-river,south-river-north-carolina,UNK
+South,1054022,1364,360,415912;863;3434750,http://en.wikipedia.org/wiki/South_Texas,South Texas,south-texas,south-texas,UNK
+South,1490661,8,35,3434750,http://en.wikipedia.org/wiki/South_(band),South,south,south-band,UNK
+South,589425,5,8,3434750;587062;587090,http://en.wikipedia.org/wiki/South_River_(Neuse_River_estuary),South River,south-river,south-river-neuse-river-estuary,UNK
+South,1829173,1,8,944685,http://en.wikipedia.org/wiki/Old_South_(orange_juice),Old South,old-south,old-south-orange-juice,UNK
+South,440802,252,163,449149,http://en.wikipedia.org/wiki/South_Derbyshire,South Derbyshire,south-derbyshire,south-derbyshire,UNK
+South,1353925,32,23,1353816,http://en.wikipedia.org/wiki/South_Mountains_(Arizona),South Mountains,south-mountains,south-mountains-arizona,UNK
+South,2630353,229,173,,http://en.wikipedia.org/wiki/South_Arkansas,South Arkansas,south-arkansas,south-arkansas,UNK
+South,77173,435,46,7073789;3882672;56478;714729;179553;21295163,http://en.wikipedia.org/wiki/South,South,south,south,PER
+South,832809,1786,181,4887;686069;128405,http://en.wikipedia.org/wiki/South_Wales,South Wales,south-wales,south-wales,UNK
+South,3041572,183,128,2109618,http://en.wikipedia.org/wiki/South_Alabama,South Alabama,south-alabama,south-alabama,UNK
+South,678583,3936,449,1552939;678583,http://en.wikipedia.org/wiki/South_India,South India,south-india,south-india,GPE
+Lincoln,307,6553,852,307;863;3434750;34495894;70667;473630;2154;30358613;407554;35216788;7023;224020;1142503;3620640;360126;1222685;7599865;23456676;111697;22982228;391889;10545741;6736104;91268;29946791;8126347;108956;23322450;29804952;4051193;27056670;27986737;32432;62520;31752;41741779;199106;199107;77667,http://en.wikipedia.org/wiki/Abraham_Lincoln,Abraham Lincoln,abraham-lincoln,abraham-lincoln,PER
+Lincoln,23322450,11,11,307,http://en.wikipedia.org/wiki/Abraham_Lincoln_Association,Abraham Lincoln Association,abraham-lincoln-association,abraham-lincoln-association,UNK
+Lincoln,41741779,1,18,307;108956;7599865,http://en.wikipedia.org/wiki/Abraham_Lincoln_(Flannery),Abraham Lincoln,abraham-lincoln,abraham-lincoln-flannery,UNK
+Lincoln,199107,10,11,307;407554;199106,http://en.wikipedia.org/wiki/USS_Abraham_Lincoln,USS Abraham Lincoln,uss-abraham-lincoln,uss-abraham-lincoln,UNK
+Lincoln,23456676,2,9,307,http://en.wikipedia.org/wiki/Abraham_Lincoln_(Morse_books),Abraham Lincoln,abraham-lincoln,abraham-lincoln-morse-books,UNK
+Lincoln,39558026,3,10,3434750,http://en.wikipedia.org/wiki/Abraham_Lincoln_(George_Grey_Barnard),Abraham Lincoln,abraham-lincoln,abraham-lincoln-george-grey-barnard,UNK
+Lincoln,8126347,10,21,3434750;307,http://en.wikipedia.org/wiki/Abraham_Lincoln_II,Abraham Lincoln II,abraham-lincoln-ii,abraham-lincoln-ii,PER
+Lincoln,4051193,74,89,307;7599865;22982228;10545741,http://en.wikipedia.org/wiki/Abraham_Lincoln_(captain),Abraham Lincoln,abraham-lincoln,abraham-lincoln-captain,PER
+Lincoln,407554,18,47,307;199107,http://en.wikipedia.org/wiki/USS_Abraham_Lincoln_(SSBN-602),USS Abraham Lincoln,uss-abraham-lincoln,uss-abraham-lincoln-ssbn-602,UNK
+Lincoln,35216788,10,9,307,http://en.wikipedia.org/wiki/Abraham_Lincoln_(play),Abraham Lincoln,abraham-lincoln,abraham-lincoln-play,UNK
+Lincoln,22982228,10,157,307;7599865;108956;161535;10545741;4051193,http://en.wikipedia.org/wiki/Abraham_Lincoln_(French_1920),Abraham Lincoln,abraham-lincoln,abraham-lincoln-french-1920,UNK
+Lincoln,26115673,2,4,,"http://en.wikipedia.org/wiki/Abraham_Lincoln,_Friend_of_the_People","Abraham Lincoln, Friend of the People",abraham-lincoln-friend-of-the-people,abraham-lincoln-friend-of-the-people,UNK
+Lincoln,27986737,0,14,307;108956,http://en.wikipedia.org/wiki/Abraham_Lincoln_(French_1912),Abraham Lincoln,abraham-lincoln,abraham-lincoln-french-1912,UNK
+Lincoln,15493509,124,138,3434750,http://en.wikipedia.org/wiki/Abraham_Lincoln_(train),Abraham Lincoln,abraham-lincoln,abraham-lincoln-train,UNK
+Lincoln,34495894,5,28,108956;10545741;307;863;31752,http://en.wikipedia.org/wiki/Abraham_Lincoln_(Healy),Abraham Lincoln,abraham-lincoln,abraham-lincoln-healy,UNK
+Lincoln,199106,204,125,307;199107;3434750,http://en.wikipedia.org/wiki/USS_Abraham_Lincoln_(CVN-72),USS Abraham Lincoln,uss-abraham-lincoln,uss-abraham-lincoln-cvn-72,UNK
+Lincoln,7599865,77,265,7023;41741779;307;31752;22982228;863;10545741;4051193,http://en.wikipedia.org/wiki/Abraham_Lincoln_cultural_depictions,Abraham Lincoln cultural depictions,abraham-lincoln-cultural-depictions,abraham-lincoln-cultural-depictions,UNK
+Lincoln,27056670,4,14,307;863;70667;3434750,http://en.wikipedia.org/wiki/Abraham_Lincoln_Institute,Abraham Lincoln Institute,abraham-lincoln-institute,abraham-lincoln-institute,ORG
+Lincoln,8724563,14,23,,http://en.wikipedia.org/wiki/Abraham_Lincoln_University,Abraham Lincoln University,abraham-lincoln-university,abraham-lincoln-university,UNK
+Lincoln,29804952,42,81,29946791;307;108956;863,http://en.wikipedia.org/wiki/Abraham_Lincoln_(relief_by_Schwarz),Abraham Lincoln,abraham-lincoln,abraham-lincoln-relief-by-schwarz,UNK
+Lincoln,29946791,41,63,29804952;307;3434750,http://en.wikipedia.org/wiki/Abraham_Lincoln_(bust_by_Jones),Abraham Lincoln,abraham-lincoln,abraham-lincoln-bust-by-jones,UNK
+Lincoln,3620640,3,97,307;3434750;161535,http://en.wikipedia.org/wiki/Abraham_Lincoln_(Pullman_car),Abraham Lincoln,abraham-lincoln,abraham-lincoln-pullman-car,UNK
+Lincoln,30358613,203,227,307;3434750,http://en.wikipedia.org/wiki/Abraham_Lincoln_(Cecere),Abraham Lincoln,abraham-lincoln,abraham-lincoln-cecere,UNK
+Lincoln,10545741,70,102,307;7599865;22982228;34495894;4051193,http://en.wikipedia.org/wiki/Abraham_Lincoln_and_religion,Abraham Lincoln and religion,abraham-lincoln-and-religion,abraham-lincoln-and-religion,UNK
+Lincoln,32944804,2,4,,http://en.wikipedia.org/wiki/Abraham_Lincoln_(Rogers),Abraham Lincoln,abraham-lincoln,abraham-lincoln-rogers,UNK
+Army,32087,27195,969,863;1376;179553;7023;10705678;360126;359136;111971;108956;1852603;121796;3434750;91268;13015878;32432;32087;31752,http://en.wikipedia.org/wiki/United_States_Army,United States Army,united-states-army,united-states-army,ORG
+Army,34901366,16,6,,http://en.wikipedia.org/wiki/Army_SC,Army SC,army-sc,army-sc,ORG
+Army,2376539,9,18,1440015;2306621,http://en.wikipedia.org/wiki/Army_general_(Russia),Army general,army-general,army-general-russia,UNK
+Army,3217,253,192,,http://en.wikipedia.org/wiki/Army_of_Darkness,Army of Darkness,army-of-darkness,army-of-darkness,UNK
+Army,36483521,10,30,10952540;20936332,http://en.wikipedia.org/wiki/Second_Army_(Romania),Second Army,second-army,second-army-romania,ORG
+Army,7172920,5,37,923364;465070,http://en.wikipedia.org/wiki/First_Army_(Japan),First Army,first-army,first-army-japan,ORG
+Army,1780085,25,66,1458329,http://en.wikipedia.org/wiki/Second_Army_(Turkey),Second Army,second-army,second-army-turkey,UNK
+Army,8821915,13,12,26716;465085,http://en.wikipedia.org/wiki/Second_Army_(Australia),Second Army,second-army,second-army-australia,ORG
+Army,1458329,36,87,1780085;465070;20936332,http://en.wikipedia.org/wiki/First_Army_(Turkey),First Army,first-army,first-army-turkey,UNK
+Army,2306621,4,18,1440015;2376539,http://en.wikipedia.org/wiki/Army_general_(Soviet_Union),Army general,army-general,army-general-soviet-union,ORG
+Army,14280090,6,10,,http://en.wikipedia.org/wiki/Army_(newspaper),Army,army,army-newspaper,ORG
+Army,1962132,1,17,,http://en.wikipedia.org/wiki/Army_general_(East_Germany),Army general,army-general,army-general-east-germany,GPE
+Army,2306635,4,16,1440015;611740,http://en.wikipedia.org/wiki/Army_general_(France),Army general,army-general,army-general-france,UNK
+Army,20936332,361,65,27430583;1376;1926173;1458329;10952540;1628074;10537289;753281;36483521;9354727;555031,http://en.wikipedia.org/wiki/Field_army,Field army,field-army,field-army,PER
+Army,465070,0,18,1458329;1624502;1628074;1460656;1624386;1627953;7172920;1926173;10952540,http://en.wikipedia.org/wiki/First_Army,First Army,first-army,first-army,UNK
+Army,24325011,49,41,11702744,http://en.wikipedia.org/wiki/Army_Norway_(Wehrmacht),Army Norway,army-norway,army-norway-wehrmacht,ORG
+Army,9742241,32,30,26295,http://en.wikipedia.org/wiki/Don_Army,Don Army,don-army,don-army,UNK
+Army,11702744,62,216,24325011;555031,http://en.wikipedia.org/wiki/German_Army_(1935–45),German Army,german-army,german-army-1935–45,ORG
+Army,604299,298,198,,http://en.wikipedia.org/wiki/Army–Navy_Game,Army–Navy Game,army–navy-game,army–navy-game,UNK
+Army,11510446,46,11,465085;611740,http://en.wikipedia.org/wiki/Second_Army_(France),Second Army,second-army,second-army-france,ORG
+Army,10952540,16,39,465070;20936332;36483521,http://en.wikipedia.org/wiki/First_Army_(Romania),First Army,first-army,first-army-romania,ORG
+Army,22165635,10,14,,http://en.wikipedia.org/wiki/Second_Army_(Italy),Second Army,second-army,second-army-italy,UNK
+Army,359136,589,170,15214;1376;27821862;3434750;4887;32087;611740,http://en.wikipedia.org/wiki/Irish_Army,Irish Army,irish-army,irish-army,ORG
+Army,465085,0,10,27430583;39796150;11510446;8821915,http://en.wikipedia.org/wiki/Second_Army,Second Army,second-army,second-army,UNK
+Army,1460656,14,37,465070;1376;10537289,http://en.wikipedia.org/wiki/First_Army_(Serbia),First Army,first-army,first-army-serbia,UNK
+Army,4887,12457,445,1376;4887;359136;9709;15214;27821862;1197164;611740;832809,http://en.wikipedia.org/wiki/British_Army,British Army,british-army,british-army,UNK
+Army,1624502,49,81,1376;465070,http://en.wikipedia.org/wiki/First_Army_(Austria-Hungary),First Army,first-army,first-army-austria-hungary,ORG
+Army,1627953,13,23,465070,http://en.wikipedia.org/wiki/First_Army_(Italy),First Army,first-army,first-army-italy,PER
+Army,360126,6794,419,307;863;473630;349174;179553;7023;6736104;91268;32432;32087;31752;77667,http://en.wikipedia.org/wiki/Union_Army,Union Army,union-army,union-army,UNK
+Army,611740,1714,183,4887;2306635;1376;359136;31062367;1796650;11510446;555031,http://en.wikipedia.org/wiki/French_Army,French Army,french-army,french-army,ORG
+Army,27821862,52,64,4887;153527;15214;359136,http://en.wikipedia.org/wiki/National_Army_(Ireland),National Army,national-army,national-army-ireland,ORG
+Army,555031,185,109,11702744;611740;1376;9354727;20936332,http://en.wikipedia.org/wiki/Army_group,Army group,army-group,army-group,UNK
+Army,1926173,75,154,465070;27430583;20936332;10537289,http://en.wikipedia.org/wiki/First_Army_(Bulgaria),First Army,first-army,first-army-bulgaria,UNK
+Army,10537289,16,16,1460656;1926173;27430583;20936332,http://en.wikipedia.org/wiki/Second_Army_(Serbia),Second Army,second-army,second-army-serbia,ORG
+Army,27430583,59,165,1926173;465085;20936332;10537289,http://en.wikipedia.org/wiki/Second_Army_(Bulgaria),Second Army,second-army,second-army-bulgaria,UNK
+Army,17318610,1,77,3434750;161535,http://en.wikipedia.org/wiki/Army_Theatre,Army Theatre,army-theatre,army-theatre,UNK
+Army,1624386,13,311,9354727;465070,http://en.wikipedia.org/wiki/First_Army_(Hungary),First Army,first-army,first-army-hungary,ORG
+Army,21206842,0,62,,http://en.wikipedia.org/wiki/Army_Club,Army Club,army-club,army-club,UNK
+Army,1440015,29,9,2376539;2306635;2306621,http://en.wikipedia.org/wiki/Army_general,Army general,army-general,army-general,ORG
+Army,1376,1700,154,1460656;4887;611740;1624502;1376;3434750;359136;9709;32087;20936332;555031,http://en.wikipedia.org/wiki/Army,Army,army,army,UNK
+Army,21716095,1,98,,"http://en.wikipedia.org/wiki/Army,_Navy_and_Air_Force_Veterans_in_Canada","Army, Navy and Air Force Veterans in Canada",army-navy-and-air-force-veterans-in-canada,army-navy-and-air-force-veterans-in-canada,UNK
+Army,35205664,0,2,,http://en.wikipedia.org/wiki/Army_Stadium,Army Stadium,army-stadium,army-stadium,UNK
+Army,753281,712,295,20936332,http://en.wikipedia.org/wiki/Roman_army,Roman army,roman-army,roman-army,UNK
+Army,1628074,63,63,465070;20936332,http://en.wikipedia.org/wiki/First_Army_(Greece),First Army,first-army,first-army-greece,UNK
+Army,39796150,7,9,465085,http://en.wikipedia.org/wiki/Second_Army_(Egypt),Second Army,second-army,second-army-egypt,PER
+Army,9354727,82,464,1624386;20936332;555031,http://en.wikipedia.org/wiki/Second_Army_(Hungary),Second Army,second-army,second-army-hungary,ORG
+James,6907489,260,278,13015878;522700,http://en.wikipedia.org/wiki/James_Island_(San_Juan_Islands),James Island,james-island,james-island-san-juan-islands,UNK
+James,431475,101,81,108956;3434750;2154,http://en.wikipedia.org/wiki/James_Kent,James Kent,james-kent,james-kent,PER
+James,772762,126,148,3434750;3636902,http://en.wikipedia.org/wiki/Arthur_James_(politician),Arthur James,arthur-james,arthur-james-politician,PER
+James,22850697,0,8,,"http://en.wikipedia.org/wiki/James,_Hoyer,_Newcomer_&_Smiljanich,_P.A.","James, Hoyer, Newcomer & Smiljanich, P.A.",james-hoyer-newcomer-smiljanich-pa,james-hoyer-newcomer-smiljanich-pa,ORG
+James,5354199,107,94,,http://en.wikipedia.org/wiki/James_Cycle_Co,James Cycle Co,james-cycle-co,james-cycle-co,ORG
+James,1057312,108,111,428205,http://en.wikipedia.org/wiki/James_the_Red_Engine,James the Red Engine,james-the-red-engine,james-the-red-engine,GPE
+James,1874250,47,74,522700,http://en.wikipedia.org/wiki/James_Island_(British_Columbia),James Island,james-island,james-island-british-columbia,GPE
+James,1951287,28,33,,http://en.wikipedia.org/wiki/James_College,James College,james-college,james-college,UNK
+James,42667635,56,14,42667603,"http://en.wikipedia.org/wiki/James,_Duke_of_Rothesay_(born_1540)","James, Duke of Rothesay",james-duke-of-rothesay,james-duke-of-rothesay-born-1540,PER
+James,27311323,37,25,,http://en.wikipedia.org/wiki/James_(musician),James,james,james-musician,UNK
+James,4220977,11,11,4221137,http://en.wikipedia.org/wiki/James_Hill_(film_producer),James Hill,james-hill,james-hill-film-producer,PER
+James,4333496,17,12,,http://en.wikipedia.org/wiki/James_River_(Missouri),James River,james-river,james-river-missouri,UNK
+James,1220319,8,14,,http://en.wikipedia.org/wiki/James_Park,James Park,james-park,james-park,PER
+James,5574804,16,15,4221137,http://en.wikipedia.org/wiki/James_Hill_(Conservative_politician),James Hill,james-hill,james-hill-conservative-politician,PER
+James,1279137,51,45,,http://en.wikipedia.org/wiki/St._James_(electoral_district),St. James,st-james,st-james-electoral-district,UNK
+James,9688,295,175,,http://en.wikipedia.org/wiki/Epistle_of_James,Epistle of James,epistle-of-james,epistle-of-james,UNK
+James,1653827,0,5,,http://en.wikipedia.org/wiki/James_Wales,James Wales,james-wales,james-wales,PER
+James,11308337,3,6,,"http://en.wikipedia.org/wiki/James,_Azadanus_and_Abdicius","James, Azadanus and Abdicius",james-azadanus-and-abdicius,james-azadanus-and-abdicius,PER
+James,5522391,53,16,,http://en.wikipedia.org/wiki/James_Castle_(politician),James Castle,james-castle,james-castle-politician,PER
+James,7373240,14,10,32432;318524,http://en.wikipedia.org/wiki/James_City_(Virginia_Company),James City,james-city,james-city-virginia-company,UNK
+James,3636902,0,8,772762,http://en.wikipedia.org/wiki/Arthur_James,Arthur James,arthur-james,arthur-james,PER
+James,5681367,10,11,4221137,http://en.wikipedia.org/wiki/James_Hill_(folk_musician),James Hill,james-hill,james-hill-folk-musician,UNK
+James,894970,134,104,894970,http://en.wikipedia.org/wiki/James_and_the_Giant_Peach,James and the Giant Peach,james-and-the-giant-peach,james-and-the-giant-peach,UNK
+James,1852603,330,287,7637553;32087,http://en.wikipedia.org/wiki/Don_James_(American_football),Don James,don-james,don-james-american-football,PER
+James,7484943,23,64,9709,http://en.wikipedia.org/wiki/James_Temple,James Temple,james-temple,james-temple,UNK
+James,296258,0,6,,http://en.wikipedia.org/wiki/James_III,James III,james-iii,james-iii,PER
+James,7637553,0,6,1852603,http://en.wikipedia.org/wiki/Don_James,Don James,don-james,don-james,PER
+James,5117022,118,133,,http://en.wikipedia.org/wiki/James_Washington,James Washington,james-washington,james-washington,PER
+James,4221137,32,27,5681367;4220977;5574804,http://en.wikipedia.org/wiki/James_Hill,James Hill,james-hill,james-hill,PER
+James,42667603,48,15,42667635,"http://en.wikipedia.org/wiki/James,_Duke_of_Rothesay_(born_1507)","James, Duke of Rothesay",james-duke-of-rothesay,james-duke-of-rothesay-born-1507,PER
+James,2384324,59,25,522700;863,http://en.wikipedia.org/wiki/James_Island_(South_Carolina),James Island,james-island,james-island-south-carolina,UNK
+James,224020,466,176,349174;307;32432;3434750;31752,http://en.wikipedia.org/wiki/James_River,James River,james-river,james-river,UNK
+James,522700,1,6,1874250;2384324;6907489,http://en.wikipedia.org/wiki/James_Island,James Island,james-island,james-island,UNK
+James,7472067,4,11,,http://en.wikipedia.org/wiki/James_Castle_(sculptor),James Castle,james-castle,james-castle-sculptor,PER
+James,4260934,69,85,4610444,http://en.wikipedia.org/wiki/Saint_James_(VTA),Saint James,saint-james,saint-james-vta,UNK
+James,3218157,15,16,,http://en.wikipedia.org/wiki/King_James_(band),King James,king-james,king-james-band,UNK
+James,2398349,68,67,3434750,http://en.wikipedia.org/wiki/Edward_James,Edward James,edward-james,edward-james,UNK
+James,607459,53,30,3434750,http://en.wikipedia.org/wiki/James_River_(Dakotas),James River,james-river,james-river-dakotas,UNK
+James,2438960,62,31,,http://en.wikipedia.org/wiki/Edward_James_(historian),Edward James,edward-james,edward-james-historian,UNK
+James,22412907,221,222,3434750,"http://en.wikipedia.org/wiki/James,_California","James, California",james-california,james-california,GPE
+James,58642,1043,346,3434750,http://en.wikipedia.org/wiki/James_Bay,James Bay,james-bay,james-bay,UNK
+James,26099959,3,4,,http://en.wikipedia.org/wiki/James_the_Apostle,James the Apostle,james-the-apostle,james-the-apostle,PER
+James,14251224,38,49,,"http://en.wikipedia.org/wiki/James,_Ontario","James, Ontario",james-ontario,james-ontario,GPE
+Lewis Martin,37734886,19,29,3434750,http://en.wikipedia.org/wiki/Lewis_Martin_(actor),Lewis Martin,lewis-martin,lewis-martin-actor,PER
+Lewis Martin,36089082,29,19,,http://en.wikipedia.org/wiki/Lewis_Martin_(Australian_politician),Lewis Martin,lewis-martin,lewis-martin-australian-politician,PER
+Petersburg,91268,1247,408,4678813;2154;307;138399;32432;3552691;21755695;32087;7023;31752;863;360126;349174;161535;3434750;391889;77667;6736104,"http://en.wikipedia.org/wiki/Petersburg,_Virginia","Petersburg, Virginia",petersburg-virginia,petersburg-virginia,GPE
+Petersburg,84504,2840,627,40705069;3434750;568483;996451;24320051;9881561,"http://en.wikipedia.org/wiki/St._Petersburg,_Florida","St. Petersburg, Florida",st-petersburg-florida,st-petersburg-florida,GPE
+Petersburg,111697,86,65,307;31196409;3434750,"http://en.wikipedia.org/wiki/Petersburg,_Illinois","Petersburg, Illinois",petersburg-illinois,petersburg-illinois,UNK
+Petersburg,128656,22,50,3434750,"http://en.wikipedia.org/wiki/Petersburg,_North_Dakota","Petersburg, North Dakota",petersburg-north-dakota,petersburg-north-dakota,GPE
+Petersburg,3484118,53,57,29474618;3434750,"http://en.wikipedia.org/wiki/Petersburg,_Mahoning_County,_Ohio","Petersburg, Mahoning County, Ohio",petersburg-mahoning-county-ohio,petersburg-mahoning-county-ohio,GPE
+Petersburg,105719,249,134,,"http://en.wikipedia.org/wiki/Petersburg,_Alaska","Petersburg, Alaska",petersburg-alaska,petersburg-alaska,GPE
+Petersburg,29474357,35,51,29474618;3434750,"http://en.wikipedia.org/wiki/Petersburg,_Carroll_County,_Ohio","Petersburg, Carroll County, Ohio",petersburg-carroll-county-ohio,petersburg-carroll-county-ohio,GPE
+Petersburg,135972,29,41,3434750,"http://en.wikipedia.org/wiki/Petersburg,_Texas","Petersburg, Texas",petersburg-texas,petersburg-texas,GPE
+Petersburg,21417147,43,57,3434750,"http://en.wikipedia.org/wiki/Petersburg,_Wisconsin","Petersburg, Wisconsin",petersburg-wisconsin,petersburg-wisconsin,GPE
+Petersburg,29474618,5,3,29474357;3484118,"http://en.wikipedia.org/wiki/Petersburg,_Ohio","Petersburg, Ohio",petersburg-ohio,petersburg-ohio,GPE
+Petersburg,16714854,0,2,16714927;16714875,"http://en.wikipedia.org/wiki/Petersburg,_Iowa","Petersburg, Iowa",petersburg-iowa,petersburg-iowa,UNK
+Petersburg,16524367,16,20,16714635,"http://en.wikipedia.org/wiki/Petersburg,_Madison_County,_North_Carolina","Petersburg, Madison County, North Carolina",petersburg-madison-county-north-carolina,petersburg-madison-county-north-carolina,GPE
+Petersburg,5509810,43,46,11399507;3434750,"http://en.wikipedia.org/wiki/Petersburg,_Boone_County,_Kentucky","Petersburg, Boone County, Kentucky",petersburg-boone-county-kentucky,petersburg-boone-county-kentucky,GPE
+Petersburg,132682,79,98,3434750,"http://en.wikipedia.org/wiki/Petersburg,_Pennsylvania","Petersburg, Pennsylvania",petersburg-pennsylvania,petersburg-pennsylvania,GPE
+Petersburg,16714736,20,29,16714635,"http://en.wikipedia.org/wiki/Petersburg,_Burke_County,_North_Carolina","Petersburg, Burke County, North Carolina",petersburg-burke-county-north-carolina,petersburg-burke-county-north-carolina,GPE
+Petersburg,34385403,0,3,120386,http://en.wikipedia.org/wiki/Petersburg_Township,Petersburg Township,petersburg-township,petersburg-township,GPE
+Petersburg,120386,29,57,3434750;34385403,"http://en.wikipedia.org/wiki/Petersburg_Township,_Jackson_County,_Minnesota","Petersburg Township, Jackson County, Minnesota",petersburg-township-jackson-county-minnesota,petersburg-township-jackson-county-minnesota,GPE
+Petersburg,4678813,20,7,91268;77667;863,http://en.wikipedia.org/wiki/Petersburg_Railroad,Petersburg Railroad,petersburg-railroad,petersburg-railroad,UNK
+Petersburg,12995116,3,248,11399507,"http://en.wikipedia.org/wiki/Petersburg,_Louisville","Petersburg, Louisville",petersburg-louisville,petersburg-louisville,UNK
+Petersburg,118199,51,67,3434750,"http://en.wikipedia.org/wiki/Petersburg,_Michigan","Petersburg, Michigan",petersburg-michigan,petersburg-michigan,GPE
+Petersburg,24320051,8549,998,3434750;24320051;84504;26295;11772,http://en.wikipedia.org/wiki/Saint_Petersburg,Saint Petersburg,saint-petersburg,saint-petersburg,UNK
+Petersburg,138399,344,351,91268;161535;3434750,"http://en.wikipedia.org/wiki/Petersburg,_West_Virginia","Petersburg, West Virginia",petersburg-west-virginia,petersburg-west-virginia,GPE
+Petersburg,21755695,2995,181,91268;41537274;161535;77667,"http://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Petersburg,_Virginia","National Register of Historic Places listings in Petersburg, Virginia",national-register-of-historic-places-listings-in-petersburg-virginia,national-register-of-historic-places-listings-in-petersburg-virginia,UNK
+Petersburg,31196409,39,54,3434750;111697,"http://en.wikipedia.org/wiki/Lake_Petersburg,_Illinois","Lake Petersburg, Illinois",lake-petersburg-illinois,lake-petersburg-illinois,GPE
+Petersburg,22567003,472,338,3434750,"http://en.wikipedia.org/wiki/Petersburg,_California","Petersburg, California",petersburg-california,petersburg-california,UNK
+Petersburg,11399507,7,7,5509810;12995116,"http://en.wikipedia.org/wiki/Petersburg,_Kentucky","Petersburg, Kentucky",petersburg-kentucky,petersburg-kentucky,UNK
+Petersburg,123685,18,34,3434750,"http://en.wikipedia.org/wiki/Petersburg,_Nebraska","Petersburg, Nebraska",petersburg-nebraska,petersburg-nebraska,GPE
+Petersburg,34586842,0,7,,http://en.wikipedia.org/wiki/Saint-Petersburg_(hotel_Saint-Petersburg),Saint-Petersburg,saint-petersburg,saint-petersburg-hotel-saint-petersburg,UNK
+Petersburg,40705069,102,116,84504,"http://en.wikipedia.org/wiki/St._Petersburg,_Florida_mayoral_election,_2013","St. Petersburg, Florida mayoral election, 2013",st-petersburg-florida-mayoral-election-2013,st-petersburg-florida-mayoral-election-2013,PER
+Petersburg,16714635,0,4,16524781;16714736;16524367,"http://en.wikipedia.org/wiki/Petersburg,_North_Carolina","Petersburg, North Carolina",petersburg-north-carolina,petersburg-north-carolina,UNK
+Petersburg,16714927,38,44,16714854;3434750,"http://en.wikipedia.org/wiki/Petersburg,_Muscatine_County,_Iowa","Petersburg, Muscatine County, Iowa",petersburg-muscatine-county-iowa,petersburg-muscatine-county-iowa,GPE
+Petersburg,16524781,21,29,16714635,"http://en.wikipedia.org/wiki/Petersburg,_Onslow_County,_North_Carolina","Petersburg, Onslow County, North Carolina",petersburg-onslow-county-north-carolina,petersburg-onslow-county-north-carolina,GPE
+Petersburg,112536,132,58,3434750,"http://en.wikipedia.org/wiki/Petersburg,_Indiana","Petersburg, Indiana",petersburg-indiana,petersburg-indiana,GPE
+Petersburg,9881561,2,12,84504,"http://en.wikipedia.org/wiki/St._Petersburg,_Florida_riot_of_1996","St. Petersburg, Florida riot of 1996",st-petersburg-florida-riot-of-1996,st-petersburg-florida-riot-of-1996,UNK
+Petersburg,151092,34,62,3434750,"http://en.wikipedia.org/wiki/Petersburg,_Tennessee","Petersburg, Tennessee",petersburg-tennessee,petersburg-tennessee,GPE
+Petersburg,3552691,11,18,91268;863,"http://en.wikipedia.org/wiki/Petersburg,_Georgia","Petersburg, Georgia",petersburg-georgia,petersburg-georgia,GPE
+Petersburg,28865920,51,74,,"http://en.wikipedia.org/wiki/St_Petersburg,_New_Zealand","St Petersburg, New Zealand",st-petersburg-new-zealand,st-petersburg-new-zealand,UNK
+Petersburg,35199961,67,80,,"http://en.wikipedia.org/wiki/Petersburg,_Delaware","Petersburg, Delaware",petersburg-delaware,petersburg-delaware,UNK
+Petersburg,77667,1121,416,91268;4678813;108956;307;32432;21755695;7023;31752;863;360126;161535;3434750;6736104,http://en.wikipedia.org/wiki/Siege_of_Petersburg,Siege of Petersburg,siege-of-petersburg,siege-of-petersburg,UNK
+Petersburg,16714875,39,40,16714854,"http://en.wikipedia.org/wiki/Petersburg,_Delaware_County,_Iowa","Petersburg, Delaware County, Iowa",petersburg-delaware-county-iowa,petersburg-delaware-county-iowa,GPE
+Petersburg,131949,59,79,3434750,"http://en.wikipedia.org/wiki/St._Petersburg,_Pennsylvania","St. Petersburg, Pennsylvania",st-petersburg-pennsylvania,st-petersburg-pennsylvania,GPE
+Virginia,32432,24493,1265,307;730793;863;31044421;349174;944685;8487332;36783294;179553;664039;318524;7085;7023;485205;10705678;21295163;360126;1222685;9709;391889;134086;108956;2343624;77667;20579679;3434750;473630;3777288;8156515;161535;224020;1079790;14516565;7373240;91268;13015878;32432;32087,http://en.wikipedia.org/wiki/Virginia,Virginia,virginia,virginia,GPE
+Virginia,664039,428,183,32432;3434750;863,"http://en.wikipedia.org/wiki/Virginia_City,_Nevada","Virginia City, Nevada",virginia-city-nevada,virginia-city-nevada,GPE
+Virginia,31044421,31,32,32432,http://en.wikipedia.org/wiki/Virginia_Association,Virginia Association,virginia-association,virginia-association,UNK
+Virginia,32742,1058,141,32742;569595,http://en.wikipedia.org/wiki/Virginia_Woolf,Virginia Woolf,virginia-woolf,virginia-woolf,UNK
+Virginia,27906113,68,45,26716,"http://en.wikipedia.org/wiki/Virginia,_South_Australia","Virginia, South Australia",virginia-south-australia,virginia-south-australia,UNK
+Virginia,4610444,69,86,4260934,http://en.wikipedia.org/wiki/Virginia_(VTA),Virginia,virginia,virginia-vta,UNK
+Virginia,19713353,66,90,,http://en.wikipedia.org/wiki/Virginia_Theatre_(Champaign),Virginia Theatre,virginia-theatre,virginia-theatre-champaign,UNK
+Virginia,25488553,6,18,,http://en.wikipedia.org/wiki/Virginia_Airport,Virginia Airport,virginia-airport,virginia-airport,UNK
+Virginia,110868,53,50,3434750,"http://en.wikipedia.org/wiki/Virginia,_Illinois","Virginia, Illinois",virginia-illinois,virginia-illinois,UNK
+Virginia,4459271,8,37,3434750,http://en.wikipedia.org/wiki/Virginia_(genus),Virginia,virginia,virginia-genus,PER
+Virginia,33801672,5,23,3434750,http://en.wikipedia.org/wiki/Virginia_Lake_(Sawtooth_Wilderness),Virginia Lake,virginia-lake,virginia-lake-sawtooth-wilderness,UNK
+Virginia,349174,515,281,91268;32432;224020;863;360126,http://en.wikipedia.org/wiki/Virginia_Peninsula,Virginia Peninsula,virginia-peninsula,virginia-peninsula,UNK
+Virginia,41537274,2,145,161535;21755695;3434750,http://en.wikipedia.org/wiki/The_Virginia,The Virginia,the-virginia,the-virginia,UNK
+Virginia,1830938,8,13,,http://en.wikipedia.org/wiki/Virginia_Mountains,Virginia Mountains,virginia-mountains,virginia-mountains,UNK
+Virginia,10705678,483,506,32432;32087;10705678,http://en.wikipedia.org/wiki/Virginia_Tech_massacre,Virginia Tech massacre,virginia-tech-massacre,virginia-tech-massacre,UNK
+Virginia,19171022,5,51,318524,http://en.wikipedia.org/wiki/Virginia_(pinnace),Virginia,virginia,virginia-pinnace,UNK
+Virginia,8156515,37,20,32432,http://en.wikipedia.org/wiki/Virginia_Regiment,Virginia Regiment,virginia-regiment,virginia-regiment,ORG
+Virginia,1079790,49,58,32432;3434750,"http://en.wikipedia.org/wiki/Virginia,_Free_State","Virginia, Free State",virginia-free-state,virginia-free-state,UNK
+Virginia,981714,22,90,,http://en.wikipedia.org/wiki/Virginia_Hill,Virginia Hill,virginia-hill,virginia-hill,UNK
+Virginia,730793,12,70,32432;108956,http://en.wikipedia.org/wiki/50_Virginia,50 Virginia,50-virginia,50-virginia,UNK
+Virginia,23401412,31,84,,http://en.wikipedia.org/wiki/Virginia_(Mercadante),Virginia,virginia,virginia-mercadante,UNK
+Virginia,19184064,5,22,3434750,http://en.wikipedia.org/wiki/Virginia_(schooner),Virginia,virginia,virginia-schooner,UNK
+Virginia,7106462,205,206,,"http://en.wikipedia.org/wiki/Virginia,_Queensland","Virginia, Queensland",virginia-queensland,virginia-queensland,UNK
+Virginia,318524,226,93,19171022;32432;7373240,http://en.wikipedia.org/wiki/Virginia_Company,Virginia Company,virginia-company,virginia-company,UNK
+Virginia,25205130,55,63,3434750;161535,http://en.wikipedia.org/wiki/Virginia_Building,Virginia Building,virginia-building,virginia-building,UNK
+Virginia,10703664,19,22,,http://en.wikipedia.org/wiki/La_Virginia,La Virginia,la-virginia,la-virginia,UNK
+Virginia,34342,299,238,863,"http://en.wikipedia.org/wiki/Yes,_Virginia,_there_is_a_Santa_Claus","Yes, Virginia, there is a Santa Claus",yes-virginia-there-is-a-santa-claus,yes-virginia-there-is-a-santa-claus,UNK
+Virginia,29449499,1,15,,http://en.wikipedia.org/wiki/Virginia_Valley,Virginia Valley,virginia-valley,virginia-valley,UNK
+Virginia,16673633,32,42,,"http://en.wikipedia.org/wiki/Virginia,_Northern_Territory","Virginia, Northern Territory",virginia-northern-territory,virginia-northern-territory,UNK
+Virginia,20579679,8,17,32432,"http://en.wikipedia.org/wiki/Virginia,_Liberia","Virginia, Liberia",virginia-liberia,virginia-liberia,GPE
+Virginia,17595669,25,42,,http://en.wikipedia.org/wiki/The_Virginia_EP,The Virginia EP,the-virginia-ep,the-virginia-ep,UNK
+Virginia,4412066,5,7,,http://en.wikipedia.org/wiki/Virginia_(Montero),Virginia,virginia,virginia-montero,UNK
+Virginia,13324169,111,101,3434750;13276910,http://en.wikipedia.org/wiki/Virginia_Park_(Tampa),Virginia Park,virginia-park,virginia-park-tampa,UNK
+Virginia,10503376,2,7,863,http://en.wikipedia.org/wiki/Virginia_Hotel,Virginia Hotel,virginia-hotel,virginia-hotel,UNK
+Virginia,121796,366,287,3434750;32087,"http://en.wikipedia.org/wiki/Virginia,_Minnesota","Virginia, Minnesota",virginia-minnesota,virginia-minnesota,GPE
+Virginia,35628331,1,79,3434750;161535,"http://en.wikipedia.org/wiki/Virginia_Hotel_(Santa_Barbara,_California)",Virginia Hotel,virginia-hotel,virginia-hotel-santa-barbara-california,UNK
+Virginia,1392216,351,10,,http://en.wikipedia.org/wiki/Virgínia,Virgínia,virginia,virginia,GPE
+Virginia,2343624,29,36,32432,"http://en.wikipedia.org/wiki/Virginia,_Lempira","Virginia, Lempira",virginia-lempira,virginia-lempira,GPE
+Virginia,485205,46,44,32432,http://en.wikipedia.org/wiki/USS_Virginia_(SSN-774),USS Virginia,uss-virginia,uss-virginia-ssn-774,UNK
+Virginia,13276910,2,4,13324169,http://en.wikipedia.org/wiki/Virginia_Park,Virginia Park,virginia-park,virginia-park,UNK
+Virginia,3777288,37,16,32432,http://en.wikipedia.org/wiki/Virginia_Opera,Virginia Opera,virginia-opera,virginia-opera,UNK
+Virginia,14503356,4,6,,http://en.wikipedia.org/wiki/Virginia_(Volumnius),Virginia,virginia,virginia-volumnius,PER
+John Simon,27426216,14,13,476592;424715;863;31752,http://en.wikipedia.org/wiki/John_Y._Simon,John Y. Simon,john-y-simon,john-y-simon,PER
+John Simon,424715,1,15,8691603;27426216;13504141;1445584;36766470;12743965;16908418;309481;34759277,http://en.wikipedia.org/wiki/John_Simon,John Simon,john-simon,john-simon,PER
+John Simon,34759277,9,20,424715,http://en.wikipedia.org/wiki/John_Simon_(engraver),John Simon,john-simon,john-simon-engraver,PER
+John Simon,13504141,27,16,424715,http://en.wikipedia.org/wiki/John_Simon_(rugby_league),John Simon,john-simon,john-simon-rugby-league,UNK
+John Simon,309481,404,348,424715,"http://en.wikipedia.org/wiki/John_Simon,_1st_Viscount_Simon","John Simon, 1st Viscount Simon",john-simon-1st-viscount-simon,john-simon-1st-viscount-simon,PER
+John Simon,16908418,10,23,424715,http://en.wikipedia.org/wiki/John_Simon_(pathologist),John Simon,john-simon,john-simon-pathologist,PER
+John Simon,21270008,0,16,,"http://en.wikipedia.org/wiki/John_Simon_(MP,_born_1818)",John Simon,john-simon,john-simon-mp-born-1818,UNK
+John Simon,8691603,137,123,424715;3434750,http://en.wikipedia.org/wiki/John_Simon_(record_producer),John Simon,john-simon,john-simon-record-producer,UNK
+John Simon,1445584,96,57,424715;3434750,http://en.wikipedia.org/wiki/John_Simon_(critic),John Simon,john-simon,john-simon-critic,PER
+John Simon,37844837,96,103,,http://en.wikipedia.org/wiki/John_Simon_(linebacker),John Simon,john-simon,john-simon-linebacker,UNK
+John Simon,36766470,3,4,424715,http://en.wikipedia.org/wiki/John_Simon_(died_1524),John Simon,john-simon,john-simon-died-1524,PER
+John Simon,12743965,1,11,424715,http://en.wikipedia.org/wiki/John_Simon_(running_back),John Simon,john-simon,john-simon-running-back,UNK
+John Simon,41780100,1,22,,http://en.wikipedia.org/wiki/John_Simon_(composer),John Simon,john-simon,john-simon-composer,UNK
+Southern Illinois University at Carbondale,476592,529,237,788576;27426216;473630,http://en.wikipedia.org/wiki/Southern_Illinois_University_Carbondale,Southern Illinois University Carbondale,southern-illinois-university-carbondale,southern-illinois-university-carbondale,ORG
+Southern Illinois University at Carbondale,788576,692,36,3434750;476592;473630,http://en.wikipedia.org/wiki/Southern_Illinois_University,Southern Illinois University,southern-illinois-university,southern-illinois-university,ORG
+Ulysses Grant,31752,3342,763,307;863;360126;27426216;3434750;34495894;7599865;134086;6736104;91268;108956;161535;32087;7023;224020;77667,http://en.wikipedia.org/wiki/Ulysses_S._Grant,Ulysses S. Grant,ulysses-s-grant,ulysses-s-grant,PER
+African Americans,2154,10623,597,307;863;140270;3434750;15152533;70667;30838994;2154;179553;14426774;3500202;7023;1142503;9999228;21295163;391889;91268;431475;13015878;18886506,http://en.wikipedia.org/wiki/African_American,African American,african-american,african-american,UNK
+African Americans,9999228,265,205,391889;2154;140270;1142503;14426774,http://en.wikipedia.org/wiki/Lists_of_African_Americans,Lists of African Americans,lists-of-african-americans,lists-of-african-americans,UNK
+Simon,27426216,14,13,476592;424715;863;31752,http://en.wikipedia.org/wiki/John_Y._Simon,John Y. Simon,john-y-simon,john-y-simon,PER
+Simon,424715,1,15,8691603;27426216;13504141;1445584;36766470;12743965;16908418;309481;34759277,http://en.wikipedia.org/wiki/John_Simon,John Simon,john-simon,john-simon,PER
+Simon,34759277,9,20,424715,http://en.wikipedia.org/wiki/John_Simon_(engraver),John Simon,john-simon,john-simon-engraver,PER
+Simon,13504141,27,16,424715,http://en.wikipedia.org/wiki/John_Simon_(rugby_league),John Simon,john-simon,john-simon-rugby-league,UNK
+Simon,309481,404,348,424715,"http://en.wikipedia.org/wiki/John_Simon,_1st_Viscount_Simon","John Simon, 1st Viscount Simon",john-simon-1st-viscount-simon,john-simon-1st-viscount-simon,PER
+Simon,16908418,10,23,424715,http://en.wikipedia.org/wiki/John_Simon_(pathologist),John Simon,john-simon,john-simon-pathologist,PER
+Simon,21270008,0,16,,"http://en.wikipedia.org/wiki/John_Simon_(MP,_born_1818)",John Simon,john-simon,john-simon-mp-born-1818,UNK
+Simon,8691603,137,123,424715;3434750,http://en.wikipedia.org/wiki/John_Simon_(record_producer),John Simon,john-simon,john-simon-record-producer,UNK
+Simon,1445584,96,57,424715;3434750,http://en.wikipedia.org/wiki/John_Simon_(critic),John Simon,john-simon,john-simon-critic,PER
+Simon,37844837,96,103,,http://en.wikipedia.org/wiki/John_Simon_(linebacker),John Simon,john-simon,john-simon-linebacker,UNK
+Simon,36766470,3,4,424715,http://en.wikipedia.org/wiki/John_Simon_(died_1524),John Simon,john-simon,john-simon-died-1524,PER
+Simon,12743965,1,11,424715,http://en.wikipedia.org/wiki/John_Simon_(running_back),John Simon,john-simon,john-simon-running-back,UNK
+Simon,41780100,1,22,,http://en.wikipedia.org/wiki/John_Simon_(composer),John Simon,john-simon,john-simon-composer,UNK
+Edward Smith,33116335,2,7,,http://en.wikipedia.org/wiki/Edward_Smith_(biographer),Edward Smith,edward-smith,edward-smith-biographer,UNK
+Edward Smith,12366393,11,16,,http://en.wikipedia.org/wiki/Edward_Smith_(MP),Edward Smith,edward-smith,edward-smith-mp,PER
+Edward Smith,15728590,1,13,3434750,http://en.wikipedia.org/wiki/Edward_Smith_(Illinois_politician),Edward Smith,edward-smith,edward-smith-illinois-politician,PER
+Edward Smith,13694157,5,24,,http://en.wikipedia.org/wiki/Edward_Smith_(physician),Edward Smith,edward-smith,edward-smith-physician,PER
+Edward Smith,33417574,5,14,9709,http://en.wikipedia.org/wiki/Edward_Smith_(judge),Edward Smith,edward-smith,edward-smith-judge,PER
+Edward Smith,39487892,3,95,3434750;161535,"http://en.wikipedia.org/wiki/Edward_Smith,_Jr.,_Farm","Edward Smith, Jr., Farm",edward-smith-jr-farm,edward-smith-jr-farm,UNK
+Edward Smith,39063047,1,20,,http://en.wikipedia.org/wiki/Edward_Smith_(cricketer),Edward Smith,edward-smith,edward-smith-cricketer,PER
+Edward Smith,33409734,7,9,,"http://en.wikipedia.org/wiki/Sir_Edward_Smith,_1st_Baronet","Sir Edward Smith, 1st Baronet",sir-edward-smith-1st-baronet,sir-edward-smith-1st-baronet,PER
+Edward Smith,1197164,9,26,4887,http://en.wikipedia.org/wiki/Edward_Smith_(VC),Edward Smith,edward-smith,edward-smith-vc,PER
+Edward Smith,4176053,1,7,3434750,http://en.wikipedia.org/wiki/Edward_Smith_(thief),Edward Smith,edward-smith,edward-smith-thief,UNK
+Edward Smith,615283,148,175,,http://en.wikipedia.org/wiki/Edward_Smith_(sea_captain),Edward Smith,edward-smith,edward-smith-sea-captain,PER
+American Studies,508127,133,63,32021760;3434750,http://en.wikipedia.org/wiki/American_studies,American studies,american-studies,american-studies,UNK
+American Studies,32021760,6,15,508127;32021760,http://en.wikipedia.org/wiki/American_Studies_(journal),American Studies,american-studies,american-studies-journal,ORG
+American University,80734,1766,347,108956;3434750;1323983;80734,http://en.wikipedia.org/wiki/American_University,American University,american-university,american-university,ORG
+American University,21003995,5,27,21003995,http://en.wikipedia.org/wiki/International_American_University,International American University,international-american-university,international-american-university,ORG
+American University,9533662,4,12,,http://en.wikipedia.org/wiki/American_University_(Nicaragua),American University,american-university,american-university-nicaragua,ORG
+American University,1880625,23,38,1880625,http://en.wikipedia.org/wiki/National_American_University,National American University,national-american-university,national-american-university,UNK
+American University,1323983,168,145,108956;80734,http://en.wikipedia.org/wiki/American_University_Park,American University Park,american-university-park,american-university-park,UNK
+South,7023,7768,613,307;863;140270;3434750;473630;2154;23626963;179553;178621;7023;1095495;360126;7599865;8011088;391889;6736104;91268;32432;32087;31752;77667,http://en.wikipedia.org/wiki/Confederate_States_of_America,Confederate States of America,confederate-states-of-america,confederate-states-of-america,GPE
+Americans,3434750,529967,1252,307;863;1376;2154;7085;7023;11772;21417147;30358613;14426774;1142503;26295;32432;32087;31752;4459271;15728590;54422;58642;16714927;2321001;80734;1054022;77667;84504;1079790;91268;110868;111697;111971;112536;108956;121796;120386;118199;115760;128656;5509810;123685;22412907;132682;131949;134086;135972;138399;31196409;151092;5742717;179553;178621;1195657;199106;224020;1209795;15493509;3620640;2508003;1377897;312905;5319554;19184064;1421794;359136;383384;369826;3484118;36783294;1525987;415912;27056670;3500202;13324169;451819;2398349;24320051;431475;1445584;3434750;473630;508127;2477816;33801672;29946791;1490661;1685102;568483;30838994;589425;37734886;587090;30807616;542995;632165;2872747;607459;3802436;35628331;41537274;664039;39558026;686061;17318610;1793931;1796650;772762;22808822;13015878;25205130;39487892;3052573;6965006;4176053;8126347;1923182;788576;26677390;7073789;7064687;8691603;38648395;968589;29474357;963515;4000053;2057171;2039413;2039933;22567003,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+Americans,9999228,265,205,391889;2154;140270;1142503;14426774,http://en.wikipedia.org/wiki/Lists_of_African_Americans,Lists of African Americans,lists-of-african-americans,lists-of-african-americans,UNK
+Americans,2154,10623,597,307;863;140270;3434750;15152533;70667;30838994;2154;179553;14426774;3500202;7023;1142503;9999228;21295163;391889;91268;431475;13015878;18886506,http://en.wikipedia.org/wiki/African_American,African American,african-american,african-american,UNK
+Southern,7023,7768,613,307;863;140270;3434750;473630;2154;23626963;179553;178621;7023;1095495;360126;7599865;8011088;391889;6736104;91268;32432;32087;31752;77667,http://en.wikipedia.org/wiki/Confederate_States_of_America,Confederate States of America,confederate-states-of-america,confederate-states-of-america,GPE
+Southern,642632,0,5,,http://en.wikipedia.org/wiki/Southern_Region,Southern Region,southern-region,southern-region,UNK
+Southern,672395,540,62,902120,"http://en.wikipedia.org/wiki/Southern_Province,_Sri_Lanka","Southern Province, Sri Lanka",southern-province-sri-lanka,southern-province-sri-lanka,UNK
+Southern,1987440,49,25,26716,http://en.wikipedia.org/wiki/Southern_Australia,Southern Australia,southern-australia,southern-australia,UNK
+Southern,2941525,44,35,2286487,http://en.wikipedia.org/wiki/Southern_District_(Botswana),Southern District,southern-district,southern-district-botswana,UNK
+Southern,451819,308,245,473630;3434750;179553,http://en.wikipedia.org/wiki/Southern_Indiana,Southern Indiana,southern-indiana,southern-indiana,UNK
+Southern,5822544,208,101,,http://en.wikipedia.org/wiki/Southern_Idaho,Southern Idaho,southern-idaho,southern-idaho,UNK
+Southern,3488677,135,114,902120,"http://en.wikipedia.org/wiki/Southern_Province,_Zambia","Southern Province, Zambia",southern-province-zambia,southern-province-zambia,UNK
+Southern,3882672,3,6,77173,http://en.wikipedia.org/wiki/Southern_(country_subdivision),Southern,southern,southern-country-subdivision,PER
+Southern,1793931,321,178,3434750,http://en.wikipedia.org/wiki/Southern_Michigan,Southern Michigan,southern-michigan,southern-michigan,UNK
+Southern,2465240,3,323,,"http://en.wikipedia.org/wiki/Southern,_Eastern_and_Northern_Buddhism","Southern, Eastern and Northern Buddhism",southern-eastern-and-northern-buddhism,southern-eastern-and-northern-buddhism,PER
+Southern,5346122,0,2,,http://en.wikipedia.org/wiki/Southern_River,Southern River,southern-river,southern-river,UNK
+Southern,6984145,38,72,2286487,http://en.wikipedia.org/wiki/Southern_District_(LCMS),Southern District,southern-district,southern-district-lcms,UNK
+Southern,7636116,5,3,,http://en.wikipedia.org/wiki/Southern_Manitoba,Southern Manitoba,southern-manitoba,southern-manitoba,UNK
+Southern,2175918,69,25,902120,"http://en.wikipedia.org/wiki/Southern_Province,_Sierra_Leone","Southern Province, Sierra Leone",southern-province-sierra-leone,southern-province-sierra-leone,UNK
+Southern,153527,119,55,27821862;15214,http://en.wikipedia.org/wiki/Southern_Ireland,Southern Ireland,southern-ireland,southern-ireland,UNK
+Southern,714729,356,54,77173;179553,http://en.wikipedia.org/wiki/Southern_England,Southern England,southern-england,southern-england,GPE
+Southern,739493,350,41,410666;897351,http://en.wikipedia.org/wiki/Southern_France,Southern France,southern-france,southern-france,UNK
+Southern,41979031,2,14,,http://en.wikipedia.org/wiki/Southern_(band),Southern,southern,southern-band,UNK
+Southern,473630,1341,651,788576;307;863;360126;3434750;451819;32432;7023;111971;476592,http://en.wikipedia.org/wiki/Southern_Illinois,Southern Illinois,southern-illinois,southern-illinois,UNK
+Southern,187202,17,60,,http://en.wikipedia.org/wiki/Southern_District_(Hong_Kong),Southern District,southern-district,southern-district-hong-kong,UNK
+Southern,2493051,38,36,,http://en.wikipedia.org/wiki/Southern_Studios,Southern Studios,southern-studios,southern-studios,UNK
+Southern,291684,540,225,,http://en.wikipedia.org/wiki/Southern_Netherlands,Southern Netherlands,southern-netherlands,southern-netherlands,UNK
+Southern,1350904,35,52,179553,http://en.wikipedia.org/wiki/Southern_Party,Southern Party,southern-party,southern-party,UNK
+Southern,8566366,657,144,,http://en.wikipedia.org/wiki/Southern_Alberta,Southern Alberta,southern-alberta,southern-alberta,UNK
+Southern,428205,337,260,1095495;1057312;171756,http://en.wikipedia.org/wiki/Southern_Railway_(UK),Southern Railway,southern-railway,southern-railway-uk,UNK
+Southern,4179595,194,72,,http://en.wikipedia.org/wiki/Southern_Germany,Southern Germany,southern-germany,southern-germany,UNK
+Southern,1095495,751,320,108956;7023;863;428205,http://en.wikipedia.org/wiki/Southern_Railway_(U.S.),Southern Railway,southern-railway,southern-railway-us,UNK
+Southern,2872402,213,288,,http://en.wikipedia.org/wiki/Southern_Islands,Southern Islands,southern-islands,southern-islands,UNK
+Southern,171756,1088,434,428205,http://en.wikipedia.org/wiki/Southern_(train_operating_company),Southern,southern,southern-train-operating-company,UNK
+Southern,1222685,225,247,108956;307;32432;863,http://en.wikipedia.org/wiki/Southern_Maryland,Southern Maryland,southern-maryland,southern-maryland,UNK
+Southern,8538880,15,12,,http://en.wikipedia.org/wiki/Southern_Chile,Southern Chile,southern-chile,southern-chile,PER
+Southern,2286487,7,7,6984145;2941525;844338,http://en.wikipedia.org/wiki/Southern_District,Southern District,southern-district,southern-district,UNK
+Southern,2516422,695,141,,http://en.wikipedia.org/wiki/Southern_Oregon,Southern Oregon,southern-oregon,southern-oregon,UNK
+Southern,902120,0,14,4267110;2175918;672395;3488677,http://en.wikipedia.org/wiki/Southern_Province,Southern Province,southern-province,southern-province,GPE
+Southern,62520,4565,638,307;383384;108956;1525987;161535;62520,http://en.wikipedia.org/wiki/Southern_California,Southern California,southern-california,southern-california,UNK
+Southern,410666,1037,356,739493;410666,http://en.wikipedia.org/wiki/Southern_Europe,Southern Europe,southern-europe,southern-europe,UNK
+Southern,8487332,8,16,32432,http://en.wikipedia.org/wiki/Southern_Virginia,Southern Virginia,southern-virginia,southern-virginia,UNK
+Southern,1377897,167,111,3434750,http://en.wikipedia.org/wiki/Southern_Arizona,Southern Arizona,southern-arizona,southern-arizona,UNK
+Southern,989267,600,199,,http://en.wikipedia.org/wiki/Southern_University,Southern University,southern-university,southern-university,UNK
+Southern,542995,595,283,3434750,http://en.wikipedia.org/wiki/Southern_Ontario,Southern Ontario,southern-ontario,southern-ontario,UNK
+Southern,179553,4331,756,3052573;863;21295163;360126;140270;3434750;451819;2154;391889;108956;944685;13015878;179553;14426774;32432;32087;7023;714729;1350904;77173,http://en.wikipedia.org/wiki/Southern_United_States,Southern United States,southern-united-states,southern-united-states,ORG
+Southern,2039413,493,102,3434750,http://en.wikipedia.org/wiki/Southern_Association,Southern Association,southern-association,southern-association,ORG
+Southern,3702951,6,16,,http://en.wikipedia.org/wiki/Southern_Actor,Southern Actor,southern-actor,southern-actor,UNK
+Southern,1433410,176,44,,http://en.wikipedia.org/wiki/Southern_Norway,Southern Norway,southern-norway,southern-norway,UNK
+Southern,10850190,4,4,,http://en.wikipedia.org/wiki/Arthur_Southern,Arthur Southern,arthur-southern,arthur-southern,UNK
+Southern,717285,216,149,,http://en.wikipedia.org/wiki/Southern_Sydney,Southern Sydney,southern-sydney,southern-sydney,UNK
+Southern,844338,482,64,844338;2286487,http://en.wikipedia.org/wiki/Southern_District_(Israel),Southern District,southern-district,southern-district-israel,UNK
+Southern,897351,708,300,897351;739493,http://en.wikipedia.org/wiki/Southern_Italy,Southern Italy,southern-italy,southern-italy,UNK
+Southern,1363977,204,38,,http://en.wikipedia.org/wiki/Great_Southern_(Western_Australia),Great Southern,great-southern,great-southern-western-australia,UNK
+United Daughters of the Confederacy,178621,172,48,7023;863;3434750,http://en.wikipedia.org/wiki/United_Daughters_of_the_Confederacy,United Daughters of the Confederacy,united-daughters-of-the-confederacy,united-daughters-of-the-confederacy,ORG
+National Park Service,161535,58980,642,3620640;134086;138399;35628331;963515;32432;31752;41537274;7986044;17318610;62520;70667;77667;26677390;91268;13015878;25205130;14698019;108956;39487892;21755695;22982228;1489525,http://en.wikipedia.org/wiki/National_Park_Service,National Park Service,national-park-service,national-park-service,ORG
+Civil War,863,32421,849,307;863;27426216;140270;70667;2154;10503376;349174;7085;7023;3052573;360126;7599865;29804952;1054022;27056670;3117937;3552691;77667;3434750;473630;1142503;8011088;2384324;6736104;91268;13015878;32432;32087;31752;312905;34495894;34342;944685;179553;664039;178621;4678813;1095495;5319554;7064687;1222685;391889;108956;23626963;115760,http://en.wikipedia.org/wiki/American_Civil_War,American Civil War,american-civil-war,american-civil-war,UNK
+Civil War,225283,1274,567,225283;7085,http://en.wikipedia.org/wiki/Sri_Lankan_Civil_War,Sri Lankan Civil War,sri-lankan-civil-war,sri-lankan-civil-war,UNK
+Civil War,31062367,119,121,611740;31062367,http://en.wikipedia.org/wiki/Second_Ivorian_Civil_War,Second Ivorian Civil War,second-ivorian-civil-war,second-ivorian-civil-war,UNK
+Civil War,312905,1230,365,7085;2057171;863;312905;3434750;3298784,http://en.wikipedia.org/wiki/Lebanese_Civil_War,Lebanese Civil War,lebanese-civil-war,lebanese-civil-war,UNK
+Civil War,11772,825,331,26295;1856611;24320051;7085;3434750,http://en.wikipedia.org/wiki/Finnish_Civil_War,Finnish Civil War,finnish-civil-war,finnish-civil-war,UNK
+Civil War,20580485,0,93,3117937,"http://en.wikipedia.org/wiki/The_""Civil_War""_EP","The ""Civil War"" EP",the-civil-war-ep,the-civil-war-ep,UNK
+Civil War,369826,437,256,3434750;369826;3298784,http://en.wikipedia.org/wiki/Nepalese_Civil_War,Nepalese Civil War,nepalese-civil-war,nepalese-civil-war,UNK
+Civil War,54422,2581,539,3434750;54422;7085;2057171;923364,http://en.wikipedia.org/wiki/Chinese_Civil_War,Chinese Civil War,chinese-civil-war,chinese-civil-war,UNK
+Civil War,1796650,180,128,611740;3434750,http://en.wikipedia.org/wiki/Rwandan_Civil_War,Rwandan Civil War,rwandan-civil-war,rwandan-civil-war,UNK
+Civil War,23626963,1,12,863;7023,http://en.wikipedia.org/wiki/Civil_War_(video_game),Civil War,civil-war,civil-war-video-game,UNK
+Civil War,5742717,67,76,1195657;3434750,http://en.wikipedia.org/wiki/Civil_War_(college_rivalry),Civil War,civil-war,civil-war-college-rivalry,UNK
+Civil War,354393,99,71,3158354;7085,http://en.wikipedia.org/wiki/Roman_civil_wars,Roman civil wars,roman-civil-wars,roman-civil-wars,UNK
+Civil War,1209795,250,165,26295;1856611;3434750,http://en.wikipedia.org/wiki/Georgian_Civil_War,Georgian Civil War,georgian-civil-war,georgian-civil-war,UNK
+Civil War,1131537,409,210,7085;1628921,http://en.wikipedia.org/wiki/Second_Sudanese_Civil_War,Second Sudanese Civil War,second-sudanese-civil-war,second-sudanese-civil-war,UNK
+Civil War,15214,1009,176,26295;15214;4887;27821862;153527;359136,http://en.wikipedia.org/wiki/Irish_Civil_War,Irish Civil War,irish-civil-war,irish-civil-war,UNK
+Civil War,1628921,175,154,1131537,http://en.wikipedia.org/wiki/First_Sudanese_Civil_War,First Sudanese Civil War,first-sudanese-civil-war,first-sudanese-civil-war,UNK
+Civil War,7085,1071,226,1971404;4000053;54422;32432;225283;2057171;863;1131537;312905;2477816;354393;3434750;11772,http://en.wikipedia.org/wiki/Civil_war,Civil war,civil-war,civil-war,UNK
+Civil War,3117937,111,103,863;20580485,http://en.wikipedia.org/wiki/Civil_War_(song),Civil War,civil-war,civil-war-song,UNK
+Civil War,3298784,224,305,369826;3298784;312905,http://en.wikipedia.org/wiki/North_Yemen_Civil_War,North Yemen Civil War,north-yemen-civil-war,north-yemen-civil-war,UNK
+Civil War,1856611,176,177,26295;1856611;1209795;11772,http://en.wikipedia.org/wiki/Civil_war_in_Tajikistan,Civil war in Tajikistan,civil-war-in-tajikistan,civil-war-in-tajikistan,UNK
+Civil War,8011088,48,46,863;7023,http://en.wikipedia.org/wiki/The_Civil_War_(musical),The Civil War,the-civil-war,the-civil-war-musical,UNK
+Civil War,2872747,50,35,108956;3434750,http://en.wikipedia.org/wiki/Costa_Rican_Civil_War,Costa Rican Civil War,costa-rican-civil-war,costa-rican-civil-war,UNK
+Civil War,3158354,0,154,354393,http://en.wikipedia.org/wiki/Caesar's_Civil_War,Caesar's Civil War,caesars-civil-war,caesars-civil-war,UNK
+Civil War,9709,4726,353,686069;1376;4887;33417574;7484943;32432;216788,http://en.wikipedia.org/wiki/English_Civil_War,English Civil War,english-civil-war,english-civil-war,UNK
+Civil War,2477816,313,180,3434750;7085;2477816,http://en.wikipedia.org/wiki/Sierra_Leone_Civil_War,Sierra Leone Civil War,sierra-leone-civil-war,sierra-leone-civil-war,UNK
+Civil War,5319554,4,16,863;3434750,http://en.wikipedia.org/wiki/Civil_War_(game),Civil War,civil-war,civil-war-game,UNK
+Civil War,1195657,249,247,5742717;3434750,http://en.wikipedia.org/wiki/Civil_War_(college_football_game),Civil War,civil-war,civil-war-college-football-game,UNK
+Civil War,26295,2473,783,26295;3434750;1209795;1856611;15214;24320051;9742241;11772,http://en.wikipedia.org/wiki/Russian_Civil_War,Russian Civil War,russian-civil-war,russian-civil-war,UNK
+Civil War,7064687,73,102,863;3434750,http://en.wikipedia.org/wiki/Civil_War_Museum_(Bardstown),Civil War Museum,civil-war-museum,civil-war-museum-bardstown,UNK
+Civil War,632165,376,196,3434750,http://en.wikipedia.org/wiki/Nigerian_Civil_War,Nigerian Civil War,nigerian-civil-war,nigerian-civil-war,UNK
+Civil War,2057171,825,587,108956;4000053;54422;7085;312905;3434750,http://en.wikipedia.org/wiki/Angolan_Civil_War,Angolan Civil War,angolan-civil-war,angolan-civil-war,UNK
+Civil War,4000053,193,232,7085;4000053;2057171;3434750,http://en.wikipedia.org/wiki/Guatemalan_Civil_War,Guatemalan Civil War,guatemalan-civil-war,guatemalan-civil-war,UNK
+Civil War,3500202,572,396,108956;2154;3434750,http://en.wikipedia.org/wiki/Civil_War_(comics),Civil War,civil-war,civil-war-comics,UNK

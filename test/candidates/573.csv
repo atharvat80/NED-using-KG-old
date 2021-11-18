@@ -1,0 +1,106 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Czech Republic,5321,46127,800,5321;11884;11867;8794264;21212;152735;729739;63299,http://en.wikipedia.org/wiki/Czech_Republic,Czech Republic,czech-republic,czech-republic,GPE
+Czech Republic,729739,1240,491,11867;5321;3383;729739;27019;149286,http://en.wikipedia.org/wiki/Czech_Republic_national_football_team,Czech Republic national football team,czech-republic-national-football-team,czech-republic-national-football-team,ORG
+Havel,63299,1082,525,41896;5321,http://en.wikipedia.org/wiki/Václav_Havel,Václav Havel,vaclav-havel,vaclav-havel,PER
+Havel,20598480,131,141,,http://en.wikipedia.org/wiki/Václav_Havel_(canoeist),Václav Havel,vaclav-havel,vaclav-havel-canoeist,PER
+Brazil,3383,84101,1038,561499;8079600;3383;3631;4752;11884;11867;30863678;13688885;2377528;2521152;21212;25936;149286;27019;152735;4628340;3271715;681926;11982053;187274;1043873;14986292;357590;82491;8794264;729739;390875;23530966;112165;229419;229422;30868004;27301828;19886337;30871369,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Brazil,30868004,2,61,3383,http://en.wikipedia.org/wiki/Brazil_International,Brazil International,brazil-international,brazil-international,UNK
+Brazil,36002865,24,50,390875;82491;25936,http://en.wikipedia.org/wiki/Brazil_with_Michael_Palin,Brazil with Michael Palin,brazil-with-michael-palin,brazil-with-michael-palin,UNK
+Brazil,149286,3969,1115,390875;25936;729739;149286;11867;3383;27019;4752;187274;681926;21212;229419,http://en.wikipedia.org/wiki/Brazil_national_football_team,Brazil national football team,brazil-national-football-team,brazil-national-football-team,ORG
+Brazil,16052160,4,59,,"http://en.wikipedia.org/wiki/Brazil,_Northern_Cape","Brazil, Northern Cape",brazil-northern-cape,brazil-northern-cape,UNK
+Brazil,3631,653,292,2377528;561499;390875;4752;25936;1043873;82491;30871369;3383;3631;8794264;229419;229422;30863678;11982053,http://en.wikipedia.org/wiki/Geography_of_Brazil,Geography of Brazil,geography-of-brazil,geography-of-brazil,UNK
+Brazil,13707513,57,75,112165,"http://en.wikipedia.org/wiki/Brazil_Township,_Clay_County,_Indiana","Brazil Township, Clay County, Indiana",brazil-township-clay-county-indiana,brazil-township-clay-county-indiana,GPE
+Brazil,8794264,635,458,2377528;561499;390875;4752;25936;27301828;1043873;11867;30871369;5321;3383;3631;229419;229422;30863678;11982053;27019,http://en.wikipedia.org/wiki/Tourism_in_Brazil,Tourism in Brazil,tourism-in-brazil,tourism-in-brazil,ORG
+Brazil,357590,167,107,390875;229419;4752;25936;3383,http://en.wikipedia.org/wiki/Communist_Party_of_Brazil,Communist Party of Brazil,communist-party-of-brazil,communist-party-of-brazil,ORG
+Brazil,22575394,2,6,,"http://en.wikipedia.org/wiki/Brazil_Lake,_Nova_Scotia","Brazil Lake, Nova Scotia",brazil-lake-nova-scotia,brazil-lake-nova-scotia,GPE
+Brazil,38154757,13,29,,"http://en.wikipedia.org/wiki/Brazil,_Kentucky","Brazil, Kentucky",brazil-kentucky,brazil-kentucky,UNK
+Brazil,112165,193,213,13707513;3383,"http://en.wikipedia.org/wiki/Brazil,_Indiana","Brazil, Indiana",brazil-indiana,brazil-indiana,GPE
+Brazil,29333456,0,11,,http://en.wikipedia.org/wiki/Mount_Brazil,Mount Brazil,mount-brazil,mount-brazil,UNK
+Brazil,13688885,76,71,25936;3383,http://en.wikipedia.org/wiki/Kingdom_of_Brazil,Kingdom of Brazil,kingdom-of-brazil,kingdom-of-brazil,GPE
+Brazil,27565426,23,40,,"http://en.wikipedia.org/wiki/Brazil,_Mississippi","Brazil, Mississippi",brazil-mississippi,brazil-mississippi,GPE
+Brazil,38411413,57,77,11982053,"http://en.wikipedia.org/wiki/Little_Brazil,_Manhattan","Little Brazil, Manhattan",little-brazil-manhattan,little-brazil-manhattan,UNK
+Brazil,681926,1338,314,3383;229419;149286,http://en.wikipedia.org/wiki/Brazilian_Football_Confederation,Brazilian Football Confederation,brazilian-football-confederation,brazilian-football-confederation,UNK
+Brazil,7519411,23,26,,http://en.wikipedia.org/wiki/Brazil_(band),Brazil,brazil,brazil-band,UNK
+Brazil,27301828,209,230,390875;8794264;229422;25936;3383,http://en.wikipedia.org/wiki/Coffee_production_in_Brazil,Coffee production in Brazil,coffee-production-in-brazil,coffee-production-in-brazil,UNK
+Brazil,4497173,48,14,,http://en.wikipedia.org/wiki/Little_Brazil,Little Brazil,little-brazil,little-brazil,UNK
+Brazil,4628340,199,184,11982053;3383,http://en.wikipedia.org/wiki/Dutch_Brazil,Dutch Brazil,dutch-brazil,dutch-brazil,GPE
+Brazil,19886337,4,48,3383,http://en.wikipedia.org/wiki/Brazil_(public_relations_agency),Brazil,brazil,brazil-public-relations-agency,UNK
+BRASILIA,4752,1491,563,390875;3271715;25936;8794264;149286;357590;2377528;1043873;11867;30871369;3383;3631;229419;229422;30863678;11982053,http://en.wikipedia.org/wiki/Brasília,Brasília,brasilia,brasilia,GPE
+BRASILIA,2377528,62,215,3631;8794264;4752;11982053;561499;3383,http://en.wikipedia.org/wiki/University_of_Brasília,University of Brasília,university-of-brasilia,university-of-brasilia,ORG
+BRASILIA,3271715,116,107,4752;3383,http://en.wikipedia.org/wiki/Volkswagen_Brasilia,Volkswagen Brasilia,volkswagen-brasilia,volkswagen-brasilia,UNK
+BRASILIA,30871369,99,259,3631;8794264;4752;11982053;25936;3383,http://en.wikipedia.org/wiki/Brasília_International_Airport,Brasília International Airport,brasilia-international-airport,brasilia-international-airport,UNK
+Vaclav Havel,63299,1082,525,41896;5321,http://en.wikipedia.org/wiki/Václav_Havel,Václav Havel,vaclav-havel,vaclav-havel,PER
+Vaclav Havel,20598480,131,141,,http://en.wikipedia.org/wiki/Václav_Havel_(canoeist),Václav Havel,vaclav-havel,vaclav-havel-canoeist,PER
+Brazilian,3383,84101,1038,561499;8079600;3383;3631;4752;11884;11867;30863678;13688885;2377528;2521152;21212;25936;149286;27019;152735;4628340;3271715;681926;11982053;187274;1043873;14986292;357590;82491;8794264;729739;390875;23530966;112165;229419;229422;30868004;27301828;19886337;30871369,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Brazilian,1043873,372,442,290327;11884;11867;152735;2521152;3383;390875;475014;3631;8794264;229419;229422;30863678;4752;11982053;25936,http://en.wikipedia.org/wiki/German_Brazilian,German Brazilian,german-brazilian,german-brazilian,UNK
+Brazilian,8079600,11,28,3383,http://en.wikipedia.org/wiki/Brazilian_Island,Brazilian Island,brazilian-island,brazilian-island,UNK
+Brazilian,11982053,1714,305,390875;4752;187274;25936;8794264;2377528;561499;1043873;11884;11867;30871369;3383;3631;229419;229422;30863678;4628340;38411413,http://en.wikipedia.org/wiki/Brazilian_people,Brazilian people,brazilian-people,brazilian-people,UNK
+Brazilian,8691009,13,27,,http://en.wikipedia.org/wiki/The_Brazilian,The Brazilian,the-brazilian,the-brazilian,UNK
+Brazilian,30863678,354,347,1043873;3383;390875;3631;8794264;229419;229422;30863678;4752;11982053;25936,http://en.wikipedia.org/wiki/Italian_Brazilian,Italian Brazilian,italian-brazilian,italian-brazilian,UNK
+Fernando Henrique Cardoso,82491,314,161,561499;3383;390875;3631;229419;229422;36002865;25936,http://en.wikipedia.org/wiki/Fernando_Henrique_Cardoso,Fernando Henrique Cardoso,fernando-henrique-cardoso,fernando-henrique-cardoso,UNK
+Brasilia,4752,1491,563,390875;3271715;25936;8794264;149286;357590;2377528;1043873;11867;30871369;3383;3631;229419;229422;30863678;11982053,http://en.wikipedia.org/wiki/Brasília,Brasília,brasilia,brasilia,GPE
+Brasilia,2377528,62,215,3631;8794264;4752;11982053;561499;3383,http://en.wikipedia.org/wiki/University_of_Brasília,University of Brasília,university-of-brasilia,university-of-brasilia,ORG
+Brasilia,3271715,116,107,4752;3383,http://en.wikipedia.org/wiki/Volkswagen_Brasilia,Volkswagen Brasilia,volkswagen-brasilia,volkswagen-brasilia,UNK
+Brasilia,30871369,99,259,3631;8794264;4752;11982053;25936;3383,http://en.wikipedia.org/wiki/Brasília_International_Airport,Brasília International Airport,brasilia-international-airport,brasilia-international-airport,UNK
+Sao Paulo,390875,7603,977,27301828;561499;1043873;3383;3631;2521152;4752;82491;8794264;11982053;36002865;25936;149286;357590;11884;11867;30863678;27019;187274;152735;5342188;229419;229422,http://en.wikipedia.org/wiki/São_Paulo,São Paulo,sao-paulo,sao-paulo,GPE
+Sao Paulo,5342188,34,116,390875;229422;25936,http://en.wikipedia.org/wiki/Brazilian_battleship_São_Paulo,Brazilian battleship São Paulo,brazilian-battleship-sao-paulo,brazilian-battleship-sao-paulo,UNK
+Sao Paulo,561499,544,279,82491;2377528;3383;390875;3631;8794264;229422;11982053,http://en.wikipedia.org/wiki/University_of_São_Paulo,University of São Paulo,university-of-sao-paulo,university-of-sao-paulo,ORG
+Sao Paulo,21167874,6,8,,http://en.wikipedia.org/wiki/São_Paulo_(Lisbon),São Paulo,sao-paulo,sao-paulo-lisbon,ORG
+Sao Paulo,187274,1618,529,390875;149286;11867;3383;229422;11982053,http://en.wikipedia.org/wiki/São_Paulo_FC,São Paulo FC,sao-paulo-fc,sao-paulo-fc,ORG
+Sao Paulo,37048113,1,5,,http://en.wikipedia.org/wiki/São_Paulo_(Nuno_Gonçalves),São Paulo,sao-paulo,sao-paulo-nuno-goncalves,PER
+Sao Paulo,2521152,123,91,390875;229422;1043873;27019;3383,http://en.wikipedia.org/wiki/Greater_São_Paulo,Greater São Paulo,greater-sao-paulo,greater-sao-paulo,GPE
+Sao Paulo,37862049,7,15,229422,http://en.wikipedia.org/wiki/São_Paulo_Province,São Paulo Province,sao-paulo-province,sao-paulo-province,GPE
+Sao Paulo,33668269,9,12,,"http://en.wikipedia.org/wiki/São_Paulo,_Sociedade_Anônima","São Paulo, Sociedade Anônima",sao-paulo-sociedade-anonima,sao-paulo-sociedade-anonima,UNK
+Sao Paulo,14374778,1,1,,http://en.wikipedia.org/wiki/São_Paulo_International_Airport,São Paulo International Airport,sao-paulo-international-airport,sao-paulo-international-airport,UNK
+Sao Paulo,229422,3280,495,390875;25936;27301828;37862049;561499;1043873;3383;3631;30863678;2521152;4752;187274;82491;8794264;5342188;229419;229422;11982053,http://en.wikipedia.org/wiki/São_Paulo_(state),São Paulo,sao-paulo,sao-paulo-state,UNK
+Rio de Janeiro,25936,9760,1176,13688885;27301828;1043873;30871369;3383;3631;4752;82491;8794264;11982053;14986292;390875;36002865;25936;149286;357590;11867;30863678;27019;5342188;229419;229422,http://en.wikipedia.org/wiki/Rio_de_Janeiro,Rio de Janeiro,rio-de-janeiro,rio-de-janeiro,GPE
+Rio de Janeiro,23530966,3,6,3383,http://en.wikipedia.org/wiki/Rio_de_Janeiro_(Bahia),Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-bahia,UNK
+Rio de Janeiro,23580387,3,5,28027968,http://en.wikipedia.org/wiki/MS_Rio_de_Janeiro,MS Rio de Janeiro,ms-rio-de-janeiro,ms-rio-de-janeiro,UNK
+Rio de Janeiro,14986292,28,28,229419;25936;3383,http://en.wikipedia.org/wiki/Greater_Rio_de_Janeiro,Greater Rio de Janeiro,greater-rio-de-janeiro,greater-rio-de-janeiro,UNK
+Rio de Janeiro,229419,2057,312,14986292;390875;4752;25936;82491;152735;681926;8794264;149286;357590;1043873;3383;3631;229422;30863678;11982053,http://en.wikipedia.org/wiki/Rio_de_Janeiro_(state),Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-state,UNK
+Rio de Janeiro,28027968,12,24,11867;23580387,http://en.wikipedia.org/wiki/MS_Rio_de_Janeiro_(1914),MS Rio de Janeiro,ms-rio-de-janeiro,ms-rio-de-janeiro-1914,ORG
+South Korean,27019,38617,831,3383;20939582;35991378;11867;16749;2521152;8794264;25936;149286;27019;729739;390875,http://en.wikipedia.org/wiki/South_Korea,South Korea,south-korea,south-korea,GPE
+South Korean,16749,11146,390,16749;27019,http://en.wikipedia.org/wiki/Korea,Korea,korea,korea,GPE
+Kim Young Sam,35991378,92,46,27019,http://en.wikipedia.org/wiki/Kim_Young-sam,Kim Young-sam,kim-young-sam,kim-young-sam,PER
+Kim Young Sam,20939582,25,39,27019,http://en.wikipedia.org/wiki/Kim_Young-sam_(footballer),Kim Young-sam,kim-young-sam,kim-young-sam-footballer,PER
+German,11867,167535,1367,3383;4752;5321;290327;10612;11884;11867;21212;25936;27019;41896;11982053;390875;1263999;28027968;149286;152735;1559449;187274;1043873;476441;475014;8794264;729739,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+German,15082689,0,4,,"http://en.wikipedia.org/wiki/German_Township,_Indiana","German Township, Indiana",german-township-indiana,german-township-indiana,UNK
+German,13314138,20,25,11884;152735,http://en.wikipedia.org/wiki/German_Party_(Yugoslavia),German Party,german-party,german-party-yugoslavia,UNK
+German,12453352,0,5,9269386;2241658;6046607,"http://en.wikipedia.org/wiki/German_Township,_Ohio","German Township, Ohio",german-township-ohio,german-township-ohio,UNK
+German,152735,7195,672,13314138;475014;1043873;3383;5321;21212;1559449;1263999;290327;390875;41896;10612;11884;11867;152735;229419,http://en.wikipedia.org/wiki/Germans,Germans,germans,germans,UNK
+German,36286602,5,23,,http://en.wikipedia.org/wiki/Germán,Germán,german,german,UNK
+German,36687858,164,170,,"http://en.wikipedia.org/wiki/German,_Iran","German, Iran",german-iran,german-iran,UNK
+German,1245772,609,182,11884,http://en.wikipedia.org/wiki/German_Wikipedia,German Wikipedia,german-wikipedia,german-wikipedia,UNK
+German,34977979,51,25,34978004;34977989,http://en.wikipedia.org/wiki/German_Party_(1947),German Party,german-party,german-party-1947,UNK
+German,11204290,5,18,30138606,"http://en.wikipedia.org/wiki/German,_Bulgaria","German, Bulgaria",german-bulgaria,german-bulgaria,GPE
+German,34378156,2,26,,http://en.wikipedia.org/wiki/Arthur_German,Arthur German,arthur-german,arthur-german,UNK
+German,2318626,324,65,11884,http://en.wikipedia.org/wiki/German_studies,German studies,german-studies,german-studies,PER
+German,22184642,4,12,,http://en.wikipedia.org/wiki/German_River,German River,german-river,german-river,UNK
+German,11369455,41,54,21212;11884,http://en.wikipedia.org/wiki/German_Party_(Romania),German Party,german-party,german-party-romania,UNK
+German,42060415,46,52,15082701,"http://en.wikipedia.org/wiki/German_Township,_Kossuth_County,_Iowa","German Township, Kossuth County, Iowa",german-township-kossuth-county-iowa,german-township-kossuth-county-iowa,GPE
+German,18512402,18,11,,http://en.wikipedia.org/wiki/Les_German,Les German,les-german,les-german,PER
+German,1559449,163,120,1263999;11884;11867;21212;152735;10612,http://en.wikipedia.org/wiki/German_model,German model,german-model,german-model,UNK
+German,126281,41,50,,"http://en.wikipedia.org/wiki/German,_New_York","German, New York",german-new-york,german-new-york,GPE
+German,239855,56,80,11884,http://en.wikipedia.org/wiki/German_alphabet,German alphabet,german-alphabet,german-alphabet,UNK
+German,11884,43032,653,13314138;1043873;3383;2318626;1245772;5321;290327;10612;11867;476441;475014;3901931;21212;1263999;152735;239855;1559449;390875;11982053;34978004;11369455,http://en.wikipedia.org/wiki/German_language,German language,german-language,german-language,UNK
+German,21212,18535,1346,3383;5321;1559449;41896;10612;11884;11867;3901931;21212;1263999;149286;152735;11369455,http://en.wikipedia.org/wiki/Nazi_Germany,Nazi Germany,nazi-germany,nazi-germany,GPE
+German,132530,92,177,15082701,"http://en.wikipedia.org/wiki/German_Township,_Fayette_County,_Pennsylvania","German Township, Fayette County, Pennsylvania",german-township-fayette-county-pennsylvania,german-township-fayette-county-pennsylvania,GPE
+German,10612,1073,518,1559449;1263999;10612;11884;11867;152735;21212,http://en.wikipedia.org/wiki/Cinema_of_Germany,Cinema of Germany,cinema-of-germany,cinema-of-germany,UNK
+German,475014,250,170,1043873;290327;11884;11867;152735,http://en.wikipedia.org/wiki/German-speaking_Community_of_Belgium,German-speaking Community of Belgium,german-speaking-community-of-belgium,german-speaking-community-of-belgium,UNK
+German,30138606,9,13,11204290,http://en.wikipedia.org/wiki/German_Peninsula,German Peninsula,german-peninsula,german-peninsula,UNK
+German,34978004,4,32,11884;1263999;34977979,http://en.wikipedia.org/wiki/German_Party_(1993),German Party,german-party,german-party-1993,UNK
+German,241920,127,87,,http://en.wikipedia.org/wiki/Edward_German,Edward German,edward-german,edward-german,UNK
+German,34977989,3,7,34977979,http://en.wikipedia.org/wiki/German_Party_(1961),German Party,german-party,german-party-1961,UNK
+German,12050833,24,279,15082701,"http://en.wikipedia.org/wiki/German_Township,_Richland_County,_Illinois","German Township, Richland County, Illinois",german-township-richland-county-illinois,german-township-richland-county-illinois,UNK
+German,6046607,34,48,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Fulton_County,_Ohio","German Township, Fulton County, Ohio",german-township-fulton-county-ohio,german-township-fulton-county-ohio,GPE
+German,24233458,2,4,,http://en.wikipedia.org/wiki/The_German,The German,the-german,the-german,UNK
+German,290327,1463,698,475014;152735;1043873;11884;11867,http://en.wikipedia.org/wiki/German_American,German American,german-american,german-american,UNK
+German,1263999,412,329,11884;11867;152735;1559449;1263999;34978004;21212;10612,http://en.wikipedia.org/wiki/Elections_in_Germany,Elections in Germany,elections-in-germany,elections-in-germany,UNK
+German,476441,101,169,11884;11867,http://en.wikipedia.org/wiki/German_name,German name,german-name,german-name,UNK
+German,15082701,0,14,132530;9269386;6046607;42060415;2241658;12050833,http://en.wikipedia.org/wiki/German_Township,German Township,german-township,german-township,GPE
+German,9269386,44,55,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Clark_County,_Ohio","German Township, Clark County, Ohio",german-township-clark-county-ohio,german-township-clark-county-ohio,GPE
+German,4356261,77,64,,http://en.wikipedia.org/wiki/German_(parish),German,german,german-parish,UNK
+German,3901931,32,37,21212;11884,http://en.wikipedia.org/wiki/German–Polish_Non-Aggression_Pact,German–Polish Non-Aggression Pact,german–polish-non-aggression-pact,german–polish-non-aggression-pact,UNK
+German,2241658,45,60,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Auglaize_County,_Ohio","German Township, Auglaize County, Ohio",german-township-auglaize-county-ohio,german-township-auglaize-county-ohio,GPE
+Helmut Kohl,41896,798,813,63299;11867;9206331;152735;21212,http://en.wikipedia.org/wiki/Helmut_Kohl,Helmut Kohl,helmut-kohl,helmut-kohl,PER
+Helmut Kohl,9206331,47,16,41896,http://en.wikipedia.org/wiki/Helmut_Kohl_(referee),Helmut Kohl,helmut-kohl,helmut-kohl-referee,PER

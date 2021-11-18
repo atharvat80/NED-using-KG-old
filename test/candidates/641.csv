@@ -1,0 +1,208 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+VAN HEESWIJK,6558171,43,20,2652490;40113943;21148;796027;2354465,http://en.wikipedia.org/wiki/Max_van_Heeswijk,Max van Heeswijk,max-van-heeswijk,max-van-heeswijk,UNK
+VAN HEESWIJK,40113943,1,4,6558171,http://en.wikipedia.org/wiki/Van_Heeswijk,Van Heeswijk,van-heeswijk,van-heeswijk,UNK
+ALMERE,118444,346,103,11867;36190531;21148,http://en.wikipedia.org/wiki/Almere,Almere,almere,almere,GPE
+ALMERE,36190531,9,14,118444;21148,http://en.wikipedia.org/wiki/Almere_(lake),Almere,almere,almere-lake,UNK
+Netherlands,21148,78333,1147,3343;11867;27483885;14532;17514;21332;21148;21161;711598;33166;6558171;1639662;169683;36190531;49732;1553658;679716;63278;796027;11065220;21493015;67302;9647657;475061;3434750;2164343;5434703;465956;18949613;4689264;6932095;17022543;2354465;118444;362466;9804204;250204,http://en.wikipedia.org/wiki/Netherlands,Netherlands,netherlands,netherlands,GPE
+Netherlands,21161,153,222,21332;11867;18949613;21148;21161;5434703;63278,http://en.wikipedia.org/wiki/Transport_in_the_Netherlands,Transport in the Netherlands,transport-in-the-netherlands,transport-in-the-netherlands,UNK
+Netherlands,5434703,71,174,21148;21161;475061;20611325;9647657;63278;3343;18949613,http://en.wikipedia.org/wiki/Netherlands_(toponymy),Netherlands,netherlands,netherlands-toponymy,UNK
+Netherlands,169683,33,39,21148;63278,http://en.wikipedia.org/wiki/Capital_of_the_Netherlands,Capital of the Netherlands,capital-of-the-netherlands,capital-of-the-netherlands,GPE
+Netherlands,21332,1952,394,3434750;18949613;21148;21161;3343;4689264,http://en.wikipedia.org/wiki/Netherlands_Antilles,Netherlands Antilles,netherlands-antilles,netherlands-antilles,GPE
+Netherlands,2164343,701,337,9647657;3343;4689264;21148,http://en.wikipedia.org/wiki/Netherlands_national_cricket_team,Netherlands national cricket team,netherlands-national-cricket-team,netherlands-national-cricket-team,UNK
+Netherlands,27483885,513,309,25036290;9647657;21148,http://en.wikipedia.org/wiki/Netherlands_national_under-19_football_team,Netherlands national under-19 football team,netherlands-national-under-19-football-team,netherlands-national-under-19-football-team,UNK
+Netherlands,475061,100,133,21148;5434703,http://en.wikipedia.org/wiki/Greater_Netherlands,Greater Netherlands,greater-netherlands,greater-netherlands,UNK
+Netherlands,18949613,1365,341,17514;1553658;63278;9804204;5434703;14532;67302;11867;3343;4689264;21332;21148;21161,http://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands,Kingdom of the Netherlands,kingdom-of-the-netherlands,kingdom-of-the-netherlands,GPE
+Netherlands,1553658,68,12,21148;18949613,http://en.wikipedia.org/wiki/European_Netherlands,European Netherlands,european-netherlands,european-netherlands,UNK
+Netherlands,10477250,25,56,,http://en.wikipedia.org/wiki/Great_Depression_in_the_Netherlands,Great Depression in the Netherlands,great-depression-in-the-netherlands,great-depression-in-the-netherlands,UNK
+Netherlands,9647657,3010,688,711598;5434703;3434750;33166;9647657;250204;11867;3343;679716;362466;27483885;2164343;21148;14532,http://en.wikipedia.org/wiki/Netherlands_national_football_team,Netherlands national football team,netherlands-national-football-team,netherlands-national-football-team,UNK
+Tour of the Netherlands,11065220,137,76,21148;2354465;11065220;1484348;921007;2652490;3343,http://en.wikipedia.org/wiki/Ronde_van_Nederland,Ronde van Nederland,ronde-van-nederland,ronde-van-nederland,UNK
+Haarlem,63278,1574,338,5434703;28760498;3434750;18949613;21148;21161;169683;11867;3343,http://en.wikipedia.org/wiki/Haarlem,Haarlem,haarlem,haarlem,GPE
+Haarlem,28760498,68,79,63278,"http://en.wikipedia.org/wiki/Haarlem,_Western_Cape","Haarlem, Western Cape",haarlem-western-cape,haarlem-western-cape,GPE
+Almere,118444,346,103,11867;36190531;21148,http://en.wikipedia.org/wiki/Almere,Almere,almere,almere,GPE
+Almere,36190531,9,14,118444;21148,http://en.wikipedia.org/wiki/Almere_(lake),Almere,almere,almere-lake,UNK
+Max van Heeswijk,6558171,43,20,2652490;40113943;21148;796027;2354465,http://en.wikipedia.org/wiki/Max_van_Heeswijk,Max van Heeswijk,max-van-heeswijk,max-van-heeswijk,UNK
+Motorola,2290911,39,59,23243880;1257631;3434750,http://en.wikipedia.org/wiki/7-Eleven_(cycling_team),7-Eleven,7-eleven,7-eleven-cycling-team,UNK
+Motorola,4144562,3,6,20319,http://en.wikipedia.org/wiki/Motorola_University,Motorola University,motorola-university,motorola-university,ORG
+Motorola,20319,1700,241,24992174;4144562;30333394;3434750;20319,http://en.wikipedia.org/wiki/Motorola,Motorola,motorola,motorola,UNK
+Motorola,30333394,352,430,24992174;20319,http://en.wikipedia.org/wiki/Motorola_Atrix_4G,Motorola Atrix 4G,motorola-atrix-4g,motorola-atrix-4g,UNK
+Motorola,24992174,1,171,20319;30333394,http://en.wikipedia.org/wiki/Motorola_Calgary,Motorola Calgary,motorola-calgary,motorola-calgary,UNK
+Johan Capiot,13573637,24,13,3343,http://en.wikipedia.org/wiki/Johan_Capiot,Johan Capiot,johan-capiot,johan-capiot,UNK
+Belgium,3343,55772,902,3343;11867;14532;17514;22885373;23243880;21332;21148;13573637;33166;662640;2652490;49732;679716;63278;796027;11065220;21493015;67302;33005082;9647657;3434750;2164343;5434703;465956;18949613;4689264;6932095;2354465;362466;9804204;250204,http://en.wikipedia.org/wiki/Belgium,Belgium,belgium,belgium,GPE
+Belgium,111979,61,325,3434750,"http://en.wikipedia.org/wiki/Belgium,_Illinois","Belgium, Illinois",belgium-illinois,belgium-illinois,GPE
+Belgium,260594,47,66,260593;3434750,"http://en.wikipedia.org/wiki/Belgium,_Wisconsin","Belgium, Wisconsin",belgium-wisconsin,belgium-wisconsin,GPE
+Belgium,121335,78,100,3434750,"http://en.wikipedia.org/wiki/Belgium_Township,_Polk_County,_Minnesota","Belgium Township, Polk County, Minnesota",belgium-township-polk-county-minnesota,belgium-township-polk-county-minnesota,GPE
+Belgium,260593,34,43,3434750;260594,"http://en.wikipedia.org/wiki/Belgium_(town),_Wisconsin","Belgium (town), Wisconsin",belgium-town-wisconsin,belgium-town-wisconsin,GPE
+Belgium,67302,137,293,14699;67302;17514;21493015;11867;18949613;21148;662640;14532;17763;3343;3434750,http://en.wikipedia.org/wiki/Geography_of_Belgium,Geography of Belgium,geography-of-belgium,geography-of-belgium,UNK
+Belgium,662640,224,217,67302;1490969;662640;3343,http://en.wikipedia.org/wiki/Religion_in_Belgium,Religion in Belgium,religion-in-belgium,religion-in-belgium,UNK
+Belgium,2916721,43,53,3434750,"http://en.wikipedia.org/wiki/Belgium,_West_Virginia","Belgium, West Virginia",belgium-west-virginia,belgium-west-virginia,GPE
+Belgium,22885373,1,102,3343;20239156,http://en.wikipedia.org/wiki/Belgium_Rugby_League,Belgium Rugby League,belgium-rugby-league,belgium-rugby-league,UNK
+Belgium,33005082,1,36,3343;33005082,http://en.wikipedia.org/wiki/Belgium_(1914–18),Belgium,belgium,belgium-1914–18,GPE
+Belgium,679716,2505,927,711598;362466;3434750;21148;33166;9647657;14532;250204;11867;3343;679716,http://en.wikipedia.org/wiki/Belgium_national_football_team,Belgium national football team,belgium-national-football-team,belgium-national-football-team,UNK
+Collstrop,6932095,72,55,21148;14532;3343;11867,http://en.wikipedia.org/wiki/Cycle_Collstrop,Cycle Collstrop,cycle-collstrop,cycle-collstrop,UNK
+Sven Teutenberg,42872112,12,22,796027;2354465,http://en.wikipedia.org/wiki/Sven_Teutenberg,Sven Teutenberg,sven-teutenberg,sven-teutenberg,UNK
+Germany,11867,167535,1367,3343;11867;13058;14701;14532;17514;21148;21161;6108409;2793759;6737193;8113702;33166;1639662;3867414;49732;27138927;63278;796027;5064191;21493015;67302;18949613;883816;118444;362466;9804204;131046;23243880;711598;194846;679716;921007;9647657;3434750;465956;4689264;1490969;6932095;3190225;250204,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+Germany,3190225,341,109,13058;33166;11867;9804204,http://en.wikipedia.org/wiki/Kingdom_of_Germany,Kingdom of Germany,kingdom-of-germany,kingdom-of-germany,GPE
+Germany,883816,158,187,11867;3434750;265585,"http://en.wikipedia.org/wiki/Little_Germany,_Manhattan","Little Germany, Manhattan",little-germany-manhattan,little-germany-manhattan,UNK
+Germany,11947058,137,165,3434750,http://en.wikipedia.org/wiki/Germany_Valley,Germany Valley,germany-valley,germany-valley,UNK
+Germany,26004346,1,6,,http://en.wikipedia.org/wiki/Germany_Foundation,Germany Foundation,germany-foundation,germany-foundation,UNK
+Germany,8113702,170,233,884716;11867,"http://en.wikipedia.org/wiki/Little_Germany,_Bradford","Little Germany, Bradford",little-germany-bradford,little-germany-bradford,UNK
+Germany,11159076,19,29,3434750;33166,"http://en.wikipedia.org/wiki/Germany,_Pale_Mother","Germany, Pale Mother",germany-pale-mother,germany-pale-mother,UNK
+Germany,40919574,2,12,40919574,"http://en.wikipedia.org/wiki/Germany,_Texas","Germany, Texas",germany-texas,germany-texas,UNK
+Germany,6108409,53,68,6108533;11867,http://en.wikipedia.org/wiki/Germany_(Epcot),Germany,germany,germany-epcot,UNK
+Germany,2793759,83,197,11867,http://en.wikipedia.org/wiki/Communist_Party_of_Germany_(1990),Communist Party of Germany,communist-party-of-germany,communist-party-of-germany-1990,UNK
+Germany,1271511,0,0,,"http://en.wikipedia.org/wiki/Little_Germany,_Ontario","Little Germany, Ontario",little-germany-ontario,little-germany-ontario,UNK
+Germany,884716,1,4,8113702,http://en.wikipedia.org/wiki/Little_Germany,Little Germany,little-germany,little-germany,UNK
+Germany,27138927,71,105,27138927;11867,http://en.wikipedia.org/wiki/The_Biggest_Loser_Germany,The Biggest Loser Germany,the-biggest-loser-germany,the-biggest-loser-germany,ORG
+Germany,1490969,272,272,13058;33166;21493015;11867;1490969;662640,http://en.wikipedia.org/wiki/Religion_in_Germany,Religion in Germany,religion-in-germany,religion-in-germany,UNK
+Germany,21493015,248,403,13058;67302;33166;21493015;11867;1490969;17763;3343;14699;21148,http://en.wikipedia.org/wiki/Geography_of_Germany,Geography of Germany,geography-of-germany,geography-of-germany,UNK
+Germany,13058,10184,611,1490969;3190225;3434750;33166;21493015;250204;11867;13058;897351,http://en.wikipedia.org/wiki/East_Germany,East Germany,east-germany,east-germany,GPE
+Germany,250204,3856,681,711598;3434750;33166;9647657;250204;11867;3343;679716;13058;362466;21148;14532,http://en.wikipedia.org/wiki/Germany_national_football_team,Germany national football team,germany-national-football-team,germany-national-football-team,UNK
+Germany,5064191,123,136,11867,"http://en.wikipedia.org/wiki/Germany,_Year_Zero","Germany, Year Zero",germany-year-zero,germany-year-zero,UNK
+Germany,33166,17376,488,1490969;3343;21493015;9647657;11867;13058;14532;11159076;3190225;3434750;362466;21148;250204;679716;897351,http://en.wikipedia.org/wiki/West_Germany,West Germany,west-germany,west-germany,GPE
+Germany,41476893,1,36,,http://en.wikipedia.org/wiki/Germany_Kent,Germany Kent,germany-kent,germany-kent,PER
+Germany,131046,77,98,3434750;11867,"http://en.wikipedia.org/wiki/Germany_Township,_Adams_County,_Pennsylvania","Germany Township, Adams County, Pennsylvania",germany-township-adams-county-pennsylvania,germany-township-adams-county-pennsylvania,GPE
+U.S. Postal,796027,14,172,21148;14532;23243880;4689264;42872112;3343;6558171;1257631;3434750;11867,http://en.wikipedia.org/wiki/U.S._Postal_Service_Pro_Cycling_Team,U.S. Postal Service Pro Cycling Team,us-postal-service-pro-cycling-team,us-postal-service-pro-cycling-team,UNK
+Erik Zabel,921007,265,276,1484348;11867;11065220,http://en.wikipedia.org/wiki/Erik_Zabel,Erik Zabel,erik-zabel,erik-zabel,UNK
+Telekom,7468585,63,58,,http://en.wikipedia.org/wiki/Telekom_Austria,Telekom Austria,telekom-austria,telekom-austria,UNK
+Telekom,194846,730,597,194846;11867,http://en.wikipedia.org/wiki/Deutsche_Telekom,Deutsche Telekom,deutsche-telekom,deutsche-telekom,UNK
+Telekom,1138839,134,46,,http://en.wikipedia.org/wiki/Telekom_Malaysia,Telekom Malaysia,telekom-malaysia,telekom-malaysia,UNK
+Italy,14532,127197,1418,3343;11867;23623088;14701;14699;14532;17514;1942377;265585;21148;6108533;33166;1639662;3867414;49732;41381137;796027;67302;1884591;1873263;18949613;897351;4544003;15391883;362466;9804204;127616;411234;135842;2652490;679716;25036290;9647657;758372;3434750;4689264;6932095;1484334;250204,http://en.wikipedia.org/wiki/Italy,Italy,italy,italy,GPE
+Italy,265585,408,307,704114;4304258;1484334;362466;758372;11752595;883816;1171144;23623088;3434750;1884591;265592;2170833;11805457;35158589;15391883;411234;14532;20789349;15540697;1942377;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Manhattan","Little Italy, Manhattan",little-italy-manhattan,little-italy-manhattan,GPE
+Italy,1171144,179,81,2170833;704114;4304258;1484334;11805457;35158589;15391883;758372;11752595;411234;20789349;15540697;23623088;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Vancouver","Little Italy, Vancouver",little-italy-vancouver,little-italy-vancouver,UNK
+Italy,9804204,2281,660,897351;1873263;3190225;3434750;18949613;21148;1639662;14701;14532;11867;3343,http://en.wikipedia.org/wiki/Kingdom_of_Italy,Kingdom of Italy,kingdom-of-italy,kingdom-of-italy,GPE
+Italy,265592,342,391,704114;4304258;1484334;758372;11752595;1171144;23623088;1884591;265592;265585;2170833;11805457;35158589;15391883;411234;20789349;15540697;1942377;8684049,http://en.wikipedia.org/wiki/Little_Italy,Little Italy,little-italy,little-italy,UNK
+Italy,897351,708,300,13058;33166;897351;14701;14699;9804204;14532;2170833,http://en.wikipedia.org/wiki/Southern_Italy,Southern Italy,southern-italy,southern-italy,UNK
+Italy,704114,136,39,2170833;20789349;4304258;1484334;11805457;35158589;1171144;15540697;15391883;23623088;758372;1942377;8684049;1884591;11752595;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Ottawa","Little Italy, Ottawa",little-italy-ottawa,little-italy-ottawa,GPE
+Italy,11752595,7,27,704114;23623088;1171144;4304258;1942377;1884591;2170833;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Wilmington","Little Italy, Wilmington",little-italy-wilmington,little-italy-wilmington,UNK
+Italy,14169617,48,64,3434750,http://en.wikipedia.org/wiki/Italy_Records,Italy Records,italy-records,italy-records,ORG
+Italy,1484334,345,214,2170833;704114;4304258;11805457;35158589;15391883;758372;11752595;411234;14532;20789349;1171144;15540697;23623088;3434750;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Baltimore","Little Italy, Baltimore",little-italy-baltimore,little-italy-baltimore,GPE
+Italy,11805457,20,107,2170833;704114;4304258;1484334;1171144;23623088;1942377;1884591;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Omaha","Little Italy, Omaha",little-italy-omaha,little-italy-omaha,UNK
+Italy,20789349,0,30,704114;23623088;4304258;1171144;1942377;1884591;2170833;411234;265592;265585;1484334,http://en.wikipedia.org/wiki/Little_Italy_(Bridgeport),Little Italy,little-italy,little-italy-bridgeport,UNK
+Italy,1942377,326,277,704114;4304258;1484334;758372;11752595;1171144;23623088;3434750;1884591;265592;265585;2170833;11805457;35158589;15391883;411234;14532;20789349;15540697;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Chicago","Little Italy, Chicago",little-italy-chicago,little-italy-chicago,UNK
+Italy,16730206,14,20,,http://en.wikipedia.org/wiki/I.T.A.L.Y.,I.T.A.L.Y.,italy,italy,UNK
+Italy,35158464,0,2,35158589;15540697,"http://en.wikipedia.org/wiki/Little_Italy,_West_Virginia","Little Italy, West Virginia",little-italy-west-virginia,little-italy-west-virginia,UNK
+Italy,4304258,128,26,2170833;20789349;704114;1484334;11805457;35158589;1171144;15540697;15391883;23623088;758372;1942377;8684049;1884591;11752595;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Winnipeg","Little Italy, Winnipeg",little-italy-winnipeg,little-italy-winnipeg,UNK
+Italy,25036290,1434,275,362466;27483885;3867414;14532,http://en.wikipedia.org/wiki/Italy_national_under-19_football_team,Italy national under-19 football team,italy-national-under-19-football-team,italy-national-under-19-football-team,UNK
+Italy,14701,1074,423,41381137;897351;14701;14699;9804204;14532;11867;3434750,http://en.wikipedia.org/wiki/Politics_of_Italy,Politics of Italy,politics-of-italy,politics-of-italy,UNK
+Italy,758372,48,75,1171144;2170833;14532;704114;23623088;4304258;1942377;1884591;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Syracuse","Little Italy, Syracuse",little-italy-syracuse,little-italy-syracuse,UNK
+Italy,362466,4391,862,711598;3434750;265585;3867414;33166;9647657;250204;25036290;11867;3343;679716;362466;23623088;21148;14532,http://en.wikipedia.org/wiki/Italy_national_football_team,Italy national football team,italy-national-football-team,italy-national-football-team,ORG
+Italy,14699,202,305,14701;14699;67302;21493015;14532;17763;897351,http://en.wikipedia.org/wiki/Geography_of_Italy,Geography of Italy,geography-of-italy,geography-of-italy,UNK
+Italy,135842,51,56,14532;3434750,"http://en.wikipedia.org/wiki/Italy,_Texas","Italy, Texas",italy-texas,italy-texas,GPE
+Italy,3867414,1771,347,362466;14532;25036290;11867,http://en.wikipedia.org/wiki/Italy_national_under-21_football_team,Italy national under-21 football team,italy-national-under-21-football-team,italy-national-under-21-football-team,ORG
+Italy,8684049,9,28,704114;23623088;1171144;4304258;1942377;1884591;2170833;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Paterson","Little Italy, Paterson",little-italy-paterson,little-italy-paterson,UNK
+Italy,2170833,240,148,704114;4304258;1484334;11805457;35158589;15391883;758372;11752595;411234;20789349;1171144;15540697;23623088;1942377;8684049;1884591;897351;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Montreal","Little Italy, Montreal",little-italy-montreal,little-italy-montreal,GPE
+Italy,1639662,560,249,1873263;11867;9804204;21148;14532,http://en.wikipedia.org/wiki/Kingdom_of_Italy_(Napoleonic),Kingdom of Italy,kingdom-of-italy,kingdom-of-italy-napoleonic,GPE
+Italy,1873263,160,203,9804204;1639662;14532,http://en.wikipedia.org/wiki/Roman_Italy,Roman Italy,roman-italy,roman-italy,UNK
+Italy,15391883,1,42,704114;23623088;1171144;4304258;1942377;1884591;2170833;411234;265592;265585;14532;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Connellsville","Little Italy, Connellsville",little-italy-connellsville,little-italy-connellsville,UNK
+Italy,35158589,73,113,2170833;704114;35158464;4304258;1484334;1171144;23623088;3434750;1942377;1884591;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Randolph_County,_West_Virginia","Little Italy, Randolph County, West Virginia",little-italy-randolph-county-west-virginia,little-italy-randolph-county-west-virginia,GPE
+Italy,411234,496,398,704114;4304258;1484334;758372;11752595;1171144;23623088;1884591;265592;265585;2170833;11805457;35158589;15391883;14532;20789349;15540697;1942377;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Toronto","Little Italy, Toronto",little-italy-toronto,little-italy-toronto,GPE
+Italy,1884591,256,167,2170833;704114;4304258;1484334;11805457;35158589;15391883;758372;11752595;411234;14532;20789349;1171144;15540697;23623088;3434750;1942377;8684049;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_San_Diego","Little Italy, San Diego",little-italy-san-diego,little-italy-san-diego,UNK
+Italy,41381137,11,73,14701;14532,http://en.wikipedia.org/wiki/For_Italy,For Italy,for-italy,for-italy,UNK
+Italy,127616,31,48,14532;3434750,"http://en.wikipedia.org/wiki/Italy,_New_York","Italy, New York",italy-new-york,italy-new-york,GPE
+Italy,15540697,55,88,1171144;2170833;704114;35158464;23623088;4304258;3434750;1942377;1884591;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Clay_County,_West_Virginia","Little Italy, Clay County, West Virginia",little-italy-clay-county-west-virginia,little-italy-clay-county-west-virginia,GPE
+Italy,23623088,279,142,2170833;704114;4304258;1484334;11805457;4689264;35158589;15391883;362466;758372;11752595;411234;14532;20789349;1171144;15540697;23623088;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Melbourne","Little Italy, Melbourne",little-italy-melbourne,little-italy-melbourne,UNK
+Italy,6108533,54,53,14532;6108409,http://en.wikipedia.org/wiki/Italy_(Epcot),Italy,italy,italy-epcot,UNK
+Mapei,4544003,20,36,2652490;14532;41649983,http://en.wikipedia.org/wiki/Mapei,Mapei,mapei,mapei,UNK
+Mapei,2652490,173,109,6558171;14532;11065220;3343;4544003;3434750,http://en.wikipedia.org/wiki/Mapei_(cycling_team),Mapei,mapei,mapei-cycling-team,UNK
+Mapei,41649983,6,43,4544003;3434750,http://en.wikipedia.org/wiki/Mapei_(musician),Mapei,mapei,mapei-musician,UNK
+Jans Koerts,17022543,29,33,21148;2354465,http://en.wikipedia.org/wiki/Jans_Koerts,Jans Koerts,jans-koerts,jans-koerts,UNK
+Aki,483340,44,32,329404,"http://en.wikipedia.org/wiki/Aki_District,_Kōchi","Aki District, Kōchi",aki-district-kochi,aki-district-kochi,UNK
+Aki,503596,67,51,,"http://en.wikipedia.org/wiki/Aki_District,_Hiroshima","Aki District, Hiroshima",aki-district-hiroshima,aki-district-hiroshima,UNK
+Aki,459789,9,11,,"http://en.wikipedia.org/wiki/Aki,_Ōita","Aki, Ōita",aki-oita,aki-oita,GPE
+Aki,19372136,23,31,329404,http://en.wikipedia.org/wiki/Aki_Station,Aki Station,aki-station,aki-station,UNK
+Aki,352563,159,137,,http://en.wikipedia.org/wiki/Aki_Province,Aki Province,aki-province,aki-province,UNK
+Aki,28139201,2,5,,http://en.wikipedia.org/wiki/Akinator,Akinator,akinator,akinator,UNK
+Aki,872,1029,481,872;3434750,http://en.wikipedia.org/wiki/Akira_Kurosawa,Akira Kurosawa,akira-kurosawa,akira-kurosawa,PER
+Aki,8544624,1,8,,http://en.wikipedia.org/wiki/Akik,Akik,akik,akik,UNK
+Aki,4035974,55,66,,http://en.wikipedia.org/wiki/Aki_(James_Bond),Aki,aki,aki-james-bond,UNK
+Aki,329404,48,51,19372136;483340,"http://en.wikipedia.org/wiki/Aki,_Kōchi","Aki, Kōchi",aki-kochi,aki-kochi,GPE
+Aki,2006930,308,225,,http://en.wikipedia.org/wiki/Akiva_Goldsman,Akiva Goldsman,akiva-goldsman,akiva-goldsman,PER
+Robbie McEwen,1484348,298,211,2354465;4689264;11065220;921007,http://en.wikipedia.org/wiki/Robbie_McEwen,Robbie McEwen,robbie-mcewen,robbie-mcewen,UNK
+Australia,4689264,136194,1016,3343;11867;7214224;23623088;14532;21332;21148;49732;796027;65836;18949613;18950948;2354465;26451470;26451467;26451463;26451498;26451490;21991628;620967;450955;185052;27960950;3434750;20611325;2164343;465956;4689264;243669;1484348;984508,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australia,450955,49,106,4689264,http://en.wikipedia.org/wiki/Gun_politics_in_Australia,Gun politics in Australia,gun-politics-in-australia,gun-politics-in-australia,UNK
+Australia,18950948,203,272,4689264;18950948;20611325,http://en.wikipedia.org/wiki/Geography_of_Australia,Geography of Australia,geography-of-australia,geography-of-australia,UNK
+Australia,49732,126,120,4689264;17514;11867;21148;14532;3343;3434750,http://en.wikipedia.org/wiki/Australia_Group,Australia Group,australia-group,australia-group,ORG
+Australia,26451467,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Sydney,Australia/Sydney,australia-sydney,australia-sydney,PER
+Australia,23335381,10,15,,http://en.wikipedia.org/wiki/Australia_EP,Australia EP,australia-ep,australia-ep,UNK
+Australia,185052,236,108,4689264,http://en.wikipedia.org/wiki/Australia_Party,Australia Party,australia-party,australia-party,ORG
+Australia,8007505,169,194,,http://en.wikipedia.org/wiki/Australia_Station,Australia Station,australia-station,australia-station,ORG
+Australia,33114696,6,16,,http://en.wikipedia.org/wiki/For_Australia,For Australia,for-australia,for-australia,UNK
+Australia,38961514,2,7,,http://en.wikipedia.org/wiki/Mr._Australia,Mr. Australia,mr-australia,mr-australia,ORG
+Australia,26451490,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Adelaide,Australia/Adelaide,australia-adelaide,australia-adelaide,PER
+Australia,984508,214,355,4689264,http://en.wikipedia.org/wiki/Internet_censorship_in_Australia,Internet censorship in Australia,internet-censorship-in-australia,internet-censorship-in-australia,UNK
+Australia,243669,51,155,4689264,http://en.wikipedia.org/wiki/Australia_II,Australia II,australia-ii,australia-ii,UNK
+Australia,620967,2240,477,4689264,http://en.wikipedia.org/wiki/Australia_national_rugby_union_team,Australia national rugby union team,australia-national-rugby-union-team,australia-national-rugby-union-team,UNK
+Australia,26451463,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Melbourne,Australia/Melbourne,australia-melbourne,australia-melbourne,PER
+Australia,20214173,19,31,3434750,http://en.wikipedia.org/wiki/Australia_(schooner),Australia,australia,australia-schooner,UNK
+Australia,27960950,4,21,4689264;27960950,http://en.wikipedia.org/wiki/MS_Australia,MS Australia,ms-australia,ms-australia,UNK
+Australia,7214224,5,22,4689264,http://en.wikipedia.org/wiki/National_Police_Memorial_Australia,National Police Memorial Australia,national-police-memorial-australia,national-police-memorial-australia,UNK
+Australia,42585823,126,145,3434750,http://en.wikipedia.org/wiki/Australia_(Modern_Family),Australia,australia,australia-modern-family,UNK
+Australia,65836,173,290,4689264,http://en.wikipedia.org/wiki/Republicanism_in_Australia,Republicanism in Australia,republicanism-in-australia,republicanism-in-australia,UNK
+Australia,42450678,37,51,3434750,"http://en.wikipedia.org/wiki/Australia,_Mississippi","Australia, Mississippi",australia-mississippi,australia-mississippi,GPE
+Australia,10680720,15,21,,http://en.wikipedia.org/wiki/Australia_Hotel,Australia Hotel,australia-hotel,australia-hotel,UNK
+Australia,1460635,58,63,,"http://en.wikipedia.org/wiki/Wittenoom,_Western_Australia","Wittenoom, Western Australia",wittenoom-western-australia,wittenoom-western-australia,UNK
+Australia,37398196,0,1,,http://en.wikipedia.org/wiki/Australia_(KA-5),Australia,australia,australia-ka-5,PER
+Australia,26451470,2,10,4689264,http://en.wikipedia.org/wiki/Australia/Brisbane,Australia/Brisbane,australia-brisbane,australia-brisbane,PER
+Australia,26451498,2,9,4689264,http://en.wikipedia.org/wiki/Australia/Perth,Australia/Perth,australia-perth,australia-perth,PER
+Australia,20611325,466,326,18950948;4689264;5434703;20611325,http://en.wikipedia.org/wiki/Australia_(continent),Australia,australia,australia-continent,UNK
+Rabobank,2354465,721,306,1484348;11065220;42872112;465956;17022543;3343;4689264;6558171;21148,http://en.wikipedia.org/wiki/Belkin_Pro_Cycling_Team,Belkin Pro Cycling Team,belkin-pro-cycling-team,belkin-pro-cycling-team,UNK
+Rabobank,465956,311,293,11867;40843399;3343;3434750;2354465;4689264;21148,http://en.wikipedia.org/wiki/Rabobank,Rabobank,rabobank,rabobank,UNK
+Rabobank,40843399,2,6,465956;40843399,http://en.wikipedia.org/wiki/Rabobank_(Ireland),Rabobank,rabobank,rabobank-ireland,UNK
+Kaspars Ozers,31223406,4,7,17514;23243880,http://en.wikipedia.org/wiki/Kaspars_Ozers,Kaspars Ozers,kaspars-ozers,kaspars-ozers,UNK
+Latvia,17514,17600,915,31223406;3343;67302;11867;14532;17514;17763;3434750;49732;21148;711598;20239156;18949613;586818,http://en.wikipedia.org/wiki/Latvia,Latvia,latvia,latvia,GPE
+Latvia,711598,953,348,17514;9647657;250204;362466;11867;679716;21148,http://en.wikipedia.org/wiki/Latvia_national_football_team,Latvia national football team,latvia-national-football-team,latvia-national-football-team,UNK
+Latvia,20239156,67,100,22885373;17514,http://en.wikipedia.org/wiki/Latvia_Rugby_League,Latvia Rugby League,latvia-rugby-league,latvia-rugby-league,UNK
+Latvia,586818,257,126,17514,http://en.wikipedia.org/wiki/University_of_Latvia,University of Latvia,university-of-latvia,university-of-latvia,ORG
+Latvia,17763,134,200,14699;67302;17514;21493015;17763,http://en.wikipedia.org/wiki/Geography_of_Latvia,Geography of Latvia,geography-of-latvia,geography-of-latvia,UNK
+Van Heeswijk,40113943,1,4,6558171,http://en.wikipedia.org/wiki/Van_Heeswijk,Van Heeswijk,van-heeswijk,van-heeswijk,UNK
+McEwen,1484348,298,211,2354465;4689264;11065220;921007,http://en.wikipedia.org/wiki/Robbie_McEwen,Robbie McEwen,robbie-mcewen,robbie-mcewen,UNK
+Teutenberg,42872112,12,22,796027;2354465,http://en.wikipedia.org/wiki/Sven_Teutenberg,Sven Teutenberg,sven-teutenberg,sven-teutenberg,UNK
+Capiot,13573637,24,13,3343,http://en.wikipedia.org/wiki/Johan_Capiot,Johan Capiot,johan-capiot,johan-capiot,UNK
+Koerts,17022543,29,33,21148;2354465,http://en.wikipedia.org/wiki/Jans_Koerts,Jans Koerts,jans-koerts,jans-koerts,UNK
+Ozers,31223406,4,7,17514;23243880,http://en.wikipedia.org/wiki/Kaspars_Ozers,Kaspars Ozers,kaspars-ozers,kaspars-ozers,UNK
+Lance Armstrong,23243880,963,586,21991628;31223406;2290911;23243880;1257631;11867;3343;3434750;796027,http://en.wikipedia.org/wiki/Lance_Armstrong,Lance Armstrong,lance-armstrong,lance-armstrong,UNK
+Lance Armstrong,21991628,11,20,23243880;4689264,http://en.wikipedia.org/wiki/Lance_Armstrong_(politician),Lance Armstrong,lance-armstrong,lance-armstrong-politician,PER
+U.S.,3434750,529967,1252,872;3343;11867;13058;14701;14532;17514;20319;21332;21148;33166;2290911;49732;63278;67302;111979;11159076;121335;131046;127616;1257631;15540697;135842;4689264;238192;233474;260593;260594;250204;14169617;265585;42585823;20214173;10328578;362466;23243880;435793;436898;3434750;465956;1484334;3868301;41649983;605077;2652490;42450678;679716;9647657;1942377;11947058;796027;1884591;883816;9804204;35158589;2916721,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S.,10328578,210,402,435793;10328648;10328590;3434750;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S.,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S.,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S.,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S.,16304842,112,175,8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S.,233474,102,93,3434750,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S.,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S.,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;70780;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S.,429750,276,240,887108;441501;79717;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S.,10328648,378,412,903062;10328590;10328578;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S.,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S.,6737193,115,173,887108;11867,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S.,21559355,95,143,,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S.,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S.,444113,128,143,,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S.,902392,245,190,22398962;436898;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S.,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S.,605077,301,341,3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S.,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S.,889284,455,321,889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S.,79717,694,442,889461;435793;887108;9180009;441501;889284;429750;3868301;888778;447879;436898;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+U.S.,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S.,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S.,435793,251,290,889461;498188;888778;447879;436898;10328578;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S.,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S.,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S.,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S.,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S.,889461,178,203,887108;441501;79717;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S.,903385,68,230,903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S.,447879,394,337,16304842;889461;903062;888778;435793;436898;75235;10328575;887108;9180009;441501;79717;428913;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S.,2440624,133,162,70780;3868301,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S.,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S.,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S.,70780,396,232,889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S.,3868301,350,531,3434750;2440624;79717;70780,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S.,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;887108;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S.,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S.,436898,769,483,889461;435793;887108;441501;889284;429750;902392;888778;447879;3434750;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S.,238192,394,239,889461;888778;435793;447879;436898;10328648;3434750;10328620;75235;10328575;887108;441501;79717;428913;70780;903385;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S.,6310196,592,545,435793;10328648;10328590;10328578;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+U.S.,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+George Hincapie,1257631,198,123,2290911;23243880;796027;3434750,http://en.wikipedia.org/wiki/George_Hincapie,George Hincapie,george-hincapie,george-hincapie,UNK

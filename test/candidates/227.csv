@@ -1,0 +1,97 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+SYDNEY,27862,23790,889,3293549;522978;665230;65836;26451467;7214224;23684447;27960950;20611325;1113940;6469725;8856503;11533780;266313;3499711;18950948;27862;31928;620967;796228;4689264,http://en.wikipedia.org/wiki/Sydney,Sydney,sydney,sydney,GPE
+SYDNEY,665230,60,54,31928;4689264;27862,http://en.wikipedia.org/wiki/Sydney_Hospital,Sydney Hospital,sydney-hospital,sydney-hospital,ORG
+SYDNEY,266313,937,665,6469725;3499711;522978;27862;23684447;4689264,http://en.wikipedia.org/wiki/Sydney_Airport,Sydney Airport,sydney-airport,sydney-airport,UNK
+SYDNEY,796228,537,286,6469725;4689264;27862;8856503;31928,http://en.wikipedia.org/wiki/City_of_Sydney,City of Sydney,city-of-sydney,city-of-sydney,UNK
+SYDNEY,31928,3130,486,545250;27862;665230;31928;796228;4689264,http://en.wikipedia.org/wiki/University_of_Sydney,University of Sydney,university-of-sydney,university-of-sydney,ORG
+SYDNEY,58268,787,256,3293549,"http://en.wikipedia.org/wiki/Sydney,_Nova_Scotia","Sydney, Nova Scotia",sydney-nova-scotia,sydney-nova-scotia,GPE
+SYDNEY,6469725,122,81,266313;3499711;4689264;796228;522978;27862,http://en.wikipedia.org/wiki/Geography_of_Sydney,Geography of Sydney,geography-of-sydney,geography-of-sydney,UNK
+SYDNEY,23684447,146,28,266313;3499711;4689264;522978;27862,http://en.wikipedia.org/wiki/Sydney_Theatre,Sydney Theatre,sydney-theatre,sydney-theatre,UNK
+SYDNEY,1098693,16,55,,"http://en.wikipedia.org/wiki/Sydney,_Lady_Morgan","Sydney, Lady Morgan",sydney-lady-morgan,sydney-lady-morgan,PER
+SYDNEY,3293549,13,21,27862;3293668;3293549;58268,http://en.wikipedia.org/wiki/Sydney_River,Sydney River,sydney-river,sydney-river,UNK
+SYDNEY,1332907,8,10,,http://en.wikipedia.org/wiki/Baron_Sydney,Baron Sydney,baron-sydney,baron-sydney,PER
+SYDNEY,36436066,6,11,,http://en.wikipedia.org/wiki/Sydney_School,Sydney School,sydney-school,sydney-school,UNK
+SYDNEY,3499711,117,148,23684447;266313;4689264;522978;27862;6469725,http://en.wikipedia.org/wiki/Sydney_Park,Sydney Park,sydney-park,sydney-park,UNK
+SYDNEY,6163291,0,2,21773055,http://en.wikipedia.org/wiki/Sydney_Island,Sydney Island,sydney-island,sydney-island,UNK
+SYDNEY,1113940,907,353,1113940;27862;22943;4689264,http://en.wikipedia.org/wiki/Sydney_FC,Sydney FC,sydney-fc,sydney-fc,ORG
+SYDNEY,8856503,166,170,4689264;796228;27862,http://en.wikipedia.org/wiki/Electoral_district_of_Sydney,Electoral district of Sydney,electoral-district-of-sydney,electoral-district-of-sydney,UNK
+SYDNEY,5941401,4,23,,http://en.wikipedia.org/wiki/Sydney_Park_(actress),Sydney Park,sydney-park,sydney-park-actress,PER
+SYDNEY,21773055,1,8,6163291,http://en.wikipedia.org/wiki/Sydney_Island_(Queensland),Sydney Island,sydney-island,sydney-island-queensland,UNK
+SYDNEY,1101331,79,37,4689264,"http://en.wikipedia.org/wiki/Sydney_Road,_Melbourne","Sydney Road, Melbourne",sydney-road-melbourne,sydney-road-melbourne,UNK
+SYDNEY,522978,296,277,23684447;4689264;27862;6469725;266313;3499711,http://en.wikipedia.org/wiki/Sydney_Tower,Sydney Tower,sydney-tower,sydney-tower,UNK
+SYDNEY,11533780,325,435,4689264;27862,http://en.wikipedia.org/wiki/Sydney_International,Sydney International,sydney-international,sydney-international,UNK
+SYDNEY,2854921,43,11,,http://en.wikipedia.org/wiki/Sydney_Stadium,Sydney Stadium,sydney-stadium,sydney-stadium,UNK
+SYDNEY,3293668,25,9,3293668;3293549,"http://en.wikipedia.org/wiki/Sydney_River,_Nova_Scotia","Sydney River, Nova Scotia",sydney-river-nova-scotia,sydney-river-nova-scotia,GPE
+Battle Mountain,124434,194,166,3695398,"http://en.wikipedia.org/wiki/Battle_Mountain,_Nevada","Battle Mountain, Nevada",battle-mountain-nevada,battle-mountain-nevada,GPE
+Battle Mountain,3695398,9,23,124434,http://en.wikipedia.org/wiki/Battle_Mountain_Airport,Battle Mountain Airport,battle-mountain-airport,battle-mountain-airport,UNK
+Battle Mountain,31462989,5,15,,http://en.wikipedia.org/wiki/Battle_Mountain_(British_Columbia),Battle Mountain,battle-mountain,battle-mountain-british-columbia,UNK
+Sydney,27862,23790,889,3293549;522978;665230;65836;26451467;7214224;23684447;27960950;20611325;1113940;6469725;8856503;11533780;266313;3499711;18950948;27862;31928;620967;796228;4689264,http://en.wikipedia.org/wiki/Sydney,Sydney,sydney,sydney,GPE
+Sydney,665230,60,54,31928;4689264;27862,http://en.wikipedia.org/wiki/Sydney_Hospital,Sydney Hospital,sydney-hospital,sydney-hospital,ORG
+Sydney,266313,937,665,6469725;3499711;522978;27862;23684447;4689264,http://en.wikipedia.org/wiki/Sydney_Airport,Sydney Airport,sydney-airport,sydney-airport,UNK
+Sydney,796228,537,286,6469725;4689264;27862;8856503;31928,http://en.wikipedia.org/wiki/City_of_Sydney,City of Sydney,city-of-sydney,city-of-sydney,UNK
+Sydney,31928,3130,486,545250;27862;665230;31928;796228;4689264,http://en.wikipedia.org/wiki/University_of_Sydney,University of Sydney,university-of-sydney,university-of-sydney,ORG
+Sydney,58268,787,256,3293549,"http://en.wikipedia.org/wiki/Sydney,_Nova_Scotia","Sydney, Nova Scotia",sydney-nova-scotia,sydney-nova-scotia,GPE
+Sydney,6469725,122,81,266313;3499711;4689264;796228;522978;27862,http://en.wikipedia.org/wiki/Geography_of_Sydney,Geography of Sydney,geography-of-sydney,geography-of-sydney,UNK
+Sydney,23684447,146,28,266313;3499711;4689264;522978;27862,http://en.wikipedia.org/wiki/Sydney_Theatre,Sydney Theatre,sydney-theatre,sydney-theatre,UNK
+Sydney,1098693,16,55,,"http://en.wikipedia.org/wiki/Sydney,_Lady_Morgan","Sydney, Lady Morgan",sydney-lady-morgan,sydney-lady-morgan,PER
+Sydney,3293549,13,21,27862;3293668;3293549;58268,http://en.wikipedia.org/wiki/Sydney_River,Sydney River,sydney-river,sydney-river,UNK
+Sydney,1332907,8,10,,http://en.wikipedia.org/wiki/Baron_Sydney,Baron Sydney,baron-sydney,baron-sydney,PER
+Sydney,36436066,6,11,,http://en.wikipedia.org/wiki/Sydney_School,Sydney School,sydney-school,sydney-school,UNK
+Sydney,3499711,117,148,23684447;266313;4689264;522978;27862;6469725,http://en.wikipedia.org/wiki/Sydney_Park,Sydney Park,sydney-park,sydney-park,UNK
+Sydney,6163291,0,2,21773055,http://en.wikipedia.org/wiki/Sydney_Island,Sydney Island,sydney-island,sydney-island,UNK
+Sydney,1113940,907,353,1113940;27862;22943;4689264,http://en.wikipedia.org/wiki/Sydney_FC,Sydney FC,sydney-fc,sydney-fc,ORG
+Sydney,8856503,166,170,4689264;796228;27862,http://en.wikipedia.org/wiki/Electoral_district_of_Sydney,Electoral district of Sydney,electoral-district-of-sydney,electoral-district-of-sydney,UNK
+Sydney,5941401,4,23,,http://en.wikipedia.org/wiki/Sydney_Park_(actress),Sydney Park,sydney-park,sydney-park-actress,PER
+Sydney,21773055,1,8,6163291,http://en.wikipedia.org/wiki/Sydney_Island_(Queensland),Sydney Island,sydney-island,sydney-island-queensland,UNK
+Sydney,1101331,79,37,4689264,"http://en.wikipedia.org/wiki/Sydney_Road,_Melbourne","Sydney Road, Melbourne",sydney-road-melbourne,sydney-road-melbourne,UNK
+Sydney,522978,296,277,23684447;4689264;27862;6469725;266313;3499711,http://en.wikipedia.org/wiki/Sydney_Tower,Sydney Tower,sydney-tower,sydney-tower,UNK
+Sydney,11533780,325,435,4689264;27862,http://en.wikipedia.org/wiki/Sydney_International,Sydney International,sydney-international,sydney-international,UNK
+Sydney,2854921,43,11,,http://en.wikipedia.org/wiki/Sydney_Stadium,Sydney Stadium,sydney-stadium,sydney-stadium,UNK
+Sydney,3293668,25,9,3293668;3293549,"http://en.wikipedia.org/wiki/Sydney_River,_Nova_Scotia","Sydney River, Nova Scotia",sydney-river-nova-scotia,sydney-river-nova-scotia,GPE
+Australia,4689264,136194,1016,5489;16660639;7214224;6469725;11533780;266313;22943;23402;27862;31928;49732;796228;65836;23684447;18950948;26451470;26451467;26451463;26451498;26451490;1113940;1101331;620967;3505715;8856503;3499711;450955;665230;185052;27960950;20611325;4689264;522978;243669;984508,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australia,450955,49,106,4689264,http://en.wikipedia.org/wiki/Gun_politics_in_Australia,Gun politics in Australia,gun-politics-in-australia,gun-politics-in-australia,UNK
+Australia,18950948,203,272,23402;4689264;22943;18950948;27862;20611325,http://en.wikipedia.org/wiki/Geography_of_Australia,Geography of Australia,geography-of-australia,geography-of-australia,UNK
+Australia,23335381,10,15,,http://en.wikipedia.org/wiki/Australia_EP,Australia EP,australia-ep,australia-ep,UNK
+Australia,185052,236,108,4689264,http://en.wikipedia.org/wiki/Australia_Party,Australia Party,australia-party,australia-party,ORG
+Australia,8007505,169,194,,http://en.wikipedia.org/wiki/Australia_Station,Australia Station,australia-station,australia-station,ORG
+Australia,33114696,6,16,,http://en.wikipedia.org/wiki/For_Australia,For Australia,for-australia,for-australia,UNK
+Australia,20214173,19,31,,http://en.wikipedia.org/wiki/Australia_(schooner),Australia,australia,australia-schooner,UNK
+Australia,38961514,2,7,,http://en.wikipedia.org/wiki/Mr._Australia,Mr. Australia,mr-australia,mr-australia,ORG
+Australia,26451467,2,11,27862;4689264,http://en.wikipedia.org/wiki/Australia/Sydney,Australia/Sydney,australia-sydney,australia-sydney,PER
+Australia,26451490,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Adelaide,Australia/Adelaide,australia-adelaide,australia-adelaide,PER
+Australia,984508,214,355,4689264,http://en.wikipedia.org/wiki/Internet_censorship_in_Australia,Internet censorship in Australia,internet-censorship-in-australia,internet-censorship-in-australia,UNK
+Australia,243669,51,155,4689264,http://en.wikipedia.org/wiki/Australia_II,Australia II,australia-ii,australia-ii,UNK
+Australia,620967,2240,477,27862;4689264,http://en.wikipedia.org/wiki/Australia_national_rugby_union_team,Australia national rugby union team,australia-national-rugby-union-team,australia-national-rugby-union-team,UNK
+Australia,20611325,466,326,5489;22943;18950948;4689264;27862;20611325,http://en.wikipedia.org/wiki/Australia_(continent),Australia,australia,australia-continent,UNK
+Australia,42450678,37,51,,"http://en.wikipedia.org/wiki/Australia,_Mississippi","Australia, Mississippi",australia-mississippi,australia-mississippi,GPE
+Australia,27960950,4,21,27862;4689264;27960950,http://en.wikipedia.org/wiki/MS_Australia,MS Australia,ms-australia,ms-australia,UNK
+Australia,26451463,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Melbourne,Australia/Melbourne,australia-melbourne,australia-melbourne,PER
+Australia,10680720,15,21,,http://en.wikipedia.org/wiki/Australia_Hotel,Australia Hotel,australia-hotel,australia-hotel,UNK
+Australia,1460635,58,63,,"http://en.wikipedia.org/wiki/Wittenoom,_Western_Australia","Wittenoom, Western Australia",wittenoom-western-australia,wittenoom-western-australia,UNK
+Australia,37398196,0,1,,http://en.wikipedia.org/wiki/Australia_(KA-5),Australia,australia,australia-ka-5,PER
+Australia,26451470,2,10,4689264,http://en.wikipedia.org/wiki/Australia/Brisbane,Australia/Brisbane,australia-brisbane,australia-brisbane,PER
+Australia,42585823,126,145,,http://en.wikipedia.org/wiki/Australia_(Modern_Family),Australia,australia,australia-modern-family,UNK
+Australia,7214224,5,22,27862;4689264,http://en.wikipedia.org/wiki/National_Police_Memorial_Australia,National Police Memorial Australia,national-police-memorial-australia,national-police-memorial-australia,UNK
+Australia,26451498,2,9,4689264,http://en.wikipedia.org/wiki/Australia/Perth,Australia/Perth,australia-perth,australia-perth,PER
+Australia,49732,126,120,4689264,http://en.wikipedia.org/wiki/Australia_Group,Australia Group,australia-group,australia-group,ORG
+Australia,65836,173,290,4689264;27862,http://en.wikipedia.org/wiki/Republicanism_in_Australia,Republicanism in Australia,republicanism-in-australia,republicanism-in-australia,UNK
+Chile,5489,30071,686,5489;67318;697710;26357457;20611325;22943;13890620;24633369;4689264;545250,http://en.wikipedia.org/wiki/Chile,Chile,chile,chile,GPE
+Chile,545250,514,252,5489;26357457;31928,http://en.wikipedia.org/wiki/University_of_Chile,University of Chile,university-of-chile,university-of-chile,ORG
+Chile,67318,127,225,5489;67318,http://en.wikipedia.org/wiki/Geography_of_Chile,Geography of Chile,geography-of-chile,geography-of-chile,UNK
+Chile,24633369,39,39,5489,http://en.wikipedia.org/wiki/SM-Chile,SM-Chile,sm-chile,sm-chile,GPE
+Chile,697710,2016,468,5489,http://en.wikipedia.org/wiki/Chile_national_football_team,Chile national football team,chile-national-football-team,chile-national-football-team,UNK
+Chile,13890620,78,94,5489,"http://en.wikipedia.org/wiki/Chilean_presidential_election,_1910","Chilean presidential election, 1910",chilean-presidential-election-1910,chilean-presidential-election-1910,PER
+Chile,26357457,319,399,5489;22943;545250;26357457,http://en.wikipedia.org/wiki/2010_Chile_earthquake,2010 Chile earthquake,2010-chile-earthquake,2010-chile-earthquake,UNK
+Papua New Guinea,22943,9885,885,3505715;20611325;1113940;5489;14166053;22943;2036507;23402;16660639;18950948;3817361;26357457;6368695;6368544;4689264,http://en.wikipedia.org/wiki/Papua_New_Guinea,Papua New Guinea,papua-new-guinea,papua-new-guinea,GPE
+Papua New Guinea,3817361,42,47,22943,http://en.wikipedia.org/wiki/The_Scout_Association_of_Papua_New_Guinea,The Scout Association of Papua New Guinea,the-scout-association-of-papua-new-guinea,the-scout-association-of-papua-new-guinea,ORG
+Papua New Guinea,23402,33,58,4689264;22943;18950948,http://en.wikipedia.org/wiki/Geography_of_Papua_New_Guinea,Geography of Papua New Guinea,geography-of-papua-new-guinea,geography-of-papua-new-guinea,UNK
+Papua New Guinea,14166053,46,27,22943,http://en.wikipedia.org/wiki/Papua_New_Guinea_Party,Papua New Guinea Party,papua-new-guinea-party,papua-new-guinea-party,UNK
+Papua New Guinea,16660639,270,271,4689264;22943,http://en.wikipedia.org/wiki/Monarchy_of_Papua_New_Guinea,Monarchy of Papua New Guinea,monarchy-of-papua-new-guinea,monarchy-of-papua-new-guinea,UNK
+Papua New Guinea,2036507,83,23,22943,http://en.wikipedia.org/wiki/University_of_Papua_New_Guinea,University of Papua New Guinea,university-of-papua-new-guinea,university-of-papua-new-guinea,ORG
+Papua New Guinea,3505715,49,55,4689264;22943,http://en.wikipedia.org/wiki/Papua_New_Guinea_national_Australian_rules_football_team,Papua New Guinea national Australian rules football team,papua-new-guinea-national-australian-rules-football-team,papua-new-guinea-national-australian-rules-football-team,PER
+Lihir,6368544,140,139,6368695;22943,http://en.wikipedia.org/wiki/Lihir_Island,Lihir Island,lihir-island,lihir-island,UNK
+Lihir,6368695,133,128,22943;6368544,http://en.wikipedia.org/wiki/Lihir_Group,Lihir Group,lihir-group,lihir-group,UNK
+GMT,12701,3323,226,,http://en.wikipedia.org/wiki/Greenwich_Mean_Time,Greenwich Mean Time,greenwich-mean-time,greenwich-mean-time,UNK
+GMT,8465437,5,10,,http://en.wikipedia.org/wiki/GMT_Records,GMT Records,gmt-records,gmt-records,ORG
+GMT,8984512,57,45,,http://en.wikipedia.org/wiki/GMT360,GMT360,gmt360,gmt360,UNK
+GMT,26207611,229,250,,http://en.wikipedia.org/wiki/GMT_(programme),GMT,gmt,gmt-programme,UNK

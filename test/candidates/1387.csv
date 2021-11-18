@@ -1,0 +1,139 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+NHL,21809,15123,636,8668714;69918;73133;8089149;605202;21809;22219;645042;3438109;22705;8210131;3880857,http://en.wikipedia.org/wiki/National_Hockey_League,National Hockey League,national-hockey-league,national-hockey-league,ORG
+NHL,8668714,0,68,69918;21809;5930245,http://en.wikipedia.org/wiki/NHL_'94,NHL '94,nhl-94,nhl-94,UNK
+NHL,5930245,52,70,8668714,http://en.wikipedia.org/wiki/NHL_2002,NHL 2002,nhl-2002,nhl-2002,UNK
+CANUCKS,73133,3337,623,69918;10737282;8089149;2031342;73133;21809;605202;22705,http://en.wikipedia.org/wiki/Vancouver_Canucks,Vancouver Canucks,vancouver-canucks,vancouver-canucks,UNK
+CANUCKS,8089149,163,137,69918;73133;21809;605202,http://en.wikipedia.org/wiki/Vancouver_Canucks_(WHL),Vancouver Canucks,vancouver-canucks,vancouver-canucks-whl,UNK
+BURE,605202,268,358,21809;2031342;8089149;69918;73133;22219;8210131,http://en.wikipedia.org/wiki/Pavel_Bure,Pavel Bure,pavel-bure,pavel-bure,PER
+NEW YORK,645042,77367,1542,2499282;21809;22219;8210131;27746113;26035579;667548;816554;3880857;351876;7402167;2585447;645042;8424095;13141861;598652;17292183;606772;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+NEW YORK,39062092,3,8,,http://en.wikipedia.org/wiki/New_York_EP,New York EP,new-york-ep,new-york-ep,UNK
+NEW YORK,5710132,2,12,,"http://en.wikipedia.org/wiki/New_York,_Auburn_and_Lansing_Railroad","New York, Auburn and Lansing Railroad",new-york-auburn-and-lansing-railroad,new-york-auburn-and-lansing-railroad,UNK
+NEW YORK,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+NEW YORK,2001239,3,3,,"http://en.wikipedia.org/wiki/New_York,_Newfoundland_and_London_Telegraph_Company","New York, Newfoundland and London Telegraph Company",new-york-newfoundland-and-london-telegraph-company,new-york-newfoundland-and-london-telegraph-company,UNK
+NEW YORK,1159194,10,261,,"http://en.wikipedia.org/wiki/New_York,_Lincolnshire","New York, Lincolnshire",new-york-lincolnshire,new-york-lincolnshire,UNK
+NEW YORK,17292183,104,126,645042,"http://en.wikipedia.org/wiki/New_York,_I_Love_You","New York, I Love You",new-york-i-love-you,new-york-i-love-you,UNK
+NEW YORK,7402167,6,16,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_New_York_(So_Good_They_Named_It_Twice)","New York, New York",new-york-new-york,new-york-new-york-so-good-they-named-it-twice,UNK
+NEW YORK,8210131,70636,932,2499282;4371418;21809;8210131;667548;816554;3880857;351876;69918;7402167;891699;645042;13141861;598652;605202;1849676;606772;259787;259786,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+NEW YORK,351876,647,399,21310853;2585447;891699;645042;13141861;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_New_Haven_and_Hartford_Railroad","New York, New Haven and Hartford Railroad",new-york-new-haven-and-hartford-railroad,new-york-new-haven-and-hartford-railroad,UNK
+NEW YORK,816554,492,446,891699;351876;645042;2499282;8210131;26723573,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_and_Western_Railway","New York, Susquehanna and Western Railway",new-york-susquehanna-and-western-railway,new-york-susquehanna-and-western-railway,UNK
+NEW YORK,891699,493,307,351876;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_Chicago_and_St._Louis_Railroad","New York, Chicago and St. Louis Railroad",new-york-chicago-and-st-louis-railroad,new-york-chicago-and-st-louis-railroad,UNK
+NEW YORK,26035579,0,1,645042,"http://en.wikipedia.org/wiki/New_York,_US-NY","New York, US-NY",new-york-us-ny,new-york-us-ny,UNK
+NEW YORK,21310853,2,74,351876,"http://en.wikipedia.org/wiki/New_York,_New_Haven_&_Hartford_Passenger_Depot","New York, New Haven & Hartford Passenger Depot",new-york-new-haven-hartford-passenger-depot,new-york-new-haven-hartford-passenger-depot,UNK
+NEW YORK,1470149,50,16,,http://en.wikipedia.org/wiki/New_York_&_Company,New York & Company,new-york-company,new-york-company,UNK
+NEW YORK,606772,30,81,8210131;645042,http://en.wikipedia.org/wiki/New_York:_A_Documentary_Film,New York: A Documentary Film,new-york-a-documentary-film,new-york-a-documentary-film,UNK
+NEW YORK,3880857,301,536,21809;645042;69918;8210131,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+NEW YORK,1555877,17,13,31747730,"http://en.wikipedia.org/wiki/New_York,_New_York_(On_the_Town)","New York, New York",new-york-new-york,new-york-new-york-on-the-town,UNK
+NEW YORK,667548,10,36,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_Rio,_and_Buenos_Aires_Line","New York, Rio, and Buenos Aires Line",new-york-rio-and-buenos-aires-line,new-york-rio-and-buenos-aires-line,ORG
+NEW YORK,27746113,5,109,13141861;645042,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railroad_Administration_Building","New York, Westchester and Boston Railroad Administration Building",new-york-westchester-and-boston-railroad-administration-building,new-york-westchester-and-boston-railroad-administration-building,UNK
+NEW YORK,598652,483,197,645042;598652;8210131,http://en.wikipedia.org/wiki/New_York_School,New York School,new-york-school,new-york-school,UNK
+NEW YORK,31747730,135,373,1555877;645042,http://en.wikipedia.org/wiki/New_York_(Glee),New York,new-york,new-york-glee,UNK
+NEW YORK,493759,93,39,,"http://en.wikipedia.org/wiki/New_York,_Tyne_and_Wear","New York, Tyne and Wear",new-york-tyne-and-wear,new-york-tyne-and-wear,GPE
+NEW YORK,2499282,360,314,891699;351876;645042;816554;8210131,"http://en.wikipedia.org/wiki/New_York,_Ontario_and_Western_Railway","New York, Ontario and Western Railway",new-york-ontario-and-western-railway,new-york-ontario-and-western-railway,UNK
+NEW YORK,2585447,38,55,351876;645042,"http://en.wikipedia.org/wiki/New_York,_Providence_and_Boston_Railroad","New York, Providence and Boston Railroad",new-york-providence-and-boston-railroad,new-york-providence-and-boston-railroad,UNK
+NEW YORK,13141861,113,149,351876;8210131;645042;27746113,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railway","New York, Westchester and Boston Railway",new-york-westchester-and-boston-railway,new-york-westchester-and-boston-railway,UNK
+NEW YORK,7112349,30,43,,"http://en.wikipedia.org/wiki/New_York,_Texas","New York, Texas",new-york-texas,new-york-texas,GPE
+NEW YORK,26723573,3,85,816554,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_&_Western_Railroad_ALCO_Type_S-2_Locomotive","New York, Susquehanna & Western Railroad ALCO Type S-2 Locomotive",new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,UNK
+NEW YORK,13288448,14,23,,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+Vancouver Canucks,73133,3337,623,69918;10737282;8089149;2031342;73133;21809;605202;22705,http://en.wikipedia.org/wiki/Vancouver_Canucks,Vancouver Canucks,vancouver-canucks,vancouver-canucks,UNK
+Vancouver Canucks,8089149,163,137,69918;73133;21809;605202,http://en.wikipedia.org/wiki/Vancouver_Canucks_(WHL),Vancouver Canucks,vancouver-canucks,vancouver-canucks-whl,UNK
+Pavel Bure,605202,268,358,21809;2031342;8089149;69918;73133;22219;8210131,http://en.wikipedia.org/wiki/Pavel_Bure,Pavel Bure,pavel-bure,pavel-bure,PER
+National Hockey League,21809,15123,636,8668714;69918;73133;8089149;605202;21809;22219;645042;3438109;22705;8210131;3880857,http://en.wikipedia.org/wiki/National_Hockey_League,National Hockey League,national-hockey-league,national-hockey-league,ORG
+Buffalo Sabres,69918,3132,620,8668714;69918;8089149;2031342;73133;8210131;21809;3880857;3438109;605202;22705,http://en.wikipedia.org/wiki/Buffalo_Sabres,Buffalo Sabres,buffalo-sabres,buffalo-sabres,UNK
+Garry Galley,3438109,274,53,69918;21809;22219,http://en.wikipedia.org/wiki/Garry_Galley,Garry Galley,garry-galley,garry-galley,PER
+Bure,605202,268,358,21809;2031342;8089149;69918;73133;22219;8210131,http://en.wikipedia.org/wiki/Pavel_Bure,Pavel Bure,pavel-bure,pavel-bure,PER
+Vancouver,73133,3337,623,69918;10737282;8089149;2031342;73133;21809;605202;22705,http://en.wikipedia.org/wiki/Vancouver_Canucks,Vancouver Canucks,vancouver-canucks,vancouver-canucks,UNK
+Vancouver,8089149,163,137,69918;73133;21809;605202,http://en.wikipedia.org/wiki/Vancouver_Canucks_(WHL),Vancouver Canucks,vancouver-canucks,vancouver-canucks-whl,UNK
+Galley,3438109,274,53,69918;21809;22219,http://en.wikipedia.org/wiki/Garry_Galley,Garry Galley,garry-galley,garry-galley,PER
+Buffalo,69918,3132,620,8668714;69918;8089149;2031342;73133;8210131;21809;3880857;3438109;605202;22705,http://en.wikipedia.org/wiki/Buffalo_Sabres,Buffalo Sabres,buffalo-sabres,buffalo-sabres,UNK
+Brian Burke,2031342,409,107,14966594;1092115;605202;69918;73133,http://en.wikipedia.org/wiki/Brian_Burke_(ice_hockey),Brian Burke,brian-burke,brian-burke-ice-hockey,PER
+Brian Burke,25244610,9,9,14966594;1092115,http://en.wikipedia.org/wiki/Brian_Burke_(Wisconsin_politician),Brian Burke,brian-burke,brian-burke-wisconsin-politician,UNK
+Brian Burke,1092115,157,100,2031342;25244610;13455568;14966594,http://en.wikipedia.org/wiki/Brian_Burke,Brian Burke,brian-burke,brian-burke,UNK
+Burke,42961689,1,5,,http://en.wikipedia.org/wiki/Burke_Building_(Manila),Burke Building,burke-building,burke-building-manila,ORG
+Burke,24137725,95,103,31724649,http://en.wikipedia.org/wiki/Burke_River_(Queensland),Burke River,burke-river,burke-river-queensland,UNK
+Burke,5047684,0,12,24568567,http://en.wikipedia.org/wiki/Edward_Burke,Edward Burke,edward-burke,edward-burke,PER
+Burke,41292750,1,3,,http://en.wikipedia.org/wiki/Peter_Burke,Peter Burke,peter-burke,peter-burke,PER
+Burke,93337,430,308,93337;473150,"http://en.wikipedia.org/wiki/Burke_County,_North_Carolina","Burke County, North Carolina",burke-county-north-carolina,burke-county-north-carolina,GPE
+Burke,14966594,8,93,2031342;10030;25244610;1849676;9019239;8424095;1137362;1092115,http://en.wikipedia.org/wiki/Burke,Burke,burke,burke,UNK
+Burke,6513708,38,60,,"http://en.wikipedia.org/wiki/Burke,_Idaho","Burke, Idaho",burke-idaho,burke-idaho,UNK
+Burke,259786,42,59,8210131;259787,"http://en.wikipedia.org/wiki/Burke_(village),_New_York","Burke (village), New York",burke-village-new-york,burke-village-new-york,GPE
+Burke,96821,569,375,10030;473150;96821,"http://en.wikipedia.org/wiki/Burke_County,_Georgia","Burke County, Georgia",burke-county-georgia,burke-county-georgia,GPE
+Burke,8424095,8,10,22660078;645042;14966594,http://en.wikipedia.org/wiki/Burke_(character),Burke,burke,burke-character,UNK
+Burke,259787,45,65,8210131;259786,"http://en.wikipedia.org/wiki/Burke_(town),_New_York","Burke (town), New York",burke-town-new-york,burke-town-new-york,GPE
+Burke,28328134,3,447,,http://en.wikipedia.org/wiki/Burke_Building,Burke Building,burke-building,burke-building,UNK
+Burke,9019239,84,73,14966594,http://en.wikipedia.org/wiki/Preston_Burke,Preston Burke,preston-burke,preston-burke,UNK
+Burke,5346432,177,185,137563,http://en.wikipedia.org/wiki/Burke_Lake,Burke Lake,burke-lake,burke-lake,UNK
+Burke,38626553,481,497,31724649,http://en.wikipedia.org/wiki/Burke_River_(New_South_Wales),Burke River,burke-river,burke-river-new-south-wales,UNK
+Burke,14624569,2,7,,http://en.wikipedia.org/wiki/Burke_Bay_(Washington),Burke Bay,burke-bay,burke-bay-washington,UNK
+Burke,2705971,0,12,,http://en.wikipedia.org/wiki/Burke_Island,Burke Island,burke-island,burke-island,UNK
+Burke,1137362,26,15,10737282;14966594,http://en.wikipedia.org/wiki/Don_Burke,Don Burke,don-burke,don-burke,PER
+Burke,22660078,2,10,8424095,http://en.wikipedia.org/wiki/Burke_(series),Burke,burke,burke-series,ORG
+Burke,12730793,10,16,,http://en.wikipedia.org/wiki/Les_Burke,Les Burke,les-burke,les-burke,PER
+Burke,2950809,206,198,10030,http://en.wikipedia.org/wiki/Mount_Burke,Mount Burke,mount-burke,mount-burke,UNK
+Burke,31724649,0,4,23556515;24137725;38626553,http://en.wikipedia.org/wiki/Burke_River,Burke River,burke-river,burke-river,UNK
+Burke,93212,248,181,93212;473150,"http://en.wikipedia.org/wiki/Burke_County,_North_Dakota","Burke County, North Dakota",burke-county-north-dakota,burke-county-north-dakota,GPE
+Burke,473150,0,3,93212;96821;93337,http://en.wikipedia.org/wiki/Burke_County,Burke County,burke-county,burke-county,UNK
+Burke,24568567,242,208,5047684,http://en.wikipedia.org/wiki/Edward_Burke_(athlete),Edward Burke,edward-burke,edward-burke-athlete,PER
+Burke,25852732,1,4,,"http://en.wikipedia.org/wiki/Burke,_Inc.","Burke, Inc.",burke-inc,burke-inc,UNK
+Burke,135434,13,35,,"http://en.wikipedia.org/wiki/Burke,_Texas","Burke, Texas",burke-texas,burke-texas,GPE
+Burke,351717,58,138,,http://en.wikipedia.org/wiki/Burke_and_Hare_murders,Burke and Hare murders,burke-and-hare-murders,burke-and-hare-murders,PER
+Burke,3083369,28,23,,"http://en.wikipedia.org/wiki/Burke_Road,_Melbourne","Burke Road, Melbourne",burke-road-melbourne,burke-road-melbourne,UNK
+Burke,14641170,10,16,137265;14640939,http://en.wikipedia.org/wiki/Burke_Mountain_(Vermont),Burke Mountain,burke-mountain,burke-mountain-vermont,UNK
+Burke,1849676,133,168,14966594;8210131,http://en.wikipedia.org/wiki/Elijah_Burke,Elijah Burke,elijah-burke,elijah-burke,PER
+Burke,4371418,159,215,8210131,http://en.wikipedia.org/wiki/USS_Burke_(DE-215),USS Burke,uss-burke,uss-burke-de-215,UNK
+Burke,121312,25,52,,"http://en.wikipedia.org/wiki/Burke_Township,_Pipestone_County,_Minnesota","Burke Township, Pipestone County, Minnesota",burke-township-pipestone-county-minnesota,burke-township-pipestone-county-minnesota,GPE
+Burke,30836688,5,16,,http://en.wikipedia.org/wiki/Dennis_K._Burke,Dennis K. Burke,dennis-k-burke,dennis-k-burke,PER
+Burke,24111718,44,58,,"http://en.wikipedia.org/wiki/Burke,_Illinois","Burke, Illinois",burke-illinois,burke-illinois,GPE
+Burke,138901,130,156,,"http://en.wikipedia.org/wiki/Burke,_Wisconsin","Burke, Wisconsin",burke-wisconsin,burke-wisconsin,GPE
+Burke,22874239,2,17,,http://en.wikipedia.org/wiki/Burke_Corporation,Burke Corporation,burke-corporation,burke-corporation,UNK
+Burke,10737282,2,33,1137362;73133,http://en.wikipedia.org/wiki/Don_Burke_(ice_hockey),Don Burke,don-burke,don-burke-ice-hockey,PER
+Burke,137265,47,63,10030;14641170,"http://en.wikipedia.org/wiki/Burke,_Vermont","Burke, Vermont",burke-vermont,burke-vermont,GPE
+Burke,137563,197,241,137563;5346432,"http://en.wikipedia.org/wiki/Burke,_Virginia","Burke, Virginia",burke-virginia,burke-virginia,GPE
+Burke,134861,29,40,,"http://en.wikipedia.org/wiki/Burke,_South_Dakota","Burke, South Dakota",burke-south-dakota,burke-south-dakota,GPE
+Burke,10030,1318,727,10030;14966594;137265;2950809;96821,http://en.wikipedia.org/wiki/Edmund_Burke,Edmund Burke,edmund-burke,edmund-burke,PER
+Burke,13455568,0,10,1092115,http://en.wikipedia.org/wiki/Burke_family,Burke family,burke-family,burke-family,PER
+Burke,14640939,3,2,14641170,http://en.wikipedia.org/wiki/Burke_Mountain,Burke Mountain,burke-mountain,burke-mountain,UNK
+Burke,38048030,168,234,,http://en.wikipedia.org/wiki/Electoral_district_of_Burke,Electoral district of Burke,electoral-district-of-burke,electoral-district-of-burke,UNK
+Burke,23556515,2,11,31724649,http://en.wikipedia.org/wiki/Burke_River_(New_Zealand),Burke River,burke-river,burke-river-new-zealand,UNK
+Ottawa,22705,2356,474,21809;69918;22219;22705;73133,http://en.wikipedia.org/wiki/Ottawa_Senators,Ottawa Senators,ottawa-senators,ottawa-senators,UNK
+Ottawa,27489237,87,107,,"http://en.wikipedia.org/wiki/Ottawa,_West_Virginia","Ottawa, West Virginia",ottawa-west-virginia,ottawa-west-virginia,GPE
+Ottawa,92059,341,192,536919;22219;92059;23291580;5232916;36678891,"http://en.wikipedia.org/wiki/Ottawa_County,_Oklahoma","Ottawa County, Oklahoma",ottawa-county-oklahoma,ottawa-county-oklahoma,GPE
+Ottawa,21825149,0,72,,"http://en.wikipedia.org/wiki/Ottawa,_Ivory_Coast","Ottawa, Ivory Coast",ottawa-ivory-coast,ottawa-ivory-coast,UNK
+Ottawa,95678,637,236,95678;23291580;536919;114565;5232916,"http://en.wikipedia.org/wiki/Ottawa_County,_Kansas","Ottawa County, Kansas",ottawa-county-kansas,ottawa-county-kansas,GPE
+Ottawa,12679320,43,2,,"http://en.wikipedia.org/wiki/Ottawa_Lake,_Michigan","Ottawa Lake, Michigan",ottawa-lake-michigan,ottawa-lake-michigan,GPE
+Ottawa,2379962,228,101,30272098;6963007;1741645;22219;73458;31086107;438668,http://en.wikipedia.org/wiki/Ottawa_Train_Station,Ottawa Train Station,ottawa-train-station,ottawa-train-station,UNK
+Ottawa,140699,1343,261,22219;140699;947784,http://en.wikipedia.org/wiki/University_of_Ottawa,University of Ottawa,university-of-ottawa,university-of-ottawa,UNK
+Ottawa,9129087,444,456,,http://en.wikipedia.org/wiki/Ottawa_Islands,Ottawa Islands,ottawa-islands,ottawa-islands,UNK
+Ottawa,2996958,3,4,,"http://en.wikipedia.org/wiki/Ottawa_Hotel,_Montreal","Ottawa Hotel, Montreal",ottawa-hotel-montreal,ottawa-hotel-montreal,UNK
+Ottawa,95045,496,285,95045;536919;5232916,"http://en.wikipedia.org/wiki/Ottawa_County,_Michigan","Ottawa County, Michigan",ottawa-county-michigan,ottawa-county-michigan,GPE
+Ottawa,23922171,39,59,120574,"http://en.wikipedia.org/wiki/Ottawa,_Minnesota","Ottawa, Minnesota",ottawa-minnesota,ottawa-minnesota,UNK
+Ottawa,73458,818,184,30272098;22219;6963007;1741645;2379962;438668,http://en.wikipedia.org/wiki/Ottawa_River,Ottawa River,ottawa-river,ottawa-river,UNK
+Ottawa,724229,122,138,720952,http://en.wikipedia.org/wiki/Ottawa_River_(Lake_Erie),Ottawa River,ottawa-river,ottawa-river-lake-erie,GPE
+Ottawa,114565,836,325,95678;16488965;947784,"http://en.wikipedia.org/wiki/Ottawa,_Kansas","Ottawa, Kansas",ottawa-kansas,ottawa-kansas,GPE
+Ottawa,31086107,6,20,111439;2379962,http://en.wikipedia.org/wiki/Ottawa_Station_(Rock_Island_Line),Ottawa Station,ottawa-station,ottawa-station-rock-island-line,UNK
+Ottawa,16488965,36,51,114565;23291580,"http://en.wikipedia.org/wiki/Ottawa_Township,_Franklin_County,_Kansas","Ottawa Township, Franklin County, Kansas",ottawa-township-franklin-county-kansas,ottawa-township-franklin-county-kansas,GPE
+Ottawa,35576358,65,80,139964,"http://en.wikipedia.org/wiki/Ottawa_(community),_Wisconsin","Ottawa (community), Wisconsin",ottawa-community-wisconsin,ottawa-community-wisconsin,GPE
+Ottawa,5232916,39,86,95045;95678;92059;8279574;25894316;26915228,http://en.wikipedia.org/wiki/USS_Ottawa_(AKA-101),USS Ottawa,uss-ottawa,uss-ottawa-aka-101,UNK
+Ottawa,6963007,143,226,22219;73458;2379962,"http://en.wikipedia.org/wiki/Ottawa,_Arnprior_and_Parry_Sound_Railway","Ottawa, Arnprior and Parry Sound Railway",ottawa-arnprior-and-parry-sound-railway,ottawa-arnprior-and-parry-sound-railway,UNK
+Ottawa,3026616,4,8,,http://en.wikipedia.org/wiki/Ottawa_District,Ottawa District,ottawa-district,ottawa-district,UNK
+Ottawa,536919,1,5,95045;95678;92059;26915228,http://en.wikipedia.org/wiki/Ottawa_County,Ottawa County,ottawa-county,ottawa-county,UNK
+Ottawa,111439,1469,160,31086107;9630772,"http://en.wikipedia.org/wiki/Ottawa,_Illinois","Ottawa, Illinois",ottawa-illinois,ottawa-illinois,UNK
+Ottawa,34474485,58,68,,http://en.wikipedia.org/wiki/Ottawa_(shipwreck),Ottawa,ottawa,ottawa-shipwreck,UNK
+Ottawa,438668,276,155,30272098;1741645;22219;73458;2379962,http://en.wikipedia.org/wiki/Ottawa_Valley,Ottawa Valley,ottawa-valley,ottawa-valley,UNK
+Ottawa,1741645,178,83,30272098;22219;73458;2379962;438668,http://en.wikipedia.org/wiki/City_of_Ottawa,City of Ottawa,city-of-ottawa,city-of-ottawa,ORG
+Ottawa,8279574,46,63,5232916;25894316,http://en.wikipedia.org/wiki/USS_Ottawa_(1861),USS Ottawa,uss-ottawa,uss-ottawa-1861,UNK
+Ottawa,129766,118,71,22219;6125504;26915228,"http://en.wikipedia.org/wiki/Ottawa,_Ohio","Ottawa, Ohio",ottawa-ohio,ottawa-ohio,GPE
+Ottawa,2755910,54,22,22219,http://en.wikipedia.org/wiki/Ottawa_Journal,Ottawa Journal,ottawa-journal,ottawa-journal,UNK
+Ottawa,30272098,118,213,1741645;22219;73458;2379962;438668,http://en.wikipedia.org/wiki/Geography_of_Ottawa,Geography of Ottawa,geography-of-ottawa,geography-of-ottawa,UNK
+Ottawa,25894316,1,2,5232916;8279574,http://en.wikipedia.org/wiki/USS_Ottawa,USS Ottawa,uss-ottawa,uss-ottawa,UNK
+Ottawa,10348746,72,174,,"http://en.wikipedia.org/wiki/Ottawa_Street_(Hamilton,_Ontario)",Ottawa Street,ottawa-street,ottawa-street-hamilton-ontario,UNK
+Ottawa,12358524,2,10,,"http://en.wikipedia.org/wiki/Ottawa,_Toledo,_Ohio","Ottawa, Toledo, Ohio",ottawa-toledo-ohio,ottawa-toledo-ohio,UNK
+Ottawa,120574,37,55,23922171;23291580,"http://en.wikipedia.org/wiki/Ottawa_Township,_Le_Sueur_County,_Minnesota","Ottawa Township, Le Sueur County, Minnesota",ottawa-township-le-sueur-county-minnesota,ottawa-township-le-sueur-county-minnesota,GPE
+Ottawa,23291580,0,9,120574;16488965;6125504;95678;9630772;92059,http://en.wikipedia.org/wiki/Ottawa_Township,Ottawa Township,ottawa-township,ottawa-township,GPE
+Ottawa,9630772,102,358,111439;23291580,"http://en.wikipedia.org/wiki/Ottawa_Township,_LaSalle_County,_Illinois","Ottawa Township, LaSalle County, Illinois",ottawa-township-lasalle-county-illinois,ottawa-township-lasalle-county-illinois,UNK
+Ottawa,720952,14,16,724229,http://en.wikipedia.org/wiki/Ottawa_River_(Auglaize_River),Ottawa River,ottawa-river,ottawa-river-auglaize-river,UNK
+Ottawa,6125504,38,53,129766;23291580,"http://en.wikipedia.org/wiki/Ottawa_Township,_Putnam_County,_Ohio","Ottawa Township, Putnam County, Ohio",ottawa-township-putnam-county-ohio,ottawa-township-putnam-county-ohio,GPE
+Ottawa,26915228,494,248,129766;536919;5232916;26915228,"http://en.wikipedia.org/wiki/Ottawa_County,_Ohio","Ottawa County, Ohio",ottawa-county-ohio,ottawa-county-ohio,GPE
+Ottawa,22219,9781,621,140699;73458;6963007;1741645;21809;22219;438668;645042;3438109;22705;2379962;129766;30272098;92059;2755910;605202,http://en.wikipedia.org/wiki/Ottawa,Ottawa,ottawa,ottawa,GPE
+Ottawa,36678891,17,31,92059,"http://en.wikipedia.org/wiki/Ottawa,_Oklahoma","Ottawa, Oklahoma",ottawa-oklahoma,ottawa-oklahoma,UNK
+Ottawa,947784,242,110,114565;140699,http://en.wikipedia.org/wiki/Ottawa_University,Ottawa University,ottawa-university,ottawa-university,ORG
+Ottawa,139964,69,121,35576358,"http://en.wikipedia.org/wiki/Ottawa,_Wisconsin","Ottawa, Wisconsin",ottawa-wisconsin,ottawa-wisconsin,GPE

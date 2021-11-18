@@ -1,0 +1,37 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+SYDNEY,27862,23790,889,3293549;522978;665230;23684447;1113940;6469725;8856503;11533780;266313;3499711;27862;1798576;31928;796228,http://en.wikipedia.org/wiki/Sydney,Sydney,sydney,sydney,GPE
+SYDNEY,1101331,79,37,,"http://en.wikipedia.org/wiki/Sydney_Road,_Melbourne","Sydney Road, Melbourne",sydney-road-melbourne,sydney-road-melbourne,UNK
+SYDNEY,266313,937,665,6469725;3499711;1798576;522978;27862;23684447,http://en.wikipedia.org/wiki/Sydney_Airport,Sydney Airport,sydney-airport,sydney-airport,UNK
+SYDNEY,58268,787,256,3293549,"http://en.wikipedia.org/wiki/Sydney,_Nova_Scotia","Sydney, Nova Scotia",sydney-nova-scotia,sydney-nova-scotia,GPE
+SYDNEY,11533780,325,435,27862,http://en.wikipedia.org/wiki/Sydney_International,Sydney International,sydney-international,sydney-international,UNK
+SYDNEY,665230,60,54,31928;27862,http://en.wikipedia.org/wiki/Sydney_Hospital,Sydney Hospital,sydney-hospital,sydney-hospital,ORG
+SYDNEY,1113940,907,353,1113940;27862,http://en.wikipedia.org/wiki/Sydney_FC,Sydney FC,sydney-fc,sydney-fc,ORG
+SYDNEY,8856503,166,170,796228;27862,http://en.wikipedia.org/wiki/Electoral_district_of_Sydney,Electoral district of Sydney,electoral-district-of-sydney,electoral-district-of-sydney,UNK
+SYDNEY,31928,3130,486,27862;665230;31928;796228,http://en.wikipedia.org/wiki/University_of_Sydney,University of Sydney,university-of-sydney,university-of-sydney,ORG
+SYDNEY,1098693,16,55,,"http://en.wikipedia.org/wiki/Sydney,_Lady_Morgan","Sydney, Lady Morgan",sydney-lady-morgan,sydney-lady-morgan,PER
+SYDNEY,6469725,122,81,266313;3499711;796228;522978;27862,http://en.wikipedia.org/wiki/Geography_of_Sydney,Geography of Sydney,geography-of-sydney,geography-of-sydney,UNK
+SYDNEY,3293549,13,21,27862;3293668;3293549;58268,http://en.wikipedia.org/wiki/Sydney_River,Sydney River,sydney-river,sydney-river,UNK
+SYDNEY,1332907,8,10,,http://en.wikipedia.org/wiki/Baron_Sydney,Baron Sydney,baron-sydney,baron-sydney,PER
+SYDNEY,36436066,6,11,,http://en.wikipedia.org/wiki/Sydney_School,Sydney School,sydney-school,sydney-school,UNK
+SYDNEY,6163291,0,2,21773055,http://en.wikipedia.org/wiki/Sydney_Island,Sydney Island,sydney-island,sydney-island,UNK
+SYDNEY,522978,296,277,23684447;27862;6469725;266313;3499711,http://en.wikipedia.org/wiki/Sydney_Tower,Sydney Tower,sydney-tower,sydney-tower,UNK
+SYDNEY,23684447,146,28,266313;3499711;522978;27862,http://en.wikipedia.org/wiki/Sydney_Theatre,Sydney Theatre,sydney-theatre,sydney-theatre,UNK
+SYDNEY,5941401,4,23,,http://en.wikipedia.org/wiki/Sydney_Park_(actress),Sydney Park,sydney-park,sydney-park-actress,PER
+SYDNEY,21773055,1,8,6163291,http://en.wikipedia.org/wiki/Sydney_Island_(Queensland),Sydney Island,sydney-island,sydney-island-queensland,UNK
+SYDNEY,3499711,117,148,23684447;266313;522978;27862;6469725,http://en.wikipedia.org/wiki/Sydney_Park,Sydney Park,sydney-park,sydney-park,UNK
+SYDNEY,2854921,43,11,,http://en.wikipedia.org/wiki/Sydney_Stadium,Sydney Stadium,sydney-stadium,sydney-stadium,UNK
+SYDNEY,3293668,25,9,3293668;3293549,"http://en.wikipedia.org/wiki/Sydney_River,_Nova_Scotia","Sydney River, Nova Scotia",sydney-river-nova-scotia,sydney-river-nova-scotia,GPE
+SYDNEY,796228,537,286,6469725;27862;8856503;31928,http://en.wikipedia.org/wiki/City_of_Sydney,City of Sydney,city-of-sydney,city-of-sydney,UNK
+Newcrest Mining Ltd,1798576,228,223,22097576;36486287;27862;266313;19155050;22088081,http://en.wikipedia.org/wiki/Newcrest_Mining,Newcrest Mining,newcrest-mining,newcrest-mining,UNK
+Telfer,22088081,53,84,19155050;36486287;22097576;1798576,http://en.wikipedia.org/wiki/Telfer_Mine,Telfer Mine,telfer-mine,telfer-mine,UNK
+Telfer,1218828,215,146,,http://en.wikipedia.org/wiki/Jim_Telfer,Jim Telfer,jim-telfer,jim-telfer,UNK
+Telfer,19155050,43,44,22088081;1798576,"http://en.wikipedia.org/wiki/Telfer,_Western_Australia","Telfer, Western Australia",telfer-western-australia,telfer-western-australia,UNK
+Telfer,36486287,90,105,22088081;1798576,http://en.wikipedia.org/wiki/Telfer_Airport,Telfer Airport,telfer-airport,telfer-airport,UNK
+Boddington,22097576,53,73,2626411;22088081;1798576,http://en.wikipedia.org/wiki/Boddington_Gold_Mine,Boddington Gold Mine,boddington-gold-mine,boddington-gold-mine,UNK
+Boddington,7737367,152,156,2626411,http://en.wikipedia.org/wiki/Shire_of_Boddington,Shire of Boddington,shire-of-boddington,shire-of-boddington,UNK
+Boddington,3282297,8,69,3282297,"http://en.wikipedia.org/wiki/Boddington,_Northamptonshire","Boddington, Northamptonshire",boddington-northamptonshire,boddington-northamptonshire,UNK
+Boddington,2626411,84,71,7737367;22097576,"http://en.wikipedia.org/wiki/Boddington,_Western_Australia","Boddington, Western Australia",boddington-western-australia,boddington-western-australia,UNK
+Boddington,34321504,4,7,,http://en.wikipedia.org/wiki/Boddington_(1781),Boddington,boddington,boddington-1781,UNK
+Boddington,875892,4,6,2738463,http://en.wikipedia.org/wiki/RAF_Boddington,RAF Boddington,raf-boddington,raf-boddington,UNK
+Boddington,33113003,1,5,,http://en.wikipedia.org/wiki/Edward_Boddington,Edward Boddington,edward-boddington,edward-boddington,PER
+Boddington,2738463,13,7,875892,"http://en.wikipedia.org/wiki/Boddington,_Gloucestershire","Boddington, Gloucestershire",boddington-gloucestershire,boddington-gloucestershire,GPE

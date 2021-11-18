@@ -1,0 +1,97 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+INDIA,407754,1582,520,252735;397246;564046;397266;198062;20905;28357832;30873370;529681;492474;3060336;1671083;14533;274600;3369198;26750;1160705;57570,http://en.wikipedia.org/wiki/India_national_cricket_team,India national cricket team,india-national-cricket-team,india-national-cricket-team,ORG
+INDIA,23859009,202,238,,http://en.wikipedia.org/wiki/India_Longford,India Longford,india-longford,india-longford,UNK
+INDIA,14533,128644,998,564046;3059959;3060336;14533;3369198;4181941;20905;27412;26750;274600;529681;34360601;56636;13472210;57570;1329287;27264339;4125366;3816837;11804183;408215;407754;397246;397266;1569468;10748937;764545;225283;2707882;1996872;260288;252735;492474;4971438,http://en.wikipedia.org/wiki/India,India,india,india,GPE
+INDIA,37474285,35,33,,http://en.wikipedia.org/wiki/India:_Matri_Bhumi,India: Matri Bhumi,india-matri-bhumi,india-matri-bhumi,UNK
+INDIA,10748937,370,470,225283;26750;14533,http://en.wikipedia.org/wiki/British_Indian,British Indian,british-indian,british-indian,UNK
+INDIA,39849556,4,24,26750,http://en.wikipedia.org/wiki/India_(Herodotus),India,india,india-herodotus,UNK
+INDIA,13472210,4,3,14533,"http://en.wikipedia.org/wiki/India,_China_&_America_Institute","India, China & America Institute",india-china-america-institute,india-china-america-institute,ORG
+INDIA,1996872,237,210,26750;14533;764545,http://en.wikipedia.org/wiki/Greater_India,Greater India,greater-india,greater-india,UNK
+INDIA,33347419,30,51,,http://en.wikipedia.org/wiki/India_Song,India Song,india-song,india-song,UNK
+INDIA,764545,43,179,2707882;1996872;14533,http://en.wikipedia.org/wiki/Names_of_India,Names of India,names-of-india,names-of-india,UNK
+INDIA,13920327,163,208,,http://en.wikipedia.org/wiki/Mongol_invasions_of_India,Mongol invasions of India,mongol-invasions-of-india,mongol-invasions-of-india,UNK
+INDIA,37053158,18,18,,http://en.wikipedia.org/wiki/India?,India?,india,india,UNK
+INDIA,2707882,294,379,408215;26750;14533;764545,http://en.wikipedia.org/wiki/Indian_maritime_history,Indian maritime history,indian-maritime-history,indian-maritime-history,UNK
+INDIA,32553670,2,105,,"http://en.wikipedia.org/wiki/India,_India","India, India",india-india,india-india,UNK
+INDIA,4971438,68,93,14533,http://en.wikipedia.org/wiki/India_(cat),India,india,india-cat,UNK
+INDIA,32416870,0,14,,http://en.wikipedia.org/wiki/India_(battle_honour),India,india,india-battle-honour,UNK
+INDIA,1707982,153,57,,http://en.wikipedia.org/wiki/Indian_Health_Service,Indian Health Service,indian-health-service,indian-health-service,ORG
+INDIA,4181941,48,91,4181941;14533,http://en.wikipedia.org/wiki/2006_H5N1_outbreak_in_India,2006 H5N1 outbreak in India,2006-h5n1-outbreak-in-india,2006-h5n1-outbreak-in-india,UNK
+INDIA,11804183,207,175,14533,http://en.wikipedia.org/wiki/India_Tower,India Tower,india-tower,india-tower,UNK
+INDIA,4267804,5,7,,http://en.wikipedia.org/wiki/India_(entertainer),India,india,india-entertainer,UNK
+INDIA,27264339,44,56,14533,http://en.wikipedia.org/wiki/India_(East_Syrian_Ecclesiastical_Province),India,india,india-east-syrian-ecclesiastical-province,UNK
+INDIA,408215,1702,412,2707882;14533,http://en.wikipedia.org/wiki/Communist_Party_of_India,Communist Party of India,communist-party-of-india,communist-party-of-india,UNK
+INDIA,4125366,66,63,14533,http://en.wikipedia.org/wiki/Mr._India,Mr. India,mr-india,mr-india,UNK
+INDIA,1342972,179,87,,http://en.wikipedia.org/wiki/La_India,La India,la-india,la-india,PER
+INDIA,3816837,39,84,14533,http://en.wikipedia.org/wiki/Indian_Science_Congress_Association,Indian Science Congress Association,indian-science-congress-association,indian-science-congress-association,UNK
+INDIA,1329287,3,10,14533,http://en.wikipedia.org/wiki/India_Inc.,India Inc.,india-inc,india-inc,UNK
+SRI LANKA,397246,1318,410,252735;56636;14533;397266;274600;198062;20905;894385;28357832;30873370;529681;492474;26750;1160705;57570;407754,http://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team,Sri Lanka national cricket team,sri-lanka-national-cricket-team,sri-lanka-national-cricket-team,UNK
+SRI LANKA,27412,196,166,26750;14533;56636;225283,http://en.wikipedia.org/wiki/Geography_of_Sri_Lanka,Geography of Sri Lanka,geography-of-sri-lanka,geography-of-sri-lanka,UNK
+SRI LANKA,12821294,76,91,1569468;26750;56636,http://en.wikipedia.org/wiki/University_of_Sri_Lanka,University of Sri Lanka,university-of-sri-lanka,university-of-sri-lanka,UNK
+SRI LANKA,225283,1274,567,56636;225283;14533;28357832;27412;26750;10748937,http://en.wikipedia.org/wiki/Sri_Lankan_Civil_War,Sri Lankan Civil War,sri-lankan-civil-war,sri-lankan-civil-war,UNK
+SRI LANKA,26750,21170,945,529681;10748937;1160705;3973477;12821294;6699670;2707882;26295718;1996872;1569468;4703809;198062;14533;260288;225283;28357832;3140804;56636;20905;30873370;407754;1671083;252735;397246;397266;894385;39849556;27412;26750;18921419;57570;29420532;274600,http://en.wikipedia.org/wiki/Sri_Lanka,Sri Lanka,sri-lanka,sri-lanka,GPE
+COLOMBO,56636,3707,406,260288;225283;1569468;397246;397266;894385;28357832;27412;26750;18921419;1160705;57570;56636;3973477;12821294;6699670;198062;20905;26295718;30873370;41239377;29420532;1671083;14533,http://en.wikipedia.org/wiki/Colombo,Colombo,colombo,colombo,GPE
+COLOMBO,18921419,6,34,3973477;56636;1569468;26750,http://en.wikipedia.org/wiki/Colombo_FC,Colombo FC,colombo-fc,colombo-fc,UNK
+COLOMBO,13291048,38,43,,http://en.wikipedia.org/wiki/Riccardo_Colombo,Riccardo Colombo,riccardo-colombo,riccardo-colombo,PER
+COLOMBO,4931779,5,3,,http://en.wikipedia.org/wiki/Colombo_(soccer),Colombo,colombo,colombo-soccer,UNK
+COLOMBO,260288,234,125,26750;14533;56636,http://en.wikipedia.org/wiki/Colombo_Plan,Colombo Plan,colombo-plan,colombo-plan,ORG
+COLOMBO,26295718,4,4,56636;26750,http://en.wikipedia.org/wiki/Colombo_Club,Colombo Club,colombo-club,colombo-club,ORG
+COLOMBO,21917581,0,10,,http://en.wikipedia.org/wiki/Colombo_Lake,Colombo Lake,colombo-lake,colombo-lake,UNK
+COLOMBO,29420532,42,45,26750;56636,http://en.wikipedia.org/wiki/Colombo_Street,Colombo Street,colombo-street,colombo-street,UNK
+COLOMBO,41239377,1,3,56636,http://en.wikipedia.org/wiki/Colombo_Airport,Colombo Airport,colombo-airport,colombo-airport,UNK
+COLOMBO,3973477,184,74,26750;18921419;1569468;56636,http://en.wikipedia.org/wiki/Colombo_District,Colombo District,colombo-district,colombo-district,UNK
+COLOMBO,29402085,3,9,,http://en.wikipedia.org/wiki/Mount_Colombo,Mount Colombo,mount-colombo,mount-colombo,UNK
+COLOMBO,6671821,333,11,,"http://en.wikipedia.org/wiki/Colombo,_Paraná","Colombo, Paraná",colombo-parana,colombo-parana,GPE
+COLOMBO,1569468,377,242,56636;4703809;3973477;26750;12821294;18921419;1569468;14533,http://en.wikipedia.org/wiki/University_of_Colombo,University of Colombo,university-of-colombo,university-of-colombo,ORG
+COLOMBO,4703809,4,5,1569468;26750,"http://en.wikipedia.org/wiki/University_of_Colombo,_Centre_for_Instrument_Development","University of Colombo, Centre for Instrument Development",university-of-colombo-centre-for-instrument-development,university-of-colombo-centre-for-instrument-development,UNK
+India,407754,1582,520,252735;397246;564046;397266;198062;20905;28357832;30873370;529681;492474;3060336;1671083;14533;274600;3369198;26750;1160705;57570,http://en.wikipedia.org/wiki/India_national_cricket_team,India national cricket team,india-national-cricket-team,india-national-cricket-team,ORG
+India,23859009,202,238,,http://en.wikipedia.org/wiki/India_Longford,India Longford,india-longford,india-longford,UNK
+India,14533,128644,998,564046;3059959;3060336;14533;3369198;4181941;20905;27412;26750;274600;529681;34360601;56636;13472210;57570;1329287;27264339;4125366;3816837;11804183;408215;407754;397246;397266;1569468;10748937;764545;225283;2707882;1996872;260288;252735;492474;4971438,http://en.wikipedia.org/wiki/India,India,india,india,GPE
+India,37474285,35,33,,http://en.wikipedia.org/wiki/India:_Matri_Bhumi,India: Matri Bhumi,india-matri-bhumi,india-matri-bhumi,UNK
+India,10748937,370,470,225283;26750;14533,http://en.wikipedia.org/wiki/British_Indian,British Indian,british-indian,british-indian,UNK
+India,39849556,4,24,26750,http://en.wikipedia.org/wiki/India_(Herodotus),India,india,india-herodotus,UNK
+India,13472210,4,3,14533,"http://en.wikipedia.org/wiki/India,_China_&_America_Institute","India, China & America Institute",india-china-america-institute,india-china-america-institute,ORG
+India,1996872,237,210,26750;14533;764545,http://en.wikipedia.org/wiki/Greater_India,Greater India,greater-india,greater-india,UNK
+India,33347419,30,51,,http://en.wikipedia.org/wiki/India_Song,India Song,india-song,india-song,UNK
+India,764545,43,179,2707882;1996872;14533,http://en.wikipedia.org/wiki/Names_of_India,Names of India,names-of-india,names-of-india,UNK
+India,13920327,163,208,,http://en.wikipedia.org/wiki/Mongol_invasions_of_India,Mongol invasions of India,mongol-invasions-of-india,mongol-invasions-of-india,UNK
+India,37053158,18,18,,http://en.wikipedia.org/wiki/India?,India?,india,india,UNK
+India,2707882,294,379,408215;26750;14533;764545,http://en.wikipedia.org/wiki/Indian_maritime_history,Indian maritime history,indian-maritime-history,indian-maritime-history,UNK
+India,32553670,2,105,,"http://en.wikipedia.org/wiki/India,_India","India, India",india-india,india-india,UNK
+India,4971438,68,93,14533,http://en.wikipedia.org/wiki/India_(cat),India,india,india-cat,UNK
+India,32416870,0,14,,http://en.wikipedia.org/wiki/India_(battle_honour),India,india,india-battle-honour,UNK
+India,1707982,153,57,,http://en.wikipedia.org/wiki/Indian_Health_Service,Indian Health Service,indian-health-service,indian-health-service,ORG
+India,4181941,48,91,4181941;14533,http://en.wikipedia.org/wiki/2006_H5N1_outbreak_in_India,2006 H5N1 outbreak in India,2006-h5n1-outbreak-in-india,2006-h5n1-outbreak-in-india,UNK
+India,11804183,207,175,14533,http://en.wikipedia.org/wiki/India_Tower,India Tower,india-tower,india-tower,UNK
+India,4267804,5,7,,http://en.wikipedia.org/wiki/India_(entertainer),India,india,india-entertainer,UNK
+India,27264339,44,56,14533,http://en.wikipedia.org/wiki/India_(East_Syrian_Ecclesiastical_Province),India,india,india-east-syrian-ecclesiastical-province,UNK
+India,408215,1702,412,2707882;14533,http://en.wikipedia.org/wiki/Communist_Party_of_India,Communist Party of India,communist-party-of-india,communist-party-of-india,UNK
+India,4125366,66,63,14533,http://en.wikipedia.org/wiki/Mr._India,Mr. India,mr-india,mr-india,UNK
+India,1342972,179,87,,http://en.wikipedia.org/wiki/La_India,La India,la-india,la-india,PER
+India,3816837,39,84,14533,http://en.wikipedia.org/wiki/Indian_Science_Congress_Association,Indian Science Congress Association,indian-science-congress-association,indian-science-congress-association,UNK
+India,1329287,3,10,14533,http://en.wikipedia.org/wiki/India_Inc.,India Inc.,india-inc,india-inc,UNK
+Sri Lanka,397246,1318,410,252735;56636;14533;397266;274600;198062;20905;894385;28357832;30873370;529681;492474;26750;1160705;57570;407754,http://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team,Sri Lanka national cricket team,sri-lanka-national-cricket-team,sri-lanka-national-cricket-team,UNK
+Sri Lanka,27412,196,166,26750;14533;56636;225283,http://en.wikipedia.org/wiki/Geography_of_Sri_Lanka,Geography of Sri Lanka,geography-of-sri-lanka,geography-of-sri-lanka,UNK
+Sri Lanka,12821294,76,91,1569468;26750;56636,http://en.wikipedia.org/wiki/University_of_Sri_Lanka,University of Sri Lanka,university-of-sri-lanka,university-of-sri-lanka,UNK
+Sri Lanka,225283,1274,567,56636;225283;14533;28357832;27412;26750;10748937,http://en.wikipedia.org/wiki/Sri_Lankan_Civil_War,Sri Lankan Civil War,sri-lankan-civil-war,sri-lankan-civil-war,UNK
+Sri Lanka,26750,21170,945,529681;10748937;1160705;3973477;12821294;6699670;2707882;26295718;1996872;1569468;4703809;198062;14533;260288;225283;28357832;3140804;56636;20905;30873370;407754;1671083;252735;397246;397266;894385;39849556;27412;26750;18921419;57570;29420532;274600,http://en.wikipedia.org/wiki/Sri_Lanka,Sri Lanka,sri-lanka,sri-lanka,GPE
+Singer World Series,28357832,55,74,252735;1160705;3140804;20905;1671083;57570;26750;397246;6699670;564046;407754;397266;56636;3059959;894385;274600;3369198;30873370;198062;225283;529681;3060336;492474,http://en.wikipedia.org/wiki/Singer_World_Series,Singer World Series,singer-world-series,singer-world-series,UNK
+Sachin Tendulkar,57570,887,543,252735;56636;14533;397246;564046;397266;274600;3369198;198062;20905;3059959;28357832;30873370;529681;492474;26750;3060336;407754,http://en.wikipedia.org/wiki/Sachin_Tendulkar,Sachin Tendulkar,sachin-tendulkar,sachin-tendulkar,PER
+Anil Kumble,274600,365,238,20905;3059959;28357832;30873370;529681;492474;252735;26750;3060336;57570;14533;397246;564046;407754;397266;3369198;198062,http://en.wikipedia.org/wiki/Anil_Kumble,Anil Kumble,anil-kumble,anil-kumble,PER
+Ajay Jadeja,3369198,131,80,252735;57570;14533;564046;407754;3059959;28357832;274600;529681;3060336;492474,http://en.wikipedia.org/wiki/Ajay_Jadeja,Ajay Jadeja,ajay-jadeja,ajay-jadeja,PER
+Sourav Ganguly,529681,405,260,20905;3059959;28357832;492474;252735;26750;3060336;57570;14533;397246;407754;397266;274600;3369198,http://en.wikipedia.org/wiki/Sourav_Ganguly,Sourav Ganguly,sourav-ganguly,sourav-ganguly,PER
+Vinod Kambli,564046,224,207,20905;3059959;28357832;3060336;492474;252735;57570;14533;407754;274600;3369198,http://en.wikipedia.org/wiki/Vinod_Kambli,Vinod Kambli,vinod-kambli,vinod-kambli,UNK
+Rahul Dravid,252735,486,318,20905;3059959;28357832;529681;492474;26750;3060336;57570;14533;397246;564046;407754;397266;274600;3369198,http://en.wikipedia.org/wiki/Rahul_Dravid,Rahul Dravid,rahul-dravid,rahul-dravid,PER
+Nayan Mongia,3059959,78,40,274600;252735;57570;3369198;14533;564046;529681;3060336;492474;28357832,http://en.wikipedia.org/wiki/Nayan_Mongia,Nayan Mongia,nayan-mongia,nayan-mongia,UNK
+Javagal Srinath,492474,177,126,20905;3059959;28357832;30873370;529681;3060336;252735;57570;14533;397246;564046;407754;397266;274600;3369198;198062,http://en.wikipedia.org/wiki/Javagal_Srinath,Javagal Srinath,javagal-srinath,javagal-srinath,UNK
+Venkatesh Prasad,3060336,126,77,252735;20905;57570;14533;564046;407754;3059959;28357832;274600;3369198;529681;492474,http://en.wikipedia.org/wiki/Venkatesh_Prasad,Venkatesh Prasad,venkatesh-prasad,venkatesh-prasad,UNK
+Ashish Kapoor,34360601,19,19,34360601;14533,http://en.wikipedia.org/wiki/Ashish_Kapoor,Ashish Kapoor,ashish-kapoor,ashish-kapoor,PER
+Arjuna Ranatunga,1160705,454,117,20905;894385;28357832;30873370;56636;26750;3140804;1671083;397246;6699670;407754;397266;198062,http://en.wikipedia.org/wiki/Arjuna_Ranatunga,Arjuna Ranatunga,arjuna-ranatunga,arjuna-ranatunga,UNK
+Sanath Jayasuriya,397266,576,229,20905;894385;28357832;30873370;529681;492474;252735;56636;26750;1160705;3140804;1671083;57570;14533;397246;6699670;407754;274600;198062,http://en.wikipedia.org/wiki/Sanath_Jayasuriya,Sanath Jayasuriya,sanath-jayasuriya,sanath-jayasuriya,UNK
+Romesh Kaluwitharana,894385,76,50,1160705;3140804;20905;1671083;26750;397246;6699670;397266;56636;28357832;30873370;198062,http://en.wikipedia.org/wiki/Romesh_Kaluwitharana,Romesh Kaluwitharana,romesh-kaluwitharana,romesh-kaluwitharana,UNK
+Asanka Gurusinha,6699670,75,69,1160705;3140804;20905;1671083;26750;397266;56636;894385;28357832;30873370;198062,http://en.wikipedia.org/wiki/Asanka_Gurusinha,Asanka Gurusinha,asanka-gurusinha,asanka-gurusinha,UNK
+Aravinda de Silva,30873370,170,145,20905;26750;894385;28357832;492474;1160705;3140804;1671083;57570;397246;6699670;407754;397266;56636;274600;198062,http://en.wikipedia.org/wiki/Aravinda_de_Silva,Aravinda de Silva,aravinda-de-silva,aravinda-de-silva,UNK
+Roshan Mahanama,1671083,109,69,1160705;3140804;20905;26750;6699670;407754;397266;56636;894385;28357832;30873370;198062,http://en.wikipedia.org/wiki/Roshan_Mahanama,Roshan Mahanama,roshan-mahanama,roshan-mahanama,UNK
+Chaminda Vaas,198062,276,166,20905;26750;894385;28357832;30873370;492474;1160705;3140804;1671083;57570;397246;6699670;407754;397266;56636;274600,http://en.wikipedia.org/wiki/Chaminda_Vaas,Chaminda Vaas,chaminda-vaas,chaminda-vaas,PER
+Muthiah Muralitharan,20905,489,320,894385;28357832;30873370;529681;492474;252735;56636;26750;3060336;1160705;3140804;1671083;57570;14533;397246;6699670;564046;407754;397266;274600;198062,http://en.wikipedia.org/wiki/Muttiah_Muralitharan,Muttiah Muralitharan,muttiah-muralitharan,muttiah-muralitharan,PER
+Ravindra Pushpakumara,3140804,42,29,1160705;20905;1671083;26750;30873370;6699670;198062;397266;894385;28357832,http://en.wikipedia.org/wiki/Ravindra_Pushpakumara,Ravindra Pushpakumara,ravindra-pushpakumara,ravindra-pushpakumara,UNK

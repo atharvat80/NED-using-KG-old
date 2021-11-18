@@ -1,0 +1,111 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Miss Universe,150340,1519,392,23371712;693474;16783562;15656423;2041201;11337942;17442658;665172;22820495;32374;17442396;18110;150340;6611509;22546704;10040748;37245332;5562213;17381109;17425318,http://en.wikipedia.org/wiki/Miss_Universe,Miss Universe,miss-universe,miss-universe,UNK
+Miss Universe,6611509,166,262,23371712;5562213;16783562;15656423;2041201;150340;32374;17442396;17425318,http://en.wikipedia.org/wiki/Miss_Universe_2002,Miss Universe 2002,miss-universe-2002,miss-universe-2002,UNK
+Miss Universe,17442396,159,212,23371712;5562213;16783562;17381109;15656423;2041201;11337942;17442658;22820495;150340;22546704;10040748;17442396;6611509;37245332;17425318,http://en.wikipedia.org/wiki/Miss_Universe_Ireland,Miss Universe Ireland,miss-universe-ireland,miss-universe-ireland,UNK
+Miss Universe,2041201,267,346,23371712;16783562;15656423;11337942;17442658;22820495;22546704;10040748;17442396;37245332;5562213;17381109;150340;6611509;17425318,http://en.wikipedia.org/wiki/Miss_Universe_Canada,Miss Universe Canada,miss-universe-canada,miss-universe-canada,UNK
+Miss Universe,5562213,145,163,23371712;22820495;150340;16783562;17381109;15656423;22546704;2041201;10040748;11337942;17442658;17442396;6611509;37245332;17425318,http://en.wikipedia.org/wiki/Miss_Universe_Croatia,Miss Universe Croatia,miss-universe-croatia,miss-universe-croatia,UNK
+Miss Universe,10040748,163,222,23371712;5562213;17381109;15656423;2041201;11337942;17442658;22820495;150340;22546704;17442396;37245332;17425318,http://en.wikipedia.org/wiki/Miss_Universe_Japan,Miss Universe Japan,miss-universe-japan,miss-universe-japan,UNK
+Miss Universe,22820495,145,150,23371712;5562213;150340;16783562;17381109;15656423;22546704;2041201;10040748;11337942;17442658;17442396;37245332;17425318,http://en.wikipedia.org/wiki/Miss_Universe_Romania,Miss Universe Romania,miss-universe-romania,miss-universe-romania,PER
+Miss Universe,17425318,156,178,23371712;5562213;16783562;17381109;15656423;2041201;11337942;17442658;22820495;150340;22546704;10040748;17442396;6611509;37245332;17425318,http://en.wikipedia.org/wiki/Miss_Universe_China,Miss Universe China,miss-universe-china,miss-universe-china,UNK
+Miss Universe,11337942,146,207,23371712;5562213;16783562;17381109;15656423;2041201;17442658;22820495;150340;22546704;10040748;17442396;37245332;17425318,http://en.wikipedia.org/wiki/Miss_Universe_New_Zealand,Miss Universe New Zealand,miss-universe-new-zealand,miss-universe-new-zealand,PER
+Miss Universe,17381109,173,159,23371712;5562213;16783562;15656423;2041201;11337942;17442658;22820495;150340;22546704;10040748;17442396;37245332;17425318,http://en.wikipedia.org/wiki/Miss_Universe_Australia,Miss Universe Australia,miss-universe-australia,miss-universe-australia,UNK
+Miss Universe,22546704,279,365,23371712;16783562;15656423;2041201;11337942;17442658;22820495;10040748;17442396;37245332;5562213;17381109;150340;17425318,http://en.wikipedia.org/wiki/Miss_Universe_Sweden,Miss Universe Sweden,miss-universe-sweden,miss-universe-sweden,ORG
+Miss Universe,17442658,172,152,23371712;22820495;5562213;150340;17381109;15656423;22546704;2041201;10040748;11337942;17442658;17442396;37245332;17425318,http://en.wikipedia.org/wiki/Miss_Universe_Slovenia,Miss Universe Slovenia,miss-universe-slovenia,miss-universe-slovenia,UNK
+Miss Universe,15656423,149,189,23371712;5562213;16783562;17381109;2041201;11337942;17442658;22820495;150340;22546704;10040748;17442396;6611509;37245332;17425318,http://en.wikipedia.org/wiki/Miss_Universe_Hungary,Miss Universe Hungary,miss-universe-hungary,miss-universe-hungary,UNK
+Miss Universe,16783562,318,391,693474;15656423;2041201;11337942;22820495;32374;22546704;17442396;5562213;17381109;150340;6611509;17425318,http://en.wikipedia.org/wiki/Miss_Universe_2009,Miss Universe 2009,miss-universe-2009,miss-universe-2009,UNK
+Miss Universe,23371712,150,163,23371712;22820495;5562213;150340;17381109;15656423;22546704;2041201;10040748;11337942;17442658;17442396;6611509;37245332;17425318,http://en.wikipedia.org/wiki/Miss_Universe_Germany,Miss Universe Germany,miss-universe-germany,miss-universe-germany,PER
+Miss Universe,37245332,189,189,23371712;5562213;17381109;15656423;2041201;11337942;17442658;22820495;150340;22546704;10040748;17442396;17425318,http://en.wikipedia.org/wiki/Miss_Universe_Bulgaria,Miss Universe Bulgaria,miss-universe-bulgaria,miss-universe-bulgaria,PER
+LAS CRUCES,125874,1073,379,125983;21649;404570;4192239,"http://en.wikipedia.org/wiki/Las_Cruces,_New_Mexico","Las Cruces, New Mexico",las-cruces-new-mexico,las-cruces-new-mexico,GPE
+LAS CRUCES,29039080,4,8,,http://en.wikipedia.org/wiki/Las_Cruces_(band),Las Cruces,las-cruces,las-cruces-band,UNK
+LAS CRUCES,34937044,1,10,,"http://en.wikipedia.org/wiki/Las_Cruces,_El_Petén","Las Cruces, El Petén",las-cruces-el-peten,las-cruces-el-peten,GPE
+LAS CRUCES,27852059,46,46,,"http://en.wikipedia.org/wiki/Las_Cruces,_California","Las Cruces, California",las-cruces-california,las-cruces-california,GPE
+LAS CRUCES,4192239,13,31,125874,http://en.wikipedia.org/wiki/Las_Cruces_International_Airport,Las Cruces International Airport,las-cruces-international-airport,las-cruces-international-airport,UNK
+Venezuela,32374,25839,719,16783562;693474;3229791;1016971;6611509;150340;32374;32454;28173700;459362;2474817,http://en.wikipedia.org/wiki/Venezuela,Venezuela,venezuela,venezuela,GPE
+Venezuela,3229791,65,96,459362;32374;2474817,http://en.wikipedia.org/wiki/First_Republic_of_Venezuela,First Republic of Venezuela,first-republic-of-venezuela,first-republic-of-venezuela,GPE
+Venezuela,1016971,1078,333,32374,http://en.wikipedia.org/wiki/Venezuela_national_football_team,Venezuela national football team,venezuela-national-football-team,venezuela-national-football-team,UNK
+Venezuela,459362,181,76,2474817;3229791;32374;32454,http://en.wikipedia.org/wiki/Flag_of_Venezuela,Flag of Venezuela,flag-of-venezuela,flag-of-venezuela,UNK
+Venezuela,2474817,48,71,459362;3229791;32374,http://en.wikipedia.org/wiki/Second_Republic_of_Venezuela,Second Republic of Venezuela,second-republic-of-venezuela,second-republic-of-venezuela,GPE
+Venezuela,32454,107,140,459362;32374;32454,http://en.wikipedia.org/wiki/Geography_of_Venezuela,Geography of Venezuela,geography-of-venezuela,geography-of-venezuela,UNK
+Venezuela,7875797,16,20,,"http://en.wikipedia.org/wiki/Venezuela,_Cuba","Venezuela, Cuba",venezuela-cuba,venezuela-cuba,GPE
+Venezuela,28866106,3,13,,http://en.wikipedia.org/wiki/Venezuela_(Pueblo),Venezuela,venezuela,venezuela-pueblo,UNK
+Venezuela,28173700,33,28,32374,http://en.wikipedia.org/wiki/Venezuela_Province,Venezuela Province,venezuela-province,venezuela-province,UNK
+Alicia Machado,693474,103,107,150340;16783562;32374,http://en.wikipedia.org/wiki/Alicia_Machado,Alicia Machado,alicia-machado,alicia-machado,PER
+New Mexico,21649,11605,803,10903844;191146;191144;404570;18213;21649;1185364;125983;125874,http://en.wikipedia.org/wiki/New_Mexico,New Mexico,new-mexico,new-mexico,UNK
+New Mexico,17392127,48,60,,"http://en.wikipedia.org/wiki/New_Mexico,_Maryland","New Mexico, Maryland",new-mexico-maryland,new-mexico-maryland,GPE
+New Mexico,191144,7,11,1185364;21649;191146,http://en.wikipedia.org/wiki/USS_New_Mexico,USS New Mexico,uss-new-mexico,uss-new-mexico,UNK
+New Mexico,1185364,35,52,21649;191144,http://en.wikipedia.org/wiki/USS_New_Mexico_(SSN-779),USS New Mexico,uss-new-mexico,uss-new-mexico-ssn-779,UNK
+New Mexico,10903844,17,185,21649,http://en.wikipedia.org/wiki/New_Mexico_Airlines,New Mexico Airlines,new-mexico-airlines,new-mexico-airlines,ORG
+New Mexico,191146,105,96,21649;191144,http://en.wikipedia.org/wiki/USS_New_Mexico_(BB-40),USS New Mexico,uss-new-mexico,uss-new-mexico-bb-40,UNK
+New Mexico,404570,1844,256,21649;404570;125874;37765,http://en.wikipedia.org/wiki/University_of_New_Mexico,University of New Mexico,university-of-new-mexico,university-of-new-mexico,ORG
+Machado,693474,103,107,150340;16783562;32374,http://en.wikipedia.org/wiki/Alicia_Machado,Alicia Machado,alicia-machado,alicia-machado,PER
+Los Angeles,18110,41728,1243,72893;79734;359028;1532647;18131;18110;18213;25059046;150340;12790532;1014417;13281191;37765;1360083;117171;34542645;180865;3317826;432512,http://en.wikipedia.org/wiki/Los_Angeles,Los Angeles,los-angeles,los-angeles,GPE
+Los Angeles,33751002,0,178,,"http://en.wikipedia.org/wiki/Los_Angeles,_Bohol","Los Angeles, Bohol",los-angeles-bohol,los-angeles-bohol,UNK
+Los Angeles,3317826,192,88,3317826;18131;18110;359028,http://en.wikipedia.org/wiki/Los_Angeles_Railway,Los Angeles Railway,los-angeles-railway,los-angeles-railway,UNK
+Los Angeles,18131,1315,683,18131;18110;13281191;79734;359028;180865;37765;3317826,http://en.wikipedia.org/wiki/Los_Angeles_International_Airport,Los Angeles International Airport,los-angeles-international-airport,los-angeles-international-airport,UNK
+Los Angeles,1532647,239,97,18110,http://en.wikipedia.org/wiki/Los_Angeles_Opera,Los Angeles Opera,los-angeles-opera,los-angeles-opera,UNK
+Los Angeles,17864807,15,55,18213;72893;79734,http://en.wikipedia.org/wiki/Los_Angeles_Stadium,Los Angeles Stadium,los-angeles-stadium,los-angeles-stadium,UNK
+Los Angeles,40151750,3,9,,http://en.wikipedia.org/wiki/Old_Los_Angeles,Old Los Angeles,old-los-angeles,old-los-angeles,UNK
+Los Angeles,5057862,1,9,5057862,"http://en.wikipedia.org/wiki/Los_Ángeles,_Nuevo_León","Los Ángeles, Nuevo León",los-angeles-nuevo-leon,los-angeles-nuevo-leon,UNK
+Los Angeles,1014417,61,71,2292167;18573990;18110,http://en.wikipedia.org/wiki/City_of_Los_Angeles_(train),City of Los Angeles,city-of-los-angeles,city-of-los-angeles-train,UNK
+Los Angeles,10417060,19,41,,http://en.wikipedia.org/wiki/Los_Angeles_Theatre,Los Angeles Theatre,los-angeles-theatre,los-angeles-theatre,UNK
+Los Angeles,19404136,2192,251,,http://en.wikipedia.org/wiki/Angel,Angel,angel,angel,UNK
+Los Angeles,443932,82,81,562398;431694;21876549,http://en.wikipedia.org/wiki/USS_Los_Angeles_(ZR-3),USS Los Angeles,uss-los-angeles,uss-los-angeles-zr-3,UNK
+Los Angeles,25059046,9,19,18110,"http://en.wikipedia.org/wiki/Los_Angeles,_Texas","Los Angeles, Texas",los-angeles-texas,los-angeles-texas,GPE
+Los Angeles,9517830,3,17,,http://en.wikipedia.org/wiki/Los_Angeles_School,Los Angeles School,los-angeles-school,los-angeles-school,UNK
+Los Angeles,27972376,175,168,,http://en.wikipedia.org/wiki/Los_Angeles_Emmy_Award,Los Angeles Emmy Award,los-angeles-emmy-award,los-angeles-emmy-award,UNK
+Los Angeles,13281191,305,321,1360083;18131;18110;180865;72893;37765;18213,http://en.wikipedia.org/wiki/Sports_in_Los_Angeles,Sports in Los Angeles,sports-in-los-angeles,sports-in-los-angeles,UNK
+Los Angeles,18213,6544,976,18110;18213;72893;21649;13281191;17864807;1360083,http://en.wikipedia.org/wiki/Los_Angeles_Dodgers,Los Angeles Dodgers,los-angeles-dodgers,los-angeles-dodgers,UNK
+Los Angeles,8246460,155,36,8246460,http://en.wikipedia.org/wiki/Los_Angeles_(magazine),Los Angeles,los-angeles,los-angeles-magazine,ORG
+Los Angeles,180865,597,336,13281191;18131;18110;79734;117171,http://en.wikipedia.org/wiki/Los_Angeles_River,Los Angeles River,los-angeles-river,los-angeles-river,UNK
+Los Angeles,359028,646,257,3317826;18131;18110;79734;359028,http://en.wikipedia.org/wiki/Los_Angeles_County_Metropolitan_Transportation_Authority,Los Angeles County Metropolitan Transportation Authority,los-angeles-county-metropolitan-transportation-authority,los-angeles-county-metropolitan-transportation-authority,UNK
+Los Angeles,3549363,12,17,,http://en.wikipedia.org/wiki/Los_Angeles_Symphony_Orchestra,Los Angeles Symphony Orchestra,los-angeles-symphony-orchestra,los-angeles-symphony-orchestra,UNK
+Los Angeles,34542645,1,4,18110,http://en.wikipedia.org/wiki/Los_Angeles_CA,Los Angeles CA,los-angeles-ca,los-angeles-ca,ORG
+Los Angeles,432512,79,84,18110;431694,http://en.wikipedia.org/wiki/USS_Los_Angeles_(SSN-688),USS Los Angeles,uss-los-angeles,uss-los-angeles-ssn-688,UNK
+Los Angeles,841972,119,127,,"http://en.wikipedia.org/wiki/Los_Ángeles,_Bío_Bío","Los Ángeles, Bío Bío",los-angeles-bio-bio,los-angeles-bio-bio,GPE
+Los Angeles,72893,3716,653,17864807;18110;18213;1360083;72893;13281191;37765,http://en.wikipedia.org/wiki/Los_Angeles_Lakers,Los Angeles Lakers,los-angeles-lakers,los-angeles-lakers,UNK
+Los Angeles,9033121,103,110,79734,http://en.wikipedia.org/wiki/Los_Angeles_Street,Los Angeles Street,los-angeles-street,los-angeles-street,UNK
+Los Angeles,12790532,15,79,18110,http://en.wikipedia.org/wiki/Los_Angeles_Pobladores,Los Angeles Pobladores,los-angeles-pobladores,los-angeles-pobladores,PER
+Los Angeles,431694,8,4,21876549;432512;562398;443932,http://en.wikipedia.org/wiki/USS_Los_Angeles,USS Los Angeles,uss-los-angeles,uss-los-angeles,UNK
+Los Angeles,562398,32,71,443932;431694,http://en.wikipedia.org/wiki/USS_Los_Angeles_(CA-135),USS Los Angeles,uss-los-angeles,uss-los-angeles-ca-135,UNK
+Los Angeles,37765,4705,687,18131;18110;404570;79734;72893;13281191;37765,"http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles","University of California, Los Angeles",university-of-california-los-angeles,university-of-california-los-angeles,ORG
+Los Angeles,11232666,3,7,,"http://en.wikipedia.org/wiki/Los_Ángeles,_Región_Autónoma_del_Atlántico_Sur","Los Ángeles, Región Autónoma del Atlántico Sur",los-angeles-region-autonoma-del-atlantico-sur,los-angeles-region-autonoma-del-atlantico-sur,UNK
+Los Angeles,1360083,3383,550,18110;18213;1360083;72893;13281191,http://en.wikipedia.org/wiki/Los_Angeles_Angels_of_Anaheim,Los Angeles Angels of Anaheim,los-angeles-angels-of-anaheim,los-angeles-angels-of-anaheim,UNK
+Los Angeles,21876549,3,35,443932;431694,http://en.wikipedia.org/wiki/USS_Los_Angeles_(ID-1470),USS Los Angeles,uss-los-angeles,uss-los-angeles-id-1470,UNK
+Los Angeles,117171,256,367,18110;79734;180865,"http://en.wikipedia.org/wiki/Lake_Los_Angeles,_California","Lake Los Angeles, California",lake-los-angeles-california,lake-los-angeles-california,GPE
+Los Angeles,27241490,1,5,,"http://en.wikipedia.org/wiki/Los_Ángeles,_Catamarca","Los Ángeles, Catamarca",los-angeles-catamarca,los-angeles-catamarca,GPE
+Los Angeles,79734,2995,908,17864807;18131;18110;9033121;79734;117171;359028;180865;37765,"http://en.wikipedia.org/wiki/Los_Angeles_County,_California","Los Angeles County, California",los-angeles-county-california,los-angeles-county-california,GPE
+Los Angeles,18573990,25,44,2292167;1014417,http://en.wikipedia.org/wiki/Los_Angeles_Limited,Los Angeles Limited,los-angeles-limited,los-angeles-limited,UNK
+Las Cruces,125874,1073,379,125983;21649;404570;4192239,"http://en.wikipedia.org/wiki/Las_Cruces,_New_Mexico","Las Cruces, New Mexico",las-cruces-new-mexico,las-cruces-new-mexico,GPE
+Las Cruces,29039080,4,8,,http://en.wikipedia.org/wiki/Las_Cruces_(band),Las Cruces,las-cruces,las-cruces-band,UNK
+Las Cruces,34937044,1,10,,"http://en.wikipedia.org/wiki/Las_Cruces,_El_Petén","Las Cruces, El Petén",las-cruces-el-peten,las-cruces-el-peten,GPE
+Las Cruces,27852059,46,46,,"http://en.wikipedia.org/wiki/Las_Cruces,_California","Las Cruces, California",las-cruces-california,las-cruces-california,GPE
+Las Cruces,4192239,13,31,125874,http://en.wikipedia.org/wiki/Las_Cruces_International_Airport,Las Cruces International Airport,las-cruces-international-airport,las-cruces-international-airport,UNK
+Los Angeles-based,18110,41728,1243,72893;79734;359028;1532647;18131;18110;18213;25059046;150340;12790532;1014417;13281191;37765;1360083;117171;34542645;180865;3317826;432512,http://en.wikipedia.org/wiki/Los_Angeles,Los Angeles,los-angeles,los-angeles,GPE
+Reuters,18998750,9093,418,18998750;2171552,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Las Vegas,47737,1274,338,47737;665172;125983;10536563;2237980;447621;37276179;28148007;42333397,http://en.wikipedia.org/wiki/Las_Vegas,Las Vegas,las-vegas,las-vegas,GPE
+Las Vegas,4232769,1,11,447621,http://en.wikipedia.org/wiki/W_Las_Vegas,W Las Vegas,w-las-vegas,w-las-vegas,UNK
+Las Vegas,665172,5640,371,2237980;29483630;4108616;28752362;150340;47737;447621;37276179;10434797,http://en.wikipedia.org/wiki/Las_Vegas_Valley,Las Vegas Valley,las-vegas-valley,las-vegas-valley,UNK
+Las Vegas,447621,1348,154,47737;665172;10536563;4232769;1552223;447621;10434797,http://en.wikipedia.org/wiki/Las_Vegas_Strip,Las Vegas Strip,las-vegas-strip,las-vegas-strip,UNK
+Las Vegas,28752362,92,151,665172,http://en.wikipedia.org/wiki/The_Real_World:_Las_Vegas_(2011),The Real World: Las Vegas,the-real-world-las-vegas,the-real-world-las-vegas-2011,UNK
+Las Vegas,29483630,17,33,665172,http://en.wikipedia.org/wiki/Las_Vegas_Valley_(landform),Las Vegas Valley,las-vegas-valley,las-vegas-valley-landform,UNK
+Las Vegas,28148007,119,128,47737,http://en.wikipedia.org/wiki/Las_Vegas_Limited,Las Vegas Limited,las-vegas-limited,las-vegas-limited,UNK
+Las Vegas,10308264,1,1,,"http://en.wikipedia.org/wiki/Las_Vegas,_NM_μSA","Las Vegas, NM μSA",las-vegas-nm-μsa,las-vegas-nm-μsa,PER
+Las Vegas,40398954,0,36,,http://en.wikipedia.org/wiki/Las_Vega's,Las Vega's,las-vegas,las-vegas,UNK
+Las Vegas,38308073,5,30,,http://en.wikipedia.org/wiki/Las_Vegas_(comarca),Las Vegas,las-vegas,las-vegas-comarca,UNK
+Las Vegas,2237980,138,26,10434797;47737;665172,http://en.wikipedia.org/wiki/Lake_Las_Vegas,Lake Las Vegas,lake-las-vegas,lake-las-vegas,UNK
+Las Vegas,22166283,7,16,,http://en.wikipedia.org/wiki/Las_Vegas_(Corvera),Las Vegas,las-vegas,las-vegas-corvera,GPE
+Las Vegas,2908251,5,8,,http://en.wikipedia.org/wiki/Las_Vegas_Bay,Las Vegas Bay,las-vegas-bay,las-vegas-bay,UNK
+Las Vegas,2292167,21,25,18573990;1014417,http://en.wikipedia.org/wiki/City_of_Las_Vegas_(train),City of Las Vegas,city-of-las-vegas,city-of-las-vegas-train,UNK
+Las Vegas,2344954,32,36,,"http://en.wikipedia.org/wiki/Las_Vegas,_Santa_Bárbara","Las Vegas, Santa Bárbara",las-vegas-santa-barbara,las-vegas-santa-barbara,GPE
+Las Vegas,18745774,0,1,,"http://en.wikipedia.org/wiki/Las_Vegas,_NM_µSA","Las Vegas, NM µSA",las-vegas-nm-µsa,las-vegas-nm-µsa,PER
+Las Vegas,10434797,160,156,447621;2237980;665172,http://en.wikipedia.org/wiki/Las_Vegas_Club,Las Vegas Club,las-vegas-club,las-vegas-club,ORG
+Las Vegas,37276179,48,57,47737;665172,"http://en.wikipedia.org/wiki/Las_Vegas_Township,_Nevada","Las Vegas Township, Nevada",las-vegas-township-nevada,las-vegas-township-nevada,GPE
+Las Vegas,42333397,129,145,47737,http://en.wikipedia.org/wiki/Las_Vegas_(Modern_Family),Las Vegas,las-vegas,las-vegas-modern-family,PER
+Las Vegas,125983,431,214,47737;21649;125874,"http://en.wikipedia.org/wiki/Las_Vegas,_New_Mexico","Las Vegas, New Mexico",las-vegas-new-mexico,las-vegas-new-mexico,GPE
+Las Vegas,11252455,125,132,,http://en.wikipedia.org/wiki/Las_Vegas_culture_(archaeology),Las Vegas culture,las-vegas-culture,las-vegas-culture-archaeology,UNK
+Las Vegas,10536563,102,127,447621;47737,http://en.wikipedia.org/wiki/Las_Vegas_weddings,Las Vegas weddings,las-vegas-weddings,las-vegas-weddings,UNK
+Las Vegas,4108616,18,6,4108616;665172,http://en.wikipedia.org/wiki/Las_Vegas_College,Las Vegas College,las-vegas-college,las-vegas-college,UNK
+Las Vegas,1552223,705,311,447621,http://en.wikipedia.org/wiki/Las_Vegas_Motor_Speedway,Las Vegas Motor Speedway,las-vegas-motor-speedway,las-vegas-motor-speedway,UNK
+Nikki Campbell,20144396,15,22,,http://en.wikipedia.org/wiki/Nikki_Campbell,Nikki Campbell,nikki-campbell,nikki-campbell,PER
+Alicia,693474,103,107,150340;16783562;32374,http://en.wikipedia.org/wiki/Alicia_Machado,Alicia Machado,alicia-machado,alicia-machado,PER

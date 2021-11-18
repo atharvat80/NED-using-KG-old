@@ -1,0 +1,168 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Iraq,7515928,18884,662,30920463;19869863;4492;5593;1652138;6212702;2322115;766841;201936;45007;1501031;5043324;200519;14665;1038799;3119315;33264850;993503;17320;4562459;39303294;13164373;8550616;162172;4184636;2900620;7515928;7203072;27421;26793252;246612;5148100;31717,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+Iraq,26793252,147,159,5043324;14665;4492;2900620;246612;2322115;1038799;201936;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_Republic_(1958–68),Iraqi Republic,iraqi-republic,iraqi-republic-1958–68,GPE
+Iraq,10013089,0,8,5043324,http://en.wikipedia.org/wiki/Iraq_the_model,Iraq the model,iraq-the-model,iraq-the-model,UNK
+Iraq,2900620,479,199,31717;4492;2900620;246612;2322115;1958295;26793252;5043324;14665;1038799;201936;7515928;4184636,http://en.wikipedia.org/wiki/Kingdom_of_Iraq,Kingdom of Iraq,kingdom-of-iraq,kingdom-of-iraq,GPE
+Iraq,30920463,349,324,4492;7515928,http://en.wikipedia.org/wiki/2011_Iraqi_protests,2011 Iraqi protests,2011-iraqi-protests,2011-iraqi-protests,UNK
+Iraq,5043324,6133,1280,4492;8550616;4184636;2900620;2322115;201936;5043324;7515928;26793252;246612;200519;14665;1038799;31717;10013089,http://en.wikipedia.org/wiki/Iraq_War,Iraq War,iraq-war,iraq-war,UNK
+Iraq,201936,2386,848,4492;26793252;201936;45007;1652138;5043324;7515928;246612;162172;14665;1038799;4184636;31717;2900620;2322115;13164373;766841,http://en.wikipedia.org/wiki/2003_invasion_of_Iraq,2003 invasion of Iraq,2003-invasion-of-iraq,2003-invasion-of-iraq,UNK
+Iraq,246612,247,253,5043324;31717;14665;5593;2900620;2322115;1038799;201936;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_dinar,Iraqi dinar,iraqi-dinar,iraqi-dinar,UNK
+Iraq,14665,219,271,5043324;31717;5595;14665;4492;2900620;246612;2322115;1038799;201936;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Geography_of_Iraq,Geography of Iraq,geography-of-iraq,geography-of-iraq,UNK
+Iraq,1038799,151,365,31717;5593;4492;2900620;246612;2322115;26793252;5043324;14665;4208015;1038799;4721;201936;7515928;4184636,http://en.wikipedia.org/wiki/Mandatory_Iraq,Mandatory Iraq,mandatory-iraq,mandatory-iraq,GPE
+BAGHDAD,4492,5332,473,30920463;201936;45007;39898616;33264850;1958295;5043324;17320;7515928;4562459;7203072;39303294;27421;19869863;3296361;26793252;8550616;5593;1652138;200519;162172;14665;1038799;4184636;5148100;31717;3119315;2900620;2322115;766841,http://en.wikipedia.org/wiki/Baghdad,Baghdad,baghdad,baghdad,GPE
+BAGHDAD,4562459,13,25,7515928;4492,http://en.wikipedia.org/wiki/Baghdad_College,Baghdad College,baghdad-college,baghdad-college,UNK
+BAGHDAD,5148100,117,37,4492;7515928,http://en.wikipedia.org/wiki/University_of_Baghdad,University of Baghdad,university-of-baghdad,university-of-baghdad,UNK
+BAGHDAD,11402383,3,6,,http://en.wikipedia.org/wiki/Baghdad_Street_(Singapore),Baghdad Street,baghdad-street,baghdad-street-singapore,UNK
+BAGHDAD,200519,272,42,162172;5043324;4492;7515928,http://en.wikipedia.org/wiki/Baghdad_Governorate,Baghdad Governorate,baghdad-governorate,baghdad-governorate,GPE
+BAGHDAD,11029341,3,6,,http://en.wikipedia.org/wiki/Lake_Baghdad,Lake Baghdad,lake-baghdad,lake-baghdad,UNK
+BAGHDAD,21863514,110,127,,http://en.wikipedia.org/wiki/Baghdad_Street_(Damascus),Baghdad Street,baghdad-street,baghdad-street-damascus,UNK
+BAGHDAD,3296361,29,23,4492,http://en.wikipedia.org/wiki/Al-Khatib_al-Baghdadi,Al-Khatib al-Baghdadi,al-khatib-al-baghdadi,al-khatib-al-baghdadi,UNK
+BAGHDAD,19869863,57,46,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_FC,Baghdad FC,baghdad-fc,baghdad-fc,UNK
+BAGHDAD,28164876,2,6,,http://en.wikipedia.org/wiki/Baghdad_Texas,Baghdad Texas,baghdad-texas,baghdad-texas,UNK
+BAGHDAD,39303294,0,10,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_School,Baghdad School,baghdad-school,baghdad-school,UNK
+BAGHDAD,39898616,1,7,4492,"http://en.wikipedia.org/wiki/Baghdād,_Afghanistan","Baghdād, Afghanistan",baghdad-afghanistan,baghdad-afghanistan,GPE
+BAGHDAD,1652138,7,9,7515928;201936;4492,http://en.wikipedia.org/wiki/Baghdad_Tower,Baghdad Tower,baghdad-tower,baghdad-tower,UNK
+BAGHDAD,7203072,7,7,7515928;4492,http://en.wikipedia.org/wiki/About_Baghdad,About Baghdad,about-baghdad,about-baghdad,UNK
+BAGHDAD,766841,7,9,201936;7515928;4492,http://en.wikipedia.org/wiki/Baghdad_Hotel,Baghdad Hotel,baghdad-hotel,baghdad-hotel,UNK
+BAGHDAD,162172,242,100,45007;4492;201936;200519;7515928,http://en.wikipedia.org/wiki/Baghdad_International_Airport,Baghdad International Airport,baghdad-international-airport,baghdad-international-airport,UNK
+BAGHDAD,6683213,13,10,,http://en.wikipedia.org/wiki/Baghdad_Stadium,Baghdad Stadium,baghdad-stadium,baghdad-stadium,UNK
+BAGHDAD,1958295,196,101,4492;2900620;4721,http://en.wikipedia.org/wiki/Baghdad_Railway,Baghdad Railway,baghdad-railway,baghdad-railway,UNK
+BAGHDAD,993503,68,90,7515928,http://en.wikipedia.org/wiki/Baghdad_(EP),Baghdad,baghdad,baghdad-ep,UNK
+BAGHDAD,34719584,15,16,,http://en.wikipedia.org/wiki/Baghdad_(West_Syrian_Diocese),Baghdad,baghdad,baghdad-west-syrian-diocese,UNK
+Sudanese,27421,10079,761,17867;17320;1819156;383994;4492;4179;4721;5593;767612;34281500;3681935;45007;7515928;4306874;723830;27421;31717,http://en.wikipedia.org/wiki/Sudan,Sudan,sudan,sudan,GPE
+Sudanese,4882463,26,36,17320,http://en.wikipedia.org/wiki/Sudanese_literature,Sudanese literature,sudanese-literature,sudanese-literature,ORG
+Sudanese,723830,148,150,27421,http://en.wikipedia.org/wiki/Sudanese_Arabic,Sudanese Arabic,sudanese-arabic,sudanese-arabic,UNK
+Sudanese,24414678,475,441,2322115,http://en.wikipedia.org/wiki/Sudanese_cuisine,Sudanese cuisine,sudanese-cuisine,sudanese-cuisine,UNK
+Iraqi,7515928,18884,662,30920463;19869863;4492;5593;1652138;6212702;2322115;766841;201936;45007;1501031;5043324;200519;14665;1038799;3119315;33264850;993503;17320;4562459;39303294;13164373;8550616;162172;4184636;2900620;7515928;7203072;27421;26793252;246612;5148100;31717,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+Iraqi,2322115,544,632,4492;246612;26793252;14665;1038799;201936;4184636;2900620;24414678;5043324;7515928,http://en.wikipedia.org/wiki/Iraqi_cuisine,Iraqi cuisine,iraqi-cuisine,iraqi-cuisine,UNK
+Iraqi,6212702,363,290,13164373;7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_biradri,Iraqi biradri,iraqi-biradri,iraqi-biradri,UNK
+Iraqi,4184636,513,263,31717;4492;3119315;6212702;2900620;246612;2322115;26793252;5043324;14665;1038799;19097669;13164373;201936;7515928,http://en.wikipedia.org/wiki/Iraqi_people,Iraqi people,iraqi-people,iraqi-people,UNK
+Iraqi,33264850,3,6,4492;7515928,http://en.wikipedia.org/wiki/Iraqi_University,Iraqi University,iraqi-university,iraqi-university,UNK
+Iraqis,7515928,18884,662,30920463;19869863;4492;5593;1652138;6212702;2322115;766841;201936;45007;1501031;5043324;200519;14665;1038799;3119315;33264850;993503;17320;4562459;39303294;13164373;8550616;162172;4184636;2900620;7515928;7203072;27421;26793252;246612;5148100;31717,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+Iraqis,13164373,78,105,17867;4179;201936;31717;6212702;7515928;4184636,http://en.wikipedia.org/wiki/British_Iraqis,British Iraqis,british-iraqis,british-iraqis,UNK
+Iraqis,1501031,77,55,7515928,http://en.wikipedia.org/wiki/The_Iraqis,The Iraqis,the-iraqis,the-iraqis,UNK
+Iraqi News Agency,8550616,8,10,7515928;4492;5043324,http://en.wikipedia.org/wiki/National_Iraqi_News_Agency,National Iraqi News Agency,national-iraqi-news-agency,national-iraqi-news-agency,UNK
+INA,28710835,138,150,,http://en.wikipedia.org/wiki/INA_metro_station,INA metro station,ina-metro-station,ina-metro-station,UNK
+INA,95293,26,25,,http://en.wikipedia.org/wiki/Hina_(goddess),Hina,hina,hina-goddess,UNK
+INA,507941,83,66,,"http://en.wikipedia.org/wiki/Ina,_Nagano","Ina, Nagano",ina-nagano,ina-nagano,GPE
+INA,33595615,31,51,,"http://en.wikipedia.org/wiki/Ina,_Benin","Ina, Benin",ina-benin,ina-benin,GPE
+INA,39082319,3,16,,http://en.wikipedia.org/wiki/Ina_clan,Ina clan,ina-clan,ina-clan,GPE
+INA,874402,5,9,,"http://en.wikipedia.org/wiki/Ina,_Ibaraki","Ina, Ibaraki",ina-ibaraki,ina-ibaraki,GPE
+INA,808241,202,226,,http://en.wikipedia.org/wiki/Ina_(river),Ina,ina,ina-river,UNK
+INA,111337,47,55,,"http://en.wikipedia.org/wiki/Ina,_Illinois","Ina, Illinois",ina-illinois,ina-illinois,GPE
+INA,25790521,46,49,,"http://en.wikipedia.org/wiki/Ina,_Kasusuklaman_Ba_Kita?","Ina, Kasusuklaman Ba Kita?",ina-kasusuklaman-ba-kita,ina-kasusuklaman-ba-kita,UNK
+INA,35426135,0,9,,http://en.wikipedia.org/wiki/Lake_Ina,Lake Ina,lake-ina,lake-ina,UNK
+INA,12432708,65,71,,http://en.wikipedia.org/wiki/Ina_Station,Ina Station,ina-station,ina-station,UNK
+INA,7322444,92,105,,http://en.wikipedia.org/wiki/Iňa,Iňa,ina,ina,UNK
+INA,33238790,42,74,,"http://en.wikipedia.org/wiki/Ina,_Kapatid,_Anak","Ina, Kapatid, Anak",ina-kapatid-anak,ina-kapatid-anak,UNK
+INA,877405,6,10,,"http://en.wikipedia.org/wiki/Ina,_Fukushima","Ina, Fukushima",ina-fukushima,ina-fukushima,GPE
+INA,864849,7,15,,"http://en.wikipedia.org/wiki/Ina,_Saitama","Ina, Saitama",ina-saitama,ina-saitama,GPE
+INA,11328964,77,12,,http://en.wikipedia.org/wiki/INA_(company),INA,ina,ina-company,UNK
+INA,23459140,2,6,,http://en.wikipedia.org/wiki/Iná_River,Iná River,ina-river,ina-river,UNK
+INA,17150094,3,9,,http://en.wikipedia.org/wiki/Ina_Castle,Ina Castle,ina-castle,ina-castle,UNK
+Khartoum,17320,1455,274,4492;45007;7515928;1819156;4882463;767612;4306874;34281500;27421;383994;3681935,http://en.wikipedia.org/wiki/Khartoum,Khartoum,khartoum,khartoum,GPE
+Khartoum,3681935,46,11,17320;27421,http://en.wikipedia.org/wiki/Khartoum_Stadium,Khartoum Stadium,khartoum-stadium,khartoum-stadium,UNK
+Khartoum,34281500,3,56,17320;27421,http://en.wikipedia.org/wiki/Khartoum_International,Khartoum International,khartoum-international,khartoum-international,UNK
+Khartoum,4306874,152,91,17320;45007;27421;383994;767612,http://en.wikipedia.org/wiki/Khartoum_International_Airport,Khartoum International Airport,khartoum-international-airport,khartoum-international-airport,UNK
+Khartoum,767612,90,31,17320;1819156;27421;4306874,http://en.wikipedia.org/wiki/Khartoum_(state),Khartoum,khartoum,khartoum-state,UNK
+Khartoum,1819156,95,54,17320;27421;767612,http://en.wikipedia.org/wiki/University_of_Khartoum,University of Khartoum,university-of-khartoum,university-of-khartoum,ORG
+Sudan Airways,383994,394,430,45007;17867;27421;17320;4306874,http://en.wikipedia.org/wiki/Sudan_Airways,Sudan Airways,sudan-airways,sudan-airways,ORG
+Airbus,26220236,783,205,93258;28325982;181173;3239017;31717;771973;1572649;26220236,http://en.wikipedia.org/wiki/Airbus,Airbus,airbus,airbus,ORG
+Airbus,1572649,29,44,26220236,http://en.wikipedia.org/wiki/Airbus_affair,Airbus affair,airbus-affair,airbus-affair,UNK
+Airbus,93258,99,212,181173;93258;771973;28325982;26220236,http://en.wikipedia.org/wiki/Airbus_Group,Airbus Group,airbus-group,airbus-group,UNK
+Airbus,28325982,17,27,93258;26220236,"http://en.wikipedia.org/wiki/Airbus_Group,_Inc.","Airbus Group, Inc.",airbus-group-inc,airbus-group-inc,UNK
+Airbus,3239017,168,176,181173;31717;26220236,http://en.wikipedia.org/wiki/Airbus_UK,Airbus UK,airbus-uk,airbus-uk,ORG
+Airbus,771973,43,74,181173;26220236;93258,http://en.wikipedia.org/wiki/Airbus_Military,Airbus Military,airbus-military,airbus-military,UNK
+Airbus,181173,530,254,93258;771973;26220236;3239017,http://en.wikipedia.org/wiki/Airbus_A380,Airbus A380,airbus-a380,airbus-a380,UNK
+Amman,45007,2328,412,4492;201936;5593;17320;7515928;162172;4306874;31717;3119315;27421;383994,http://en.wikipedia.org/wiki/Amman,Amman,amman,amman,GPE
+Amman,8902408,35,16,,http://en.wikipedia.org/wiki/River_Amman,River Amman,river-amman,river-amman,UNK
+Amman,34029900,3,78,,"http://en.wikipedia.org/wiki/Amman_(Spokane,_Washington)",Amman,amman,amman-spokane-washington,UNK
+Amman,3119315,24,59,4492;45007;7515928;4184636,http://en.wikipedia.org/wiki/2005_Amman_bombings,2005 Amman bombings,2005-amman-bombings,2005-amman-bombings,UNK
+Amman,615360,92,89,615360,http://en.wikipedia.org/wiki/Mariamman,Mariamman,mariamman,mariamman,UNK
+London,17867,92094,1769,3736;4179;33567266;4721;27902154;5593;423106;12249;1679120;823473;17867;13190957;27421;31717;1290035;65456;187448;3879356;2023355;5188309;22437586;383994;98370;238524;13164373;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+London,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+London,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+London,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+London,2023355,27,32,17867;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+London,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+London,12249,3253,543,2193334;17867;640154;3736;118409;1113158;4721;1679120;98370;31717;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+London,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+London,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+London,187448,1900,216,823473;17867;508567;4721;640154;31717,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+London,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+London,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+London,1679120,12,181,17867;98370;12249;31717,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+London,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+London,1848281,0,20,264093;65456,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+London,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+London,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+London,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+London,118409,547,127,17867;12249,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+London,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+London,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+London,238524,118,60,17867;4721,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+London,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+London,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+London,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+London,326248,1048,124,31717,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+London,13190957,2,122,17867;31717,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+London,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+London,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+London,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+London,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+London,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+London,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+London,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+London,7984054,3,37,31717,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+London,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+London,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+London,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+Larnaca,287852,923,302,1445142;722717;41721037;1455357;1455333;1783873;31717;5593;2922491;37178802,http://en.wikipedia.org/wiki/Larnaca,Larnaca,larnaca,larnaca,GPE
+Larnaca,41721037,2,8,287852,http://en.wikipedia.org/wiki/Larnaca_(cricket),Larnaca,larnaca,larnaca-cricket,PER
+Larnaca,1783873,220,74,1783873;2922491;287852;5593,http://en.wikipedia.org/wiki/Larnaca_District,Larnaca District,larnaca-district,larnaca-district,UNK
+Larnaca,37178802,8,16,287852;256586;5593,http://en.wikipedia.org/wiki/Larnaca_Castle,Larnaca Castle,larnaca-castle,larnaca-castle,UNK
+Larnaca,2922491,227,176,1783873;287852;5593,http://en.wikipedia.org/wiki/Larnaca_International_Airport,Larnaca International Airport,larnaca-international-airport,larnaca-international-airport,UNK
+Cyprus,5593,15724,705,2922491;3029616;19097669;3574003;5064106;4492;4721;5595;5593;12209832;722717;45007;34456523;10247416;287852;8923162;35708764;1038799;1783873;1445142;17867;1268176;256586;7515928;2208141;27421;37178802;246612;1455357;1455333;31717,http://en.wikipedia.org/wiki/Cyprus,Cyprus,cyprus,cyprus,GPE
+Cyprus,1455357,205,249,287852;1445142;5595;5593;1455333;256586,http://en.wikipedia.org/wiki/Ottoman_Cyprus,Ottoman Cyprus,ottoman-cyprus,ottoman-cyprus,UNK
+Cyprus,34456523,34,205,5593;35708764,http://en.wikipedia.org/wiki/Cyprus_(theme),Cyprus,cyprus,cyprus-theme,UNK
+Cyprus,722717,996,384,287852;1268176;31717;5593,http://en.wikipedia.org/wiki/Cyprus_national_football_team,Cyprus national football team,cyprus-national-football-team,cyprus-national-football-team,UNK
+Cyprus,3029616,47,94,31717;5593,"http://en.wikipedia.org/wiki/Cyprus,_London","Cyprus, London",cyprus-london,cyprus-london,GPE
+Cyprus,1268176,412,150,31717;5593;722717,http://en.wikipedia.org/wiki/Cyprus_Football_Association,Cyprus Football Association,cyprus-football-association,cyprus-football-association,ORG
+Cyprus,8923162,7,18,31717;5593,http://en.wikipedia.org/wiki/Cyprus_Regiment,Cyprus Regiment,cyprus-regiment,cyprus-regiment,ORG
+Cyprus,5064106,7,9,5593,http://en.wikipedia.org/wiki/Cyprus_College,Cyprus College,cyprus-college,cyprus-college,ORG
+Cyprus,1445142,99,99,256586;287852;5595;1455357;5593;1455333,http://en.wikipedia.org/wiki/Prehistoric_Cyprus,Prehistoric Cyprus,prehistoric-cyprus,prehistoric-cyprus,UNK
+Cyprus,10247416,19,24,5593;19097669,http://en.wikipedia.org/wiki/Cyprus_Museum,Cyprus Museum,cyprus-museum,cyprus-museum,UNK
+Cyprus,256586,682,167,1445142;5595;5593;1455357;1455333;37178802,http://en.wikipedia.org/wiki/Kingdom_of_Cyprus,Kingdom of Cyprus,kingdom-of-cyprus,kingdom-of-cyprus,GPE
+Cyprus,2208141,167,138,5593,http://en.wikipedia.org/wiki/University_of_Cyprus,University of Cyprus,university-of-cyprus,university-of-cyprus,ORG
+Cyprus,5595,201,268,1445142;31717;5595;14665;1455357;5593;1455333;256586,http://en.wikipedia.org/wiki/Geography_of_Cyprus,Geography of Cyprus,geography-of-cyprus,geography-of-cyprus,UNK
+Cyprus,1455333,124,177,287852;1445142;5595;1455357;5593;256586,http://en.wikipedia.org/wiki/Cyprus_in_the_Middle_Ages,Cyprus in the Middle Ages,cyprus-in-the-middle-ages,cyprus-in-the-middle-ages,PER
+Cyprus,12209832,2,50,5593,http://en.wikipedia.org/wiki/Cyprus_International,Cyprus International,cyprus-international,cyprus-international,UNK
+Cyprus,13273113,5,22,,http://en.wikipedia.org/wiki/SS_Cyprus,SS Cyprus,ss-cyprus,ss-cyprus,UNK
+Cyprus,35708764,142,258,5593;34456523,http://en.wikipedia.org/wiki/Roman_Cyprus,Roman Cyprus,roman-cyprus,roman-cyprus,UNK
+Stansted,65456,1021,542,17867;1848281;65456;342838;31717;24197841,http://en.wikipedia.org/wiki/London_Stansted_Airport,London Stansted Airport,london-stansted-airport,london-stansted-airport,UNK
+Stansted,342838,48,71,31717;65456,"http://en.wikipedia.org/wiki/Stansted,_Kent","Stansted, Kent",stansted-kent,stansted-kent,GPE
+Stansted,3738121,49,44,,http://en.wikipedia.org/wiki/Stansted_F.C.,Stansted F.C.,stansted-fc,stansted-fc,ORG
+Stansted,5107944,21,19,,http://en.wikipedia.org/wiki/Stansted_Park,Stansted Park,stansted-park,stansted-park,GPE
+Stansted,29527898,102,134,31717,"http://en.wikipedia.org/wiki/Stansted,_Hampshire","Stansted, Hampshire",stansted-hampshire,stansted-hampshire,GPE
+Stansted,24197841,378,207,65456,http://en.wikipedia.org/wiki/RAF_Stansted_Mountfitchet,RAF Stansted Mountfitchet,raf-stansted-mountfitchet,raf-stansted-mountfitchet,UNK
+British,31717,184306,1536,3736;4492;4179;4721;5595;5593;287852;12249;1679120;14665;17867;13190957;4184636;27421;31717;3029616;45007;5043324;2528948;4208015;326248;65456;29527898;342838;7515928;3574003;9200791;8923162;13164373;3239017;26220236;1513051;1268176;7984054;2900620;187448;19097669;201936;201013;1038799;5188309;460615;722717;752921;21308184;246612,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+British,4179,1639,331,17867;4179;4721;19097669;31717;27421;3736;13164373,http://en.wikipedia.org/wiki/British_English,British English,british-english,british-english,UNK
+British,22315902,2,16,,http://en.wikipedia.org/wiki/British_school,British school,british-school,british-school,ORG
+British,377070,55,22,3736,http://en.wikipedia.org/wiki/British_Islands,British Islands,british-islands,british-islands,UNK
+British,21308184,2,10,31717,"http://en.wikipedia.org/wiki/British_School,_Kuala_Lumpur","British School, Kuala Lumpur",british-school-kuala-lumpur,british-school-kuala-lumpur,ORG
+British,19097669,5651,715,3736;4179;4721;5593;4184636;10247416;4208015;31717,http://en.wikipedia.org/wiki/British_people,British people,british-people,british-people,UNK
+British,460615,608,224,31717,http://en.wikipedia.org/wiki/British_undergraduate_degree_classification,British undergraduate degree classification,british-undergraduate-degree-classification,british-undergraduate-degree-classification,UNK
+British,12068557,33,45,3574003;12068557,http://en.wikipedia.org/wiki/British_India_(band),British India,british-india,british-india-band,UNK
+British,1513051,536,241,31717,http://en.wikipedia.org/wiki/British_Formula_Three_Championship,British Formula Three Championship,british-formula-three-championship,british-formula-three-championship,UNK
+British,3736,2695,375,17867;4179;4721;377070;19097669;31717;12249;3736,http://en.wikipedia.org/wiki/British_Isles,British Isles,british-isles,british-isles,UNK
+British,752921,36,197,752921;31717,http://en.wikipedia.org/wiki/British_humour,British humour,british-humour,british-humour,UNK
+British,3574003,155,303,31717;5593;4208015;4721;12068557,http://en.wikipedia.org/wiki/Presidencies_and_provinces_of_British_India,Presidencies and provinces of British India,presidencies-and-provinces-of-british-india,presidencies-and-provinces-of-british-india,GPE
+British,9200791,227,281,9200791;31717,http://en.wikipedia.org/wiki/British_Figure_Skating_Championships,British Figure Skating Championships,british-figure-skating-championships,british-figure-skating-championships,UNK
+British,2528948,87,128,1347221;31717,http://en.wikipedia.org/wiki/British_Airways_Flight_9,British Airways Flight 9,british-airways-flight-9,british-airways-flight-9,UNK
+British,4721,7762,934,17867;1958295;19097669;3574003;3736;4179;4721;5593;238524;12249;27421;4208015;187448;1038799;31717,http://en.wikipedia.org/wiki/British_Empire,British Empire,british-empire,british-empire,UNK
+British,1347221,57,98,2528948,http://en.wikipedia.org/wiki/British_Airways_Flight_5390,British Airways Flight 5390,british-airways-flight-5390,british-airways-flight-5390,UNK
+British,4208015,6322,788,19097669;3574003;4721;1038799;31717,http://en.wikipedia.org/wiki/British_Raj,British Raj,british-raj,british-raj,GPE
+British,5188309,390,398,31717;17867;5188309,http://en.wikipedia.org/wiki/Energy_efficiency_in_British_housing,Energy efficiency in British housing,energy-efficiency-in-british-housing,energy-efficiency-in-british-housing,UNK
+British,9467811,242,263,,http://en.wikipedia.org/wiki/British_baseball,British baseball,british-baseball,british-baseball,UNK
+British,13353120,113,130,,http://en.wikipedia.org/wiki/British_Band,British Band,british-band,british-band,UNK
+British,201013,43,50,31717,http://en.wikipedia.org/wiki/Lord_British,Lord British,lord-british,lord-british,UNK

@@ -1,0 +1,118 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+VAIL,108471,1110,271,6250;7157024;2424607;26964606;183628;5399;5486454,"http://en.wikipedia.org/wiki/Vail,_Colorado","Vail, Colorado",vail-colorado,vail-colorado,GPE
+VAIL,25158035,5,78,,http://en.wikipedia.org/wiki/Vail_Hotel,Vail Hotel,vail-hotel,vail-hotel,UNK
+VAIL,121514,44,63,,"http://en.wikipedia.org/wiki/Vail_Township,_Redwood_County,_Minnesota","Vail Township, Redwood County, Minnesota",vail-township-redwood-county-minnesota,vail-township-redwood-county-minnesota,GPE
+VAIL,9629897,8,16,,http://en.wikipedia.org/wiki/Vail_Lake,Vail Lake,vail-lake,vail-lake,UNK
+VAIL,106730,94,82,,"http://en.wikipedia.org/wiki/Vail,_Arizona","Vail, Arizona",vail-arizona,vail-arizona,GPE
+VAIL,23238441,8,20,,http://en.wikipedia.org/wiki/Don_Vail,Don Vail,don-vail,don-vail,UNK
+VAIL,112944,43,68,,"http://en.wikipedia.org/wiki/Vail,_Iowa","Vail, Iowa",vail-iowa,vail-iowa,GPE
+VAIL,23711847,2,99,,http://en.wikipedia.org/wiki/Vail-Leavitt_Music_Hall,Vail-Leavitt Music Hall,vail-leavitt-music-hall,vail-leavitt-music-hall,UNK
+VAIL,7157024,105,61,5399;108471;26964606,http://en.wikipedia.org/wiki/Vail_Ski_Resort,Vail Ski Resort,vail-ski-resort,vail-ski-resort,UNK
+Colorado,5399,17573,1186,5399;6250;379210;5486454;108626;196775;7157024;108471;191925;21760649;8580682;19296082;223219;180968;181548;2424607,http://en.wikipedia.org/wiki/Colorado,Colorado,colorado,colorado,UNK
+Colorado,379210,46,221,5399;26964606,http://en.wikipedia.org/wiki/Colorado_potato_beetle,Colorado potato beetle,colorado-potato-beetle,colorado-potato-beetle,UNK
+Colorado,23531115,1,4,,http://en.wikipedia.org/wiki/Colorado_River_(Maipo),Colorado River,colorado-river,colorado-river-maipo,UNK
+Colorado,588655,138,55,588643;588655,http://en.wikipedia.org/wiki/Colorado_Party_(Paraguay),Colorado Party,colorado-party,colorado-party-paraguay,ORG
+Colorado,4622247,8,12,,http://en.wikipedia.org/wiki/Colorado_River_(Costa_Rica),Colorado River,colorado-river,colorado-river-costa-rica,UNK
+Colorado,23531112,1,4,,http://en.wikipedia.org/wiki/Colorado_River_(Lontué),Colorado River,colorado-river,colorado-river-lontue,UNK
+Colorado,1097945,63,45,191925,http://en.wikipedia.org/wiki/USS_Colorado_(1856),USS Colorado,uss-colorado,uss-colorado-1856,UNK
+Colorado,27209811,1,11,27209811,http://en.wikipedia.org/wiki/El_Colorado_(Santiago_del_Estero),El Colorado,el-colorado,el-colorado-santiago-del-estero,UNK
+Colorado,223219,735,83,5399;181548;223219,http://en.wikipedia.org/wiki/University_of_Colorado,University of Colorado,university-of-colorado,university-of-colorado,UNK
+Colorado,5486454,876,255,6250;5399;181548;108471,http://en.wikipedia.org/wiki/Geography_of_Colorado,Geography of Colorado,geography-of-colorado,geography-of-colorado,UNK
+Colorado,21216986,23,31,191925,http://en.wikipedia.org/wiki/USS_Colorado_(SSN-788),USS Colorado,uss-colorado,uss-colorado-ssn-788,UNK
+Colorado,180969,450,213,91625,http://en.wikipedia.org/wiki/Colorado_River_(Texas),Colorado River,colorado-river,colorado-river-texas,UNK
+Colorado,21760649,65,94,180968;5399,http://en.wikipedia.org/wiki/Colorado_Group,Colorado Group,colorado-group,colorado-group,UNK
+Colorado,23506855,4,7,,http://en.wikipedia.org/wiki/Colorado_River_(Rondônia),Colorado River,colorado-river,colorado-river-rondonia,UNK
+Colorado,16046809,467,479,,"http://en.wikipedia.org/wiki/Colorado,_Rio_Grande_do_Sul","Colorado, Rio Grande do Sul",colorado-rio-grande-do-sul,colorado-rio-grande-do-sul,UNK
+Colorado,25553568,325,387,,"http://en.wikipedia.org/wiki/Colorado,_Paraná","Colorado, Paraná",colorado-parana,colorado-parana,GPE
+Colorado,38428076,2,9,,http://en.wikipedia.org/wiki/Colorado_River_(Potosi),Colorado River,colorado-river,colorado-river-potosi,UNK
+Colorado,6250,3628,450,181548;5486454;5399;108471,"http://en.wikipedia.org/wiki/Colorado_Springs,_Colorado","Colorado Springs, Colorado",colorado-springs-colorado,colorado-springs-colorado,GPE
+Colorado,106670,116,145,,"http://en.wikipedia.org/wiki/Colorado_City,_Arizona","Colorado City, Arizona",colorado-city-arizona,colorado-city-arizona,GPE
+Colorado,136380,319,350,,"http://en.wikipedia.org/wiki/Colorado_City,_Texas","Colorado City, Texas",colorado-city-texas,colorado-city-texas,GPE
+Colorado,36164203,2,15,,http://en.wikipedia.org/wiki/Colorado_International,Colorado International,colorado-international,colorado-international,UNK
+Colorado,23531110,16,22,,http://en.wikipedia.org/wiki/Colorado_River_(Aconcagua),Colorado River,colorado-river,colorado-river-aconcagua,UNK
+Colorado,196775,86,72,5399;191925;207962,http://en.wikipedia.org/wiki/USS_Colorado_(BB-45),USS Colorado,uss-colorado,uss-colorado-bb-45,UNK
+Colorado,180968,1749,604,5399;21760649,http://en.wikipedia.org/wiki/Colorado_River,Colorado River,colorado-river,colorado-river,UNK
+Colorado,40508627,1,100,,http://en.wikipedia.org/wiki/Colorado_Airport,Colorado Airport,colorado-airport,colorado-airport,UNK
+Colorado,181548,928,325,6250;5399;181548;5486454;223219,http://en.wikipedia.org/wiki/Colorado_College,Colorado College,colorado-college,colorado-college,ORG
+Colorado,8580682,9,33,5399,http://en.wikipedia.org/wiki/Colorado_(RTD),Colorado,colorado,colorado-rtd,UNK
+Colorado,22954470,114,116,,"http://en.wikipedia.org/wiki/Colorado,_California","Colorado, California",colorado-california,colorado-california,UNK
+Colorado,588643,247,62,588643;588655,http://en.wikipedia.org/wiki/Colorado_Party_(Uruguay),Colorado Party,colorado-party,colorado-party-uruguay,UNK
+Colorado,27164189,9,7,27164189,http://en.wikipedia.org/wiki/El_Colorado,El Colorado,el-colorado,el-colorado,UNK
+Colorado,207962,30,51,191925;196775;26964606,http://en.wikipedia.org/wiki/USS_Colorado_(ACR-7),USS Colorado,uss-colorado,uss-colorado-acr-7,UNK
+Colorado,180967,1,19,,"http://en.wikipedia.org/wiki/Colorado_River,_Argentina","Colorado River, Argentina",colorado-river-argentina,colorado-river-argentina,UNK
+Colorado,21791530,0,7,,http://en.wikipedia.org/wiki/Colorado_Lake,Colorado Lake,colorado-lake,colorado-lake,UNK
+Colorado,24495315,29,36,,"http://en.wikipedia.org/wiki/Colorado,_Texas","Colorado, Texas",colorado-texas,colorado-texas,GPE
+Colorado,23339016,2,3,,http://en.wikipedia.org/wiki/Colorado_River_(Tempisque_River),Colorado River,colorado-river,colorado-river-tempisque-river,UNK
+Colorado,108626,34,47,5399,"http://en.wikipedia.org/wiki/Colorado_City,_Colorado","Colorado City, Colorado",colorado-city-colorado,colorado-city-colorado,GPE
+Colorado,19296082,1,81,5399,http://en.wikipedia.org/wiki/Colorado_Building,Colorado Building,colorado-building,colorado-building,UNK
+Colorado,91625,490,406,91625;180969,"http://en.wikipedia.org/wiki/Colorado_County,_Texas","Colorado County, Texas",colorado-county-texas,colorado-county-texas,GPE
+Colorado,191925,7,5,207962;1097945;5399;21216986;196775,http://en.wikipedia.org/wiki/USS_Colorado,USS Colorado,uss-colorado,uss-colorado,UNK
+World Cup,2706303,281,186,10301463;183628;951198;263861;11370;22309191;21241;1543977;12312312;7239;26964606;2706303,http://en.wikipedia.org/wiki/UCI_Mountain_Bike_World_Cup,UCI Mountain Bike World Cup,uci-mountain-bike-world-cup,uci-mountain-bike-world-cup,ORG
+World Cup,126460,2360,526,52622;126460;147793;656933;157233;21241;695226;26964606;168079;203277;11370,http://en.wikipedia.org/wiki/1998_FIFA_World_Cup,1998 FIFA World Cup,1998-fifa-world-cup,1998-fifa-world-cup,UNK
+World Cup,22309191,286,125,10301463;183628;951198;263861;11370;22309191;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/UCI_Cyclo-cross_World_Cup,UCI Cyclo-cross World Cup,uci-cyclo-cross-world-cup,uci-cyclo-cross-world-cup,UNK
+World Cup,2900585,596,210,2900585;7239;266217,http://en.wikipedia.org/wiki/2011_Cricket_World_Cup,2011 Cricket World Cup,2011-cricket-world-cup,2011-cricket-world-cup,UNK
+World Cup,10301463,108,177,183628;951198;263861;11370;22309191;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/World_Cup_(snooker),World Cup,world-cup,world-cup-snooker,UNK
+World Cup,951198,797,254,10301463;1543977;22309191;183628;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Hockey_World_Cup,Hockey World Cup,hockey-world-cup,hockey-world-cup,ORG
+World Cup,12312312,874,369,10301463;1543977;22309191;183628;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Rugby_League_World_Cup,Rugby League World Cup,rugby-league-world-cup,rugby-league-world-cup,ORG
+World Cup,656933,3267,404,52622;147793;157233;695226;203277;11370;126460;656933;168079,http://en.wikipedia.org/wiki/2014_FIFA_World_Cup,2014 FIFA World Cup,2014-fifa-world-cup,2014-fifa-world-cup,UNK
+World Cup,157233,3239,557,52622;147793;157233;695226;203277;11370;126460;656933;168079,http://en.wikipedia.org/wiki/2006_FIFA_World_Cup,2006 FIFA World Cup,2006-fifa-world-cup,2006-fifa-world-cup,UNK
+World Cup,11370,5586,616,52622;147793;183628;157233;695226;203277;263861;11370;2706303;10301463;126460;656933;22309191;951198;1543977;168079;7239;12312312,http://en.wikipedia.org/wiki/FIFA_World_Cup,FIFA World Cup,fifa-world-cup,fifa-world-cup,UNK
+World Cup,7239,828,277,10301463;1543977;22309191;2900585;183628;7239;951198;263861;11370;266217;12312312;2706303,http://en.wikipedia.org/wiki/Cricket_World_Cup,Cricket World Cup,cricket-world-cup,cricket-world-cup,UNK
+World Cup,1543977,0,470,10301463;183628;7239;951198;263861;11370;22309191;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_(men's_golf),World Cup,world-cup,world-cup-mens-golf,UNK
+World Cup,263861,503,173,10301463;183628;1543977;7239;951198;11370;22309191;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_of_Hockey,World Cup of Hockey,world-cup-of-hockey,world-cup-of-hockey,ORG
+World Cup,52622,2464,534,52622;126460;41038712;147793;656933;157233;695226;168079;203277;11370,http://en.wikipedia.org/wiki/2002_FIFA_World_Cup,2002 FIFA World Cup,2002-fifa-world-cup,2002-fifa-world-cup,UNK
+World Cup,41038712,1,16,52622,http://en.wikipedia.org/wiki/World_Cup_Park,World Cup Park,world-cup-park,world-cup-park,UNK
+World Cup,17269063,107,125,21241,http://en.wikipedia.org/wiki/Chess_World_Cup,Chess World Cup,chess-world-cup,chess-world-cup,PER
+World Cup,168079,3921,505,52622;147793;157233;695226;203277;11370;126460;656933;168079,http://en.wikipedia.org/wiki/2010_FIFA_World_Cup,2010 FIFA World Cup,2010-fifa-world-cup,2010-fifa-world-cup,UNK
+World Cup,266217,683,220,2900585;7239;266217,http://en.wikipedia.org/wiki/2007_Cricket_World_Cup,2007 Cricket World Cup,2007-cricket-world-cup,2007-cricket-world-cup,UNK
+World Cup,147793,1790,463,52622;126460;147793;656933;157233;21241;695226;168079;203277;11370,http://en.wikipedia.org/wiki/1994_FIFA_World_Cup,1994 FIFA World Cup,1994-fifa-world-cup,1994-fifa-world-cup,UNK
+Renate Goetschl,2424607,130,136,183628;64014;5399;108471;26964606;12525154,http://en.wikipedia.org/wiki/Renate_Götschl,Renate Götschl,renate-gotschl,renate-gotschl,UNK
+Austria,26964606,55411,711,1030;2983;695226;21241;27765303;169412;183628;64014;2424607;67542;207962;203277;7157024;8419772;2706303;12525154;379210;108471;26964606;126460;6490870;6490884,http://en.wikipedia.org/wiki/Austria,Austria,austria,austria,GPE
+Austria,27765303,256,226,695226;26964606,http://en.wikipedia.org/wiki/Austria_national_under-19_football_team,Austria national under-19 football team,austria-national-under-19-football-team,austria-national-under-19-football-team,UNK
+Austria,25224993,6,31,,http://en.wikipedia.org/wiki/Austria_(Lombard),Austria,austria,austria-lombard,UNK
+Austria,6490870,478,182,67542;8419772;2983;26964606;6490884,http://en.wikipedia.org/wiki/Archduchy_of_Austria,Archduchy of Austria,archduchy-of-austria,archduchy-of-austria,GPE
+Austria,169412,20,48,26964606,"http://en.wikipedia.org/wiki/Fucking,_Austria","Fucking, Austria",fucking-austria,fucking-austria,UNK
+Austria,67542,223,341,67542;6490870;8419772;57612;2983;26964606;6490884,http://en.wikipedia.org/wiki/Geography_of_Austria,Geography of Austria,geography-of-austria,geography-of-austria,UNK
+Austria,8419772,231,177,6490870;8419772;2983;67542;26964606;6490884,http://en.wikipedia.org/wiki/Religion_in_Austria,Religion in Austria,religion-in-austria,religion-in-austria,ORG
+Austria,2416949,10,29,,http://en.wikipedia.org/wiki/SS_Austria,SS Austria,ss-austria,ss-austria,UNK
+Austria,695226,1890,498,52622;126460;147793;656933;27765303;157233;2983;26964606;168079;203277;11370,http://en.wikipedia.org/wiki/Austria_national_football_team,Austria national football team,austria-national-football-team,austria-national-football-team,UNK
+Austria,6490884,203,126,6490870;8419772;2983;67542;26964606,http://en.wikipedia.org/wiki/Duchy_of_Austria,Duchy of Austria,duchy-of-austria,duchy-of-austria,GPE
+Austria,2983,7373,824,2983;67542;695226;26964606;8419772;6490870;6490884,http://en.wikipedia.org/wiki/Austria-Hungary,Austria-Hungary,austria-hungary,austria-hungary,GPE
+Austria,1030,723,262,26964606;1030,http://en.wikipedia.org/wiki/Austrian_School,Austrian School,austrian-school,austrian-school,UNK
+Lillehammer,64014,1269,264,113195;2424607;26964606;183628;34122940;10344821;57612;21241,http://en.wikipedia.org/wiki/Lillehammer,Lillehammer,lillehammer,lillehammer,ORG
+Lillehammer,34122940,9,5,64014;21241,http://en.wikipedia.org/wiki/Lillehammer_Municipality,Lillehammer Municipality,lillehammer-municipality,lillehammer-municipality,UNK
+Lillehammer,113195,32,22,64014;21241,http://en.wikipedia.org/wiki/Lillehammer_affair,Lillehammer affair,lillehammer-affair,lillehammer-affair,ORG
+Lillehammer,10344821,41,22,64014;21241,http://en.wikipedia.org/wiki/Lillehammer_Station,Lillehammer Station,lillehammer-station,lillehammer-station,UNK
+Norway,21241,55035,1236,34122940;13810680;21241;6108283;147793;6335055;7678095;183628;57612;64014;203277;10344821;2706303;112755;113195;17269063;26964606;126460,http://en.wikipedia.org/wiki/Norway,Norway,norway,norway,GPE
+Norway,1315135,0,16,120027;42757917;120477;117391;25917134,http://en.wikipedia.org/wiki/Norway_Township,Norway Township,norway-township,norway-township,GPE
+Norway,25196547,4,3,,"http://en.wikipedia.org/wiki/Norway,_Prince_Edward_Island","Norway, Prince Edward Island",norway-prince-edward-island,norway-prince-edward-island,GPE
+Norway,36348993,2,77,,http://en.wikipedia.org/wiki/Norway_Bridge,Norway Bridge,norway-bridge,norway-bridge,UNK
+Norway,134621,36,46,,"http://en.wikipedia.org/wiki/Norway,_South_Carolina","Norway, South Carolina",norway-south-carolina,norway-south-carolina,GPE
+Norway,24611297,40,58,15032866,"http://en.wikipedia.org/wiki/Norway,_Oregon","Norway, Oregon",norway-oregon,norway-oregon,GPE
+Norway,203277,2041,486,52622;126460;147793;656933;157233;21241;695226;26964606;168079;203277;11370,http://en.wikipedia.org/wiki/Norway_national_football_team,Norway national football team,norway-national-football-team,norway-national-football-team,ORG
+Norway,12624548,1161,108,,http://en.wikipedia.org/wiki/Norway_Corporation,Norway Corporation,norway-corporation,norway-corporation,UNK
+Norway,126521,52,69,,"http://en.wikipedia.org/wiki/Norway,_New_York","Norway, New York",norway-new-york,norway-new-york,GPE
+Norway,120027,50,67,141279;1315135,"http://en.wikipedia.org/wiki/Norway_Township,_Fillmore_County,_Minnesota","Norway Township, Fillmore County, Minnesota",norway-township-fillmore-county-minnesota,norway-township-fillmore-county-minnesota,GPE
+Norway,12565953,18,21,,"http://en.wikipedia.org/wiki/Norway,_Kansas","Norway, Kansas",norway-kansas,norway-kansas,GPE
+Norway,1936956,67,68,,http://en.wikipedia.org/wiki/Little_Norway,Little Norway,little-norway,little-norway,UNK
+Norway,57612,266,521,64014;67542;57612;21241,http://en.wikipedia.org/wiki/Geography_of_Norway,Geography of Norway,geography-of-norway,geography-of-norway,ORG
+Norway,42757917,23,28,1315135,"http://en.wikipedia.org/wiki/Norway_Township,_Winnebago_County,_Iowa","Norway Township, Winnebago County, Iowa",norway-township-winnebago-county-iowa,norway-township-winnebago-county-iowa,GPE
+Norway,25917134,31,42,1315135,"http://en.wikipedia.org/wiki/Norway_Township,_Humboldt_County,_Iowa","Norway Township, Humboldt County, Iowa",norway-township-humboldt-county-iowa,norway-township-humboldt-county-iowa,GPE
+Norway,117390,60,61,117391,"http://en.wikipedia.org/wiki/Norway,_Michigan","Norway, Michigan",norway-michigan,norway-michigan,GPE
+Norway,112755,52,83,21241,"http://en.wikipedia.org/wiki/Norway,_Iowa","Norway, Iowa",norway-iowa,norway-iowa,GPE
+Norway,259272,107,120,259271,"http://en.wikipedia.org/wiki/Norway,_Maine","Norway, Maine",norway-maine,norway-maine,GPE
+Norway,7678095,42,102,21241,http://en.wikipedia.org/wiki/Norway_Airlines,Norway Airlines,norway-airlines,norway-airlines,UNK
+Norway,259271,51,74,259272,"http://en.wikipedia.org/wiki/Norway_(CDP),_Maine","Norway (CDP), Maine",norway-cdp-maine,norway-cdp-maine,GPE
+Norway,26510166,1,21,,http://en.wikipedia.org/wiki/Norway_Lake_(Rainy_Creek_drainage_basin),Norway Lake,norway-lake,norway-lake-rainy-creek-drainage-basin,UNK
+Norway,15032866,2,12,24611297,http://en.wikipedia.org/wiki/Norway_Airport,Norway Airport,norway-airport,norway-airport,UNK
+Norway,112704,31,48,,"http://en.wikipedia.org/wiki/Norway,_Indiana","Norway, Indiana",norway-indiana,norway-indiana,GPE
+Norway,139612,52,64,,"http://en.wikipedia.org/wiki/Norway,_Wisconsin","Norway, Wisconsin",norway-wisconsin,norway-wisconsin,GPE
+Norway,6108283,60,58,21241,http://en.wikipedia.org/wiki/Norway_(Epcot),Norway,norway,norway-epcot,UNK
+Norway,6335055,14,18,21241,"http://en.wikipedia.org/wiki/Little_Norway,_Wisconsin","Little Norway, Wisconsin",little-norway-wisconsin,little-norway-wisconsin,UNK
+Norway,15734183,236,243,,"http://en.wikipedia.org/wiki/Little_Norway,_California","Little Norway, California",little-norway-california,little-norway-california,GPE
+Norway,13810680,112,120,21241,"http://en.wikipedia.org/wiki/Norway,_Illinois","Norway, Illinois",norway-illinois,norway-illinois,UNK
+Norway,141279,0,2,120027;120477,"http://en.wikipedia.org/wiki/Norway_Township,_Minnesota","Norway Township, Minnesota",norway-township-minnesota,norway-township-minnesota,UNK
+Norway,120477,45,65,141279;1315135,"http://en.wikipedia.org/wiki/Norway_Township,_Kittson_County,_Minnesota","Norway Township, Kittson County, Minnesota",norway-township-kittson-county-minnesota,norway-township-kittson-county-minnesota,GPE
+Norway,117391,23,45,117390;1315135,"http://en.wikipedia.org/wiki/Norway_Township,_Michigan","Norway Township, Michigan",norway-township-michigan,norway-township-michigan,GPE
+Flachau,12525154,81,46,183628;2424607;26964606,http://en.wikipedia.org/wiki/Flachau,Flachau,flachau,flachau,UNK
+World Cup,183628,683,343,10301463;1543977;12525154;22309191;2424607;26964606;64014;7239;951198;263861;108471;11370;21241;12312312;2706303,http://en.wikipedia.org/wiki/FIS_Alpine_Ski_World_Cup,FIS Alpine Ski World Cup,fis-alpine-ski-world-cup,fis-alpine-ski-world-cup,GPE

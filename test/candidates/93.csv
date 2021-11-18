@@ -1,0 +1,44 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Thai,30128,32096,645,3926261;13404;2722553;16863931;712796;268075;2670504;393288;30529;30128;12150640;20846094;48647;883010;20032238;56615;303449;1244783;63731;14590436,http://en.wikipedia.org/wiki/Thailand,Thailand,thailand,thailand,GPE
+Thai,63731,858,479,30529;30128;38921956;48647,http://en.wikipedia.org/wiki/Thai_alphabet,Thai alphabet,thai-alphabet,thai-alphabet,UNK
+Thai,48647,6104,209,2722553;56615;16863931;20846094;712796;3926261;303449;2670504;30529;30128;883010;63731;14590436,http://en.wikipedia.org/wiki/Thai_language,Thai language,thai-language,thai-language,UNK
+Thai,303449,439,442,48647;30529;20032238;56615;248457;30128;13404;1449735,http://en.wikipedia.org/wiki/Thai_Airways,Thai Airways,thai-airways,thai-airways,ORG
+Thai,27125998,108,6,883010,"http://en.wikipedia.org/wiki/Thai_Town,_Sydney","Thai Town, Sydney",thai-town-sydney,thai-town-sydney,UNK
+Thai,14590436,58,64,30128;48647,http://en.wikipedia.org/wiki/Thai_Sa,Thai Sa,thai-sa,thai-sa,PER
+Thai,883010,137,382,48647;30529;56615;27125998;30128,"http://en.wikipedia.org/wiki/Thai_Town,_Los_Angeles","Thai Town, Los Angeles",thai-town-los-angeles,thai-town-los-angeles,UNK
+Thai,2670504,1330,352,30529;56615;30128;16863931;48647;3811347;13404,http://en.wikipedia.org/wiki/Thai_people,Thai people,thai-people,thai-people,UNK
+Thai,2722553,103,116,30128;48647;2722553,http://en.wikipedia.org/wiki/Thai_Wikipedia,Thai Wikipedia,thai-wikipedia,thai-wikipedia,UNK
+Thai,30529,853,692,30529;30128;303449;48647;883010;63731;2670504,http://en.wikipedia.org/wiki/Thai_cuisine,Thai cuisine,thai-cuisine,thai-cuisine,GPE
+Thai,38921956,7,4,63731,http://en.wikipedia.org/wiki/Thai_(Unicode_block),Thai,thai,thai-unicode-block,UNK
+Thai,12150640,0,112,30128,http://en.wikipedia.org/wiki/Thai_cat,Thai cat,thai-cat,thai-cat,UNK
+BANGKOK,56615,7301,719,20032238;56615;16863931;20846094;712796;3926261;303449;2670504;248457;30128;48647;883010;1244783;13404;3811347,http://en.wikipedia.org/wiki/Bangkok,Bangkok,bangkok,bangkok,GPE
+BANGKOK,3811347,15,18,56615;2670504,http://en.wikipedia.org/wiki/Bangkok_Opera,Bangkok Opera,bangkok-opera,bangkok-opera,UNK
+BANGKOK,16863931,84,88,30128;56615;2670504;48647,http://en.wikipedia.org/wiki/Bangkok_F.C.,Bangkok F.C.,bangkok-fc,bangkok-fc,GPE
+BANGKOK,3926261,166,231,30128;268075;48647;56615;13404,http://en.wikipedia.org/wiki/Bangkok_University,Bangkok University,bangkok-university,bangkok-university,ORG
+BANGKOK,20032238,17,16,303449;56615;30128,http://en.wikipedia.org/wiki/Bangkok_Hospital,Bangkok Hospital,bangkok-hospital,bangkok-hospital,ORG
+BANGKOK,20846094,42,61,30128;48647;56615;13404,http://en.wikipedia.org/wiki/Bangkok_Elevated_Road_and_Train_System,Bangkok Elevated Road and Train System,bangkok-elevated-road-and-train-system,bangkok-elevated-road-and-train-system,UNK
+BANGKOK,7190798,0,2,,http://en.wikipedia.org/wiki/Bangkok_International_Airport,Bangkok International Airport,bangkok-international-airport,bangkok-international-airport,UNK
+Hong Kong,13404,29087,1384,3926261;18593210;22962474;19339340;27413692;13411;13406;13404;1389893;13371128;1449735;268075;2670504;393288;393307;30128;20846094;56615;33617951;303449;180697;248457;1244783;33918128,http://en.wikipedia.org/wiki/Hong_Kong,Hong Kong,hong-kong,hong-kong,GPE
+Hong Kong,13406,276,257,393288;180697;248457;27413692;13411;13406;13404,http://en.wikipedia.org/wiki/Geography_of_Hong_Kong,Geography of Hong Kong,geography-of-hong-kong,geography-of-hong-kong,UNK
+Hong Kong,33918128,1,10,13404;248457,http://en.wikipedia.org/wiki/Hong_Kong_(Area_Control_Centre),Hong Kong,hong-kong,hong-kong-area-control-centre,UNK
+Hong Kong,248457,1212,534,180697;56615;303449;1449735;393288;1389893;33918128;13411;13406;13404,http://en.wikipedia.org/wiki/Hong_Kong_International_Airport,Hong Kong International Airport,hong-kong-international-airport,hong-kong-international-airport,UNK
+Hong Kong,36855089,173,199,33617951;32837949;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2012_Summer_Paralympics","Hong Kong, China at the 2012 Summer Paralympics",hong-kong-china-at-the-2012-summer-paralympics,hong-kong-china-at-the-2012-summer-paralympics,UNK
+Hong Kong,18775842,161,179,33617951;36855089;32837949,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2008_Summer_Paralympics","Hong Kong, China at the 2008 Summer Paralympics",hong-kong-china-at-the-2008-summer-paralympics,hong-kong-china-at-the-2008-summer-paralympics,UNK
+Hong Kong,393307,62,30,13404,http://en.wikipedia.org/wiki/Hong_Kong_Park,Hong Kong Park,hong-kong-park,hong-kong-park,UNK
+Hong Kong,32837949,110,121,33617951;36855089;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2000_Summer_Paralympics","Hong Kong, China at the 2000 Summer Paralympics",hong-kong-china-at-the-2000-summer-paralympics,hong-kong-china-at-the-2000-summer-paralympics,UNK
+Hong Kong,393288,131,230,30128;27413692;13411;13406;13404;248457,http://en.wikipedia.org/wiki/Tourism_in_Hong_Kong,Tourism in Hong Kong,tourism-in-hong-kong,tourism-in-hong-kong,UNK
+Hong Kong,22962474,40,50,13371128;180697;13404,http://en.wikipedia.org/wiki/W_Hong_Kong,W Hong Kong,w-hong-kong,w-hong-kong,UNK
+Hong Kong,2152406,18,13,,http://en.wikipedia.org/wiki/Hong_Kong_Club,Hong Kong Club,hong-kong-club,hong-kong-club,ORG
+Hong Kong,1449735,450,319,248457;303449;13411;13404,http://en.wikipedia.org/wiki/Hong_Kong_Airlines,Hong Kong Airlines,hong-kong-airlines,hong-kong-airlines,ORG
+Hong Kong,180697,1125,122,248457;13371128;1389893;1244783;268075;27413692;13411;13406;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Island,Hong Kong Island,hong-kong-island,hong-kong-island,UNK
+Hong Kong,18593210,15,14,13404,http://en.wikipedia.org/wiki/Mr._Hong_Kong,Mr. Hong Kong,mr-hong-kong,mr-hong-kong,UNK
+Hong Kong,13411,475,349,393288;180697;1389893;248457;13411;13406;13404;1449735,http://en.wikipedia.org/wiki/Transport_in_Hong_Kong,Transport in Hong Kong,transport-in-hong-kong,transport-in-hong-kong,ORG
+Hong Kong,10157228,5,14,,http://en.wikipedia.org/wiki/The_Hong_Kong,The Hong Kong,the-hong-kong,the-hong-kong,UNK
+Hong Kong,1244783,601,156,180697;56615;30128;13404,http://en.wikipedia.org/wiki/Hong_Kong_Stadium,Hong Kong Stadium,hong-kong-stadium,hong-kong-stadium,UNK
+Hong Kong,1389893,376,293,180697;1389893;248457;13411;13404,http://en.wikipedia.org/wiki/Hong_Kong_Station,Hong Kong Station,hong-kong-station,hong-kong-station,UNK
+Hong Kong,13371128,52,51,180697;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Hotel,Hong Kong Hotel,hong-kong-hotel,hong-kong-hotel,UNK
+Hong Kong,19339340,52,31,268075;13404,http://en.wikipedia.org/wiki/2009_flu_pandemic_in_Hong_Kong,2009 flu pandemic in Hong Kong,2009-flu-pandemic-in-hong-kong,2009-flu-pandemic-in-hong-kong,UNK
+Hong Kong,33617951,142,153,36855089;13404;32837949;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2004_Summer_Paralympics","Hong Kong, China at the 2004 Summer Paralympics",hong-kong-china-at-the-2004-summer-paralympics,hong-kong-china-at-the-2004-summer-paralympics,UNK
+Hong Kong,27413692,563,306,393288;180697;268075;13406;13404,http://en.wikipedia.org/wiki/British_Hong_Kong,British Hong Kong,british-hong-kong,british-hong-kong,GPE
+Hong Kong,268075,918,410,180697;30128;3926261;19339340;268075;27413692;13404,http://en.wikipedia.org/wiki/University_of_Hong_Kong,University of Hong Kong,university-of-hong-kong,university-of-hong-kong,UNK
+Pattaya,712796,501,106,48647;56615;30128,http://en.wikipedia.org/wiki/Pattaya,Pattaya,pattaya,pattaya,GPE

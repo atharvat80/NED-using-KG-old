@@ -1,0 +1,251 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+MARTINEZ,784152,728,210,4443;91195;197638;5843419;82729;300468;1028366;26667,http://en.wikipedia.org/wiki/Conchita_Martínez,Conchita Martínez,conchita-martinez,conchita-martinez,PER
+U.S. OPEN,82729,3836,304,89050;5843419;26667;8210131;91195;3880857;197638;82726;300468;1028366;645042;784152,http://en.wikipedia.org/wiki/US_Open_(tennis),US Open,us-open,us-open-tennis,UNK
+U.S. OPEN,10999302,69,83,82726,http://en.wikipedia.org/wiki/U.S._Open_Badminton_Championships,U.S. Open Badminton Championships,us-open-badminton-championships,us-open-badminton-championships,ORG
+U.S. OPEN,223854,2609,485,82726;8210131,http://en.wikipedia.org/wiki/U.S._Open_(golf),U.S. Open,us-open,us-open-golf,UNK
+U.S. OPEN,13568864,33,36,82726,http://en.wikipedia.org/wiki/U.S._Open_(swimming),U.S. Open,us-open,us-open-swimming,UNK
+U.S. OPEN,7399665,92,38,82726,http://en.wikipedia.org/wiki/U.S._Open_(bowling),U.S. Open,us-open,us-open-bowling,PER
+U.S. OPEN,7294077,7,16,,http://en.wikipedia.org/wiki/U.S._Open_Cycling_Championships,U.S. Open Cycling Championships,us-open-cycling-championships,us-open-cycling-championships,UNK
+U.S. OPEN,82726,7,18,82729;10999302;8844691;7399665;223854;13568864,http://en.wikipedia.org/wiki/U.S._Open,U.S. Open,us-open,us-open,UNK
+U.S. OPEN,8844691,122,41,82726,http://en.wikipedia.org/wiki/US_Open_(darts),US Open,us-open,us-open-darts,PER
+Larry Fine,1173403,8,5,589925,http://en.wikipedia.org/wiki/Larry_Fine_(pianos),Larry Fine,larry-fine,larry-fine-pianos,UNK
+Larry Fine,589925,391,108,1173403,http://en.wikipedia.org/wiki/Larry_Fine,Larry Fine,larry-fine,larry-fine,PER
+NEW YORK,645042,77367,1542,2499282;14292849;4443;38562076;5012327;1813418;963506;265585;20879;26667;8210131;27746113;311782;7116889;26035579;667548;816554;20430078;45470;25283669;2412557;543064;39446814;3880857;20652261;351876;7402167;1189259;197638;2585447;89050;1633430;82729;645042;4688434;384805;13141861;598652;17292183;606772;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+NEW YORK,39062092,3,8,,http://en.wikipedia.org/wiki/New_York_EP,New York EP,new-york-ep,new-york-ep,UNK
+NEW YORK,5710132,2,12,,"http://en.wikipedia.org/wiki/New_York,_Auburn_and_Lansing_Railroad","New York, Auburn and Lansing Railroad",new-york-auburn-and-lansing-railroad,new-york-auburn-and-lansing-railroad,UNK
+NEW YORK,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+NEW YORK,2001239,3,3,,"http://en.wikipedia.org/wiki/New_York,_Newfoundland_and_London_Telegraph_Company","New York, Newfoundland and London Telegraph Company",new-york-newfoundland-and-london-telegraph-company,new-york-newfoundland-and-london-telegraph-company,UNK
+NEW YORK,1159194,10,261,,"http://en.wikipedia.org/wiki/New_York,_Lincolnshire","New York, Lincolnshire",new-york-lincolnshire,new-york-lincolnshire,UNK
+NEW YORK,17292183,104,126,645042,"http://en.wikipedia.org/wiki/New_York,_I_Love_You","New York, I Love You",new-york-i-love-you,new-york-i-love-you,UNK
+NEW YORK,7402167,6,16,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_New_York_(So_Good_They_Named_It_Twice)","New York, New York",new-york-new-york,new-york-new-york-so-good-they-named-it-twice,UNK
+NEW YORK,8210131,70636,932,5843419;2499282;1813418;265585;8210131;311782;667548;816554;655484;20430078;45470;2412557;543064;39446814;3880857;20652261;351876;7402167;1189259;89050;82729;891699;645042;223854;94392;13141861;598652;606772;8584792,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+NEW YORK,351876,647,399,21310853;2585447;891699;645042;13141861;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_New_Haven_and_Hartford_Railroad","New York, New Haven and Hartford Railroad",new-york-new-haven-and-hartford-railroad,new-york-new-haven-and-hartford-railroad,UNK
+NEW YORK,816554,492,446,891699;351876;645042;2499282;8210131;26723573,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_and_Western_Railway","New York, Susquehanna and Western Railway",new-york-susquehanna-and-western-railway,new-york-susquehanna-and-western-railway,UNK
+NEW YORK,891699,493,307,351876;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_Chicago_and_St._Louis_Railroad","New York, Chicago and St. Louis Railroad",new-york-chicago-and-st-louis-railroad,new-york-chicago-and-st-louis-railroad,UNK
+NEW YORK,26035579,0,1,645042,"http://en.wikipedia.org/wiki/New_York,_US-NY","New York, US-NY",new-york-us-ny,new-york-us-ny,UNK
+NEW YORK,21310853,2,74,351876,"http://en.wikipedia.org/wiki/New_York,_New_Haven_&_Hartford_Passenger_Depot","New York, New Haven & Hartford Passenger Depot",new-york-new-haven-hartford-passenger-depot,new-york-new-haven-hartford-passenger-depot,UNK
+NEW YORK,1470149,50,16,,http://en.wikipedia.org/wiki/New_York_&_Company,New York & Company,new-york-company,new-york-company,UNK
+NEW YORK,1555877,17,13,31747730,"http://en.wikipedia.org/wiki/New_York,_New_York_(On_the_Town)","New York, New York",new-york-new-york,new-york-new-york-on-the-town,UNK
+NEW YORK,667548,10,36,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_Rio,_and_Buenos_Aires_Line","New York, Rio, and Buenos Aires Line",new-york-rio-and-buenos-aires-line,new-york-rio-and-buenos-aires-line,ORG
+NEW YORK,27746113,5,109,13141861;645042,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railroad_Administration_Building","New York, Westchester and Boston Railroad Administration Building",new-york-westchester-and-boston-railroad-administration-building,new-york-westchester-and-boston-railroad-administration-building,UNK
+NEW YORK,598652,483,197,645042;598652;8210131,http://en.wikipedia.org/wiki/New_York_School,New York School,new-york-school,new-york-school,UNK
+NEW YORK,31747730,135,373,1555877;645042,http://en.wikipedia.org/wiki/New_York_(Glee),New York,new-york,new-york-glee,UNK
+NEW YORK,493759,93,39,,"http://en.wikipedia.org/wiki/New_York,_Tyne_and_Wear","New York, Tyne and Wear",new-york-tyne-and-wear,new-york-tyne-and-wear,GPE
+NEW YORK,3880857,301,536,89050;82729;645042;197638;1189259;8210131;1813418;45470;39446814,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+NEW YORK,2499282,360,314,891699;351876;645042;816554;8210131,"http://en.wikipedia.org/wiki/New_York,_Ontario_and_Western_Railway","New York, Ontario and Western Railway",new-york-ontario-and-western-railway,new-york-ontario-and-western-railway,UNK
+NEW YORK,606772,30,81,8210131;45470;645042,http://en.wikipedia.org/wiki/New_York:_A_Documentary_Film,New York: A Documentary Film,new-york-a-documentary-film,new-york-a-documentary-film,UNK
+NEW YORK,13141861,113,149,311782;351876;8210131;645042;27746113,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railway","New York, Westchester and Boston Railway",new-york-westchester-and-boston-railway,new-york-westchester-and-boston-railway,UNK
+NEW YORK,2585447,38,55,351876;645042,"http://en.wikipedia.org/wiki/New_York,_Providence_and_Boston_Railroad","New York, Providence and Boston Railroad",new-york-providence-and-boston-railroad,new-york-providence-and-boston-railroad,UNK
+NEW YORK,7112349,30,43,,"http://en.wikipedia.org/wiki/New_York,_Texas","New York, Texas",new-york-texas,new-york-texas,GPE
+NEW YORK,26723573,3,85,816554,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_&_Western_Railroad_ALCO_Type_S-2_Locomotive","New York, Susquehanna & Western Railroad ALCO Type S-2 Locomotive",new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,UNK
+NEW YORK,13288448,14,23,,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+Conchita Martinez,784152,728,210,4443;91195;197638;5843419;82729;300468;1028366;26667,http://en.wikipedia.org/wiki/Conchita_Martínez,Conchita Martínez,conchita-martinez,conchita-martinez,PER
+New York,645042,77367,1542,2499282;14292849;4443;38562076;5012327;1813418;963506;265585;20879;26667;8210131;27746113;311782;7116889;26035579;667548;816554;20430078;45470;25283669;2412557;543064;39446814;3880857;20652261;351876;7402167;1189259;197638;2585447;89050;1633430;82729;645042;4688434;384805;13141861;598652;17292183;606772;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+New York,39062092,3,8,,http://en.wikipedia.org/wiki/New_York_EP,New York EP,new-york-ep,new-york-ep,UNK
+New York,5710132,2,12,,"http://en.wikipedia.org/wiki/New_York,_Auburn_and_Lansing_Railroad","New York, Auburn and Lansing Railroad",new-york-auburn-and-lansing-railroad,new-york-auburn-and-lansing-railroad,UNK
+New York,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+New York,2001239,3,3,,"http://en.wikipedia.org/wiki/New_York,_Newfoundland_and_London_Telegraph_Company","New York, Newfoundland and London Telegraph Company",new-york-newfoundland-and-london-telegraph-company,new-york-newfoundland-and-london-telegraph-company,UNK
+New York,1159194,10,261,,"http://en.wikipedia.org/wiki/New_York,_Lincolnshire","New York, Lincolnshire",new-york-lincolnshire,new-york-lincolnshire,UNK
+New York,17292183,104,126,645042,"http://en.wikipedia.org/wiki/New_York,_I_Love_You","New York, I Love You",new-york-i-love-you,new-york-i-love-you,UNK
+New York,7402167,6,16,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_New_York_(So_Good_They_Named_It_Twice)","New York, New York",new-york-new-york,new-york-new-york-so-good-they-named-it-twice,UNK
+New York,8210131,70636,932,5843419;2499282;1813418;265585;8210131;311782;667548;816554;655484;20430078;45470;2412557;543064;39446814;3880857;20652261;351876;7402167;1189259;89050;82729;891699;645042;223854;94392;13141861;598652;606772;8584792,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+New York,351876,647,399,21310853;2585447;891699;645042;13141861;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_New_Haven_and_Hartford_Railroad","New York, New Haven and Hartford Railroad",new-york-new-haven-and-hartford-railroad,new-york-new-haven-and-hartford-railroad,UNK
+New York,816554,492,446,891699;351876;645042;2499282;8210131;26723573,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_and_Western_Railway","New York, Susquehanna and Western Railway",new-york-susquehanna-and-western-railway,new-york-susquehanna-and-western-railway,UNK
+New York,891699,493,307,351876;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_Chicago_and_St._Louis_Railroad","New York, Chicago and St. Louis Railroad",new-york-chicago-and-st-louis-railroad,new-york-chicago-and-st-louis-railroad,UNK
+New York,26035579,0,1,645042,"http://en.wikipedia.org/wiki/New_York,_US-NY","New York, US-NY",new-york-us-ny,new-york-us-ny,UNK
+New York,21310853,2,74,351876,"http://en.wikipedia.org/wiki/New_York,_New_Haven_&_Hartford_Passenger_Depot","New York, New Haven & Hartford Passenger Depot",new-york-new-haven-hartford-passenger-depot,new-york-new-haven-hartford-passenger-depot,UNK
+New York,1470149,50,16,,http://en.wikipedia.org/wiki/New_York_&_Company,New York & Company,new-york-company,new-york-company,UNK
+New York,1555877,17,13,31747730,"http://en.wikipedia.org/wiki/New_York,_New_York_(On_the_Town)","New York, New York",new-york-new-york,new-york-new-york-on-the-town,UNK
+New York,667548,10,36,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_Rio,_and_Buenos_Aires_Line","New York, Rio, and Buenos Aires Line",new-york-rio-and-buenos-aires-line,new-york-rio-and-buenos-aires-line,ORG
+New York,27746113,5,109,13141861;645042,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railroad_Administration_Building","New York, Westchester and Boston Railroad Administration Building",new-york-westchester-and-boston-railroad-administration-building,new-york-westchester-and-boston-railroad-administration-building,UNK
+New York,598652,483,197,645042;598652;8210131,http://en.wikipedia.org/wiki/New_York_School,New York School,new-york-school,new-york-school,UNK
+New York,31747730,135,373,1555877;645042,http://en.wikipedia.org/wiki/New_York_(Glee),New York,new-york,new-york-glee,UNK
+New York,493759,93,39,,"http://en.wikipedia.org/wiki/New_York,_Tyne_and_Wear","New York, Tyne and Wear",new-york-tyne-and-wear,new-york-tyne-and-wear,GPE
+New York,3880857,301,536,89050;82729;645042;197638;1189259;8210131;1813418;45470;39446814,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+New York,2499282,360,314,891699;351876;645042;816554;8210131,"http://en.wikipedia.org/wiki/New_York,_Ontario_and_Western_Railway","New York, Ontario and Western Railway",new-york-ontario-and-western-railway,new-york-ontario-and-western-railway,UNK
+New York,606772,30,81,8210131;45470;645042,http://en.wikipedia.org/wiki/New_York:_A_Documentary_Film,New York: A Documentary Film,new-york-a-documentary-film,new-york-a-documentary-film,UNK
+New York,13141861,113,149,311782;351876;8210131;645042;27746113,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railway","New York, Westchester and Boston Railway",new-york-westchester-and-boston-railway,new-york-westchester-and-boston-railway,UNK
+New York,2585447,38,55,351876;645042,"http://en.wikipedia.org/wiki/New_York,_Providence_and_Boston_Railroad","New York, Providence and Boston Railroad",new-york-providence-and-boston-railroad,new-york-providence-and-boston-railroad,UNK
+New York,7112349,30,43,,"http://en.wikipedia.org/wiki/New_York,_Texas","New York, Texas",new-york-texas,new-york-texas,GPE
+New York,26723573,3,85,816554,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_&_Western_Railroad_ALCO_Type_S-2_Locomotive","New York, Susquehanna & Western Railroad ALCO Type S-2 Locomotive",new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,UNK
+New York,13288448,14,23,,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+New Yorkers,645042,77367,1542,2499282;14292849;4443;38562076;5012327;1813418;963506;265585;20879;26667;8210131;27746113;311782;7116889;26035579;667548;816554;20430078;45470;25283669;2412557;543064;39446814;3880857;20652261;351876;7402167;1189259;197638;2585447;89050;1633430;82729;645042;4688434;384805;13141861;598652;17292183;606772;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+New Yorkers,13017156,67,71,,http://en.wikipedia.org/wiki/The_New_Yorkers,The New Yorkers,the-new-yorkers,the-new-yorkers,UNK
+New Yorkers,8210131,70636,932,5843419;2499282;1813418;265585;8210131;311782;667548;816554;655484;20430078;45470;2412557;543064;39446814;3880857;20652261;351876;7402167;1189259;89050;82729;891699;645042;223854;94392;13141861;598652;606772;8584792,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+Spaniard,26667,100383,1235,5843419;4443;33571114;26667;24763114;4488686;300468;61406;39446814;67473;67472;68187;82729;645042;91195;36638162;143468;14288105;5166586;1545170;3409591;197638;1028366;784152;2687967;250197,http://en.wikipedia.org/wiki/Spain,Spain,spain,spain,GPE
+Spaniard,24643066,3,9,,http://en.wikipedia.org/wiki/The_Spaniard,The Spaniard,the-spaniard,the-spaniard,PER
+U.S. Open,82729,3836,304,89050;5843419;26667;8210131;91195;3880857;197638;82726;300468;1028366;645042;784152,http://en.wikipedia.org/wiki/US_Open_(tennis),US Open,us-open,us-open-tennis,UNK
+U.S. Open,10999302,69,83,82726,http://en.wikipedia.org/wiki/U.S._Open_Badminton_Championships,U.S. Open Badminton Championships,us-open-badminton-championships,us-open-badminton-championships,ORG
+U.S. Open,223854,2609,485,82726;8210131,http://en.wikipedia.org/wiki/U.S._Open_(golf),U.S. Open,us-open,us-open-golf,UNK
+U.S. Open,13568864,33,36,82726,http://en.wikipedia.org/wiki/U.S._Open_(swimming),U.S. Open,us-open,us-open-swimming,UNK
+U.S. Open,7399665,92,38,82726,http://en.wikipedia.org/wiki/U.S._Open_(bowling),U.S. Open,us-open,us-open-bowling,PER
+U.S. Open,7294077,7,16,,http://en.wikipedia.org/wiki/U.S._Open_Cycling_Championships,U.S. Open Cycling Championships,us-open-cycling-championships,us-open-cycling-championships,UNK
+U.S. Open,82726,7,18,82729;10999302;8844691;7399665;223854;13568864,http://en.wikipedia.org/wiki/U.S._Open,U.S. Open,us-open,us-open,UNK
+U.S. Open,8844691,122,41,82726,http://en.wikipedia.org/wiki/US_Open_(darts),US Open,us-open,us-open-darts,PER
+New York City,645042,77367,1542,2499282;14292849;4443;38562076;5012327;1813418;963506;265585;20879;26667;8210131;27746113;311782;7116889;26035579;667548;816554;20430078;45470;25283669;2412557;543064;39446814;3880857;20652261;351876;7402167;1189259;197638;2585447;89050;1633430;82729;645042;4688434;384805;13141861;598652;17292183;606772;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+New York City,543064,79,69,8210131;543064;1813418;645042,http://en.wikipedia.org/wiki/New_York_City_College_of_Technology,New York City College of Technology,new-york-city-college-of-technology,new-york-city-college-of-technology,ORG
+New York City,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+New York City,311782,304,47,13141861;1440202;384805;8210131;45470;645042,http://en.wikipedia.org/wiki/New_York_City_Transit_Authority,New York City Transit Authority,new-york-city-transit-authority,new-york-city-transit-authority,UNK
+New York City,2412557,12,42,8210131;1813418;645042,http://en.wikipedia.org/wiki/New_York_City_Police_Department_Auxiliary_Police,New York City Police Department Auxiliary Police,new-york-city-police-department-auxiliary-police,new-york-city-police-department-auxiliary-police,UNK
+New York City,1813418,851,227,3880857;384805;645042;45470;543064;2412557;14292849;8210131;1813418,http://en.wikipedia.org/wiki/New_York_City_Council,New York City Council,new-york-city-council,new-york-city-council,UNK
+New York City,20430078,34,60,8210131;20652261;645042,http://en.wikipedia.org/wiki/New_York_City_Department_of_Homeless_Services_Police,New York City Department of Homeless Services Police,new-york-city-department-of-homeless-services-police,new-york-city-department-of-homeless-services-police,UNK
+New York City,20652261,34,44,8210131;20430078;645042,http://en.wikipedia.org/wiki/New_York_City_Police_Department_School_Safety_Division,New York City Police Department School Safety Division,new-york-city-police-department-school-safety-division,new-york-city-police-department-school-safety-division,UNK
+New York City,13288448,14,23,,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+New York City,14292849,83,65,1813418;45470;645042,http://en.wikipedia.org/wiki/New_York_City_Department_of_Buildings,New York City Department of Buildings,new-york-city-department-of-buildings,new-york-city-department-of-buildings,ORG
+New York City,3880857,301,536,89050;82729;645042;197638;1189259;8210131;1813418;45470;39446814,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+New York City,39446814,561,214,89050;68187;3880857;645042;26667;1189259;8210131;39446814,http://en.wikipedia.org/wiki/New_York_City_FC,New York City FC,new-york-city-fc,new-york-city-fc,UNK
+New York City,1440202,156,197,311782;1440202;384805;45470,http://en.wikipedia.org/wiki/New_York_City_Subway_nomenclature,New York City Subway nomenclature,new-york-city-subway-nomenclature,new-york-city-subway-nomenclature,UNK
+New York City,8210131,70636,932,5843419;2499282;1813418;265585;8210131;311782;667548;816554;655484;20430078;45470;2412557;543064;39446814;3880857;20652261;351876;7402167;1189259;89050;82729;891699;645042;223854;94392;13141861;598652;606772;8584792,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+France,5843419,190787,1650,6122287;5843419;4443;4519169;5612901;12943731;26667;4131857;4488686;300468;61406;2567493;67473;67472;68187;82729;644329;91195;42474021;23527303;955656;8210131;5166586;3409591;197638;9351658;1028366;784152;20599016;3933705;2687967;250197;740757;3953139,http://en.wikipedia.org/wiki/France,France,france,france,GPE
+France,9116059,3,89,,http://en.wikipedia.org/wiki/France_Hotel,France Hotel,france-hotel,france-hotel,UNK
+France,2589960,11,10,,http://en.wikipedia.org/wiki/France_family,France family,france-family,france-family,UNK
+France,9351658,5,36,5843419,http://en.wikipedia.org/wiki/France_II,France II,france-ii,france-ii,UNK
+France,644329,374,225,5843419;955656;644329,http://en.wikipedia.org/wiki/France_Télévisions,France Télévisions,france-televisions,france-televisions,ORG
+France,6132809,173,168,,http://en.wikipedia.org/wiki/Little_France,Little France,little-france,little-france,UNK
+France,20599016,2454,744,197638;2687967;20599016;67473;67472;19603;23527303;5843419,http://en.wikipedia.org/wiki/Vichy_France,Vichy France,vichy-france,vichy-france,GPE
+France,30770045,0,5,,http://en.wikipedia.org/wiki/Edward_France,Edward France,edward-france,edward-france,PER
+France,2567493,90,99,5612901;5843419,http://en.wikipedia.org/wiki/France_Info,France Info,france-info,france-info,UNK
+France,11809,513,287,,http://en.wikipedia.org/wiki/Francesco_Cossiga,Francesco Cossiga,francesco-cossiga,francesco-cossiga,PER
+France,12943731,411,384,5843419;955656;250197,http://en.wikipedia.org/wiki/France_national_youth_football_team,France national youth football team,france-national-youth-football-team,france-national-youth-football-team,ORG
+France,40175041,26,46,,"http://en.wikipedia.org/wiki/La_France,_South_Carolina","La France, South Carolina",la-france-south-carolina,la-france-south-carolina,GPE
+France,250197,3412,873,955656;250197;5843419;26667;12943731,http://en.wikipedia.org/wiki/France_national_football_team,France national football team,france-national-football-team,france-national-football-team,UNK
+France,67472,417,303,5843419;67473;67472;26667;23527303;2687967;20599016,http://en.wikipedia.org/wiki/Geography_of_France,Geography of France,geography-of-france,geography-of-france,UNK
+France,23527303,196,15,5843419;2687967;20599016;67473;67472,http://en.wikipedia.org/wiki/Kingdom_of_France_(1791–92),Kingdom of France,kingdom-of-france,kingdom-of-france-1791–92,GPE
+France,3776038,24,8,,http://en.wikipedia.org/wiki/University_of_France,University of France,university-of-france,university-of-france,ORG
+France,2687967,3313,297,2687967;23527303;5843419;26667;20599016;67473;67472,http://en.wikipedia.org/wiki/Kingdom_of_France,Kingdom of France,kingdom-of-france,kingdom-of-france,GPE
+France,42474021,5,22,5843419,http://en.wikipedia.org/wiki/Little_France_(castle),Little France,little-france,little-france-castle,UNK
+France,39251067,5,13,,http://en.wikipedia.org/wiki/La_France_(French_newspaper),La France,la-france,la-france-french-newspaper,UNK
+France,5612901,146,75,2567493;5843419,http://en.wikipedia.org/wiki/France_Culture,France Culture,france-culture,france-culture,UNK
+France,67473,488,455,5843419;4131857;67473;67472;26667;23527303;2687967;20599016,http://en.wikipedia.org/wiki/Economy_of_France,Economy of France,economy-of-france,economy-of-france,UNK
+France,955656,2298,525,644329;250197;5843419;3933705;12943731,http://en.wikipedia.org/wiki/France_national_rugby_union_team,France national rugby union team,france-national-rugby-union-team,france-national-rugby-union-team,UNK
+France,6122287,56,58,5843419,http://en.wikipedia.org/wiki/France_(Epcot),France,france,france-epcot,UNK
+France,4131857,209,198,5843419;4131857;67473,http://en.wikipedia.org/wiki/Nuclear_power_in_France,Nuclear power in France,nuclear-power-in-france,nuclear-power-in-france,UNK
+France,19088931,16,6,,http://en.wikipedia.org/wiki/La_France_(airship),La France,la-france,la-france-airship,UNK
+Nathalie Tauziat,1028366,690,152,91195;5843419;82729;300468;197638;26667;784152,http://en.wikipedia.org/wiki/Nathalie_Tauziat,Nathalie Tauziat,nathalie-tauziat,nathalie-tauziat,UNK
+Martinez,784152,728,210,4443;91195;197638;5843419;82729;300468;1028366;26667,http://en.wikipedia.org/wiki/Conchita_Martínez,Conchita Martínez,conchita-martinez,conchita-martinez,PER
+Tauziat,1028366,690,152,91195;5843419;82729;300468;197638;26667;784152,http://en.wikipedia.org/wiki/Nathalie_Tauziat,Nathalie Tauziat,nathalie-tauziat,nathalie-tauziat,UNK
+Wimbledon,91195,4014,428,5166586;94392;5843419;26667;197638;82729;300468;1028366;476312;784152,"http://en.wikipedia.org/wiki/The_Championships,_Wimbledon","The Championships, Wimbledon",the-championships-wimbledon,the-championships-wimbledon,UNK
+Wimbledon,16839050,3,9,,"http://en.wikipedia.org/wiki/Wimbledon,_New_Zealand","Wimbledon, New Zealand",wimbledon-new-zealand,wimbledon-new-zealand,GPE
+Wimbledon,128433,82,230,,"http://en.wikipedia.org/wiki/Wimbledon,_North_Dakota","Wimbledon, North Dakota",wimbledon-north-dakota,wimbledon-north-dakota,GPE
+Wimbledon,31421367,177,208,94392,http://en.wikipedia.org/wiki/Wimbledon_Studios,Wimbledon Studios,wimbledon-studios,wimbledon-studios,UNK
+Wimbledon,5166586,372,407,91195;5843419;94392;197638;26667,http://en.wikipedia.org/wiki/2007_Wimbledon_Championships,2007 Wimbledon Championships,2007-wimbledon-championships,2007-wimbledon-championships,UNK
+Wimbledon,11556510,3,4,94392,http://en.wikipedia.org/wiki/Wimbledon_(ecclesiastical_parish),Wimbledon,wimbledon,wimbledon-ecclesiastical-parish,UNK
+Wimbledon,740757,1557,480,94392;5843419;8689602;740757,http://en.wikipedia.org/wiki/Wimbledon_F.C.,Wimbledon F.C.,wimbledon-fc,wimbledon-fc,UNK
+Wimbledon,3020099,84,95,94392,http://en.wikipedia.org/wiki/Wimbledon_College,Wimbledon College,wimbledon-college,wimbledon-college,ORG
+Wimbledon,476312,628,454,91195;94392,http://en.wikipedia.org/wiki/Wimbledon_station,Wimbledon station,wimbledon-station,wimbledon-station,UNK
+Wimbledon,1881708,241,154,94392;8689602,http://en.wikipedia.org/wiki/Wimbledon_Park,Wimbledon Park,wimbledon-park,wimbledon-park,GPE
+Wimbledon,94392,1264,538,91195;11556510;5166586;3020099;1881708;476312;31421367;8689602;740757;8210131,"http://en.wikipedia.org/wiki/Wimbledon,_London","Wimbledon, London",wimbledon-london,wimbledon-london,GPE
+Wimbledon,8689602,111,45,94392;740757;1881708,http://en.wikipedia.org/wiki/Wimbledon_Stadium,Wimbledon Stadium,wimbledon-stadium,wimbledon-stadium,UNK
+Open,17033723,2,16,17033723,http://en.wikipedia.org/wiki/Open_Ukraine,Open Ukraine,open-ukraine,open-ukraine,UNK
+Open,7642796,2,4,,http://en.wikipedia.org/wiki/Open_(band),Open,open,open-band,UNK
+Open,667299,3,7,3953139;4488686;28244201,http://en.wikipedia.org/wiki/German_Open,German Open,german-open,german-open,UNK
+Open,14641667,38,36,,http://en.wikipedia.org/wiki/First_Open,First Open,first-open,first-open,UNK
+Open,6965126,2,9,6965126,http://en.wikipedia.org/wiki/Open_system_(control_theory),Open system,open-system,open-system-control-theory,UNK
+Open,3356297,19,22,,"http://en.wikipedia.org/wiki/Open,_closed,_open","Open, closed, open",open-closed-open,open-closed-open,UNK
+Open,7399665,92,38,82726,http://en.wikipedia.org/wiki/U.S._Open_(bowling),U.S. Open,us-open,us-open-bowling,PER
+Open,7116889,22,64,645042,http://en.wikipedia.org/wiki/Open_City_(magazine),Open City,open-city,open-city-magazine,ORG
+Open,2504739,14,13,,http://en.wikipedia.org/wiki/Open_Market,Open Market,open-market,open-market,UNK
+Open,3068409,18,12,,http://en.wikipedia.org/wiki/Open_(system_call),Open,open,open-system-call,PER
+Open,28244201,73,105,667299,http://en.wikipedia.org/wiki/German_Open_(darts),German Open,german-open,german-open-darts,UNK
+Open,1947934,68,27,,http://en.wikipedia.org/wiki/Open_city,Open city,open-city,open-city,GPE
+Open,33533550,22,28,,http://en.wikipedia.org/wiki/Open_(Jon_Anderson_EP),Open,open,open-jon-anderson-ep,UNK
+Open,2337918,16,12,,http://en.wikipedia.org/wiki/Open_(sport),Open,open,open-sport,UNK
+Open,832032,7,34,,http://en.wikipedia.org/wiki/Open_Programming_Language,Open Programming Language,open-programming-language,open-programming-language,UNK
+Open,4519169,208,138,5843419,http://en.wikipedia.org/wiki/United_States_Open_(squash),United States Open,united-states-open,united-states-open-squash,PER
+Open,667235,81,89,667235,http://en.wikipedia.org/wiki/British_Open_(snooker),British Open,british-open,british-open-snooker,UNK
+Open,4688434,1,7,645042,http://en.wikipedia.org/wiki/United_States_Open_(crosswords),United States Open,united-states-open,united-states-open-crosswords,UNK
+Open,8339228,1,5,,http://en.wikipedia.org/wiki/Open_(Mexican_magazine),Open,open,open-mexican-magazine,ORG
+Open,13568864,33,36,82726,http://en.wikipedia.org/wiki/U.S._Open_(swimming),U.S. Open,us-open,us-open-swimming,UNK
+Open,4488686,142,147,26667;667299;5843419,http://en.wikipedia.org/wiki/German_Open_(golf),German Open,german-open,german-open-golf,UNK
+Open,6499402,37,84,,http://en.wikipedia.org/wiki/Open_Europe,Open Europe,open-europe,open-europe,UNK
+Open,2149431,10,3,,http://en.wikipedia.org/wiki/Open....,Open....,open,open,UNK
+Open,27561961,3,10,27561961,http://en.wikipedia.org/wiki/Open_Museum,Open Museum,open-museum,open-museum,UNK
+Open,27015146,23,40,,"http://en.wikipedia.org/wiki/Open,_to_Love","Open, to Love",open-to-love,open-to-love,UNK
+Open,82726,7,18,82729;10999302;8844691;7399665;223854;13568864,http://en.wikipedia.org/wiki/U.S._Open,U.S. Open,us-open,us-open,UNK
+Open,21365656,1,46,21365656,http://en.wikipedia.org/wiki/Open_building,Open building,open-building,open-building,ORG
+Open,378204,28,15,39229,http://en.wikipedia.org/wiki/Open_architecture,Open architecture,open-architecture,open-architecture,UNK
+Open,39229,50,25,378204;265816,http://en.wikipedia.org/wiki/Open_system_(computing),Open system,open-system,open-system-computing,UNK
+Open,353672,205,126,,http://en.wikipedia.org/wiki/Open_society,Open society,open-society,open-society,ORG
+Open,22024525,182,183,18169552,http://en.wikipedia.org/wiki/Florida_Open,Florida Open,florida-open,florida-open,UNK
+Open,28710101,10,15,,http://en.wikipedia.org/wiki/Open_City_(newspaper),Open City,open-city,open-city-newspaper,ORG
+Open,39358,433,63,,http://en.wikipedia.org/wiki/Open_set,Open set,open-set,open-set,UNK
+Open,8844691,122,41,82726,http://en.wikipedia.org/wiki/US_Open_(darts),US Open,us-open,us-open-darts,PER
+Open,5091375,10,18,,http://en.wikipedia.org/wiki/The_Open_(band),The Open,the-open,the-open-band,UNK
+Open,22669,541,128,,http://en.wikipedia.org/wiki/Open_cluster,Open cluster,open-cluster,open-cluster,UNK
+Open,348307,41,18,,http://en.wikipedia.org/wiki/Open_market,Open market,open-market,open-market,UNK
+Open,16364714,2,12,,http://en.wikipedia.org/wiki/OPEN_(North_Dakota_magazine),OPEN,open,open-north-dakota-magazine,ORG
+Open,265816,51,31,39229,http://en.wikipedia.org/wiki/Open_system_(systems_theory),Open system,open-system,open-system-systems-theory,UNK
+Open,22197,214,114,,http://en.wikipedia.org/wiki/Open_content,Open content,open-content,open-content,UNK
+Open,82729,3836,304,89050;5843419;26667;8210131;91195;3880857;197638;82726;300468;1028366;645042;784152,http://en.wikipedia.org/wiki/US_Open_(tennis),US Open,us-open,us-open-tennis,UNK
+Open,4990355,2,7,,http://en.wikipedia.org/wiki/Open_(process),Open,open,open-process,UNK
+Open,3953139,80,109,667299;5843419,http://en.wikipedia.org/wiki/German_Open_(badminton),German Open,german-open,german-open-badminton,UNK
+Open,18169552,170,170,22024525,http://en.wikipedia.org/wiki/Ohio_Open,Ohio Open,ohio-open,ohio-open,UNK
+Open,27352785,161,15,,http://en.wikipedia.org/wiki/OPEN_(Indian_magazine),OPEN,open,open-indian-magazine,UNK
+Open,223854,2609,485,82726;8210131,http://en.wikipedia.org/wiki/U.S._Open_(golf),U.S. Open,us-open,us-open-golf,UNK
+Flushing Meadows,89050,235,233,3880857;82729;8210131;45470;645042;39446814,http://en.wikipedia.org/wiki/Flushing_Meadows–Corona_Park,Flushing Meadows–Corona Park,flushing-meadows–corona-park,flushing-meadows–corona-park,UNK
+Manhattan,45470,13279,1114,311782;384805;4865862;1440202;14292849;1189259;1813418;26387221;45470;107656;606772;265585;25283669;89050;1633430;20879;645042;3992839;8210131;3880857,http://en.wikipedia.org/wiki/Manhattan,Manhattan,manhattan,manhattan,GPE
+Manhattan,39986431,53,63,6127218,http://en.wikipedia.org/wiki/Manhattan_School,Manhattan School,manhattan-school,manhattan-school,UNK
+Manhattan,18424452,86,151,18424452,http://en.wikipedia.org/wiki/Manhattan_Hill,Manhattan Hill,manhattan-hill,manhattan-hill,UNK
+Manhattan,1189259,650,521,3880857;645042;45470;39446814;8210131,http://en.wikipedia.org/wiki/Manhattan_College,Manhattan College,manhattan-college,manhattan-college,ORG
+Manhattan,16647853,1,82,,"http://en.wikipedia.org/wiki/Manhattan_Building_(Saint_Paul,_Minnesota)",Manhattan Building,manhattan-building,manhattan-building-saint-paul-minnesota,UNK
+Manhattan,19603,2133,764,20599016;19603,http://en.wikipedia.org/wiki/Manhattan_Project,Manhattan Project,manhattan-project,manhattan-project,ORG
+Manhattan,5012327,168,98,645042,http://en.wikipedia.org/wiki/Manhattan_Center,Manhattan Center,manhattan-center,manhattan-center,UNK
+Manhattan,24578035,3,23,,http://en.wikipedia.org/wiki/Manhattan_Beach_(Denver),Manhattan Beach,manhattan-beach,manhattan-beach-denver,UNK
+Manhattan,9137293,29,34,963506,http://en.wikipedia.org/wiki/Manhattan_Beach_(march),Manhattan Beach,manhattan-beach,manhattan-beach-march,UNK
+Manhattan,150444,1566,269,16726071,"http://en.wikipedia.org/wiki/Manhattan,_Kansas","Manhattan, Kansas",manhattan-kansas,manhattan-kansas,GPE
+Manhattan,265585,408,307,645042;1633430;8210131;45470,"http://en.wikipedia.org/wiki/Little_Italy,_Manhattan","Little Italy, Manhattan",little-italy-manhattan,little-italy-manhattan,GPE
+Manhattan,6127218,36,56,39986431,"http://en.wikipedia.org/wiki/Manhattan,_Nevada","Manhattan, Nevada",manhattan-nevada,manhattan-nevada,GPE
+Manhattan,4277485,179,120,,http://en.wikipedia.org/wiki/Manhattan_Records,Manhattan Records,manhattan-records,manhattan-records,UNK
+Manhattan,25557493,116,112,,"http://en.wikipedia.org/wiki/Manhattan,_AZ","Manhattan, AZ",manhattan-az,manhattan-az,UNK
+Manhattan,38562076,82,104,645042,http://en.wikipedia.org/wiki/Manhattan_(Once_Upon_a_Time),Manhattan,manhattan,manhattan-once-upon-a-time,UNK
+Manhattan,102879,107,100,9500341,"http://en.wikipedia.org/wiki/Manhattan,_Illinois","Manhattan, Illinois",manhattan-illinois,manhattan-illinois,GPE
+Manhattan,28636256,36,56,,"http://en.wikipedia.org/wiki/Manhattan_Beach,_Oregon","Manhattan Beach, Oregon",manhattan-beach-oregon,manhattan-beach-oregon,UNK
+Manhattan,9500341,85,334,102879,"http://en.wikipedia.org/wiki/Manhattan_Township,_Will_County,_Illinois","Manhattan Township, Will County, Illinois",manhattan-township-will-county-illinois,manhattan-township-will-county-illinois,UNK
+Manhattan,3992839,22,73,45470;16569044,http://en.wikipedia.org/wiki/USS_Manhattan_(1863),USS Manhattan,uss-manhattan,uss-manhattan-1863,UNK
+Manhattan,384805,284,193,311782;1440202;1813418;45470;645042,http://en.wikipedia.org/wiki/Manhattan_Bridge,Manhattan Bridge,manhattan-bridge,manhattan-bridge,UNK
+Manhattan,123393,59,49,,"http://en.wikipedia.org/wiki/Manhattan,_Montana","Manhattan, Montana",manhattan-montana,manhattan-montana,GPE
+Manhattan,655484,95,104,8210131,http://en.wikipedia.org/wiki/Manhattan_Mall,Manhattan Mall,manhattan-mall,manhattan-mall,UNK
+Manhattan,963506,148,128,9137293;645042,"http://en.wikipedia.org/wiki/Manhattan_Beach,_Brooklyn","Manhattan Beach, Brooklyn",manhattan-beach-brooklyn,manhattan-beach-brooklyn,UNK
+Manhattan,119867,58,89,,"http://en.wikipedia.org/wiki/Manhattan_Beach,_Minnesota","Manhattan Beach, Minnesota",manhattan-beach-minnesota,manhattan-beach-minnesota,GPE
+Manhattan,19768752,39,24,,http://en.wikipedia.org/wiki/Manhattan_Theatre,Manhattan Theatre,manhattan-theatre,manhattan-theatre,UNK
+Manhattan,18542488,9,20,,http://en.wikipedia.org/wiki/Dr_Manhattan_(band),Dr Manhattan,dr-manhattan,dr-manhattan-band,PER
+Manhattan,5895146,126,188,,"http://en.wikipedia.org/wiki/Manhattan_Building_(Chicago,_Illinois)",Manhattan Building,manhattan-building,manhattan-building-chicago-illinois,UNK
+Manhattan,1633430,121,133,45470;645042;265585,http://en.wikipedia.org/wiki/Manhattan_Valley,Manhattan Valley,manhattan-valley,manhattan-valley,UNK
+Manhattan,3182248,63,71,3182248,http://en.wikipedia.org/wiki/The_Phantom_of_Manhattan,The Phantom of Manhattan,the-phantom-of-manhattan,the-phantom-of-manhattan,UNK
+Manhattan,20879,100,99,45470;645042,http://en.wikipedia.org/wiki/Manhattan_(cocktail),Manhattan,manhattan,manhattan-cocktail,UNK
+Manhattan,42511676,46,50,,"http://en.wikipedia.org/wiki/Manhattan,_Florida","Manhattan, Florida",manhattan-florida,manhattan-florida,UNK
+Manhattan,16569044,6,2,26387221;3992839,http://en.wikipedia.org/wiki/USS_Manhattan,USS Manhattan,uss-manhattan,uss-manhattan,UNK
+Manhattan,4865862,51,65,45470,http://en.wikipedia.org/wiki/Little_Manhattan,Little Manhattan,little-manhattan,little-manhattan,UNK
+Manhattan,1878161,33,53,,"http://en.wikipedia.org/wiki/Manhattan,_Colorado","Manhattan, Colorado",manhattan-colorado,manhattan-colorado,GPE
+Manhattan,15656845,5,90,,"http://en.wikipedia.org/wiki/Manhattan_Building_(Muskogee,_Oklahoma)",Manhattan Building,manhattan-building,manhattan-building-muskogee-oklahoma,UNK
+Manhattan,16726071,2,216,150444,"http://en.wikipedia.org/wiki/Manhattan,_Kansas_metropolitan_area","Manhattan, Kansas metropolitan area",manhattan-kansas-metropolitan-area,manhattan-kansas-metropolitan-area,UNK
+Manhattan,107656,561,507,45470,"http://en.wikipedia.org/wiki/Manhattan_Beach,_California","Manhattan Beach, California",manhattan-beach-california,manhattan-beach-california,GPE
+Manhattan,26387221,82,96,16569044;45470,http://en.wikipedia.org/wiki/USS_Manhattan_(YTB-779),USS Manhattan,uss-manhattan,uss-manhattan-ytb-779,UNK
+Manhattan,25283669,21,44,45470;645042,http://en.wikipedia.org/wiki/Manhattan_Limited,Manhattan Limited,manhattan-limited,manhattan-limited,UNK
+Grand Slams,197638,7843,537,5843419;20599016;82729;300468;1028366;645042;2989618;784152;5166586;26667;91195;3880857,http://en.wikipedia.org/wiki/Grand_Slam_(tennis),Grand Slam,grand-slam,grand-slam-tennis,UNK
+Grand Slams,3933705,387,177,5843419;955656,http://en.wikipedia.org/wiki/Grand_Slam_(rugby_union),Grand Slam,grand-slam,grand-slam-rugby-union,ORG
+Grand Slams,2989618,820,379,197638,http://en.wikipedia.org/wiki/Grand_slam_(baseball),Grand slam,grand-slam,grand-slam-baseball,UNK
+Monica Seles,300468,834,432,91195;197638;5843419;82729;1028366;26667;784152,http://en.wikipedia.org/wiki/Monica_Seles,Monica Seles,monica-seles,monica-seles,PER
+Barcelona,4443,14085,1081,15507196;5843419;4443;143468;68187;14288105;24763114;3409591;8520318;20715108;2098750;1545170;645042;784152;61406;33571114;26667;1167667;20443577,http://en.wikipedia.org/wiki/Barcelona,Barcelona,barcelona,barcelona,GPE
+Barcelona,25569672,6,9,,"http://en.wikipedia.org/wiki/Barcelona,_Rio_Grande_do_Norte","Barcelona, Rio Grande do Norte",barcelona-rio-grande-do-norte,barcelona-rio-grande-do-norte,UNK
+Barcelona,18450352,10,29,18155959,http://en.wikipedia.org/wiki/Barcelona_(indie_rock_band),Barcelona,barcelona,barcelona-indie-rock-band,UNK
+Barcelona,3409591,438,85,4443;5843419;26667,http://en.wikipedia.org/wiki/County_of_Barcelona,County of Barcelona,county-of-barcelona,county-of-barcelona,GPE
+Barcelona,143468,756,376,4443;28214781;26667,http://en.wikipedia.org/wiki/Province_of_Barcelona,Province of Barcelona,province-of-barcelona,province-of-barcelona,UNK
+Barcelona,2098750,59,32,4443,"http://en.wikipedia.org/wiki/Barcelona,_Sorsogon","Barcelona, Sorsogon",barcelona-sorsogon,barcelona-sorsogon,UNK
+Barcelona,15507196,3,14,4443,http://en.wikipedia.org/wiki/Barcelona_Mass,Barcelona Mass,barcelona-mass,barcelona-mass,UNK
+Barcelona,21287947,1,1,28214781,http://en.wikipedia.org/wiki/Barcelona_Province,Barcelona Province,barcelona-province,barcelona-province,GPE
+Barcelona,1545170,99,82,4443;26667;28214781,"http://en.wikipedia.org/wiki/Barcelona,_Anzoátegui","Barcelona, Anzoátegui",barcelona-anzoategui,barcelona-anzoategui,UNK
+Barcelona,18155959,11,20,18450352,http://en.wikipedia.org/wiki/Barcelona_(band),Barcelona,barcelona,barcelona-band,UNK
+Barcelona,20443577,5,108,4443;68187,"http://en.wikipedia.org/wiki/Barcelona,_Cornwall","Barcelona, Cornwall",barcelona-cornwall,barcelona-cornwall,GPE
+Barcelona,16223536,2,3,,"http://en.wikipedia.org/wiki/Barcelona,_Aruba","Barcelona, Aruba",barcelona-aruba,barcelona-aruba,GPE
+Barcelona,33571114,11,11,4443;26667,http://en.wikipedia.org/wiki/W_Barcelona,W Barcelona,w-barcelona,w-barcelona,UNK
+Barcelona,61406,583,336,4443;5843419;26667,http://en.wikipedia.org/wiki/University_of_Barcelona,University of Barcelona,university-of-barcelona,university-of-barcelona,ORG
+Barcelona,24763114,171,117,4443;26667;68187;36638162,http://en.wikipedia.org/wiki/FC_Barcelona_(women),FC Barcelona,fc-barcelona,fc-barcelona-women,UNK
+Barcelona,1167667,499,153,4443;68187,http://en.wikipedia.org/wiki/Barcelona_Sporting_Club,Barcelona Sporting Club,barcelona-sporting-club,barcelona-sporting-club,UNK
+Barcelona,36638162,64,57,24763114;68187;26667,http://en.wikipedia.org/wiki/FC_Barcelona_(beach_soccer),FC Barcelona,fc-barcelona,fc-barcelona-beach-soccer,ORG
+Barcelona,28214781,5,15,1545170;143468;21287947,http://en.wikipedia.org/wiki/Barcelona_Province_(Venezuela),Barcelona Province,barcelona-province,barcelona-province-venezuela,UNK
+Barcelona,8520318,14,29,4443,http://en.wikipedia.org/wiki/Barcelona_(Tarrafal),Barcelona,barcelona,barcelona-tarrafal,UNK
+Barcelona,8584792,0,169,8210131,http://en.wikipedia.org/wiki/Barcelona_Light,Barcelona Light,barcelona-light,barcelona-light,UNK
+Barcelona,20715108,2,10,4443,http://en.wikipedia.org/wiki/A_Barcelona,A Barcelona,a-barcelona,a-barcelona,UNK
+Barcelona,68187,3993,675,24763114;36638162;39446814;5843419;26667;1167667;4443;20443577;68187,http://en.wikipedia.org/wiki/FC_Barcelona,FC Barcelona,fc-barcelona,fc-barcelona,ORG
+Barcelona,14288105,80,140,4443;26667,http://en.wikipedia.org/wiki/Barcelona_(Spanish_Congress_Electoral_District),Barcelona,barcelona,barcelona-spanish-congress-electoral-district,UNK

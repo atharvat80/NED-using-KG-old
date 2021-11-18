@@ -1,0 +1,26 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+SCHUMACHER,20396,1129,947,10854;948477,http://en.wikipedia.org/wiki/Michael_Schumacher,Michael Schumacher,michael-schumacher,michael-schumacher,PER
+BRUSSELS,3708,11851,706,18360207;1459417;3343;3708;269753;575501;28195378;27931386;410720;4318956,http://en.wikipedia.org/wiki/Brussels,Brussels,brussels,brussels,GPE
+BRUSSELS,1459417,22,24,3343;3708,http://en.wikipedia.org/wiki/Brussels_Park,Brussels Park,brussels-park,brussels-park,UNK
+BRUSSELS,28439418,49,63,138956,"http://en.wikipedia.org/wiki/Brussels_(community),_Wisconsin","Brussels (community), Wisconsin",brussels-community-wisconsin,brussels-community-wisconsin,GPE
+BRUSSELS,110853,44,56,,"http://en.wikipedia.org/wiki/Brussels,_Illinois","Brussels, Illinois",brussels-illinois,brussels-illinois,GPE
+BRUSSELS,27931386,48,110,3708;3343,http://en.wikipedia.org/wiki/District_of_Brussels,District of Brussels,district-of-brussels,district-of-brussels,UNK
+BRUSSELS,269753,596,457,575501;3343;28195378;3708;4318956,http://en.wikipedia.org/wiki/Brussels_Airport,Brussels Airport,brussels-airport,brussels-airport,UNK
+BRUSSELS,138956,61,80,28439418,"http://en.wikipedia.org/wiki/Brussels,_Wisconsin","Brussels, Wisconsin",brussels-wisconsin,brussels-wisconsin,GPE
+BRUSSELS,410720,96,101,3708;3343,http://en.wikipedia.org/wiki/Brussels_sprout,Brussels sprout,brussels-sprout,brussels-sprout,UNK
+BRUSSELS,232832,25,25,,"http://en.wikipedia.org/wiki/Brussels,_Ontario","Brussels, Ontario",brussels-ontario,brussels-ontario,GPE
+BRUSSELS,4547759,8,13,,http://en.wikipedia.org/wiki/Brussels_cheese,Brussels cheese,brussels-cheese,brussels-cheese,UNK
+BRUSSELS,4318956,462,343,269753;3343;3708,http://en.wikipedia.org/wiki/Brussels_Airlines,Brussels Airlines,brussels-airlines,brussels-airlines,ORG
+BRUSSELS,29334066,2,17,,http://en.wikipedia.org/wiki/Brussels_II,Brussels II,brussels-ii,brussels-ii,UNK
+BRUSSELS,575501,203,76,269753;28195378;3708;3343,http://en.wikipedia.org/wiki/City_of_Brussels,City of Brussels,city-of-brussels,city-of-brussels,UNK
+BRUSSELS,28195378,170,130,269753;3708;575501;3343,http://en.wikipedia.org/wiki/Brussels_International_(1897),Brussels International,brussels-international,brussels-international-1897,PER
+Michael Schumacher,20396,1129,947,10854;948477,http://en.wikipedia.org/wiki/Michael_Schumacher,Michael Schumacher,michael-schumacher,michael-schumacher,PER
+Belgian,3343,55772,902,31064861;3343;3708;410720;269753;575501;659438;1459417;4318956;12152672;18360207;28195378;27931386,http://en.wikipedia.org/wiki/Belgium,Belgium,belgium,belgium,GPE
+Belgian,659438,13,94,659438;3343,http://en.wikipedia.org/wiki/Belgian_horse,Belgian horse,belgian-horse,belgian-horse,UNK
+Belgian,31064861,31,183,3343,http://en.wikipedia.org/wiki/Belgian_Building,Belgian Building,belgian-building,belgian-building,UNK
+Belgian,12152672,4,96,3343,http://en.wikipedia.org/wiki/Belgian_International,Belgian International,belgian-international,belgian-international,UNK
+Formula One Grand Prix,10854,7051,865,948477;20396;10854,http://en.wikipedia.org/wiki/Formula_One,Formula One,formula-one,formula-one,UNK
+Spa-Francorchamps,948477,1558,305,10854;20396,http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps,Circuit de Spa-Francorchamps,circuit-de-spa-francorchamps,circuit-de-spa-francorchamps,UNK
+Belga,18360207,44,7,3708;3343,http://en.wikipedia.org/wiki/Belga_(news_agency),Belga,belga,belga-news-agency,UNK
+Belga,53205,32,55,53205,http://en.wikipedia.org/wiki/The_Belgariad,The Belgariad,the-belgariad,the-belgariad,UNK
+Schumacher,20396,1129,947,10854;948477,http://en.wikipedia.org/wiki/Michael_Schumacher,Michael Schumacher,michael-schumacher,michael-schumacher,PER

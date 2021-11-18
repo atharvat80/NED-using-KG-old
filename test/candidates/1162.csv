@@ -1,0 +1,27 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Dhaka,4450516,250,235,4233263;56656;32819303,http://en.wikipedia.org/wiki/Dhaka_Stock_Exchange,Dhaka Stock Exchange,dhaka-stock-exchange,dhaka-stock-exchange,UNK
+Dhaka,2669680,126,85,56656,http://en.wikipedia.org/wiki/Dhaka_College,Dhaka College,dhaka-college,dhaka-college,ORG
+Dhaka,5647189,208,247,,http://en.wikipedia.org/wiki/Dhaka_clan,Dhaka clan,dhaka-clan,dhaka-clan,UNK
+Dhaka,4233263,271,169,56656;403946;4450516,http://en.wikipedia.org/wiki/Dhaka_District,Dhaka District,dhaka-district,dhaka-district,UNK
+Dhaka,10137679,12,10,25360214;56656,http://en.wikipedia.org/wiki/Dhaka_Club,Dhaka Club,dhaka-club,dhaka-club,UNK
+Dhaka,32819303,600,263,56656;4450516;403946;32819303,http://en.wikipedia.org/wiki/University_of_Dhaka,University of Dhaka,university-of-dhaka,university-of-dhaka,ORG
+Dhaka,9184959,2,10,56656,http://en.wikipedia.org/wiki/Dhaka_(village),Dhaka,dhaka,dhaka-village,UNK
+Dhaka,56656,3658,560,25360214;2669680;10137679;403946;10044913;15269266;56656;32819303;9184959;4233263;4450516,http://en.wikipedia.org/wiki/Dhaka,Dhaka,dhaka,dhaka,GPE
+Dhaka,15269266,2,5,56656,http://en.wikipedia.org/wiki/Dhaka_Regency,Dhaka Regency,dhaka-regency,dhaka-regency,UNK
+Dhaka,10044913,37,16,56656,"http://en.wikipedia.org/wiki/Dhaka,_East_Champaran","Dhaka, East Champaran",dhaka-east-champaran,dhaka-east-champaran,UNK
+Dhaka,403946,547,89,4233263;56656;32819303,http://en.wikipedia.org/wiki/Dhaka_Division,Dhaka Division,dhaka-division,dhaka-division,UNK
+Dhaka,25360214,29,32,10137679;56656,http://en.wikipedia.org/wiki/Old_Dhaka,Old Dhaka,old-dhaka,old-dhaka,UNK
+DHAKA,56656,3658,560,25360214;2669680;10137679;403946;10044913;15269266;56656;32819303;9184959;4233263;4450516,http://en.wikipedia.org/wiki/Dhaka,Dhaka,dhaka,dhaka,GPE
+DHAKA,2669680,126,85,56656,http://en.wikipedia.org/wiki/Dhaka_College,Dhaka College,dhaka-college,dhaka-college,ORG
+DHAKA,5647189,208,247,,http://en.wikipedia.org/wiki/Dhaka_clan,Dhaka clan,dhaka-clan,dhaka-clan,UNK
+DHAKA,4233263,271,169,56656;403946;4450516,http://en.wikipedia.org/wiki/Dhaka_District,Dhaka District,dhaka-district,dhaka-district,UNK
+DHAKA,10137679,12,10,25360214;56656,http://en.wikipedia.org/wiki/Dhaka_Club,Dhaka Club,dhaka-club,dhaka-club,UNK
+DHAKA,32819303,600,263,56656;4450516;403946;32819303,http://en.wikipedia.org/wiki/University_of_Dhaka,University of Dhaka,university-of-dhaka,university-of-dhaka,ORG
+DHAKA,9184959,2,10,56656,http://en.wikipedia.org/wiki/Dhaka_(village),Dhaka,dhaka,dhaka-village,UNK
+DHAKA,15269266,2,5,56656,http://en.wikipedia.org/wiki/Dhaka_Regency,Dhaka Regency,dhaka-regency,dhaka-regency,UNK
+DHAKA,10044913,37,16,56656,"http://en.wikipedia.org/wiki/Dhaka,_East_Champaran","Dhaka, East Champaran",dhaka-east-champaran,dhaka-east-champaran,UNK
+DHAKA,403946,547,89,4233263;56656;32819303,http://en.wikipedia.org/wiki/Dhaka_Division,Dhaka Division,dhaka-division,dhaka-division,UNK
+DHAKA,25360214,29,32,10137679;56656,http://en.wikipedia.org/wiki/Old_Dhaka,Old Dhaka,old-dhaka,old-dhaka,UNK
+Dhaka Stock Exchange,4450516,250,235,4233263;56656;32819303,http://en.wikipedia.org/wiki/Dhaka_Stock_Exchange,Dhaka Stock Exchange,dhaka-stock-exchange,dhaka-stock-exchange,UNK
+DSE,15246031,1,23,,http://en.wikipedia.org/wiki/DSE_(gene),DSE,dse,dse-gene,UNK
+Moslem,6037917,20084,792,6037917,http://en.wikipedia.org/wiki/Islam,Islam,islam,islam,UNK

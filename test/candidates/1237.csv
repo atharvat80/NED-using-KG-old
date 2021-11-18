@@ -1,0 +1,22 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+USDA,70896,3262,158,70896,http://en.wikipedia.org/wiki/United_States_Department_of_Agriculture,United States Department of Agriculture,united-states-department-of-agriculture,united-states-department-of-agriculture,ORG
+USDA,10485260,79,152,,http://en.wikipedia.org/wiki/U.S.D.A_(group),U.S.D.A,usda,usda-group,UNK
+DES MOINES,15631635,0,6,41744924;16456299;42096466;42141782;14589644,http://en.wikipedia.org/wiki/Des_Moines_Township,Des Moines Township,des-moines-township,des-moines-township,GPE
+DES MOINES,1371941,93,67,9163,http://en.wikipedia.org/wiki/Des_Moines_International_Airport,Des Moines International Airport,des-moines-international-airport,des-moines-international-airport,UNK
+DES MOINES,434235,4,10,9163;562293;1096918,http://en.wikipedia.org/wiki/USS_Des_Moines,USS Des Moines,uss-des-moines,uss-des-moines,UNK
+DES MOINES,41377672,3,81,9163,http://en.wikipedia.org/wiki/Des_Moines_Building,Des Moines Building,des-moines-building,des-moines-building,UNK
+DES MOINES,562293,24,49,434235;9163,http://en.wikipedia.org/wiki/USS_Des_Moines_(CA-134),USS Des Moines,uss-des-moines,uss-des-moines-ca-134,UNK
+DES MOINES,42141782,30,36,15631635;458242,"http://en.wikipedia.org/wiki/Des_Moines_Township,_Pocahontas_County,_Iowa","Des Moines Township, Pocahontas County, Iowa",des-moines-township-pocahontas-county-iowa,des-moines-township-pocahontas-county-iowa,GPE
+DES MOINES,120371,28,57,,"http://en.wikipedia.org/wiki/Des_Moines_Township,_Jackson_County,_Minnesota","Des Moines Township, Jackson County, Minnesota",des-moines-township-jackson-county-minnesota,des-moines-township-jackson-county-minnesota,GPE
+DES MOINES,16456299,40,50,15631635,"http://en.wikipedia.org/wiki/Des_Moines_Township,_Dallas_County,_Iowa","Des Moines Township, Dallas County, Iowa",des-moines-township-dallas-county-iowa,des-moines-township-dallas-county-iowa,GPE
+DES MOINES,458242,210,66,42141782;96010;9163,http://en.wikipedia.org/wiki/Des_Moines_River,Des Moines River,des-moines-river,des-moines-river,UNK
+DES MOINES,9163,2945,599,41377672;96010;434235;1371941;562293;126060;25206837;1809066;1096918;458242;137991,"http://en.wikipedia.org/wiki/Des_Moines,_Iowa","Des Moines, Iowa",des-moines-iowa,des-moines-iowa,GPE
+DES MOINES,41744924,4,3,15631635,"http://en.wikipedia.org/wiki/Des_Moines_Township,_Lee_County,_Iowa","Des Moines Township, Lee County, Iowa",des-moines-township-lee-county-iowa,des-moines-township-lee-county-iowa,GPE
+DES MOINES,126060,20,34,9163,"http://en.wikipedia.org/wiki/Des_Moines,_New_Mexico","Des Moines, New Mexico",des-moines-new-mexico,des-moines-new-mexico,GPE
+DES MOINES,25206837,14,4,9163;1809066,http://en.wikipedia.org/wiki/Des_Moines_College,Des Moines College,des-moines-college,des-moines-college,ORG
+DES MOINES,42096466,40,46,15631635,"http://en.wikipedia.org/wiki/Des_Moines_Township,_Jasper_County,_Iowa","Des Moines Township, Jasper County, Iowa",des-moines-township-jasper-county-iowa,des-moines-township-jasper-county-iowa,GPE
+DES MOINES,1096918,18,69,434235;9163,http://en.wikipedia.org/wiki/USS_Des_Moines_(CL-17),USS Des Moines,uss-des-moines,uss-des-moines-cl-17,UNK
+DES MOINES,96010,312,216,458242;96010;9163,"http://en.wikipedia.org/wiki/Des_Moines_County,_Iowa","Des Moines County, Iowa",des-moines-county-iowa,des-moines-county-iowa,GPE
+DES MOINES,1809066,105,123,9163;25206837,http://en.wikipedia.org/wiki/Des_Moines_University,Des Moines University,des-moines-university,des-moines-university,ORG
+DES MOINES,137991,181,387,9163,"http://en.wikipedia.org/wiki/Des_Moines,_Washington","Des Moines, Washington",des-moines-washington,des-moines-washington,GPE
+DES MOINES,14589644,33,44,15631635,"http://en.wikipedia.org/wiki/Des_Moines_Township,_Boone_County,_Iowa","Des Moines Township, Boone County, Iowa",des-moines-township-boone-county-iowa,des-moines-township-boone-county-iowa,GPE

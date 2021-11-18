@@ -1,0 +1,452 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+CHRISTIE,67118,420,360,67127;67116;67299;5042916;31717;46827;22576;71410;72311;4037245,http://en.wikipedia.org/wiki/Linford_Christie,Linford Christie,linford-christie,linford-christie,PER
+CHRISTIE,4037245,32,13,22576;67118;31717,http://en.wikipedia.org/wiki/Linford_Christie_Stadium,Linford Christie Stadium,linford-christie-stadium,linford-christie-stadium,UNK
+JOHNSON,24877119,2,8,,http://en.wikipedia.org/wiki/USS_Johnson,USS Johnson,uss-johnson,uss-johnson,UNK
+JOHNSON,37792935,80,95,3434750,"http://en.wikipedia.org/wiki/Johnson,_Kentucky","Johnson, Kentucky",johnson-kentucky,johnson-kentucky,UNK
+JOHNSON,12269302,8,14,1841398,http://en.wikipedia.org/wiki/Al_Johnson_(politician),Al Johnson,al-johnson,al-johnson-politician,PER
+JOHNSON,1115804,2,32,1318854;27761288;22992277;25025144;7722710,http://en.wikipedia.org/wiki/Edward_Johnson,Edward Johnson,edward-johnson,edward-johnson,PER
+JOHNSON,4677785,11,4,,http://en.wikipedia.org/wiki/Don_Johnson_(sports_executive),Don Johnson,don-johnson,don-johnson-sports-executive,PER
+JOHNSON,13449698,117,107,,http://en.wikipedia.org/wiki/Johnson_family,Johnson family,johnson-family,johnson-family,PER
+JOHNSON,21469239,45,49,31717;8033999,http://en.wikipedia.org/wiki/Arthur_Johnson_(rugby_league),Arthur Johnson,arthur-johnson,arthur-johnson-rugby-league,UNK
+JOHNSON,36069398,26,37,3434750,"http://en.wikipedia.org/wiki/Johnson,_West_Virginia","Johnson, West Virginia",johnson-west-virginia,johnson-west-virginia,GPE
+JOHNSON,260232,22,45,3434750,"http://en.wikipedia.org/wiki/Johnson_(town),_Vermont","Johnson (town), Vermont",johnson-town-vermont,johnson-town-vermont,GPE
+JOHNSON,24190749,10,12,,http://en.wikipedia.org/wiki/Chief_Johnson,Chief Johnson,chief-johnson,chief-johnson,PER
+JOHNSON,4631409,47,71,5042916;75763,"http://en.wikipedia.org/wiki/Johnson,_Ontario","Johnson, Ontario",johnson-ontario,johnson-ontario,GPE
+JOHNSON,6815418,3,10,5042916,http://en.wikipedia.org/wiki/Johnson_Bay,Johnson Bay,johnson-bay,johnson-bay,UNK
+JOHNSON,15056008,0,33,,http://en.wikipedia.org/wiki/Johnson_Township,Johnson Township,johnson-township,johnson-township,GPE
+JOHNSON,37109790,1,13,3434750,"http://en.wikipedia.org/wiki/Johnson,_Drake_&_Piper,_Inc.","Johnson, Drake & Piper, Inc.",johnson-drake-piper-inc,johnson-drake-piper-inc,ORG
+JOHNSON,3551581,8,12,3434750,http://en.wikipedia.org/wiki/Johnson_Island,Johnson Island,johnson-island,johnson-island,UNK
+JOHNSON,22582057,220,222,3434750,"http://en.wikipedia.org/wiki/Johnson,_California","Johnson, California",johnson-california,johnson-california,UNK
+JOHNSON,30357096,20,16,,http://en.wikipedia.org/wiki/Johnson_(rapper),Johnson,johnson,johnson-rapper,PER
+JOHNSON,38466099,3,11,8033999;22455244,http://en.wikipedia.org/wiki/Arthur_Johnson_(footballer_born_1886),Arthur Johnson,arthur-johnson,arthur-johnson-footballer-born-1886,PER
+JOHNSON,38269822,1,9,,http://en.wikipedia.org/wiki/Lake_Johnson,Lake Johnson,lake-johnson,lake-johnson,UNK
+JOHNSON,5489449,27,41,3434750,http://en.wikipedia.org/wiki/General_Johnson,General Johnson,general-johnson,general-johnson,UNK
+JOHNSON,22992277,3,12,1115804,http://en.wikipedia.org/wiki/Edward_Johnson_(British_politician),Edward Johnson,edward-johnson,edward-johnson-british-politician,PER
+JOHNSON,691602,66,89,691602,http://en.wikipedia.org/wiki/Mr._Johnson_(Sesame_Street),Mr. Johnson,mr-johnson,mr-johnson-sesame-street,UNK
+JOHNSON,2327783,216,253,311346,http://en.wikipedia.org/wiki/Johnson_(composer),Johnson,johnson,johnson-composer,UNK
+JOHNSON,11638033,1,13,11638033,http://en.wikipedia.org/wiki/Johnson_Architecture,Johnson Architecture,johnson-architecture,johnson-architecture,UNK
+JOHNSON,3705113,32,37,1841398;138956,http://en.wikipedia.org/wiki/Al_Johnson_(guard),Al Johnson,al-johnson,al-johnson-guard,UNK
+JOHNSON,311346,68,45,9239;2327783;3434750,http://en.wikipedia.org/wiki/Johnson,Johnson,johnson,johnson,UNK
+JOHNSON,27761288,10,14,1115804,http://en.wikipedia.org/wiki/Edward_Johnson_(footballer_born_1860),Edward Johnson,edward-johnson,edward-johnson-footballer-born-1860,PER
+JOHNSON,15185357,22,20,8033999;3434750,http://en.wikipedia.org/wiki/Arthur_Johnson_(boxer),Arthur Johnson,arthur-johnson,arthur-johnson-boxer,PER
+JOHNSON,62451,7,5,,http://en.wikipedia.org/wiki/Johnson_City,Johnson City,johnson-city,johnson-city,UNK
+JOHNSON,23222127,137,154,23222629;3434750,"http://en.wikipedia.org/wiki/Johnson,_Delaware","Johnson, Delaware",johnson-delaware,johnson-delaware,UNK
+JOHNSON,20320792,2,9,20320792,http://en.wikipedia.org/wiki/Johnson_Family,Johnson Family,johnson-family,johnson-family,UNK
+JOHNSON,1841398,1,7,12269302;15915717;3705113,http://en.wikipedia.org/wiki/Al_Johnson,Al Johnson,al-johnson,al-johnson,PER
+JOHNSON,25025144,2,9,1115804;31717,http://en.wikipedia.org/wiki/Edward_Johnson_(actor),Edward Johnson,edward-johnson,edward-johnson-actor,PER
+JOHNSON,22455244,1,18,22927731;8033999;38466099,http://en.wikipedia.org/wiki/Arthur_Johnson_(footballer_born_1904),Arthur Johnson,arthur-johnson,arthur-johnson-footballer-born-1904,PER
+JOHNSON,7722710,38,46,5042916;1115804,http://en.wikipedia.org/wiki/Edward_Johnson_(tenor),Edward Johnson,edward-johnson,edward-johnson-tenor,PER
+JOHNSON,23324639,5,6,729870;3434750,http://en.wikipedia.org/wiki/Johnson_(footballer),Johnson,johnson,johnson-footballer,PER
+JOHNSON,22927731,3,10,8033999;22455244,http://en.wikipedia.org/wiki/Arthur_Johnson_(footballer_born_1933),Arthur Johnson,arthur-johnson,arthur-johnson-footballer-born-1933,PER
+JOHNSON,541803,1,13,,http://en.wikipedia.org/wiki/Johnson_County,Johnson County,johnson-county,johnson-county,UNK
+JOHNSON,1318854,8,14,3434750;1115804,"http://en.wikipedia.org/wiki/Edward_Johnson,_III","Edward Johnson, III",edward-johnson-iii,edward-johnson-iii,PER
+JOHNSON,9449449,175,182,5042916,http://en.wikipedia.org/wiki/Johnson_(electoral_district),Johnson,johnson,johnson-electoral-district,UNK
+JOHNSON,277416,26,35,,http://en.wikipedia.org/wiki/Prince_Johnson,Prince Johnson,prince-johnson,prince-johnson,PER
+JOHNSON,4460288,21,19,3434750;4460288,http://en.wikipedia.org/wiki/Johnson_College,Johnson College,johnson-college,johnson-college,UNK
+JOHNSON,24131746,2,4,5042916;8033999,http://en.wikipedia.org/wiki/Arthur_Johnson_(canoeist),Arthur Johnson,arthur-johnson,arthur-johnson-canoeist,PER
+JOHNSON,23544719,2,7,3434750,http://en.wikipedia.org/wiki/Johnson_River_(Minnesota),Johnson River,johnson-river,johnson-river-minnesota,UNK
+JOHNSON,15915717,14,12,1841398;5042916,http://en.wikipedia.org/wiki/Al_Johnson_(ice_hockey),Al Johnson,al-johnson,al-johnson-ice-hockey,PER
+JOHNSON,36034872,115,132,3434750,"http://en.wikipedia.org/wiki/Johnson_(community),_Wisconsin","Johnson (community), Wisconsin",johnson-community-wisconsin,johnson-community-wisconsin,GPE
+JOHNSON,8990731,64,57,8033999,http://en.wikipedia.org/wiki/Arthur_Johnson_(manager),Arthur Johnson,arthur-johnson,arthur-johnson-manager,PER
+JOHNSON,8033999,2,16,21469239;8990731;22927731;24131746;15185357;22455244;38466099,http://en.wikipedia.org/wiki/Arthur_Johnson,Arthur Johnson,arthur-johnson,arthur-johnson,PER
+JOHNSON,13005809,27,12,,http://en.wikipedia.org/wiki/Don_Johnson_(bowler),Don Johnson,don-johnson,don-johnson-bowler,PER
+JOHNSON,38899977,1,7,,http://en.wikipedia.org/wiki/Johnson_(1801_cricketer),Johnson,johnson,johnson-1801-cricketer,PER
+OWENS,46827,561,384,67127;67118;67116;67299;22576;653621;27566;3434750;21212;895667;39721;1243315,http://en.wikipedia.org/wiki/Jesse_Owens,Jesse Owens,jesse-owens,jesse-owens,UNK
+BONN,3295,3084,310,3434750;9483;33170;11867;89061;3354;3708;17271126;21212;31717,http://en.wikipedia.org/wiki/Bonn,Bonn,bonn,bonn,GPE
+BONN,89061,1156,184,3295;11884;11867;89061,http://en.wikipedia.org/wiki/University_of_Bonn,University of Bonn,university-of-bonn,university-of-bonn,ORG
+Britain,31717,184306,1536,3295;3138;3354;3708;5195;9239;9483;11867;13525;22576;27566;31717;33170;39721;5042916;5334607;304821;25025144;71410;72311;67127;67118;67299;4096888;914151;75763;87187;83410;7514548;14244631;653621;21469239;11787932;595137;26450398;1856192;855087;17271126;2920565;412419;410720;4037245;158019;409543;35946155;715265;406269;152256;1559449;10505271;13530298;1187515;480153;3434750;17416221;6174697;461232;729870,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+Britain,158019,6631,401,13530298;3434750;158019;6999;1110101;9239;6174697;17271126;27067;65508;152256;13525;31717,http://en.wikipedia.org/wiki/Kingdom_of_Great_Britain,Kingdom of Great Britain,kingdom-of-great-britain,kingdom-of-great-britain,GPE
+Britain,25191544,6,11,,http://en.wikipedia.org/wiki/Mr._Britain,Mr. Britain,mr-britain,mr-britain,UNK
+Britain,38279445,148,154,3434750,"http://en.wikipedia.org/wiki/Little_Britain,_Pennsylvania","Little Britain, Pennsylvania",little-britain-pennsylvania,little-britain-pennsylvania,GPE
+Britain,12386536,24,23,,"http://en.wikipedia.org/wiki/Little_Britain,_London","Little Britain, London",little-britain-london,little-britain-london,GPE
+Britain,412419,404,297,31717;412419,http://en.wikipedia.org/wiki/Captain_Britain,Captain Britain,captain-britain,captain-britain,UNK
+Britain,409543,134,241,31717,http://en.wikipedia.org/wiki/New_Communist_Party_of_Britain,New Communist Party of Britain,new-communist-party-of-britain,new-communist-party-of-britain,UNK
+Britain,1185144,86,82,,"http://en.wikipedia.org/wiki/Little_Britain,_New_York","Little Britain, New York",little-britain-new-york,little-britain-new-york,UNK
+Britain,152256,8595,755,13530298;729870;158019;1335869;83410;5334607;17416221;9239;27566;17271126;152256;13525;31717,http://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland,United Kingdom of Great Britain and Ireland,united-kingdom-of-great-britain-and-ireland,united-kingdom-of-great-britain-and-ireland,GPE
+Britain,17271126,68,172,3295;158019;13530298;152256;31717;13525,http://en.wikipedia.org/wiki/Britain_(placename),Britain,britain,britain-placename,UNK
+Britain,13525,2496,556,13530298;152256;13525;468634;158019;31717;17271126,http://en.wikipedia.org/wiki/Roman_Britain,Roman Britain,roman-britain,roman-britain,ORG
+Britain,3365792,82,95,3434750,"http://en.wikipedia.org/wiki/Britain,_Virginia","Britain, Virginia",britain-virginia,britain-virginia,GPE
+Britain,20823802,57,65,,"http://en.wikipedia.org/wiki/Britain,_Australia_and_the_Bomb","Britain, Australia and the Bomb",britain-australia-and-the-bomb,britain-australia-and-the-bomb,UNK
+Britain,7954202,68,60,5042916,"http://en.wikipedia.org/wiki/Little_Britain,_Ontario","Little Britain, Ontario",little-britain-ontario,little-britain-ontario,UNK
+Britain,480153,370,113,5042916;31717;11867;3434750,http://en.wikipedia.org/wiki/Little_Britain,Little Britain,little-britain,little-britain,UNK
+Britain,13530298,15528,510,1187515;9239;755102;13525;158019;22576;17271126;65508;152256;653621;31717,http://en.wikipedia.org/wiki/Great_Britain,Great Britain,great-britain,great-britain,UNK
+Olympic,27566,5559,660,5042916;113362;71410;3434750;729870;72311;3138;11867;3354;1856192;152256;39721;1243315;67116;178749;595137;21212;31717;46827;22576;1233952;77745;77741,http://en.wikipedia.org/wiki/Summer_Olympic_Games,Summer Olympic Games,summer-olympic-games,summer-olympic-games,UNK
+Olympic,1243315,239,196,113362;178749;46827;6030157;22576;77745;77741;595137;20420437;39721;27566;3354;72311;1233952,http://en.wikipedia.org/wiki/Olympic_Village,Olympic Village,olympic-village,olympic-village,UNK
+Olympic,6030157,39,38,11867;1243315,"http://en.wikipedia.org/wiki/Olympic_Village,_Munich","Olympic Village, Munich",olympic-village-munich,olympic-village-munich,UNK
+Olympic,4037753,73,60,22576;595137,http://en.wikipedia.org/wiki/Olympic_Stadium_(Ashgabat),Olympic Stadium,olympic-stadium,olympic-stadium-ashgabat,UNK
+Olympic,215892,232,201,3434750;483857,http://en.wikipedia.org/wiki/Olympic_Mountains,Olympic Mountains,olympic-mountains,olympic-mountains,UNK
+Olympic,1041281,715,402,1041281;247401,http://en.wikipedia.org/wiki/Olympic_Studios,Olympic Studios,olympic-studios,olympic-studios,UNK
+Olympic,595137,333,377,3138;5042916;31717;178749;2140;11867;1519860;22576;927703;550718;14244631;4037753;32982273;27566;3354;3434750;72311;1233952;113362;2179597;1956163;77745;77741;39721;1243315,http://en.wikipedia.org/wiki/Olympic_Stadium,Olympic Stadium,olympic-stadium,olympic-stadium,UNK
+Olympic,22219189,41,19,,http://en.wikipedia.org/wiki/Olympic_Park_(Village),Olympic Park,olympic-park,olympic-park-village,UNK
+Olympic,10196072,115,75,,http://en.wikipedia.org/wiki/Olympic_Theatre,Olympic Theatre,olympic-theatre,olympic-theatre,UNK
+Olympic,856061,58,51,22576,http://en.wikipedia.org/wiki/Olympic_Museum,Olympic Museum,olympic-museum,olympic-museum,UNK
+Olympic,927703,599,365,1519860;550718;14244631;72311;2179597;1956163;77741;595137;729870,http://en.wikipedia.org/wiki/Olympic_Stadium_(Athens),Olympic Stadium,olympic-stadium,olympic-stadium-athens,UNK
+Olympic,11393463,33,38,,http://en.wikipedia.org/wiki/Olympic_Bridge,Olympic Bridge,olympic-bridge,olympic-bridge,UNK
+Olympic,1519860,345,357,3316516;927703;550718;14244631;2179597;1956163;595137;729870,http://en.wikipedia.org/wiki/Olympic_Stadium_(Seoul),Olympic Stadium,olympic-stadium,olympic-stadium-seoul,UNK
+Olympic,483857,665,192,215892;3434750;37500088,http://en.wikipedia.org/wiki/Olympic_Peninsula,Olympic Peninsula,olympic-peninsula,olympic-peninsula,UNK
+Olympic,4187191,665,197,22576;1856192;729870,http://en.wikipedia.org/wiki/Figure_skating_at_the_Olympic_Games,Figure skating at the Olympic Games,figure-skating-at-the-olympic-games,figure-skating-at-the-olympic-games,UNK
+Olympic,83410,435,291,31717;152256,http://en.wikipedia.org/wiki/RMS_Olympic,RMS Olympic,rms-olympic,rms-olympic,UNK
+Olympic,24644975,3,15,,http://en.wikipedia.org/wiki/USS_Olympic_(SP-260),USS Olympic,uss-olympic,uss-olympic-sp-260,UNK
+Olympic,32982273,34,33,595137,http://en.wikipedia.org/wiki/Olympic_Stadium_(Grenoble),Olympic Stadium,olympic-stadium,olympic-stadium-grenoble,UNK
+Olympic,28000637,140,140,550718;20420437;5042916;1233952,"http://en.wikipedia.org/wiki/Olympic_Park,_Montreal","Olympic Park, Montreal",olympic-park-montreal,olympic-park-montreal,UNK
+Olympic,10505271,114,82,21212;39721;31717;11867,http://en.wikipedia.org/wiki/Olympic_Stadium_(Wrocław),Olympic Stadium,olympic-stadium,olympic-stadium-wroclaw,UNK
+Olympic,2349327,177,85,3434750,http://en.wikipedia.org/wiki/Olympic_Club,Olympic Club,olympic-club,olympic-club,UNK
+Olympic,3726838,42,47,,http://en.wikipedia.org/wiki/Wellington_Olympic_AFC,Wellington Olympic AFC,wellington-olympic-afc,wellington-olympic-afc,UNK
+Olympic,7439700,436,400,3708,http://en.wikipedia.org/wiki/Olympic_Stadium_(Moscow),Olympic Stadium,olympic-stadium,olympic-stadium-moscow,UNK
+Olympic,39443467,12,15,3477715,http://en.wikipedia.org/wiki/Olympic_(band),Olympic,olympic,olympic-band,UNK
+Olympic,31613148,3,7,,http://en.wikipedia.org/wiki/Olympic_Club_(Barbacena),Olympic Club,olympic-club,olympic-club-barbacena,ORG
+Olympic,1856192,409,219,31717;22576;27566;3434750;4187191;39721;729870,http://en.wikipedia.org/wiki/Baseball_at_the_Summer_Olympics,Baseball at the Summer Olympics,baseball-at-the-summer-olympics,baseball-at-the-summer-olympics,UNK
+Olympic,20420437,34,43,550718;28000637;5042916;1243315,http://en.wikipedia.org/wiki/Olympic_Village_(Montreal),Olympic Village,olympic-village,olympic-village-montreal,UNK
+Olympic,4229706,69,72,,http://en.wikipedia.org/wiki/Olympic_FC,Olympic FC,olympic-fc,olympic-fc,ORG
+Olympic,526942,90,267,,http://en.wikipedia.org/wiki/Olympic_Airlines,Olympic Airlines,olympic-airlines,olympic-airlines,ORG
+Olympic,11305145,3,16,,http://en.wikipedia.org/wiki/Olympic_Group,Olympic Group,olympic-group,olympic-group,UNK
+Olympic,2398503,67,61,3434750,http://en.wikipedia.org/wiki/Olympic_College,Olympic College,olympic-college,olympic-college,ORG
+Olympic,2179597,703,647,927703;550718;87187;1519860;1956163;595137,http://en.wikipedia.org/wiki/Olympic_Stadium_(London),Olympic Stadium,olympic-stadium,olympic-stadium-london,UNK
+Olympic,550718,838,716,5042916;28000637;927703;14244631;20420437;1519860;22576;2179597;1956163;595137;729870,http://en.wikipedia.org/wiki/Olympic_Stadium_(Montreal),Olympic Stadium,olympic-stadium,olympic-stadium-montreal,UNK
+Olympic,1290793,35,39,,http://en.wikipedia.org/wiki/Olympic_Park_(Buffalo),Olympic Park,olympic-park,olympic-park-buffalo,UNK
+Olympic,1391178,214,216,3138;22576;72311,http://en.wikipedia.org/wiki/Olympic_Station,Olympic Station,olympic-station,olympic-station,UNK
+Olympic,3316516,123,57,1233952;1519860,"http://en.wikipedia.org/wiki/Olympic_Park,_Seoul","Olympic Park, Seoul",olympic-park-seoul,olympic-park-seoul,UNK
+Olympic,1956163,625,628,927703;550718;14244631;1519860;3434750;17416221;2179597;595137;729870,http://en.wikipedia.org/wiki/Olympic_Stadium_(Amsterdam),Olympic Stadium,olympic-stadium,olympic-stadium-amsterdam,UNK
+Olympic,34137567,0,1,,http://en.wikipedia.org/wiki/Olympic_Park_(Washington_State),Olympic Park,olympic-park,olympic-park-washington-state,UNK
+Olympic,2933230,15,15,,http://en.wikipedia.org/wiki/Olympic_Tower,Olympic Tower,olympic-tower,olympic-tower,UNK
+Olympic,22576,19249,1017,13530298;71410;729870;72311;3138;3354;39721;67127;67118;67116;67299;178749;595137;5042916;113362;9239;11867;1856192;4037245;46827;4037753;77745;77741;18723138;1391178;856061;3434750;855087;21212;5334607;22576;1233952;4187191;27566;550718;1243315;653621;31717,http://en.wikipedia.org/wiki/Olympic_Games,Olympic Games,olympic-games,olympic-games,UNK
+Olympic,6788184,2,14,3434750,http://en.wikipedia.org/wiki/Olympic_Stadium_(Hoquiam),Olympic Stadium,olympic-stadium,olympic-stadium-hoquiam,UNK
+Olympic,2015711,35,23,,http://en.wikipedia.org/wiki/Olympic_Stadium_(Phnom_Penh),Olympic Stadium,olympic-stadium,olympic-stadium-phnom-penh,UNK
+Olympic,1233952,245,199,3316516;178749;28000637;22576;77745;77741;595137;27566;72311;1243315,http://en.wikipedia.org/wiki/Olympic_Park,Olympic Park,olympic-park,olympic-park,UNK
+Linford Christie,67118,420,360,67127;67116;67299;5042916;31717;46827;22576;71410;72311;4037245,http://en.wikipedia.org/wiki/Linford_Christie,Linford Christie,linford-christie,linford-christie,PER
+Linford Christie,4037245,32,13,22576;67118;31717,http://en.wikipedia.org/wiki/Linford_Christie_Stadium,Linford Christie Stadium,linford-christie-stadium,linford-christie-stadium,UNK
+Dream Team,17321105,28,35,,http://en.wikipedia.org/wiki/Dream_Team_(Australian_rules_football),Dream Team,dream-team,dream-team-australian-rules-football,UNK
+Dream Team,22167125,207,257,,http://en.wikipedia.org/wiki/Dream_Team_(The_Office),Dream Team,dream-team,dream-team-the-office,UNK
+Dream Team,2892285,29,171,,http://en.wikipedia.org/wiki/The_Dream_Team_(professional_wrestling),The Dream Team,the-dream-team,the-dream-team-professional-wrestling,UNK
+Dream Team,100012061,0,0,,http://en.wikipedia.org/wiki/The_Dream_Team_(warez),The Dream Team,the-dream-team,the-dream-team-warez,UKN
+Dream Team,11457608,13,159,3434750,http://en.wikipedia.org/wiki/LA_Dream_Team,LA Dream Team,la-dream-team,la-dream-team,UNK
+Jesse Owens,46827,561,384,67127;67118;67116;67299;22576;653621;27566;3434750;21212;895667;39721;1243315,http://en.wikipedia.org/wiki/Jesse_Owens,Jesse Owens,jesse-owens,jesse-owens,UNK
+Berlin,3354,26574,982,72311;3295;3138;3354;3708;67299;1245772;9239;9483;2745649;10612;11867;77745;77741;3434750;30780213;158966;21212;2381368;22576;20676848;27566;31717;729870;33170;4197885;39721;595137;3518410;5042916;108702;9203587;27303845;36938404;1243315;125065,http://en.wikipedia.org/wiki/Berlin,Berlin,berlin,berlin,GPE
+Berlin,2958227,0,4,,"http://en.wikipedia.org/wiki/Berlin,_Michigan","Berlin, Michigan",berlin-michigan,berlin-michigan,UNK
+Berlin,16075436,8,19,,http://en.wikipedia.org/wiki/Berlin_Mountain,Berlin Mountain,berlin-mountain,berlin-mountain,UNK
+Berlin,3318457,51,57,3318459;429567;3434750;152735,"http://en.wikipedia.org/wiki/Berlin,_Holmes_County,_Ohio","Berlin, Holmes County, Ohio",berlin-holmes-county-ohio,berlin-holmes-county-ohio,GPE
+Berlin,27303845,4,136,3354;11867,http://en.wikipedia.org/wiki/Berlin_(Seedorf),Berlin,berlin,berlin-seedorf,UNK
+Berlin,31322893,4,15,33170;11884,"http://en.wikipedia.org/wiki/Berlin,_Schoenhauser_Corner","Berlin, Schoenhauser Corner",berlin-schoenhauser-corner,berlin-schoenhauser-corner,UNK
+Berlin,39275042,109,124,,http://en.wikipedia.org/wiki/Berlin_(NCIS),Berlin,berlin,berlin-ncis,UNK
+Berlin,116630,153,104,3434750,"http://en.wikipedia.org/wiki/Berlin,_Maryland","Berlin, Maryland",berlin-maryland,berlin-maryland,GPE
+Berlin,429567,3,3,3318459;3318457,"http://en.wikipedia.org/wiki/Berlin,_Ohio","Berlin, Ohio",berlin-ohio,berlin-ohio,UNK
+Berlin,9483,1190,191,33170;3295;31717;20676848;3354;3434750;9483;21212,http://en.wikipedia.org/wiki/East_Berlin,East Berlin,east-berlin,east-berlin,UNK
+Berlin,36938404,32,74,36938404;3354;11867,http://en.wikipedia.org/wiki/Geography_of_Berlin,Geography of Berlin,geography-of-berlin,geography-of-berlin,UNK
+Berlin,23831085,32,51,3434750;11867,"http://en.wikipedia.org/wiki/Berlin,_Alabama","Berlin, Alabama",berlin-alabama,berlin-alabama,GPE
+Berlin,1302021,0,16,,http://en.wikipedia.org/wiki/Berlin_Township,Berlin Township,berlin-township,berlin-township,GPE
+Berlin,33170,1611,381,3434750;9483;21212;33170;10612;31322893;3295;31717;11884;11867;20676848;3354;3708,http://en.wikipedia.org/wiki/West_Berlin,West Berlin,west-berlin,west-berlin,UNK
+Berlin,9248593,5,3,,http://en.wikipedia.org/wiki/Berlin_Journal,Berlin Journal,berlin-journal,berlin-journal,ORG
+Berlin,108702,177,157,3354,"http://en.wikipedia.org/wiki/Berlin,_Connecticut","Berlin, Connecticut",berlin-connecticut,berlin-connecticut,GPE
+Berlin,4197885,43,51,3354;11867,"http://en.wikipedia.org/wiki/Berlin,_Berlin","Berlin, Berlin",berlin-berlin,berlin-berlin,UNK
+Berlin,34197810,9,28,,http://en.wikipedia.org/wiki/FuG_240_Berlin,FuG 240 Berlin,fug-240-berlin,fug-240-berlin,UNK
+Berlin,20676848,4,18,33170;11867;3354;9483,http://en.wikipedia.org/wiki/Berlin_(sculpture),Berlin,berlin,berlin-sculpture,UNK
+Berlin,20427667,5,18,,"http://en.wikipedia.org/wiki/Berlin,_Appointment_for_the_Spies","Berlin, Appointment for the Spies",berlin-appointment-for-the-spies,berlin-appointment-for-the-spies,UNK
+Berlin,111867,83,90,3434750,"http://en.wikipedia.org/wiki/Berlin,_Illinois","Berlin, Illinois",berlin-illinois,berlin-illinois,UNK
+Berlin,125065,146,208,11867;3354;3434750,"http://en.wikipedia.org/wiki/Berlin,_New_Jersey","Berlin, New Jersey",berlin-new-jersey,berlin-new-jersey,GPE
+Berlin,6796359,1,2,,http://en.wikipedia.org/wiki/Berlin_Airport,Berlin Airport,berlin-airport,berlin-airport,UNK
+Berlin,3318519,4,9,,"http://en.wikipedia.org/wiki/Berlin,_Kentucky","Berlin, Kentucky",berlin-kentucky,berlin-kentucky,UNK
+Berlin,30780213,35,43,3354,http://en.wikipedia.org/wiki/Berlin_(play),Berlin,berlin,berlin-play,UNK
+Berlin,9490944,14,25,3434750,"http://en.wikipedia.org/wiki/Berlin,_Oklahoma","Berlin, Oklahoma",berlin-oklahoma,berlin-oklahoma,UNK
+Berlin,39012462,0,4,,http://en.wikipedia.org/wiki/Berlin_Gallery,Berlin Gallery,berlin-gallery,berlin-gallery,UNK
+Berlin,35231380,26,32,17416221,"http://en.wikipedia.org/wiki/Berlin,_Eastern_Cape","Berlin, Eastern Cape",berlin-eastern-cape,berlin-eastern-cape,UNK
+Berlin,158966,243,46,158966;3354,http://en.wikipedia.org/wiki/Berlin_(band),Berlin,berlin,berlin-band,UNK
+Berlin,40286211,2,9,,http://en.wikipedia.org/wiki/Berlin_FC,Berlin FC,berlin-fc,berlin-fc,UNK
+Berlin,3518410,28,46,3354,http://en.wikipedia.org/wiki/Berlin_(comic),Berlin,berlin,berlin-comic,UNK
+Berlin,2745649,6,13,11867;3354,http://en.wikipedia.org/wiki/Berlin_(carriage),Berlin,berlin,berlin-carriage,UNK
+Berlin,16877460,1,356,3434750,"http://en.wikipedia.org/wiki/Berlin,_New_Hampshire_micropolitan_area","Berlin, New Hampshire micropolitan area",berlin-new-hampshire-micropolitan-area,berlin-new-hampshire-micropolitan-area,UNK
+Berlin,2916729,49,62,3434750,"http://en.wikipedia.org/wiki/Berlin,_West_Virginia","Berlin, West Virginia",berlin-west-virginia,berlin-west-virginia,GPE
+Berlin,2381368,47,35,3354,http://en.wikipedia.org/wiki/Berlín,Berlín,berlin,berlin,UNK
+Berlin,12836820,5,12,,http://en.wikipedia.org/wiki/Berlin_Plus_agreement,Berlin Plus agreement,berlin-plus-agreement,berlin-plus-agreement,ORG
+Berlin,3318459,30,43,3318457;429567;3434750,"http://en.wikipedia.org/wiki/Berlin,_Williams_County,_Ohio","Berlin, Williams County, Ohio",berlin-williams-county-ohio,berlin-williams-county-ohio,GPE
+Berlin,116923,137,161,116923;3434750,"http://en.wikipedia.org/wiki/Berlin,_Massachusetts","Berlin, Massachusetts",berlin-massachusetts,berlin-massachusetts,GPE
+Berlin,9203587,77,83,22437592;3354,http://en.wikipedia.org/wiki/.berlin,.berlin,berlin,berlin,UNK
+Berlin,32075333,1,9,,http://en.wikipedia.org/wiki/Berlin_movement,Berlin movement,berlin-movement,berlin-movement,ORG
+Berlin,36359949,2,40,,http://en.wikipedia.org/wiki/Berlin_School_(films),Berlin School,berlin-school,berlin-school-films,UNK
+Berlin,17866488,5,4,3434750,"http://en.wikipedia.org/wiki/Berlin,_Indiana","Berlin, Indiana",berlin-indiana,berlin-indiana,UNK
+Berlin,1364294,19,17,,http://en.wikipedia.org/wiki/Mount_Berlin,Mount Berlin,mount-berlin,mount-berlin,UNK
+Christie,67118,420,360,67127;67116;67299;5042916;31717;46827;22576;71410;72311;4037245,http://en.wikipedia.org/wiki/Linford_Christie,Linford Christie,linford-christie,linford-christie,PER
+Christie,4037245,32,13,22576;67118;31717,http://en.wikipedia.org/wiki/Linford_Christie_Stadium,Linford Christie Stadium,linford-christie-stadium,linford-christie-stadium,UNK
+German,11867,167535,1367,1854;3295;3138;3354;3708;5195;290327;9239;10612;11884;11867;21212;22576;27566;31717;33170;4197885;39721;5042916;13659804;5334607;36938404;4096888;77745;18533347;87187;89061;14244631;6030157;11787932;595137;855087;27303845;125065;2920565;410720;715265;1263999;20676848;406269;152735;2111551;1559449;4023515;10505271;1187515;480153;2745649;476441;475014;3434750;17416221;8150650;729870;23831085,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+German,15082689,0,4,,"http://en.wikipedia.org/wiki/German_Township,_Indiana","German Township, Indiana",german-township-indiana,german-township-indiana,UNK
+German,13314138,20,25,11884;152735,http://en.wikipedia.org/wiki/German_Party_(Yugoslavia),German Party,german-party,german-party-yugoslavia,UNK
+German,12453352,0,5,9269386;2241658;6046607,"http://en.wikipedia.org/wiki/German_Township,_Ohio","German Township, Ohio",german-township-ohio,german-township-ohio,UNK
+German,126281,41,50,3434750,"http://en.wikipedia.org/wiki/German,_New_York","German, New York",german-new-york,german-new-york,GPE
+German,36286602,5,23,,http://en.wikipedia.org/wiki/Germán,Germán,german,german,UNK
+German,36687858,164,170,,"http://en.wikipedia.org/wiki/German,_Iran","German, Iran",german-iran,german-iran,UNK
+German,34977979,51,25,34978004;34977989,http://en.wikipedia.org/wiki/German_Party_(1947),German Party,german-party,german-party-1947,UNK
+German,12050833,24,279,15082701;3434750,"http://en.wikipedia.org/wiki/German_Township,_Richland_County,_Illinois","German Township, Richland County, Illinois",german-township-richland-county-illinois,german-township-richland-county-illinois,UNK
+German,11204290,5,18,30138606,"http://en.wikipedia.org/wiki/German,_Bulgaria","German, Bulgaria",german-bulgaria,german-bulgaria,GPE
+German,34378156,2,26,,http://en.wikipedia.org/wiki/Arthur_German,Arthur German,arthur-german,arthur-german,UNK
+German,2318626,324,65,11884,http://en.wikipedia.org/wiki/German_studies,German studies,german-studies,german-studies,PER
+German,22184642,4,12,,http://en.wikipedia.org/wiki/German_River,German River,german-river,german-river,UNK
+German,11369455,41,54,21212;11884,http://en.wikipedia.org/wiki/German_Party_(Romania),German Party,german-party,german-party-romania,UNK
+German,6046607,34,48,3434750;15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Fulton_County,_Ohio","German Township, Fulton County, Ohio",german-township-fulton-county-ohio,german-township-fulton-county-ohio,GPE
+German,18512402,18,11,,http://en.wikipedia.org/wiki/Les_German,Les German,les-german,les-german,PER
+German,2241658,45,60,3434750;15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Auglaize_County,_Ohio","German Township, Auglaize County, Ohio",german-township-auglaize-county-ohio,german-township-auglaize-county-ohio,GPE
+German,152735,7195,672,13314138;475014;178749;21212;1559449;1263999;17416221;290327;5042916;10612;11884;11867;3318457;152735,http://en.wikipedia.org/wiki/Germans,Germans,germans,germans,UNK
+German,239855,56,80,11884,http://en.wikipedia.org/wiki/German_alphabet,German alphabet,german-alphabet,german-alphabet,UNK
+German,132530,92,177,15082701;3434750,"http://en.wikipedia.org/wiki/German_Township,_Fayette_County,_Pennsylvania","German Township, Fayette County, Pennsylvania",german-township-fayette-county-pennsylvania,german-township-fayette-county-pennsylvania,GPE
+German,30138606,9,13,11204290,http://en.wikipedia.org/wiki/German_Peninsula,German Peninsula,german-peninsula,german-peninsula,UNK
+German,290327,1463,698,5042916;4173;431669;475014;152735;3434750;11884;11867,http://en.wikipedia.org/wiki/German_American,German American,german-american,german-american,UNK
+German,34978004,4,32,11884;1263999;34977979,http://en.wikipedia.org/wiki/German_Party_(1993),German Party,german-party,german-party-1993,UNK
+German,241920,127,87,,http://en.wikipedia.org/wiki/Edward_German,Edward German,edward-german,edward-german,UNK
+German,34977989,3,7,34977979,http://en.wikipedia.org/wiki/German_Party_(1961),German Party,german-party,german-party-1961,UNK
+German,10612,1073,518,33170;1559449;1263999;39721;10612;11884;11867;152735;3354;3434750;9239;21212,http://en.wikipedia.org/wiki/Cinema_of_Germany,Cinema of Germany,cinema-of-germany,cinema-of-germany,UNK
+German,11884,43032,653,13314138;2920565;2318626;1245772;290327;10612;11867;476441;475014;3434750;3901931;89061;21212;1263999;17416221;29920;152735;4318956;33170;31322893;11787932;239855;1559449;5042916;5334607;27931386;34978004;11369455,http://en.wikipedia.org/wiki/German_language,German language,german-language,german-language,UNK
+German,24233458,2,4,,http://en.wikipedia.org/wiki/The_German,The German,the-german,the-german,UNK
+German,1263999,412,329,11884;11867;152735;1559449;1263999;34978004;21212;10612,http://en.wikipedia.org/wiki/Elections_in_Germany,Elections in Germany,elections-in-germany,elections-in-germany,UNK
+German,42060415,46,52,3434750;15082701,"http://en.wikipedia.org/wiki/German_Township,_Kossuth_County,_Iowa","German Township, Kossuth County, Iowa",german-township-kossuth-county-iowa,german-township-kossuth-county-iowa,GPE
+German,476441,101,169,11884;11867,http://en.wikipedia.org/wiki/German_name,German name,german-name,german-name,UNK
+German,15082701,0,14,132530;9269386;6046607;42060415;2241658;3434750;12050833,http://en.wikipedia.org/wiki/German_Township,German Township,german-township,german-township,GPE
+German,475014,250,170,290327;3708;11884;11867;152735,http://en.wikipedia.org/wiki/German-speaking_Community_of_Belgium,German-speaking Community of Belgium,german-speaking-community-of-belgium,german-speaking-community-of-belgium,UNK
+German,4356261,77,64,,http://en.wikipedia.org/wiki/German_(parish),German,german,german-parish,UNK
+German,3901931,32,37,21212;11884,http://en.wikipedia.org/wiki/German–Polish_Non-Aggression_Pact,German–Polish Non-Aggression Pact,german–polish-non-aggression-pact,german–polish-non-aggression-pact,UNK
+German,9269386,44,55,3434750;15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Clark_County,_Ohio","German Township, Clark County, Ohio",german-township-clark-county-ohio,german-township-clark-county-ohio,GPE
+German,1245772,609,182,11884;3354,http://en.wikipedia.org/wiki/German_Wikipedia,German Wikipedia,german-wikipedia,german-wikipedia,UNK
+German,1559449,163,120,1263999;31717;11884;11867;21212;152735;10612;3434750,http://en.wikipedia.org/wiki/German_model,German model,german-model,german-model,UNK
+German,21212,18535,1346,10505271;729870;33170;3295;3354;39721;1559449;5042916;9239;9483;10612;11884;11867;46827;3901931;269753;21212;1263999;22576;27931386;26542;27566;152735;124114;11369455,http://en.wikipedia.org/wiki/Nazi_Germany,Nazi Germany,nazi-germany,nazi-germany,GPE
+Owens,46827,561,384,67127;67118;67116;67299;22576;653621;27566;3434750;21212;895667;39721;1243315,http://en.wikipedia.org/wiki/Jesse_Owens,Jesse Owens,jesse-owens,jesse-owens,UNK
+Berlin,39721,3078,360,113362;10505271;729870;72311;10612;3138;11867;27566;3354;1856192;39721;1243315;67127;178749;653621;595137;21212;31717;46827;22576;77745;77741,http://en.wikipedia.org/wiki/1936_Summer_Olympics,1936 Summer Olympics,1936-summer-olympics,1936-summer-olympics,UNK
+Olympics,39721,3078,360,113362;10505271;729870;72311;10612;3138;11867;27566;3354;1856192;39721;1243315;67127;178749;653621;595137;21212;31717;46827;22576;77745;77741,http://en.wikipedia.org/wiki/1936_Summer_Olympics,1936 Summer Olympics,1936-summer-olympics,1936-summer-olympics,UNK
+Olympics,729870,3327,931,5042916;3434750;9239;4187191;23324639;72311;3138;11867;1519860;27566;3354;3708;1856192;550718;14244631;715265;152256;39721;21212;5334607;927703;31717;22576;1956163;77745;77741,http://en.wikipedia.org/wiki/Football_at_the_Summer_Olympics,Football at the Summer Olympics,football-at-the-summer-olympics,football-at-the-summer-olympics,ORG
+Olympics,178749,3423,541,5042916;113362;72311;27566;39721;1243315;178749;152735;595137;6999;22576;1233952;77745;77741,http://en.wikipedia.org/wiki/2010_Winter_Olympics,2010 Winter Olympics,2010-winter-olympics,2010-winter-olympics,GPE
+Olympics,113362,1154,311,72311;39721;1243315;178749;22576;27566;77745;77741;595137,http://en.wikipedia.org/wiki/1984_Winter_Olympics,1984 Winter Olympics,1984-winter-olympics,1984-winter-olympics,UNK
+Olympics,3477715,36,36,3434750;39443467,http://en.wikipedia.org/wiki/The_Olympics_(band),The Olympics,the-olympics,the-olympics-band,UNK
+Olympics,14244631,476,219,5042916;31717;11867;1519860;927703;550718;14244631;715265;3434750;1956163;595137;729870,http://en.wikipedia.org/wiki/Football_at_the_2012_Summer_Olympics,Football at the 2012 Summer Olympics,football-at-the-2012-summer-olympics,football-at-the-2012-summer-olympics,UNK
+Olympics,7982268,76,18,,http://en.wikipedia.org/wiki/Great_Olympics,Great Olympics,great-olympics,great-olympics,UNK
+Olympics,77741,7323,558,71410;3434750;729870;72311;3138;3354;35946155;39721;178749;595137;927703;22576;1233952;17416221;113362;27566;27067;1243315;653621;77745;77741,http://en.wikipedia.org/wiki/2004_Summer_Olympics,2004 Summer Olympics,2004-summer-olympics,2004-summer-olympics,UNK
+Olympics,77745,9210,548,855087;729870;72311;3138;3354;39721;67116;178749;595137;22576;1233952;5042916;113362;11867;27566;1243315;77745;77741,http://en.wikipedia.org/wiki/2008_Summer_Olympics,2008 Summer Olympics,2008-summer-olympics,2008-summer-olympics,UNK
+Olympics,72311,5721,561,5042916;113362;1391178;71410;3434750;729870;2140;72311;3138;27566;3354;33673747;39721;1243315;67127;67118;67116;178749;653621;595137;927703;274851;31717;22576;1233952;77745;77741,http://en.wikipedia.org/wiki/1996_Summer_Olympics,1996 Summer Olympics,1996-summer-olympics,1996-summer-olympics,UNK
+Canada,5042916,159749,788,9449449;3138;3354;5195;5873;6999;15915717;290327;11884;11867;21212;6108438;22576;27566;29920;31717;5042916;6150783;40541240;296105;5029525;550718;72311;1335869;67118;67116;67299;75763;77745;6815418;14244631;595137;855087;24131746;1110101;3487272;21786538;410720;7954202;4631409;715265;7722710;30956620;152735;20420437;178749;28000637;431669;481669;480153;27970654;3434750;17416221;8150650;6174697;729870;20596936;232832;28212463;249620;23548965,http://en.wikipedia.org/wiki/Canada,Canada,canada,canada,GPE
+Canada,296105,203,124,5042916,http://en.wikipedia.org/wiki/Canada_AM,Canada AM,canada-am,canada-am,UNK
+Canada,28212463,109,24,5042916,http://en.wikipedia.org/wiki/Canada_Rugby_League,Canada Rugby League,canada-rugby-league,canada-rugby-league,UNK
+Canada,1110101,403,210,5042916;6999;158019;75763,http://en.wikipedia.org/wiki/Canada_(New_France),Canada,canada,canada-new-france,UNK
+Canada,6999,942,760,5042916;158019;249620;178749;5195;3434750;1110101;5873;75763,http://en.wikipedia.org/wiki/Culture_of_Canada,Culture of Canada,culture-of-canada,culture-of-canada,UNK
+Canada,27951722,110,80,,"http://en.wikipedia.org/wiki/Cañada,_Oaxaca","Cañada, Oaxaca",canada-oaxaca,canada-oaxaca,UNK
+Canada,27393829,1,10,27393829,http://en.wikipedia.org/wiki/Canada_(magazine),Canada,canada,canada-magazine,ORG
+Canada,20596936,17,22,3434750;481669;5042916;5873,http://en.wikipedia.org/wiki/CANADA!,CANADA!,canada,canada,UNK
+Canada,3403042,61,68,3434750,http://en.wikipedia.org/wiki/Battle_of_Cañada,Battle of Cañada,battle-of-canada,battle-of-canada,UNK
+Canada,1335869,148,250,5042916;152256,http://en.wikipedia.org/wiki/Canada_Bay,Canada Bay,canada-bay,canada-bay,UNK
+Canada,23736858,1,10,,http://en.wikipedia.org/wiki/Canada_(1891),Canada,canada,canada-1891,UNK
+Canada,4258891,100,17,,http://en.wikipedia.org/wiki/Cañada_College,Cañada College,canada-college,canada-college,ORG
+Canada,34342869,0,5,,http://en.wikipedia.org/wiki/Canada_Township,Canada Township,canada-township,canada-township,GPE
+Canada,37068084,83,103,3434750,"http://en.wikipedia.org/wiki/Canada,_Kentucky","Canada, Kentucky",canada-kentucky,canada-kentucky,UNK
+Canada,27970654,67,108,5042916;3434750,"http://en.wikipedia.org/wiki/Canada,_Kansas","Canada, Kansas",canada-kansas,canada-kansas,GPE
+Canada,6108438,56,79,5042916,http://en.wikipedia.org/wiki/Canada_(Epcot),Canada,canada,canada-epcot,UNK
+Canada,15489429,2,4,,"http://en.wikipedia.org/wiki/Cañada,_Alaquines,_San_Luis_Potosí","Cañada, Alaquines, San Luis Potosí",canada-alaquines-san-luis-potosi,canada-alaquines-san-luis-potosi,UNK
+Canada,6150783,4,9,5042916,http://en.wikipedia.org/wiki/Canada_Building_(Windsor),Canada Building,canada-building,canada-building-windsor,UNK
+Canada,15435556,142,134,,"http://en.wikipedia.org/wiki/Cañada,_Alicante","Cañada, Alicante",canada-alicante,canada-alicante,GPE
+Canada,30956620,5,11,5042916,http://en.wikipedia.org/wiki/Canada_Building_(Saskatoon),Canada Building,canada-building,canada-building-saskatoon,UNK
+Canada,380212,51,39,,http://en.wikipedia.org/wiki/Canada_Company,Canada Company,canada-company,canada-company,UNK
+Canada,75763,8024,293,4631409;5195;5873;6999;1110101;5042916;249620;75763;31717,http://en.wikipedia.org/wiki/Provinces_and_territories_of_Canada,Provinces and territories of Canada,provinces-and-territories-of-canada,provinces-and-territories-of-canada,UNK
+Canada,481669,158,77,20596936;5042916,http://en.wikipedia.org/wiki/Canada_Party,Canada Party,canada-party,canada-party,UNK
+Canada,28175785,0,6,,http://en.wikipedia.org/wiki/About_Canada,About Canada,about-canada,about-canada,UNK
+Canada,6765507,1,5,,"http://en.wikipedia.org/wiki/Cañada,_Guanajuato","Cañada, Guanajuato",canada-guanajuato,canada-guanajuato,UNK
+Canada,21974174,0,10,3434750,"http://en.wikipedia.org/wiki/Canada,_Virginia","Canada, Virginia",canada-virginia,canada-virginia,UNK
+Canada,27209834,2,8,27209834,"http://en.wikipedia.org/wiki/La_Cañada,_Santiago_del_Estero","La Cañada, Santiago del Estero",la-canada-santiago-del-estero,la-canada-santiago-del-estero,GPE
+Canada,26562575,1,9,,http://en.wikipedia.org/wiki/Canada_(unit),Canada,canada,canada-unit,UNK
+Canada,35632474,2,4,,http://en.wikipedia.org/wiki/Canada_(1800),Canada,canada,canada-1800,PER
+Canada,18262532,13,13,,http://en.wikipedia.org/wiki/Canada_Stadium,Canada Stadium,canada-stadium,canada-stadium,UNK
+Canada,3487272,83,110,3487272;5042916,http://en.wikipedia.org/wiki/Canada_Park,Canada Park,canada-park,canada-park,UNK
+Canada,5873,385,254,5042916;5195;20596936;6999;75763,http://en.wikipedia.org/wiki/Canada_Day,Canada Day,canada-day,canada-day,UNK
+Canada,11054565,1,14,3434750,http://en.wikipedia.org/wiki/Canada_(band),Canada,canada,canada-band,UNK
+Canada,4787510,289,72,,http://en.wikipedia.org/wiki/Ecclesiastical_Province_of_Canada,Ecclesiastical Province of Canada,ecclesiastical-province-of-canada,ecclesiastical-province-of-canada,UNK
+Canada,249620,385,294,5042916;9239;6999;75763,http://en.wikipedia.org/wiki/Same-sex_marriage_in_Canada,Same-sex marriage in Canada,same-sex-marriage-in-canada,same-sex-marriage-in-canada,UNK
+Canada,5195,526,409,5042916;31717;11867;5195;3434750;17416221;6999;5873;75763,http://en.wikipedia.org/wiki/Economy_of_Canada,Economy of Canada,economy-of-canada,economy-of-canada,UNK
+Donovan Bailey,67116,215,201,67127;67118;67299;5042916;46827;22576;77745;71410;653621;27566;72311,http://en.wikipedia.org/wiki/Donovan_Bailey,Donovan Bailey,donovan-bailey,donovan-bailey,PER
+Olympic,72311,5721,561,5042916;113362;1391178;71410;3434750;729870;2140;72311;3138;27566;3354;33673747;39721;1243315;67127;67118;67116;178749;653621;595137;927703;274851;31717;22576;1233952;77745;77741,http://en.wikipedia.org/wiki/1996_Summer_Olympics,1996 Summer Olympics,1996-summer-olympics,1996-summer-olympics,UNK
+Frankie Fredericks,71410,166,141,17416221;67118;67116;67299;3138;31717;22576;77741;653621;27566;3434750;72311,http://en.wikipedia.org/wiki/Frankie_Fredericks,Frankie Fredericks,frankie-fredericks,frankie-fredericks,PER
+Atlanta,72311,5721,561,5042916;113362;1391178;71410;3434750;729870;2140;72311;3138;27566;3354;33673747;39721;1243315;67127;67118;67116;178749;653621;595137;927703;274851;31717;22576;1233952;77745;77741,http://en.wikipedia.org/wiki/1996_Summer_Olympics,1996 Summer Olympics,1996-summer-olympics,1996-summer-olympics,UNK
+Atlanta,34340070,71,217,3138;3434750,http://en.wikipedia.org/wiki/Geography_of_Atlanta,Geography of Atlanta,geography-of-atlanta,geography-of-atlanta,UNK
+Atlanta,3691582,8,34,,"http://en.wikipedia.org/wiki/Atlanta,_Knoxville_and_Northern_Railway","Atlanta, Knoxville and Northern Railway",atlanta-knoxville-and-northern-railway,atlanta-knoxville-and-northern-railway,UNK
+Atlanta,403899,55,101,3138;437818;236101,http://en.wikipedia.org/wiki/USS_Atlanta_(CL-51),USS Atlanta,uss-atlanta,uss-atlanta-cl-51,UNK
+Atlanta,21786538,2,6,5042916,"http://en.wikipedia.org/wiki/Atlanta,_Nova_Scotia","Atlanta, Nova Scotia",atlanta-nova-scotia,atlanta-nova-scotia,GPE
+Atlanta,20733060,6,46,9239;3138;3434750,http://en.wikipedia.org/wiki/University_of_Atlanta,University of Atlanta,university-of-atlanta,university-of-atlanta,UNK
+Atlanta,1475674,15,29,,http://en.wikipedia.org/wiki/Atlanta_Nights,Atlanta Nights,atlanta-nights,atlanta-nights,UNK
+Atlanta,374336,3,18,9088582;3434750,http://en.wikipedia.org/wiki/Atlanta_Airport_(Idaho),Atlanta Airport,atlanta-airport,atlanta-airport-idaho,UNK
+Atlanta,20107213,2,3,,http://en.wikipedia.org/wiki/Atlanta_(singer),Atlanta,atlanta,atlanta-singer,UNK
+Atlanta,23222629,139,159,23222127;3434750,"http://en.wikipedia.org/wiki/Atlanta,_Delaware","Atlanta, Delaware",atlanta-delaware,atlanta-delaware,UNK
+Atlanta,124114,32,56,21212;3434750,"http://en.wikipedia.org/wiki/Atlanta,_Nebraska","Atlanta, Nebraska",atlanta-nebraska,atlanta-nebraska,GPE
+Atlanta,25350997,48,53,,"http://en.wikipedia.org/wiki/Atlanta,_California","Atlanta, California",atlanta-california,atlanta-california,GPE
+Atlanta,236101,9,13,914170;437818;1077941;403899;914151,http://en.wikipedia.org/wiki/USS_Atlanta,USS Atlanta,uss-atlanta,uss-atlanta,UNK
+Atlanta,32078094,173,185,,http://en.wikipedia.org/wiki/Atlanta_(steamboat_1908),Atlanta,atlanta,atlanta-steamboat-1908,UNK
+Atlanta,111530,80,84,9765073;3138;3434750,"http://en.wikipedia.org/wiki/Atlanta,_Illinois","Atlanta, Illinois",atlanta-illinois,atlanta-illinois,GPE
+Atlanta,122884,29,54,3434750,"http://en.wikipedia.org/wiki/Atlanta,_Missouri","Atlanta, Missouri",atlanta-missouri,atlanta-missouri,GPE
+Atlanta,112296,51,60,3434750,"http://en.wikipedia.org/wiki/Atlanta,_Indiana","Atlanta, Indiana",atlanta-indiana,atlanta-indiana,GPE
+Atlanta,507179,226,189,3138;33673747;3434750,http://en.wikipedia.org/wiki/Atlanta_Marriott_Marquis,Atlanta Marriott Marquis,atlanta-marriott-marquis,atlanta-marriott-marquis,UNK
+Atlanta,4033457,17,20,,http://en.wikipedia.org/wiki/Atlanta_(band),Atlanta,atlanta,atlanta-band,UNK
+Atlanta,25387678,14,21,3434750,"http://en.wikipedia.org/wiki/Atlanta,_Arkansas","Atlanta, Arkansas",atlanta-arkansas,atlanta-arkansas,UNK
+Atlanta,3694290,28,9,,"http://en.wikipedia.org/wiki/Atlanta,_Stone_Mountain_and_Lithonia_Railway","Atlanta, Stone Mountain and Lithonia Railway",atlanta-stone-mountain-and-lithonia-railway,atlanta-stone-mountain-and-lithonia-railway,UNK
+Atlanta,115847,29,26,3434750,"http://en.wikipedia.org/wiki/Atlanta,_Louisiana","Atlanta, Louisiana",atlanta-louisiana,atlanta-louisiana,UNK
+Atlanta,2140,6254,884,2140;72311;3138;4173;595137,http://en.wikipedia.org/wiki/Atlanta_Braves,Atlanta Braves,atlanta-braves,atlanta-braves,UNK
+Atlanta,118243,46,46,3434750,"http://en.wikipedia.org/wiki/Atlanta,_Michigan","Atlanta, Michigan",atlanta-michigan,atlanta-michigan,GPE
+Atlanta,23170240,67,48,3138;23170240,http://en.wikipedia.org/wiki/Atlanta_(magazine),Atlanta,atlanta,atlanta-magazine,ORG
+Atlanta,9765073,53,310,3434750;111530,"http://en.wikipedia.org/wiki/Atlanta_Township,_Logan_County,_Illinois","Atlanta Township, Logan County, Illinois",atlanta-township-logan-county-illinois,atlanta-township-logan-county-illinois,UNK
+Atlanta,139660,44,63,3434750,"http://en.wikipedia.org/wiki/Atlanta,_Wisconsin","Atlanta, Wisconsin",atlanta-wisconsin,atlanta-wisconsin,GPE
+Atlanta,437818,48,80,403899;236101,http://en.wikipedia.org/wiki/USS_Atlanta_(CL-104),USS Atlanta,uss-atlanta,uss-atlanta-cl-104,UNK
+Atlanta,3673970,255,259,3673948,"http://en.wikipedia.org/wiki/Atlanta,_Birmingham_and_Coast_Railroad","Atlanta, Birmingham and Coast Railroad",atlanta-birmingham-and-coast-railroad,atlanta-birmingham-and-coast-railroad,UNK
+Atlanta,12865008,27,13,3138,http://en.wikipedia.org/wiki/Atlanta_Opera,Atlanta Opera,atlanta-opera,atlanta-opera,UNK
+Atlanta,124397,57,83,3434750,"http://en.wikipedia.org/wiki/Atlanta_Township,_Becker_County,_Minnesota","Atlanta Township, Becker County, Minnesota",atlanta-township-becker-county-minnesota,atlanta-township-becker-county-minnesota,GPE
+Atlanta,25387901,18,26,3434750,"http://en.wikipedia.org/wiki/Atlanta,_Kentucky","Atlanta, Kentucky",atlanta-kentucky,atlanta-kentucky,UNK
+Atlanta,3673948,253,246,3673970,"http://en.wikipedia.org/wiki/Atlanta,_Birmingham_and_Atlantic_Railway","Atlanta, Birmingham and Atlantic Railway",atlanta-birmingham-and-atlantic-railway,atlanta-birmingham-and-atlantic-railway,UNK
+Atlanta,3138,13067,1125,71410;729870;2140;72311;3138;12865008;3354;3708;39721;595137;5042916;111530;11867;914151;77745;77741;23170240;1391178;3434750;403899;507179;22576;676303;27566;20733060;653621;34340070;274851;31717,http://en.wikipedia.org/wiki/Atlanta,Atlanta,atlanta,atlanta,GPE
+Atlanta,274851,290,253,3138;72311,http://en.wikipedia.org/wiki/Metropolitan_Atlanta_Rapid_Transit_Authority,Metropolitan Atlanta Rapid Transit Authority,metropolitan-atlanta-rapid-transit-authority,metropolitan-atlanta-rapid-transit-authority,UNK
+Atlanta,12151060,20,58,,http://en.wikipedia.org/wiki/Atlanta_(gastropod),Atlanta,atlanta,atlanta-gastropod,UNK
+Atlanta,914151,58,157,636847;3138;31717;236101,http://en.wikipedia.org/wiki/USS_Atlanta_(1861),USS Atlanta,uss-atlanta,uss-atlanta-1861,UNK
+Atlanta,114499,54,77,3434750,"http://en.wikipedia.org/wiki/Atlanta,_Kansas","Atlanta, Kansas",atlanta-kansas,atlanta-kansas,GPE
+Atlanta,9088582,23,46,374336;3434750,"http://en.wikipedia.org/wiki/Atlanta,_Idaho","Atlanta, Idaho",atlanta-idaho,atlanta-idaho,GPE
+Atlanta,676303,775,237,3138,http://en.wikipedia.org/wiki/Atlanta_Motor_Speedway,Atlanta Motor Speedway,atlanta-motor-speedway,atlanta-motor-speedway,UNK
+Atlanta,1077941,70,82,236101,http://en.wikipedia.org/wiki/USS_Atlanta_(SSN-712),USS Atlanta,uss-atlanta,uss-atlanta-ssn-712,UNK
+Atlanta,135649,146,85,3434750,"http://en.wikipedia.org/wiki/Atlanta,_Texas","Atlanta, Texas",atlanta-texas,atlanta-texas,GPE
+Atlanta,33673747,9,220,72311;507179,http://en.wikipedia.org/wiki/Atlanta_Hotel,Atlanta Hotel,atlanta-hotel,atlanta-hotel,UNK
+Atlanta,914170,29,38,9239;5334607;236101,http://en.wikipedia.org/wiki/USS_Atlanta_(1884),USS Atlanta,uss-atlanta,uss-atlanta-1884,UNK
+Games,7064580,8,9,,http://en.wikipedia.org/wiki/US_Games,US Games,us-games,us-games,UNK
+Games,5705620,2,6,3434750,http://en.wikipedia.org/wiki/DJ_Games,DJ Games,dj-games,dj-games,UNK
+Games,4078107,334,54,,http://en.wikipedia.org/wiki/1983_Pan_American_Games,1983 Pan American Games,1983-pan-american-games,1983-pan-american-games,ORG
+Games,2920565,16,59,31717;11884;3434750;11867,http://en.wikipedia.org/wiki/Queen_Games,Queen Games,queen-games,queen-games,UNK
+Games,1671466,43,68,9239,http://en.wikipedia.org/wiki/California_Games,California Games,california-games,california-games,UNK
+Games,16860619,14,10,,http://en.wikipedia.org/wiki/W!Games,W!Games,w-games,w-games,UNK
+Games,11614417,6,19,,"http://en.wikipedia.org/wiki/Games,_Learning_&_Society_Conference","Games, Learning & Society Conference",games-learning-society-conference,games-learning-society-conference,UNK
+Games,3814,2739,12,,http://en.wikipedia.org/wiki/Games_played,Games played,games-played,games-played,UNK
+Games,22576,19249,1017,13530298;71410;729870;72311;3138;3354;39721;67127;67118;67116;67299;178749;595137;5042916;113362;9239;11867;1856192;4037245;46827;4037753;77745;77741;18723138;1391178;856061;3434750;855087;21212;5334607;22576;1233952;4187191;27566;550718;1243315;653621;31717,http://en.wikipedia.org/wiki/Olympic_Games,Olympic Games,olympic-games,olympic-games,UNK
+Games,387509,232,229,,http://en.wikipedia.org/wiki/Lists_of_video_games,Lists of video games,lists-of-video-games,lists-of-video-games,UNK
+Games,3705012,4,154,,http://en.wikipedia.org/wiki/Game_(Scientology),Game,game,game-scientology,ORG
+Games,247401,83,136,1041281,http://en.wikipedia.org/wiki/Little_Games,Little Games,little-games,little-games,UNK
+Games,8118085,8,80,,http://en.wikipedia.org/wiki/King_Games,King Games,king-games,king-games,UNK
+Games,7589892,20,33,,http://en.wikipedia.org/wiki/Games_(seaQuest_DSV),Games,games,games-seaquest-dsv,UNK
+Games,1028592,96,32,18723138;3434750,http://en.wikipedia.org/wiki/Games_(magazine),Games,games,games-magazine,ORG
+Games,18723138,1225,218,22576;1028592,http://en.wikipedia.org/wiki/Game,Game,game,game,ORG
+Games,13940432,189,216,13940432,http://en.wikipedia.org/wiki/Games_(House),Games,games,games-house,UNK
+Michael Johnson,653621,520,651,67127;67116;3138;31717;46827;22576;71410;3434750;72311;77741;13530298;39721;569623,http://en.wikipedia.org/wiki/Michael_Johnson_(sprinter),Michael Johnson,michael-johnson,michael-johnson-sprinter,UNK
+Michael Johnson,27803223,6,32,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(cricketer),Michael Johnson,michael-johnson,michael-johnson-cricketer,UNK
+Michael Johnson,40826481,2,6,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(Wisconsin_politician),Michael Johnson,michael-johnson,michael-johnson-wisconsin-politician,PER
+Michael Johnson,4476802,135,144,6497323;569623,http://en.wikipedia.org/wiki/Michael_Johnson_(footballer_born_1973),Michael Johnson,michael-johnson,michael-johnson-footballer-born-1973,PER
+Michael Johnson,37642665,3,9,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(graphic_designer),Michael Johnson,michael-johnson,michael-johnson-graphic-designer,PER
+Michael Johnson,569909,137,62,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(singer),Michael Johnson,michael-johnson,michael-johnson-singer,PER
+Michael Johnson,24421426,0,4,3434750,http://en.wikipedia.org/wiki/Michael_Johnson_(canoeist),Michael Johnson,michael-johnson,michael-johnson-canoeist,PER
+Michael Johnson,13301345,1,4,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(ODNI),Michael Johnson,michael-johnson,michael-johnson-odni,PER
+Michael Johnson,31391490,3,10,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(footballer_born_1941),Michael Johnson,michael-johnson,michael-johnson-footballer-born-1941,PER
+Michael Johnson,40541240,2,4,5042916;569623,http://en.wikipedia.org/wiki/Michael_Johnson_(bodybuilder),Michael Johnson,michael-johnson,michael-johnson-bodybuilder,UNK
+Michael Johnson,13401636,94,104,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(safety),Michael Johnson,michael-johnson,michael-johnson-safety,UNK
+Michael Johnson,29478431,2,11,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(Gaelic_footballer),Michael Johnson,michael-johnson,michael-johnson-gaelic-footballer,PER
+Michael Johnson,27837535,50,59,3434750;569623,http://en.wikipedia.org/wiki/Michael_Johnson_(fighter),Michael Johnson,michael-johnson,michael-johnson-fighter,UNK
+Michael Johnson,19019404,114,122,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(defensive_end),Michael Johnson,michael-johnson,michael-johnson-defensive-end,UNK
+Michael Johnson,5214655,113,133,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(Australian_rules_footballer),Michael Johnson,michael-johnson,michael-johnson-australian-rules-footballer,PER
+Michael Johnson,6497323,27,55,17416221;569623;4476802,http://en.wikipedia.org/wiki/Michael_Johnson_(footballer_born_1988),Michael Johnson,michael-johnson,michael-johnson-footballer-born-1988,PER
+Michael Johnson,4023515,14,24,3434750;11867;569623,http://en.wikipedia.org/wiki/Michael_Johnson_(drummer),Michael Johnson,michael-johnson,michael-johnson-drummer,PER
+Michael Johnson,6715597,15,20,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(paralympian),Michael Johnson,michael-johnson,michael-johnson-paralympian,UNK
+Michael Johnson,569623,22,42,40826481;27837535;31391490;29478431;13301345;33876065;13401636;568848;4023515;35946155;6715597;5214655;19019404;653621;27803223;37642665;35565296;40541240;4476802;569909;6497323,http://en.wikipedia.org/wiki/Michael_Johnson,Michael Johnson,michael-johnson,michael-johnson,PER
+Michael Johnson,33876065,1,38,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(criminal),Michael Johnson,michael-johnson,michael-johnson-criminal,UNK
+Michael Johnson,35946155,36,34,77741;569623;31717,http://en.wikipedia.org/wiki/Michael_Johnson_(field_hockey),Michael Johnson,michael-johnson,michael-johnson-field-hockey,PER
+Michael Johnson,568848,25,24,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(politician),Michael Johnson,michael-johnson,michael-johnson-politician,PER
+Michael Johnson,35565296,1,8,569623,http://en.wikipedia.org/wiki/Michael_Johnson_(Caymanian_footballer),Michael Johnson,michael-johnson,michael-johnson-caymanian-footballer,PER
+Allan Wells,67299,169,192,67127;67118;67116;3708;5042916;31717;46827;22576;71410;3354,http://en.wikipedia.org/wiki/Allan_Wells,Allan Wells,allan-wells,allan-wells,PER
+Briton,31717,184306,1536,3295;3138;3354;3708;5195;9239;9483;11867;13525;22576;27566;31717;33170;39721;5042916;5334607;304821;25025144;71410;72311;67127;67118;67299;4096888;914151;75763;87187;83410;7514548;14244631;653621;21469239;11787932;595137;26450398;1856192;855087;17271126;2920565;412419;410720;4037245;158019;409543;35946155;715265;406269;152256;1559449;10505271;13530298;1187515;480153;3434750;17416221;6174697;461232;729870,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+Ruth,3108053,18,18,,http://en.wikipedia.org/wiki/Ruth_England,Ruth England,ruth-england,ruth-england,PER
+Ruth,7148767,4,36,,http://en.wikipedia.org/wiki/Ruth_Island,Ruth Island,ruth-island,ruth-island,UNK
+Ruth,34616587,2,8,,http://en.wikipedia.org/wiki/Ruth_France,Ruth France,ruth-france,ruth-france,PER
+Ruth,15348350,12,15,,http://en.wikipedia.org/wiki/Ruth_Bishop,Ruth Bishop,ruth-bishop,ruth-bishop,UNK
+Ruth,128213,23,39,3434750,"http://en.wikipedia.org/wiki/Ruth,_North_Carolina","Ruth, North Carolina",ruth-north-carolina,ruth-north-carolina,GPE
+Ruth,21303419,34,55,8471412;3434750,"http://en.wikipedia.org/wiki/Ruth,_California","Ruth, California",ruth-california,ruth-california,GPE
+Ruth,4173,1941,971,290327;4173;2140,http://en.wikipedia.org/wiki/Babe_Ruth,Babe Ruth,babe-ruth,babe-ruth,PER
+Ruth,2517429,13,16,3434750,http://en.wikipedia.org/wiki/Ruth_Glacier,Ruth Glacier,ruth-glacier,ruth-glacier,UNK
+Ruth,18317478,44,50,,"http://en.wikipedia.org/wiki/Ruth,_Virginia","Ruth, Virginia",ruth-virginia,ruth-virginia,GPE
+Ruth,29718876,3,10,,http://en.wikipedia.org/wiki/Mount_Ruth,Mount Ruth,mount-ruth,mount-ruth,UNK
+Ruth,38226662,10,27,3434750,"http://en.wikipedia.org/wiki/Ruth,_Mississippi","Ruth, Mississippi",ruth-mississippi,ruth-mississippi,GPE
+Ruth,18533347,143,35,11867,http://en.wikipedia.org/wiki/Ruth_Jacott,Ruth Jacott,ruth-jacott,ruth-jacott,PER
+Ruth,39158995,25,39,3434750,"http://en.wikipedia.org/wiki/Ruth,_Kentucky","Ruth, Kentucky",ruth-kentucky,ruth-kentucky,GPE
+Ruth,6646546,4,15,3434750,http://en.wikipedia.org/wiki/Ruth_Minsky_Sender,Ruth Minsky Sender,ruth-minsky-sender,ruth-minsky-sender,PER
+Ruth,8471412,4,16,21303419;3434750,http://en.wikipedia.org/wiki/Ruth_Airport,Ruth Airport,ruth-airport,ruth-airport,UNK
+Ruth,319010,111,72,,http://en.wikipedia.org/wiki/Ruth_Park,Ruth Park,ruth-park,ruth-park,UNK
+Ruth,21375091,4,25,,http://en.wikipedia.org/wiki/Ruth_Abbey,Ruth Abbey,ruth-abbey,ruth-abbey,UNK
+Ruth,29280144,64,25,4381,http://en.wikipedia.org/wiki/Ruth_(biblical_figure),Ruth,ruth,ruth-biblical-figure,PER
+Ruth,26542,367,440,3434750;9239;21212,http://en.wikipedia.org/wiki/Ruth_Benedict,Ruth Benedict,ruth-benedict,ruth-benedict,PER
+Ruth,37500088,46,167,483857;3434750,"http://en.wikipedia.org/wiki/Ruth,_Washington","Ruth, Washington",ruth-washington,ruth-washington,UNK
+Ruth,6127365,35,60,3434750,"http://en.wikipedia.org/wiki/Ruth,_Nevada","Ruth, Nevada",ruth-nevada,ruth-nevada,GPE
+Ruth,23548965,3,9,5042916,http://en.wikipedia.org/wiki/Ruth_Lake,Ruth Lake,ruth-lake,ruth-lake,UNK
+Ruth,9664353,26,26,,http://en.wikipedia.org/wiki/Ruth_(band),Ruth,ruth,ruth-band,UNK
+Ruth,4381,595,165,29280144,http://en.wikipedia.org/wiki/Book_of_Ruth,Book of Ruth,book-of-ruth,book-of-ruth,UNK
+Ruth,24822415,31,58,,http://en.wikipedia.org/wiki/Ruth_(sternwheeler_1895),Ruth,ruth,ruth-sternwheeler-1895,UNK
+Ruth,29920,1138,889,5042916;29920;11884,http://en.wikipedia.org/wiki/Truth,Truth,truth,truth,GPE
+Ruth,30219226,182,199,3434750,"http://en.wikipedia.org/wiki/Ruth,_West_Virginia","Ruth, West Virginia",ruth-west-virginia,ruth-west-virginia,GPE
+Africa,5334607,18375,769,22437592;38109008;1854;729870;13562519;3708;628999;1187515;9239;11884;11867;914170;17599440;8580547;715265;5334607;468634;22576;17416221;8150650;27067;152256;31661144;20272716;31717,http://en.wikipedia.org/wiki/Africa,Africa,africa,africa,GPE
+Africa,27067,1428,786,9239;1854;5334607;158019;13562519;17416221;77741,http://en.wikipedia.org/wiki/Sub-Saharan_Africa,Sub-Saharan Africa,sub-saharan-africa,sub-saharan-africa,UNK
+Africa,715265,3921,776,5042916;3434750;1854;729870;11867;14244631;5334607;31717;17416221,http://en.wikipedia.org/wiki/Confederation_of_African_Football,Confederation of African Football,confederation-of-african-football,confederation-of-african-football,ORG
+Africa,5312529,11,14,,http://en.wikipedia.org/wiki/Africa_University,Africa University,africa-university,africa-university,UNK
+Africa,8150650,8,41,5042916;5334607;3434750;11867,http://en.wikipedia.org/wiki/King_África,King África,king-africa,king-africa,PER
+Africa,957705,6,6,,http://en.wikipedia.org/wiki/Africa_(William_Billings),Africa,africa,africa-william-billings,GPE
+Africa,32015460,11,73,,http://en.wikipedia.org/wiki/Kingdom_of_Africa,Kingdom of Africa,kingdom-of-africa,kingdom-of-africa,UNK
+Africa,1854,295,264,9239;17416221;11867;1854;5334607;715265;27067,http://en.wikipedia.org/wiki/Geography_of_Africa,Geography of Africa,geography-of-africa,geography-of-africa,UNK
+Africa,17599440,16,23,5334607,http://en.wikipedia.org/wiki/Africa_(journal),Africa,africa,africa-journal,ORG
+Africa,22437592,76,80,5334607;9203587,http://en.wikipedia.org/wiki/.africa,.africa,africa,africa,UNK
+Africa,11310891,37,48,,"http://en.wikipedia.org/wiki/Africa,_Ohio","Africa, Ohio",africa-ohio,africa-ohio,GPE
+Africa,8580547,37,82,5334607,http://en.wikipedia.org/wiki/Africa_(Petrarch),Africa,africa,africa-petrarch,UNK
+Africa,468634,461,335,9239;468634;5334607;13525,http://en.wikipedia.org/wiki/Africa_(Roman_province),Africa,africa,africa-roman-province,UNK
+Africa,17416221,57523,1123,1854;5195;35231380;11884;11867;1956163;715265;27067;152256;152735;31717;5042916;5334607;71410;77741;3434750;17416221;6497323,http://en.wikipedia.org/wiki/South_Africa,South Africa,south-africa,south-africa,GPE
+Africa,31661144,1,7,31661144;5334607,http://en.wikipedia.org/wiki/Western_influence_on_Africa,Western influence on Africa,western-influence-on-africa,western-influence-on-africa,UNK
+Africa,38109008,57,101,5334607,http://en.wikipedia.org/wiki/Africa_(BBC_documentary_series),Africa,africa,africa-bbc-documentary-series,UNK
+United States,3434750,529967,1252,37792935;3365792;3295;3138;3354;3708;5195;6999;9239;9483;10612;11884;11867;2241658;22033;22576;26542;36069398;27566;1134236;31717;33170;39529;40570;3403042;46827;4460288;65508;27837535;71410;72311;24421426;67127;6788184;77741;37109790;2349327;114499;110853;111530;111867;112296;118243;116923;116630;115847;128213;3318459;3318457;126281;125065;124397;124114;122884;139660;132530;135649;138956;158019;30219226;37068084;5705620;9088582;27970654;215892;11054565;16877460;17866488;260232;21303419;23544719;36034872;6646546;290327;2517429;39158995;311346;9269386;3663136;358518;3551581;11457608;14244631;1318854;374336;3477715;410720;3499945;5489449;1559449;2398503;23222127;23222629;7422188;431669;23324639;1459417;483857;480153;3434750;461232;38226662;507179;15185357;6127365;38279445;25387901;25387678;8471412;5042916;5029525;9490944;21974174;6046607;653621;15082701;28439418;595137;715265;17416221;8150650;6174697;729870;20596936;37500088;2719448;1956163;42060415;4096888;14863992;895667;9765073;5805422;1856192;855087;20733060;12050833;2920565;2916729;4023515;1028592;34340070;22582057;993845;23831085,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+United States,195550,101,127,195515,http://en.wikipedia.org/wiki/USS_United_States_(1797),USS United States,uss-united-states,uss-united-states-1797,UNK
+United States,2719448,16,46,3434750,http://en.wikipedia.org/wiki/United_States_Live,United States Live,united-states-live,united-states-live,UNK
+United States,6174697,566,530,5042916;431669;158019;31717;6174697;3434750,http://en.wikipedia.org/wiki/Territorial_evolution_of_the_United_States,Territorial evolution of the United States,territorial-evolution-of-the-united-states,territorial-evolution-of-the-united-states,UNK
+United States,195515,9,7,195637;461232;195550,http://en.wikipedia.org/wiki/USS_United_States,USS United States,uss-united-states,uss-united-states,UNK
+United States,431669,2237,285,290327;5042916;431669;39529;3434750;40570;6174697,http://en.wikipedia.org/wiki/Northeastern_United_States,Northeastern United States,northeastern-united-states,northeastern-united-states,UNK
+United States,40570,857,545,431669;39529;3434750;40570,"http://en.wikipedia.org/wiki/United_States_presidential_election,_1980","United States presidential election, 1980",united-states-presidential-election-1980,united-states-presidential-election-1980,UNK
+United States,22033,135,97,3434750,http://en.wikipedia.org/wiki/Nicaragua_v._United_States,Nicaragua v. United States,nicaragua-v-united-states,nicaragua-v-united-states,PER
+United States,2111551,11,25,11867,http://en.wikipedia.org/wiki/Cramer_v._United_States,Cramer v. United States,cramer-v-united-states,cramer-v-united-states,UNK
+United States,993845,746,312,3434750;993845,http://en.wikipedia.org/wiki/United_States_nationality_law,United States nationality law,united-states-nationality-law,united-states-nationality-law,UNK
+United States,7422188,509,575,1134236;3434750,"http://en.wikipedia.org/wiki/United_States_Senate_elections,_2012","United States Senate elections, 2012",united-states-senate-elections-2012,united-states-senate-elections-2012,UNK
+United States,195637,31,45,195515,http://en.wikipedia.org/wiki/USS_United_States_(CVA-58),USS United States,uss-united-states,uss-united-states-cva-58,UNK
+United States,14863992,10,221,3434750;14863992,http://en.wikipedia.org/wiki/United_States_withdrawal_from_the_United_Nations,United States withdrawal from the United Nations,united-states-withdrawal-from-the-united-nations,united-states-withdrawal-from-the-united-nations,UNK
+United States,461232,241,384,31717;3434750;195515,http://en.wikipedia.org/wiki/SS_United_States,SS United States,ss-united-states,ss-united-states,UNK
+United States,5029525,27,254,5042916;3434750,http://en.wikipedia.org/wiki/Ethanol_fuel_in_the_United_States,Ethanol fuel in the United States,ethanol-fuel-in-the-united-states,ethanol-fuel-in-the-united-states,UNK
+United States,636847,221,42,914151;65508,http://en.wikipedia.org/wiki/United_States_Customs_Service,United States Customs Service,united-states-customs-service,united-states-customs-service,ORG
+United States,4096888,712,458,31717;11867;4096888;3434750;9239;39529,"http://en.wikipedia.org/wiki/United_States_elections,_2006","United States elections, 2006",united-states-elections-2006,united-states-elections-2006,UNK
+United States,65508,277,275,3434750;158019;13530298;636847,http://en.wikipedia.org/wiki/Great_Seal_of_the_United_States,Great Seal of the United States,great-seal-of-the-united-states,great-seal-of-the-united-states,UNK
+United States,1380075,391,371,,http://en.wikipedia.org/wiki/Reynolds_v._United_States,Reynolds v. United States,reynolds-v-united-states,reynolds-v-united-states,UNK
+United States,895667,46,133,3434750;46827,http://en.wikipedia.org/wiki/United_States_Olympic_Hall_of_Fame,United States Olympic Hall of Fame,united-states-olympic-hall-of-fame,united-states-olympic-hall-of-fame,UNK
+United States,10341263,6,88,10341263,http://en.wikipedia.org/wiki/United_States_raw_milk_debate,United States raw milk debate,united-states-raw-milk-debate,united-states-raw-milk-debate,GPE
+United States,39529,1083,393,431669;4096888;3434750;40570,"http://en.wikipedia.org/wiki/United_States_presidential_election,_1992","United States presidential election, 1992",united-states-presidential-election-1992,united-states-presidential-election-1992,UNK
+United States,3663136,242,335,3434750;3663136,http://en.wikipedia.org/wiki/High-speed_rail_in_the_United_States,High-speed rail in the United States,high-speed-rail-in-the-united-states,high-speed-rail-in-the-united-states,UNK
+United States,1134236,415,587,7422188;3434750,"http://en.wikipedia.org/wiki/United_States_Senate_elections,_2010","United States Senate elections, 2010",united-states-senate-elections-2010,united-states-senate-elections-2010,UNK
+United States,244351,94,228,,http://en.wikipedia.org/wiki/Korematsu_v._United_States,Korematsu v. United States,korematsu-v-united-states,korematsu-v-united-states,UNK
+Europe,9239,51349,1032,1854;3354;3708;17891966;9239;23620443;10612;1671466;11867;158019;21212;3499945;22576;26542;27067;152256;20272716;31717;311346;5334607;13530298;628999;4096888;1187515;358518;755102;914170;87187;3434750;468634;729870;13562519;20733060;249620,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+Europe,1187515,306,383,13562519;31717;11867;9239;1187515;3708;13530298;5334607,http://en.wikipedia.org/wiki/Geography_of_Europe,Geography of Europe,geography-of-europe,geography-of-europe,UNK
+Europe,628999,133,18,9239;5334607;20272716,"http://en.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa","Europe, the Middle East and Africa",europe-the-middle-east-and-africa,europe-the-middle-east-and-africa,UNK
+Europe,17891966,192,242,9239,http://en.wikipedia.org/wiki/Europe_(anthem),Europe,europe,europe-anthem,UNK
+Europe,7514548,108,319,31717,http://en.wikipedia.org/wiki/Europe_Street,Europe Street,europe-street,europe-street,GPE
+Europe,1659361,12,34,,http://en.wikipedia.org/wiki/European_Patent_Litigation_Agreement,European Patent Litigation Agreement,european-patent-litigation-agreement,european-patent-litigation-agreement,UNK
+Europe,5805422,293,153,87187;3434750,http://en.wikipedia.org/wiki/European_Union_Microsoft_competition_case,European Union Microsoft competition case,european-union-microsoft-competition-case,european-union-microsoft-competition-case,ORG
+Europe,15132000,13,28,,"http://en.wikipedia.org/wiki/Old_Europe,_New_Europe,_Core_Europe","Old Europe, New Europe, Core Europe",old-europe-new-europe-core-europe,old-europe-new-europe-core-europe,UNK
+Europe,2826281,77,84,,http://en.wikipedia.org/wiki/Europe_GAA,Europe GAA,europe-gaa,europe-gaa,GPE
+Europe,20272716,1,11,20272716;628999;9239;5334607,"http://en.wikipedia.org/wiki/Europe,_Middle_East,_Africa_and_Latin_America","Europe, Middle East, Africa and Latin America",europe-middle-east-africa-and-latin-america,europe-middle-east-africa-and-latin-america,UNK
+Europe,855087,344,374,5042916;31717;11867;22576;3434750;77745,http://en.wikipedia.org/wiki/Europe_(dinghy),Europe,europe,europe-dinghy,UNK
+Europe,87187,825,370,5805422;87187;31717;11867;9239;3708;2179597,http://en.wikipedia.org/wiki/European_Court_of_Justice,European Court of Justice,european-court-of-justice,european-court-of-justice,ORG
+Europe,13659804,72,126,11867,http://en.wikipedia.org/wiki/European_Youth_Chess_Championship,European Youth Chess Championship,european-youth-chess-championship,european-youth-chess-championship,PER
+Europe,14051635,1,6,,http://en.wikipedia.org/wiki/DJ_Europe,DJ Europe,dj-europe,dj-europe,UNK
+Europe,358518,602,118,358518;3434750;9239,http://en.wikipedia.org/wiki/Europe_(band),Europe,europe,europe-band,UNK
+Europe,304821,111,138,31717;304821,http://en.wikipedia.org/wiki/2003_European_heat_wave,2003 European heat wave,2003-european-heat-wave,2003-european-heat-wave,UNK
+Europe,755102,85,158,9239;13530298,http://en.wikipedia.org/wiki/Old_Europe_(archaeology),Old Europe,old-europe,old-europe-archaeology,UNK
+Europe,11787932,277,273,31717;11884;11867,http://en.wikipedia.org/wiki/European_driving_licence,European driving licence,european-driving-licence,european-driving-licence,UNK
+Europe,12586001,1,13,,http://en.wikipedia.org/wiki/Europe_Lake,Europe Lake,europe-lake,europe-lake,UNK
+Europe,503907,29,46,,http://en.wikipedia.org/wiki/Europe_(Paris_Métro),Europe,europe,europe-paris-metro,UNK
+Europe,13562519,17,304,9239;1187515;5334607;27067,http://en.wikipedia.org/wiki/Greater_Europe,Greater Europe,greater-europe,greater-europe,ORG
+Europe,406269,18,53,31717;11867,http://en.wikipedia.org/wiki/Old_Europe_(politics),Old Europe,old-europe,old-europe-politics,ORG
+Europe,26450398,2,11,31717,http://en.wikipedia.org/wiki/Europe/London,Europe/London,europe-london,europe-london,PER
+Europe,3499945,3,21,3434750;9239,http://en.wikipedia.org/wiki/Europe_(story),Europe,europe,europe-story,UNK
+Europe,23620443,13,20,9239,http://en.wikipedia.org/wiki/Europe_(magazine),Europe,europe,europe-magazine,UNK
+Carl Lewis,67127,874,754,72311;39721;67118;67116;67299;31717;46827;22576;653621;3434750,http://en.wikipedia.org/wiki/Carl_Lewis,Carl Lewis,carl-lewis,carl-lewis,UNK
+Brussels,3708,11851,706,475014;87187;3434750;729870;33170;3295;3138;1459417;3354;3708;269753;67299;575501;5334607;1187515;28195378;27931386;9239;410720;11867;7439700;31717;4318956,http://en.wikipedia.org/wiki/Brussels,Brussels,brussels,brussels,GPE
+Brussels,27931386,48,110,21212;3708;11884,http://en.wikipedia.org/wiki/District_of_Brussels,District of Brussels,district-of-brussels,district-of-brussels,UNK
+Brussels,269753,596,457,575501;28195378;3708;4318956;21212,http://en.wikipedia.org/wiki/Brussels_Airport,Brussels Airport,brussels-airport,brussels-airport,UNK
+Brussels,110853,44,56,3434750,"http://en.wikipedia.org/wiki/Brussels,_Illinois","Brussels, Illinois",brussels-illinois,brussels-illinois,GPE
+Brussels,28195378,170,130,269753;3708;575501,http://en.wikipedia.org/wiki/Brussels_International_(1897),Brussels International,brussels-international,brussels-international-1897,PER
+Brussels,138956,61,80,28439418;3705113;3434750,"http://en.wikipedia.org/wiki/Brussels,_Wisconsin","Brussels, Wisconsin",brussels-wisconsin,brussels-wisconsin,GPE
+Brussels,232832,25,25,5042916,"http://en.wikipedia.org/wiki/Brussels,_Ontario","Brussels, Ontario",brussels-ontario,brussels-ontario,GPE
+Brussels,4318956,462,343,269753;11884;3708,http://en.wikipedia.org/wiki/Brussels_Airlines,Brussels Airlines,brussels-airlines,brussels-airlines,ORG
+Brussels,1459417,22,24,3708;3434750,http://en.wikipedia.org/wiki/Brussels_Park,Brussels Park,brussels-park,brussels-park,UNK
+Brussels,410720,96,101,3708;5042916;31717;3434750;11867,http://en.wikipedia.org/wiki/Brussels_sprout,Brussels sprout,brussels-sprout,brussels-sprout,UNK
+Brussels,575501,203,76,269753;28195378;3708,http://en.wikipedia.org/wiki/City_of_Brussels,City of Brussels,city-of-brussels,city-of-brussels,UNK
+Brussels,28439418,49,63,138956;3434750,"http://en.wikipedia.org/wiki/Brussels_(community),_Wisconsin","Brussels (community), Wisconsin",brussels-community-wisconsin,brussels-community-wisconsin,GPE
+Brussels,4547759,8,13,,http://en.wikipedia.org/wiki/Brussels_cheese,Brussels cheese,brussels-cheese,brussels-cheese,UNK
+Brussels,29334066,2,17,,http://en.wikipedia.org/wiki/Brussels_II,Brussels II,brussels-ii,brussels-ii,UNK

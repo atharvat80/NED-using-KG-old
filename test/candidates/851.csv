@@ -1,0 +1,73 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Brazil,3383,84101,1038,8079600;3383;3631;4752;30863678;690287;13688885;2377528;149286;31756;4628340;3271715;681926;11982053;1043873;357590;8794264;112165;30868004;27301828;19886337;30871369,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Brazil,30868004,2,61,3383,http://en.wikipedia.org/wiki/Brazil_International,Brazil International,brazil-international,brazil-international,UNK
+Brazil,16052160,4,59,,"http://en.wikipedia.org/wiki/Brazil,_Northern_Cape","Brazil, Northern Cape",brazil-northern-cape,brazil-northern-cape,UNK
+Brazil,13707513,57,75,112165,"http://en.wikipedia.org/wiki/Brazil_Township,_Clay_County,_Indiana","Brazil Township, Clay County, Indiana",brazil-township-clay-county-indiana,brazil-township-clay-county-indiana,GPE
+Brazil,13688885,76,71,3383,http://en.wikipedia.org/wiki/Kingdom_of_Brazil,Kingdom of Brazil,kingdom-of-brazil,kingdom-of-brazil,GPE
+Brazil,681926,1338,314,3383;149286,http://en.wikipedia.org/wiki/Brazilian_Football_Confederation,Brazilian Football Confederation,brazilian-football-confederation,brazilian-football-confederation,UNK
+Brazil,8794264,635,458,2377528;4752;27301828;1043873;30871369;690287;3383;3631;30863678;11982053,http://en.wikipedia.org/wiki/Tourism_in_Brazil,Tourism in Brazil,tourism-in-brazil,tourism-in-brazil,ORG
+Brazil,36002865,24,50,,http://en.wikipedia.org/wiki/Brazil_with_Michael_Palin,Brazil with Michael Palin,brazil-with-michael-palin,brazil-with-michael-palin,UNK
+Brazil,22575394,2,6,,"http://en.wikipedia.org/wiki/Brazil_Lake,_Nova_Scotia","Brazil Lake, Nova Scotia",brazil-lake-nova-scotia,brazil-lake-nova-scotia,GPE
+Brazil,38154757,13,29,,"http://en.wikipedia.org/wiki/Brazil,_Kentucky","Brazil, Kentucky",brazil-kentucky,brazil-kentucky,UNK
+Brazil,112165,193,213,13707513;3383,"http://en.wikipedia.org/wiki/Brazil,_Indiana","Brazil, Indiana",brazil-indiana,brazil-indiana,GPE
+Brazil,29333456,0,11,,http://en.wikipedia.org/wiki/Mount_Brazil,Mount Brazil,mount-brazil,mount-brazil,UNK
+Brazil,27301828,209,230,8794264;3383,http://en.wikipedia.org/wiki/Coffee_production_in_Brazil,Coffee production in Brazil,coffee-production-in-brazil,coffee-production-in-brazil,UNK
+Brazil,27565426,23,40,,"http://en.wikipedia.org/wiki/Brazil,_Mississippi","Brazil, Mississippi",brazil-mississippi,brazil-mississippi,GPE
+Brazil,38411413,57,77,11982053,"http://en.wikipedia.org/wiki/Little_Brazil,_Manhattan","Little Brazil, Manhattan",little-brazil-manhattan,little-brazil-manhattan,UNK
+Brazil,149286,3969,1115,149286;3383;4752;681926,http://en.wikipedia.org/wiki/Brazil_national_football_team,Brazil national football team,brazil-national-football-team,brazil-national-football-team,ORG
+Brazil,3631,653,292,2377528;4752;1043873;30871369;690287;3383;3631;8794264;30863678;11982053,http://en.wikipedia.org/wiki/Geography_of_Brazil,Geography of Brazil,geography-of-brazil,geography-of-brazil,UNK
+Brazil,357590,167,107,690287;4752;3383,http://en.wikipedia.org/wiki/Communist_Party_of_Brazil,Communist Party of Brazil,communist-party-of-brazil,communist-party-of-brazil,ORG
+Brazil,7519411,23,26,,http://en.wikipedia.org/wiki/Brazil_(band),Brazil,brazil,brazil-band,UNK
+Brazil,4497173,48,14,,http://en.wikipedia.org/wiki/Little_Brazil,Little Brazil,little-brazil,little-brazil,UNK
+Brazil,4628340,199,184,11982053;3383,http://en.wikipedia.org/wiki/Dutch_Brazil,Dutch Brazil,dutch-brazil,dutch-brazil,GPE
+Brazil,19886337,4,48,3383,http://en.wikipedia.org/wiki/Brazil_(public_relations_agency),Brazil,brazil,brazil-public-relations-agency,UNK
+Congress,690287,881,231,357590;2377528;1259217;31756;4752;1043873;30871369;3383;716265;3631;8794264;36546;30863678;11982053,http://en.wikipedia.org/wiki/National_Congress_of_Brazil,National Congress of Brazil,national-congress-of-brazil,national-congress-of-brazil,UNK
+Congress,42945401,4,8,,http://en.wikipedia.org/wiki/Congress_Records,Congress Records,congress-records,congress-records,UNK
+Congress,13953774,14,11,,http://en.wikipedia.org/wiki/Congress_Theatre_(Eastbourne),Congress Theatre,congress-theatre,congress-theatre-eastbourne,UNK
+Congress,3019735,21,27,,http://en.wikipedia.org/wiki/Olympic_Congress,Olympic Congress,olympic-congress,olympic-congress,ORG
+Congress,716265,308,158,1259217;31756;36546;690287,http://en.wikipedia.org/wiki/National_Congress_of_Chile,National Congress of Chile,national-congress-of-chile,national-congress-of-chile,UNK
+Congress,36546,151,103,716265;31756;690287;26248885;149333;375568;1580464,http://en.wikipedia.org/wiki/Congress,Congress,congress,congress,UNK
+Congress,375568,1076,141,375568;36546,http://en.wikipedia.org/wiki/Congress_Poland,Congress Poland,congress-poland,congress-poland,GPE
+Congress,20956005,2,12,31756;261996,http://en.wikipedia.org/wiki/USS_Congress_(ID-3698),USS Congress,uss-congress,uss-congress-id-3698,UNK
+Congress,3580808,27,35,261996,http://en.wikipedia.org/wiki/USS_Congress_(1868),USS Congress,uss-congress,uss-congress-1868,UNK
+Congress,1989419,62,71,,http://en.wikipedia.org/wiki/Congress_(solitaire),Congress,congress,congress-solitaire,UNK
+Congress,7450356,50,62,12703039;129948;6597740,"http://en.wikipedia.org/wiki/Congress_Township,_Wayne_County,_Ohio","Congress Township, Wayne County, Ohio",congress-township-wayne-county-ohio,congress-township-wayne-county-ohio,GPE
+Congress,6597740,31,47,12703039;7450356,"http://en.wikipedia.org/wiki/Congress_Township,_Morrow_County,_Ohio","Congress Township, Morrow County, Ohio",congress-township-morrow-county-ohio,congress-township-morrow-county-ohio,GPE
+Congress,1259217,10,43,716265;690287,http://en.wikipedia.org/wiki/National_Congress_(Ecuador),National Congress,national-congress,national-congress-ecuador,UNK
+Congress,31625901,89,77,,"http://en.wikipedia.org/wiki/Congress_Street_(Portland,_Maine)",Congress Street,congress-street,congress-street-portland-maine,UNK
+Congress,2002046,99,91,,http://en.wikipedia.org/wiki/Congress_Center,Congress Center,congress-center,congress-center,UNK
+Congress,21743104,7,8,,"http://en.wikipedia.org/wiki/Congress,_Saskatchewan","Congress, Saskatchewan",congress-saskatchewan,congress-saskatchewan,GPE
+Congress,22572104,58,54,,"http://en.wikipedia.org/wiki/Congress_Park,_Denver","Congress Park, Denver",congress-park-denver,congress-park-denver,UNK
+Congress,261996,11,6,20956005;15026335;15026978;498642;262008;3580808,http://en.wikipedia.org/wiki/USS_Congress,USS Congress,uss-congress,uss-congress,UNK
+Congress,26696758,92,85,,http://en.wikipedia.org/wiki/Congress_Street_(Boston),Congress Street,congress-street,congress-street-boston,UNK
+Congress,129948,44,60,7450356,"http://en.wikipedia.org/wiki/Congress,_Ohio","Congress, Ohio",congress-ohio,congress-ohio,GPE
+Congress,31756,12790,1337,36546;3383;690287;262008;20956005;716265;31756,http://en.wikipedia.org/wiki/United_States_Congress,United States Congress,united-states-congress,united-states-congress,ORG
+Congress,1526859,226,63,149333,http://en.wikipedia.org/wiki/Indian_National_Congress_(Organisation),Indian National Congress,indian-national-congress,indian-national-congress-organisation,UNK
+Congress,1093154,2,36,149333,http://en.wikipedia.org/wiki/Congress_(Dolo),Congress,congress,congress-dolo,UNK
+Congress,5297687,42,20,7380922;24823462,http://en.wikipedia.org/wiki/Indian_National_Congress_(Urs),Indian National Congress,indian-national-congress,indian-national-congress-urs,UNK
+Congress,627842,361,86,,http://en.wikipedia.org/wiki/International_Congress_of_Mathematicians,International Congress of Mathematicians,international-congress-of-mathematicians,international-congress-of-mathematicians,UNK
+Congress,15026978,2,8,261996,http://en.wikipedia.org/wiki/USS_Congress_(1777),USS Congress,uss-congress,uss-congress-1777,UNK
+Congress,12703039,0,2,7450356;6597740,"http://en.wikipedia.org/wiki/Congress_Township,_Ohio","Congress Township, Ohio",congress-township-ohio,congress-township-ohio,UNK
+Congress,26248885,60,78,36546,http://en.wikipedia.org/wiki/The_Congress_(short_story),The Congress,the-congress,the-congress-short-story,UNK
+Congress,5622339,3,9,,http://en.wikipedia.org/wiki/Congress_Theatre_(Torfaen),Congress Theatre,congress-theatre,congress-theatre-torfaen,UNK
+Congress,262008,53,110,498642;31756;261996,http://en.wikipedia.org/wiki/USS_Congress_(1799),USS Congress,uss-congress,uss-congress-1799,UNK
+Congress,149333,7245,571,1093154;36546;24823462;1526859;149333,http://en.wikipedia.org/wiki/Indian_National_Congress,Indian National Congress,indian-national-congress,indian-national-congress,UNK
+Congress,498642,88,86,262008;261996,http://en.wikipedia.org/wiki/USS_Congress_(1841),USS Congress,uss-congress,uss-congress-1841,UNK
+Congress,15026335,6,16,261996,http://en.wikipedia.org/wiki/USS_Congress_(1776),USS Congress,uss-congress,uss-congress-1776,UNK
+Congress,106783,66,76,,"http://en.wikipedia.org/wiki/Congress,_Arizona","Congress, Arizona",congress-arizona,congress-arizona,GPE
+Congress,7380922,3,5,5297687,http://en.wikipedia.org/wiki/Indian_National_Congress_(Jagjivan),Indian National Congress,indian-national-congress,indian-national-congress-jagjivan,UNK
+Congress,1580464,127,53,36546,http://en.wikipedia.org/wiki/National_Congress_(Sudan),National Congress,national-congress,national-congress-sudan,UNK
+Congress,4932335,1,12,,http://en.wikipedia.org/wiki/Congress_(Secular),Congress,congress,congress-secular,UNK
+Congress,733904,55,15,,http://en.wikipedia.org/wiki/Chaos_Communication_Congress,Chaos Communication Congress,chaos-communication-congress,chaos-communication-congress,UNK
+Congress,24823462,5,5,5297687;149333,http://en.wikipedia.org/wiki/Congress_(A),Congress,congress,congress-a,UNK
+Congress,32140958,12,12,,http://en.wikipedia.org/wiki/Congress_Party_(Barbados),Congress Party,congress-party,congress-party-barbados,ORG
+BRASILIA,4752,1491,563,3271715;690287;8794264;149286;357590;2377528;1043873;30871369;3383;3631;30863678;11982053,http://en.wikipedia.org/wiki/Brasília,Brasília,brasilia,brasilia,GPE
+BRASILIA,30871369,99,259,3631;8794264;690287;4752;11982053;3383,http://en.wikipedia.org/wiki/Brasília_International_Airport,Brasília International Airport,brasilia-international-airport,brasilia-international-airport,UNK
+BRASILIA,3271715,116,107,4752;3383,http://en.wikipedia.org/wiki/Volkswagen_Brasilia,Volkswagen Brasilia,volkswagen-brasilia,volkswagen-brasilia,UNK
+BRASILIA,2377528,62,215,3631;8794264;690287;4752;11982053;3383,http://en.wikipedia.org/wiki/University_of_Brasília,University of Brasília,university-of-brasilia,university-of-brasilia,ORG
+Brazilian,3383,84101,1038,8079600;3383;3631;4752;30863678;690287;13688885;2377528;149286;31756;4628340;3271715;681926;11982053;1043873;357590;8794264;112165;30868004;27301828;19886337;30871369,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Brazilian,30863678,354,347,1043873;690287;3383;3631;8794264;30863678;4752;11982053,http://en.wikipedia.org/wiki/Italian_Brazilian,Italian Brazilian,italian-brazilian,italian-brazilian,UNK
+Brazilian,8079600,11,28,3383,http://en.wikipedia.org/wiki/Brazilian_Island,Brazilian Island,brazilian-island,brazilian-island,UNK
+Brazilian,8691009,13,27,,http://en.wikipedia.org/wiki/The_Brazilian,The Brazilian,the-brazilian,the-brazilian,UNK
+Brazilian,1043873,372,442,690287;3383;3631;8794264;30863678;4752;11982053,http://en.wikipedia.org/wiki/German_Brazilian,German Brazilian,german-brazilian,german-brazilian,UNK
+Brazilian,11982053,1714,305,4752;690287;8794264;2377528;1043873;30871369;3383;3631;30863678;4628340;38411413,http://en.wikipedia.org/wiki/Brazilian_people,Brazilian people,brazilian-people,brazilian-people,UNK

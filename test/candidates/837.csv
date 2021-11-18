@@ -1,0 +1,13 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Senegal,27278,10647,617,24395259;30319422;20313871;1017436;44251;27280;27278;27629;354620;387560,http://en.wikipedia.org/wiki/Senegal,Senegal,senegal,senegal,GPE
+Senegal,30319422,12,320,27278;44251,http://en.wikipedia.org/wiki/Senegal_Airlines,Senegal Airlines,senegal-airlines,senegal-airlines,UNK
+Senegal,27629,173,148,24395259;27280;27278;44251,http://en.wikipedia.org/wiki/Senegal_River,Senegal River,senegal-river,senegal-river,UNK
+Senegal,27280,84,116,27629;27278;387560,http://en.wikipedia.org/wiki/Geography_of_Senegal,Geography of Senegal,geography-of-senegal,geography-of-senegal,UNK
+Senegal,1017436,808,312,27278;44251,http://en.wikipedia.org/wiki/Senegal_national_football_team,Senegal national football team,senegal-national-football-team,senegal-national-football-team,UNK
+Senegal,24395259,82,104,44251;27629;27278,http://en.wikipedia.org/wiki/French_conquest_of_Senegal,French conquest of Senegal,french-conquest-of-senegal,french-conquest-of-senegal,UNK
+DAKAR,44251,2176,271,24395259;1017436;20313871;30319422;27278;387560;27629,http://en.wikipedia.org/wiki/Dakar,Dakar,dakar,dakar,GPE
+DAKAR,387560,202,39,27280;27278;44251;20313871,http://en.wikipedia.org/wiki/Dakar_Region,Dakar Region,dakar-region,dakar-region,UNK
+DAKAR,20313871,24,25,44251;27278;387560,http://en.wikipedia.org/wiki/Grand_Dakar,Grand Dakar,grand-dakar,grand-dakar,GPE
+DAKAR,15315240,12,8,,http://en.wikipedia.org/wiki/Dakar_Records,Dakar Records,dakar-records,dakar-records,UNK
+interior ministry,354620,154,230,27278,http://en.wikipedia.org/wiki/Interior_ministry,Interior ministry,interior-ministry,interior-ministry,ORG
+Senegalese,27278,10647,617,24395259;30319422;20313871;1017436;44251;27280;27278;27629;354620;387560,http://en.wikipedia.org/wiki/Senegal,Senegal,senegal,senegal,GPE

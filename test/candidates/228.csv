@@ -1,0 +1,24 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+South Korean,27019,38617,831,905855;2932451;1056336;16749;19159283;21255;21257;4251353;27021;27019;106424;4196610;4894490;598720;4607874;876553;1565499;298883;298884;23143408,http://en.wikipedia.org/wiki/South_Korea,South Korea,south-korea,south-korea,GPE
+South Korean,16749,11146,390,106424;16749;19159283;4196610;298883;298884;4894490;21255;21257;4251353;876553;2932451;27021;27019;1565499,http://en.wikipedia.org/wiki/Korea,Korea,korea,korea,GPE
+SEOUL,19159283,10914,801,16749;19159283;4196610;298884;905855;21255;598720;4607874;876553;27021;27019;1056336,http://en.wikipedia.org/wiki/Seoul,Seoul,seoul,seoul,GPE
+SEOUL,4607874,41,47,876553;19159283;27019,http://en.wikipedia.org/wiki/University_of_Seoul,University of Seoul,university-of-seoul,university-of-seoul,UNK
+SEOUL,1056336,815,370,876553;1056336;19159283;27019,http://en.wikipedia.org/wiki/FC_Seoul,FC Seoul,fc-seoul,fc-seoul,UNK
+SEOUL,4975108,0,2,,http://en.wikipedia.org/wiki/Seoul_Airport,Seoul Airport,seoul-airport,seoul-airport,UNK
+SEOUL,4196610,94,63,19159283;27019;16749,http://en.wikipedia.org/wiki/Seoul_Institute_of_the_Arts,Seoul Institute of the Arts,seoul-institute-of-the-arts,seoul-institute-of-the-arts,UNK
+SEOUL,2178409,106,299,2178409,http://en.wikipedia.org/wiki/Little_Seoul,Little Seoul,little-seoul,little-seoul,UNK
+SEOUL,905855,376,310,19159283;27019,http://en.wikipedia.org/wiki/Seoul_Station,Seoul Station,seoul-station,seoul-station,UNK
+South Korea,27019,38617,831,905855;2932451;1056336;16749;19159283;21255;21257;4251353;27021;27019;106424;4196610;4894490;598720;4607874;876553;1565499;298883;298884;23143408,http://en.wikipedia.org/wiki/South_Korea,South Korea,south-korea,south-korea,GPE
+South Korea,598720,59,92,19159283;27019,"http://en.wikipedia.org/wiki/South_Korean_legislative_election,_2004","South Korean legislative election, 2004",south-korean-legislative-election-2004,south-korean-legislative-election-2004,UNK
+South Korea,27021,294,126,21255;21257;19159283;106424;27019;16749,http://en.wikipedia.org/wiki/Geography_of_South_Korea,Geography of South Korea,geography-of-south-korea,geography-of-south-korea,UNK
+South Korea,298884,500,219,106424;16749;298883;21255;19159283;27019,http://en.wikipedia.org/wiki/South_Korean_won,South Korean won,south-korean-won,south-korean-won,UNK
+South Korea,2932451,170,127,27019;16749,http://en.wikipedia.org/wiki/South_Korean_nationality_law,South Korean nationality law,south-korean-nationality-law,south-korean-nationality-law,UNK
+Yonsei University,876553,637,252,876553;16749;19159283;1056336;1565499;27019;4607874,http://en.wikipedia.org/wiki/Yonsei_University,Yonsei University,yonsei-university,yonsei-university,UNK
+North Korea,21255,8616,751,106424;16749;19159283;298883;298884;4894490;21255;21257;4251353;23143408;27021;27019;1565499,http://en.wikipedia.org/wiki/North_Korea,North Korea,north-korea,north-korea,GPE
+North Korea,23143408,49,98,106424;21255;27019,http://en.wikipedia.org/wiki/2009_imprisonment_of_American_journalists_by_North_Korea,2009 imprisonment of American journalists by North Korea,2009-imprisonment-of-american-journalists-by-north-korea,2009-imprisonment-of-american-journalists-by-north-korea,ORG
+North Korea,1565499,294,227,876553;4894490;106424;16749;21255;4251353;27019,http://en.wikipedia.org/wiki/Human_rights_in_North_Korea,Human rights in North Korea,human-rights-in-north-korea,human-rights-in-north-korea,UNK
+North Korea,21257,257,143,21255;106424;27021;27019;16749,http://en.wikipedia.org/wiki/Geography_of_North_Korea,Geography of North Korea,geography-of-north-korea,geography-of-north-korea,UNK
+North Korea,4251353,212,112,21255;4251353;106424;1565499;27019;16749,http://en.wikipedia.org/wiki/Religion_in_North_Korea,Religion in North Korea,religion-in-north-korea,religion-in-north-korea,UNK
+North Korea,4894490,99,66,4894490;106424;21255;1565499;27019;16749,http://en.wikipedia.org/wiki/North_Korean_famine,North Korean famine,north-korean-famine,north-korean-famine,UNK
+North Korea,298883,159,145,298884;21255;106424;27019;16749,http://en.wikipedia.org/wiki/North_Korean_won,North Korean won,north-korean-won,north-korean-won,UNK
+North Korea,106424,238,288,4894490;23143408;16749;298883;298884;21255;21257;4251353;1565499;27021;27019,http://en.wikipedia.org/wiki/North_Korea_and_weapons_of_mass_destruction,North Korea and weapons of mass destruction,north-korea-and-weapons-of-mass-destruction,north-korea-and-weapons-of-mass-destruction,UNK

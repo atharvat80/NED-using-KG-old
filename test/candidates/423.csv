@@ -1,0 +1,88 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+HUNGARY,13275,41515,1160,2431061;2983896;37103142;211931;2119664;4719597;30865546;13275;3118361;12751433;1395649;1253388;13972;13425;11668053;5798733;5798281;221746;2519422;27544196;12022316;1017652;26065737;954796;1689781;32821489;1765612;896074;1688457;35621875;15766633;40859731;12163387;34515067;10682945;29642802;3205346;35271059;36787;1864538;869307;1706985;879716;44229;13555214;41235379;41235373;1849465;1598647;11486519;22105602;861261;679739;15095113,http://en.wikipedia.org/wiki/Hungary,Hungary,hungary,hungary,GPE
+HUNGARY,13425,428,325,13275;879716;11668053;13972;869307;211931;36787;1706985;13425;41235379;1598647;41235373,http://en.wikipedia.org/wiki/Geography_of_Hungary,Geography of Hungary,geography-of-hungary,geography-of-hungary,UNK
+HUNGARY,11668053,295,214,13275;879716;13972;36787;221746;13425;41235379;1598647;41235373,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1920–46),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1920–46,GPE
+HUNGARY,879716,3332,324,2431061;11668053;954796;36787;41235379;41235373;13275;221746;1598647;13972;37209221;13425;1745221,http://en.wikipedia.org/wiki/Kingdom_of_Hungary,Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary,GPE
+HUNGARY,41235373,187,393,13275;879716;11668053;13972;211931;13425;41235379;1598647,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1000–1301),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1000–1301,UNK
+HUNGARY,1598647,125,179,36787;13275;879716;13425;11668053;13972;41235379;1598647;41235373,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1526–1867),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1526–1867,GPE
+HUNGARY,41235379,187,368,13275;879716;11668053;13972;13425;1598647;41235373,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1301–1526),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1301–1526,UNK
+HUNGARY,1745221,135,156,879716;13972;1745221,http://en.wikipedia.org/wiki/Greater_Hungary_(political_concept),Greater Hungary,greater-hungary,greater-hungary-political-concept,UNK
+HUNGARY,679739,2201,810,13275;221746;3205346;11486519;36787;30865546;4719597;5798733;32821489;861261;896074;1688457;869307;211931,http://en.wikipedia.org/wiki/Hungary_national_football_team,Hungary national football team,hungary-national-football-team,hungary-national-football-team,UNK
+BUDAPEST,36787,11402,907,29642802;2431061;1849465;3205346;35271059;11668053;36787;5798733;5798281;1864538;869307;211931;221746;1598647;4719597;2519422;9837826;38163771;27544196;1706985;879716;1017652;1689781;32821489;22105602;861261;896074;1688457;679739;13275;15095113;2753827;1395649;13972;40859731;13425;34515067,http://en.wikipedia.org/wiki/Budapest,Budapest,budapest,budapest,GPE
+BUDAPEST,27544196,1,13,13275;1864538;13972;36787,http://en.wikipedia.org/wiki/Little_Budapest,Little Budapest,little-budapest,little-budapest,GPE
+BUDAPEST,1864538,12,6,13275;22105602;15095113;27544196;36787,http://en.wikipedia.org/wiki/Greater_Budapest,Greater Budapest,greater-budapest,greater-budapest,UNK
+BUDAPEST,1849465,12,31,13275;36787,"http://en.wikipedia.org/wiki/Budapest,_Georgia","Budapest, Georgia",budapest-georgia,budapest-georgia,UNK
+BUDAPEST,12751433,3,6,13275;37103142,http://en.wikipedia.org/wiki/Budapest_school,Budapest school,budapest-school,budapest-school,PER
+BUDAPEST,1116786,2,9,,http://en.wikipedia.org/wiki/Budapest_(band),Budapest,budapest,budapest-band,UNK
+BUDAPEST,38163771,19,27,36787,http://en.wikipedia.org/wiki/Budapest_(film_series),Budapest,budapest,budapest-film-series,UNK
+BUDAPEST,37103142,12,140,13275;13972;12751433,http://en.wikipedia.org/wiki/Budapest_School_(Lukács),Budapest School,budapest-school,budapest-school-lukacs,UNK
+BUDAPEST,1849441,14,3,,"http://en.wikipedia.org/wiki/Budapest,_Missouri","Budapest, Missouri",budapest-missouri,budapest-missouri,GPE
+Hungarian,13275,41515,1160,2431061;2983896;37103142;211931;2119664;4719597;30865546;13275;3118361;12751433;1395649;1253388;13972;13425;11668053;5798733;5798281;221746;2519422;27544196;12022316;1017652;26065737;954796;1689781;32821489;1765612;896074;1688457;35621875;15766633;40859731;12163387;34515067;10682945;29642802;3205346;35271059;36787;1864538;869307;1706985;879716;44229;13555214;41235379;41235373;1849465;1598647;11486519;22105602;861261;679739;15095113,http://en.wikipedia.org/wiki/Hungary,Hungary,hungary,hungary,GPE
+Hungarian,12163387,4,83,13275,http://en.wikipedia.org/wiki/Hungarian_International,Hungarian International,hungarian-international,hungarian-international,UNK
+Hungarian,13555214,1,8,13275;13555214,http://en.wikipedia.org/wiki/Hungarian_system,Hungarian system,hungarian-system,hungarian-system,UNK
+Hungarian,13972,8551,296,11668053;2983896;36787;37103142;3502905;221746;1598647;2519422;27544196;879716;1017652;26065737;954796;11486519;44229;896074;41235379;41235373;13275;1395649;13972;37209221;13425;1745221,http://en.wikipedia.org/wiki/Hungarian_language,Hungarian language,hungarian-language,hungarian-language,UNK
+Hungarian,2983896,216,339,13275;13972,http://en.wikipedia.org/wiki/Hungarian_American,Hungarian American,hungarian-american,hungarian-american,UNK
+Hungarian,2753827,21,88,36787,http://en.wikipedia.org/wiki/Hungarian_opera,Hungarian opera,hungarian-opera,hungarian-opera,ORG
+Hungarian,44229,21,43,13275;13972,http://en.wikipedia.org/wiki/Hungarian_notation,Hungarian notation,hungarian-notation,hungarian-notation,UNK
+Hungarian,3502905,113,108,3502905;13972,http://en.wikipedia.org/wiki/Hungarian_Wikipedia,Hungarian Wikipedia,hungarian-wikipedia,hungarian-wikipedia,UNK
+Hungarian,28772227,3,9,,http://en.wikipedia.org/wiki/Hungarian_Village,Hungarian Village,hungarian-village,hungarian-village,UNK
+Stadler,4546423,101,30,,http://en.wikipedia.org/wiki/Stadler_Rail,Stadler Rail,stadler-rail,stadler-rail,UNK
+Stadler,29621747,1,10,,http://en.wikipedia.org/wiki/Mount_Stadler,Mount Stadler,mount-stadler,mount-stadler,UNK
+Haladas,11486519,422,234,12022316;13275;3205346;861261;896074;13972;1688457;5798733;30865546;32821489;679739,http://en.wikipedia.org/wiki/Szombathelyi_Haladás,Szombathelyi Haladás,szombathelyi-haladas,szombathelyi-haladas,UNK
+MTK,3205346,544,372,12022316;13275;5798733;32821489;861261;1395649;896074;11486519;1688457;36787;30865546;679739;35621875,http://en.wikipedia.org/wiki/MTK_Budapest_FC,MTK Budapest FC,mtk-budapest-fc,mtk-budapest-fc,UNK
+MTK,35621875,21,20,13275;3205346,http://en.wikipedia.org/wiki/MTK_(basketball_team),MTK,mtk,mtk-basketball-team,UNK
+Ferencvaros,861261,1135,742,12022316;13275;3205346;1395649;11486519;36787;30865546;4719597;5798733;32821489;5798281;896074;1688457;679739,http://en.wikipedia.org/wiki/Ferencvárosi_TC,Ferencvárosi TC,ferencvarosi-tc,ferencvarosi-tc,UNK
+Ferencvaros,1395649,64,62,22105602;15095113;1689781;36787;13275;3205346;13972;861261;1395649,http://en.wikipedia.org/wiki/Ferencváros,Ferencváros,ferencvaros,ferencvaros,UNK
+Bekescsaba,1017652,323,186,211931;36787;13275;221746;10682945;13972;869307,http://en.wikipedia.org/wiki/Békéscsaba,Békéscsaba,bekescsaba,bekescsaba,UNK
+Bekescsaba,10682945,192,69,12022316;13275;1017652;32821489;4719597;1688457,http://en.wikipedia.org/wiki/Békéscsaba_1912_Előre_SE,Békéscsaba 1912 Előre SE,bekescsaba-1912-elore-se,bekescsaba-1912-elore-se,UNK
+BVSC,5798281,153,63,12022316;36787;13275;861261,http://en.wikipedia.org/wiki/BVSC_Budapest,BVSC Budapest,bvsc-budapest,bvsc-budapest,UNK
+BVSC,40859731,0,25,13275;36787,http://en.wikipedia.org/wiki/BVSC_(men's_water_polo),BVSC,bvsc,bvsc-mens-water-polo,UNK
+Csepel,9837826,126,27,1689781;12022316;36787,http://en.wikipedia.org/wiki/Csepel_SC,Csepel SC,csepel-sc,csepel-sc,UNK
+Csepel,1689781,56,32,13275;9837826;22105602;15095113;1395649;36787;1706985,http://en.wikipedia.org/wiki/Csepel,Csepel,csepel,csepel,UNK
+Csepel,35271059,3,9,13275;36787,http://en.wikipedia.org/wiki/Csepel_FC,Csepel FC,csepel-fc,csepel-fc,ORG
+Csepel,1706985,112,84,1689781;13425;36787;13275;869307,http://en.wikipedia.org/wiki/Csepel_Island,Csepel Island,csepel-island,csepel-island,UNK
+Videoton(*,30865546,777,503,12022316;13275;5798733;32821489;15766633;3205346;861261;896074;11486519;1688457;869307;679739;4719597,http://en.wikipedia.org/wiki/Videoton_FC,Videoton FC,videoton-fc,videoton-fc,UNK
+Videoton(*,15766633,9,13,13275;30865546;869307,http://en.wikipedia.org/wiki/Videoton_(company),Videoton,videoton,videoton-company,UNK
+ZTE,1688457,383,90,12022316;13275;3205346;861261;11486519;5798733;36787;30865546;32821489;679739;10682945;4719597,http://en.wikipedia.org/wiki/Zalaegerszegi_TE,Zalaegerszegi TE,zalaegerszegi-te,zalaegerszegi-te,UNK
+ZTE,1785141,776,366,1785141,http://en.wikipedia.org/wiki/ZTE,ZTE,zte,zte,ORG
+Debrecen,32821489,900,572,12022316;13275;5798733;221746;3205346;861261;896074;11486519;1688457;36787;30865546;679739;10682945,http://en.wikipedia.org/wiki/Debreceni_VSC,Debreceni VSC,debreceni-vsc,debreceni-vsc,UNK
+Debrecen,3118361,88,51,13275;2519422;221746,http://en.wikipedia.org/wiki/University_of_Debrecen,University of Debrecen,university-of-debrecen,university-of-debrecen,ORG
+Debrecen,2119664,24,36,13275;221746,http://en.wikipedia.org/wiki/Debrecen_International_Airport,Debrecen International Airport,debrecen-international-airport,debrecen-international-airport,UNK
+Debrecen,221746,1267,260,2119664;13275;879716;1017652;3118361;32821489;11668053;13972;869307;211931;36787;679739,http://en.wikipedia.org/wiki/Debrecen,Debrecen,debrecen,debrecen,UNK
+Siofok,1253388,182,285,12022316;13275,http://en.wikipedia.org/wiki/Siófok,Siófok,siofok,siofok,UNK
+Siofok,12022316,321,125,13275;3205346;861261;896074;9837826;1253388;11486519;1688457;5798733;30865546;32821489;10682945;4719597;5798281,http://en.wikipedia.org/wiki/BFC_Siófok,BFC Siófok,bfc-siofok,bfc-siofok,UNK
+Ujpest,896074,880,344,12022316;13275;5798733;15095113;32821489;3205346;861261;896074;13972;11486519;36787;30865546;679739,http://en.wikipedia.org/wiki/Újpest_FC,Újpest FC,ujpest-fc,ujpest-fc,UNK
+Ujpest,15095113,97,48,896074;22105602;15095113;1689781;1864538;36787;13275;1395649,http://en.wikipedia.org/wiki/Újpest,Újpest,ujpest,ujpest,UNK
+Vac,36460681,0,4,,http://en.wikipedia.org/wiki/Vack,Vack,vack,vack,UNK
+Vac,3976905,185,183,32473,http://en.wikipedia.org/wiki/Vaccine_injury,Vaccine injury,vaccine-injury,vaccine-injury,ORG
+Vac,42670317,1,6,,http://en.wikipedia.org/wiki/-vac,-vac,-vac,-vac,PER
+Vac,1029111,24,49,,http://en.wikipedia.org/wiki/Vāc,Vāc,vac,vac,UNK
+Vac,308158,54,67,,http://en.wikipedia.org/wiki/Vacuum_energy,Vacuum energy,vacuum-energy,vacuum-energy,UNK
+Vac,2431061,253,245,13275;879716;36787,http://en.wikipedia.org/wiki/Vác,Vác,vac,vac,UNK
+Vac,4205746,9,25,,http://en.wikipedia.org/wiki/Vacuum_engineering,Vacuum engineering,vacuum-engineering,vacuum-engineering,UNK
+Vac,32473,851,215,3976905,http://en.wikipedia.org/wiki/Vaccination,Vaccination,vaccination,vaccination,ORG
+Vasas,4719597,646,131,29642802;12022316;13275;861261;1688457;18452119;36787;30865546;679739;10682945,http://en.wikipedia.org/wiki/Vasas_SC,Vasas SC,vasas-sc,vasas-sc,UNK
+Vasas,29642802,0,3,4719597;13275;36787,http://en.wikipedia.org/wiki/Vasas_SC_(women's_handball),Vasas SC,vasas-sc,vasas-sc-womens-handball,UNK
+Vasas,18452119,2,1,4719597,http://en.wikipedia.org/wiki/Vasas_S.C.,Vasas S.C.,vasas-sc,vasas-sc,UNK
+Vasas,34515067,0,40,13275;36787,http://en.wikipedia.org/wiki/Vasas_SC_(men's_water_polo),Vasas SC,vasas-sc,vasas-sc-mens-water-polo,UNK
+Kispest,22105602,36,27,13275;15095113;1689781;1395649;1864538;36787,http://en.wikipedia.org/wiki/Kispest,Kispest,kispest,kispest,UNK
+Pecs,1765612,3,12,211931;13275,http://en.wikipedia.org/wiki/Pécs_Brewery,Pécs Brewery,pecs-brewery,pecs-brewery,PER
+Pecs,26065737,1,8,211931;13275;13972,http://en.wikipedia.org/wiki/Lake_Pécs,Lake Pécs,lake-pecs,lake-pecs,UNK
+Pecs,211931,994,598,13275;1017652;2519422;221746;26065737;1765612;869307;211931;36787;679739;13425;41235373,http://en.wikipedia.org/wiki/Pécs,Pécs,pecs,pecs,UNK
+Pecs,2519422,100,43,211931;36787;13275;13972;3118361;2519422;869307,http://en.wikipedia.org/wiki/University_of_Pécs,University of Pécs,university-of-pecs,university-of-pecs,ORG
+FTC,861261,1135,742,12022316;13275;3205346;1395649;11486519;36787;30865546;4719597;5798733;32821489;5798281;896074;1688457;679739,http://en.wikipedia.org/wiki/Ferencvárosi_TC,Ferencvárosi TC,ferencvarosi-tc,ferencvarosi-tc,UNK
+Videoton,30865546,777,503,12022316;13275;5798733;32821489;15766633;3205346;861261;896074;11486519;1688457;869307;679739;4719597,http://en.wikipedia.org/wiki/Videoton_FC,Videoton FC,videoton-fc,videoton-fc,UNK
+Videoton,15766633,9,13,13275;30865546;869307,http://en.wikipedia.org/wiki/Videoton_(company),Videoton,videoton,videoton-company,UNK
+Gyor,5798733,672,398,12022316;13275;32821489;3205346;861261;896074;11486519;1688457;869307;36787;30865546;679739,http://en.wikipedia.org/wiki/Győri_ETO_FC,Győri ETO FC,gyori-eto-fc,gyori-eto-fc,UNK
+Gyor,37209221,6,14,879716;13972,http://en.wikipedia.org/wiki/Győr_(genus),Győr,gyor,gyor-genus,PER
+Gyor,869307,773,412,13275;1017652;2519422;5798733;221746;15766633;954796;211931;36787;30865546;679739;1706985;13425,http://en.wikipedia.org/wiki/Győr,Győr,gyor,gyor,UNK
+Gyor,954796,86,100,13275;13972;879716;869307,http://en.wikipedia.org/wiki/Győr_County,Győr County,gyor-county,gyor-county,UNK
+Budapest,36787,11402,907,29642802;2431061;1849465;3205346;35271059;11668053;36787;5798733;5798281;1864538;869307;211931;221746;1598647;4719597;2519422;9837826;38163771;27544196;1706985;879716;1017652;1689781;32821489;22105602;861261;896074;1688457;679739;13275;15095113;2753827;1395649;13972;40859731;13425;34515067,http://en.wikipedia.org/wiki/Budapest,Budapest,budapest,budapest,GPE
+Budapest,27544196,1,13,13275;1864538;13972;36787,http://en.wikipedia.org/wiki/Little_Budapest,Little Budapest,little-budapest,little-budapest,GPE
+Budapest,1864538,12,6,13275;22105602;15095113;27544196;36787,http://en.wikipedia.org/wiki/Greater_Budapest,Greater Budapest,greater-budapest,greater-budapest,UNK
+Budapest,1849465,12,31,13275;36787,"http://en.wikipedia.org/wiki/Budapest,_Georgia","Budapest, Georgia",budapest-georgia,budapest-georgia,UNK
+Budapest,12751433,3,6,13275;37103142,http://en.wikipedia.org/wiki/Budapest_school,Budapest school,budapest-school,budapest-school,PER
+Budapest,1116786,2,9,,http://en.wikipedia.org/wiki/Budapest_(band),Budapest,budapest,budapest-band,UNK
+Budapest,38163771,19,27,36787,http://en.wikipedia.org/wiki/Budapest_(film_series),Budapest,budapest,budapest-film-series,UNK
+Budapest,37103142,12,140,13275;13972;12751433,http://en.wikipedia.org/wiki/Budapest_School_(Lukács),Budapest School,budapest-school,budapest-school-lukacs,UNK
+Budapest,1849441,14,3,,"http://en.wikipedia.org/wiki/Budapest,_Missouri","Budapest, Missouri",budapest-missouri,budapest-missouri,GPE

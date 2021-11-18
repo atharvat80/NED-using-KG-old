@@ -1,0 +1,37 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Hungary,13275,41515,1160,2983896;37103142;13275;12751433;13972;13425;11668053;27544196;12163387;36787;1864538;879716;44229;13555214;41235379;41235373;1849465;1598647;679739,http://en.wikipedia.org/wiki/Hungary,Hungary,hungary,hungary,GPE
+Hungary,679739,2201,810,13275;36787,http://en.wikipedia.org/wiki/Hungary_national_football_team,Hungary national football team,hungary-national-football-team,hungary-national-football-team,UNK
+Hungary,13425,428,325,13275;879716;11668053;13972;36787;13425;41235379;1598647;41235373,http://en.wikipedia.org/wiki/Geography_of_Hungary,Geography of Hungary,geography-of-hungary,geography-of-hungary,UNK
+Hungary,41235373,187,393,13275;879716;11668053;13972;13425;41235379;1598647,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1000–1301),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1000–1301,UNK
+Hungary,879716,3332,324,11668053;36787;41235379;41235373;13275;1598647;13972;13425;1745221,http://en.wikipedia.org/wiki/Kingdom_of_Hungary,Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary,GPE
+Hungary,11668053,295,214,13275;879716;13972;36787;13425;41235379;1598647;41235373,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1920–46),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1920–46,GPE
+Hungary,1598647,125,179,36787;13275;879716;13425;11668053;13972;41235379;1598647;41235373,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1526–1867),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1526–1867,GPE
+Hungary,41235379,187,368,13275;879716;11668053;13972;13425;1598647;41235373,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1301–1526),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1301–1526,UNK
+Hungary,1745221,135,156,879716;13972;1745221,http://en.wikipedia.org/wiki/Greater_Hungary_(political_concept),Greater Hungary,greater-hungary,greater-hungary-political-concept,UNK
+BUDAPEST,36787,11402,907,1849465;11668053;36787;1864538;1598647;38163771;27544196;879716;679739;13275;2753827;13972;13425,http://en.wikipedia.org/wiki/Budapest,Budapest,budapest,budapest,GPE
+BUDAPEST,27544196,1,13,13275;1864538;13972;36787,http://en.wikipedia.org/wiki/Little_Budapest,Little Budapest,little-budapest,little-budapest,GPE
+BUDAPEST,1849465,12,31,13275;36787,"http://en.wikipedia.org/wiki/Budapest,_Georgia","Budapest, Georgia",budapest-georgia,budapest-georgia,UNK
+BUDAPEST,12751433,3,6,13275;37103142,http://en.wikipedia.org/wiki/Budapest_school,Budapest school,budapest-school,budapest-school,PER
+BUDAPEST,1116786,2,9,,http://en.wikipedia.org/wiki/Budapest_(band),Budapest,budapest,budapest-band,UNK
+BUDAPEST,38163771,19,27,36787,http://en.wikipedia.org/wiki/Budapest_(film_series),Budapest,budapest,budapest-film-series,UNK
+BUDAPEST,37103142,12,140,13275;13972;12751433,http://en.wikipedia.org/wiki/Budapest_School_(Lukács),Budapest School,budapest-school,budapest-school-lukacs,UNK
+BUDAPEST,1849441,14,3,,"http://en.wikipedia.org/wiki/Budapest,_Missouri","Budapest, Missouri",budapest-missouri,budapest-missouri,GPE
+BUDAPEST,1864538,12,6,13275;27544196;36787,http://en.wikipedia.org/wiki/Greater_Budapest,Greater Budapest,greater-budapest,greater-budapest,UNK
+Hungarian,13275,41515,1160,2983896;37103142;13275;12751433;13972;13425;11668053;27544196;12163387;36787;1864538;879716;44229;13555214;41235379;41235373;1849465;1598647;679739,http://en.wikipedia.org/wiki/Hungary,Hungary,hungary,hungary,GPE
+Hungarian,13972,8551,296,11668053;2983896;36787;37103142;3502905;1598647;27544196;879716;44229;41235379;41235373;13275;13972;13425;1745221,http://en.wikipedia.org/wiki/Hungarian_language,Hungarian language,hungarian-language,hungarian-language,UNK
+Hungarian,12163387,4,83,13275,http://en.wikipedia.org/wiki/Hungarian_International,Hungarian International,hungarian-international,hungarian-international,UNK
+Hungarian,13555214,1,8,13275;13555214,http://en.wikipedia.org/wiki/Hungarian_system,Hungarian system,hungarian-system,hungarian-system,UNK
+Hungarian,2983896,216,339,13275;13972,http://en.wikipedia.org/wiki/Hungarian_American,Hungarian American,hungarian-american,hungarian-american,UNK
+Hungarian,2753827,21,88,36787,http://en.wikipedia.org/wiki/Hungarian_opera,Hungarian opera,hungarian-opera,hungarian-opera,ORG
+Hungarian,44229,21,43,13275;13972,http://en.wikipedia.org/wiki/Hungarian_notation,Hungarian notation,hungarian-notation,hungarian-notation,UNK
+Hungarian,3502905,113,108,3502905;13972,http://en.wikipedia.org/wiki/Hungarian_Wikipedia,Hungarian Wikipedia,hungarian-wikipedia,hungarian-wikipedia,UNK
+Hungarian,28772227,3,9,,http://en.wikipedia.org/wiki/Hungarian_Village,Hungarian Village,hungarian-village,hungarian-village,UNK
+Budapest,36787,11402,907,1849465;11668053;36787;1864538;1598647;38163771;27544196;879716;679739;13275;2753827;13972;13425,http://en.wikipedia.org/wiki/Budapest,Budapest,budapest,budapest,GPE
+Budapest,27544196,1,13,13275;1864538;13972;36787,http://en.wikipedia.org/wiki/Little_Budapest,Little Budapest,little-budapest,little-budapest,GPE
+Budapest,1849465,12,31,13275;36787,"http://en.wikipedia.org/wiki/Budapest,_Georgia","Budapest, Georgia",budapest-georgia,budapest-georgia,UNK
+Budapest,12751433,3,6,13275;37103142,http://en.wikipedia.org/wiki/Budapest_school,Budapest school,budapest-school,budapest-school,PER
+Budapest,1116786,2,9,,http://en.wikipedia.org/wiki/Budapest_(band),Budapest,budapest,budapest-band,UNK
+Budapest,38163771,19,27,36787,http://en.wikipedia.org/wiki/Budapest_(film_series),Budapest,budapest,budapest-film-series,UNK
+Budapest,37103142,12,140,13275;13972;12751433,http://en.wikipedia.org/wiki/Budapest_School_(Lukács),Budapest School,budapest-school,budapest-school-lukacs,UNK
+Budapest,1849441,14,3,,"http://en.wikipedia.org/wiki/Budapest,_Missouri","Budapest, Missouri",budapest-missouri,budapest-missouri,GPE
+Budapest,1864538,12,6,13275;27544196;36787,http://en.wikipedia.org/wiki/Greater_Budapest,Greater Budapest,greater-budapest,greater-budapest,UNK

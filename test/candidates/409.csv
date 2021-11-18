@@ -1,0 +1,193 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+PAKISTAN,23235,33617,1132,10748937;764545;66143;23861256;1965925;37029084;413184;9316;288197;12249;478115;759295;14533;759125;15524;17867;28171281;1026286;21670;407754;23363;23235;2579761;464417;15684890;4689264;13920327;6375316;387687;4913064;501393;429283;39849556;3662295,http://en.wikipedia.org/wiki/Pakistan,Pakistan,pakistan,pakistan,GPE
+PAKISTAN,1965925,2031,377,28171281;3662295;413184;6375316;429283;1965925;759295;14533;1026286;23363;23235,http://en.wikipedia.org/wiki/Pakistan_Army,Pakistan Army,pakistan-army,pakistan-army,ORG
+PAKISTAN,24442938,2,14,3662295;14533,"http://en.wikipedia.org/wiki/Pakistan,_India","Pakistan, India",pakistan-india,pakistan-india,UNK
+PAKISTAN,6375316,856,581,15684890;28171281;429283;1965925;759295;14533;3662295;1026286;23363;6375316;23235,http://en.wikipedia.org/wiki/Nuclear_power_in_Pakistan,Nuclear power in Pakistan,nuclear-power-in-pakistan,nuclear-power-in-pakistan,UNK
+PAKISTAN,3662295,473,123,24442938;28171281;429283;4913064;413184;23363;4689264;1965925;6375316;759295;23235,http://en.wikipedia.org/wiki/Dominion_of_Pakistan,Dominion of Pakistan,dominion-of-pakistan,dominion-of-pakistan,GPE
+PAKISTAN,464417,6,20,4689264;23235;9316,http://en.wikipedia.org/wiki/Pakistan_International,Pakistan International,pakistan-international,pakistan-international,UNK
+PAKISTAN,759295,1423,649,897249;66143;15684890;252677;478115;3662295;501393;2579761;894415;413202;413184;9316;6375316;407754;429283;4913064;1965925;288197;759295;14533;759125;1026286;23363;4689264;15524;1351354;387687;23235;3379941,http://en.wikipedia.org/wiki/Pakistan_national_cricket_team,Pakistan national cricket team,pakistan-national-cricket-team,pakistan-national-cricket-team,ORG
+PAKISTAN,1026286,1055,367,15684890;28171281;429283;1965925;65836;759295;14533;1026286;23363;6375316;23235,http://en.wikipedia.org/wiki/Pakistan_Movement,Pakistan Movement,pakistan-movement,pakistan-movement,ORG
+PAKISTAN,23363,415,510,15684890;28171281;429283;1026286;23363;1965925;6375316;759295;14533;3662295;23235,http://en.wikipedia.org/wiki/Geography_of_Pakistan,Geography of Pakistan,geography-of-pakistan,geography-of-pakistan,GPE
+WASIM AKRAM,501393,363,245,2579761;894415;897249;66143;28171281;252677;4913064;478115;413202;413184;9316;4689264;288197;15524;1351354;759295;14533;407754;759125;23235;3379941,http://en.wikipedia.org/wiki/Wasim_Akram,Wasim Akram,wasim-akram,wasim-akram,PER
+LONDON,17867,92094,1769,33567266;27902154;23861256;423106;9904;413184;9316;288197;12249;1679120;691024;14533;823473;17867;13190957;407950;23235;315351;1290035;4913064;6020679;187448;3879356;33347419;10748937;2023355;2313050;4689264;22437586;98370;238524;387687;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,326248,1048,124,,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,1113158,173,161,2193334;9316;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,118409,547,127,17867;12249;9316,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,823473,354,150,187448;17867;508567;9316,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,2023355,27,32,17867;98370;9316,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,33567266,19,43,17867;14533,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,187448,1900,216,823473;17867;508567;640154,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,7984054,3,37,,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,13190957,2,122,17867,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,12249,3253,543,2193334;17867;9316;10748937;640154;118409;1113158;1679120;14533;98370;2313050;4689264;423106;23235,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,98370,828,279,17867;1679120;12249;2023355;423106;387687,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,2193334,214,159,9316;1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,238524,118,60,407950;17867;9316,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,1679120,12,181,17867;98370;12249,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+Wasim Akram,501393,363,245,2579761;894415;897249;66143;28171281;252677;4913064;478115;413202;413184;9316;4689264;288197;15524;1351354;759295;14533;407754;759125;23235;3379941,http://en.wikipedia.org/wiki/Wasim_Akram,Wasim Akram,wasim-akram,wasim-akram,PER
+Pakistan,759295,1423,649,897249;66143;15684890;252677;478115;3662295;501393;2579761;894415;413202;413184;9316;6375316;407754;429283;4913064;1965925;288197;759295;14533;759125;1026286;23363;4689264;15524;1351354;387687;23235;3379941,http://en.wikipedia.org/wiki/Pakistan_national_cricket_team,Pakistan national cricket team,pakistan-national-cricket-team,pakistan-national-cricket-team,ORG
+Pakistan,1965925,2031,377,28171281;3662295;413184;6375316;429283;1965925;759295;14533;1026286;23363;23235,http://en.wikipedia.org/wiki/Pakistan_Army,Pakistan Army,pakistan-army,pakistan-army,ORG
+Pakistan,24442938,2,14,3662295;14533,"http://en.wikipedia.org/wiki/Pakistan,_India","Pakistan, India",pakistan-india,pakistan-india,UNK
+Pakistan,6375316,856,581,15684890;28171281;429283;1965925;759295;14533;3662295;1026286;23363;6375316;23235,http://en.wikipedia.org/wiki/Nuclear_power_in_Pakistan,Nuclear power in Pakistan,nuclear-power-in-pakistan,nuclear-power-in-pakistan,UNK
+Pakistan,3662295,473,123,24442938;28171281;429283;4913064;413184;23363;4689264;1965925;6375316;759295;23235,http://en.wikipedia.org/wiki/Dominion_of_Pakistan,Dominion of Pakistan,dominion-of-pakistan,dominion-of-pakistan,GPE
+Pakistan,464417,6,20,4689264;23235;9316,http://en.wikipedia.org/wiki/Pakistan_International,Pakistan International,pakistan-international,pakistan-international,UNK
+Pakistan,23235,33617,1132,10748937;764545;66143;23861256;1965925;37029084;413184;9316;288197;12249;478115;759295;14533;759125;15524;17867;28171281;1026286;21670;407754;23363;23235;2579761;464417;15684890;4689264;13920327;6375316;387687;4913064;501393;429283;39849556;3662295,http://en.wikipedia.org/wiki/Pakistan,Pakistan,pakistan,pakistan,GPE
+Pakistan,1026286,1055,367,15684890;28171281;429283;1965925;65836;759295;14533;1026286;23363;6375316;23235,http://en.wikipedia.org/wiki/Pakistan_Movement,Pakistan Movement,pakistan-movement,pakistan-movement,ORG
+Pakistan,23363,415,510,15684890;28171281;429283;1026286;23363;1965925;6375316;759295;14533;3662295;23235,http://en.wikipedia.org/wiki/Geography_of_Pakistan,Geography of Pakistan,geography-of-pakistan,geography-of-pakistan,GPE
+England,759125,3045,583,252677;2579761;894415;9904;413202;413184;9316;4913064;288197;3379941;897249;66143;478115;501393;691024;407754;759295;14533;2313050;4689264;15524;1351354;387687;23235,http://en.wikipedia.org/wiki/England_cricket_team,England cricket team,england-cricket-team,england-cricket-team,UNK
+England,969337,393,514,2313050;407950;9316,http://en.wikipedia.org/wiki/England_in_the_Middle_Ages,England in the Middle Ages,england-in-the-middle-ages,england-in-the-middle-ages,UNK
+England,286698,28,66,9316,"http://en.wikipedia.org/wiki/England,_Half-English","England, Half-English",england-half-english,england-half-english,UNK
+England,1959391,13,20,,"http://en.wikipedia.org/wiki/England,_Their_England","England, Their England",england-their-england,england-their-england,UNK
+England,71290,22,46,71290,"http://en.wikipedia.org/wiki/England,_England","England, England",england-england,england-england,UNK
+England,2539441,50,55,,"http://en.wikipedia.org/wiki/England,_Arkansas","England, Arkansas",england-arkansas,england-arkansas,GPE
+England,407950,3926,354,17867;9316;407950;2313050;969337;238524,http://en.wikipedia.org/wiki/Kingdom_of_England,Kingdom of England,kingdom-of-england,kingdom-of-england,GPE
+England,2313050,249,428,9904;17867;12249;407950;691024;9316;2313050;759125;969337,http://en.wikipedia.org/wiki/Geography_of_England,Geography of England,geography-of-england,geography-of-england,UNK
+England,29406796,3,11,,http://en.wikipedia.org/wiki/Mount_England,Mount England,mount-england,mount-england,UNK
+England,8008415,23,37,1739788;4684902,http://en.wikipedia.org/wiki/USS_England_(DLG-22),USS England,uss-england,uss-england-dlg-22,UNK
+England,9316,158848,1726,286698;9904;9316;12249;14533;15524;823473;17867;18285383;21670;23235;273592;66143;2313050;39359154;387687;118409;1113158;1351354;413202;413184;691024;11803289;969337;407950;407754;37053158;4913064;6020679;10748937;2023355;2193334;478115;759295;759125;464417;1023035;4689264;238524;501393;42130745,http://en.wikipedia.org/wiki/England,England,england,england,GPE
+England,2825496,25,261,,http://en.wikipedia.org/wiki/Edward_England,Edward England,edward-england,edward-england,PER
+England,40427896,3,17,,http://en.wikipedia.org/wiki/England_(band),England,england,england-band,UNK
+England,6020679,0,42,17867;9316,http://en.wikipedia.org/wiki/England_(British_postage_stamps),England,england,england-british-postage-stamps,UNK
+England,691024,3595,744,17867;9904;9316;4913064;2313050;759125;620967;4689264;387687,http://en.wikipedia.org/wiki/England_national_rugby_union_team,England national rugby union team,england-national-rugby-union-team,england-national-rugby-union-team,UNK
+England,29113191,14,40,,"http://en.wikipedia.org/wiki/England,_My_England","England, My England",england-my-england,england-my-england,UNK
+England,27926611,24,45,,"http://en.wikipedia.org/wiki/England_Hill,_Kentucky","England Hill, Kentucky",england-hill-kentucky,england-hill-kentucky,GPE
+England,11803289,759,375,9904;9316,http://en.wikipedia.org/wiki/England_national_under-19_football_team,England national under-19 football team,england-national-under-19-football-team,england-national-under-19-football-team,UNK
+England,39916947,3,147,,"http://en.wikipedia.org/wiki/Little_England_(Gloucester,_Virginia)",Little England,little-england,little-england-gloucester-virginia,UNK
+England,1739788,4,5,4684902;8008415,http://en.wikipedia.org/wiki/USS_England,USS England,uss-england,uss-england,UNK
+England,3646972,38,39,,"http://en.wikipedia.org/wiki/England,_My_England_and_Other_Stories","England, My England and Other Stories",england-my-england-and-other-stories,england-my-england-and-other-stories,ORG
+England,4684902,174,226,8008415;1739788;4689264,http://en.wikipedia.org/wiki/USS_England_(DE-635),USS England,uss-england,uss-england-de-635,UNK
+England,9904,10143,731,17867;9904;9316;691024;11803289;1023035;2313050;759125;387687,http://en.wikipedia.org/wiki/England_national_football_team,England national football team,england-national-football-team,england-national-football-team,UNK
+The Oval,387687,1660,368,897249;17867;2579761;9904;413202;691024;9316;288197;759295;98370;759125;15524;1351354;23235;3379941,http://en.wikipedia.org/wiki/The_Oval,The Oval,the-oval,the-oval,UNK
+The Oval,28466415,1,12,3379941;478115,http://en.wikipedia.org/wiki/The_Oval_(Llandudno),The Oval,the-oval,the-oval-llandudno,UNK
+The Oval,9883994,1,9,,http://en.wikipedia.org/wiki/The_Oval_(Wirral),The Oval,the-oval,the-oval-wirral,UNK
+The Oval,4512040,14,9,,http://en.wikipedia.org/wiki/The_Oval_(Caernarfon),The Oval,the-oval,the-oval-caernarfon,UNK
+The Oval,42130745,4,20,9316,http://en.wikipedia.org/wiki/The_Oval_(Wednesbury),The Oval,the-oval,the-oval-wednesbury,UNK
+The Oval,2208235,174,47,,http://en.wikipedia.org/wiki/The_Oval_(Belfast),The Oval,the-oval,the-oval-belfast,UNK
+The Oval,37465670,2,6,,http://en.wikipedia.org/wiki/The_Oval_(Prestwick),The Oval,the-oval,the-oval-prestwick,UNK
+Wasim,501393,363,245,2579761;894415;897249;66143;28171281;252677;4913064;478115;413202;413184;9316;4689264;288197;15524;1351354;759295;14533;407754;759125;23235;3379941,http://en.wikipedia.org/wiki/Wasim_Akram,Wasim Akram,wasim-akram,wasim-akram,PER
+Pakistani,23235,33617,1132,10748937;764545;66143;23861256;1965925;37029084;413184;9316;288197;12249;478115;759295;14533;759125;15524;17867;28171281;1026286;21670;407754;23363;23235;2579761;464417;15684890;4689264;13920327;6375316;387687;4913064;501393;429283;39849556;3662295,http://en.wikipedia.org/wiki/Pakistan,Pakistan,pakistan,pakistan,GPE
+Pakistani,15684890,259,96,23363;6375316;28171281;759295;429283;1026286;23235,http://en.wikipedia.org/wiki/Pakistani_architecture,Pakistani architecture,pakistani-architecture,pakistani-architecture,ORG
+Pakistani,429283,790,804,15684890;28171281;429283;1965925;759295;3662295;1026286;23363;1148043;6375316;23235,http://en.wikipedia.org/wiki/Pakistani_cuisine,Pakistani cuisine,pakistani-cuisine,pakistani-cuisine,UNK
+Pakistani,28171281,671,333,15684890;429283;1965925;3662295;501393;1026286;413184;23363;4689264;6375316;23235,http://en.wikipedia.org/wiki/Pakistani_people,Pakistani people,pakistani-people,pakistani-people,GPE
+Imran Khan,413184,564,326,2579761;894415;897249;66143;17867;28171281;252677;478115;413202;9316;4689264;1965925;288197;15524;1351354;759295;3662295;407754;759125;37029084;501393;23235;3379941,http://en.wikipedia.org/wiki/Imran_Khan,Imran Khan,imran-khan,imran-khan,PER
+Imran Khan,23861256,24,39,17867;23235,http://en.wikipedia.org/wiki/Imran_Khan_(singer),Imran Khan,imran-khan,imran-khan-singer,UNK
+Imran Khan,39359154,9,11,9316,http://en.wikipedia.org/wiki/Imran_Khan_(kickboxer),Imran Khan,imran-khan,imran-khan-kickboxer,UNK
+Imran Khan,17230458,133,168,14533;37029084,http://en.wikipedia.org/wiki/Imran_Khan_(actor),Imran Khan,imran-khan,imran-khan-actor,PER
+Imran Khan,37029084,3,16,17230458;37029084;413184;23235,http://en.wikipedia.org/wiki/Imran_Khan_(Pakistani_actor),Imran Khan,imran-khan,imran-khan-pakistani-actor,PER
+Kapil Dev,288197,322,221,2579761;894415;897249;66143;17867;252677;4913064;478115;413202;413184;4689264;10378901;15524;1351354;759295;14533;387687;407754;759125;501393;23235;3379941,http://en.wikipedia.org/wiki/Kapil_Dev,Kapil Dev,kapil-dev,kapil-dev,PER
+Kapil Dev,10378901,0,31,288197,http://en.wikipedia.org/wiki/Kapil_Dev_as_Indian_national_cricket_coach,Kapil Dev as Indian national cricket coach,kapil-dev-as-indian-national-cricket-coach,kapil-dev-as-indian-national-cricket-coach,UNK
+Kapil Dev,28214218,4,15,14533,http://en.wikipedia.org/wiki/K._J._Kapil_Dev,K. J. Kapil Dev,k-j-kapil-dev,k-j-kapil-dev,PER
+Kapil Dev,42430207,4,7,14533,http://en.wikipedia.org/wiki/Kapil_Dev_(actor),Kapil Dev,kapil-dev,kapil-dev-actor,PER
+India,14533,128644,998,33567266;1965925;9316;288197;12249;14533;15524;17867;4181941;21670;21354;23363;23235;17230458;49732;13472210;66143;1329287;2316836;24442938;27264339;4125366;2579761;894415;897249;3816837;11804183;42430207;408215;407754;4913064;10748937;764545;28214218;478115;759295;759125;1026286;4689264;2707882;6375316;1996872;501393;4971438,http://en.wikipedia.org/wiki/India,India,india,india,GPE
+India,23859009,202,238,,http://en.wikipedia.org/wiki/India_Longford,India Longford,india-longford,india-longford,UNK
+India,13920327,163,208,23235,http://en.wikipedia.org/wiki/Mongol_invasions_of_India,Mongol invasions of India,mongol-invasions-of-india,mongol-invasions-of-india,UNK
+India,37474285,35,33,,http://en.wikipedia.org/wiki/India:_Matri_Bhumi,India: Matri Bhumi,india-matri-bhumi,india-matri-bhumi,UNK
+India,13472210,4,3,14533,"http://en.wikipedia.org/wiki/India,_China_&_America_Institute","India, China & America Institute",india-china-america-institute,india-china-america-institute,ORG
+India,33347419,30,51,17867,http://en.wikipedia.org/wiki/India_Song,India Song,india-song,india-song,UNK
+India,1996872,237,210,5574915;14533;764545,http://en.wikipedia.org/wiki/Greater_India,Greater India,greater-india,greater-india,UNK
+India,32553670,2,105,,"http://en.wikipedia.org/wiki/India,_India","India, India",india-india,india-india,UNK
+India,4971438,68,93,14533,http://en.wikipedia.org/wiki/India_(cat),India,india,india-cat,UNK
+India,32416870,0,14,,http://en.wikipedia.org/wiki/India_(battle_honour),India,india,india-battle-honour,UNK
+India,37053158,18,18,9316,http://en.wikipedia.org/wiki/India?,India?,india,india,UNK
+India,1707982,153,57,,http://en.wikipedia.org/wiki/Indian_Health_Service,Indian Health Service,indian-health-service,indian-health-service,ORG
+India,4181941,48,91,4181941;14533,http://en.wikipedia.org/wiki/2006_H5N1_outbreak_in_India,2006 H5N1 outbreak in India,2006-h5n1-outbreak-in-india,2006-h5n1-outbreak-in-india,UNK
+India,11804183,207,175,14533,http://en.wikipedia.org/wiki/India_Tower,India Tower,india-tower,india-tower,UNK
+India,4267804,5,7,,http://en.wikipedia.org/wiki/India_(entertainer),India,india,india-entertainer,UNK
+India,764545,43,179,2707882;1996872;14533;23235,http://en.wikipedia.org/wiki/Names_of_India,Names of India,names-of-india,names-of-india,UNK
+India,10748937,370,470,17867;12249;9316;14533;23235,http://en.wikipedia.org/wiki/British_Indian,British Indian,british-indian,british-indian,UNK
+India,407754,1582,520,897249;66143;252677;478115;501393;2579761;894415;413202;413184;9316;4913064;288197;759295;14533;759125;4689264;15524;1351354;5574915;23235;3379941,http://en.wikipedia.org/wiki/India_national_cricket_team,India national cricket team,india-national-cricket-team,india-national-cricket-team,ORG
+India,27264339,44,56,14533,http://en.wikipedia.org/wiki/India_(East_Syrian_Ecclesiastical_Province),India,india,india-east-syrian-ecclesiastical-province,UNK
+India,39849556,4,24,23235,http://en.wikipedia.org/wiki/India_(Herodotus),India,india,india-herodotus,UNK
+India,408215,1702,412,2707882;14533,http://en.wikipedia.org/wiki/Communist_Party_of_India,Communist Party of India,communist-party-of-india,communist-party-of-india,UNK
+India,2707882,294,379,408215;14533;764545,http://en.wikipedia.org/wiki/Indian_maritime_history,Indian maritime history,indian-maritime-history,indian-maritime-history,UNK
+India,4125366,66,63,14533,http://en.wikipedia.org/wiki/Mr._India,Mr. India,mr-india,mr-india,UNK
+India,1342972,179,87,,http://en.wikipedia.org/wiki/La_India,La India,la-india,la-india,PER
+India,3816837,39,84,14533,http://en.wikipedia.org/wiki/Indian_Science_Congress_Association,Indian Science Congress Association,indian-science-congress-association,indian-science-congress-association,UNK
+India,1329287,3,10,14533,http://en.wikipedia.org/wiki/India_Inc.,India Inc.,india-inc,india-inc,UNK
+Richard Hadlee,66143,259,233,2579761;413202;894415;413184;897249;9316;4689264;288197;15524;1351354;759295;14533;252677;407754;759125;501393;4913064;23235;3379941;478115,http://en.wikipedia.org/wiki/Richard_Hadlee,Richard Hadlee,richard-hadlee,richard-hadlee,PER
+New Zealand,4913064,57468,846,11510858;9316;288197;691024;14533;15524;17867;21670;21353;21354;407754;23235;450955;315351;455232;3889279;1148043;4913064;49732;3662295;3422357;66143;2316836;478115;759295;759125;2313225;29417435;20611325;646010;18950948;897249;1023035;4689264;7188443;501393;1112461;620967,http://en.wikipedia.org/wiki/New_Zealand,New Zealand,new-zealand,new-zealand,GPE
+New Zealand,646010,92,99,4689264;4913064,http://en.wikipedia.org/wiki/New_Zealand_Party,New Zealand Party,new-zealand-party,new-zealand-party,UNK
+New Zealand,1023035,1494,454,3422357;478115;9904;9316;4913064;1023035;2313225;4689264,http://en.wikipedia.org/wiki/New_Zealand_national_football_team,New Zealand national football team,new-zealand-national-football-team,new-zealand-national-football-team,UNK
+New Zealand,29417435,1,12,4913064,http://en.wikipedia.org/wiki/Mount_New_Zealand,Mount New Zealand,mount-new-zealand,mount-new-zealand,UNK
+New Zealand,3889279,87,121,7188443;4913064,http://en.wikipedia.org/wiki/Electoral_system_of_New_Zealand,Electoral system of New Zealand,electoral-system-of-new-zealand,electoral-system-of-new-zealand,UNK
+New Zealand,7188443,494,443,3889279;4913064,"http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008","New Zealand general election, 2008",new-zealand-general-election-2008,new-zealand-general-election-2008,UNK
+New Zealand,21865279,41,58,,http://en.wikipedia.org/wiki/New_Zealand_Town,New Zealand Town,new-zealand-town,new-zealand-town,UNK
+New Zealand,273592,191,224,9316,"http://en.wikipedia.org/wiki/New_Zealand,_Buckinghamshire","New Zealand, Buckinghamshire",new-zealand-buckinghamshire,new-zealand-buckinghamshire,UNK
+New Zealand,2316836,290,262,21353;21354;14533;21670;4913064,http://en.wikipedia.org/wiki/New_Zealand_nationality_law,New Zealand nationality law,new-zealand-nationality-law,new-zealand-nationality-law,ORG
+New Zealand,315351,207,130,17867;4913064,http://en.wikipedia.org/wiki/New_Zealand_Company,New Zealand Company,new-zealand-company,new-zealand-company,UNK
+New Zealand,426231,107,11,,http://en.wikipedia.org/wiki/University_of_New_Zealand,University of New Zealand,university-of-new-zealand,university-of-new-zealand,ORG
+New Zealand,21354,158,259,4689264;21353;21354;2316836;14533;21670;4913064,http://en.wikipedia.org/wiki/Demographics_of_New_Zealand,Demographics of New Zealand,demographics-of-new-zealand,demographics-of-new-zealand,UNK
+New Zealand,1148043,368,147,429283;4913064,http://en.wikipedia.org/wiki/New_Zealand_cuisine,New Zealand cuisine,new-zealand-cuisine,new-zealand-cuisine,UNK
+New Zealand,2313225,404,283,2313225;4913064;1023035;1112461,http://en.wikipedia.org/wiki/New_Zealand_Football,New Zealand Football,new-zealand-football,new-zealand-football,ORG
+New Zealand,3422357,83,89,1023035;4689264;4913064;478115,http://en.wikipedia.org/wiki/New_Zealand_national_Australian_rules_football_team,New Zealand national Australian rules football team,new-zealand-national-australian-rules-football-team,new-zealand-national-australian-rules-football-team,UNK
+New Zealand,1112461,412,343,2313225;4913064,http://en.wikipedia.org/wiki/New_Zealand_Rugby_League,New Zealand Rugby League,new-zealand-rugby-league,new-zealand-rugby-league,UNK
+New Zealand,18285383,3,28,9316,"http://en.wikipedia.org/wiki/New_Zealand,_Wiltshire","New Zealand, Wiltshire",new-zealand-wiltshire,new-zealand-wiltshire,GPE
+New Zealand,11510858,0,8,4913064,http://en.wikipedia.org/wiki/New_Zealand_College,New Zealand College,new-zealand-college,new-zealand-college,UNK
+New Zealand,21670,516,409,21670;4913064;9316;4689264;21353;21354;2316836;14533;23235,http://en.wikipedia.org/wiki/New_Zealand_English,New Zealand English,new-zealand-english,new-zealand-english,ORG
+New Zealand,28561395,29,35,,"http://en.wikipedia.org/wiki/New_Zealand,_Derby","New Zealand, Derby",new-zealand-derby,new-zealand-derby,GPE
+New Zealand,478115,1457,488,3422357;897249;66143;252677;501393;2579761;894415;413202;413184;9316;28466415;407754;4913064;1023035;288197;759295;14533;759125;4689264;15524;1351354;23235;3379941,http://en.wikipedia.org/wiki/New_Zealand_national_cricket_team,New Zealand national cricket team,new-zealand-national-cricket-team,new-zealand-national-cricket-team,UNK
+New Zealand,455232,88,75,4689264;4913064,http://en.wikipedia.org/wiki/New_Zealand_Division,New Zealand Division,new-zealand-division,new-zealand-division,ORG
+New Zealand,21353,149,205,4689264;18950948;21353;21354;2316836;21670;4913064,http://en.wikipedia.org/wiki/Geography_of_New_Zealand,Geography of New Zealand,geography-of-new-zealand,geography-of-new-zealand,UNK
+Ian Botham,15524,527,377,2579761;894415;897249;66143;252677;4913064;478115;413202;413184;9316;4689264;288197;1351354;759295;14533;387687;407754;759125;501393;23235;3379941,http://en.wikipedia.org/wiki/Ian_Botham,Ian Botham,ian-botham,ian-botham,PER
+Malcolm Marshall,897249,185,155,2579761;413202;894415;413184;66143;288197;15524;1351354;759295;5574915;14533;252677;387687;407754;759125;501393;4913064;3379941;478115,http://en.wikipedia.org/wiki/Malcolm_Marshall,Malcolm Marshall,malcolm-marshall,malcolm-marshall,UNK
+West Indies,294567,516,68,998545;218339;5574915;3379941,http://en.wikipedia.org/wiki/British_West_Indies,British West Indies,british-west-indies,british-west-indies,GPE
+West Indies,218339,358,299,294567;5574915;3379941,http://en.wikipedia.org/wiki/West_Indies_Federation,West Indies Federation,west-indies-federation,west-indies-federation,GPE
+West Indies,3379941,2321,395,897249;66143;252677;294567;478115;501393;2579761;894415;413202;413184;28466415;218339;407754;288197;759295;759125;15524;1351354;5574915;387687,http://en.wikipedia.org/wiki/West_Indies_cricket_team,West Indies cricket team,west-indies-cricket-team,west-indies-cricket-team,UNK
+West Indies,998545,30,7,294567;5574915,http://en.wikipedia.org/wiki/American_West_Indies,American West Indies,american-west-indies,american-west-indies,UNK
+West Indies,28164404,47,122,5574915,http://en.wikipedia.org/wiki/West_Indies_Campaign_1804–1810,West Indies Campaign 1804–1810,west-indies-campaign-1804–1810,west-indies-campaign-1804–1810,UNK
+West Indies,5574915,4196,40,1996872;894415;218339;3379941;897249;998545;294567;407754;28164404,http://en.wikipedia.org/wiki/West_Indies,West Indies,west-indies,west-indies,GPE
+Dennis Lillee,894415,268,155,2579761;413202;413184;897249;66143;4689264;288197;15524;1351354;759295;5574915;14533;252677;407754;759125;501393;3379941;478115,http://en.wikipedia.org/wiki/Dennis_Lillee,Dennis Lillee,dennis-lillee,dennis-lillee,UNK
+Australia,4689264,136194,1016,9316;288197;12249;7214224;14533;15524;17867;28171281;21670;21353;21354;23235;49732;3662295;66143;65836;646010;894415;18950948;26451470;26451467;26451463;26451498;26451490;620967;1351354;413184;691024;407754;450955;455232;4913064;185052;3422357;478115;759295;759125;27960950;20611325;464417;1023035;4689264;4684902;243669;501393;984508,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australia,450955,49,106,4689264;4913064,http://en.wikipedia.org/wiki/Gun_politics_in_Australia,Gun politics in Australia,gun-politics-in-australia,gun-politics-in-australia,UNK
+Australia,20611325,466,326,18950948;4913064;4689264;20611325,http://en.wikipedia.org/wiki/Australia_(continent),Australia,australia,australia-continent,UNK
+Australia,26451467,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Sydney,Australia/Sydney,australia-sydney,australia-sydney,PER
+Australia,23335381,10,15,,http://en.wikipedia.org/wiki/Australia_EP,Australia EP,australia-ep,australia-ep,UNK
+Australia,185052,236,108,4689264,http://en.wikipedia.org/wiki/Australia_Party,Australia Party,australia-party,australia-party,ORG
+Australia,8007505,169,194,,http://en.wikipedia.org/wiki/Australia_Station,Australia Station,australia-station,australia-station,ORG
+Australia,33114696,6,16,,http://en.wikipedia.org/wiki/For_Australia,For Australia,for-australia,for-australia,UNK
+Australia,20214173,19,31,,http://en.wikipedia.org/wiki/Australia_(schooner),Australia,australia,australia-schooner,UNK
+Australia,38961514,2,7,,http://en.wikipedia.org/wiki/Mr._Australia,Mr. Australia,mr-australia,mr-australia,ORG
+Australia,26451490,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Adelaide,Australia/Adelaide,australia-adelaide,australia-adelaide,PER
+Australia,65836,173,290,4689264;1026286,http://en.wikipedia.org/wiki/Republicanism_in_Australia,Republicanism in Australia,republicanism-in-australia,republicanism-in-australia,UNK
+Australia,984508,214,355,4689264,http://en.wikipedia.org/wiki/Internet_censorship_in_Australia,Internet censorship in Australia,internet-censorship-in-australia,internet-censorship-in-australia,UNK
+Australia,243669,51,155,4689264,http://en.wikipedia.org/wiki/Australia_II,Australia II,australia-ii,australia-ii,UNK
+Australia,49732,126,120,4689264;14533;4913064,http://en.wikipedia.org/wiki/Australia_Group,Australia Group,australia-group,australia-group,ORG
+Australia,42450678,37,51,,"http://en.wikipedia.org/wiki/Australia,_Mississippi","Australia, Mississippi",australia-mississippi,australia-mississippi,GPE
+Australia,26451463,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Melbourne,Australia/Melbourne,australia-melbourne,australia-melbourne,PER
+Australia,27960950,4,21,4689264;27960950,http://en.wikipedia.org/wiki/MS_Australia,MS Australia,ms-australia,ms-australia,UNK
+Australia,7214224,5,22,4689264,http://en.wikipedia.org/wiki/National_Police_Memorial_Australia,National Police Memorial Australia,national-police-memorial-australia,national-police-memorial-australia,UNK
+Australia,10680720,15,21,,http://en.wikipedia.org/wiki/Australia_Hotel,Australia Hotel,australia-hotel,australia-hotel,UNK
+Australia,620967,2240,477,691024;4913064;4689264,http://en.wikipedia.org/wiki/Australia_national_rugby_union_team,Australia national rugby union team,australia-national-rugby-union-team,australia-national-rugby-union-team,UNK
+Australia,1460635,58,63,,"http://en.wikipedia.org/wiki/Wittenoom,_Western_Australia","Wittenoom, Western Australia",wittenoom-western-australia,wittenoom-western-australia,UNK
+Australia,37398196,0,1,,http://en.wikipedia.org/wiki/Australia_(KA-5),Australia,australia,australia-ka-5,PER
+Australia,26451470,2,10,4689264,http://en.wikipedia.org/wiki/Australia/Brisbane,Australia/Brisbane,australia-brisbane,australia-brisbane,PER
+Australia,18950948,203,272,4689264;18950948;21353;20611325;4913064,http://en.wikipedia.org/wiki/Geography_of_Australia,Geography of Australia,geography-of-australia,geography-of-australia,UNK
+Australia,42585823,126,145,,http://en.wikipedia.org/wiki/Australia_(Modern_Family),Australia,australia,australia-modern-family,UNK
+Australia,26451498,2,9,4689264,http://en.wikipedia.org/wiki/Australia/Perth,Australia/Perth,australia-perth,australia-perth,PER
+Bob Willis,1351354,252,248,2579761;413202;894415;413184;897249;9316;66143;4689264;288197;15524;759295;252677;387687;407754;759125;501393;3379941;478115,http://en.wikipedia.org/wiki/Bob_Willis,Bob Willis,bob-willis,bob-willis,PER
+Lance Gibbs,2579761,144,142,413202;894415;413184;897249;66143;288197;15524;1351354;759295;14533;252677;387687;407754;759125;501393;23235;3379941;478115,http://en.wikipedia.org/wiki/Lance_Gibbs,Lance Gibbs,lance-gibbs,lance-gibbs,UNK
+Fred Trueman,413202,237,278,2579761;894415;897249;66143;252677;478115;413184;9316;288197;15524;1351354;759295;387687;407754;759125;501393;3379941,http://en.wikipedia.org/wiki/Fred_Trueman,Fred Trueman,fred-trueman,fred-trueman,PER
+Courtney Walsh,252677,259,168,2579761;413202;894415;413184;897249;66143;288197;15524;1351354;759295;407754;759125;501393;3379941;478115,http://en.wikipedia.org/wiki/Courtney_Walsh,Courtney Walsh,courtney-walsh,courtney-walsh,PER

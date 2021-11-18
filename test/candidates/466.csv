@@ -1,0 +1,14 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Banco de Mexico,180390,356,269,18987;3966054,http://en.wikipedia.org/wiki/Bank_of_Mexico,Bank of Mexico,bank-of-mexico,bank-of-mexico,UNK
+MEXICO CITY,18987,11953,992,346703;1578666;3966054;18987;891641;180390,http://en.wikipedia.org/wiki/Mexico_City,Mexico City,mexico-city,mexico-city,GPE
+MEXICO CITY,1578666,31,14,3966054;18987,http://en.wikipedia.org/wiki/Mexico_City_College,Mexico City College,mexico-city-college,mexico-city-college,UNK
+MEXICO CITY,3966054,62316,818,18987;180390;3966054;891641;17158888;1578666,http://en.wikipedia.org/wiki/Mexico,Mexico,mexico,mexico,GPE
+MEXICO CITY,17158888,1,12,3966054,http://en.wikipedia.org/wiki/Mexico_City_(former_administrative_division),Mexico City,mexico-city,mexico-city-former-administrative-division,UNK
+MEXICO CITY,891641,269,112,18987;3966054,http://en.wikipedia.org/wiki/Mexico_City_Metro,Mexico City Metro,mexico-city-metro,mexico-city-metro,UNK
+MEXICO CITY,346703,29,188,18987,http://en.wikipedia.org/wiki/Mexico_City_Policy,Mexico City Policy,mexico-city-policy,mexico-city-policy,UNK
+Mexico City,18987,11953,992,346703;1578666;3966054;18987;891641;180390,http://en.wikipedia.org/wiki/Mexico_City,Mexico City,mexico-city,mexico-city,GPE
+Mexico City,1578666,31,14,3966054;18987,http://en.wikipedia.org/wiki/Mexico_City_College,Mexico City College,mexico-city-college,mexico-city-college,UNK
+Mexico City,3966054,62316,818,18987;180390;3966054;891641;17158888;1578666,http://en.wikipedia.org/wiki/Mexico,Mexico,mexico,mexico,GPE
+Mexico City,17158888,1,12,3966054,http://en.wikipedia.org/wiki/Mexico_City_(former_administrative_division),Mexico City,mexico-city,mexico-city-former-administrative-division,UNK
+Mexico City,891641,269,112,18987;3966054,http://en.wikipedia.org/wiki/Mexico_City_Metro,Mexico City Metro,mexico-city-metro,mexico-city-metro,UNK
+Mexico City,346703,29,188,18987,http://en.wikipedia.org/wiki/Mexico_City_Policy,Mexico City Policy,mexico-city-policy,mexico-city-policy,UNK

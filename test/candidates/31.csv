@@ -1,0 +1,61 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+GLORIA BISTRITA,2384775,78,142,415846;25445;39980347,http://en.wikipedia.org/wiki/ACF_Gloria_Bistrița,ACF Gloria Bistrița,acf-gloria-bistrita,acf-gloria-bistrita,UNK
+BISTRITA,415846,181,202,2384775;1064321;415846;25445,http://en.wikipedia.org/wiki/Bistrița,Bistrița,bistrita,bistrita,UNK
+BISTRITA,9211753,12,18,25445;9211753,http://en.wikipedia.org/wiki/Bistrița_Monastery,Bistrița Monastery,bistrita-monastery,bistrita-monastery,UNK
+BISTRITA,32586141,39,46,25445,http://en.wikipedia.org/wiki/Bistrița_Mountains,Bistrița Mountains,bistrita-mountains,bistrita-mountains,UNK
+BISTRITA,16797223,0,4,25445,http://en.wikipedia.org/wiki/Bistrița_River_(Danube),Bistrița River,bistrita-river,bistrita-river-danube,UNK
+BISTRITA,5492393,10,13,25445,http://en.wikipedia.org/wiki/Bistrița_River_(Olt),Bistrița River,bistrita-river,bistrita-river-olt,UNK
+BISTRITA,12829862,22,19,25445,http://en.wikipedia.org/wiki/Bistrița_River_(Jiu),Bistrița River,bistrita-river,bistrita-river-jiu,UNK
+BISTRITA,1064321,8,32,25445;415846,http://en.wikipedia.org/wiki/Bistrița_River_(Someș),Bistrița River,bistrita-river,bistrita-river-somes,UNK
+BISTRITA,34650752,2,16,25445,http://en.wikipedia.org/wiki/Bistriţa_Monastery_(Vâlcea),Bistriţa Monastery,bistrita-monastery,bistrita-monastery-valcea,UNK
+BISTRITA,13109879,1,5,25445,http://en.wikipedia.org/wiki/Bistrița_River_(Iza),Bistrița River,bistrita-river,bistrita-river-iza,UNK
+BISTRITA,1064313,22,87,25445,http://en.wikipedia.org/wiki/Bistrița_River_(Siret),Bistrița River,bistrita-river,bistrita-river-siret,UNK
+Gloria Bistrita,2384775,78,142,415846;25445;39980347,http://en.wikipedia.org/wiki/ACF_Gloria_Bistrița,ACF Gloria Bistrița,acf-gloria-bistrita,acf-gloria-bistrita,UNK
+Romania,25445,52892,1099,979061;5625006;415846;19137;5492393;16797223;25637;25445;2384775;12829862;39834541;297151;679755;4785323;13109879;1064321;1064313;9211753;392816;34650752;32586141,http://en.wikipedia.org/wiki/Romania,Romania,romania,romania,GPE
+Romania,297151,1394,246,297151;392816;25637;25445,http://en.wikipedia.org/wiki/Kingdom_of_Romania,Kingdom of Romania,kingdom-of-romania,kingdom-of-romania,GPE
+Romania,392816,477,279,297151;25445;392816;25637,http://en.wikipedia.org/wiki/Greater_Romania,Greater Romania,greater-romania,greater-romania,UNK
+Romania,979061,881,345,25445;679755,http://en.wikipedia.org/wiki/Romania_national_rugby_union_team,Romania national rugby union team,romania-national-rugby-union-team,romania-national-rugby-union-team,UNK
+Romania,39834541,27,36,25445,http://en.wikipedia.org/wiki/F.C._Romania,F.C. Romania,fc-romania,fc-romania,ORG
+Romania,679755,2112,718,979061;25445,http://en.wikipedia.org/wiki/Romania_national_football_team,Romania national football team,romania-national-football-team,romania-national-football-team,UNK
+Romania,25637,831,266,56701;297151;392816;25637;25445,http://en.wikipedia.org/wiki/Geography_of_Romania,Geography of Romania,geography-of-romania,geography-of-romania,ORG
+Malta,19137,11666,1145,4785323;10424084;19137;56701;12169926;1863102;205617;27001818;25445;5625006;1840561;123570,http://en.wikipedia.org/wiki/Malta,Malta,malta,malta,GPE
+Malta,129661,43,55,9293429,"http://en.wikipedia.org/wiki/Malta,_Ohio","Malta, Ohio",malta-ohio,malta-ohio,GPE
+Malta,24630919,0,20,,http://en.wikipedia.org/wiki/Mal'ta-Buret'_culture,Mal'ta-Buret' culture,malta-buret-culture,malta-buret-culture,UNK
+Malta,111098,64,68,9510690,"http://en.wikipedia.org/wiki/Malta,_Illinois","Malta, Illinois",malta-illinois,malta-illinois,GPE
+Malta,205617,112,20,56701;19137,http://en.wikipedia.org/wiki/Malta_(island),Malta,malta,malta-island,UNK
+Malta,20853,405,79,2171530,http://en.wikipedia.org/wiki/Malt,Malt,malt,malt,GPE
+Malta,22134301,33,35,,http://en.wikipedia.org/wiki/Malta_parish,Malta parish,malta-parish,malta-parish,UNK
+Malta,110665,33,32,,"http://en.wikipedia.org/wiki/Malta,_Idaho","Malta, Idaho",malta-idaho,malta-idaho,GPE
+Malta,119518,25,45,,"http://en.wikipedia.org/wiki/Malta_Township,_Big_Stone_County,_Minnesota","Malta Township, Big Stone County, Minnesota",malta-township-big-stone-county-minnesota,malta-township-big-stone-county-minnesota,GPE
+Malta,1840561,405,239,19137,http://en.wikipedia.org/wiki/University_of_Malta,University of Malta,university-of-malta,university-of-malta,ORG
+Malta,26871030,97,13,,http://en.wikipedia.org/wiki/Malta_(band),Malta,malta,malta-band,UNK
+Malta,31459740,59,65,,"http://en.wikipedia.org/wiki/Malta,_Pennsylvania","Malta, Pennsylvania",malta-pennsylvania,malta-pennsylvania,GPE
+Malta,25495938,9,9,,"http://en.wikipedia.org/wiki/Malta,_Paraíba","Malta, Paraíba",malta-paraiba,malta-paraiba,GPE
+Malta,2171530,47,33,20853,http://en.wikipedia.org/wiki/Malta_(soft_drink),Malta,malta,malta-soft-drink,UNK
+Malta,6881675,25,34,,"http://en.wikipedia.org/wiki/Malta,_Texas","Malta, Texas",malta-texas,malta-texas,GPE
+Malta,123570,55,64,39666440;19137,"http://en.wikipedia.org/wiki/Malta,_Montana","Malta, Montana",malta-montana,malta-montana,GPE
+Malta,100010286,0,0,,"http://en.wikipedia.org/wiki/Malta,_Nepal","Malta, Nepal",malta-nepal,malta-nepal,GPE
+Malta,12169926,1,18,19137,http://en.wikipedia.org/wiki/Malta_International,Malta International,malta-international,malta-international,PER
+Malta,127117,252,97,,"http://en.wikipedia.org/wiki/Malta,_New_York","Malta, New York",malta-new-york,malta-new-york,GPE
+Malta,1863102,224,198,8548863;19137,http://en.wikipedia.org/wiki/Malta_International_Airport,Malta International Airport,malta-international-airport,malta-international-airport,UNK
+Malta,21407342,26,38,,"http://en.wikipedia.org/wiki/Malta,_Lubusz_Voivodeship","Malta, Lubusz Voivodeship",malta-lubusz-voivodeship,malta-lubusz-voivodeship,UNK
+Malta,1362333,41,56,,"http://en.wikipedia.org/wiki/Malta,_Austria","Malta, Austria",malta-austria,malta-austria,GPE
+Malta,56701,150,178,25637;19137;56701;205617,http://en.wikipedia.org/wiki/Geography_of_Malta,Geography of Malta,geography-of-malta,geography-of-malta,UNK
+Malta,25537130,5,7,25537130,http://en.wikipedia.org/wiki/Malta_River,Malta River,malta-river,malta-river,UNK
+Malta,19362928,45,53,,"http://en.wikipedia.org/wiki/Malta,_Bagmati","Malta, Bagmati",malta-bagmati,malta-bagmati,GPE
+Malta,9510690,57,70,111098,"http://en.wikipedia.org/wiki/Malta_Township,_DeKalb_County,_Illinois","Malta Township, DeKalb County, Illinois",malta-township-dekalb-county-illinois,malta-township-dekalb-county-illinois,UNK
+Malta,32762475,2,356,,http://en.wikipedia.org/wiki/Malta_Temple,Malta Temple,malta-temple,malta-temple,UNK
+Malta,9293429,25,43,129661,"http://en.wikipedia.org/wiki/Malta_Township,_Morgan_County,_Ohio","Malta Township, Morgan County, Ohio",malta-township-morgan-county-ohio,malta-township-morgan-county-ohio,GPE
+Malta,20289962,37,41,,"http://en.wikipedia.org/wiki/Malta,_Kosi","Malta, Kosi",malta-kosi,malta-kosi,GPE
+Malta,39666440,51,27,8548863;123570,http://en.wikipedia.org/wiki/Malta_Airport_(Montana),Malta Airport,malta-airport,malta-airport-montana,UNK
+Malta,27001818,8,92,27001818;19137,http://en.wikipedia.org/wiki/Malta_Railway,Malta Railway,malta-railway,malta-railway,UNK
+Malta,1230145,124,122,,http://en.wikipedia.org/wiki/Lake_Malta,Lake Malta,lake-malta,lake-malta,UNK
+Malta,8548863,1,2,1863102;39666440,http://en.wikipedia.org/wiki/Malta_Airport,Malta Airport,malta-airport,malta-airport,UNK
+Cup winners Cup,88178,0,127,,http://en.wikipedia.org/wiki/UEFA_Cup_Winners'_Cup,UEFA Cup Winners' Cup,uefa-cup-winners-cup,uefa-cup-winners-cup,UNK
+Cup winners Cup,5625006,0,479,25445;19137,http://en.wikipedia.org/wiki/1995–96_UEFA_Cup_Winners'_Cup,1995–96 UEFA Cup Winners' Cup,1995–96-uefa-cup-winners-cup,1995–96-uefa-cup-winners-cup,UNK
+Cup winners Cup,4785323,0,374,19137;25445,http://en.wikipedia.org/wiki/1997–98_UEFA_Cup_Winners'_Cup,1997–98 UEFA Cup Winners' Cup,1997–98-uefa-cup-winners-cup,1997–98-uefa-cup-winners-cup,PER
+Ilie Lazar,39980347,8,9,2384775,http://en.wikipedia.org/wiki/Ilie_Lazăr,Ilie Lazăr,ilie-lazar,ilie-lazar,PER
+Gilbert Agius,10424084,26,35,19137,http://en.wikipedia.org/wiki/Gilbert_Agius,Gilbert Agius,gilbert-agius,gilbert-agius,PER
+REUTER,1158034,23,30,42115;5104668,http://en.wikipedia.org/wiki/Reuter,Reuter,reuter,reuter,UNK
+REUTER,42115,56,44,1158034,http://en.wikipedia.org/wiki/Paul_Reuter,Paul Reuter,paul-reuter,paul-reuter,PER
+REUTER,5104668,130,107,1158034,http://en.wikipedia.org/wiki/Stefan_Reuter,Stefan Reuter,stefan-reuter,stefan-reuter,PER

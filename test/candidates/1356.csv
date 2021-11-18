@@ -1,0 +1,108 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+WOOLMER,1485764,144,122,965359;10128270;14533;363531;759125;1307223,http://en.wikipedia.org/wiki/Bob_Woolmer,Bob Woolmer,bob-woolmer,bob-woolmer,PER
+KANPUR,363531,1272,626,2869670;12399534;47905;14894;2747781;29412347;14533;5678773;408215;1485764;10128270;407754;231623;363531,http://en.wikipedia.org/wiki/Kanpur,Kanpur,kanpur,kanpur,GPE
+KANPUR,2869670,168,199,2747781;5678773;29412347;14533;231623;12399534;363531;14894,http://en.wikipedia.org/wiki/Kanpur_division,Kanpur division,kanpur-division,kanpur-division,UNK
+KANPUR,14894,256,302,2869670;12399534;14894;2747781;14533;231623;363531,http://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur,Indian Institute of Technology Kanpur,indian-institute-of-technology-kanpur,indian-institute-of-technology-kanpur,ORG
+KANPUR,12399534,314,383,2869670;47905;14894;2747781;231623;363531,http://en.wikipedia.org/wiki/Kanpur_Airport,Kanpur Airport,kanpur-airport,kanpur-airport,UNK
+KANPUR,2747781,1037,195,2869670;12399534;14894;2747781;14533;231623;363531,http://en.wikipedia.org/wiki/Kanpur_district,Kanpur district,kanpur-district,kanpur-district,UNK
+India,14533,128644,998,6653;9316;3616686;14894;14533;4181941;47905;28136882;13472210;2869670;1329287;27264339;4125366;363531;3816837;11804183;965359;408215;407754;1307223;10748937;764545;2747781;759125;29412347;17416221;5678773;9665846;2707882;1996872;231623;9690013;1485764;4971438,http://en.wikipedia.org/wiki/India,India,india,india,GPE
+India,23859009,202,238,,http://en.wikipedia.org/wiki/India_Longford,India Longford,india-longford,india-longford,UNK
+India,10748937,370,470,17416221;9316;14533,http://en.wikipedia.org/wiki/British_Indian,British Indian,british-indian,british-indian,UNK
+India,37474285,35,33,,http://en.wikipedia.org/wiki/India:_Matri_Bhumi,India: Matri Bhumi,india-matri-bhumi,india-matri-bhumi,UNK
+India,13472210,4,3,14533,"http://en.wikipedia.org/wiki/India,_China_&_America_Institute","India, China & America Institute",india-china-america-institute,india-china-america-institute,ORG
+India,33347419,30,51,,http://en.wikipedia.org/wiki/India_Song,India Song,india-song,india-song,UNK
+India,764545,43,179,2707882;1996872;14533,http://en.wikipedia.org/wiki/Names_of_India,Names of India,names-of-india,names-of-india,UNK
+India,13920327,163,208,,http://en.wikipedia.org/wiki/Mongol_invasions_of_India,Mongol invasions of India,mongol-invasions-of-india,mongol-invasions-of-india,UNK
+India,32553670,2,105,,"http://en.wikipedia.org/wiki/India,_India","India, India",india-india,india-india,UNK
+India,1996872,237,210,14533;764545,http://en.wikipedia.org/wiki/Greater_India,Greater India,greater-india,greater-india,UNK
+India,4971438,68,93,14533,http://en.wikipedia.org/wiki/India_(cat),India,india,india-cat,UNK
+India,32416870,0,14,,http://en.wikipedia.org/wiki/India_(battle_honour),India,india,india-battle-honour,UNK
+India,37053158,18,18,9316,http://en.wikipedia.org/wiki/India?,India?,india,india,UNK
+India,1707982,153,57,,http://en.wikipedia.org/wiki/Indian_Health_Service,Indian Health Service,indian-health-service,indian-health-service,ORG
+India,4181941,48,91,4181941;14533,http://en.wikipedia.org/wiki/2006_H5N1_outbreak_in_India,2006 H5N1 outbreak in India,2006-h5n1-outbreak-in-india,2006-h5n1-outbreak-in-india,UNK
+India,11804183,207,175,14533,http://en.wikipedia.org/wiki/India_Tower,India Tower,india-tower,india-tower,UNK
+India,4267804,5,7,,http://en.wikipedia.org/wiki/India_(entertainer),India,india,india-entertainer,UNK
+India,27264339,44,56,14533,http://en.wikipedia.org/wiki/India_(East_Syrian_Ecclesiastical_Province),India,india,india-east-syrian-ecclesiastical-province,UNK
+India,408215,1702,412,47905;2707882;231623;14533;363531,http://en.wikipedia.org/wiki/Communist_Party_of_India,Communist Party of India,communist-party-of-india,communist-party-of-india,UNK
+India,407754,1582,520,47905;9316;759263;14533;759125;1307223;17416221;363531,http://en.wikipedia.org/wiki/India_national_cricket_team,India national cricket team,india-national-cricket-team,india-national-cricket-team,ORG
+India,2707882,294,379,408215;14533;764545,http://en.wikipedia.org/wiki/Indian_maritime_history,Indian maritime history,indian-maritime-history,indian-maritime-history,UNK
+India,39849556,4,24,,http://en.wikipedia.org/wiki/India_(Herodotus),India,india,india-herodotus,UNK
+India,4125366,66,63,14533,http://en.wikipedia.org/wiki/Mr._India,Mr. India,mr-india,mr-india,UNK
+India,1342972,179,87,,http://en.wikipedia.org/wiki/La_India,La India,la-india,la-india,PER
+India,3816837,39,84,14533;519610;47905,http://en.wikipedia.org/wiki/Indian_Science_Congress_Association,Indian Science Congress Association,indian-science-congress-association,indian-science-congress-association,UNK
+India,1329287,3,10,14533,http://en.wikipedia.org/wiki/India_Inc.,India Inc.,india-inc,india-inc,UNK
+South Africa,759263,1457,311,3394012;759125;965359;1018598;376115;17416221;9316;407754,http://en.wikipedia.org/wiki/South_Africa_national_cricket_team,South Africa national cricket team,south-africa-national-cricket-team,south-africa-national-cricket-team,UNK
+South Africa,65639,171,310,17416221;6653;65639,http://en.wikipedia.org/wiki/Geography_of_South_Africa,Geography of South Africa,geography-of-south-africa,geography-of-south-africa,UNK
+South Africa,8822906,78,102,17416221,http://en.wikipedia.org/wiki/South_Africa_(The_Goodies),South Africa,south-africa,south-africa-the-goodies,UNK
+South Africa,1018598,1434,587,3394012;9904;9316;6653;759263;376115;17416221;5067810,http://en.wikipedia.org/wiki/South_Africa_national_football_team,South Africa national football team,south-africa-national-football-team,south-africa-national-football-team,UNK
+South Africa,3394012,64,66,759263;1018598;17416221;376115,http://en.wikipedia.org/wiki/South_Africa_national_Australian_rules_football_team,South Africa national Australian rules football team,south-africa-national-australian-rules-football-team,south-africa-national-australian-rules-football-team,UNK
+South Africa,12303804,332,115,12303804;670532;17416221;363843,http://en.wikipedia.org/wiki/University_of_South_Africa,University of South Africa,university-of-south-africa,university-of-south-africa,ORG
+South Africa,376115,2028,619,3394012;691024;9316;6653;759263;1018598;17416221,http://en.wikipedia.org/wiki/South_Africa_national_rugby_union_team,South Africa national rugby union team,south-africa-national-rugby-union-team,south-africa-national-rugby-union-team,UNK
+South Africa,35754887,316,351,34911270;2576407,http://en.wikipedia.org/wiki/Greater_South_Africa,Greater South Africa,greater-south-africa,greater-south-africa,UNK
+South Africa,17416221,57523,1123,4043753;6653;9904;9316;691024;14533;965359;407754;266326;6611416;670532;3394012;3868530;10748937;65639;5067810;12564208;759263;759125;17416221;34875623;2576407;1018598;12303804;8822906;363843;376115;34911270,http://en.wikipedia.org/wiki/South_Africa,South Africa,south-africa,south-africa,GPE
+South Africa,363843,270,147,12303804;17416221,http://en.wikipedia.org/wiki/State_President_of_South_Africa,State President of South Africa,state-president-of-south-africa,state-president-of-south-africa,UNK
+Kanpur,363531,1272,626,2869670;12399534;47905;14894;2747781;29412347;14533;5678773;408215;1485764;10128270;407754;231623;363531,http://en.wikipedia.org/wiki/Kanpur,Kanpur,kanpur,kanpur,GPE
+Kanpur,2869670,168,199,2747781;5678773;29412347;14533;231623;12399534;363531;14894,http://en.wikipedia.org/wiki/Kanpur_division,Kanpur division,kanpur-division,kanpur-division,UNK
+Kanpur,14894,256,302,2869670;12399534;14894;2747781;14533;231623;363531,http://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur,Indian Institute of Technology Kanpur,indian-institute-of-technology-kanpur,indian-institute-of-technology-kanpur,ORG
+Kanpur,12399534,314,383,2869670;47905;14894;2747781;231623;363531,http://en.wikipedia.org/wiki/Kanpur_Airport,Kanpur Airport,kanpur-airport,kanpur-airport,UNK
+Kanpur,2747781,1037,195,2869670;12399534;14894;2747781;14533;231623;363531,http://en.wikipedia.org/wiki/Kanpur_district,Kanpur district,kanpur-district,kanpur-district,UNK
+England,759125,3045,583,9904;9316;965359;1485764;691024;407754;759263;14533;2313050;17416221;10128270,http://en.wikipedia.org/wiki/England_cricket_team,England cricket team,england-cricket-team,england-cricket-team,UNK
+England,969337,393,514,2313050;407950;9316,http://en.wikipedia.org/wiki/England_in_the_Middle_Ages,England in the Middle Ages,england-in-the-middle-ages,england-in-the-middle-ages,UNK
+England,286698,28,66,9316,"http://en.wikipedia.org/wiki/England,_Half-English","England, Half-English",england-half-english,england-half-english,UNK
+England,1959391,13,20,,"http://en.wikipedia.org/wiki/England,_Their_England","England, Their England",england-their-england,england-their-england,UNK
+England,9316,158848,1726,286698;9904;9316;14533;5067810;2313050;376115;10128270;691024;11803289;969337;965359;407950;407754;37053158;6020679;10748937;759263;759125;17416221;1018598,http://en.wikipedia.org/wiki/England,England,england,england,GPE
+England,71290,22,46,71290,"http://en.wikipedia.org/wiki/England,_England","England, England",england-england,england-england,UNK
+England,2539441,50,55,,"http://en.wikipedia.org/wiki/England,_Arkansas","England, Arkansas",england-arkansas,england-arkansas,GPE
+England,6020679,0,42,9316,http://en.wikipedia.org/wiki/England_(British_postage_stamps),England,england,england-british-postage-stamps,UNK
+England,29406796,3,11,,http://en.wikipedia.org/wiki/Mount_England,Mount England,mount-england,mount-england,UNK
+England,8008415,23,37,1739788;4684902,http://en.wikipedia.org/wiki/USS_England_(DLG-22),USS England,uss-england,uss-england-dlg-22,UNK
+England,4684902,174,226,8008415;1739788,http://en.wikipedia.org/wiki/USS_England_(DE-635),USS England,uss-england,uss-england-de-635,UNK
+England,691024,3595,744,9904;9316;376115;6653;2313050;759125;17416221,http://en.wikipedia.org/wiki/England_national_rugby_union_team,England national rugby union team,england-national-rugby-union-team,england-national-rugby-union-team,UNK
+England,407950,3926,354,9316;407950;2313050;969337,http://en.wikipedia.org/wiki/Kingdom_of_England,Kingdom of England,kingdom-of-england,kingdom-of-england,GPE
+England,2825496,25,261,,http://en.wikipedia.org/wiki/Edward_England,Edward England,edward-england,edward-england,PER
+England,2313050,249,428,9904;407950;691024;9316;2313050;759125;969337,http://en.wikipedia.org/wiki/Geography_of_England,Geography of England,geography-of-england,geography-of-england,UNK
+England,40427896,3,17,,http://en.wikipedia.org/wiki/England_(band),England,england,england-band,UNK
+England,9904,10143,731,17416221;5067810;9904;9316;1018598;691024;11803289;2313050;759125,http://en.wikipedia.org/wiki/England_national_football_team,England national football team,england-national-football-team,england-national-football-team,UNK
+England,29113191,14,40,,"http://en.wikipedia.org/wiki/England,_My_England","England, My England",england-my-england,england-my-england,UNK
+England,27926611,24,45,,"http://en.wikipedia.org/wiki/England_Hill,_Kentucky","England Hill, Kentucky",england-hill-kentucky,england-hill-kentucky,GPE
+England,11803289,759,375,9904;9316,http://en.wikipedia.org/wiki/England_national_under-19_football_team,England national under-19 football team,england-national-under-19-football-team,england-national-under-19-football-team,UNK
+England,39916947,3,147,,"http://en.wikipedia.org/wiki/Little_England_(Gloucester,_Virginia)",Little England,little-england,little-england-gloucester-virginia,UNK
+England,1739788,4,5,4684902;8008415,http://en.wikipedia.org/wiki/USS_England,USS England,uss-england,uss-england,UNK
+England,3646972,38,39,,"http://en.wikipedia.org/wiki/England,_My_England_and_Other_Stories","England, My England and Other Stories",england-my-england-and-other-stories,england-my-england-and-other-stories,ORG
+Bob Woolmer,1485764,144,122,965359;10128270;14533;363531;759125;1307223,http://en.wikipedia.org/wiki/Bob_Woolmer,Bob Woolmer,bob-woolmer,bob-woolmer,PER
+Woolmer,1485764,144,122,965359;10128270;14533;363531;759125;1307223,http://en.wikipedia.org/wiki/Bob_Woolmer,Bob Woolmer,bob-woolmer,bob-woolmer,PER
+South African,759263,1457,311,3394012;759125;965359;1018598;376115;17416221;9316;407754,http://en.wikipedia.org/wiki/South_Africa_national_cricket_team,South Africa national cricket team,south-africa-national-cricket-team,south-africa-national-cricket-team,UNK
+South African,17416221,57523,1123,4043753;6653;9904;9316;691024;14533;965359;407754;266326;6611416;670532;3394012;3868530;10748937;65639;5067810;12564208;759263;759125;17416221;34875623;2576407;1018598;12303804;8822906;363843;376115;34911270,http://en.wikipedia.org/wiki/South_Africa,South Africa,south-africa,south-africa,GPE
+South African,34911270,431,289,35754887;2576407;17416221,http://en.wikipedia.org/wiki/South_African_Party_(Cape_Colony),South African Party,south-african-party,south-african-party-cape-colony,UNK
+South African,2576407,491,286,34911270;35754887;17416221,http://en.wikipedia.org/wiki/South_African_Party,South African Party,south-african-party,south-african-party,UNK
+South African,3868530,61,37,670532;17416221;6653,http://en.wikipedia.org/wiki/South_African_College,South African College,south-african-college,south-african-college,ORG
+South African,34875623,97,101,17416221,http://en.wikipedia.org/wiki/South_African_Rugby_League,South African Rugby League,south-african-rugby-league,south-african-rugby-league,UNK
+Tony Greig,965359,295,224,25508397;17416221;9316;759263;14533;1485764;759125,http://en.wikipedia.org/wiki/Tony_Greig,Tony Greig,tony-greig,tony-greig,UNK
+Tony Greig,25508397,4,5,965359,http://en.wikipedia.org/wiki/Tony_Greig_(wrestler),Tony Greig,tony-greig,tony-greig-wrestler,UNK
+Clarence Woolmer,10128270,2,12,1485764;9316;759125;1307223;363531,http://en.wikipedia.org/wiki/Clarence_Woolmer,Clarence Woolmer,clarence-woolmer,clarence-woolmer,UNK
+United Province,231623,7970,708,12399534;408215;29412347;363531;2869670;2747781;5678773;1307223;3616686;231623;14894;14533,http://en.wikipedia.org/wiki/Uttar_Pradesh,Uttar Pradesh,uttar-pradesh,uttar-pradesh,GPE
+United Province,3616686,7,12,231623;14533,http://en.wikipedia.org/wiki/United_Provinces_(1937–50),United Provinces,united-provinces,united-provinces-1937–50,UNK
+Uttar Pradesh,231623,7970,708,12399534;408215;29412347;363531;2869670;2747781;5678773;1307223;3616686;231623;14894;14533,http://en.wikipedia.org/wiki/Uttar_Pradesh,Uttar Pradesh,uttar-pradesh,uttar-pradesh,GPE
+Uttar Pradesh,29412347,79,186,2869670;5678773;14533;231623;363531,http://en.wikipedia.org/wiki/Western_Uttar_Pradesh,Western Uttar Pradesh,western-uttar-pradesh,western-uttar-pradesh,UNK
+Uttar Pradesh,5678773,67,170,2869670;29412347;14533;231623;363531,http://en.wikipedia.org/wiki/Geography_of_Uttar_Pradesh,Geography of Uttar Pradesh,geography-of-uttar-pradesh,geography-of-uttar-pradesh,PER
+Ranji Trophy,1307223,576,135,1485764;10128270;14533;407754;231623,http://en.wikipedia.org/wiki/Ranji_Trophy,Ranji Trophy,ranji-trophy,ranji-trophy,PER
+Woolmer,10128270,2,12,1485764;9316;759125;1307223;363531,http://en.wikipedia.org/wiki/Clarence_Woolmer,Clarence Woolmer,clarence-woolmer,clarence-woolmer,UNK
+Cape Town,6653,6553,566,3868530;670532;4043753;65639;266326;17759734;17416221;5067810;6611416;1018598;376115;691024;12564208;14533,http://en.wikipedia.org/wiki/Cape_Town,Cape Town,cape-town,cape-town,GPE
+Cape Town,266326,160,105,17416221;6653;4043753,http://en.wikipedia.org/wiki/Cape_Town_International_Airport,Cape Town International Airport,cape-town-international-airport,cape-town-international-airport,UNK
+Cape Town,12564208,48,49,6611416;17416221;6653,http://en.wikipedia.org/wiki/F.C._Cape_Town,F.C. Cape Town,fc-cape-town,fc-cape-town,UNK
+Cape Town,4043753,133,122,17416221;6653;266326,http://en.wikipedia.org/wiki/City_of_Cape_Town,City of Cape Town,city-of-cape-town,city-of-cape-town,UNK
+Cape Town,17759734,20,32,670532;6653,http://en.wikipedia.org/wiki/Cape_Town_Opera,Cape Town Opera,cape-town-opera,cape-town-opera,UNK
+Cape Town,6611416,152,145,17416221;6653;12564208,"http://en.wikipedia.org/wiki/Parow,_Cape_Town","Parow, Cape Town",parow-cape-town,parow-cape-town,UNK
+Cape Town,5067810,159,148,17416221;6653;9316;9904;1018598,http://en.wikipedia.org/wiki/Cape_Town_Stadium,Cape Town Stadium,cape-town-stadium,cape-town-stadium,UNK
+Cape Town,670532,1014,222,6653;12303804;3868530;670532;17759734;17416221,http://en.wikipedia.org/wiki/University_of_Cape_Town,University of Cape Town,university-of-cape-town,university-of-cape-town,ORG
+Calcutta,47905,6465,866,9690013;12399534;2916789;408215;407754;519610;363531;129041;9665846;3816837;14335981;25936454;47905;14533,http://en.wikipedia.org/wiki/Kolkata,Kolkata,kolkata,kolkata,GPE
+Calcutta,2916789,34,48,47905,"http://en.wikipedia.org/wiki/Calcutta,_West_Virginia","Calcutta, West Virginia",calcutta-west-virginia,calcutta-west-virginia,GPE
+Calcutta,519610,1537,610,9690013;3816837;47905;519610,http://en.wikipedia.org/wiki/University_of_Calcutta,University of Calcutta,university-of-calcutta,university-of-calcutta,ORG
+Calcutta,14335981,3,8,47905,"http://en.wikipedia.org/wiki/Calcutta,_Belize","Calcutta, Belize",calcutta-belize,calcutta-belize,UNK
+Calcutta,25936454,77,80,47905,"http://en.wikipedia.org/wiki/Calcutta,_Suriname","Calcutta, Suriname",calcutta-suriname,calcutta-suriname,GPE
+Calcutta,9665846,7,363,14533;47905,http://en.wikipedia.org/wiki/Calcutta_Group,Calcutta Group,calcutta-group,calcutta-group,PER
+Calcutta,25461708,3,34,,http://en.wikipedia.org/wiki/Calcutta_(band),Calcutta,calcutta,calcutta-band,UNK
+Calcutta,129041,59,73,47905,"http://en.wikipedia.org/wiki/Calcutta,_Ohio","Calcutta, Ohio",calcutta-ohio,calcutta-ohio,GPE
+Calcutta,9690013,172,5,14533;519610;47905,http://en.wikipedia.org/wiki/Calcutta_Club,Calcutta Club,calcutta-club,calcutta-club,ORG
+Calcutta,65572,6,7,,http://en.wikipedia.org/wiki/Calcutta_auction,Calcutta auction,calcutta-auction,calcutta-auction,UNK
+Calcutta,28136882,11,33,14533,http://en.wikipedia.org/wiki/Calcutta_(Taxi_Taxi_Taxi),Calcutta,calcutta,calcutta-taxi-taxi-taxi,UNK

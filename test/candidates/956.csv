@@ -1,0 +1,34 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+SOUTH KOREAN,27019,38617,831,39671984;26572026;905855;39247356;1056425;1056336;1056366;16749;19159283;25390710;1262912;10458246;27019;38039446;4196610;945405;17091922;4607874;323111;326500;9684212;9684477;7976764;40816344,http://en.wikipedia.org/wiki/South_Korea,South Korea,south-korea,south-korea,GPE
+SOUTH KOREAN,16749,11146,390,16749;19159283;4196610;1262912;27019,http://en.wikipedia.org/wiki/Korea,Korea,korea,korea,GPE
+SEOUL,19159283,10914,801,16749;19159283;4196610;26572026;905855;945405;1262912;17091922;4607874;323111;27019;326500;1056336,http://en.wikipedia.org/wiki/Seoul,Seoul,seoul,seoul,GPE
+SEOUL,1056336,815,370,945405;1056425;1056336;19159283;1056366;27019;38039446,http://en.wikipedia.org/wiki/FC_Seoul,FC Seoul,fc-seoul,fc-seoul,UNK
+SEOUL,905855,376,310,23538636;17091922;945405;19159283;40816344;27019,http://en.wikipedia.org/wiki/Seoul_Station,Seoul Station,seoul-station,seoul-station,UNK
+SEOUL,4975108,0,2,,http://en.wikipedia.org/wiki/Seoul_Airport,Seoul Airport,seoul-airport,seoul-airport,UNK
+SEOUL,4196610,94,63,19159283;27019;16749,http://en.wikipedia.org/wiki/Seoul_Institute_of_the_Arts,Seoul Institute of the Arts,seoul-institute-of-the-arts,seoul-institute-of-the-arts,UNK
+SEOUL,2178409,106,299,2178409,http://en.wikipedia.org/wiki/Little_Seoul,Little Seoul,little-seoul,little-seoul,UNK
+SEOUL,4607874,41,47,19159283;27019,http://en.wikipedia.org/wiki/University_of_Seoul,University of Seoul,university-of-seoul,university-of-seoul,UNK
+South Korean,27019,38617,831,39671984;26572026;905855;39247356;1056425;1056336;1056366;16749;19159283;25390710;1262912;10458246;27019;38039446;4196610;945405;17091922;4607874;323111;326500;9684212;9684477;7976764;40816344,http://en.wikipedia.org/wiki/South_Korea,South Korea,south-korea,south-korea,GPE
+South Korean,16749,11146,390,16749;19159283;4196610;1262912;27019,http://en.wikipedia.org/wiki/Korea,Korea,korea,korea,GPE
+Pohang,1056366,771,233,326500;1056425;1056336;1056366;27019;25390710;38039446,http://en.wikipedia.org/wiki/Pohang_Steelers,Pohang Steelers,pohang-steelers,pohang-steelers,UNK
+Pohang,9684212,37,39,9684477;27019;326500,http://en.wikipedia.org/wiki/Pohang_Airport,Pohang Airport,pohang-airport,pohang-airport,UNK
+Pohang,25390710,21,33,27019;1056366;1056425;326500,http://en.wikipedia.org/wiki/Pohang_Stadium,Pohang Stadium,pohang-stadium,pohang-stadium,UNK
+Pohang,326500,433,150,323111;945405;9684212;19159283;1056366;40816344;27019;25390710,http://en.wikipedia.org/wiki/Pohang,Pohang,pohang,pohang,UNK
+Pohang,40816344,5,17,27019;905855;326500,http://en.wikipedia.org/wiki/Pohang_Station,Pohang Station,pohang-station,pohang-station,UNK
+Ulsan,1056425,529,241,7976764;323111;1056425;1056336;1056366;27019;25390710;38039446,http://en.wikipedia.org/wiki/Ulsan_Hyundai_FC,Ulsan Hyundai FC,ulsan-hyundai-fc,ulsan-hyundai-fc,UNK
+Ulsan,39247356,12,18,27019;323111;10458246,http://en.wikipedia.org/wiki/Ulsan_College,Ulsan College,ulsan-college,ulsan-college,UNK
+Ulsan,323111,819,178,23538636;39671984;7976764;323111;39247356;10458246;326500;945405;1056425;19159283;9684477;27019,http://en.wikipedia.org/wiki/Ulsan,Ulsan,ulsan,ulsan,UNK
+Ulsan,23538636,42,65,905855;323111,http://en.wikipedia.org/wiki/Ulsan_Station,Ulsan Station,ulsan-station,ulsan-station,UNK
+Ulsan,10458246,70,77,323111;27019;39247356,http://en.wikipedia.org/wiki/University_of_Ulsan,University of Ulsan,university-of-ulsan,university-of-ulsan,UNK
+Ulsan,39671984,5,15,27019;323111,http://en.wikipedia.org/wiki/Ulsan_Museum,Ulsan Museum,ulsan-museum,ulsan-museum,UNK
+Ulsan,7976764,18,12,27019;323111;1056425,http://en.wikipedia.org/wiki/Ulsan_Stadium,Ulsan Stadium,ulsan-stadium,ulsan-stadium,UNK
+Ulsan,9684477,28,29,27019;9684212;323111,http://en.wikipedia.org/wiki/Ulsan_Airport,Ulsan Airport,ulsan-airport,ulsan-airport,UNK
+Chonan,863109,75,98,,"http://en.wikipedia.org/wiki/Chōnan,_Chiba","Chōnan, Chiba",chonan-chiba,chonan-chiba,UNK
+Chonan,26572026,112,137,19159283;27019,http://en.wikipedia.org/wiki/Battle_of_Chonan,Battle of Chonan,battle-of-chonan,battle-of-chonan,UNK
+Anyang,1056336,815,370,945405;1056425;1056336;19159283;1056366;27019;38039446,http://en.wikipedia.org/wiki/FC_Seoul,FC Seoul,fc-seoul,fc-seoul,UNK
+Anyang,24700130,184,183,478502,http://en.wikipedia.org/wiki/Anyang_County,Anyang County,anyang-county,anyang-county,GPE
+Anyang,17091922,160,177,945405;478502;905855;19159283;1262912;27019,http://en.wikipedia.org/wiki/Anyang_Station,Anyang Station,anyang-station,anyang-station,UNK
+Anyang,1262912,6,14,945405;17091922;27019;19159283;16749,http://en.wikipedia.org/wiki/Anyang_University,Anyang University,anyang-university,anyang-university,ORG
+Anyang,38039446,135,65,945405;1056425;1056336;1056366;27019;38039446,http://en.wikipedia.org/wiki/FC_Anyang,FC Anyang,fc-anyang,fc-anyang,UNK
+Anyang,478502,612,243,17091922;24700130,http://en.wikipedia.org/wiki/Anyang,Anyang,anyang,anyang,GPE
+Anyang,945405,212,196,905855;1056336;19159283;1262912;323111;17091922;326500;27019;38039446,"http://en.wikipedia.org/wiki/Anyang,_Gyeonggi","Anyang, Gyeonggi",anyang-gyeonggi,anyang-gyeonggi,UNK

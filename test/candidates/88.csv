@@ -1,0 +1,68 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Grozny,140790,588,184,1526308;25431;431579;25391;27495823;20611504;6095;622772;12852762;7873254;185118;7208318,http://en.wikipedia.org/wiki/Grozny,Grozny,grozny,grozny,UNK
+Grozny,27495823,1,7,140790;25431;25391,http://en.wikipedia.org/wiki/Grozny_(inhabited_locality),Grozny,grozny,grozny-inhabited-locality,UNK
+Grozny,12852762,169,142,25431;185118;140790;25391,http://en.wikipedia.org/wiki/Grozny_Airport,Grozny Airport,grozny-airport,grozny-airport,UNK
+Grozny,7208318,114,184,6095;18998750;1526308;140790;25391,http://en.wikipedia.org/wiki/Battle_of_Grozny_(1999–2000),Battle of Grozny,battle-of-grozny,battle-of-grozny-1999–2000,UNK
+Grozny,6874733,4,15,25391,http://en.wikipedia.org/wiki/Grozny_Group,Grozny Group,grozny-group,grozny-group,UNK
+Russia,25391,96899,1757,140790;1526308;6095;6840469;13311485;2495469;406573;2794281;588941;25702;25431;25391;25127146;316936;525972;525971;6874733;9384268;1297520;59510;27495823;431579;185118;21805600;1338528;622772;10892530;12556065;17970141;2437139;10761758;1024058;20611504;7873254;2012490;3821983;106409;5237926;21322882;233596;12852762;737701;2818394;18020135;4091317;1489122;7208318,http://en.wikipedia.org/wiki/Russia,Russia,russia,russia,GPE
+Russia,126524,53,68,,"http://en.wikipedia.org/wiki/Russia,_New_York","Russia, New York",russia-new-york,russia-new-york,GPE
+Russia,9384268,7,195,25431;25391,http://en.wikipedia.org/wiki/Russia-1,Russia-1,russia-1,russia-1,UNK
+Russia,10892530,33,74,10892530;25431;18020135;2495469;25391;525972,http://en.wikipedia.org/wiki/Great_Russia_(political_party),Great Russia,great-russia,great-russia-political-party,UNK
+Russia,1338528,556,124,4091317;5237926;106409;25431;25391;20611504;233596;2012490;25702;2437139;59510,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+Russia,11471837,31,16,59510;525971,"http://en.wikipedia.org/wiki/Little_Russia,_London","Little Russia, London",little-russia-london,little-russia-london,GPE
+Russia,1526308,569,334,1526308;25431;25391;20611504;588941;6095;18998750;140790;7208318,http://en.wikipedia.org/wiki/Russian_Air_Force,Russian Air Force,russian-air-force,russian-air-force,ORG
+Russia,121404,79,101,,"http://en.wikipedia.org/wiki/Russia_Township,_Polk_County,_Minnesota","Russia Township, Polk County, Minnesota",russia-township-polk-county-minnesota,russia-township-polk-county-minnesota,GPE
+Russia,18020135,97,115,20611504;10892530;18020135;2495469;25391,http://en.wikipedia.org/wiki/Greater_Russia,Greater Russia,greater-russia,greater-russia,UNK
+Russia,25127146,1379,474,25431;25391,http://en.wikipedia.org/wiki/Russia_national_football_team,Russia national football team,russia-national-football-team,russia-national-football-team,ORG
+Russia,588941,130,294,1526308;25391,http://en.wikipedia.org/wiki/Russia_and_weapons_of_mass_destruction,Russia and weapons of mass destruction,russia-and-weapons-of-mass-destruction,russia-and-weapons-of-mass-destruction,UNK
+Russia,21805600,0,70,25431;25391,http://en.wikipedia.org/wiki/Russia-K,Russia-K,russia-k,russia-k,ORG
+Russia,129821,48,76,,"http://en.wikipedia.org/wiki/Russia,_Ohio","Russia, Ohio",russia-ohio,russia-ohio,GPE
+Russia,525972,31,17,10892530;25391;25431;59510;525971,http://en.wikipedia.org/wiki/Great_Russia,Great Russia,great-russia,great-russia,UNK
+Russia,3821983,291,173,233596;6095;3821983;431579;25391,http://en.wikipedia.org/wiki/1998_Russian_financial_crisis,1998 Russian financial crisis,1998-russian-financial-crisis,1998-russian-financial-crisis,UNK
+Russia,4091317,202,519,4091317;5237926;106409;25431;25391;20611504;233596;25702;2437139;18998750;1338528,http://en.wikipedia.org/wiki/LGBT_rights_in_Russia,LGBT rights in Russia,lgbt-rights-in-russia,lgbt-rights-in-russia,UNK
+Russia,25702,339,588,4091317;5237926;106409;25431;25391;20611504;233596;2012490;25702;2437139;59510;1338528,http://en.wikipedia.org/wiki/Geography_of_Russia,Geography of Russia,geography-of-russia,geography-of-russia,UNK
+Russia,20611504,12186,703,140790;1338528;106409;5237926;622772;1526308;525971;2437139;233596;6840469;20611504;2012490;25702;737701;25431;25391;59510;18020135;4091317,http://en.wikipedia.org/wiki/Russian_Empire,Russian Empire,russian-empire,russian-empire,GPE
+Russia,21599323,3,24,,http://en.wikipedia.org/wiki/Mr_Russia,Mr Russia,mr-russia,mr-russia,UNK
+Russia,2818394,130,157,25431;2818394;25391,http://en.wikipedia.org/wiki/Russia_Tower,Russia Tower,russia-tower,russia-tower,UNK
+Russia,10761758,242,162,25391;10761758,http://en.wikipedia.org/wiki/Church_of_Scientology_Moscow_v._Russia,Church of Scientology Moscow v. Russia,church-of-scientology-moscow-v-russia,church-of-scientology-moscow-v-russia,UNK
+Russia,525971,186,136,20611504;525972;11471837;25431;25391,http://en.wikipedia.org/wiki/Little_Russia,Little Russia,little-russia,little-russia,UNK
+Russia,7873254,176,179,140790;25391,http://en.wikipedia.org/wiki/Russian_Chess_Championship,Russian Chess Championship,russian-chess-championship,russian-chess-championship,UNK
+Russian,25391,96899,1757,140790;1526308;6095;6840469;13311485;2495469;406573;2794281;588941;25702;25431;25391;25127146;316936;525972;525971;6874733;9384268;1297520;59510;27495823;431579;185118;21805600;1338528;622772;10892530;12556065;17970141;2437139;10761758;1024058;20611504;7873254;2012490;3821983;106409;5237926;21322882;233596;12852762;737701;2818394;18020135;4091317;1489122;7208318,http://en.wikipedia.org/wiki/Russia,Russia,russia,russia,GPE
+Russian,2036528,144,149,39583195;25431;2036528,http://en.wikipedia.org/wiki/Russian_Wikipedia,Russian Wikipedia,russian-wikipedia,russian-wikipedia,UNK
+Russian,8280942,11,6,,http://en.wikipedia.org/wiki/Russian_Mountains,Russian Mountains,russian-mountains,russian-mountains,UNK
+Russian,25431,47755,624,140790;1338528;10892530;1526308;6095;838610;2437139;2495469;1024058;20611504;406573;2012490;25702;25431;25391;25127146;106409;5237926;316936;525972;525971;21322882;18998750;233596;9384268;12852762;2036528;2818394;59510;27495823;431579;4091317;185118;21805600,http://en.wikipedia.org/wiki/Russian_language,Russian language,russian-language,russian-language,UNK
+Russian,1489122,180,35,2012490;25391,http://en.wikipedia.org/wiki/Russian_Museum,Russian Museum,russian-museum,russian-museum,UNK
+Russian,481569,36,34,,http://en.wikipedia.org/wiki/Russian_dressing,Russian dressing,russian-dressing,russian-dressing,UNK
+Russian,5237926,240,330,4091317;106409;25431;25391;20611504;233596;2012490;25702;2437139;59510;1338528,http://en.wikipedia.org/wiki/Russian_opera,Russian opera,russian-opera,russian-opera,GPE
+Russian,1297520,101,114,25391,"http://en.wikipedia.org/wiki/Russian_Hill,_San_Francisco","Russian Hill, San Francisco",russian-hill-san-francisco,russian-hill-san-francisco,UNK
+Russian,13311485,3,78,25391,http://en.wikipedia.org/wiki/Russian_Rugby_League,Russian Rugby League,russian-rugby-league,russian-rugby-league,UNK
+Russian,2437139,295,395,4091317;5237926;106409;25431;25391;20611504;233596;4652128;2012490;25702;59510;1338528,http://en.wikipedia.org/wiki/Russian_architecture,Russian architecture,russian-architecture,russian-architecture,UNK
+Russian,42612382,2,5,,"http://en.wikipedia.org/wiki/Russian_Church,_Geneva","Russian Church, Geneva",russian-church-geneva,russian-church-geneva,UNK
+Russian,12556065,3,11,25391,"http://en.wikipedia.org/wiki/Russian_White,_Black_and_Tabby","Russian White, Black and Tabby",russian-white-black-and-tabby,russian-white-black-and-tabby,UNK
+Russian,6840469,492,91,25391;20611504,http://en.wikipedia.org/wiki/Russian_River_(California),Russian River,russian-river,russian-river-california,UNK
+Russian,2012490,439,923,5237926;25702;2437139;406573;1338528;106409;1024058;25431;25391;20611504;233596;2794281;59510;1489122,http://en.wikipedia.org/wiki/Russian_culture,Russian culture,russian-culture,russian-culture,UNK
+Russian,1024058,32,224,233596;2012490;59510;1024058;25431;25391,http://en.wikipedia.org/wiki/Russian_jokes,Russian jokes,russian-jokes,russian-jokes,UNK
+Russian,316936,160,119,838610;233596;316936;106409;25431;25391,http://en.wikipedia.org/wiki/Russian_alphabet,Russian alphabet,russian-alphabet,russian-alphabet,UNK
+Russian,233596,820,442,5237926;2012490;316936;25702;2437139;406573;3821983;1338528;4091317;106409;1024058;25431;25391;20611504;59510,http://en.wikipedia.org/wiki/Russian_ruble,Russian ruble,russian-ruble,russian-ruble,UNK
+Russian,59510,4384,502,2012490;25702;1338528;106409;1024058;25431;25391;5237926;2437139;622772;20611504;233596;11471837;431579;525972;6095,http://en.wikipedia.org/wiki/Russians,Russians,russians,russians,UNK
+Russian,2495469,84,246,6095;10892530;737701;25431;18020135;25391,http://en.wikipedia.org/wiki/Russian_National_Unity,Russian National Unity,russian-national-unity,russian-national-unity,UNK
+Russian,38545714,1,6,,http://en.wikipedia.org/wiki/Russian_Mountains_(Alaska),Russian Mountains,russian-mountains,russian-mountains-alaska,UNK
+Russian,2794281,91,98,2012490;25391,http://en.wikipedia.org/wiki/Russian_icons,Russian icons,russian-icons,russian-icons,UNK
+Russian,406573,799,364,2012490;25431;25391;233596,http://en.wikipedia.org/wiki/Russian_Federal_Space_Agency,Russian Federal Space Agency,russian-federal-space-agency,russian-federal-space-agency,UNK
+Russian,737701,250,230,20611504;2495469;431579;25391,http://en.wikipedia.org/wiki/1993_Russian_constitutional_crisis,1993 Russian constitutional crisis,1993-russian-constitutional-crisis,1993-russian-constitutional-crisis,UNK
+Russian,4652128,10,11,2437139,"http://en.wikipedia.org/wiki/Russian_Church,_Sofia","Russian Church, Sofia",russian-church-sofia,russian-church-sofia,UNK
+Russian,106409,642,438,5237926;2012490;316936;25702;2437139;1338528;4091317;25431;25391;20611504;838610;233596;59510,http://en.wikipedia.org/wiki/Russian_literature,Russian literature,russian-literature,russian-literature,UNK
+Russian,838610,69,75,106409;316936;25431,http://en.wikipedia.org/wiki/Russian_orthography,Russian orthography,russian-orthography,russian-orthography,UNK
+Russian,966902,23,30,,http://en.wikipedia.org/wiki/Russian_River_(Alaska),Russian River,russian-river,russian-river-alaska,UNK
+Russian,7104363,12,59,,http://en.wikipedia.org/wiki/Russian_Party,Russian Party,russian-party,russian-party,UNK
+Russian,37252162,0,29,18998750,http://en.wikipedia.org/wiki/Russian_Market,Russian Market,russian-market,russian-market,UNK
+Russian,21322882,11,4,25431;25391,http://en.wikipedia.org/wiki/Russian_Journal_(website),Russian Journal,russian-journal,russian-journal-website,UNK
+Reuters,18998750,9093,418,1526308;6095;25431;18998750;2171552;4091317;37252162;7208318,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Alexander Lebed,431579,54,75,59510;737701;25431;3821983;140790;25391,http://en.wikipedia.org/wiki/Alexander_Lebed,Alexander Lebed,alexander-lebed,alexander-lebed,PER
+Lebed,431579,54,75,59510;737701;25431;3821983;140790;25391,http://en.wikipedia.org/wiki/Alexander_Lebed,Alexander Lebed,alexander-lebed,alexander-lebed,PER
+Chechen,6095,1506,321,1526308;3821983;140790;25431;25391;6095;59510;622772;18998750;185118;2495469;7208318,http://en.wikipedia.org/wiki/Chechnya,Chechnya,chechnya,chechnya,UNK
+Chechen,17970141,33,30,25391,http://en.wikipedia.org/wiki/Chechen_Island,Chechen Island,chechen-island,chechen-island,UNK
+Chechen,185118,296,153,39583195;6095;622772;12852762;25431;140790;25391,http://en.wikipedia.org/wiki/Chechen_language,Chechen language,chechen-language,chechen-language,UNK
+Chechen,622772,434,197,25391;20611504;6095;59510;185118;140790,http://en.wikipedia.org/wiki/Chechen_people,Chechen people,chechen-people,chechen-people,UNK
+Chechen,39583195,1,97,185118;2036528,http://en.wikipedia.org/wiki/Chechen_Wikipedia,Chechen Wikipedia,chechen-wikipedia,chechen-wikipedia,UNK

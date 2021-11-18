@@ -1,0 +1,22 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Malaysia,3607937,30770,790,3607937;7835243;29343059;1890739;30862852;1143836;8967217;16854;7573112;153162;2856255;105963;56706;10302702;16429740;549059,http://en.wikipedia.org/wiki/Malaysia,Malaysia,malaysia,malaysia,GPE
+Malaysia,30862852,792,369,3607937;30862852;56706;29343059;16854;105963,http://en.wikipedia.org/wiki/Malaysian_Expressway_System,Malaysian Expressway System,malaysian-expressway-system,malaysian-expressway-system,UNK
+Malaysia,1890739,26,112,3607937,http://en.wikipedia.org/wiki/Malaysian_Malaysia,Malaysian Malaysia,malaysian-malaysia,malaysian-malaysia,UNK
+Malaysia,56706,230,317,3607937;16854;30862852;56706,http://en.wikipedia.org/wiki/Geography_of_Malaysia,Geography of Malaysia,geography-of-malaysia,geography-of-malaysia,UNK
+Malaysia,153162,650,467,3607937;16854;2856255;105963;29343059;153162,http://en.wikipedia.org/wiki/Malaysia_Airlines,Malaysia Airlines,malaysia-airlines,malaysia-airlines,ORG
+Malaysia,10302702,76,76,3607937,http://en.wikipedia.org/wiki/Deal_or_No_Deal_Malaysia_(Chinese_version),Deal or No Deal Malaysia,deal-or-no-deal-malaysia,deal-or-no-deal-malaysia-chinese-version,UNK
+KUALA LUMPUR,16854,6075,623,1143836;8967217;16854;105963;3607937;56706;7835243;29343059;8433412;30862852;549059;153162;2856255,http://en.wikipedia.org/wiki/Kuala_Lumpur,Kuala Lumpur,kuala-lumpur,kuala-lumpur,GPE
+KUALA LUMPUR,549059,181,177,3607937;105963;16854,http://en.wikipedia.org/wiki/Kuala_Lumpur_Tower,Kuala Lumpur Tower,kuala-lumpur-tower,kuala-lumpur-tower,UNK
+KUALA LUMPUR,8967217,72,90,3607937;16854,http://en.wikipedia.org/wiki/University_of_Kuala_Lumpur,University of Kuala Lumpur,university-of-kuala-lumpur,university-of-kuala-lumpur,GPE
+KUALA LUMPUR,2856255,74,107,3607937;105963;16854;153162,http://en.wikipedia.org/wiki/RAF_Kuala_Lumpur,RAF Kuala Lumpur,raf-kuala-lumpur,raf-kuala-lumpur,UNK
+KUALA LUMPUR,8433412,244,88,8433412;16854,http://en.wikipedia.org/wiki/Kuala_Lumpur_FA,Kuala Lumpur FA,kuala-lumpur-fa,kuala-lumpur-fa,ORG
+KUALA LUMPUR,7835243,9,91,3607937;29343059;16854,http://en.wikipedia.org/wiki/Geography_of_Kuala_Lumpur,Geography of Kuala Lumpur,geography-of-kuala-lumpur,geography-of-kuala-lumpur,UNK
+KUALA LUMPUR,105963,506,324,3607937;16854;30862852;2856255;549059;105963;153162,http://en.wikipedia.org/wiki/Kuala_Lumpur_International_Airport,Kuala Lumpur International Airport,kuala-lumpur-international-airport,kuala-lumpur-international-airport,UNK
+KUALA LUMPUR,29343059,139,130,3607937;7835243;16854;153162;30862852,http://en.wikipedia.org/wiki/Greater_Kuala_Lumpur,Greater Kuala Lumpur,greater-kuala-lumpur,greater-kuala-lumpur,UNK
+Bernama,1143836,394,131,3607937;16854,http://en.wikipedia.org/wiki/Bernama,Bernama,bernama,bernama,ORG
+Chua,16429740,11,46,3607937;7573112,http://en.wikipedia.org/wiki/Chua_Jui_Meng,Chua Jui Meng,chua-jui-meng,chua-jui-meng,PER
+Chua,7573112,26,37,3607937;16429740,http://en.wikipedia.org/wiki/Chua_Soi_Lek,Chua Soi Lek,chua-soi-lek,chua-soi-lek,PER
+Chua,956663,819,217,,http://en.wikipedia.org/wiki/Chu_(state),Chu,chu,chu-state,GPE
+Chua,7513925,4,9,,http://en.wikipedia.org/wiki/Chuak,Chuak,chuak,chuak,UNK
+Chua,6312536,43,33,,http://en.wikipedia.org/wiki/Amy_Chua,Amy Chua,amy-chua,amy-chua,PER
+Chua,12244945,21,42,,http://en.wikipedia.org/wiki/Canh_chua,Canh chua,canh-chua,canh-chua,ORG

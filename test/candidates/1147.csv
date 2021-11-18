@@ -1,0 +1,174 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Iraq,7515928,18884,662,30920463;3978097;70789;19869863;4492;1652138;40316;766841;201936;5043324;80777;200692;200519;14665;14653;1038799;8122677;24534207;993503;3434750;4562459;39303294;440244;8550616;162172;2900620;1767662;25659771;7515928;7203072;463860;679693;26793252;64697;29490;246612;3913469;31769;31957;5148100,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+Iraq,5043324,6133,1280,3434750;4492;8550616;40316;2900620;1767662;201936;5043324;7515928;679693;26793252;29490;246612;200519;14665;14653;1038799;31769;10013089,http://en.wikipedia.org/wiki/Iraq_War,Iraq War,iraq-war,iraq-war,UNK
+Iraq,10013089,0,8,5043324,http://en.wikipedia.org/wiki/Iraq_the_model,Iraq the model,iraq-the-model,iraq-the-model,UNK
+Iraq,26793252,147,159,5043324;14665;4492;2900620;246612;29490;679693;1038799;201936;40316;26793252;7515928,http://en.wikipedia.org/wiki/Iraqi_Republic_(1958–68),Iraqi Republic,iraqi-republic,iraqi-republic-1958–68,GPE
+Iraq,246612,247,253,5043324;14665;2900620;29490;679693;1038799;201936;40316;26793252;7515928,http://en.wikipedia.org/wiki/Iraqi_dinar,Iraqi dinar,iraqi-dinar,iraqi-dinar,UNK
+Iraq,14665,219,271,80777;5043324;64697;14665;4492;2900620;246612;14653;29490;679693;1038799;201936;40316;26793252;7515928,http://en.wikipedia.org/wiki/Geography_of_Iraq,Geography of Iraq,geography-of-iraq,geography-of-iraq,UNK
+Iraq,2900620,479,199,4492;2900620;246612;29490;200692;1958295;40316;440244;26793252;8122677;5043324;14665;679693;1038799;31769;201936;31899;7515928,http://en.wikipedia.org/wiki/Kingdom_of_Iraq,Kingdom of Iraq,kingdom-of-iraq,kingdom-of-iraq,GPE
+Iraq,30920463,349,324,4492;8122677;679693;25659771;7515928,http://en.wikipedia.org/wiki/2011_Iraqi_protests,2011 Iraqi protests,2011-iraqi-protests,2011-iraqi-protests,UNK
+Iraq,201936,2386,848,4492;440244;26793252;201936;29490;1652138;40316;3434750;5043324;25659771;7515928;70789;246612;200692;162172;14665;14653;1038799;31957;2900620;679693;766841,http://en.wikipedia.org/wiki/2003_invasion_of_Iraq,2003 invasion of Iraq,2003-invasion-of-iraq,2003-invasion-of-iraq,UNK
+Iraq,1038799,151,365,4492;2900620;246612;29490;40316;26793252;5043324;14665;14653;679693;1038799;201936;7515928,http://en.wikipedia.org/wiki/Mandatory_Iraq,Mandatory Iraq,mandatory-iraq,mandatory-iraq,GPE
+Aziz,200692,107,75,1472497;216386;201936;440244;2900620;14653;29490;7515928,http://en.wikipedia.org/wiki/Tariq_Aziz,Tariq Aziz,tariq-aziz,tariq-aziz,UNK
+Aziz,28201394,84,91,26068846,http://en.wikipedia.org/wiki/Sebt_Aziz,Sebt Aziz,sebt-aziz,sebt-aziz,UNK
+Aziz,1472497,15,36,200692,http://en.wikipedia.org/wiki/Aziz,Aziz,aziz,aziz,UNK
+Aziz,16964877,2,6,,http://en.wikipedia.org/wiki/Aziz_(artist),Aziz,aziz,aziz-artist,PER
+Aziz,26068846,84,90,28201394,http://en.wikipedia.org/wiki/Aziz_District,Aziz District,aziz-district,aziz-district,UNK
+Baghdad,4492,5332,473,30920463;3978097;201936;24534207;39898616;1958295;5043324;25659771;7515928;4562459;7203072;39303294;19869863;679693;3296361;440244;26793252;8550616;29490;1652138;200519;162172;14665;14653;1038799;31769;5148100;2900620;3022965;766841,http://en.wikipedia.org/wiki/Baghdad,Baghdad,baghdad,baghdad,GPE
+Baghdad,11402383,3,6,,http://en.wikipedia.org/wiki/Baghdad_Street_(Singapore),Baghdad Street,baghdad-street,baghdad-street-singapore,UNK
+Baghdad,200519,272,42,162172;5043324;463860;4492;3434750;24534207;7515928,http://en.wikipedia.org/wiki/Baghdad_Governorate,Baghdad Governorate,baghdad-governorate,baghdad-governorate,GPE
+Baghdad,4562459,13,25,29490;7515928;4492,http://en.wikipedia.org/wiki/Baghdad_College,Baghdad College,baghdad-college,baghdad-college,UNK
+Baghdad,11029341,3,6,,http://en.wikipedia.org/wiki/Lake_Baghdad,Lake Baghdad,lake-baghdad,lake-baghdad,UNK
+Baghdad,21863514,110,127,,http://en.wikipedia.org/wiki/Baghdad_Street_(Damascus),Baghdad Street,baghdad-street,baghdad-street-damascus,UNK
+Baghdad,3296361,29,23,4492,http://en.wikipedia.org/wiki/Al-Khatib_al-Baghdadi,Al-Khatib al-Baghdadi,al-khatib-al-baghdadi,al-khatib-al-baghdadi,UNK
+Baghdad,19869863,57,46,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_FC,Baghdad FC,baghdad-fc,baghdad-fc,UNK
+Baghdad,28164876,2,6,,http://en.wikipedia.org/wiki/Baghdad_Texas,Baghdad Texas,baghdad-texas,baghdad-texas,UNK
+Baghdad,39303294,0,10,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_School,Baghdad School,baghdad-school,baghdad-school,UNK
+Baghdad,162172,242,100,4492;29490;1767662;201936;200519;7515928,http://en.wikipedia.org/wiki/Baghdad_International_Airport,Baghdad International Airport,baghdad-international-airport,baghdad-international-airport,UNK
+Baghdad,39898616,1,7,4492,"http://en.wikipedia.org/wiki/Baghdād,_Afghanistan","Baghdād, Afghanistan",baghdad-afghanistan,baghdad-afghanistan,GPE
+Baghdad,1652138,7,9,7515928;201936;4492,http://en.wikipedia.org/wiki/Baghdad_Tower,Baghdad Tower,baghdad-tower,baghdad-tower,UNK
+Baghdad,766841,7,9,201936;7515928;4492,http://en.wikipedia.org/wiki/Baghdad_Hotel,Baghdad Hotel,baghdad-hotel,baghdad-hotel,UNK
+Baghdad,5148100,117,37,4492;440244;7515928,http://en.wikipedia.org/wiki/University_of_Baghdad,University of Baghdad,university-of-baghdad,university-of-baghdad,UNK
+Baghdad,6683213,13,10,,http://en.wikipedia.org/wiki/Baghdad_Stadium,Baghdad Stadium,baghdad-stadium,baghdad-stadium,UNK
+Baghdad,7203072,7,7,29490;7515928;4492,http://en.wikipedia.org/wiki/About_Baghdad,About Baghdad,about-baghdad,about-baghdad,UNK
+Baghdad,34719584,15,16,,http://en.wikipedia.org/wiki/Baghdad_(West_Syrian_Diocese),Baghdad,baghdad,baghdad-west-syrian-diocese,UNK
+Baghdad,1958295,196,101,4492;2900620;3434750,http://en.wikipedia.org/wiki/Baghdad_Railway,Baghdad Railway,baghdad-railway,baghdad-railway,UNK
+Baghdad,993503,68,90,3434750;14653;7515928,http://en.wikipedia.org/wiki/Baghdad_(EP),Baghdad,baghdad,baghdad-ep,UNK
+KDP,25659771,230,161,8122677;80777;4492;14653;29490;30920463;679693;201936;440244;24534207;7515928;70789,http://en.wikipedia.org/wiki/Kurdistan_Democratic_Party,Kurdistan Democratic Party,kurdistan-democratic-party,kurdistan-democratic-party,UNK
+BAGHDAD,4492,5332,473,30920463;3978097;201936;24534207;39898616;1958295;5043324;25659771;7515928;4562459;7203072;39303294;19869863;679693;3296361;440244;26793252;8550616;29490;1652138;200519;162172;14665;14653;1038799;31769;5148100;2900620;3022965;766841,http://en.wikipedia.org/wiki/Baghdad,Baghdad,baghdad,baghdad,GPE
+BAGHDAD,11402383,3,6,,http://en.wikipedia.org/wiki/Baghdad_Street_(Singapore),Baghdad Street,baghdad-street,baghdad-street-singapore,UNK
+BAGHDAD,200519,272,42,162172;5043324;463860;4492;3434750;24534207;7515928,http://en.wikipedia.org/wiki/Baghdad_Governorate,Baghdad Governorate,baghdad-governorate,baghdad-governorate,GPE
+BAGHDAD,4562459,13,25,29490;7515928;4492,http://en.wikipedia.org/wiki/Baghdad_College,Baghdad College,baghdad-college,baghdad-college,UNK
+BAGHDAD,11029341,3,6,,http://en.wikipedia.org/wiki/Lake_Baghdad,Lake Baghdad,lake-baghdad,lake-baghdad,UNK
+BAGHDAD,21863514,110,127,,http://en.wikipedia.org/wiki/Baghdad_Street_(Damascus),Baghdad Street,baghdad-street,baghdad-street-damascus,UNK
+BAGHDAD,3296361,29,23,4492,http://en.wikipedia.org/wiki/Al-Khatib_al-Baghdadi,Al-Khatib al-Baghdadi,al-khatib-al-baghdadi,al-khatib-al-baghdadi,UNK
+BAGHDAD,19869863,57,46,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_FC,Baghdad FC,baghdad-fc,baghdad-fc,UNK
+BAGHDAD,28164876,2,6,,http://en.wikipedia.org/wiki/Baghdad_Texas,Baghdad Texas,baghdad-texas,baghdad-texas,UNK
+BAGHDAD,39303294,0,10,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_School,Baghdad School,baghdad-school,baghdad-school,UNK
+BAGHDAD,162172,242,100,4492;29490;1767662;201936;200519;7515928,http://en.wikipedia.org/wiki/Baghdad_International_Airport,Baghdad International Airport,baghdad-international-airport,baghdad-international-airport,UNK
+BAGHDAD,39898616,1,7,4492,"http://en.wikipedia.org/wiki/Baghdād,_Afghanistan","Baghdād, Afghanistan",baghdad-afghanistan,baghdad-afghanistan,GPE
+BAGHDAD,1652138,7,9,7515928;201936;4492,http://en.wikipedia.org/wiki/Baghdad_Tower,Baghdad Tower,baghdad-tower,baghdad-tower,UNK
+BAGHDAD,766841,7,9,201936;7515928;4492,http://en.wikipedia.org/wiki/Baghdad_Hotel,Baghdad Hotel,baghdad-hotel,baghdad-hotel,UNK
+BAGHDAD,5148100,117,37,4492;440244;7515928,http://en.wikipedia.org/wiki/University_of_Baghdad,University of Baghdad,university-of-baghdad,university-of-baghdad,UNK
+BAGHDAD,6683213,13,10,,http://en.wikipedia.org/wiki/Baghdad_Stadium,Baghdad Stadium,baghdad-stadium,baghdad-stadium,UNK
+BAGHDAD,7203072,7,7,29490;7515928;4492,http://en.wikipedia.org/wiki/About_Baghdad,About Baghdad,about-baghdad,about-baghdad,UNK
+BAGHDAD,34719584,15,16,,http://en.wikipedia.org/wiki/Baghdad_(West_Syrian_Diocese),Baghdad,baghdad,baghdad-west-syrian-diocese,UNK
+BAGHDAD,1958295,196,101,4492;2900620;3434750,http://en.wikipedia.org/wiki/Baghdad_Railway,Baghdad Railway,baghdad-railway,baghdad-railway,UNK
+BAGHDAD,993503,68,90,3434750;14653;7515928,http://en.wikipedia.org/wiki/Baghdad_(EP),Baghdad,baghdad,baghdad-ep,UNK
+Tareq Aziz,216386,17,14,200692,http://en.wikipedia.org/wiki/Tareq_Aziz,Tareq Aziz,tareq-aziz,tareq-aziz,UNK
+Iraqi,7515928,18884,662,30920463;3978097;70789;19869863;4492;1652138;40316;766841;201936;5043324;80777;200692;200519;14665;14653;1038799;8122677;24534207;993503;3434750;4562459;39303294;440244;8550616;162172;2900620;1767662;25659771;7515928;7203072;463860;679693;26793252;64697;29490;246612;3913469;31769;31957;5148100,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+Kurdish,80777,838,300,3913469;80777;14665;3978097;14653;463860;40316;679693;25659771;7515928;70789,http://en.wikipedia.org/wiki/Kurdistan,Kurdistan,kurdistan,kurdistan,UNK
+Kurdish,3913469,89,115,80777;3913469;40316;3978097;14653;7515928;679693,http://en.wikipedia.org/wiki/Kurdish_culture,Kurdish culture,kurdish-culture,kurdish-culture,UNK
+Kurdish,40316,423,416,2900620;246612;29490;3913469;40316;26793252;80777;5043324;14665;14653;679693;1038799;201936;7515928,http://en.wikipedia.org/wiki/Kurdish_languages,Kurdish languages,kurdish-languages,kurdish-languages,UNK
+Massoud Barzani,8122677,30,85,25659771;440244;2900620;14653;29490;7515928;30920463;679693;70789,http://en.wikipedia.org/wiki/Masoud_Barzani,Masoud Barzani,masoud-barzani,masoud-barzani,PER
+Patriotic Union of Kurdistan,70789,284,138,8122677;80777;14653;679693;25659771;201936;440244;24534207;7515928,http://en.wikipedia.org/wiki/Patriotic_Union_of_Kurdistan,Patriotic Union of Kurdistan,patriotic-union-of-kurdistan,patriotic-union-of-kurdistan,UNK
+Jalal Talabani,440244,342,115,5148100;4492;2900620;29490;200692;3434750;8122677;14653;679693;25659771;201936;7515928;70789,http://en.wikipedia.org/wiki/Jalal_Talabani,Jalal Talabani,jalal-talabani,jalal-talabani,PER
+Iraqi News Agency,8550616,8,10,7515928;4492;5043324,http://en.wikipedia.org/wiki/National_Iraqi_News_Agency,National Iraqi News Agency,national-iraqi-news-agency,national-iraqi-news-agency,UNK
+INA,28710835,138,150,,http://en.wikipedia.org/wiki/INA_metro_station,INA metro station,ina-metro-station,ina-metro-station,UNK
+INA,95293,26,25,,http://en.wikipedia.org/wiki/Hina_(goddess),Hina,hina,hina-goddess,UNK
+INA,507941,83,66,,"http://en.wikipedia.org/wiki/Ina,_Nagano","Ina, Nagano",ina-nagano,ina-nagano,GPE
+INA,33595615,31,51,,"http://en.wikipedia.org/wiki/Ina,_Benin","Ina, Benin",ina-benin,ina-benin,GPE
+INA,39082319,3,16,,http://en.wikipedia.org/wiki/Ina_clan,Ina clan,ina-clan,ina-clan,GPE
+INA,874402,5,9,,"http://en.wikipedia.org/wiki/Ina,_Ibaraki","Ina, Ibaraki",ina-ibaraki,ina-ibaraki,GPE
+INA,808241,202,226,,http://en.wikipedia.org/wiki/Ina_(river),Ina,ina,ina-river,UNK
+INA,111337,47,55,3434750,"http://en.wikipedia.org/wiki/Ina,_Illinois","Ina, Illinois",ina-illinois,ina-illinois,GPE
+INA,25790521,46,49,,"http://en.wikipedia.org/wiki/Ina,_Kasusuklaman_Ba_Kita?","Ina, Kasusuklaman Ba Kita?",ina-kasusuklaman-ba-kita,ina-kasusuklaman-ba-kita,UNK
+INA,12432708,65,71,,http://en.wikipedia.org/wiki/Ina_Station,Ina Station,ina-station,ina-station,UNK
+INA,7322444,92,105,,http://en.wikipedia.org/wiki/Iňa,Iňa,ina,ina,UNK
+INA,35426135,0,9,3434750,http://en.wikipedia.org/wiki/Lake_Ina,Lake Ina,lake-ina,lake-ina,UNK
+INA,33238790,42,74,,"http://en.wikipedia.org/wiki/Ina,_Kapatid,_Anak","Ina, Kapatid, Anak",ina-kapatid-anak,ina-kapatid-anak,UNK
+INA,877405,6,10,,"http://en.wikipedia.org/wiki/Ina,_Fukushima","Ina, Fukushima",ina-fukushima,ina-fukushima,GPE
+INA,864849,7,15,,"http://en.wikipedia.org/wiki/Ina,_Saitama","Ina, Saitama",ina-saitama,ina-saitama,GPE
+INA,11328964,77,12,,http://en.wikipedia.org/wiki/INA_(company),INA,ina,ina-company,UNK
+INA,23459140,2,6,,http://en.wikipedia.org/wiki/Iná_River,Iná River,ina-river,ina-river,UNK
+INA,17150094,3,9,,http://en.wikipedia.org/wiki/Ina_Castle,Ina Castle,ina-castle,ina-castle,UNK
+U.S.,3434750,529967,1252,14653;29490;31769;31899;111337;201936;200519;238192;233474;24534207;7515928;10328578;435793;436898;440244;3434750;7214790;18589346;5043324;3868301;35426135;605077;612085;25287144;679693;1767662;1958295;3022965;993503,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S.,10328578,210,402,435793;10328648;10328590;3434750;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S.,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S.,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S.,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S.,16304842,112,175,8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S.,233474,102,93,3434750,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S.,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S.,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;70780;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S.,429750,276,240,887108;441501;79717;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S.,10328648,378,412,903062;10328590;10328578;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S.,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S.,21559355,95,143,,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S.,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S.,444113,128,143,,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S.,902392,245,190,22398962;436898;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S.,6737193,115,173,887108,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S.,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S.,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S.,889284,455,321,889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S.,79717,694,442,889461;435793;887108;9180009;441501;889284;429750;3868301;888778;447879;436898;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+U.S.,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S.,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S.,435793,251,290,889461;498188;888778;447879;436898;10328578;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S.,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S.,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S.,605077,301,341,14653;3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S.,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S.,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S.,889461,178,203,887108;441501;79717;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S.,903385,68,230,903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S.,447879,394,337,16304842;889461;903062;888778;435793;436898;75235;10328575;887108;9180009;441501;79717;428913;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S.,2440624,133,162,70780;3868301,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S.,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S.,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S.,70780,396,232,889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S.,3868301,350,531,3434750;2440624;79717;70780,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S.,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;887108;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S.,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S.,436898,769,483,889461;435793;887108;441501;889284;429750;902392;888778;447879;3434750;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S.,238192,394,239,889461;888778;435793;447879;436898;10328648;3434750;10328620;75235;10328575;887108;441501;79717;428913;70780;903385;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S.,6310196,592,545,435793;10328648;10328590;10328578;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+U.S.,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+Iraqi Kurds,679693,1049,376,4492;246612;30920463;3913469;440244;26793252;80777;14665;3978097;14653;1038799;31769;201936;24534207;463860;2900620;29490;40316;3434750;8122677;5043324;679693;25659771;7515928;70789,http://en.wikipedia.org/wiki/Iraqi_Kurdistan,Iraqi Kurdistan,iraqi-kurdistan,iraqi-kurdistan,UNK
+Barzani,8122677,30,85,25659771;440244;2900620;14653;29490;7515928;30920463;679693;70789,http://en.wikipedia.org/wiki/Masoud_Barzani,Masoud Barzani,masoud-barzani,masoud-barzani,PER
+Saddam Hussein,29490,3012,433,4492;440244;26793252;1767662;201936;24534207;29490;40316;3434750;5043324;25659771;7515928;4562459;246612;200692;162172;14665;14653;7203072;1038799;31769;2900620;8122677;679693,http://en.wikipedia.org/wiki/Saddam_Hussein,Saddam Hussein,saddam-hussein,saddam-hussein,PER
+Saddam Hussein,1767662,22,144,1767662;162172;5043324;3434750;29490;7515928,http://en.wikipedia.org/wiki/Saddam_Hussein_and_al-Qaeda_link_allegations,Saddam Hussein and al-Qaeda link allegations,saddam-hussein-and-al-qaeda-link-allegations,saddam-hussein-and-al-qaeda-link-allegations,UNK
+Iran,14653,91618,862,4492;24978895;11257321;412823;14665;14653;3216133;29490;3913469;31769;31899;31957;40316;8114685;3022965;5043324;8122677;440244;25659771;679693;64697;3978097;70789;201936;80777;200692;1038799;3434750;22571369;7515928;463860;721807;605077;993503,http://en.wikipedia.org/wiki/Iran,Iran,iran,iran,GPE
+Iran,22571369,6,8,14653,http://en.wikipedia.org/wiki/Iran_Club,Iran Club,iran-club,iran-club,UNK
+Iran,8114685,2,7,14653,"http://en.wikipedia.org/wiki/Iran,_The_most_Dangerous_Nation?","Iran, The most Dangerous Nation?",iran-the-most-dangerous-nation,iran-the-most-dangerous-nation,UNK
+Iran,64697,194,217,14665;3978097;14653;7515928,http://en.wikipedia.org/wiki/Geography_of_Iran,Geography of Iran,geography-of-iran,geography-of-iran,UNK
+Iran,3022965,230,415,4492;721807;3434750;14653;31769,http://en.wikipedia.org/wiki/Iran–Israel_relations,Iran–Israel relations,iran–israel-relations,iran–israel-relations,UNK
+Iran,721807,498,303,3022965;721807;3978097;14653,http://en.wikipedia.org/wiki/Nuclear_program_of_Iran,Nuclear program of Iran,nuclear-program-of-iran,nuclear-program-of-iran,ORG
+Iran,31015979,3,14,31015979,http://en.wikipedia.org/wiki/Iran_(journal),Iran,iran,iran-journal,ORG
+Iran,42314926,2,5,,http://en.wikipedia.org/wiki/Iran_Mountains,Iran Mountains,iran-mountains,iran-mountains,UNK
+Iran,11257321,8,38,3978097;14653,http://en.wikipedia.org/wiki/Iran_(word),Iran,iran,iran-word,UNK
+Iran,412823,201,160,14653,http://en.wikipedia.org/wiki/Flag_of_Iran,Flag of Iran,flag-of-iran,flag-of-iran,UNK
+Iran,24978895,13,7,14653,http://en.wikipedia.org/wiki/Iran_(newspaper),Iran,iran,iran-newspaper,UNK
+Iran,3978097,271,539,11257321;4492;721807;3913469;80777;64697;14653;679693;7515928,http://en.wikipedia.org/wiki/Greater_Iran,Greater Iran,greater-iran,greater-iran,UNK
+Talabani,440244,342,115,5148100;4492;2900620;29490;200692;3434750;8122677;14653;679693;25659771;201936;7515928;70789,http://en.wikipedia.org/wiki/Jalal_Talabani,Jalal Talabani,jalal-talabani,jalal-talabani,PER
+Saddam,29490,3012,433,4492;440244;26793252;1767662;201936;24534207;29490;40316;3434750;5043324;25659771;7515928;4562459;246612;200692;162172;14665;14653;7203072;1038799;31769;2900620;8122677;679693,http://en.wikipedia.org/wiki/Saddam_Hussein,Saddam Hussein,saddam-hussein,saddam-hussein,PER
+Saddam,1767662,22,144,1767662;162172;5043324;3434750;29490;7515928,http://en.wikipedia.org/wiki/Saddam_Hussein_and_al-Qaeda_link_allegations,Saddam Hussein and al-Qaeda link allegations,saddam-hussein-and-al-qaeda-link-allegations,saddam-hussein-and-al-qaeda-link-allegations,UNK
+U.N.,31769,20072,584,4492;1437212;2151507;3022965;40979641;5043324;14653;18589346;11865969;3434750;2900620;3216133;7515928;679693;29490;26994994;31769;31899;31957,http://en.wikipedia.org/wiki/United_Nations,United Nations,united-nations,united-nations,UNK
+U.N.,7332924,1,13,,"http://en.wikipedia.org/wiki/Un,_Surat","Un, Surat",un-surat,un-surat,UNK
+U.N.,26994994,3,25,31769,http://en.wikipedia.org/wiki/U.N._Me,U.N. Me,un-me,un-me,UNK
+U.N.,20412552,16,49,,"http://en.wikipedia.org/wiki/Un,_dos,_tres..._responda_otra_vez","Un, dos, tres... responda otra vez",un-dos-tres-responda-otra-vez,un-dos-tres-responda-otra-vez,UNK
+U.N.,25287144,9,49,3434750,http://en.wikipedia.org/wiki/U.N._(group),U.N.,un,un-group,UNK
+U.N.,6079172,104,59,,"http://en.wikipedia.org/wiki/Un,_deux,_trois","Un, deux, trois",un-deux-trois,un-deux-trois,UNK
+U.N.,3216133,151,186,14653;31769;3216133;31957,http://en.wikipedia.org/wiki/Reform_of_the_United_Nations_Security_Council,Reform of the United Nations Security Council,reform-of-the-united-nations-security-council,reform-of-the-united-nations-security-council,UNK
+U.N.,23758960,612,113,,http://en.wikipedia.org/wiki/House_Un-American_Activities_Committee,House Un-American Activities Committee,house-un-american-activities-committee,house-un-american-activities-committee,UNK
+U.N.,40979641,5,20,31769,http://en.wikipedia.org/wiki/UN_City,UN City,un-city,un-city,UNK
+U.N.,4253834,20,41,,http://en.wikipedia.org/wiki/Un-United_Kingdom,Un-United Kingdom,un-united-kingdom,un-united-kingdom,UNK
+U.N.,28899268,595,142,,http://en.wikipedia.org/wiki/A-un,A-un,a-un,a-un,UNK
+U.N.,612085,175,118,1437212;3434750,http://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_446,United Nations Security Council Resolution 446,united-nations-security-council-resolution-446,united-nations-security-council-resolution-446,UNK
+U.N.,100000160,0,0,,"http://en.wikipedia.org/wiki/Un,_Gujarat","Un, Gujarat",un-gujarat,un-gujarat,UKN
+U.N.,23214659,0,1,,http://en.wikipedia.org/wiki/Un_(prefix),Un,un,un-prefix,GPE
+U.N.,7214790,59,31,3434750,http://en.wikipedia.org/wiki/Unk,Unk,unk,unk,PER
+U.N.,1437212,2353,126,612085;2151507;31769;31899;31957,http://en.wikipedia.org/wiki/United_Nations_resolution,United Nations resolution,united-nations-resolution,united-nations-resolution,UNK
+U.N.,5812261,9,88,,"http://en.wikipedia.org/wiki/Un,_Uttar_Pradesh","Un, Uttar Pradesh",un-uttar-pradesh,un-uttar-pradesh,UNK
+U.N.,2151507,232,21,1437212;31769;31957,http://en.wikipedia.org/wiki/United_Nations_Volunteers,United Nations Volunteers,united-nations-volunteers,united-nations-volunteers,UNK
+U.N.,11865969,26,63,31769,http://en.wikipedia.org/wiki/United_Nations_(gang),United Nations,united-nations,united-nations-gang,UNK
+U.N.,100007348,0,0,,"http://en.wikipedia.org/wiki/Un,_India","Un, India",un-india,un-india,UKN
+U.N.,18589346,148,276,3434750;18589346;31769,http://en.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement,Anti-Counterfeiting Trade Agreement,anti-counterfeiting-trade-agreement,anti-counterfeiting-trade-agreement,UNK
+U.N.,31899,1098,266,1437212;14653;31769;31957;2900620;3434750,http://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights,Universal Declaration of Human Rights,universal-declaration-of-human-rights,universal-declaration-of-human-rights,UNK
+U.N.,31957,2205,356,3216133;201936;7515928;1437212;2151507;14653;31769;31899;31957,http://en.wikipedia.org/wiki/United_Nations_General_Assembly,United Nations General Assembly,united-nations-general-assembly,united-nations-general-assembly,UNK
+U.N.,5509095,22,34,,http://en.wikipedia.org/wiki/Un_Lun_Dun,Un Lun Dun,un-lun-dun,un-lun-dun,UNK
+U.N.,3191302,84,23,3191302,http://en.wikipedia.org/wiki/Unconference,Unconference,unconference,unconference,UNK
+U.N.,6922580,5,11,,http://en.wikipedia.org/wiki/UN_(band),UN,un,un-band,PER
+Arbil,24534207,189,265,463860;4492;29490;200519;3434750;679693;25659771;7515928;70789,http://en.wikipedia.org/wiki/Erbil,Erbil,erbil,erbil,GPE
+Arbil,463860,35,56,200519;80777;14653;7515928;24534207;679693,http://en.wikipedia.org/wiki/Arbil_Province,Arbil Province,arbil-province,arbil-province,UNK

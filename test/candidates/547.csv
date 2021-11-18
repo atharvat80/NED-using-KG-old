@@ -1,0 +1,140 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+BUDAPEST,36787,11402,907,1849465;11668053;729739;36787;1864538;1598647;5321;1187515;38163771;22936;27544196;879716;9239;9317;771860;679739;13275;3402034;2753827;13972;13425,http://en.wikipedia.org/wiki/Budapest,Budapest,budapest,budapest,GPE
+BUDAPEST,27544196,1,13,13275;1864538;13972;36787,http://en.wikipedia.org/wiki/Little_Budapest,Little Budapest,little-budapest,little-budapest,GPE
+BUDAPEST,1849465,12,31,13275;36787,"http://en.wikipedia.org/wiki/Budapest,_Georgia","Budapest, Georgia",budapest-georgia,budapest-georgia,UNK
+BUDAPEST,12751433,3,6,13275;37103142,http://en.wikipedia.org/wiki/Budapest_school,Budapest school,budapest-school,budapest-school,PER
+BUDAPEST,1116786,2,9,,http://en.wikipedia.org/wiki/Budapest_(band),Budapest,budapest,budapest-band,UNK
+BUDAPEST,38163771,19,27,36787,http://en.wikipedia.org/wiki/Budapest_(film_series),Budapest,budapest,budapest-film-series,UNK
+BUDAPEST,37103142,12,140,13275;13972;12751433,http://en.wikipedia.org/wiki/Budapest_School_(Lukács),Budapest School,budapest-school,budapest-school-lukacs,UNK
+BUDAPEST,1849441,14,3,,"http://en.wikipedia.org/wiki/Budapest,_Missouri","Budapest, Missouri",budapest-missouri,budapest-missouri,GPE
+BUDAPEST,1864538,12,6,13275;27544196;36787,http://en.wikipedia.org/wiki/Greater_Budapest,Greater Budapest,greater-budapest,greater-budapest,UNK
+Hungarian,13275,41515,1160,2983896;37103142;5321;5322;1187515;9239;9317;13275;12751433;13972;13425;11668053;28878684;22975;22936;27544196;7514548;771860;12163387;729739;36787;1864538;11787932;879716;44229;13555214;41235379;41235373;3402034;1849465;13659804;1598647;679739,http://en.wikipedia.org/wiki/Hungary,Hungary,hungary,hungary,GPE
+Hungarian,2983896,216,339,13275;13972;1338528,http://en.wikipedia.org/wiki/Hungarian_American,Hungarian American,hungarian-american,hungarian-american,UNK
+Hungarian,3502905,113,108,1313740;3502905;13972;3349006,http://en.wikipedia.org/wiki/Hungarian_Wikipedia,Hungarian Wikipedia,hungarian-wikipedia,hungarian-wikipedia,UNK
+Hungarian,13972,8551,296,11668053;2983896;36787;37103142;3502905;1598647;5321;22975;27544196;879716;9239;9317;44229;25996692;41235379;41235373;13275;13972;13425;1745221,http://en.wikipedia.org/wiki/Hungarian_language,Hungarian language,hungarian-language,hungarian-language,UNK
+Hungarian,13555214,1,8,13275;13555214,http://en.wikipedia.org/wiki/Hungarian_system,Hungarian system,hungarian-system,hungarian-system,UNK
+Hungarian,2753827,21,88,11555574;36787,http://en.wikipedia.org/wiki/Hungarian_opera,Hungarian opera,hungarian-opera,hungarian-opera,ORG
+Hungarian,12163387,4,83,13275;5321;22936,http://en.wikipedia.org/wiki/Hungarian_International,Hungarian International,hungarian-international,hungarian-international,UNK
+Hungarian,44229,21,43,13275;13972,http://en.wikipedia.org/wiki/Hungarian_notation,Hungarian notation,hungarian-notation,hungarian-notation,UNK
+Hungarian,28772227,3,9,,http://en.wikipedia.org/wiki/Hungarian_Village,Hungarian Village,hungarian-village,hungarian-village,UNK
+Hungary,13275,41515,1160,2983896;37103142;5321;5322;1187515;9239;9317;13275;12751433;13972;13425;11668053;28878684;22975;22936;27544196;7514548;771860;12163387;729739;36787;1864538;11787932;879716;44229;13555214;41235379;41235373;3402034;1849465;13659804;1598647;679739,http://en.wikipedia.org/wiki/Hungary,Hungary,hungary,hungary,GPE
+Hungary,41235379,187,368,13275;879716;22936;151873;11668053;13972;13425;1598647;41235373,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1301–1526),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1301–1526,UNK
+Hungary,41235373,187,393,13275;879716;22936;11668053;13972;13425;41235379;1598647,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1000–1301),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1000–1301,UNK
+Hungary,1598647,125,179,36787;13275;879716;13425;11668053;13972;41235379;1598647;41235373,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1526–1867),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1526–1867,GPE
+Hungary,879716,3332,324,11668053;9239;36787;1810963;41235379;41235373;13275;1598647;13972;5321;5322;13425;6343;22975;22936;1745221,http://en.wikipedia.org/wiki/Kingdom_of_Hungary,Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary,GPE
+Hungary,13425,428,325,13275;879716;11668053;13972;5322;9239;1187515;36787;28878684;13425;41235379;1598647;41235373,http://en.wikipedia.org/wiki/Geography_of_Hungary,Geography of Hungary,geography-of-hungary,geography-of-hungary,UNK
+Hungary,1745221,135,156,9317;879716;13972;1745221;5322,http://en.wikipedia.org/wiki/Greater_Hungary_(political_concept),Greater Hungary,greater-hungary,greater-hungary-political-concept,UNK
+Hungary,679739,2201,810,13275;5321;9239;729739;36787;771860;22936,http://en.wikipedia.org/wiki/Hungary_national_football_team,Hungary national football team,hungary-national-football-team,hungary-national-football-team,UNK
+Hungary,11668053,295,214,13275;879716;13972;5322;36787;13425;41235379;1598647;41235373,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1920–46),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1920–46,GPE
+Budapest-based,36787,11402,907,1849465;11668053;729739;36787;1864538;1598647;5321;1187515;38163771;22936;27544196;879716;9239;9317;771860;679739;13275;3402034;2753827;13972;13425,http://en.wikipedia.org/wiki/Budapest,Budapest,budapest,budapest,GPE
+Poland,22936,115021,1647,5321;5322;9239;9317;13083;13275;28878684;3074893;22975;22936;36787;3402034;13659804;10339758;635098;18972507;636823;10082478;11787932;40620438;879716;855087;1107413;11555574;151873;42187354;41235379;41235373;4329310;15335256;9387653;679739;12185856;1187515;771860;12163387;729739,http://en.wikipedia.org/wiki/Poland,Poland,poland,poland,GPE
+Poland,635098,9,135,636823;635098;22975;22936;3074893,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1916–18),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1916–18,GPE
+Poland,126523,58,56,126255;141360,"http://en.wikipedia.org/wiki/Poland,_Herkimer_County,_New_York","Poland, Herkimer County, New York",poland-herkimer-county-new-york,poland-herkimer-county-new-york,GPE
+Poland,115861,87,98,,"http://en.wikipedia.org/wiki/Poland,_Maine","Poland, Maine",poland-maine,poland-maine,GPE
+Poland,37910099,204,218,,http://en.wikipedia.org/wiki/Poland_(sculpture),Poland,poland,poland-sculpture,UNK
+Poland,3074893,567,26,635098;22975;22936;3074893;636823,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1385–1569),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1385–1569,GPE
+Poland,10339758,3,14,22975;22936,"http://en.wikipedia.org/wiki/Poland,_Kiribati","Poland, Kiribati",poland-kiribati,poland-kiribati,GPE
+Poland,2521075,49,66,65865,"http://en.wikipedia.org/wiki/Poland_Township,_Mahoning_County,_Ohio","Poland Township, Mahoning County, Ohio",poland-township-mahoning-county-ohio,poland-township-mahoning-county-ohio,GPE
+Poland,17716699,63,83,,"http://en.wikipedia.org/wiki/Poland,_Indiana","Poland, Indiana",poland-indiana,poland-indiana,GPE
+Poland,141360,0,2,126255;126523,"http://en.wikipedia.org/wiki/Poland,_New_York","Poland, New York",poland-new-york,poland-new-york,UNK
+Poland,14616196,30,41,,"http://en.wikipedia.org/wiki/Poland_Township,_Buena_Vista_County,_Iowa","Poland Township, Buena Vista County, Iowa",poland-township-buena-vista-county-iowa,poland-township-buena-vista-county-iowa,GPE
+Poland,10082478,464,208,13083;22936;10082478,http://en.wikipedia.org/wiki/Flight_and_expulsion_of_Germans_from_Poland_during_and_after_World_War_II,Flight and expulsion of Germans from Poland during and after World War II,flight-and-expulsion-of-germans-from-poland-during-and-after-world-war-ii,flight-and-expulsion-of-germans-from-poland-during-and-after-world-war-ii,GPE
+Poland,3965238,1,6,,http://en.wikipedia.org/wiki/Little_Poland,Little Poland,little-poland,little-poland,GPE
+Poland,771860,2358,602,13275;9239;729739;36787;22975;22936;679739,http://en.wikipedia.org/wiki/Poland_national_football_team,Poland national football team,poland-national-football-team,poland-national-football-team,UNK
+Poland,65865,89,70,2521075,"http://en.wikipedia.org/wiki/Poland,_Ohio","Poland, Ohio",poland-ohio,poland-ohio,GPE
+Poland,12552161,8,9,,http://en.wikipedia.org/wiki/Poland_China,Poland China,poland-china,poland-china,ORG
+Poland,636823,306,32,635098;22975;22936;3074893,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1025–1385),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1025–1385,GPE
+Poland,27482253,66,80,,"http://en.wikipedia.org/wiki/Poland,_Wisconsin","Poland, Wisconsin",poland-wisconsin,poland-wisconsin,GPE
+Poland,28878684,182,266,1187515;28878684;13275;22975;22936;13425;5321,http://en.wikipedia.org/wiki/Geography_of_Poland,Geography of Poland,geography-of-poland,geography-of-poland,UNK
+Poland,13083,591,81,22975;22936;10082478,http://en.wikipedia.org/wiki/Greater_Poland,Greater Poland,greater-poland,greater-poland,GPE
+Poland,126255,72,81,126523;141360,"http://en.wikipedia.org/wiki/Poland,_Chautauqua_County,_New_York","Poland, Chautauqua County, New York",poland-chautauqua-county-new-york,poland-chautauqua-county-new-york,GPE
+Czech Republic,5321,46127,800,5321;5322;12185856;6343;1187515;9239;9317;1810963;13275;3861344;13972;335703;28878684;22975;22936;151873;12163387;729739;36787;11787932;879716;3402034;13659804;855087;679739,http://en.wikipedia.org/wiki/Czech_Republic,Czech Republic,czech-republic,czech-republic,GPE
+Czech Republic,729739,1240,491,13275;6343;771860;22936;5321;5322;729739;36787;679739,http://en.wikipedia.org/wiki/Czech_Republic_national_football_team,Czech Republic national football team,czech-republic-national-football-team,czech-republic-national-football-team,ORG
+European,9239,51349,1032,5321;5322;17891966;9239;9317;23620443;13275;13972;13425;3499945;22936;151873;20272716;36787;191684;1553658;1168603;679739;1338528;628999;1187515;358518;755102;87187;335703;25996692;771860;13562519;8707335;879716,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+European,1553658,68,12,9239,http://en.wikipedia.org/wiki/European_Netherlands,European Netherlands,european-netherlands,european-netherlands,UNK
+European,25996692,3,35,22975;13972;9239;674507;9317;6343,"http://en.wikipedia.org/wiki/European_School,_Karlsruhe","European School, Karlsruhe",european-school-karlsruhe,european-school-karlsruhe,UNK
+European,1739264,4,7,674507,"http://en.wikipedia.org/wiki/European_School,_Bergen","European School, Bergen",european-school-bergen,european-school-bergen,ORG
+European,7432187,9,22,7432187;9317,http://en.wikipedia.org/wiki/European_Union_Public_Licence,European Union Public Licence,european-union-public-licence,european-union-public-licence,UNK
+European,23454667,3,4,674507,"http://en.wikipedia.org/wiki/European_School,_Luxembourg_II","European School, Luxembourg II",european-school-luxembourg-ii,european-school-luxembourg-ii,UNK
+European,8599208,322,346,9317;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Ireland)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-ireland,UNK
+European,2333629,3,14,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Varese","European School, Varese",european-school-varese,european-school-varese,ORG
+European,674507,33,58,1739264;1991050;2333629;23454667;36091903;1014388;25996692;191684,http://en.wikipedia.org/wiki/European_School,European School,european-school,european-school,UNK
+European,31465880,8,18,,http://en.wikipedia.org/wiki/The_European_(2009_magazine),The European,the-european,the-european-2009-magazine,UNK
+European,11696187,17,37,,http://en.wikipedia.org/wiki/European_Song,European Song,european-song,european-song,UNK
+European,9317,19822,836,36787;8599208;13562519;11787932;8707335;628999;1014388;7432187;5321;6343;1187515;17891966;9239;9317;5805422;13275;36091903;13972;1745221;87187;191684;22975;22936;406269;7514548;616004;15125201;2333629;25996692;1168603;1659361;4776201,http://en.wikipedia.org/wiki/European_Union,European Union,european-union,european-union,UNK
+European,36091903,3,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Brussels_III","European School, Brussels III",european-school-brussels-iii,european-school-brussels-iii,ORG
+European,22546545,14,61,,http://en.wikipedia.org/wiki/European_University,European University,european-university,european-university,ORG
+European,15125201,307,276,9317;8599208;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Portugal)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-portugal,UNK
+European,20919804,2,28,20919804,http://en.wikipedia.org/wiki/The_European_(1953_magazine),The European,the-european,the-european-1953-magazine,ORG
+European,1014388,7,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Munich","European School, Munich",european-school-munich,european-school-munich,ORG
+European,616004,129,58,9317;616004,http://en.wikipedia.org/wiki/European_Foundation_(think_tank),European Foundation,european-foundation,european-foundation-think-tank,ORG
+European,1168603,28,107,9239;9317,http://en.wikipedia.org/wiki/European_Round_Table_of_Industrialists,European Round Table of Industrialists,european-round-table-of-industrialists,european-round-table-of-industrialists,UNK
+European,1338528,556,124,9239;2983896,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+European,17428699,4,24,,http://en.wikipedia.org/wiki/European_Institute,European Institute,european-institute,european-institute,ORG
+European,191684,95,91,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Culham","European School, Culham",european-school-culham,european-school-culham,ORG
+European,41345734,1,9,41345734,http://en.wikipedia.org/wiki/European_Group,European Group,european-group,european-group,UNK
+European,4042903,39,29,,http://en.wikipedia.org/wiki/European_Party_(Cyprus),European Party,european-party,european-party-cyprus,UNK
+European,3402034,1943,727,13275;3402034;5321;5322;36787;22936,http://en.wikipedia.org/wiki/European_Figure_Skating_Championships,European Figure Skating Championships,european-figure-skating-championships,european-figure-skating-championships,UNK
+European,1991050,8,12,674507,"http://en.wikipedia.org/wiki/European_School,_Mol","European School, Mol",european-school-mol,european-school-mol,UNK
+European,8707335,5,14,9317;9239,http://en.wikipedia.org/wiki/European_Journal,European Journal,european-journal,european-journal,UNK
+European,1338717,69,62,,http://en.wikipedia.org/wiki/The_European_(newspaper),The European,the-european,the-european-newspaper,UNK
+Europe,9239,51349,1032,5321;5322;17891966;9239;9317;23620443;13275;13972;13425;3499945;22936;151873;20272716;36787;191684;1553658;1168603;679739;1338528;628999;1187515;358518;755102;87187;335703;25996692;771860;13562519;8707335;879716,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+Europe,1659361,12,34,9317,http://en.wikipedia.org/wiki/European_Patent_Litigation_Agreement,European Patent Litigation Agreement,european-patent-litigation-agreement,european-patent-litigation-agreement,UNK
+Europe,304821,111,138,304821,http://en.wikipedia.org/wiki/2003_European_heat_wave,2003 European heat wave,2003-european-heat-wave,2003-european-heat-wave,UNK
+Europe,15132000,13,28,,"http://en.wikipedia.org/wiki/Old_Europe,_New_Europe,_Core_Europe","Old Europe, New Europe, Core Europe",old-europe-new-europe-core-europe,old-europe-new-europe-core-europe,UNK
+Europe,2826281,77,84,,http://en.wikipedia.org/wiki/Europe_GAA,Europe GAA,europe-gaa,europe-gaa,GPE
+Europe,628999,133,18,9239;9317;20272716,"http://en.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa","Europe, the Middle East and Africa",europe-the-middle-east-and-africa,europe-the-middle-east-and-africa,UNK
+Europe,87187,825,370,5805422;87187;9239;9317,http://en.wikipedia.org/wiki/European_Court_of_Justice,European Court of Justice,european-court-of-justice,european-court-of-justice,ORG
+Europe,755102,85,158,9239,http://en.wikipedia.org/wiki/Old_Europe_(archaeology),Old Europe,old-europe,old-europe-archaeology,UNK
+Europe,13562519,17,304,9239;1187515;9317,http://en.wikipedia.org/wiki/Greater_Europe,Greater Europe,greater-europe,greater-europe,ORG
+Europe,14051635,1,6,,http://en.wikipedia.org/wiki/DJ_Europe,DJ Europe,dj-europe,dj-europe,UNK
+Europe,26450398,2,11,,http://en.wikipedia.org/wiki/Europe/London,Europe/London,europe-london,europe-london,PER
+Europe,358518,602,118,358518;9239,http://en.wikipedia.org/wiki/Europe_(band),Europe,europe,europe-band,UNK
+Europe,1187515,306,383,13562519;13275;22936;5321;9239;1187515;36787;9317;28878684;13425,http://en.wikipedia.org/wiki/Geography_of_Europe,Geography of Europe,geography-of-europe,geography-of-europe,UNK
+Europe,12586001,1,13,,http://en.wikipedia.org/wiki/Europe_Lake,Europe Lake,europe-lake,europe-lake,UNK
+Europe,503907,29,46,,http://en.wikipedia.org/wiki/Europe_(Paris_Métro),Europe,europe,europe-paris-metro,UNK
+Europe,5805422,293,153,9317;87187,http://en.wikipedia.org/wiki/European_Union_Microsoft_competition_case,European Union Microsoft competition case,european-union-microsoft-competition-case,european-union-microsoft-competition-case,ORG
+Europe,13659804,72,126,13275;5321;22936,http://en.wikipedia.org/wiki/European_Youth_Chess_Championship,European Youth Chess Championship,european-youth-chess-championship,european-youth-chess-championship,PER
+Europe,406269,18,53,9317,http://en.wikipedia.org/wiki/Old_Europe_(politics),Old Europe,old-europe,old-europe-politics,ORG
+Europe,11787932,277,273,9317;13275;22936;5321,http://en.wikipedia.org/wiki/European_driving_licence,European driving licence,european-driving-licence,european-driving-licence,UNK
+Europe,20272716,1,11,20272716;628999;9239,"http://en.wikipedia.org/wiki/Europe,_Middle_East,_Africa_and_Latin_America","Europe, Middle East, Africa and Latin America",europe-middle-east-africa-and-latin-america,europe-middle-east-africa-and-latin-america,UNK
+Europe,855087,344,374,22936;5321,http://en.wikipedia.org/wiki/Europe_(dinghy),Europe,europe,europe-dinghy,UNK
+Europe,17891966,192,242,9239;9317,http://en.wikipedia.org/wiki/Europe_(anthem),Europe,europe,europe-anthem,UNK
+Europe,7514548,108,319,9317;13275;2966446,http://en.wikipedia.org/wiki/Europe_Street,Europe Street,europe-street,europe-street,GPE
+Europe,3499945,3,21,9239,http://en.wikipedia.org/wiki/Europe_(story),Europe,europe,europe-story,UNK
+Europe,23620443,13,20,9239,http://en.wikipedia.org/wiki/Europe_(magazine),Europe,europe,europe-magazine,UNK
+Czech,5321,46127,800,5321;5322;12185856;6343;1187515;9239;9317;1810963;13275;3861344;13972;335703;28878684;22975;22936;151873;12163387;729739;36787;11787932;879716;3402034;13659804;855087;679739,http://en.wikipedia.org/wiki/Czech_Republic,Czech Republic,czech-republic,czech-republic,GPE
+Czech,3861344,22,56,5321;5322,http://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog,Czechoslovakian Wolfdog,czechoslovakian-wolfdog,czechoslovakian-wolfdog,UNK
+Czech,1810963,476,232,879716;6343;5321;5322,http://en.wikipedia.org/wiki/Czechoslovak_Socialist_Republic,Czechoslovak Socialist Republic,czechoslovak-socialist-republic,czechoslovak-socialist-republic,GPE
+Czech,151873,2051,225,5321;5322;9239;6343;22936;41235379,http://en.wikipedia.org/wiki/Czechs,Czechs,czechs,czechs,UNK
+Czech,3349006,107,103,1313740;6343;3502905;3349006,http://en.wikipedia.org/wiki/Czech_Wikipedia,Czech Wikipedia,czech-wikipedia,czech-wikipedia,UNK
+Czech,12185856,3,63,5321;22936,http://en.wikipedia.org/wiki/Czech_International,Czech International,czech-international,czech-international,UNK
+Czech,6343,4508,375,879716;335703;729739;9317;25996692;3349006;1810963;151873;5321;5322;6343;22975,http://en.wikipedia.org/wiki/Czech_language,Czech language,czech-language,czech-language,UNK
+Czech,18972507,48,57,22936,"http://en.wikipedia.org/wiki/Czech,_Łódź_Voivodeship","Czech, Łódź Voivodeship",czech-lodz-voivodeship,czech-lodz-voivodeship,GPE
+Czech,335703,476,361,6343;5321;5322;9239,http://en.wikipedia.org/wiki/Czech_Airlines,Czech Airlines,czech-airlines,czech-airlines,ORG
+Czech,5322,17420,257,729739;5321;6343;879716;9239;1810963;13275;3402034;3861344;13425;1745221;335703;11668053;22936;151873,http://en.wikipedia.org/wiki/Czechoslovakia,Czechoslovakia,czechoslovakia,czechoslovakia,GPE
+Polish,22936,115021,1647,5321;5322;9239;9317;13083;13275;28878684;3074893;22975;22936;36787;3402034;13659804;10339758;635098;18972507;636823;10082478;11787932;40620438;879716;855087;1107413;11555574;151873;42187354;41235379;41235373;4329310;15335256;9387653;679739;12185856;1187515;771860;12163387;729739,http://en.wikipedia.org/wiki/Poland,Poland,poland,poland,GPE
+Polish,8338304,6,8,,http://en.wikipedia.org/wiki/Polish_Mountain,Polish Mountain,polish-mountain,polish-mountain,UNK
+Polish,42187354,20,81,22936,http://en.wikipedia.org/wiki/Polish_Party,Polish Party,polish-party,polish-party,UNK
+Polish,22975,9904,454,28878684;2966446;5321;6343;3074893;22975;22936;879716;1313740;9317;25996692;10339758;771860;13083;13275;13972;635098;11555574;636823,http://en.wikipedia.org/wiki/Polish_language,Polish language,polish-language,polish-language,UNK
+Polish,40620438,4,12,22936,http://en.wikipedia.org/wiki/Polish_International,Polish International,polish-international,polish-international,PER
+Polish,2447796,35,22,,http://en.wikipedia.org/wiki/Maxwell_Street_Polish,Maxwell Street Polish,maxwell-street-polish,maxwell-street-polish,UNK
+Polish,4329310,803,549,22936,http://en.wikipedia.org/wiki/Polish_resistance_movement_in_World_War_II,Polish resistance movement in World War II,polish-resistance-movement-in-world-war-ii,polish-resistance-movement-in-world-war-ii,UNK
+Polish,220464,118,15,5757742,http://en.wikipedia.org/wiki/Polishing,Polishing,polishing,polishing,ORG
+Polish,9387653,8,12,22936,http://en.wikipedia.org/wiki/Polish_chicken,Polish chicken,polish-chicken,polish-chicken,UNK
+Polish,2966446,220,292,22975;7514548,http://en.wikipedia.org/wiki/Polish_Hill,Polish Hill,polish-hill,polish-hill,UNK
+Polish,15335256,26,41,22936,"http://en.wikipedia.org/wiki/Polish_Museum,_Rapperswil","Polish Museum, Rapperswil",polish-museum-rapperswil,polish-museum-rapperswil,UNK
+Polish,1313740,128,107,3502905;22975;3349006,http://en.wikipedia.org/wiki/Polish_Wikipedia,Polish Wikipedia,polish-wikipedia,polish-wikipedia,UNK
+Polish,11555574,12,225,22975;22936;2753827,http://en.wikipedia.org/wiki/Polish_opera,Polish opera,polish-opera,polish-opera,GPE
+Polish,4776201,153,140,4776201;9317,http://en.wikipedia.org/wiki/Polish_nationality_law,Polish nationality law,polish-nationality-law,polish-nationality-law,UNK
+Polish,5757742,200,24,220464,http://en.wikipedia.org/wiki/Polishing_(metalworking),Polishing,polishing,polishing-metalworking,UNK
+Polish,1107413,479,531,22936,http://en.wikipedia.org/wiki/Polish_Club,Polish Club,polish-club,polish-club,PER
+Budapest,36787,11402,907,1849465;11668053;729739;36787;1864538;1598647;5321;1187515;38163771;22936;27544196;879716;9239;9317;771860;679739;13275;3402034;2753827;13972;13425,http://en.wikipedia.org/wiki/Budapest,Budapest,budapest,budapest,GPE
+Budapest,27544196,1,13,13275;1864538;13972;36787,http://en.wikipedia.org/wiki/Little_Budapest,Little Budapest,little-budapest,little-budapest,GPE
+Budapest,1849465,12,31,13275;36787,"http://en.wikipedia.org/wiki/Budapest,_Georgia","Budapest, Georgia",budapest-georgia,budapest-georgia,UNK
+Budapest,12751433,3,6,13275;37103142,http://en.wikipedia.org/wiki/Budapest_school,Budapest school,budapest-school,budapest-school,PER
+Budapest,1116786,2,9,,http://en.wikipedia.org/wiki/Budapest_(band),Budapest,budapest,budapest-band,UNK
+Budapest,38163771,19,27,36787,http://en.wikipedia.org/wiki/Budapest_(film_series),Budapest,budapest,budapest-film-series,UNK
+Budapest,37103142,12,140,13275;13972;12751433,http://en.wikipedia.org/wiki/Budapest_School_(Lukács),Budapest School,budapest-school,budapest-school-lukacs,UNK
+Budapest,1849441,14,3,,"http://en.wikipedia.org/wiki/Budapest,_Missouri","Budapest, Missouri",budapest-missouri,budapest-missouri,GPE
+Budapest,1864538,12,6,13275;27544196;36787,http://en.wikipedia.org/wiki/Greater_Budapest,Greater Budapest,greater-budapest,greater-budapest,UNK

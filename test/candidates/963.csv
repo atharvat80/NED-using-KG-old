@@ -1,0 +1,179 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+MILWAUKEE,53117,5272,1104,21168999;53117;9993503;3434750;1360494;25070359;33127;32659005;31788902;20152;27593811;5027856;1797995;1802662;1098649;9653148;3853261;447879;425678;9653588;90952;1272811;4370635;27895817;5058739,http://en.wikipedia.org/wiki/Milwaukee,Milwaukee,milwaukee,milwaukee,GPE
+MILWAUKEE,425678,842,358,33127;5042916;53117;9993503;425678,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee,_St._Paul_and_Pacific_Railroad","Chicago, Milwaukee, St. Paul and Pacific Railroad",chicago-milwaukee-st-paul-and-pacific-railroad,chicago-milwaukee-st-paul-and-pacific-railroad,UNK
+MILWAUKEE,29191086,33,9,,"http://en.wikipedia.org/wiki/Milwaukee,_WI_1996","Milwaukee, WI 1996",milwaukee-wi-1996,milwaukee-wi-1996,UNK
+MILWAUKEE,32659005,22,26,53117;1802662;33127,http://en.wikipedia.org/wiki/USS_Milwaukee_(LCS-5),USS Milwaukee,uss-milwaukee,uss-milwaukee-lcs-5,UNK
+MILWAUKEE,1360494,93,36,9653148;53117;21168999;33127;90952,http://en.wikipedia.org/wiki/Milwaukee_River,Milwaukee River,milwaukee-river,milwaukee-river,UNK
+MILWAUKEE,9993503,23,47,9653148;53117;9653588;425678,http://en.wikipedia.org/wiki/Milwaukee_Intermodal_Station,Milwaukee Intermodal Station,milwaukee-intermodal-station,milwaukee-intermodal-station,UNK
+MILWAUKEE,9653588,246,200,9653148;33127;3434750;53117;31788902;5027856;1272811;20152;9993503,http://en.wikipedia.org/wiki/Sports_in_Milwaukee,Sports in Milwaukee,sports-in-milwaukee,sports-in-milwaukee,ORG
+MILWAUKEE,37588087,53,68,3434750,"http://en.wikipedia.org/wiki/Milwaukee,_Pennsylvania","Milwaukee, Pennsylvania",milwaukee-pennsylvania,milwaukee-pennsylvania,GPE
+MILWAUKEE,2215458,19,10,2215458;3434750,http://en.wikipedia.org/wiki/Old_Milwaukee,Old Milwaukee,old-milwaukee,old-milwaukee,UNK
+MILWAUKEE,25070359,25,43,53117;4370635;3434750;33127,http://en.wikipedia.org/wiki/Milwaukee_Theatre,Milwaukee Theatre,milwaukee-theatre,milwaukee-theatre,UNK
+MILWAUKEE,1272811,1382,139,33127;53117;3434750;9653588;90952,http://en.wikipedia.org/wiki/Milwaukee_Journal_Sentinel,Milwaukee Journal Sentinel,milwaukee-journal-sentinel,milwaukee-journal-sentinel,UNK
+MILWAUKEE,90952,686,254,33127;3434750;53117;5027856;1360494;1272811;8675595;90952,"http://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin","Milwaukee County, Wisconsin",milwaukee-county-wisconsin,milwaukee-county-wisconsin,GPE
+MILWAUKEE,9653148,245,34,53117;31788902;5027856;1360494;9653588;9993503,http://en.wikipedia.org/wiki/Geography_of_Milwaukee,Geography of Milwaukee,geography-of-milwaukee,geography-of-milwaukee,UNK
+MILWAUKEE,20152,3722,421,53117;8675595;33127;20152;447879;9653588,http://en.wikipedia.org/wiki/Milwaukee_Brewers,Milwaukee Brewers,milwaukee-brewers,milwaukee-brewers,UNK
+MILWAUKEE,1802662,8,13,32659005;1797995;3853261;1098649;53117;21168999;33127,http://en.wikipedia.org/wiki/USS_Milwaukee,USS Milwaukee,uss-milwaukee,uss-milwaukee,UNK
+MILWAUKEE,37587966,15,32,3434750,"http://en.wikipedia.org/wiki/Milwaukee,_North_Carolina","Milwaukee, North Carolina",milwaukee-north-carolina,milwaukee-north-carolina,GPE
+MILWAUKEE,1797995,19,39,53117;1802662;33127,http://en.wikipedia.org/wiki/USS_Milwaukee_(C-21),USS Milwaukee,uss-milwaukee,uss-milwaukee-c-21,UNK
+MILWAUKEE,1098649,84,102,53117;1802662,http://en.wikipedia.org/wiki/USS_Milwaukee_(CL-5),USS Milwaukee,uss-milwaukee,uss-milwaukee-cl-5,UNK
+MILWAUKEE,5027856,31,54,9653148;53117;9653588;90952;3434750;33127,"http://en.wikipedia.org/wiki/Milwaukee_(town),_Wisconsin","Milwaukee (town), Wisconsin",milwaukee-town-wisconsin,milwaukee-town-wisconsin,UNK
+MILWAUKEE,27593811,21,25,27895817;3434750;53117;33127,http://en.wikipedia.org/wiki/Milwaukee_Center,Milwaukee Center,milwaukee-center,milwaukee-center,UNK
+MILWAUKEE,21168999,13,24,1360494;53117;1802662,http://en.wikipedia.org/wiki/USS_Milwaukee_(AOR-2),USS Milwaukee,uss-milwaukee,uss-milwaukee-aor-2,UNK
+MILWAUKEE,3853261,10,51,53117;1802662,http://en.wikipedia.org/wiki/USS_Milwaukee_(1864),USS Milwaukee,uss-milwaukee,uss-milwaukee-1864,UNK
+MILWAUKEE,17604837,1,10,,http://en.wikipedia.org/wiki/Milwaukee_Project,Milwaukee Project,milwaukee-project,milwaukee-project,UNK
+MILWAUKEE,34998695,4,9,3434750,http://en.wikipedia.org/wiki/Milwaukee_Hospital,Milwaukee Hospital,milwaukee-hospital,milwaukee-hospital,UNK
+MILWAUKEE,31788902,234,245,9653148;53117;33127;9653588,http://en.wikipedia.org/wiki/Milwaukee_(Greenamyer),Milwaukee,milwaukee,milwaukee-greenamyer,UNK
+Wisconsin,33127,17871,909,25070359;33127;32659005;31788902;27593811;1802662;206552;425678;4370635;1360494;8675595;447879;196691;16304842;53117;3434750;20152;9653588;266242;6498314;709219;5027856;1797995;90952;1272811;27895817,http://en.wikipedia.org/wiki/Wisconsin,Wisconsin,wisconsin,wisconsin,UNK
+Wisconsin,14554044,8,9,,http://en.wikipedia.org/wiki/Wisconsin_model,Wisconsin model,wisconsin-model,wisconsin-model,UNK
+Wisconsin,120393,29,57,3434750,"http://en.wikipedia.org/wiki/Wisconsin_Township,_Jackson_County,_Minnesota","Wisconsin Township, Jackson County, Minnesota",wisconsin-township-jackson-county-minnesota,wisconsin-township-jackson-county-minnesota,GPE
+Wisconsin,192321,4,6,34889964;196691;206552,http://en.wikipedia.org/wiki/USS_Wisconsin,USS Wisconsin,uss-wisconsin,uss-wisconsin,UNK
+Wisconsin,266242,336,169,33127;3434750,http://en.wikipedia.org/wiki/Wisconsin_River,Wisconsin River,wisconsin-river,wisconsin-river,UNK
+Wisconsin,4370635,7,21,53117;25070359;33127,http://en.wikipedia.org/wiki/Wisconsin_Center,Wisconsin Center,wisconsin-center,wisconsin-center,UNK
+Wisconsin,206552,285,567,192321;33127;3434750,http://en.wikipedia.org/wiki/USS_Wisconsin_(BB-64),USS Wisconsin,uss-wisconsin,uss-wisconsin-bb-64,UNK
+Wisconsin,196691,44,112,192321;33127,http://en.wikipedia.org/wiki/USS_Wisconsin_(BB-9),USS Wisconsin,uss-wisconsin,uss-wisconsin-bb-9,UNK
+Wisconsin,28912765,0,6,,http://en.wikipedia.org/wiki/Wisconsin_Islands,Wisconsin Islands,wisconsin-islands,wisconsin-islands,UNK
+Wisconsin,6608218,1,16,3434750,http://en.wikipedia.org/wiki/Wisconsin_school,Wisconsin school,wisconsin-school,wisconsin-school,UNK
+Wisconsin,34889964,4,10,192321;3434750,http://en.wikipedia.org/wiki/Wisconsin_(shipwreck),Wisconsin,wisconsin,wisconsin-shipwreck,UNK
+Wisconsin,32498121,6,3,,http://en.wikipedia.org/wiki/Wisconsin_(statue),Wisconsin,wisconsin,wisconsin-statue,ORG
+Wisconsin,27895817,19,24,27593811;3434750;53117;33127,http://en.wikipedia.org/wiki/Wisconsin_Tower,Wisconsin Tower,wisconsin-tower,wisconsin-tower,UNK
+Greater Milwaukee Open,5215321,180,225,5704624;6498314;5882058;43356;5042916;2080225;2151007;1544297;5058739;2567564;3434750,http://en.wikipedia.org/wiki/U.S._Bank_Championship_in_Milwaukee,U.S. Bank Championship in Milwaukee,us-bank-championship-in-milwaukee,us-bank-championship-in-milwaukee,UNK
+Brown Deer Park Golf Course,6498314,5,11,5215321;33127,http://en.wikipedia.org/wiki/Brown_Deer_Park_Golf_Course,Brown Deer Park Golf Course,brown-deer-park-golf-course,brown-deer-park-golf-course,UNK
+U.S.,3434750,529967,1252,5195;6999;27895817;33127;43356;3403042;53117;1175904;34889964;2310551;90952;120393;126646;133621;6608218;1272811;37068084;2151007;5730434;5704624;206552;27970654;34998695;11054565;2215458;238192;233474;35051916;5352855;266242;349744;2567564;31139836;10328578;6312110;435793;1544297;436898;3434750;578468;5042916;3868301;5027856;21974174;38358054;605077;37587966;37588087;709235;36453159;1781343;9653588;25070359;20596936;37500323;7193430;5215321;5841428;27593811;5893843;5882058;7017475;7018258;6828058;2080225;2080151;31666911;2022409,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S.,10328578,210,402,435793;10328648;10328590;3434750;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S.,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S.,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S.,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S.,889461,178,203,887108;441501;79717;5042916;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S.,233474,102,93,3434750,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S.,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S.,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;70780;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S.,10328648,378,412,903062;10328590;10328578;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S.,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S.,8675595,89,159,447879;9180009;33127;16304842;90952;20152,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S.,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S.,429750,276,240,887108;441501;79717;5042916;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S.,902392,245,190,22398962;436898;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S.,6737193,115,173,887108,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S.,16304842,112,175,33127;8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S.,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S.,605077,301,341,3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S.,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S.,889284,455,321,889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S.,79717,694,442,889461;435793;887108;9180009;441501;889284;429750;3868301;888778;447879;436898;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+U.S.,21559355,95,143,5042916,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S.,444113,128,143,5042916,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S.,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S.,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S.,435793,251,290,889461;498188;888778;447879;436898;10328578;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S.,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S.,447879,394,337,33127;16304842;889461;903062;888778;435793;436898;75235;10328575;887108;53117;9180009;441501;79717;428913;20152;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S.,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S.,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S.,903385,68,230,903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S.,2440624,133,162,70780;3868301,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S.,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S.,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S.,70780,396,232,889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S.,3868301,350,531,3434750;2440624;79717;70780,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S.,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;887108;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S.,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S.,436898,769,483,889461;435793;887108;441501;889284;429750;902392;888778;447879;3434750;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S.,238192,394,239,889461;888778;435793;447879;436898;10328648;3434750;10328620;75235;10328575;887108;441501;79717;428913;70780;903385;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S.,6310196,592,545,435793;10328648;10328590;10328578;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+U.S.,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+Nolan Henke,5730434,20,34,3434750;1544297,http://en.wikipedia.org/wiki/Nolan_Henke,Nolan Henke,nolan-henke,nolan-henke,PER
+Bob Estes,5841428,68,36,2022409;5893843;3434750,http://en.wikipedia.org/wiki/Bob_Estes,Bob Estes,bob-estes,bob-estes,PER
+Billy Andrade,2022409,62,40,2310551;5841428;3434750,http://en.wikipedia.org/wiki/Billy_Andrade,Billy Andrade,billy-andrade,billy-andrade,PER
+Duffy Waldorf,1781343,55,29,1544297;3434750,http://en.wikipedia.org/wiki/Duffy_Waldorf,Duffy Waldorf,duffy-waldorf,duffy-waldorf,PER
+Jesper Parnevik,1175904,121,96,1544297;5058739;43356;349744;3434750,http://en.wikipedia.org/wiki/Jesper_Parnevik,Jesper Parnevik,jesper-parnevik,jesper-parnevik,UNK
+Sweden,5058739,77359,853,976346;133621;578468;26889;3767091;43356;53117;1175904;6430550;2310551;217537;5058739;10791592;5215321,http://en.wikipedia.org/wiki/Sweden,Sweden,sweden,sweden,GPE
+Sweden,126646,65,64,3434750,"http://en.wikipedia.org/wiki/Sweden,_New_York","Sweden, New York",sweden-new-york,sweden-new-york,GPE
+Sweden,10791592,32,39,5058739;10791592,http://en.wikipedia.org/wiki/Sweden_Party,Sweden Party,sweden-party,sweden-party,UNK
+Sweden,37500323,20,41,3434750,"http://en.wikipedia.org/wiki/Sweden,_Arkansas","Sweden, Arkansas",sweden-arkansas,sweden-arkansas,UNK
+Sweden,133621,43,54,5058739;38358054;3434750,"http://en.wikipedia.org/wiki/Sweden_Township,_Potter_County,_Pennsylvania","Sweden Township, Potter County, Pennsylvania",sweden-township-potter-county-pennsylvania,sweden-township-potter-county-pennsylvania,GPE
+Sweden,217537,459,295,5058739;217537;26889,http://en.wikipedia.org/wiki/Union_between_Sweden_and_Norway,Union between Sweden and Norway,union-between-sweden-and-norway,union-between-sweden-and-norway,GPE
+Sweden,30241072,11,21,,"http://en.wikipedia.org/wiki/Sweden,_Texas","Sweden, Texas",sweden-texas,sweden-texas,UNK
+Sweden,38358054,40,54,3434750;133621,"http://en.wikipedia.org/wiki/Sweden_Valley,_Pennsylvania","Sweden Valley, Pennsylvania",sweden-valley-pennsylvania,sweden-valley-pennsylvania,GPE
+Sweden,26889,163,292,217537;5058739;26889,http://en.wikipedia.org/wiki/Geography_of_Sweden,Geography of Sweden,geography-of-sweden,geography-of-sweden,UNK
+Sweden,3767091,118,72,5058739;578468,http://en.wikipedia.org/wiki/Australian_rules_football_in_Sweden,Australian rules football in Sweden,australian-rules-football-in-sweden,australian-rules-football-in-sweden,PER
+Sweden,976346,30,39,5058739,http://en.wikipedia.org/wiki/Name_of_Sweden,Name of Sweden,name-of-sweden,name-of-sweden,UNK
+Sweden,578468,3430,805,5042916;3434750;578468;5058739;3767091,http://en.wikipedia.org/wiki/Sweden_national_football_team,Sweden national football team,sweden-national-football-team,sweden-national-football-team,UNK
+Sweden,116094,60,85,,"http://en.wikipedia.org/wiki/Sweden,_Maine","Sweden, Maine",sweden-maine,sweden-maine,GPE
+Sweden,6430550,146,185,5058739,http://en.wikipedia.org/wiki/Sweden_and_the_euro,Sweden and the euro,sweden-and-the-euro,sweden-and-the-euro,UNK
+Neal Lancaster,7017475,17,28,3434750,http://en.wikipedia.org/wiki/Neal_Lancaster,Neal Lancaster,neal-lancaster,neal-lancaster,PER
+Dave Barr,5882058,43,46,5215321;5042916;3434750,http://en.wikipedia.org/wiki/Dave_Barr_(golfer),Dave Barr,dave-barr,dave-barr-golfer,PER
+Dave Barr,25857480,25,35,,http://en.wikipedia.org/wiki/Dave_Barr_(American_football),Dave Barr,dave-barr,dave-barr-american-football,UNK
+Dave Barr,13231083,31,40,,http://en.wikipedia.org/wiki/Dave_Barr_(motorcyclist),Dave Barr,dave-barr,dave-barr-motorcyclist,PER
+Dave Barr,4640967,40,43,5042916,http://en.wikipedia.org/wiki/Dave_Barr_(ice_hockey),Dave Barr,dave-barr,dave-barr-ice-hockey,PER
+Canada,5042916,159749,788,5195;5873;6999;578468;6108438;5042916;6150783;296105;5882058;349744;1335869;75763;889461;1110101;3487272;425678;4640967;30956620;444113;31666911;429750;21559355;481669;27970654;3434750;20596936;28212463;249620;5215321,http://en.wikipedia.org/wiki/Canada,Canada,canada,canada,GPE
+Canada,296105,203,124,5042916,http://en.wikipedia.org/wiki/Canada_AM,Canada AM,canada-am,canada-am,UNK
+Canada,28212463,109,24,5042916,http://en.wikipedia.org/wiki/Canada_Rugby_League,Canada Rugby League,canada-rugby-league,canada-rugby-league,UNK
+Canada,1335869,148,250,5042916,http://en.wikipedia.org/wiki/Canada_Bay,Canada Bay,canada-bay,canada-bay,UNK
+Canada,27951722,110,80,,"http://en.wikipedia.org/wiki/Cañada,_Oaxaca","Cañada, Oaxaca",canada-oaxaca,canada-oaxaca,UNK
+Canada,27393829,1,10,27393829,http://en.wikipedia.org/wiki/Canada_(magazine),Canada,canada,canada-magazine,ORG
+Canada,20596936,17,22,3434750;481669;5042916;5873,http://en.wikipedia.org/wiki/CANADA!,CANADA!,canada,canada,UNK
+Canada,3403042,61,68,3434750,http://en.wikipedia.org/wiki/Battle_of_Cañada,Battle of Cañada,battle-of-canada,battle-of-canada,UNK
+Canada,23736858,1,10,,http://en.wikipedia.org/wiki/Canada_(1891),Canada,canada,canada-1891,UNK
+Canada,4258891,100,17,,http://en.wikipedia.org/wiki/Cañada_College,Cañada College,canada-college,canada-college,ORG
+Canada,34342869,0,5,,http://en.wikipedia.org/wiki/Canada_Township,Canada Township,canada-township,canada-township,GPE
+Canada,6999,942,760,5042916;249620;5195;3434750;1110101;5873;75763,http://en.wikipedia.org/wiki/Culture_of_Canada,Culture of Canada,culture-of-canada,culture-of-canada,UNK
+Canada,37068084,83,103,3434750,"http://en.wikipedia.org/wiki/Canada,_Kentucky","Canada, Kentucky",canada-kentucky,canada-kentucky,UNK
+Canada,27970654,67,108,5042916;3434750,"http://en.wikipedia.org/wiki/Canada,_Kansas","Canada, Kansas",canada-kansas,canada-kansas,GPE
+Canada,6108438,56,79,5042916,http://en.wikipedia.org/wiki/Canada_(Epcot),Canada,canada,canada-epcot,UNK
+Canada,15489429,2,4,,"http://en.wikipedia.org/wiki/Cañada,_Alaquines,_San_Luis_Potosí","Cañada, Alaquines, San Luis Potosí",canada-alaquines-san-luis-potosi,canada-alaquines-san-luis-potosi,UNK
+Canada,6150783,4,9,5042916,http://en.wikipedia.org/wiki/Canada_Building_(Windsor),Canada Building,canada-building,canada-building-windsor,UNK
+Canada,15435556,142,134,,"http://en.wikipedia.org/wiki/Cañada,_Alicante","Cañada, Alicante",canada-alicante,canada-alicante,GPE
+Canada,30956620,5,11,5042916,http://en.wikipedia.org/wiki/Canada_Building_(Saskatoon),Canada Building,canada-building,canada-building-saskatoon,UNK
+Canada,249620,385,294,5042916;6999;75763,http://en.wikipedia.org/wiki/Same-sex_marriage_in_Canada,Same-sex marriage in Canada,same-sex-marriage-in-canada,same-sex-marriage-in-canada,UNK
+Canada,380212,51,39,,http://en.wikipedia.org/wiki/Canada_Company,Canada Company,canada-company,canada-company,UNK
+Canada,481669,158,77,20596936;5042916,http://en.wikipedia.org/wiki/Canada_Party,Canada Party,canada-party,canada-party,UNK
+Canada,28175785,0,6,,http://en.wikipedia.org/wiki/About_Canada,About Canada,about-canada,about-canada,UNK
+Canada,6765507,1,5,,"http://en.wikipedia.org/wiki/Cañada,_Guanajuato","Cañada, Guanajuato",canada-guanajuato,canada-guanajuato,UNK
+Canada,21974174,0,10,3434750,"http://en.wikipedia.org/wiki/Canada,_Virginia","Canada, Virginia",canada-virginia,canada-virginia,UNK
+Canada,27209834,2,8,27209834,"http://en.wikipedia.org/wiki/La_Cañada,_Santiago_del_Estero","La Cañada, Santiago del Estero",la-canada-santiago-del-estero,la-canada-santiago-del-estero,GPE
+Canada,75763,8024,293,5195;5873;6999;1110101;5042916;249620;75763,http://en.wikipedia.org/wiki/Provinces_and_territories_of_Canada,Provinces and territories of Canada,provinces-and-territories-of-canada,provinces-and-territories-of-canada,UNK
+Canada,1110101,403,210,5042916;6999;75763,http://en.wikipedia.org/wiki/Canada_(New_France),Canada,canada,canada-new-france,UNK
+Canada,26562575,1,9,,http://en.wikipedia.org/wiki/Canada_(unit),Canada,canada,canada-unit,UNK
+Canada,35632474,2,4,,http://en.wikipedia.org/wiki/Canada_(1800),Canada,canada,canada-1800,PER
+Canada,18262532,13,13,,http://en.wikipedia.org/wiki/Canada_Stadium,Canada Stadium,canada-stadium,canada-stadium,UNK
+Canada,3487272,83,110,3487272;5042916,http://en.wikipedia.org/wiki/Canada_Park,Canada Park,canada-park,canada-park,UNK
+Canada,5873,385,254,5042916;5195;20596936;6999;75763,http://en.wikipedia.org/wiki/Canada_Day,Canada Day,canada-day,canada-day,UNK
+Canada,11054565,1,14,3434750,http://en.wikipedia.org/wiki/Canada_(band),Canada,canada,canada-band,UNK
+Canada,5195,526,409,5042916;5195;3434750;6999;5873;75763,http://en.wikipedia.org/wiki/Economy_of_Canada,Economy of Canada,economy-of-canada,economy-of-canada,UNK
+Canada,4787510,289,72,,http://en.wikipedia.org/wiki/Ecclesiastical_Province_of_Canada,Ecclesiastical Province of Canada,ecclesiastical-province-of-canada,ecclesiastical-province-of-canada,UNK
+Mike Sullivan,6828058,23,38,5352855;3434750,http://en.wikipedia.org/wiki/Mike_Sullivan_(golfer),Mike Sullivan,mike-sullivan,mike-sullivan-golfer,PER
+Mike Sullivan,12812505,1,7,,http://en.wikipedia.org/wiki/Mike_Sullivan_(pilot),Mike Sullivan,mike-sullivan,mike-sullivan-pilot,PER
+Mike Sullivan,36453159,2,3,3434750,http://en.wikipedia.org/wiki/Mike_Sullivan_(handballer),Mike Sullivan,mike-sullivan,mike-sullivan-handballer,PER
+Mike Sullivan,33038638,161,167,34558257,http://en.wikipedia.org/wiki/Mike_Sullivan_(American_football),Mike Sullivan,mike-sullivan,mike-sullivan-american-football,PER
+Mike Sullivan,20495701,6,9,,http://en.wikipedia.org/wiki/Mike_Sullivan_(outfielder),Mike Sullivan,mike-sullivan,mike-sullivan-outfielder,PER
+Mike Sullivan,31666911,332,325,5042916;3434750,http://en.wikipedia.org/wiki/Mike_Sullivan_(Canadian_politician),Mike Sullivan,mike-sullivan,mike-sullivan-canadian-politician,UNK
+Mike Sullivan,18403743,14,46,,http://en.wikipedia.org/wiki/Mike_Sullivan_(wrestler),Mike Sullivan,mike-sullivan,mike-sullivan-wrestler,PER
+Mike Sullivan,13878575,27,11,,http://en.wikipedia.org/wiki/Mike_Sullivan_(pitcher),Mike Sullivan,mike-sullivan,mike-sullivan-pitcher,PER
+Mike Sullivan,34558257,104,154,33038638,http://en.wikipedia.org/wiki/Mike_Sullivan_(offensive_lineman),Mike Sullivan,mike-sullivan,mike-sullivan-offensive-lineman,UNK
+Mike Sullivan,709219,82,84,33127,http://en.wikipedia.org/wiki/Mike_Sullivan_(governor),Mike Sullivan,mike-sullivan,mike-sullivan-governor,PER
+Mike Sullivan,709235,33,87,3434750,"http://en.wikipedia.org/wiki/Mike_Sullivan_(ice_hockey,_born_1968)",Mike Sullivan,mike-sullivan,mike-sullivan-ice-hockey-born-1968,PER
+Mike Sullivan,35051916,1,18,3434750,"http://en.wikipedia.org/wiki/Mike_Sullivan_(ice_hockey,_born_1973)",Mike Sullivan,mike-sullivan,mike-sullivan-ice-hockey-born-1973,PER
+Willie Wood,7018258,32,34,27917183;3434750,http://en.wikipedia.org/wiki/Willie_Wood_(golfer),Willie Wood,willie-wood,willie-wood-golfer,PER
+Willie Wood,27917183,0,4,5052451;7018258;1926819,http://en.wikipedia.org/wiki/Willie_Wood,Willie Wood,willie-wood,willie-wood,PER
+Willie Wood,5052451,13,24,27917183,http://en.wikipedia.org/wiki/Willie_Wood_(bowler),Willie Wood,willie-wood,willie-wood-bowler,PER
+Willie Wood,1926819,334,359,27917183,http://en.wikipedia.org/wiki/Willie_Wood_(American_football),Willie Wood,willie-wood,willie-wood-american-football,PER
+Loren Roberts,2567564,191,155,7193430;5215321;43356;2151007;1544297;3434750,http://en.wikipedia.org/wiki/Loren_Roberts,Loren Roberts,loren-roberts,loren-roberts,PER
+Steve Stricker,2310551,258,161,43356;2151007;5058739;2022409;3434750,http://en.wikipedia.org/wiki/Steve_Stricker,Steve Stricker,steve-stricker,steve-stricker,PER
+Brian Claar,31139836,8,19,3434750,http://en.wikipedia.org/wiki/Brian_Claar,Brian Claar,brian-claar,brian-claar,PER
+Russ Cochran,7193430,65,58,1544297;28753992;2567564;3434750,http://en.wikipedia.org/wiki/Russ_Cochran,Russ Cochran,russ-cochran,russ-cochran,PER
+Russ Cochran,28753992,101,108,7193430,http://en.wikipedia.org/wiki/Russ_Cochran_(publisher),Russ Cochran,russ-cochran,russ-cochran-publisher,PER
+Mark Calcavecchia,1544297,286,212,5704624;5730434;7193430;5215321;43356;1175904;2080225;1781343;2567564;6312110;349744;3434750,http://en.wikipedia.org/wiki/Mark_Calcavecchia,Mark Calcavecchia,mark-calcavecchia,mark-calcavecchia,PER
+Payne Stewart,349744,496,476,5704624;1175904;5042916;3434750;43356;1544297,http://en.wikipedia.org/wiki/Payne_Stewart,Payne Stewart,payne-stewart,payne-stewart,UNK
+Billy Mayfair,2080225,162,133,1544297;5215321;43356;3434750,http://en.wikipedia.org/wiki/Billy_Mayfair,Billy Mayfair,billy-mayfair,billy-mayfair,PER
+Ken Green,5704624,59,75,1544297;5721394;5215321;349744;3434750,http://en.wikipedia.org/wiki/Ken_Green_(golfer),Ken Green,ken-green,ken-green-golfer,PER
+Ken Green,9781985,48,42,5721394,http://en.wikipedia.org/wiki/Ken_Green_(footballer),Ken Green,ken-green,ken-green-footballer,PER
+Ken Green,32541908,46,49,5721394,"http://en.wikipedia.org/wiki/Ken_Green_(basketball,_born_1959)",Ken Green,ken-green,ken-green-basketball-born-1959,UNK
+Ken Green,5721394,0,10,9781985;5704624;32541908,http://en.wikipedia.org/wiki/Ken_Green,Ken Green,ken-green,ken-green,PER
+Jerry Kelly,2151007,112,68,2310551;2567564;5215321;43356;3434750,http://en.wikipedia.org/wiki/Jerry_Kelly,Jerry Kelly,jerry-kelly,jerry-kelly,PER
+Tim Simpson,6312110,30,32,1544297;3434750,http://en.wikipedia.org/wiki/Tim_Simpson,Tim Simpson,tim-simpson,tim-simpson,PER
+Olin Browne,2080151,78,74,3434750,http://en.wikipedia.org/wiki/Olin_Browne,Olin Browne,olin-browne,olin-browne,PER
+Mike Hulbert,5893843,32,29,3434750;5841428,http://en.wikipedia.org/wiki/Mike_Hulbert,Mike Hulbert,mike-hulbert,mike-hulbert,UNK
+Brian Henninger,5352855,22,24,3434750;6828058,http://en.wikipedia.org/wiki/Brian_Henninger,Brian Henninger,brian-henninger,brian-henninger,PER
+Tiger Woods,43356,1534,780,2310551;43356;2567564;3434750;5215321;1544297;6728093;2080225;349744;1175904;2151007;5058739,http://en.wikipedia.org/wiki/Tiger_Woods,Tiger Woods,tiger-woods,tiger-woods,UNK
+Tiger Woods,6728093,24,20,43356,http://en.wikipedia.org/wiki/Tiger_Woods_Foundation,Tiger Woods Foundation,tiger-woods-foundation,tiger-woods-foundation,UNK

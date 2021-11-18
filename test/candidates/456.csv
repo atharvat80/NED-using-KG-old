@@ -1,0 +1,173 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+SOFIA,57644,5420,760,589031;364825;3612475;963400;9239;6085013;262416;7083475;23016396;3415;3386;3668;679770;57644;151876;4149;4829;30367797;3516963;4512354,http://en.wikipedia.org/wiki/Sofia,Sofia,sofia,sofia,GPE
+SOFIA,20848235,1,27,151876;4149;3415,http://en.wikipedia.org/wiki/Little_Sofia,Little Sofia,little-sofia,little-sofia,UNK
+SOFIA,28293222,0,6,,http://en.wikipedia.org/wiki/SOFIA_(band),SOFIA,sofia,sofia-band,ORG
+SOFIA,2893436,7,14,3516963,http://en.wikipedia.org/wiki/Sofia_University_(California),Sofia University,sofia-university,sofia-university-california,ORG
+SOFIA,6085013,2,7,57644;3415,http://en.wikipedia.org/wiki/Sofia_(car),Sofia,sofia,sofia-car,ORG
+SOFIA,590932,342,126,38171535;589031;590932,http://en.wikipedia.org/wiki/Sofia_Region,Sofia Region,sofia-region,sofia-region,UNK
+SOFIA,3411131,3,6,,http://en.wikipedia.org/wiki/Sofia_Church,Sofia Church,sofia-church,sofia-church,UNK
+SOFIA,589031,206,147,7083475;4512354;590932;3668;151876;57644;4149;364825;3415;3612475;4829,http://en.wikipedia.org/wiki/Sofia_Province,Sofia Province,sofia-province,sofia-province,UNK
+SOFIA,23537554,5,9,,"http://en.wikipedia.org/wiki/Sofia,_Drochia","Sofia, Drochia",sofia-drochia,sofia-drochia,UNK
+SOFIA,3516963,381,170,4149;3415;963400;2893436;57644,http://en.wikipedia.org/wiki/Sofia_University,Sofia University,sofia-university,sofia-university,ORG
+SOFIA,5134679,3,26,,http://en.wikipedia.org/wiki/Sofía_(Echinades),Sofía,sofia,sofia-echinades,UNK
+SOFIA,23501649,2,2,,"http://en.wikipedia.org/wiki/Sofia,_Hînceşti","Sofia, Hînceşti",sofia-hincesti,sofia-hincesti,UNK
+SOFIA,23016396,10,30,151876;3415;57644,"http://en.wikipedia.org/wiki/Sofia,_New_Mexico","Sofia, New Mexico",sofia-new-mexico,sofia-new-mexico,GPE
+SOFIA,38171535,46,21,590932,http://en.wikipedia.org/wiki/Sofia_River,Sofia River,sofia-river,sofia-river,GPE
+SOFIA,21746300,7,23,,http://en.wikipedia.org/wiki/Sofia_(Swedish_singer),Sofia,sofia,sofia-swedish-singer,UNK
+SOFIA,105587,72,78,,http://en.wikipedia.org/wiki/Sofia_Kovalevskaya,Sofia Kovalevskaya,sofia-kovalevskaya,sofia-kovalevskaya,UNK
+SOFIA,869744,369,313,,http://en.wikipedia.org/wiki/Queen_Sofía_of_Spain,Queen Sofía of Spain,queen-sofia-of-spain,queen-sofia-of-spain,PER
+SOFIA,7786346,3,18,,http://en.wikipedia.org/wiki/Sofia_(Filipino_singer),Sofia,sofia,sofia-filipino-singer,PER
+SOFIA,4512354,15,12,589031;4149;3415;57644,http://en.wikipedia.org/wiki/Sofia_Valley,Sofia Valley,sofia-valley,sofia-valley,UNK
+SOFIA,963400,195,188,3516963;57644;4149;262416;3415,http://en.wikipedia.org/wiki/Sofia_Airport,Sofia Airport,sofia-airport,sofia-airport,UNK
+Bulgarian,3415,30092,671,3612475;4439786;7083475;3415;3386;3668;31513643;4149;4829;30367797;1187515;4512354;9239;16091490;963400;262416;19323;589031;23016396;27460550;151876;6872188;11787932;20848235;12154617;3889179;3516963;6085013;364825;13659804;679770;57644,http://en.wikipedia.org/wiki/Bulgaria,Bulgaria,bulgaria,bulgaria,GPE
+Bulgarian,151876,1595,370,151876;4149;20848235;589031;364825;3612475;4829;7083475;23016396;3415;3386;3668;57644,http://en.wikipedia.org/wiki/Bulgarians,Bulgarians,bulgarians,bulgarians,UNK
+Bulgarian,3889179,19,25,3415,http://en.wikipedia.org/wiki/Bulgarian_Beach,Bulgarian Beach,bulgarian-beach,bulgarian-beach,UNK
+Bulgarian,12154617,0,63,3415,http://en.wikipedia.org/wiki/Bulgarian_International,Bulgarian International,bulgarian-international,bulgarian-international,UNK
+Bulgarian,4149,7413,318,364825;3612475;963400;6872188;262416;7083475;3415;3386;3668;19323;4149;20848235;4829;3516963;4512354;2036573;589031;8569916;679770;57644;151876,http://en.wikipedia.org/wiki/Bulgarian_language,Bulgarian language,bulgarian-language,bulgarian-language,UNK
+Bulgarian,2036573,103,102,4149;328159;2036573,http://en.wikipedia.org/wiki/Bulgarian_Wikipedia,Bulgarian Wikipedia,bulgarian-wikipedia,bulgarian-wikipedia,UNK
+Bulgaria,3415,30092,671,3612475;4439786;7083475;3415;3386;3668;31513643;4149;4829;30367797;1187515;4512354;9239;16091490;963400;262416;19323;589031;23016396;27460550;151876;6872188;11787932;20848235;12154617;3889179;3516963;6085013;364825;13659804;679770;57644,http://en.wikipedia.org/wiki/Bulgaria,Bulgaria,bulgaria,bulgaria,GPE
+Bulgaria,679770,1694,639,4149;9239;6872188;3415;57644,http://en.wikipedia.org/wiki/Bulgaria_national_football_team,Bulgaria national football team,bulgaria-national-football-team,bulgaria-national-football-team,ORG
+Bulgaria,7083475,313,216,7083475;589031;3668;151876;57644;4149;3415;3612475;4829,http://en.wikipedia.org/wiki/Religion_in_Bulgaria,Religion in Bulgaria,religion-in-bulgaria,religion-in-bulgaria,PER
+Bulgaria,3612475,758,189,151876;4149;7083475;589031;4829;3415;3668;57644,http://en.wikipedia.org/wiki/Kingdom_of_Bulgaria,Kingdom of Bulgaria,kingdom-of-bulgaria,kingdom-of-bulgaria,GPE
+Bulgaria,6872188,377,280,4149;3415;679770,http://en.wikipedia.org/wiki/Bulgaria_national_under-21_football_team,Bulgaria national under-21 football team,bulgaria-national-under-21-football-team,bulgaria-national-under-21-football-team,UNK
+Bulgaria,4439786,102,81,3415,http://en.wikipedia.org/wiki/Greater_Bulgaria,Greater Bulgaria,greater-bulgaria,greater-bulgaria,UNK
+Bulgaria,3668,277,345,151876;4149;3415;3386;7083475;9239;589031;1187515;3668;57644;364825;3612475;4829,http://en.wikipedia.org/wiki/Geography_of_Bulgaria,Geography of Bulgaria,geography-of-bulgaria,geography-of-bulgaria,UNK
+Bulgaria,16432916,16,17,,"http://en.wikipedia.org/wiki/Bulgaria,_Cluj-Napoca","Bulgaria, Cluj-Napoca",bulgaria-cluj-napoca,bulgaria-cluj-napoca,UNK
+Bulgaria,30367797,11,14,57644;3415,http://en.wikipedia.org/wiki/Bulgaria_Mall,Bulgaria Mall,bulgaria-mall,bulgaria-mall,UNK
+Bulgaria,16091490,14,34,3415,http://en.wikipedia.org/wiki/Bulgaria_(theme),Bulgaria,bulgaria,bulgaria-theme,UNK
+Bulgaria,31513643,2,10,8569916;3415,http://en.wikipedia.org/wiki/Bulgária_SC_(East_Timor),Bulgária SC,bulgaria-sc,bulgaria-sc-east-timor,ORG
+Bulgaria,26713159,1,9,,http://en.wikipedia.org/wiki/Bulgaria_(fungus),Bulgaria,bulgaria,bulgaria-fungus,PER
+Europe,9239,51349,1032,3415;3386;3668;4829;17891966;9239;23620443;11672;14996;262416;19323;3499945;20272716;679770;57644;628999;1187515;358518;18803164;755102;87187;1626272;13562519;364825,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+Europe,855087,344,374,,http://en.wikipedia.org/wiki/Europe_(dinghy),Europe,europe,europe-dinghy,UNK
+Europe,17891966,192,242,9239,http://en.wikipedia.org/wiki/Europe_(anthem),Europe,europe,europe-anthem,UNK
+Europe,1659361,12,34,,http://en.wikipedia.org/wiki/European_Patent_Litigation_Agreement,European Patent Litigation Agreement,european-patent-litigation-agreement,european-patent-litigation-agreement,UNK
+Europe,304821,111,138,304821,http://en.wikipedia.org/wiki/2003_European_heat_wave,2003 European heat wave,2003-european-heat-wave,2003-european-heat-wave,UNK
+Europe,15132000,13,28,,"http://en.wikipedia.org/wiki/Old_Europe,_New_Europe,_Core_Europe","Old Europe, New Europe, Core Europe",old-europe-new-europe-core-europe,old-europe-new-europe-core-europe,UNK
+Europe,1187515,306,383,13562519;3415;3386;9239;1187515;3668;4829,http://en.wikipedia.org/wiki/Geography_of_Europe,Geography of Europe,geography-of-europe,geography-of-europe,UNK
+Europe,2826281,77,84,,http://en.wikipedia.org/wiki/Europe_GAA,Europe GAA,europe-gaa,europe-gaa,GPE
+Europe,11787932,277,273,8569916;3415,http://en.wikipedia.org/wiki/European_driving_licence,European driving licence,european-driving-licence,european-driving-licence,UNK
+Europe,628999,133,18,9239;19323;20272716,"http://en.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa","Europe, the Middle East and Africa",europe-the-middle-east-and-africa,europe-the-middle-east-and-africa,UNK
+Europe,13562519,17,304,9239;1187515;11672;19323;4829,http://en.wikipedia.org/wiki/Greater_Europe,Greater Europe,greater-europe,greater-europe,ORG
+Europe,5805422,293,153,87187,http://en.wikipedia.org/wiki/European_Union_Microsoft_competition_case,European Union Microsoft competition case,european-union-microsoft-competition-case,european-union-microsoft-competition-case,ORG
+Europe,14051635,1,6,,http://en.wikipedia.org/wiki/DJ_Europe,DJ Europe,dj-europe,dj-europe,UNK
+Europe,406269,18,53,,http://en.wikipedia.org/wiki/Old_Europe_(politics),Old Europe,old-europe,old-europe-politics,ORG
+Europe,26450398,2,11,,http://en.wikipedia.org/wiki/Europe/London,Europe/London,europe-london,europe-london,PER
+Europe,87187,825,370,5805422;87187;9239,http://en.wikipedia.org/wiki/European_Court_of_Justice,European Court of Justice,european-court-of-justice,european-court-of-justice,ORG
+Europe,7514548,108,319,42604535,http://en.wikipedia.org/wiki/Europe_Street,Europe Street,europe-street,europe-street,GPE
+Europe,358518,602,118,358518;9239,http://en.wikipedia.org/wiki/Europe_(band),Europe,europe,europe-band,UNK
+Europe,12586001,1,13,,http://en.wikipedia.org/wiki/Europe_Lake,Europe Lake,europe-lake,europe-lake,UNK
+Europe,503907,29,46,,http://en.wikipedia.org/wiki/Europe_(Paris_Métro),Europe,europe,europe-paris-metro,UNK
+Europe,13659804,72,126,3415,http://en.wikipedia.org/wiki/European_Youth_Chess_Championship,European Youth Chess Championship,european-youth-chess-championship,european-youth-chess-championship,PER
+Europe,3499945,3,21,8569916;9239,http://en.wikipedia.org/wiki/Europe_(story),Europe,europe,europe-story,UNK
+Europe,20272716,1,11,20272716;628999;9239;19323,"http://en.wikipedia.org/wiki/Europe,_Middle_East,_Africa_and_Latin_America","Europe, Middle East, Africa and Latin America",europe-middle-east-africa-and-latin-america,europe-middle-east-africa-and-latin-america,UNK
+Europe,755102,85,158,9239;3386,http://en.wikipedia.org/wiki/Old_Europe_(archaeology),Old Europe,old-europe,old-europe-archaeology,UNK
+Europe,23620443,13,20,9239,http://en.wikipedia.org/wiki/Europe_(magazine),Europe,europe,europe-magazine,UNK
+Middle,19323,9750,323,13562519;3415;18974570;19323;4149;628999;4829;8569916;9239;11672;20272716,http://en.wikipedia.org/wiki/Middle_East,Middle East,middle-east,middle-east,UNK
+Middle,368048,113,246,368048;8569916,http://en.wikipedia.org/wiki/Middle_name,Middle name,middle-name,middle-name,UNK
+Middle,1603281,32,39,1000499,http://en.wikipedia.org/wiki/Middle_Park_(Colorado_basin),Middle Park,middle-park,middle-park-colorado-basin,UNK
+Middle,234954,2705,176,8569916;1151508;234954,http://en.wikipedia.org/wiki/Middle_school,Middle school,middle-school,middle-school,UNK
+Middle,3553837,8,12,4049094,http://en.wikipedia.org/wiki/Middle_Island_(West_Virginia),Middle Island,middle-island,middle-island-west-virginia,UNK
+Middle,262146,18,9,,http://en.wikipedia.org/wiki/Middle_England,Middle England,middle-england,middle-england,UNK
+Middle,1750031,203,291,889882,http://en.wikipedia.org/wiki/Middle_Persian_literature,Middle Persian literature,middle-persian-literature,middle-persian-literature,UNK
+Middle,889882,662,447,1750031,http://en.wikipedia.org/wiki/Middle_Persian,Middle Persian,middle-persian,middle-persian,UNK
+Middle,8639209,5,18,,http://en.wikipedia.org/wiki/Middle_Mountain,Middle Mountain,middle-mountain,middle-mountain,UNK
+Middle,8881656,5,6,33364829,http://en.wikipedia.org/wiki/Middle_Bay_(Hong_Kong),Middle Bay,middle-bay,middle-bay-hong-kong,UNK
+Middle,50711,1340,229,14996;18803164;8569916;22667;1890,http://en.wikipedia.org/wiki/Middle_English,Middle English,middle-english,middle-english,UNK
+Middle,23549317,1,6,3788337,http://en.wikipedia.org/wiki/Middle_Lake_(Nova_Scotia),Middle Lake,middle-lake,middle-lake-nova-scotia,UNK
+Middle,1283522,0,1,,http://en.wikipedia.org/wiki/Middle_Town,Middle Town,middle-town,middle-town,GPE
+Middle,34915145,1,9,,http://en.wikipedia.org/wiki/Middle_state,Middle state,middle-state,middle-state,PER
+Middle,4049094,1,14,1896977;3553837;14191505;36933885,http://en.wikipedia.org/wiki/Middle_Island,Middle Island,middle-island,middle-island,UNK
+Middle,5400930,3,8,,http://en.wikipedia.org/wiki/Middle_Bridge,Middle Bridge,middle-bridge,middle-bridge,UNK
+Middle,2503748,182,153,,http://en.wikipedia.org/wiki/Middle_cerebral_artery,Middle cerebral artery,middle-cerebral-artery,middle-cerebral-artery,UNK
+Middle,646768,554,157,,http://en.wikipedia.org/wiki/Middle_Tennessee,Middle Tennessee,middle-tennessee,middle-tennessee,UNK
+Middle,23818960,148,149,,http://en.wikipedia.org/wiki/Middle_River_(Maryland),Middle River,middle-river,middle-river-maryland,UNK
+Middle,1304639,0,3,,http://en.wikipedia.org/wiki/Middle_Township,Middle Township,middle-township,middle-township,GPE
+Middle,14191505,4,10,4049094,http://en.wikipedia.org/wiki/Middle_Island_(Lacepede_Islands),Middle Island,middle-island,middle-island-lacepede-islands,UNK
+Middle,36933885,5,11,4049094,http://en.wikipedia.org/wiki/Middle_Island_(Warrnambool),Middle Island,middle-island,middle-island-warrnambool,UNK
+Middle,298603,3891,357,298603,http://en.wikipedia.org/wiki/Middlesbrough_F.C.,Middlesbrough F.C.,middlesbrough-fc,middlesbrough-fc,UNK
+Middle,2708646,9,14,,http://en.wikipedia.org/wiki/Middle_River_(Minnesota),Middle River,middle-river,middle-river-minnesota,UNK
+Middle,371824,329,220,,http://en.wikipedia.org/wiki/Middle_Peninsula,Middle Peninsula,middle-peninsula,middle-peninsula,UNK
+Middle,33364829,0,1,8881656,http://en.wikipedia.org/wiki/Middle_Bay,Middle Bay,middle-bay,middle-bay,GPE
+Middle,23094993,8,16,,http://en.wikipedia.org/wiki/Middle_River_(British_Columbia),Middle River,middle-river,middle-river-british-columbia,UNK
+Middle,23518778,180,12,,http://en.wikipedia.org/wiki/Middle_River_(Virginia),Middle River,middle-river,middle-river-virginia,UNK
+Middle,7450869,14,23,,http://en.wikipedia.org/wiki/Middle_River_(Iowa),Middle River,middle-river,middle-river-iowa,UNK
+Middle,3788337,0,6,23549317,http://en.wikipedia.org/wiki/Middle_Lake,Middle Lake,middle-lake,middle-lake,UNK
+Middle,1000499,0,8,9515485;1603281,http://en.wikipedia.org/wiki/Middle_Park,Middle Park,middle-park,middle-park,UNK
+Middle,162635,1707,157,,http://en.wikipedia.org/wiki/Middle_Temple,Middle Temple,middle-temple,middle-temple,UNK
+Middle,23588139,2,14,,http://en.wikipedia.org/wiki/Middle_River_(Maine),Middle River,middle-river,middle-river-maine,UNK
+Middle,3378063,0,8,,http://en.wikipedia.org/wiki/Middle_Road,Middle Road,middle-road,middle-road,UNK
+Middle,1896977,61,55,4049094,http://en.wikipedia.org/wiki/Middle_Island_(Lake_Erie),Middle Island,middle-island,middle-island-lake-erie,UNK
+Middle,4068029,75,74,,http://en.wikipedia.org/wiki/Middle_(sheading),Middle,middle,middle-sheading,UNK
+Middle,1619407,224,166,,"http://en.wikipedia.org/wiki/Middle_Village,_Queens","Middle Village, Queens",middle-village-queens,middle-village-queens,UNK
+Middle,4317538,16,12,,http://en.wikipedia.org/wiki/Middle_office,Middle office,middle-office,middle-office,UNK
+Middle,41673725,40,6,,http://en.wikipedia.org/wiki/Middle_Island_(South_Australia),Middle Island,middle-island,middle-island-south-australia,UNK
+Middle,9515485,9,14,1000499,http://en.wikipedia.org/wiki/Middle_Park_(stadium),Middle Park,middle-park,middle-park-stadium,UNK
+Middle,35762823,5,7,,http://en.wikipedia.org/wiki/Middle_River_(Alabama),Middle River,middle-river,middle-river-alabama,UNK
+Far East,21643854,421,124,21643854,http://en.wikipedia.org/wiki/Far_East_Movement,Far East Movement,far-east-movement,far-east-movement,UNK
+Far East,19172378,0,17,,http://en.wikipedia.org/wiki/Far_East_Group,Far East Group,far-east-group,far-east-group,ORG
+Far East,173135,1269,109,173135;11672,http://en.wikipedia.org/wiki/Russian_Far_East,Russian Far East,russian-far-east,russian-far-east,UNK
+Far East,42604535,158,345,7514548,"http://en.wikipedia.org/wiki/Far_East_Center,_Denver","Far East Center, Denver",far-east-center-denver,far-east-center-denver,GPE
+Far East,15048495,6,6,11672;5925433,http://en.wikipedia.org/wiki/The_Far_East_(periodical),The Far East,the-far-east,the-far-east-periodical,ORG
+Far East,5925433,7,11,15048495;11672,http://en.wikipedia.org/wiki/Far_East_(play),Far East,far-east,far-east-play,UNK
+Far East,1900792,4,12,,http://en.wikipedia.org/wiki/Far_East_University_(Korea),Far East University,far-east-university,far-east-university-korea,UNK
+Far East,11672,2059,240,15048495;4829;8569916;9239;173135;13562519;5925433;19323,http://en.wikipedia.org/wiki/Far_East,Far East,far-east,far-east,UNK
+Far East,6537276,157,168,,http://en.wikipedia.org/wiki/Far_East_University_(Taiwan),Far East University,far-east-university,far-east-university-taiwan,UNK
+Balkan Airlines,262416,52,181,9239;57644;4149;262416;3415;963400,http://en.wikipedia.org/wiki/Balkan_Bulgarian_Airlines,Balkan Bulgarian Airlines,balkan-bulgarian-airlines,balkan-bulgarian-airlines,UNK
+Black Sea,3386,4651,437,364825;9239;755102;3415;3668;57644;151876;4149;4829;8318280;1187515,http://en.wikipedia.org/wiki/Black_Sea,Black Sea,black-sea,black-sea,UNK
+Black Sea,8318280,902,63,3386,http://en.wikipedia.org/wiki/Black_Sea_Region,Black Sea Region,black-sea-region,black-sea-region,GPE
+Balkan,121712,211,237,,"http://en.wikipedia.org/wiki/Balkan_Township,_St._Louis_County,_Minnesota","Balkan Township, St. Louis County, Minnesota",balkan-township-st-louis-county-minnesota,balkan-township-st-louis-county-minnesota,GPE
+Balkan,470722,132,42,364825;4829,http://en.wikipedia.org/wiki/Balkan_Province,Balkan Province,balkan-province,balkan-province,GPE
+Balkan,4829,3818,545,589031;364825;3612475;9239;7083475;15982081;13562519;3415;3386;3668;57644;11672;19323;151876;4149;470722;1187515,http://en.wikipedia.org/wiki/Balkans,Balkans,balkans,balkans,UNK
+Balkan,30610421,6,9,30610421,http://en.wikipedia.org/wiki/Balkan_Inc.,Balkan Inc.,balkan-inc,balkan-inc,UNK
+Balkan,27460550,26,34,3415,http://en.wikipedia.org/wiki/Balkan_(village),Balkan,balkan,balkan-village,GPE
+Balkan,14510061,2,3,,http://en.wikipedia.org/wiki/Balkan_(newspaper),Balkan,balkan,balkan-newspaper,ORG
+Balkan,15982081,8,69,4829,http://en.wikipedia.org/wiki/Balkan_(band),Balkan,balkan,balkan-band,UNK
+Balkan,364825,311,109,470722;9239;589031;3668;151876;57644;4149;364825;3415;4829;3386,http://en.wikipedia.org/wiki/Balkan_Mountains,Balkan Mountains,balkan-mountains,balkan-mountains,UNK
+Balkan,22770943,3,3,,http://en.wikipedia.org/wiki/Balkan_(motorcycle),Balkan,balkan,balkan-motorcycle,UNK
+English,8569916,71129,716,1890;4149;4179;11672;14996;19323;3499945;22667;1151508;48771;50711;4157702;31513643;18803164;333371;328159;1626272;1867839;11787932;234954;368048;18974570;8569916,http://en.wikipedia.org/wiki/English_language,English language,english-language,english-language,UNK
+English,4157702,42,102,8569916,http://en.wikipedia.org/wiki/English_District_(LCMS),English District,english-district,english-district-lcms,ORG
+English,3838846,116,129,,"http://en.wikipedia.org/wiki/English,_West_Virginia","English, West Virginia",english-west-virginia,english-west-virginia,GPE
+English,1982864,69,88,22046807,http://en.wikipedia.org/wiki/English_Bridge,English Bridge,english-bridge,english-bridge,UNK
+English,8318332,11,61,,http://en.wikipedia.org/wiki/English_Party,English Party,english-party,english-party,UNK
+English,18974570,1178,130,14996;8569916;19323,http://en.wikipedia.org/wiki/English_studies,English studies,english-studies,english-studies,UNK
+English,27260919,42,55,28994929,"http://en.wikipedia.org/wiki/English,_Brazoria_County,_Texas","English, Brazoria County, Texas",english-brazoria-county-texas,english-brazoria-county-texas,GPE
+English,48771,2,14,8569916;48771,http://en.wikipedia.org/wiki/English_(programming_language),English,english,english-programming-language,UNK
+English,1890,3485,773,8569916;1890;50711;333371;1626272;4179;14996;328159,http://en.wikipedia.org/wiki/American_English,American English,american-english,american-english,UNK
+English,937317,41,28,2165164;940821,http://en.wikipedia.org/wiki/English_River_(Ontario),English River,english-river,english-river-ontario,UNK
+English,21987263,18,23,21987263,http://en.wikipedia.org/wiki/English_Journal,English Journal,english-journal,english-journal,ORG
+English,940821,0,6,937317;2165164;458284,http://en.wikipedia.org/wiki/English_River,English River,english-river,english-river,UNK
+English,22651056,26,77,18803164,http://en.wikipedia.org/wiki/English_Neighborhood,English Neighborhood,english-neighborhood,english-neighborhood,UNK
+English,8459056,40,14,,http://en.wikipedia.org/wiki/English_Park,English Park,english-park,english-park,UNK
+English,1626272,292,311,8569916;14996;4179;1626272;9239;1890,http://en.wikipedia.org/wiki/California_English,California English,california-english,california-english,UNK
+English,22046807,2,9,1982864,http://en.wikipedia.org/wiki/English_Bridge_(Saint_Petersburg),English Bridge,english-bridge,english-bridge-saint-petersburg,UNK
+English,2232489,363,128,292723;20014954,http://en.wikipedia.org/wiki/English_Bay_(Vancouver),English Bay,english-bay,english-bay-vancouver,UNK
+English,39195958,144,152,,http://en.wikipedia.org/wiki/English_Park_(Yerevan),English Park,english-park,english-park-yerevan,UNK
+English,4907971,6,64,,"http://en.wikipedia.org/wiki/English,_Fitz_or_Percy_(Prison_Break)","English, Fitz or Percy",english-fitz-or-percy,english-fitz-or-percy-prison-break,UNK
+English,22083958,29,7,,http://en.wikipedia.org/wiki/English_Association,English Association,english-association,english-association,ORG
+English,1867839,4,5,8569916,http://en.wikipedia.org/wiki/English_Australia,English Australia,english-australia,english-australia,GPE
+English,2710111,69,117,,http://en.wikipedia.org/wiki/USS_English_(DD-696),USS English,uss-english,uss-english-dd-696,UNK
+English,3458300,4,11,,http://en.wikipedia.org/wiki/English_Island_(South_Australia),English Island,english-island,english-island-south-australia,UNK
+English,1151508,6,33,8569916;234954,http://en.wikipedia.org/wiki/English_village,English village,english-village,english-village,UNK
+English,458284,15,23,940821,http://en.wikipedia.org/wiki/English_River_(Iowa),English River,english-river,english-river-iowa,UNK
+English,18803164,14910,369,562171;21982148;22651056;9239;25921578;50711;22667;8569916,http://en.wikipedia.org/wiki/English_people,English people,english-people,english-people,UNK
+English,28994929,0,4,28994013;27260919,"http://en.wikipedia.org/wiki/English,_Texas","English, Texas",english-texas,english-texas,UNK
+English,22667,3259,300,8569916;18803164;50711;4179;14996;328159;22667,http://en.wikipedia.org/wiki/Old_English,Old English,old-english,old-english,UNK
+English,333371,14,38,8569916;1890,http://en.wikipedia.org/wiki/U.S._English_(organization),U.S. English,us-english,us-english-organization,ORG
+English,562171,159,130,18803164,http://en.wikipedia.org/wiki/English_Canada,English Canada,english-canada,english-canada,UNK
+English,25921578,4,28,18803164,http://en.wikipedia.org/wiki/Edward_English,Edward English,edward-english,edward-english,PER
+English,20014954,52,54,2232489,http://en.wikipedia.org/wiki/English_Bay_(neighbourhood),English Bay,english-bay,english-bay-neighbourhood,UNK
+English,292723,0,4,2232489,http://en.wikipedia.org/wiki/English_Bay,English Bay,english-bay,english-bay,UNK
+English,28994013,14,23,28994929,"http://en.wikipedia.org/wiki/English,_Red_River_County,_Texas","English, Red River County, Texas",english-red-river-county-texas,english-red-river-county-texas,GPE
+English,14996,36,205,9239;1890;18974570;8569916;4179;1626272;22667;50711,http://en.wikipedia.org/wiki/International_English,International English,international-english,international-english,UNK
+English,147992,56,29,147992,"http://en.wikipedia.org/wiki/English_Island,_Isles_of_Scilly","English Island, Isles of Scilly",english-island-isles-of-scilly,english-island-isles-of-scilly,UNK
+English,36819322,5,19,,"http://en.wikipedia.org/wiki/English,_baby!","English, baby!",english-baby,english-baby,UNK
+English,4771063,4,16,,http://en.wikipedia.org/wiki/American/English,American/English,american-english,american-english,UNK
+English,26547793,6,7,,"http://en.wikipedia.org/wiki/English,_Scottish_and_Australian_Bank","English, Scottish and Australian Bank",english-scottish-and-australian-bank,english-scottish-and-australian-bank,UNK
+English,4179,1639,331,4179;8569916;1890;14996;328159;1626272;22667,http://en.wikipedia.org/wiki/British_English,British English,british-english,british-english,UNK
+English,14007675,9,9,,"http://en.wikipedia.org/wiki/English,_August","English, August",english-august,english-august,UNK
+English,20311445,2,2,,http://en.wikipedia.org/wiki/English_Station,English Station,english-station,english-station,UNK
+English,21982148,86,62,18803164,http://en.wikipedia.org/wiki/Old_English_(Ireland),Old English,old-english,old-english-ireland,UNK
+English,2165164,9,104,937317;940821,"http://en.wikipedia.org/wiki/English_River,_Ontario","English River, Ontario",english-river-ontario,english-river-ontario,GPE
+English,41538546,2,147,,"http://en.wikipedia.org/wiki/English_Village_(Richmond,_Virginia)",English Village,english-village,english-village-richmond-virginia,UNK
+English,16235747,224,284,,http://en.wikipedia.org/wiki/English_Market,English Market,english-market,english-market,UNK
+English,328159,181,197,1890;8569916;4179;2036573;22667,http://en.wikipedia.org/wiki/English_Wikipedia,English Wikipedia,english-wikipedia,english-wikipedia,UNK

@@ -1,0 +1,44 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Colombian,5222,32640,736,6976458;488193;211271;5222;10710785;3056298;5836;3299732;20810797;7941778;9545709;13064314;680175;124974;34235937,http://en.wikipedia.org/wiki/Colombia,Colombia,colombia,colombia,GPE
+Colombian,488193,30,237,211271;5222;5836,http://en.wikipedia.org/wiki/Colombian_culture,Colombian culture,colombian-culture,colombian-culture,UNK
+Colombian,7941778,1049,231,7941778;5222;5836;13064314,http://en.wikipedia.org/wiki/Colombian_people,Colombian people,colombian-people,colombian-people,UNK
+BOGOTA,211271,3477,357,488193;13064314;680175;5222;124974;9545709;5836;3299732;20810797,http://en.wikipedia.org/wiki/Bogotá,Bogotá,bogota,bogota,GPE
+BOGOTA,2428202,15,27,,"http://en.wikipedia.org/wiki/Bogota,_Tennessee","Bogota, Tennessee",bogota-tennessee,bogota-tennessee,UNK
+BOGOTA,20838657,24,36,,"http://en.wikipedia.org/wiki/Bogota,_Illinois","Bogota, Illinois",bogota-illinois,bogota-illinois,GPE
+BOGOTA,20810797,52,53,5222;680175;211271,http://en.wikipedia.org/wiki/Bogotá_F.C.,Bogotá F.C.,bogota-fc,bogota-fc,ORG
+BOGOTA,40721400,3,150,,"http://en.wikipedia.org/wiki/Bogota_(Port_Republic,_Virginia)",Bogota,bogota,bogota-port-republic-virginia,UNK
+BOGOTA,124974,145,224,211271;5222,"http://en.wikipedia.org/wiki/Bogota,_New_Jersey","Bogota, New Jersey",bogota-new-jersey,bogota-new-jersey,GPE
+BOGOTA,3299732,20,12,5222;211271,http://en.wikipedia.org/wiki/Bogotá_River,Bogotá River,bogota-river,bogota-river,UNK
+BOGOTA,30419701,5,11,,http://en.wikipedia.org/wiki/Bogotá_Province,Bogotá Province,bogota-province,bogota-province,UNK
+Colombia,5222,32640,736,6976458;488193;211271;5222;10710785;3056298;5836;3299732;20810797;7941778;9545709;13064314;680175;124974;34235937,http://en.wikipedia.org/wiki/Colombia,Colombia,colombia,colombia,GPE
+Colombia,13064314,131,446,211271;5222;7941778;5836,http://en.wikipedia.org/wiki/Timeline_of_Colombian_history,Timeline of Colombian history,timeline-of-colombian-history,timeline-of-colombian-history,UNK
+Colombia,680175,1637,408,680175;5222;211271;20810797,http://en.wikipedia.org/wiki/Colombia_national_football_team,Colombia national football team,colombia-national-football-team,colombia-national-football-team,UNK
+Colombia,34235937,90,62,5222,http://en.wikipedia.org/wiki/Colombia_(cycling_team),Colombia,colombia,colombia-cycling-team,UNK
+Colombia,5836,161,207,211271;488193;5222;5836;7941778;13064314,http://en.wikipedia.org/wiki/Geography_of_Colombia,Geography of Colombia,geography-of-colombia,geography-of-colombia,UNK
+Colombia,10710785,37,43,5222,"http://en.wikipedia.org/wiki/Colombia,_Huila","Colombia, Huila",colombia-huila,colombia-huila,UNK
+Colombia,6976458,2,11,5222,http://en.wikipedia.org/wiki/Colombia_(cocktail),Colombia,colombia,colombia-cocktail,UNK
+Colombia,41935657,0,3,,http://en.wikipedia.org/wiki/Ms._Colombia,Ms. Colombia,ms-colombia,ms-colombia,PER
+Colombia,13604395,14,17,,"http://en.wikipedia.org/wiki/Colombia,_Cuba","Colombia, Cuba",colombia-cuba,colombia-cuba,GPE
+Colombia,11200119,13,14,,"http://en.wikipedia.org/wiki/Colombia,_Nuevo_León","Colombia, Nuevo León",colombia-nuevo-leon,colombia-nuevo-leon,GPE
+Colombia,3056298,13,17,5222,http://en.wikipedia.org/wiki/Colômbia,Colômbia,colombia,colombia,GPE
+Municipal Police,13989980,16,19,1313621,http://en.wikipedia.org/wiki/Municipal_police_(Spain),Municipal police,municipal-police,municipal-police-spain,UNK
+Municipal Police,22965114,6,13,1313621;22964779,http://en.wikipedia.org/wiki/Municipal_police_(Austria),Municipal police,municipal-police,municipal-police-austria,UNK
+Municipal Police,32161587,1,3,1313621,http://en.wikipedia.org/wiki/Municipal_police_(Serbia),Municipal police,municipal-police,municipal-police-serbia,UNK
+Municipal Police,22964779,35,38,22965114;1313621,http://en.wikipedia.org/wiki/Municipal_police_(Germany),Municipal police,municipal-police,municipal-police-germany,UNK
+Municipal Police,1313621,82,95,8837809;24517422;22965114;30476084;13989980;22964779;32161587;11485208;15194023,http://en.wikipedia.org/wiki/Municipal_police,Municipal police,municipal-police,municipal-police,UNK
+Municipal Police,15194023,34,34,1313621,http://en.wikipedia.org/wiki/Municipal_Police_(France),Municipal Police,municipal-police,municipal-police-france,UNK
+Municipal Police,8837809,8,9,1313621,http://en.wikipedia.org/wiki/Municipal_police_(Romania),Municipal police,municipal-police,municipal-police-romania,UNK
+Municipal Police,11485208,11,28,1313621,http://en.wikipedia.org/wiki/Municipal_police_(Italy),Municipal police,municipal-police,municipal-police-italy,UNK
+Municipal Police,30476084,109,40,1313621,http://en.wikipedia.org/wiki/Municipal_Police_(South_Africa),Municipal Police,municipal-police,municipal-police-south-africa,UNK
+Municipal Police,24517422,7,23,1313621,http://en.wikipedia.org/wiki/Municipal_police_(Switzerland),Municipal police,municipal-police,municipal-police-switzerland,UNK
+Reuters,18998750,9093,418,18998750;2171552,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Casa de Narino,9545709,37,108,5222;211271,http://en.wikipedia.org/wiki/Casa_de_Nariño,Casa de Nariño,casa-de-narino,casa-de-narino,UNK
+Bogota,211271,3477,357,488193;13064314;680175;5222;124974;9545709;5836;3299732;20810797,http://en.wikipedia.org/wiki/Bogotá,Bogotá,bogota,bogota,GPE
+Bogota,2428202,15,27,,"http://en.wikipedia.org/wiki/Bogota,_Tennessee","Bogota, Tennessee",bogota-tennessee,bogota-tennessee,UNK
+Bogota,20838657,24,36,,"http://en.wikipedia.org/wiki/Bogota,_Illinois","Bogota, Illinois",bogota-illinois,bogota-illinois,GPE
+Bogota,20810797,52,53,5222;680175;211271,http://en.wikipedia.org/wiki/Bogotá_F.C.,Bogotá F.C.,bogota-fc,bogota-fc,ORG
+Bogota,40721400,3,150,,"http://en.wikipedia.org/wiki/Bogota_(Port_Republic,_Virginia)",Bogota,bogota,bogota-port-republic-virginia,UNK
+Bogota,124974,145,224,211271;5222,"http://en.wikipedia.org/wiki/Bogota,_New_Jersey","Bogota, New Jersey",bogota-new-jersey,bogota-new-jersey,GPE
+Bogota,3299732,20,12,5222;211271,http://en.wikipedia.org/wiki/Bogotá_River,Bogotá River,bogota-river,bogota-river,UNK
+Bogota,30419701,5,11,,http://en.wikipedia.org/wiki/Bogotá_Province,Bogotá Province,bogota-province,bogota-province,UNK

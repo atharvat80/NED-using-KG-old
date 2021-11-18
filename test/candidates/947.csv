@@ -1,0 +1,340 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+LEICESTERSHIRE,1622318,1870,198,61153;1732971;1829984;1177719;9316;28466415;2518836;869945;667292;667341;759125;2641188;1622178;2807425;1622252;1156428;4689264;766575;3379941,http://en.wikipedia.org/wiki/Leicestershire_County_Cricket_Club,Leicestershire County Cricket Club,leicestershire-county-cricket-club,leicestershire-county-cricket-club,UNK
+LEICESTERSHIRE,61153,3259,286,61153;16766;149139;9316;36637;71070;51763;33778;34555010;383648;12249;48189;68049;1622178;1622252;1622318;40100758,http://en.wikipedia.org/wiki/Leicestershire,Leicestershire,leicestershire,leicestershire,UNK
+LONDON,17867,92094,1769,1897;33567266;27902154;423106;9904;9316;570090;12249;1679120;691024;823473;17867;16766;22267479;13190957;407950;1290035;48189;1177719;6020679;187448;3879356;2023355;13249944;766575;911650;6912156;2313050;40100758;896396;4689264;16191585;22437586;383648;98370;238524;387687;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,423106,380,196,570090;3943897;17867;12249;22267479;16766;40100758;48189;569392;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,27648871,110,284,16846;18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,326248,1048,124,,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,264093,1797,198,3458019;1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,2193334,214,159,40100758;2193348;9316;1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,1113158,173,161,2193334;9316;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,508567,484,369,823473;187448;48189,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,823473,354,150,187448;17867;508567;16766;9316,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,2023355,27,32,17867;98370;9316,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,98370,828,279,17867;1679120;12249;2023355;48189;423106;387687,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,7984054,3,37,,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,13190957,2,122,17867,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,12249,3253,543,2193334;17867;61153;16766;149139;9316;71070;51763;33778;640154;383648;118409;1113158;1679120;48189;68049;98370;2313050;458715;40100758;4689264;766575;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,118409,547,127,17867;12249;458715;16766;40100758;9316;48189,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,238524,118,60,407950;17867;9316,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,640154,265,252,40100758;187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,187448,1900,216,823473;17867;508567;51763;640154,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+LONDON,1679120,12,181,17867;40100758;98370;12249,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+West Indian,3379941,2321,395,1876060;1732971;1829984;28466415;2518836;429303;682925;759125;2641188;896396;1622318;387687,http://en.wikipedia.org/wiki/West_Indies_cricket_team,West Indies cricket team,west-indies-cricket-team,west-indies-cricket-team,UNK
+West Indian,429303,273,24,40797638;4689264;30665895;3379941,http://en.wikipedia.org/wiki/West_Indian,West Indian,west-indian,west-indian,PER
+West Indian,30665895,11,16,429303,http://en.wikipedia.org/wiki/The_West_Indian,The West Indian,the-west-indian,the-west-indian,UNK
+Phil Simmons,2518836,163,138,1622318;3379941,http://en.wikipedia.org/wiki/Phil_Simmons,Phil Simmons,phil-simmons,phil-simmons,UNK
+Leicestershire,1622318,1870,198,61153;1732971;1829984;1177719;9316;28466415;2518836;869945;667292;667341;759125;2641188;1622178;2807425;1622252;1156428;4689264;766575;3379941,http://en.wikipedia.org/wiki/Leicestershire_County_Cricket_Club,Leicestershire County Cricket Club,leicestershire-county-cricket-club,leicestershire-county-cricket-club,UNK
+Leicestershire,61153,3259,286,61153;16766;149139;9316;36637;71070;51763;33778;34555010;383648;12249;48189;68049;1622178;1622252;1622318;40100758,http://en.wikipedia.org/wiki/Leicestershire,Leicestershire,leicestershire,leicestershire,UNK
+Somerset,1622178,2137,220,61153;1829984;1177719;51763;869945;667292;667341;759125;896396;1622252;1622318;1156428;766575;387687,http://en.wikipedia.org/wiki/Somerset_County_Cricket_Club,Somerset County Cricket Club,somerset-county-cricket-club,somerset-county-cricket-club,UNK
+Somerset,4473821,0,2,701676,http://en.wikipedia.org/wiki/Somerset_Island,Somerset Island,somerset-island,somerset-island,GPE
+Somerset,20638079,38,33,,"http://en.wikipedia.org/wiki/Somerset,_Virginia","Somerset, Virginia",somerset-virginia,somerset-virginia,GPE
+Somerset,835748,19,25,4689264;8543618,"http://en.wikipedia.org/wiki/Somerset,_Tasmania","Somerset, Tasmania",somerset-tasmania,somerset-tasmania,UNK
+Somerset,51763,6190,562,61153;16766;149139;9316;36637;71070;51763;570090;33778;25205320;383648;12249;187448;48189;68049;969337;53485;1622178;40100758,http://en.wikipedia.org/wiki/Somerset,Somerset,somerset,somerset,UNK
+Somerset,39790657,1,81,,http://en.wikipedia.org/wiki/Somerset_Hotel,Somerset Hotel,somerset-hotel,somerset-hotel,UNK
+Somerset,21819698,1,3,,"http://en.wikipedia.org/wiki/Somerset,_Nova_Scotia","Somerset, Nova Scotia",somerset-nova-scotia,somerset-nova-scotia,UNK
+Somerset,1716337,33,32,4066644,http://en.wikipedia.org/wiki/USS_Somerset_(LPD-25),USS Somerset,uss-somerset,uss-somerset-lpd-25,UNK
+Somerset,12588291,196,167,4689264;12588291;3009589,http://en.wikipedia.org/wiki/Somerset_Region,Somerset Region,somerset-region,somerset-region,UNK
+Somerset,21819771,2,8,21819692,"http://en.wikipedia.org/wiki/Somerset,_Lunenburg_County,_Nova_Scotia","Somerset, Lunenburg County, Nova Scotia",somerset-lunenburg-county-nova-scotia,somerset-lunenburg-county-nova-scotia,GPE
+Somerset,18746473,0,1,,"http://en.wikipedia.org/wiki/Somerset,_KY_µSA","Somerset, KY µSA",somerset-ky-µsa,somerset-ky-µsa,PER
+Somerset,701676,495,472,4473821,http://en.wikipedia.org/wiki/Somerset_Island_(Nunavut),Somerset Island,somerset-island,somerset-island-nunavut,UNK
+Somerset,17508800,13,19,,"http://en.wikipedia.org/wiki/Somerset,_North_Carolina","Somerset, North Carolina",somerset-north-carolina,somerset-north-carolina,GPE
+Somerset,36206793,57,67,,"http://en.wikipedia.org/wiki/Somerset,_Mpumalanga","Somerset, Mpumalanga",somerset-mpumalanga,somerset-mpumalanga,UNK
+Somerset,10280426,1,1,,"http://en.wikipedia.org/wiki/Somerset,_PA_μSA","Somerset, PA μSA",somerset-pa-μsa,somerset-pa-μsa,PER
+Somerset,21819692,6,8,21819771,"http://en.wikipedia.org/wiki/Somerset,_Kings_County,_Nova_Scotia","Somerset, Kings County, Nova Scotia",somerset-kings-county-nova-scotia,somerset-kings-county-nova-scotia,GPE
+Somerset,3252279,2,3,,http://en.wikipedia.org/wiki/Somerset_Hospital_(Pennsylvania),Somerset Hospital,somerset-hospital,somerset-hospital-pennsylvania,UNK
+Somerset,12261707,8,25,12261716,http://en.wikipedia.org/wiki/Somerset_Airport_(New_Jersey),Somerset Airport,somerset-airport,somerset-airport-new-jersey,UNK
+Somerset,1878692,47,53,,http://en.wikipedia.org/wiki/Somerset–Bridlewood_(C-Train),Somerset–Bridlewood,somerset–bridlewood,somerset–bridlewood-c-train,UNK
+Somerset,4084258,15,6,5204925,http://en.wikipedia.org/wiki/Somerset_Club,Somerset Club,somerset-club,somerset-club,ORG
+Somerset,17892691,1,7,,"http://en.wikipedia.org/wiki/Somerset_Park_(Omaha,_Nebraska)",Somerset Park,somerset-park,somerset-park-omaha-nebraska,UNK
+Somerset,570090,87,131,423106;51763;17867;3943897;569392;22267479,http://en.wikipedia.org/wiki/BBC_Somerset,BBC Somerset,bbc-somerset,bbc-somerset,UNK
+Somerset,40565153,2,146,,"http://en.wikipedia.org/wiki/Somerset_(Powhatan,_Virginia)",Somerset,somerset,somerset-powhatan-virginia,UNK
+Somerset,23909131,88,95,,"http://en.wikipedia.org/wiki/Somerset_(hamlet),_New_York","Somerset (hamlet), New York",somerset-hamlet-new-york,somerset-hamlet-new-york,GPE
+Somerset,6690785,429,104,,"http://en.wikipedia.org/wiki/Somerset,_Manitoba","Somerset, Manitoba",somerset-manitoba,somerset-manitoba,UNK
+Somerset,12261716,0,3,12261707,http://en.wikipedia.org/wiki/Somerset_Airport,Somerset Airport,somerset-airport,somerset-airport,UNK
+Somerset,5018652,11,8,4689264;3009589;5018652,"http://en.wikipedia.org/wiki/Somerset,_Queensland","Somerset, Queensland",somerset-queensland,somerset-queensland,UNK
+Somerset,589980,11,27,,http://en.wikipedia.org/wiki/Somerset_Railroad_(New_York),Somerset Railroad,somerset-railroad,somerset-railroad-new-york,UNK
+Somerset,10283237,1,1,,"http://en.wikipedia.org/wiki/Somerset,_KY_μSA","Somerset, KY μSA",somerset-ky-μsa,somerset-ky-μsa,PER
+Somerset,22732355,234,243,,"http://en.wikipedia.org/wiki/Somerset,_California","Somerset, California",somerset-california,somerset-california,GPE
+Somerset,5337560,334,188,9316,http://en.wikipedia.org/wiki/Somerset_Park,Somerset Park,somerset-park,somerset-park,UNK
+Somerset,1333214,0,7,,http://en.wikipedia.org/wiki/Somerset_Township,Somerset Township,somerset-township,somerset-township,GPE
+Somerset,53485,1,6,27285654;51763,http://en.wikipedia.org/wiki/Somerset_County,Somerset County,somerset-county,somerset-county,UNK
+Somerset,8262931,16,26,4066644,http://en.wikipedia.org/wiki/USS_Somerset_(1862),USS Somerset,uss-somerset,uss-somerset-1862,UNK
+Somerset,27285654,57,64,53485,http://en.wikipedia.org/wiki/Somerset_Railroad_(Maine),Somerset Railroad,somerset-railroad,somerset-railroad-maine,UNK
+Somerset,7319651,5,8,,http://en.wikipedia.org/wiki/Somerset_Mall_(South_Africa),Somerset Mall,somerset-mall,somerset-mall-south-africa,UNK
+Somerset,18746475,0,1,,"http://en.wikipedia.org/wiki/Somerset,_PA_µSA","Somerset, PA µSA",somerset-pa-µsa,somerset-pa-µsa,PER
+Somerset,137441,51,57,,"http://en.wikipedia.org/wiki/Somerset,_Vermont","Somerset, Vermont",somerset-vermont,somerset-vermont,GPE
+Somerset,33277439,37,53,,"http://en.wikipedia.org/wiki/Somerset,_Illinois","Somerset, Illinois",somerset-illinois,somerset-illinois,GPE
+Somerset,4346816,0,2,,http://en.wikipedia.org/wiki/Arthur_Somerset,Arthur Somerset,arthur-somerset,arthur-somerset,PER
+Somerset,8543618,41,66,835748,http://en.wikipedia.org/wiki/Somerset_FC,Somerset FC,somerset-fc,somerset-fc,UNK
+Somerset,4066644,5,4,1716337;8262931,http://en.wikipedia.org/wiki/USS_Somerset,USS Somerset,uss-somerset,uss-somerset,UNK
+Somerset,260702,66,72,,"http://en.wikipedia.org/wiki/Somerset_(town),_Wisconsin","Somerset (town), Wisconsin",somerset-town-wisconsin,somerset-town-wisconsin,GPE
+Somerset,3009589,15,27,1495;12588291;5018652,http://en.wikipedia.org/wiki/Lake_Somerset,Lake Somerset,lake-somerset,lake-somerset,UNK
+Somerset,1138810,100,95,706858,http://en.wikipedia.org/wiki/Somerset_Street,Somerset Street,somerset-street,somerset-street,UNK
+Somerset,5427588,0,3,,http://en.wikipedia.org/wiki/Edward_Somerset,Edward Somerset,edward-somerset,edward-somerset,PER
+Somerset,25205320,101,161,51763,http://en.wikipedia.org/wiki/Geography_of_Somerset,Geography of Somerset,geography-of-somerset,geography-of-somerset,PER
+Essex,1622252,1889,194,61153;1829984;1177719;9316;869945;667292;667341;682925;759125;1622178;2807425;1622318;1156428;40100758;4689264;766575,http://en.wikipedia.org/wiki/Essex_County_Cricket_Club,Essex County Cricket Club,essex-county-cricket-club,essex-county-cricket-club,UNK
+Essex,9517421,51,63,14958370;111388;12314484,"http://en.wikipedia.org/wiki/Essex_Township,_Kankakee_County,_Illinois","Essex Township, Kankakee County, Illinois",essex-township-kankakee-county-illinois,essex-township-kankakee-county-illinois,UNK
+Essex,116343,322,115,,"http://en.wikipedia.org/wiki/Essex,_Maryland","Essex, Maryland",essex-maryland,essex-maryland,GPE
+Essex,233774,159,232,40100758,"http://en.wikipedia.org/wiki/Essex,_Massachusetts","Essex, Massachusetts",essex-massachusetts,essex-massachusetts,GPE
+Essex,12314484,0,2,9517421;10212647,"http://en.wikipedia.org/wiki/Essex_Township,_Illinois","Essex Township, Illinois",essex-township-illinois,essex-township-illinois,UNK
+Essex,730547,137,71,3458019;1779535,"http://en.wikipedia.org/wiki/Essex,_Ontario","Essex, Ontario",essex-ontario,essex-ontario,GPE
+Essex,914931,40,117,214886,http://en.wikipedia.org/wiki/Essex_(whaleship),Essex,essex,essex-whaleship,UNK
+Essex,971727,49,65,971727,http://en.wikipedia.org/wiki/Ford_Essex_V6_engine_(Canadian),Ford Essex V6 engine,ford-essex-v6-engine,ford-essex-v6-engine-canadian,UNK
+Essex,2887944,167,161,,"http://en.wikipedia.org/wiki/Essex,_San_Bernardino_County,_California","Essex, San Bernardino County, California",essex-san-bernardino-county-california,essex-san-bernardino-county-california,GPE
+Essex,583862,11,107,214886,http://en.wikipedia.org/wiki/USS_Essex_(1874),USS Essex,uss-essex,uss-essex-1874,UNK
+Essex,214891,181,139,214886,http://en.wikipedia.org/wiki/USS_Essex_(CV-9),USS Essex,uss-essex,uss-essex-cv-9,UNK
+Essex,296785,81,64,214886,http://en.wikipedia.org/wiki/USS_Essex_(1856),USS Essex,uss-essex,uss-essex-1856,UNK
+Essex,111388,53,60,9517421,"http://en.wikipedia.org/wiki/Essex,_Illinois","Essex, Illinois",essex-illinois,essex-illinois,GPE
+Essex,24598810,47,65,,"http://en.wikipedia.org/wiki/Essex,_Ohio","Essex, Ohio",essex-ohio,essex-ohio,GPE
+Essex,22802800,7,8,,"http://en.wikipedia.org/wiki/Essex,_Humboldt_County,_California","Essex, Humboldt County, California",essex-humboldt-county-california,essex-humboldt-county-california,UNK
+Essex,10820754,24,14,,http://en.wikipedia.org/wiki/Essex_Records,Essex Records,essex-records,essex-records,UNK
+Essex,3924820,8,14,2056813,"http://en.wikipedia.org/wiki/Essex_Bridge,_Staffordshire","Essex Bridge, Staffordshire",essex-bridge-staffordshire,essex-bridge-staffordshire,UNK
+Essex,14958370,0,3,9517421;10212647,http://en.wikipedia.org/wiki/Essex_Township,Essex Township,essex-township,essex-township,GPE
+Essex,545605,2,10,40100758,http://en.wikipedia.org/wiki/Essex_County,Essex County,essex-county,essex-county,UNK
+Essex,11999220,173,178,11999220,http://en.wikipedia.org/wiki/Essex_Street,Essex Street,essex-street,essex-street,UNK
+Essex,108777,121,152,108778,"http://en.wikipedia.org/wiki/Essex,_Connecticut","Essex, Connecticut",essex-connecticut,essex-connecticut,GPE
+Essex,23853522,26,48,,"http://en.wikipedia.org/wiki/Essex,_Mississippi","Essex, Mississippi",essex-mississippi,essex-mississippi,GPE
+Essex,108778,31,95,108777,http://en.wikipedia.org/wiki/Essex_Village,Essex Village,essex-village,essex-village,GPE
+Essex,10212647,25,283,14958370;12314484,"http://en.wikipedia.org/wiki/Essex_Township,_Stark_County,_Illinois","Essex Township, Stark County, Illinois",essex-township-stark-county-illinois,essex-township-stark-county-illinois,UNK
+Essex,9919186,0,7,,http://en.wikipedia.org/wiki/Essex_pig,Essex pig,essex-pig,essex-pig,UNK
+Essex,2056813,0,2,3924820,http://en.wikipedia.org/wiki/Essex_Bridge,Essex Bridge,essex-bridge,essex-bridge,GPE
+Essex,22497038,7,13,,http://en.wikipedia.org/wiki/Essex_Railroad,Essex Railroad,essex-railroad,essex-railroad,UNK
+Essex,569392,88,129,423106;570090;40100758;9316;3943897;22267479,http://en.wikipedia.org/wiki/BBC_Essex,BBC Essex,bbc-essex,bbc-essex,UNK
+Essex,29768686,7,24,519104;214886,http://en.wikipedia.org/wiki/Essex_Junior,Essex Junior,essex-junior,essex-junior,UNK
+Essex,583842,69,69,214886,http://en.wikipedia.org/wiki/USS_Essex_(LHD-2),USS Essex,uss-essex,uss-essex-lhd-2,UNK
+Essex,1779535,185,192,730547,http://en.wikipedia.org/wiki/Essex_(electoral_district),Essex,essex,essex-electoral-district,UNK
+Essex,32573151,3,13,,http://en.wikipedia.org/wiki/Essex_Hospital,Essex Hospital,essex-hospital,essex-hospital,UNK
+Essex,40100758,7718,361,17867;16766;545605;36637;71070;51763;25900129;33778;640154;383648;118409;407950;68049;423106;2193334;2193348;61153;149139;9316;569392;12249;233774;1679120;48189;1622252;40100758,http://en.wikipedia.org/wiki/Essex,Essex,essex,essex,UNK
+Essex,2193348,98,139,2193334;40100758;9316,http://en.wikipedia.org/wiki/First_Essex,First Essex,first-essex,first-essex,UNK
+Essex,5644801,28,43,,http://en.wikipedia.org/wiki/The_Essex,The Essex,the-essex,the-essex,PER
+Essex,214886,11,12,214891;296785;29768686;583862;519104;914931;583842,http://en.wikipedia.org/wiki/USS_Essex,USS Essex,uss-essex,uss-essex,UNK
+Essex,25860389,33,11,,http://en.wikipedia.org/wiki/Essex_Institute,Essex Institute,essex-institute,essex-institute,UNK
+Essex,519104,80,68,29768686;214886,http://en.wikipedia.org/wiki/USS_Essex_(1799),USS Essex,uss-essex,uss-essex-1799,UNK
+Essex,19768781,11,40,,"http://en.wikipedia.org/wiki/Essex,_Montana","Essex, Montana",essex-montana,essex-montana,UNK
+Essex,3458019,3,92,730547;264093,http://en.wikipedia.org/wiki/Essex_Airport,Essex Airport,essex-airport,essex-airport,UNK
+Derbyshire,1829984,2034,178,1933990;1177719;9316;48189;71070;3741478;869945;667292;2654998;667341;759125;1622178;1622252;1622318;1156428;766575;3379941,http://en.wikipedia.org/wiki/Derbyshire_County_Cricket_Club,Derbyshire County Cricket Club,derbyshire-county-cricket-club,derbyshire-county-cricket-club,UNK
+Derbyshire,71070,4506,439,61153;1829984;16766;149139;9316;36637;71070;51763;869945;33778;34555010;383648;12249;6020679;11517386;48189;68049;40100758,http://en.wikipedia.org/wiki/Derbyshire,Derbyshire,derbyshire,derbyshire,UNK
+Derbyshire,1181718,27,30,,http://en.wikipedia.org/wiki/MV_Derbyshire,MV Derbyshire,mv-derbyshire,mv-derbyshire,UNK
+Derbyshire,34555010,4,7,71070;61153,"http://en.wikipedia.org/wiki/Derbyshire,_Leicestershire_&_Rutland_Air_Ambulance","Derbyshire, Leicestershire & Rutland Air Ambulance",derbyshire-leicestershire-rutland-air-ambulance,derbyshire-leicestershire-rutland-air-ambulance,UNK
+Surrey,766575,2362,294,1933990;17867;1732971;1829984;1177719;9316;48189;869945;667292;667341;759125;1622178;896385;896396;1622252;1622318;1156428;12249;458715;4689264;387687,http://en.wikipedia.org/wiki/Surrey_County_Cricket_Club,Surrey County Cricket Club,surrey-county-cricket-club,surrey-county-cricket-club,UNK
+Surrey,26297631,3,52,48189;9316,http://en.wikipedia.org/wiki/Surrey_Opera,Surrey Opera,surrey-opera,surrey-opera,UNK
+Surrey,2645902,26,55,28443506,"http://en.wikipedia.org/wiki/Surrey_County,_Jamaica","Surrey County, Jamaica",surrey-county-jamaica,surrey-county-jamaica,UNK
+Surrey,6912156,70,28,17867,http://en.wikipedia.org/wiki/Surrey_Theatre,Surrey Theatre,surrey-theatre,surrey-theatre,UNK
+Surrey,48189,7835,791,17867;16766;36637;71070;51763;174228;869945;22267479;33778;383648;118409;13985121;68049;98370;28443506;766575;423106;61153;167774;1829984;149139;9316;26297631;128855;12249;508567;48189;40100758;387687,http://en.wikipedia.org/wiki/Surrey,Surrey,surrey,surrey,UNK
+Surrey,117334,29,40,,"http://en.wikipedia.org/wiki/Surrey_Township,_Michigan","Surrey Township, Michigan",surrey-township-michigan,surrey-township-michigan,GPE
+Surrey,174228,812,303,48189,"http://en.wikipedia.org/wiki/Surrey,_British_Columbia","Surrey, British Columbia",surrey-british-columbia,surrey-british-columbia,GPE
+Surrey,22267479,76,91,423106;17867;570090;9316;48189;167774;3943897;569392,http://en.wikipedia.org/wiki/BBC_Surrey,BBC Surrey,bbc-surrey,bbc-surrey,UNK
+Surrey,3594626,49,85,,http://en.wikipedia.org/wiki/Surrey_(electoral_district),Surrey,surrey,surrey-electoral-district,UNK
+Surrey,167774,826,448,22267479;167774;691024;48189,http://en.wikipedia.org/wiki/University_of_Surrey,University of Surrey,university-of-surrey,university-of-surrey,ORG
+Surrey,22901918,113,130,,"http://en.wikipedia.org/wiki/Surrey_Park,_Delaware","Surrey Park, Delaware",surrey-park-delaware,surrey-park-delaware,UNK
+Surrey,13985121,19,7,48189,http://en.wikipedia.org/wiki/Surrey_(carriage),Surrey,surrey,surrey-carriage,UNK
+Surrey,28443506,0,2,2645902;48189,http://en.wikipedia.org/wiki/Surrey_County,Surrey County,surrey-county,surrey-county,UNK
+Surrey,128855,36,185,48189,"http://en.wikipedia.org/wiki/Surrey,_North_Dakota","Surrey, North Dakota",surrey-north-dakota,surrey-north-dakota,GPE
+Kent,1177719,2232,168,17867;1829984;16766;9316;3741478;869945;667292;667341;759125;1622178;896396;1622252;1622318;1156428;766575,http://en.wikipedia.org/wiki/Kent_County_Cricket_Club,Kent County Cricket Club,kent-county-cricket-club,kent-county-cricket-club,UNK
+Kent,39591594,11,27,39591487,"http://en.wikipedia.org/wiki/Kent,_Pike_County,_Alabama","Kent, Pike County, Alabama",kent-pike-county-alabama,kent-pike-county-alabama,GPE
+Kent,39591487,1,2,39591531;39591594,"http://en.wikipedia.org/wiki/Kent,_Alabama","Kent, Alabama",kent-alabama,kent-alabama,UNK
+Kent,19253475,59,70,,http://en.wikipedia.org/wiki/Kent_Opera,Kent Opera,kent-opera,kent-opera,UNK
+Kent,1786955,74,55,,http://en.wikipedia.org/wiki/Kent_(New_Brunswick_electoral_district),Kent,kent,kent-new-brunswick-electoral-district,PER
+Kent,2087477,31,31,,"http://en.wikipedia.org/wiki/Kent,_Texas","Kent, Texas",kent-texas,kent-texas,GPE
+Kent,6275477,29,34,,"http://en.wikipedia.org/wiki/Kent,_Florida","Kent, Florida",kent-florida,kent-florida,GPE
+Kent,706858,94,91,1138810,http://en.wikipedia.org/wiki/Kent_Street_(Ottawa),Kent Street,kent-street,kent-street-ottawa,UNK
+Kent,6535638,2,8,,http://en.wikipedia.org/wiki/Kent_Hotel,Kent Hotel,kent-hotel,kent-hotel,UNK
+Kent,16191585,8,22,39149230;17867,http://en.wikipedia.org/wiki/Kent_(1820),Kent,kent,kent-1820,UNK
+Kent,1259006,69,32,9316,http://en.wikipedia.org/wiki/River_Kent,River Kent,river-kent,river-kent,UNK
+Kent,17860561,6,8,,http://en.wikipedia.org/wiki/Kent_Hospital,Kent Hospital,kent-hospital,kent-hospital,UNK
+Kent,61302,268,108,61302,http://en.wikipedia.org/wiki/Kent_(band),Kent,kent,kent-band,UNK
+Kent,22554305,50,59,,"http://en.wikipedia.org/wiki/Kent,_California","Kent, California",kent-california,kent-california,UNK
+Kent,1365745,45,7,,http://en.wikipedia.org/wiki/Kent_Records,Kent Records,kent-records,kent-records,UNK
+Kent,3015678,83,124,,http://en.wikipedia.org/wiki/Kent_(cigarette),Kent,kent,kent-cigarette,UNK
+Kent,101797,49,47,4689264,http://en.wikipedia.org/wiki/Kent_Group,Kent Group,kent-group,kent-group,UNK
+Kent,6077334,10,21,12803897,http://en.wikipedia.org/wiki/Don_Kent_(meteorologist),Don Kent,don-kent,don-kent-meteorologist,PER
+Kent,530273,86,96,,http://en.wikipedia.org/wiki/Edward_Kent,Edward Kent,edward-kent,edward-kent,PER
+Kent,5165128,3,14,,http://en.wikipedia.org/wiki/Kent_Island_(Queensland),Kent Island,kent-island,kent-island-queensland,UNK
+Kent,11203844,66,48,16766,http://en.wikipedia.org/wiki/Geography_of_Kent,Geography of Kent,geography-of-kent,geography-of-kent,GPE
+Kent,29204270,0,10,,http://en.wikipedia.org/wiki/Kent_International,Kent International,kent-international,kent-international,UNK
+Kent,18637318,17,24,,"http://en.wikipedia.org/wiki/Kent,_Oregon","Kent, Oregon",kent-oregon,kent-oregon,GPE
+Kent,1787316,93,71,,http://en.wikipedia.org/wiki/Kent_(Ontario_electoral_district),Kent,kent,kent-ontario-electoral-district,PER
+Kent,41306647,1,12,,"http://en.wikipedia.org/wiki/Kent,_Cruise_&_Aldrich","Kent, Cruise & Aldrich",kent-cruise-aldrich,kent-cruise-aldrich,UNK
+Kent,16846,16180,1063,16846;27926611;27648871,http://en.wikipedia.org/wiki/Kentucky,Kentucky,kentucky,kentucky,UNK
+Kent,39591531,22,40,39591487,"http://en.wikipedia.org/wiki/Kent,_Elmore_County,_Alabama","Kent, Elmore County, Alabama",kent-elmore-county-alabama,kent-elmore-county-alabama,GPE
+Kent,16766,10079,390,823473;17867;1177719;11203844;16766;36637;71070;51763;33778;383648;118409;541221;68049;423106;61153;149139;9316;12249;48189;2313050;40100758,http://en.wikipedia.org/wiki/Kent,Kent,kent,kent,UNK
+Kent,36281601,52,64,,"http://en.wikipedia.org/wiki/Kent,_Marshall_County,_West_Virginia","Kent, Marshall County, West Virginia",kent-marshall-county-west-virginia,kent-marshall-county-west-virginia,GPE
+Kent,31862866,0,4,,http://en.wikipedia.org/wiki/Kent_Systems,Kent Systems,kent-systems,kent-systems,UNK
+Kent,2510379,64,69,,http://en.wikipedia.org/wiki/Kent_Station_(OC_Transpo),Kent Station,kent-station,kent-station-oc-transpo,UNK
+Kent,541221,1,11,16766,http://en.wikipedia.org/wiki/Kent_County,Kent County,kent-county,kent-county,UNK
+Kent,40797638,2,16,429303,"http://en.wikipedia.org/wiki/Kent,_Sierra_Leone","Kent, Sierra Leone",kent-sierra-leone,kent-sierra-leone,GPE
+Kent,13303328,9,14,,http://en.wikipedia.org/wiki/Kent_Lake,Kent Lake,kent-lake,kent-lake,UNK
+Kent,13303208,43,57,,http://en.wikipedia.org/wiki/Kent_Island_(California),Kent Island,kent-island,kent-island-california,UNK
+Kent,19032601,175,172,,http://en.wikipedia.org/wiki/Kent_Peninsula,Kent Peninsula,kent-peninsula,kent-peninsula,UNK
+Kent,12433062,52,63,,"http://en.wikipedia.org/wiki/Kent,_Illinois","Kent, Illinois",kent-illinois,kent-illinois,GPE
+Kent,39151536,9,15,39149230,http://en.wikipedia.org/wiki/Kent_(1799),Kent,kent,kent-1799,UNK
+Kent,8547398,139,112,,"http://en.wikipedia.org/wiki/Kent,_Washington,_D.C.","Kent, Washington, D.C.",kent-washington-dc,kent-washington-dc,UNK
+Kent,4411364,76,59,,http://en.wikipedia.org/wiki/Kent_(mango),Kent,kent,kent-mango,UNK
+Kent,21770728,165,178,4689264,http://en.wikipedia.org/wiki/Kent_River,Kent River,kent-river,kent-river,UNK
+Kent,12803897,0,3,6077334;7219379,http://en.wikipedia.org/wiki/Don_Kent,Don Kent,don-kent,don-kent,PER
+Kent,33527644,6,8,,"http://en.wikipedia.org/wiki/Kent,_the_Fighting_Man","Kent, the Fighting Man",kent-the-fighting-man,kent-the-fighting-man,UNK
+Kent,7219379,6,23,12803897,http://en.wikipedia.org/wiki/Don_Kent_(blues_historian),Don Kent,don-kent,don-kent-blues-historian,PER
+Kent,14268191,12,9,,http://en.wikipedia.org/wiki/Mount_Kent,Mount Kent,mount-kent,mount-kent,UNK
+Kent,39149230,2,6,16191585;39151536,http://en.wikipedia.org/wiki/Kent_(East_Indiaman),Kent,kent,kent-east-indiaman,UNK
+Nottinghamshire,667341,1975,158,1876060;1732971;1829984;1177719;869945;667292;6459613;68049;759125;1622178;2807425;896396;1622252;1622318;1156428;766575,http://en.wikipedia.org/wiki/Nottinghamshire_County_Cricket_Club,Nottinghamshire County Cricket Club,nottinghamshire-county-cricket-club,nottinghamshire-county-cricket-club,UNK
+Nottinghamshire,68049,3485,232,61153;16766;149139;9316;36637;71070;51763;33778;383648;12249;48189;667341;68049;40100758,http://en.wikipedia.org/wiki/Nottinghamshire,Nottinghamshire,nottinghamshire,nottinghamshire,UNK
+Grace Road,2641188,222,15,9316;1622318;387687;3379941,http://en.wikipedia.org/wiki/Grace_Road,Grace Road,grace-road,grace-road,UNK
+England,759125,3045,583,1933990;1732971;9904;1829984;1177719;9316;869945;896385;896396;3379941;1876060;691024;3741478;667292;667341;682925;2313050;1622178;1622252;1622318;1156428;4689264;766575;387687,http://en.wikipedia.org/wiki/England_cricket_team,England cricket team,england-cricket-team,england-cricket-team,UNK
+England,6020679,0,42,17867;9316;36637;71070,http://en.wikipedia.org/wiki/England_(British_postage_stamps),England,england,england-british-postage-stamps,UNK
+England,286698,28,66,9316,"http://en.wikipedia.org/wiki/England,_Half-English","England, Half-English",england-half-english,england-half-english,UNK
+England,1959391,13,20,,"http://en.wikipedia.org/wiki/England,_Their_England","England, Their England",england-their-england,england-their-england,UNK
+England,2313050,249,428,9904;17867;12249;16766;407950;691024;9316;2313050;759125;969337,http://en.wikipedia.org/wiki/Geography_of_England,Geography of England,geography-of-england,geography-of-england,UNK
+England,71290,22,46,71290,"http://en.wikipedia.org/wiki/England,_England","England, England",england-england,england-england,UNK
+England,2539441,50,55,,"http://en.wikipedia.org/wiki/England,_Arkansas","England, Arkansas",england-arkansas,england-arkansas,GPE
+England,29406796,3,11,,http://en.wikipedia.org/wiki/Mount_England,Mount England,mount-england,mount-england,UNK
+England,8008415,23,37,1739788;4684902,http://en.wikipedia.org/wiki/USS_England_(DLG-22),USS England,uss-england,uss-england-dlg-22,UNK
+England,969337,393,514,2313050;383648;407950;9316;36637;51763,http://en.wikipedia.org/wiki/England_in_the_Middle_Ages,England in the Middle Ages,england-in-the-middle-ages,england-in-the-middle-ages,UNK
+England,9316,158848,1726,1897;286698;11517386;9904;9316;569392;2807425;12249;823473;17867;16766;22267479;6459613;36637;25900129;33778;48189;5337560;1177719;51763;61153;1659673;71070;68049;2313050;40100758;896396;1622252;1622318;869945;383648;31728686;387687;361299;118409;1113158;2332897;13713924;1259006;691024;11803289;969337;407950;1829984;149139;7434625;667292;2641188;458715;437832;6020679;682925;2023355;766575;2193334;2193348;3410632;759125;26297631;4689264;735553;238524;26591357;42130745;1732971,http://en.wikipedia.org/wiki/England,England,england,england,GPE
+England,691024,3595,744,17867;167774;9904;9316;2313050;759125;4689264;387687,http://en.wikipedia.org/wiki/England_national_rugby_union_team,England national rugby union team,england-national-rugby-union-team,england-national-rugby-union-team,UNK
+England,2825496,25,261,,http://en.wikipedia.org/wiki/Edward_England,Edward England,edward-england,edward-england,PER
+England,40427896,3,17,,http://en.wikipedia.org/wiki/England_(band),England,england,england-band,UNK
+England,407950,3926,354,17867;9316;36637;33778;407950;2313050;969337;40100758;238524,http://en.wikipedia.org/wiki/Kingdom_of_England,Kingdom of England,kingdom-of-england,kingdom-of-england,GPE
+England,27926611,24,45,16846,"http://en.wikipedia.org/wiki/England_Hill,_Kentucky","England Hill, Kentucky",england-hill-kentucky,england-hill-kentucky,GPE
+England,29113191,14,40,,"http://en.wikipedia.org/wiki/England,_My_England","England, My England",england-my-england,england-my-england,UNK
+England,11803289,759,375,9904;9316,http://en.wikipedia.org/wiki/England_national_under-19_football_team,England national under-19 football team,england-national-under-19-football-team,england-national-under-19-football-team,UNK
+England,39916947,3,147,,"http://en.wikipedia.org/wiki/Little_England_(Gloucester,_Virginia)",Little England,little-england,little-england-gloucester-virginia,UNK
+England,1739788,4,5,4684902;8008415,http://en.wikipedia.org/wiki/USS_England,USS England,uss-england,uss-england,UNK
+England,9904,10143,731,17867;9904;9316;691024;11803289;2313050;759125;387687,http://en.wikipedia.org/wiki/England_national_football_team,England national football team,england-national-football-team,england-national-football-team,UNK
+England,3646972,38,39,,"http://en.wikipedia.org/wiki/England,_My_England_and_Other_Stories","England, My England and Other Stories",england-my-england-and-other-stories,england-my-england-and-other-stories,ORG
+England,4684902,174,226,8008415;1739788;4689264,http://en.wikipedia.org/wiki/USS_England_(DE-635),USS England,uss-england,uss-england-de-635,UNK
+Andy Caddick,896396,90,98,1177719;17867;387687;1156428;9316;682925;667292;4689264;759125;766575;1622178;1876060;667341;3379941,http://en.wikipedia.org/wiki/Andrew_Caddick,Andrew Caddick,andrew-caddick,andrew-caddick,UNK
+Simmons,2518836,163,138,1622318;3379941,http://en.wikipedia.org/wiki/Phil_Simmons,Phil Simmons,phil-simmons,phil-simmons,UNK
+Nasser Hussain,682925,255,175,2332897;9316;4689264;896385;896396;1622252;759125;3379941,http://en.wikipedia.org/wiki/Nasser_Hussain,Nasser Hussain,nasser-hussain,nasser-hussain,PER
+Nasser Hussain,2332897,5,14,9316;682925,http://en.wikipedia.org/wiki/Nasser_Hussain_(rugby_union),Nasser Hussain,nasser-hussain,nasser-hussain-rugby-union,UNK
+Peter Such,2807425,24,22,667341;9316;1622318;1622252,http://en.wikipedia.org/wiki/Peter_Such,Peter Such,peter-such,peter-such,UNK
+Yorkshire,869945,2535,226,1933990;1876060;1829984;1177719;9316;48189;36637;71070;667292;667341;437832;759125;1622178;1622252;1622318;1156428;4689264;766575;387687,http://en.wikipedia.org/wiki/Yorkshire_County_Cricket_Club,Yorkshire County Cricket Club,yorkshire-county-cricket-club,yorkshire-county-cricket-club,UNK
+Yorkshire,8017517,78,66,5490873;36637,http://en.wikipedia.org/wiki/Yorkshire_GAA,Yorkshire GAA,yorkshire-gaa,yorkshire-gaa,UNK
+Yorkshire,13713924,54,55,9316;36637,http://en.wikipedia.org/wiki/Yorkshire_Museum,Yorkshire Museum,yorkshire-museum,yorkshire-museum,UNK
+Yorkshire,1022569,285,107,36637,http://en.wikipedia.org/wiki/A_Yorkshire_Tragedy,A Yorkshire Tragedy,a-yorkshire-tragedy,a-yorkshire-tragedy,UNK
+Yorkshire,3943897,280,105,570090;149139;569392;423106;22267479,http://en.wikipedia.org/wiki/BBC_Yorkshire,BBC Yorkshire,bbc-yorkshire,bbc-yorkshire,UNK
+Yorkshire,1972787,4,23,36637,http://en.wikipedia.org/wiki/Yorkshire_Society,Yorkshire Society,yorkshire-society,yorkshire-society,UNK
+Yorkshire,259664,61,80,259665,"http://en.wikipedia.org/wiki/Yorkshire_(CDP),_New_York","Yorkshire (CDP), New York",yorkshire-cdp-new-york,yorkshire-cdp-new-york,GPE
+Yorkshire,259665,65,82,259664,"http://en.wikipedia.org/wiki/Yorkshire_(town),_New_York","Yorkshire (town), New York",yorkshire-town-new-york,yorkshire-town-new-york,GPE
+Yorkshire,36637,7154,654,8017517;16766;1972787;36637;71070;51763;869945;33778;383648;361299;6020679;407950;68049;61153;149139;9316;1306661;48189;13713924;969337;1022569;40100758,http://en.wikipedia.org/wiki/Yorkshire,Yorkshire,yorkshire,yorkshire,GPE
+Yorkshire,137734,61,73,,"http://en.wikipedia.org/wiki/Yorkshire,_Virginia","Yorkshire, Virginia",yorkshire-virginia,yorkshire-virginia,GPE
+Yorkshire,1306661,153,269,149139;36637,http://en.wikipedia.org/wiki/Yorkshire_Regiment,Yorkshire Regiment,yorkshire-regiment,yorkshire-regiment,ORG
+Yorkshire,149139,4065,398,61153;16766;149139;9316;36637;71070;51763;437832;1306661;33778;383648;12249;361299;1876060;3943897;48189;68049;40100758,http://en.wikipedia.org/wiki/West_Yorkshire,West Yorkshire,west-yorkshire,west-yorkshire,UNK
+Yorkshire,24921278,1,6,,http://en.wikipedia.org/wiki/Mr._Yorkshire,Mr. Yorkshire,mr-yorkshire,mr-yorkshire,PER
+Yorkshire,129150,51,71,,"http://en.wikipedia.org/wiki/Yorkshire,_Ohio","Yorkshire, Ohio",yorkshire-ohio,yorkshire-ohio,GPE
+Yorkshire,11517386,6,33,9316;71070,http://en.wikipedia.org/wiki/Yorkshire_Bridge,Yorkshire Bridge,yorkshire-bridge,yorkshire-bridge,GPE
+Yorkshire,361299,238,220,149139;9316;36637,http://en.wikipedia.org/wiki/Yorkshire_Terrier,Yorkshire Terrier,yorkshire-terrier,yorkshire-terrier,UNK
+Headingley,437832,227,120,869945;149139;9316;1876060,http://en.wikipedia.org/wiki/Headingley,Headingley,headingley,headingley,UNK
+Headingley,1876060,1248,309,869945;667341;437832;1876060;759125;896385;896396;149139;387687;3379941,http://en.wikipedia.org/wiki/Headingley_Stadium,Headingley Stadium,headingley-stadium,headingley-stadium,UNK
+Hussain,682925,255,175,2332897;9316;4689264;896385;896396;1622252;759125;3379941,http://en.wikipedia.org/wiki/Nasser_Hussain,Nasser Hussain,nasser-hussain,nasser-hussain,PER
+Hussain,2332897,5,14,9316;682925,http://en.wikipedia.org/wiki/Nasser_Hussain_(rugby_union),Nasser Hussain,nasser-hussain,nasser-hussain-rugby-union,UNK
+Such,2807425,24,22,667341;9316;1622318;1622252,http://en.wikipedia.org/wiki/Peter_Such,Peter Such,peter-such,peter-such,UNK
+Oval,387687,1660,368,1933990;17867;1876060;9904;691024;9316;48189;869945;667292;2403;98370;759125;2641188;1622178;896396;146239;1156428;458715;766575;3379941,http://en.wikipedia.org/wiki/The_Oval,The Oval,the-oval,the-oval,UNK
+Oval,9133751,3,2,,http://en.wikipedia.org/wiki/Oval_Books,Oval Books,oval-books,oval-books,ORG
+Oval,3468873,271,62,4732785;2403,http://en.wikipedia.org/wiki/Lake_Oval,Lake Oval,lake-oval,lake-oval,UNK
+Oval,458715,46,98,387687;9316;12249;766575;146239;118409,"http://en.wikipedia.org/wiki/Oval,_London","Oval, London",oval-london,oval-london,GPE
+Oval,25066107,1,11,,"http://en.wikipedia.org/wiki/Oval_Park,_Visalia,_California","Oval Park, Visalia, California",oval-park-visalia-california,oval-park-visalia-california,UNK
+Oval,28466415,1,12,3379941;1622318,http://en.wikipedia.org/wiki/The_Oval_(Llandudno),The Oval,the-oval,the-oval-llandudno,UNK
+Oval,38691626,19,112,,http://en.wikipedia.org/wiki/Mount_Oval,Mount Oval,mount-oval,mount-oval,UNK
+Oval,42130745,4,20,9316,http://en.wikipedia.org/wiki/The_Oval_(Wednesbury),The Oval,the-oval,the-oval-wednesbury,UNK
+Oval,9883994,1,9,,http://en.wikipedia.org/wiki/The_Oval_(Wirral),The Oval,the-oval,the-oval-wirral,UNK
+Oval,30861952,77,81,,"http://en.wikipedia.org/wiki/Oval,_Pennsylvania","Oval, Pennsylvania",oval-pennsylvania,oval-pennsylvania,GPE
+Oval,4255174,11,15,2027249,http://en.wikipedia.org/wiki/Oval_(projective_plane),Oval,oval,oval-projective-plane,PER
+Oval,4512040,14,9,,http://en.wikipedia.org/wiki/The_Oval_(Caernarfon),The Oval,the-oval,the-oval-caernarfon,UNK
+Oval,37465670,2,6,,http://en.wikipedia.org/wiki/The_Oval_(Prestwick),The Oval,the-oval,the-oval-prestwick,UNK
+Oval,146239,125,100,387687;458715,http://en.wikipedia.org/wiki/Oval_tube_station,Oval tube station,oval-tube-station,oval-tube-station,UNK
+Oval,2208235,174,47,,http://en.wikipedia.org/wiki/The_Oval_(Belfast),The Oval,the-oval,the-oval-belfast,UNK
+Oval,863698,381,82,2027249,http://en.wikipedia.org/wiki/Oval_track_racing,Oval track racing,oval-track-racing,oval-track-racing,UNK
+Oval,2027249,203,33,4255174;863698;2403,http://en.wikipedia.org/wiki/Oval,Oval,oval,oval,ORG
+Chris Lewis,1732971,64,52,1622318;3663088;9316;759125;766575;667341;3379941,http://en.wikipedia.org/wiki/Chris_Lewis_(cricketer),Chris Lewis,chris-lewis,chris-lewis-cricketer,UNK
+Chris Lewis,1870085,243,90,3663088;4689264,http://en.wikipedia.org/wiki/Chris_Lewis_(tennis),Chris Lewis,chris-lewis,chris-lewis-tennis,PER
+Chris Lewis,3663088,1,6,1732971;1870085;5480101;7188733,http://en.wikipedia.org/wiki/Chris_Lewis,Chris Lewis,chris-lewis,chris-lewis,PER
+Chris Lewis,5480101,4,8,3663088,http://en.wikipedia.org/wiki/Chris_Lewis_(Usenet),Chris Lewis,chris-lewis,chris-lewis-usenet,PER
+Chris Lewis,7188733,75,61,4732785;3663088;2403,http://en.wikipedia.org/wiki/Chris_Lewis_(Australian_rules_footballer),Chris Lewis,chris-lewis,chris-lewis-australian-rules-footballer,PER
+Warwickshire,667292,1864,208,994715;1829984;1177719;9316;869945;667292;667341;759125;1622178;896396;383648;1622252;1622318;1156428;766575;387687,http://en.wikipedia.org/wiki/Warwickshire_County_Cricket_Club,Warwickshire County Cricket Club,warwickshire-county-cricket-club,warwickshire-county-cricket-club,UNK
+Warwickshire,5490873,159,80,8017517;383648,http://en.wikipedia.org/wiki/Warwickshire_GAA,Warwickshire GAA,warwickshire-gaa,warwickshire-gaa,UNK
+Warwickshire,383648,3451,299,17867;61153;16766;149139;9316;36637;71070;51763;33778;383648;12249;1659673;48189;5490873;667292;68049;969337;2671777;40100758,http://en.wikipedia.org/wiki/Warwickshire,Warwickshire,warwickshire,warwickshire,UNK
+Warwickshire,29547081,16,14,,http://en.wikipedia.org/wiki/Warwickshire_Group,Warwickshire Group,warwickshire-group,warwickshire-group,UNK
+Warwickshire,2671777,129,205,33778;383648,http://en.wikipedia.org/wiki/Warwickshire_College,Warwickshire College,warwickshire-college,warwickshire-college,UNK
+Mark Butcher,896385,166,127,766575;1876060;682925;759125,http://en.wikipedia.org/wiki/Mark_Butcher,Mark Butcher,mark-butcher,mark-butcher,PER
+Worcestershire,1156428,1878,213,994715;1829984;1177719;869945;667292;667341;33778;759125;1622178;896396;1622252;1622318;766575;387687,http://en.wikipedia.org/wiki/Worcestershire_County_Cricket_Club,Worcestershire County Cricket Club,worcestershire-county-cricket-club,worcestershire-county-cricket-club,UNK
+Worcestershire,33779,161,105,33778,http://en.wikipedia.org/wiki/Worcestershire_sauce,Worcestershire sauce,worcestershire-sauce,worcestershire-sauce,UNK
+Worcestershire,33778,2865,307,61153;16766;407950;149139;9316;48189;36637;71070;51763;33778;33779;68049;2671777;383648;1156428;12249;40100758,http://en.wikipedia.org/wiki/Worcestershire,Worcestershire,worcestershire,worcestershire,UNK
+Worcestershire,9412134,214,94,,http://en.wikipedia.org/wiki/Worcestershire_Regiment,Worcestershire Regiment,worcestershire-regiment,worcestershire-regiment,ORG
+Australian,4689264,136194,1016,1495;1897;840646;2403;3079;835748;4732785;9316;12249;17867;26176755;5018652;911650;11197621;896396;1870085;1622252;1622318;869945;101797;12588291;691024;396952;21770728;2048074;165705;445359;3265305;171629;7122809;189907;682925;429303;3741478;766575;1189447;759125;4689264;4684902;521158;514816;994715,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australian,1189447,125,110,1495;4689264;171629,http://en.wikipedia.org/wiki/Australian_Conservation_Foundation,Australian Conservation Foundation,australian-conservation-foundation,australian-conservation-foundation,ORG
+Australian,3079,6230,535,1495;1897;2048074;3079;4732785;171629;4689264,http://en.wikipedia.org/wiki/Australian_Broadcasting_Corporation,Australian Broadcasting Corporation,australian-broadcasting-corporation,australian-broadcasting-corporation,UNK
+Australian,189907,50,110,4689264,http://en.wikipedia.org/wiki/Australian_Airlines,Australian Airlines,australian-airlines,australian-airlines,UNK
+Australian,396952,3151,159,2048074;911650;39943361;171629;4689264,http://en.wikipedia.org/wiki/The_Australian,The Australian,the-australian,the-australian,UNK
+Australian,521158,1015,284,4689264,http://en.wikipedia.org/wiki/Australian_Rugby_League,Australian Rugby League,australian-rugby-league,australian-rugby-league,PER
+Australian,39185064,2,5,,"http://en.wikipedia.org/wiki/Australian,_Windsor,_Richmond,_and_Hawkesbury_Advertiser","Australian, Windsor, Richmond, and Hawkesbury Advertiser",australian-windsor-richmond-and-hawkesbury-advertiser,australian-windsor-richmond-and-hawkesbury-advertiser,UNK
+Australian,17856651,6,15,,"http://en.wikipedia.org/wiki/Australian,_British_Columbia","Australian, British Columbia",australian-british-columbia,australian-british-columbia,GPE
+Australian,165705,1861,377,171629;1495;165705;2048074;4689264,http://en.wikipedia.org/wiki/Australian_Senate,Australian Senate,australian-senate,australian-senate,ORG
+Australian,1495,8801,426,1495;1897;2048074;3079;1189447;165705;3009589;171629;7122809;4689264,http://en.wikipedia.org/wiki/Australian_Labor_Party,Australian Labor Party,australian-labor-party,australian-labor-party,UNK
+Australian,3265305,267,285,7122809;4689264;11197621;1897,http://en.wikipedia.org/wiki/German_Australian,German Australian,german-australian,german-australian,UNK
+Australian,445359,156,205,4689264;514816,http://en.wikipedia.org/wiki/Australian_Cattle_Dog,Australian Cattle Dog,australian-cattle-dog,australian-cattle-dog,UNK
+Australian,911650,958,182,17867;396952;4689264,http://en.wikipedia.org/wiki/Australian_Associated_Press,Australian Associated Press,australian-associated-press,australian-associated-press,ORG
+Australian,171629,2637,472,1189447;396952;1495;165705;2048074;3079;4689264,http://en.wikipedia.org/wiki/Australian_Greens,Australian Greens,australian-greens,australian-greens,UNK
+Australian,1897,945,509,17867;2403;7122809;3079;1495;9316;4689264;3265305;11197621;1897,http://en.wikipedia.org/wiki/Australian_English,Australian English,australian-english,australian-english,UNK
+Australian,5204925,35,29,4084258,http://en.wikipedia.org/wiki/Australian_Club,Australian Club,australian-club,australian-club,ORG
+Australian,2048074,28,109,396952;165705;1495;4689264;171629;3079,http://en.wikipedia.org/wiki/Australian_Party,Australian Party,australian-party,australian-party,ORG
+Australian,8574469,7,11,,http://en.wikipedia.org/wiki/Australian_Church,Australian Church,australian-church,australian-church,UNK
+Australian,840646,504,170,4689264,http://en.wikipedia.org/wiki/Australian_Museum,Australian Museum,australian-museum,australian-museum,UNK
+Australian,7122809,188,252,4689264;3265305;11197621;1897;1495,http://en.wikipedia.org/wiki/American_Australian,American Australian,american-australian,american-australian,UNK
+Australian,11197621,837,316,7122809;4689264;3265305;1897,http://en.wikipedia.org/wiki/Australians,Australians,australians,australians,UNK
+Australian,39943361,6,3,396952,http://en.wikipedia.org/wiki/The_Australian_(1824_newspaper),The Australian,the-australian,the-australian-1824-newspaper,UNK
+Australian,4732785,8927,643,2403;3468873;3079;4732785;2960606;7188733;4689264,http://en.wikipedia.org/wiki/Australian_Football_League,Australian Football League,australian-football-league,australian-football-league,ORG
+Australian,14859750,15,14,,http://en.wikipedia.org/wiki/Australian_Musician,Australian Musician,australian-musician,australian-musician,ORG
+Australian,514816,205,185,4689264;445359,http://en.wikipedia.org/wiki/Australian_Shepherd,Australian Shepherd,australian-shepherd,australian-shepherd,UNK
+Australian,2403,11032,495,994715;1897;2403;3468873;4732785;2960606;7188733;3741478;2027249;4689264;387687,http://en.wikipedia.org/wiki/Australian_rules_football,Australian rules football,australian-rules-football,australian-rules-football,UNK
+Tom Moody,994715,157,111,1156428;667292;4689264;2403,http://en.wikipedia.org/wiki/Tom_Moody,Tom Moody,tom-moody,tom-moody,UNK
+Tom Moody,23972635,3,14,,http://en.wikipedia.org/wiki/Tom_Moody_(artist),Tom Moody,tom-moody,tom-moody-artist,PER
+Tom Moody,17003210,53,231,,http://en.wikipedia.org/wiki/Tom_Moody_(politician),Tom Moody,tom-moody,tom-moody-politician,UNK
+Chris Adams,1933990,77,56,869945;387687;8664027;759125;766575;1829984,http://en.wikipedia.org/wiki/Chris_Adams_(cricketer),Chris Adams,chris-adams,chris-adams-cricketer,UNK
+Chris Adams,17264788,2,31,8664027,http://en.wikipedia.org/wiki/Chris_Adams_(general),Chris Adams,chris-adams,chris-adams-general,PER
+Chris Adams,8664027,0,8,1659673;26184129;26176755;17264788;1933990;25900129,http://en.wikipedia.org/wiki/Chris_Adams,Chris Adams,chris-adams,chris-adams,PER
+Chris Adams,26176755,7,15,4689264;8664027,http://en.wikipedia.org/wiki/Chris_Adams_(rugby_league),Chris Adams,chris-adams,chris-adams-rugby-league,UNK
+Chris Adams,1659673,131,118,8664027;9316;383648,http://en.wikipedia.org/wiki/Chris_Adams_(wrestler),Chris Adams,chris-adams,chris-adams-wrestler,PER
+Chris Adams,25900129,2,12,9316;40100758;8664027,http://en.wikipedia.org/wiki/Chris_Adams_(footballer),Chris Adams,chris-adams,chris-adams-footballer,PER
+Chris Adams,26184129,1,44,8664027,http://en.wikipedia.org/wiki/Chris_Adams_(character),Chris Adams,chris-adams,chris-adams-character,UNK
+Tim O'Gorman,2654998,0,6,1829984,http://en.wikipedia.org/wiki/Tim_O'Gorman,Tim O'Gorman,tim-ogorman,tim-ogorman,PER
+Paul Johnson,6459613,17,5,730132;9316;667341,http://en.wikipedia.org/wiki/Paul_Johnson_(cricketer),Paul Johnson,paul-johnson,paul-johnson-cricketer,UNK
+Paul Johnson,6205155,222,260,730132,http://en.wikipedia.org/wiki/Paul_Johnson_(American_football_coach),Paul Johnson,paul-johnson,paul-johnson-american-football-coach,UNK
+Paul Johnson,3410632,117,122,9316;23798545;730132;27550403,http://en.wikipedia.org/wiki/Paul_Johnson_(rugby_league),Paul Johnson,paul-johnson,paul-johnson-rugby-league,UNK
+Paul Johnson,31728686,3,20,730132;9316,http://en.wikipedia.org/wiki/Paul_Johnson_(footballer_born_1992),Paul Johnson,paul-johnson,paul-johnson-footballer-born-1992,PER
+Paul Johnson,13362144,21,22,730132,http://en.wikipedia.org/wiki/Paul_Johnson_(producer),Paul Johnson,paul-johnson,paul-johnson-producer,PER
+Paul Johnson,13249944,2,6,730132;17867,http://en.wikipedia.org/wiki/Paul_Johnson_(British_artist),Paul Johnson,paul-johnson,paul-johnson-british-artist,PER
+Paul Johnson,26581103,2,17,730132,http://en.wikipedia.org/wiki/Paul_Johnson_(United_States_Air_Force),Paul Johnson,paul-johnson,paul-johnson-united-states-air-force,PER
+Paul Johnson,26591357,9,18,730132;9316;24313091,http://en.wikipedia.org/wiki/Paul_Johnson_(footballer_born_1955),Paul Johnson,paul-johnson,paul-johnson-footballer-born-1955,PER
+Paul Johnson,730132,5,29,1672661;3410632;23798545;2323505;24313091;7434625;26591357;735553;31728686;13249944;27550403;6205155;6459613;2960606;4073028;18933947;13362144;30774223;26581103,http://en.wikipedia.org/wiki/Paul_Johnson,Paul Johnson,paul-johnson,paul-johnson,PER
+Paul Johnson,4073028,12,11,730132,http://en.wikipedia.org/wiki/Paul_Johnson_(ice_hockey),Paul Johnson,paul-johnson,paul-johnson-ice-hockey,PER
+Paul Johnson,7434625,12,11,730132;9316,http://en.wikipedia.org/wiki/Paul_Johnson_(squash_player),Paul Johnson,paul-johnson,paul-johnson-squash-player,PER
+Paul Johnson,18933947,11,14,730132,http://en.wikipedia.org/wiki/Paul_Johnson_(American_politician),Paul Johnson,paul-johnson,paul-johnson-american-politician,PER
+Paul Johnson,2960606,14,148,730132;4732785;2403,http://en.wikipedia.org/wiki/Paul_Johnson_(Australian_footballer_born_1984),Paul Johnson,paul-johnson,paul-johnson-australian-footballer-born-1984,UNK
+Paul Johnson,30774223,6,7,730132,http://en.wikipedia.org/wiki/Paul_Johnson_(baseball),Paul Johnson,paul-johnson,paul-johnson-baseball,PER
+Paul Johnson,735553,173,78,9316;730132,http://en.wikipedia.org/wiki/Paul_Johnson_(writer),Paul Johnson,paul-johnson,paul-johnson-writer,PER
+Paul Johnson,23798545,30,41,3410632;730132;27550403,http://en.wikipedia.org/wiki/Paul_Johnson_(rugby_league_born_1988),Paul Johnson,paul-johnson,paul-johnson-rugby-league-born-1988,UNK
+Paul Johnson,1672661,3,20,730132,http://en.wikipedia.org/wiki/Paul_Johnson_(Canadian_politician),Paul Johnson,paul-johnson,paul-johnson-canadian-politician,PER
+Paul Johnson,2323505,6,8,730132,http://en.wikipedia.org/wiki/Paul_Johnson_(philanthropist),Paul Johnson,paul-johnson,paul-johnson-philanthropist,PER
+Paul Johnson,27550403,10,11,3410632;23798545;730132,http://en.wikipedia.org/wiki/Paul_Johnson_(New_Zealand),Paul Johnson,paul-johnson,paul-johnson-new-zealand,UNK
+Paul Johnson,24313091,9,30,26591357;730132,http://en.wikipedia.org/wiki/Paul_Johnson_(footballer_born_1959),Paul Johnson,paul-johnson,paul-johnson-footballer-born-1959,PER
+Martin McCague,3741478,21,26,1177719;4689264;1829984;759125;2403,http://en.wikipedia.org/wiki/Martin_McCague,Martin McCague,martin-mccague,martin-mccague,UNK

@@ -1,0 +1,169 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Howard,4689709,1383,245,396952;165705;171629;1053526;435332;18453;31532;3079;1495;4689264;17935882;1943,http://en.wikipedia.org/wiki/John_Howard,John Howard,john-howard,john-howard,PER
+Howard,1053527,68,59,,http://en.wikipedia.org/wiki/John_Howard_(American_actor),John Howard,john-howard,john-howard-american-actor,PER
+Howard,14928998,7,8,,http://en.wikipedia.org/wiki/John_Howard_(athlete),John Howard,john-howard,john-howard-athlete,UNK
+Howard,182934,98,107,6580980,http://en.wikipedia.org/wiki/John_Howard_(prison_reformer),John Howard,john-howard,john-howard-prison-reformer,PER
+Howard,1053526,69,38,4689264;4689709,http://en.wikipedia.org/wiki/John_Howard_(Australian_actor),John Howard,john-howard,john-howard-australian-actor,PER
+Howard,4570274,4,12,,http://en.wikipedia.org/wiki/John_Howard_(UK_businessman),John Howard,john-howard,john-howard-uk-businessman,PER
+Howard,1664357,12,52,,http://en.wikipedia.org/wiki/John_Howard_(British_Army_officer),John Howard,john-howard,john-howard-british-army-officer,PER
+Howard,28001803,14,29,,http://en.wikipedia.org/wiki/John_Howard_(lacrosse),John Howard,john-howard,john-howard-lacrosse,PER
+Howard,6580980,13,10,182934,http://en.wikipedia.org/wiki/John_Howard_Society,John Howard Society,john-howard-society,john-howard-society,ORG
+Howard,3956753,7,22,,http://en.wikipedia.org/wiki/John_Howard_(MP_for_Southampton),John Howard,john-howard,john-howard-mp-for-southampton,PER
+Howard,20294194,7,23,,http://en.wikipedia.org/wiki/John_Howard_(public_health_administrator),John Howard,john-howard,john-howard-public-health-administrator,PER
+Howard,31063522,20,94,,http://en.wikipedia.org/wiki/John_Howard_(singer-songwriter),John Howard,john-howard,john-howard-singer-songwriter,UNK
+Howard,36655325,17,24,36655325,http://en.wikipedia.org/wiki/John_Howard_(sprinter),John Howard,john-howard,john-howard-sprinter,UNK
+Howard,27316858,4,30,,http://en.wikipedia.org/wiki/John_Howard_(mathematician),John Howard,john-howard,john-howard-mathematician,PER
+Howard,32272130,3,25,,http://en.wikipedia.org/wiki/John_Howard_(author),John Howard,john-howard,john-howard-author,PER
+Howard,40161198,6,14,,http://en.wikipedia.org/wiki/John_Howard_(died_1437),John Howard,john-howard,john-howard-died-1437,PER
+Howard,21665429,2,4,,http://en.wikipedia.org/wiki/John_Howard_(optical_physicist),John Howard,john-howard,john-howard-optical-physicist,PER
+Howard,20930692,39,48,,http://en.wikipedia.org/wiki/John_Howard_(fighter),John Howard,john-howard,john-howard-fighter,UNK
+Howard,2367929,49,50,,http://en.wikipedia.org/wiki/John_Howard_(cyclist),John Howard,john-howard,john-howard-cyclist,UNK
+Howard,5571535,1,8,,http://en.wikipedia.org/wiki/John_Howard_(adventure_racer),John Howard,john-howard,john-howard-adventure-racer,UNK
+Howard,623141,74,78,,http://en.wikipedia.org/wiki/John_Howard_Griffin,John Howard Griffin,john-howard-griffin,john-howard-griffin,PER
+Howard,25575740,13,29,,"http://en.wikipedia.org/wiki/John_Howard,_15th_Earl_of_Suffolk","John Howard, 15th Earl of Suffolk",john-howard-15th-earl-of-suffolk,john-howard-15th-earl-of-suffolk,PER
+Howard,118353,123,126,,"http://en.wikipedia.org/wiki/John_Howard,_1st_Duke_of_Norfolk","John Howard, 1st Duke of Norfolk",john-howard-1st-duke-of-norfolk,john-howard-1st-duke-of-norfolk,PER
+CANBERRA,51983,5727,555,4732785;201787;435332;579707;1495;426946;1897;11504365;165705;18453;3079;171629;6956914;1085682;7122809;6485820;10726259;31532;484704;10691374;4689264,http://en.wikipedia.org/wiki/Canberra,Canberra,canberra,canberra,GPE
+CANBERRA,6956914,136,85,51983;521158;4689264,http://en.wikipedia.org/wiki/Canberra_Rugby_League,Canberra Rugby League,canberra-rugby-league,canberra-rugby-league,UNK
+CANBERRA,1085682,284,313,51983;4689264;484704;10691374,http://en.wikipedia.org/wiki/Canberra_International_Airport,Canberra International Airport,canberra-international-airport,canberra-international-airport,UNK
+CANBERRA,10691374,123,127,51983;484704;4689264;1085682,http://en.wikipedia.org/wiki/Canberra_Theatre,Canberra Theatre,canberra-theatre,canberra-theatre,UNK
+CANBERRA,10849634,10,24,,http://en.wikipedia.org/wiki/Canberra_Parish,Canberra Parish,canberra-parish,canberra-parish,UNK
+CANBERRA,201787,574,382,51983;4689264,http://en.wikipedia.org/wiki/English_Electric_Canberra,English Electric Canberra,english-electric-canberra,english-electric-canberra,UNK
+CANBERRA,6485820,104,87,51983,http://en.wikipedia.org/wiki/Canberra_International,Canberra International,canberra-international,canberra-international,UNK
+CANBERRA,579707,115,156,51983,http://en.wikipedia.org/wiki/SS_Canberra,SS Canberra,ss-canberra,ss-canberra,UNK
+CANBERRA,426946,367,131,10726259;51983;4689264,http://en.wikipedia.org/wiki/University_of_Canberra,University of Canberra,university-of-canberra,university-of-canberra,ORG
+CANBERRA,435332,82,85,51983;4689709,http://en.wikipedia.org/wiki/USS_Canberra_(CA-70),USS Canberra,uss-canberra,uss-canberra-ca-70,UNK
+CANBERRA,484704,730,549,4732785;1085682;2403;521158;10691374;51983,http://en.wikipedia.org/wiki/Canberra_Stadium,Canberra Stadium,canberra-stadium,canberra-stadium,UNK
+CANBERRA,10726259,27,23,426946;51983,http://en.wikipedia.org/wiki/Canberra_Hospital,Canberra Hospital,canberra-hospital,canberra-hospital,ORG
+CANBERRA,11504365,52,31,51983,http://en.wikipedia.org/wiki/Canberra_FC,Canberra FC,canberra-fc,canberra-fc,UNK
+Australian,4689264,136194,1016,1495;1897;840646;1943;2403;3079;4732785;18453;6956914;10691374;31532;51983;911650;11197621;1053526;1085682;396952;17935882;2048074;165705;445359;3265305;171629;7122809;189907;426946;210515;1189447;201787;4689709;4689264;521158;1707799;514816,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australian,1189447,125,110,1495;4689264;171629,http://en.wikipedia.org/wiki/Australian_Conservation_Foundation,Australian Conservation Foundation,australian-conservation-foundation,australian-conservation-foundation,ORG
+Australian,396952,3151,159,2048074;911650;39943361;171629;31532;4689709;4689264,http://en.wikipedia.org/wiki/The_Australian,The Australian,the-australian,the-australian,UNK
+Australian,189907,50,110,4689264,http://en.wikipedia.org/wiki/Australian_Airlines,Australian Airlines,australian-airlines,australian-airlines,UNK
+Australian,1897,945,509,2403;7122809;3079;1495;51983;4689264;3265305;11197621;1897,http://en.wikipedia.org/wiki/Australian_English,Australian English,australian-english,australian-english,UNK
+Australian,39185064,2,5,,"http://en.wikipedia.org/wiki/Australian,_Windsor,_Richmond,_and_Hawkesbury_Advertiser","Australian, Windsor, Richmond, and Hawkesbury Advertiser",australian-windsor-richmond-and-hawkesbury-advertiser,australian-windsor-richmond-and-hawkesbury-advertiser,UNK
+Australian,17856651,6,15,,"http://en.wikipedia.org/wiki/Australian,_British_Columbia","Australian, British Columbia",australian-british-columbia,australian-british-columbia,GPE
+Australian,171629,2637,472,13306439;1189447;396952;182889;12460;1495;51983;52043;403679;1943;403401;762909;1901082;165705;1707799;2048074;18453;22136668;3079;4689709;12246;11153605;2718097;4689264;779810,http://en.wikipedia.org/wiki/Australian_Greens,Australian Greens,australian-greens,australian-greens,UNK
+Australian,3079,6230,535,1495;51983;1897;1943;2048074;18453;3079;4732785;171629;4689709;4689264,http://en.wikipedia.org/wiki/Australian_Broadcasting_Corporation,Australian Broadcasting Corporation,australian-broadcasting-corporation,australian-broadcasting-corporation,UNK
+Australian,3265305,267,285,7122809;4689264;11197621;1897,http://en.wikipedia.org/wiki/German_Australian,German Australian,german-australian,german-australian,UNK
+Australian,911650,958,182,396952;4689264,http://en.wikipedia.org/wiki/Australian_Associated_Press,Australian Associated Press,australian-associated-press,australian-associated-press,ORG
+Australian,445359,156,205,4689264;514816,http://en.wikipedia.org/wiki/Australian_Cattle_Dog,Australian Cattle Dog,australian-cattle-dog,australian-cattle-dog,UNK
+Australian,4732785,8927,643,51983;2403;3079;484704;4732785;31532;4689264,http://en.wikipedia.org/wiki/Australian_Football_League,Australian Football League,australian-football-league,australian-football-league,ORG
+Australian,2403,11032,495,1897;2403;484704;4732785;4689264,http://en.wikipedia.org/wiki/Australian_rules_football,Australian rules football,australian-rules-football,australian-rules-football,UNK
+Australian,5204925,35,29,,http://en.wikipedia.org/wiki/Australian_Club,Australian Club,australian-club,australian-club,ORG
+Australian,8574469,7,11,,http://en.wikipedia.org/wiki/Australian_Church,Australian Church,australian-church,australian-church,UNK
+Australian,840646,504,170,4689264,http://en.wikipedia.org/wiki/Australian_Museum,Australian Museum,australian-museum,australian-museum,UNK
+Australian,11197621,837,316,7122809;4689264;3265305;1897,http://en.wikipedia.org/wiki/Australians,Australians,australians,australians,UNK
+Australian,39943361,6,3,396952,http://en.wikipedia.org/wiki/The_Australian_(1824_newspaper),The Australian,the-australian,the-australian-1824-newspaper,UNK
+Australian,1495,8801,426,1495;51983;1897;1943;2048074;18453;3079;1707799;1189447;165705;171629;7122809;4689709;4689264,http://en.wikipedia.org/wiki/Australian_Labor_Party,Australian Labor Party,australian-labor-party,australian-labor-party,UNK
+Australian,2048074,28,109,18453;396952;165705;1495;4689264;17935882;171629;3079,http://en.wikipedia.org/wiki/Australian_Party,Australian Party,australian-party,australian-party,ORG
+Australian,14859750,15,14,,http://en.wikipedia.org/wiki/Australian_Musician,Australian Musician,australian-musician,australian-musician,ORG
+Australian,514816,205,185,4689264;445359,http://en.wikipedia.org/wiki/Australian_Shepherd,Australian Shepherd,australian-shepherd,australian-shepherd,UNK
+Australian,521158,1015,284,484704;4689264;6956914,http://en.wikipedia.org/wiki/Australian_Rugby_League,Australian Rugby League,australian-rugby-league,australian-rugby-league,PER
+Australian,7122809,188,252,51983;4689264;3265305;11197621;1897;1495,http://en.wikipedia.org/wiki/American_Australian,American Australian,american-australian,american-australian,UNK
+Australian,165705,1861,377,171629;1495;51983;1943;165705;1707799;2048074;18453;4689709;4689264,http://en.wikipedia.org/wiki/Australian_Senate,Australian Senate,australian-senate,australian-senate,ORG
+John Howard,4689709,1383,245,396952;165705;171629;1053526;435332;18453;31532;3079;1495;4689264;17935882;1943,http://en.wikipedia.org/wiki/John_Howard,John Howard,john-howard,john-howard,PER
+John Howard,1053527,68,59,,http://en.wikipedia.org/wiki/John_Howard_(American_actor),John Howard,john-howard,john-howard-american-actor,PER
+John Howard,14928998,7,8,,http://en.wikipedia.org/wiki/John_Howard_(athlete),John Howard,john-howard,john-howard-athlete,UNK
+John Howard,182934,98,107,6580980,http://en.wikipedia.org/wiki/John_Howard_(prison_reformer),John Howard,john-howard,john-howard-prison-reformer,PER
+John Howard,1053526,69,38,4689264;4689709,http://en.wikipedia.org/wiki/John_Howard_(Australian_actor),John Howard,john-howard,john-howard-australian-actor,PER
+John Howard,4570274,4,12,,http://en.wikipedia.org/wiki/John_Howard_(UK_businessman),John Howard,john-howard,john-howard-uk-businessman,PER
+John Howard,1664357,12,52,,http://en.wikipedia.org/wiki/John_Howard_(British_Army_officer),John Howard,john-howard,john-howard-british-army-officer,PER
+John Howard,28001803,14,29,,http://en.wikipedia.org/wiki/John_Howard_(lacrosse),John Howard,john-howard,john-howard-lacrosse,PER
+John Howard,6580980,13,10,182934,http://en.wikipedia.org/wiki/John_Howard_Society,John Howard Society,john-howard-society,john-howard-society,ORG
+John Howard,3956753,7,22,,http://en.wikipedia.org/wiki/John_Howard_(MP_for_Southampton),John Howard,john-howard,john-howard-mp-for-southampton,PER
+John Howard,20294194,7,23,,http://en.wikipedia.org/wiki/John_Howard_(public_health_administrator),John Howard,john-howard,john-howard-public-health-administrator,PER
+John Howard,31063522,20,94,,http://en.wikipedia.org/wiki/John_Howard_(singer-songwriter),John Howard,john-howard,john-howard-singer-songwriter,UNK
+John Howard,36655325,17,24,36655325,http://en.wikipedia.org/wiki/John_Howard_(sprinter),John Howard,john-howard,john-howard-sprinter,UNK
+John Howard,27316858,4,30,,http://en.wikipedia.org/wiki/John_Howard_(mathematician),John Howard,john-howard,john-howard-mathematician,PER
+John Howard,32272130,3,25,,http://en.wikipedia.org/wiki/John_Howard_(author),John Howard,john-howard,john-howard-author,PER
+John Howard,40161198,6,14,,http://en.wikipedia.org/wiki/John_Howard_(died_1437),John Howard,john-howard,john-howard-died-1437,PER
+John Howard,21665429,2,4,,http://en.wikipedia.org/wiki/John_Howard_(optical_physicist),John Howard,john-howard,john-howard-optical-physicist,PER
+John Howard,20930692,39,48,,http://en.wikipedia.org/wiki/John_Howard_(fighter),John Howard,john-howard,john-howard-fighter,UNK
+John Howard,2367929,49,50,,http://en.wikipedia.org/wiki/John_Howard_(cyclist),John Howard,john-howard,john-howard-cyclist,UNK
+John Howard,5571535,1,8,,http://en.wikipedia.org/wiki/John_Howard_(adventure_racer),John Howard,john-howard,john-howard-adventure-racer,UNK
+John Howard,623141,74,78,,http://en.wikipedia.org/wiki/John_Howard_Griffin,John Howard Griffin,john-howard-griffin,john-howard-griffin,PER
+John Howard,25575740,13,29,,"http://en.wikipedia.org/wiki/John_Howard,_15th_Earl_of_Suffolk","John Howard, 15th Earl of Suffolk",john-howard-15th-earl-of-suffolk,john-howard-15th-earl-of-suffolk,PER
+John Howard,118353,123,126,,"http://en.wikipedia.org/wiki/John_Howard,_1st_Duke_of_Norfolk","John Howard, 1st Duke of Norfolk",john-howard-1st-duke-of-norfolk,john-howard-1st-duke-of-norfolk,PER
+Liberal Party,18453,5746,460,210515;1495;51983;17935882;1943;165705;2048074;18453;3079;171629;1707799;4689709;4689264,http://en.wikipedia.org/wiki/Liberal_Party_of_Australia,Liberal Party of Australia,liberal-party-of-australia,liberal-party-of-australia,UNK
+Liberal Party,8434676,93,50,210515;40312187,http://en.wikipedia.org/wiki/Liberal_Party_(Israel),Liberal Party,liberal-party,liberal-party-israel,ORG
+Liberal Party,522678,385,205,149536;195159;210515;314107,http://en.wikipedia.org/wiki/Nova_Scotia_Liberal_Party,Nova Scotia Liberal Party,nova-scotia-liberal-party,nova-scotia-liberal-party,UNK
+Liberal Party,24203178,51,8,210515,"http://en.wikipedia.org/wiki/Liberal_Party_(Japan,_1945)",Liberal Party,liberal-party,liberal-party-japan-1945,UNK
+Liberal Party,8469566,69,64,210515;4586566,"http://en.wikipedia.org/wiki/Liberal_Party_(Chile,_1849–1966)",Liberal Party,liberal-party,liberal-party-chile-1849–1966,UNK
+Liberal Party,210515,63,183,18453;149536;6550741;195159;28747229;1058113;4586566;23401498;2769980;2203238;4689264;39983920;6849392;42205200;2081421;406013;863874;39975069;409374;1094706;10454318;8469566;3894932;8434676;408705;210534;862089;314107;446100;24203178;522678;535429,http://en.wikipedia.org/wiki/Liberal_Party,Liberal Party,liberal-party,liberal-party,UNK
+Liberal Party,446100,309,78,210515,http://en.wikipedia.org/wiki/Liberal_Party_of_New_York,Liberal Party of New York,liberal-party-of-new-york,liberal-party-of-new-york,UNK
+Liberal Party,39983920,74,104,210515;22136668;39975069,http://en.wikipedia.org/wiki/Liberal_Party_(Radoslavists),Liberal Party,liberal-party,liberal-party-radoslavists,UNK
+Liberal Party,1973982,34,65,,http://en.wikipedia.org/wiki/Liberal_Party_(Slovakia),Liberal Party,liberal-party,liberal-party-slovakia,UNK
+Liberal Party,1846572,5,43,,http://en.wikipedia.org/wiki/Liberal_Party_(Peru),Liberal Party,liberal-party,liberal-party-peru,UNK
+Liberal Party,42205200,20,54,210515,http://en.wikipedia.org/wiki/Liberal_Party_(Hungary),Liberal Party,liberal-party,liberal-party-hungary,UNK
+Liberal Party,32809071,7,22,,http://en.wikipedia.org/wiki/Liberal_Party_(Sudan),Liberal Party,liberal-party,liberal-party-sudan,UNK
+Liberal Party,36858793,0,1,,http://en.wikipedia.org/wiki/Liberal_Party_(Uk),Liberal Party,liberal-party,liberal-party-uk,UNK
+Liberal Party,6550741,76,41,210515,http://en.wikipedia.org/wiki/Liberal_Party_(Paraguay),Liberal Party,liberal-party,liberal-party-paraguay,ORG
+Liberal Party,9527007,3,10,,"http://en.wikipedia.org/wiki/Liberal_Party_(Spain,_1976–89)",Liberal Party,liberal-party,liberal-party-spain-1976–89,UNK
+Liberal Party,2661071,24,24,,http://en.wikipedia.org/wiki/Liberal_Party_(East_Timor),Liberal Party,liberal-party,liberal-party-east-timor,UNK
+Liberal Party,195159,1375,197,149536;522678;210515;314107,http://en.wikipedia.org/wiki/Quebec_Liberal_Party,Quebec Liberal Party,quebec-liberal-party,quebec-liberal-party,UNK
+Liberal Party,23401498,166,125,2203238;210515,"http://en.wikipedia.org/wiki/Liberal_Party_(Greece,_modern)",Liberal Party,liberal-party,liberal-party-greece-modern,UNK
+Liberal Party,17935882,42,86,18453;2048074;4689264;4689709,http://en.wikipedia.org/wiki/Liberal_Party_(1922),Liberal Party,liberal-party,liberal-party-1922,ORG
+Liberal Party,28747229,50,17,210515,http://en.wikipedia.org/wiki/Liberal_Party_(Bolivia),Liberal Party,liberal-party,liberal-party-bolivia,ORG
+Liberal Party,2081421,39,21,210515,http://en.wikipedia.org/wiki/Solomon_Islands_Liberal_Party,Solomon Islands Liberal Party,solomon-islands-liberal-party,solomon-islands-liberal-party,UNK
+Liberal Party,33928858,4,5,,http://en.wikipedia.org/wiki/Liberal_Party_(Mexico),Liberal Party,liberal-party,liberal-party-mexico,ORG
+Liberal Party,406013,443,86,210515,http://en.wikipedia.org/wiki/Colombian_Liberal_Party,Colombian Liberal Party,colombian-liberal-party,colombian-liberal-party,UNK
+Liberal Party,4586566,36,38,8469566;210515,"http://en.wikipedia.org/wiki/Liberal_Party_(Chile,_2007–)",Liberal Party,liberal-party,liberal-party-chile-2007–,UNK
+Liberal Party,3894932,66,121,210515,http://en.wikipedia.org/wiki/Liberal_Party_(Netherlands),Liberal Party,liberal-party,liberal-party-netherlands,UNK
+Liberal Party,2203238,105,183,23401498;210515,http://en.wikipedia.org/wiki/Liberal_Party_(Greece),Liberal Party,liberal-party,liberal-party-greece,UNK
+Liberal Party,39975069,75,98,210515;39983920;22136668,http://en.wikipedia.org/wiki/Liberal_Party_(Bulgaria),Liberal Party,liberal-party,liberal-party-bulgaria,UNK
+Liberal Party,6849392,18,3,210515,http://en.wikipedia.org/wiki/Liberal_Party_(South_Korea),Liberal Party,liberal-party,liberal-party-south-korea,ORG
+Liberal Party,863874,1079,400,149536;1241967;210515,http://en.wikipedia.org/wiki/Liberal_Party_(Philippines),Liberal Party,liberal-party,liberal-party-philippines,UNK
+Liberal Party,1094706,33,54,210515,http://en.wikipedia.org/wiki/Liberal_Party_(Utah),Liberal Party,liberal-party,liberal-party-utah,ORG
+Liberal Party,408705,31,26,210515,http://en.wikipedia.org/wiki/Liberal_Party_(Croatia),Liberal Party,liberal-party,liberal-party-croatia,UNK
+Liberal Party,10454318,189,94,210515,http://en.wikipedia.org/wiki/Liberal_Party_(Belgium),Liberal Party,liberal-party,liberal-party-belgium,UNK
+Liberal Party,21263729,57,20,,http://en.wikipedia.org/wiki/Liberal_Party_(Spanish_Restoration),Liberal Party,liberal-party,liberal-party-spanish-restoration,UNK
+Liberal Party,314107,1525,239,195159;210515;149536;522678,http://en.wikipedia.org/wiki/Ontario_Liberal_Party,Ontario Liberal Party,ontario-liberal-party,ontario-liberal-party,UNK
+Liberal Party,3284609,1,9,3284609,http://en.wikipedia.org/wiki/Liberal_Party_(Palestine),Liberal Party,liberal-party,liberal-party-palestine,UNK
+Liberal Party,535429,533,222,210515,"http://en.wikipedia.org/wiki/Liberal_Party_(UK,_1989)",Liberal Party,liberal-party,liberal-party-uk-1989,UNK
+Liberal Party,1241967,551,209,149536;1241967;863874;12460,http://en.wikipedia.org/wiki/Liberal_Party_(Norway),Liberal Party,liberal-party,liberal-party-norway,UNK
+Liberal Party,862089,52,29,210515,"http://en.wikipedia.org/wiki/Liberal_Party_(Japan,_1998)",Liberal Party,liberal-party,liberal-party-japan-1998,UNK
+Liberal Party,2769980,26,27,210515,http://en.wikipedia.org/wiki/Liberal_Party_(Rwanda),Liberal Party,liberal-party,liberal-party-rwanda,ORG
+Liberal Party,210534,234,102,210515,http://en.wikipedia.org/wiki/Liberal_Party_(Hong_Kong),Liberal Party,liberal-party,liberal-party-hong-kong,UNK
+Liberal Party,2671062,3,31,,http://en.wikipedia.org/wiki/Liberal_Party_(Burundi),Liberal Party,liberal-party,liberal-party-burundi,UNK
+Liberal Party,409374,59,58,210515,http://en.wikipedia.org/wiki/Liberal_Party_(Iceland),Liberal Party,liberal-party,liberal-party-iceland,UNK
+Liberal Party,1058113,35,41,210515,http://en.wikipedia.org/wiki/Liberal_Party_(Uruguay),Liberal Party,liberal-party,liberal-party-uruguay,UNK
+Liberal Party,149536,6418,336,210515;522678;314107;195159;863874;149536;1241967,http://en.wikipedia.org/wiki/Liberal_Party_of_Canada,Liberal Party of Canada,liberal-party-of-canada,liberal-party-of-canada,UNK
+Telstra,31532,711,616,4732785;396952;4689709;51983;4689264,http://en.wikipedia.org/wiki/Telstra,Telstra,telstra,telstra,ORG
+Greens,171629,2637,472,13306439;1189447;396952;182889;12460;1495;51983;52043;403679;1943;403401;762909;1901082;165705;1707799;2048074;18453;22136668;3079;4689709;12246;11153605;2718097;4689264;779810,http://en.wikipedia.org/wiki/Australian_Greens,Australian Greens,australian-greens,australian-greens,UNK
+Greens,403679,146,252,2718097;52043;13306439;171629;22136668;779810;182889;12246;403401;762909;11153605;1901082,http://en.wikipedia.org/wiki/The_Greens_(Netherlands),The Greens,the-greens,the-greens-netherlands,UNK
+Greens,52043,245,291,13306439;22136668;12246;403401;762909;11153605;1901082;2718097;403679;171629;779810;182889;12460,http://en.wikipedia.org/wiki/The_Greens_(France),The Greens,the-greens,the-greens-france,ORG
+Greens,11153605,129,191,2718097;52043;403679;13306439;171629;22136668;779810;182889;12246;403401;762909;1901082,http://en.wikipedia.org/wiki/The_Greens_(Denmark),The Greens,the-greens,the-greens-denmark,UNK
+Greens,2718097,134,174,52043;403679;13306439;171629;22136668;779810;182889;12246;403401;762909;11153605;1901082,http://en.wikipedia.org/wiki/The_Greens_(Benin),The Greens,the-greens,the-greens-benin,ORG
+Greens,9971863,50,59,,http://en.wikipedia.org/wiki/Greens_Party_(Turkey),Greens Party,greens-party,greens-party-turkey,UNK
+Greens,8285587,61,78,,http://en.wikipedia.org/wiki/Greens_(Montenegrin_separatists),Greens,greens,greens-montenegrin-separatists,UNK
+Greens,182889,154,137,779810;2718097;52043;403679;12246;13306439;171629;403401;762909;11153605;22136668;40312187;1901082,http://en.wikipedia.org/wiki/The_Greens_(Israel),The Greens,the-greens,the-greens-israel,UNK
+Greens,1901082,151,117,779810;2718097;52043;403679;182889;12246;13306439;171629;403401;762909;11153605;22136668,http://en.wikipedia.org/wiki/Confederation_of_the_Greens,Confederation of the Greens,confederation-of-the-greens,confederation-of-the-greens,UNK
+Greens,12490863,14,3,,http://en.wikipedia.org/wiki/Greenskeeper,Greenskeeper,greenskeeper,greenskeeper,UNK
+Greens,12460,2381,518,171629;52043;1241967;403401;762909;22136668;12246,http://en.wikipedia.org/wiki/Green,Green,green,green,UNK
+Greens,10592905,136,70,,http://en.wikipedia.org/wiki/Greens_(South_Tyrol),Greens,greens,greens-south-tyrol,UNK
+Greens,311001,0,70,,http://en.wikipedia.org/wiki/Green's_function,Green's function,greens-function,greens-function,UNK
+Greens,403401,295,279,13306439;22136668;12246;762909;11153605;1901082;2718097;52043;403679;171629;779810;182889;12460,http://en.wikipedia.org/wiki/The_Greens_–_The_Green_Alternative,The Greens – The Green Alternative,the-greens-–-the-green-alternative,the-greens-–-the-green-alternative,UNK
+Greens,7864709,0,22,,http://en.wikipedia.org/wiki/Green's_function_(many-body_theory),Green's function,greens-function,greens-function-many-body-theory,UNK
+Greens,545523,106,115,,http://en.wikipedia.org/wiki/Collard_greens,Collard greens,collard-greens,collard-greens,UNK
+Greens,1707799,65,167,18453;165705;4689264;171629;1495,http://en.wikipedia.org/wiki/Greens_New_South_Wales,Greens New South Wales,greens-new-south-wales,greens-new-south-wales,UNK
+Greens,13306439,172,176,2718097;52043;403679;171629;22136668;779810;182889;12246;403401;762909;11153605;1901082,http://en.wikipedia.org/wiki/Greens_Japan,Greens Japan,greens-japan,greens-japan,UNK
+Greens,779810,239,249,2718097;52043;403679;13306439;171629;22136668;182889;12246;403401;762909;11153605;1901082,http://en.wikipedia.org/wiki/The_Greens_(Luxembourg),The Greens,the-greens,the-greens-luxembourg,ORG
+Greens,41858395,4,61,,http://en.wikipedia.org/wiki/Greens_(Ukraine),Greens,greens,greens-ukraine,GPE
+Greens,762909,203,270,2718097;52043;403679;13306439;171629;22136668;34630088;779810;182889;12246;403401;11153605;12460;1901082,http://en.wikipedia.org/wiki/Greens_2004,Greens 2004,greens-2004,greens-2004,UNK
+Greens,12246,0,356,2718097;52043;403679;13306439;171629;22136668;779810;182889;403401;762909;11153605;12460;1901082,http://en.wikipedia.org/wiki/Alliance_'90/The_Greens,Alliance '90/The Greens,alliance-90-the-greens,alliance-90-the-greens,UNK
+Greens,22136668,193,174,2718097;52043;403679;13306439;171629;39983920;39975069;779810;182889;12246;403401;762909;11153605;12460;1901082,http://en.wikipedia.org/wiki/The_Greens_(Bulgaria),The Greens,the-greens,the-greens-bulgaria,UNK
+Australian Democrats,1943,1166,210,165705;171629;18453;3079;4689709;1495;4689264,http://en.wikipedia.org/wiki/Australian_Democrats,Australian Democrats,australian-democrats,australian-democrats,UNK
+Labor Party,1495,8801,426,1495;51983;1897;1943;2048074;18453;3079;1707799;1189447;165705;171629;7122809;4689709;4689264,http://en.wikipedia.org/wiki/Australian_Labor_Party,Australian Labor Party,australian-labor-party,australian-labor-party,UNK
+Labor Party,13995897,33,27,,http://en.wikipedia.org/wiki/Labor_Party_(Taiwan),Labor Party,labor-party,labor-party-taiwan,UNK
+Labor Party,34630088,176,22,34630158;762909,http://en.wikipedia.org/wiki/Labor_Party_(Stronnictwo_Pracy),Labor Party,labor-party,labor-party-stronnictwo-pracy,UNK
+Labor Party,1229155,372,34,,http://en.wikipedia.org/wiki/Labor_Party_(Mexico),Labor Party,labor-party,labor-party-mexico,UNK
+Labor Party,30530032,15,9,,http://en.wikipedia.org/wiki/Labor_Party_(Hawaii),Labor Party,labor-party,labor-party-hawaii,UNK
+Labor Party,40312187,731,132,8434676;182889,http://en.wikipedia.org/wiki/Israeli_Labor_Party,Israeli Labor Party,israeli-labor-party,israeli-labor-party,UNK
+Labor Party,19114259,55,65,,http://en.wikipedia.org/wiki/Labor_Party_(Indonesia),Labor Party,labor-party,labor-party-indonesia,UNK
+Labor Party,24712674,34,95,,http://en.wikipedia.org/wiki/Labor_Party_(Puerto_Rico),Labor Party,labor-party,labor-party-puerto-rico,UNK
+Labor Party,25936983,5,3,,http://en.wikipedia.org/wiki/Labor_Party_(Panama),Labor Party,labor-party,labor-party-panama,UNK
+Labor Party,34630158,3,7,34630088,http://en.wikipedia.org/wiki/Labor_Party_(Partia_Pracy),Labor Party,labor-party,labor-party-partia-pracy,UNK
+Labor Party,42087515,36,33,,http://en.wikipedia.org/wiki/Labor_Party_(South_Korea),Labor Party,labor-party,labor-party-south-korea,UNK
+Labor Party,21115242,54,29,,"http://en.wikipedia.org/wiki/Labor_Party_(United_States,_19th_century)",Labor Party,labor-party,labor-party-united-states-19th-century,ORG
+Labor Party,338997,101,100,38852781,"http://en.wikipedia.org/wiki/Labor_Party_(United_States,_1996)",Labor Party,labor-party,labor-party-united-states-1996,UNK
+Labor Party,38852781,94,129,338997,http://en.wikipedia.org/wiki/Labor_Party_of_the_United_States,Labor Party of the United States,labor-party-of-the-united-states,labor-party-of-the-united-states,ORG

@@ -1,0 +1,38 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+COSTA RICA,1014478,1557,519,424153;5489;5551;697710,http://en.wikipedia.org/wiki/Costa_Rica_national_football_team,Costa Rica national football team,costa-rica-national-football-team,costa-rica-national-football-team,UNK
+COSTA RICA,8647821,4,7,5551,"http://en.wikipedia.org/wiki/Costa_Rica,_Mato_Grosso_do_Sul","Costa Rica, Mato Grosso do Sul",costa-rica-mato-grosso-do-sul,costa-rica-mato-grosso-do-sul,GPE
+COSTA RICA,5553,80,138,5553;5551,http://en.wikipedia.org/wiki/Geography_of_Costa_Rica,Geography of Costa Rica,geography-of-costa-rica,geography-of-costa-rica,UNK
+COSTA RICA,5551,13181,325,3612065;1057285;1014478;5489;5553;5551;26357457;23339013;8647821;12414888;795809,http://en.wikipedia.org/wiki/Costa_Rica,Costa Rica,costa-rica,costa-rica,GPE
+COSTA RICA,3612065,2,5,5551,"http://en.wikipedia.org/wiki/Costa_Rica,_Sinaloa","Costa Rica, Sinaloa",costa-rica-sinaloa,costa-rica-sinaloa,UNK
+COSTA RICA,1057285,122,88,5489;795809;5551,http://en.wikipedia.org/wiki/University_of_Costa_Rica,University of Costa Rica,university-of-costa-rica,university-of-costa-rica,UNK
+CHILE,697710,2016,468,1014478;424153;5489,http://en.wikipedia.org/wiki/Chile_national_football_team,Chile national football team,chile-national-football-team,chile-national-football-team,UNK
+CHILE,67318,127,225,5489;67318,http://en.wikipedia.org/wiki/Geography_of_Chile,Geography of Chile,geography-of-chile,geography-of-chile,UNK
+CHILE,5489,30071,686,1057285;424153;5489;67318;5551;697710;26357457;13890620;24633369;1014478;545250,http://en.wikipedia.org/wiki/Chile,Chile,chile,chile,GPE
+CHILE,545250,514,252,5489;26357457,http://en.wikipedia.org/wiki/University_of_Chile,University of Chile,university-of-chile,university-of-chile,ORG
+CHILE,26357457,319,399,5489;545250;5551;26357457,http://en.wikipedia.org/wiki/2010_Chile_earthquake,2010 Chile earthquake,2010-chile-earthquake,2010-chile-earthquake,UNK
+CHILE,24633369,39,39,5489,http://en.wikipedia.org/wiki/SM-Chile,SM-Chile,sm-chile,sm-chile,GPE
+CHILE,13890620,78,94,5489,"http://en.wikipedia.org/wiki/Chilean_presidential_election,_1910","Chilean presidential election, 1910",chilean-presidential-election-1910,chilean-presidential-election-1910,PER
+LIBERIA,17791,7352,611,17793;17791;424153;39719515;22999858;16801835;795809;5182628,http://en.wikipedia.org/wiki/Liberia,Liberia,liberia,liberia,GPE
+LIBERIA,40654793,2,146,,"http://en.wikipedia.org/wiki/Liberia_(Manassas,_Virginia)",Liberia,liberia,liberia-manassas-virginia,UNK
+LIBERIA,12414888,91,93,5551;795809,http://en.wikipedia.org/wiki/Liberia_(canton),Liberia,liberia,liberia-canton,UNK
+LIBERIA,22999858,0,17,17791,"http://en.wikipedia.org/wiki/Liberia;_or,_Mr._Peyton's_Experiments","Liberia; or, Mr. Peyton's Experiments",liberia-or-mr-peytons-experiments,liberia-or-mr-peytons-experiments,UNK
+LIBERIA,17793,94,109,17791,http://en.wikipedia.org/wiki/Geography_of_Liberia,Geography of Liberia,geography-of-liberia,geography-of-liberia,PER
+LIBERIA,16801835,176,94,17791,http://en.wikipedia.org/wiki/Religion_in_Liberia,Religion in Liberia,religion-in-liberia,religion-in-liberia,PER
+LIBERIA,23339013,3,5,795809;5551,http://en.wikipedia.org/wiki/Liberia_River,Liberia River,liberia-river,liberia-river,UNK
+LIBERIA,795809,81,44,23339013;1057285;17791;5551;12414888,"http://en.wikipedia.org/wiki/Liberia,_Costa_Rica","Liberia, Costa Rica",liberia-costa-rica,liberia-costa-rica,GPE
+LIBERIA,5182628,87,69,17791,http://en.wikipedia.org/wiki/University_of_Liberia,University of Liberia,university-of-liberia,university-of-liberia,ORG
+LIBERIA,39719515,1,20,17791,"http://en.wikipedia.org/wiki/Little_Liberia,_Staten_Island","Little Liberia, Staten Island",little-liberia-staten-island,little-liberia-staten-island,UNK
+Costa Rica,5551,13181,325,3612065;1057285;1014478;5489;5553;5551;26357457;23339013;8647821;12414888;795809,http://en.wikipedia.org/wiki/Costa_Rica,Costa Rica,costa-rica,costa-rica,GPE
+Costa Rica,1014478,1557,519,424153;5489;5551;697710,http://en.wikipedia.org/wiki/Costa_Rica_national_football_team,Costa Rica national football team,costa-rica-national-football-team,costa-rica-national-football-team,UNK
+Costa Rica,8647821,4,7,5551,"http://en.wikipedia.org/wiki/Costa_Rica,_Mato_Grosso_do_Sul","Costa Rica, Mato Grosso do Sul",costa-rica-mato-grosso-do-sul,costa-rica-mato-grosso-do-sul,GPE
+Costa Rica,5553,80,138,5553;5551,http://en.wikipedia.org/wiki/Geography_of_Costa_Rica,Geography of Costa Rica,geography-of-costa-rica,geography-of-costa-rica,UNK
+Costa Rica,3612065,2,5,5551,"http://en.wikipedia.org/wiki/Costa_Rica,_Sinaloa","Costa Rica, Sinaloa",costa-rica-sinaloa,costa-rica-sinaloa,UNK
+Costa Rica,1057285,122,88,5489;795809;5551,http://en.wikipedia.org/wiki/University_of_Costa_Rica,University of Costa Rica,university-of-costa-rica,university-of-costa-rica,UNK
+Chile,697710,2016,468,1014478;424153;5489,http://en.wikipedia.org/wiki/Chile_national_football_team,Chile national football team,chile-national-football-team,chile-national-football-team,UNK
+Chile,67318,127,225,5489;67318,http://en.wikipedia.org/wiki/Geography_of_Chile,Geography of Chile,geography-of-chile,geography-of-chile,UNK
+Chile,5489,30071,686,1057285;424153;5489;67318;5551;697710;26357457;13890620;24633369;1014478;545250,http://en.wikipedia.org/wiki/Chile,Chile,chile,chile,GPE
+Chile,545250,514,252,5489;26357457,http://en.wikipedia.org/wiki/University_of_Chile,University of Chile,university-of-chile,university-of-chile,ORG
+Chile,26357457,319,399,5489;545250;5551;26357457,http://en.wikipedia.org/wiki/2010_Chile_earthquake,2010 Chile earthquake,2010-chile-earthquake,2010-chile-earthquake,UNK
+Chile,24633369,39,39,5489,http://en.wikipedia.org/wiki/SM-Chile,SM-Chile,sm-chile,sm-chile,GPE
+Chile,13890620,78,94,5489,"http://en.wikipedia.org/wiki/Chilean_presidential_election,_1910","Chilean presidential election, 1910",chilean-presidential-election-1910,chilean-presidential-election-1910,PER
+Marcelo Salas,424153,238,195,5489;697710;1014478;17791,http://en.wikipedia.org/wiki/Marcelo_Salas,Marcelo Salas,marcelo-salas,marcelo-salas,PER

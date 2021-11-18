@@ -1,0 +1,179 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+HONG KONG OPEN,33983644,232,150,2947276;9316;4689264;3428311;26994;13404;2525758;23235,http://en.wikipedia.org/wiki/Hong_Kong_Open_(squash),Hong Kong Open,hong-kong-open,hong-kong-open-squash,PER
+HONG KONG OPEN,8627650,106,149,26994;9316;13404,http://en.wikipedia.org/wiki/Hong_Kong_Open_(badminton),Hong Kong Open,hong-kong-open,hong-kong-open-badminton,UNK
+HONG KONG OPEN,16244282,242,314,4689264;13404,http://en.wikipedia.org/wiki/Hong_Kong_Open_(tennis),Hong Kong Open,hong-kong-open,hong-kong-open-tennis,UNK
+HONG KONG OPEN,2005692,134,133,14560;26994;9316;13404;21265;4689264,http://en.wikipedia.org/wiki/Hong_Kong_Open_(golf),Hong Kong Open,hong-kong-open,hong-kong-open-golf,UNK
+HONG KONG,13404,29087,1384,9316;18593210;22962474;19339340;27413692;13411;13406;13404;14560;16244282;1389893;2005692;13371128;1449735;21265;268075;23235;393288;393307;26994;4689264;8627650;2525758;18933019;33983644;33617951;180697;248457;1244783;33918128,http://en.wikipedia.org/wiki/Hong_Kong,Hong Kong,hong-kong,hong-kong,GPE
+HONG KONG,33918128,1,10,13404;248457,http://en.wikipedia.org/wiki/Hong_Kong_(Area_Control_Centre),Hong Kong,hong-kong,hong-kong-area-control-centre,UNK
+HONG KONG,36855089,173,199,33617951;32837949;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2012_Summer_Paralympics","Hong Kong, China at the 2012 Summer Paralympics",hong-kong-china-at-the-2012-summer-paralympics,hong-kong-china-at-the-2012-summer-paralympics,UNK
+HONG KONG,18775842,161,179,33617951;36855089;32837949,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2008_Summer_Paralympics","Hong Kong, China at the 2008 Summer Paralympics",hong-kong-china-at-the-2008-summer-paralympics,hong-kong-china-at-the-2008-summer-paralympics,UNK
+HONG KONG,393307,62,30,13404,http://en.wikipedia.org/wiki/Hong_Kong_Park,Hong Kong Park,hong-kong-park,hong-kong-park,UNK
+HONG KONG,1449735,450,319,248457;4689264;13411;13404,http://en.wikipedia.org/wiki/Hong_Kong_Airlines,Hong Kong Airlines,hong-kong-airlines,hong-kong-airlines,ORG
+HONG KONG,13406,276,257,393288;180697;248457;23363;27413692;13411;13406;13404,http://en.wikipedia.org/wiki/Geography_of_Hong_Kong,Geography of Hong Kong,geography-of-hong-kong,geography-of-hong-kong,UNK
+HONG KONG,22962474,40,50,13371128;180697;13404,http://en.wikipedia.org/wiki/W_Hong_Kong,W Hong Kong,w-hong-kong,w-hong-kong,UNK
+HONG KONG,2152406,18,13,,http://en.wikipedia.org/wiki/Hong_Kong_Club,Hong Kong Club,hong-kong-club,hong-kong-club,ORG
+HONG KONG,180697,1125,122,248457;13371128;1389893;1244783;268075;27413692;13411;13406;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Island,Hong Kong Island,hong-kong-island,hong-kong-island,UNK
+HONG KONG,18593210,15,14,13404,http://en.wikipedia.org/wiki/Mr._Hong_Kong,Mr. Hong Kong,mr-hong-kong,mr-hong-kong,UNK
+HONG KONG,13411,475,349,393288;180697;1389893;248457;13411;13406;13404;1449735,http://en.wikipedia.org/wiki/Transport_in_Hong_Kong,Transport in Hong Kong,transport-in-hong-kong,transport-in-hong-kong,ORG
+HONG KONG,248457,1212,534,180697;1449735;393288;1389893;33918128;13411;13406;13404,http://en.wikipedia.org/wiki/Hong_Kong_International_Airport,Hong Kong International Airport,hong-kong-international-airport,hong-kong-international-airport,UNK
+HONG KONG,32837949,110,121,33617951;36855089;4689264;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2000_Summer_Paralympics","Hong Kong, China at the 2000 Summer Paralympics",hong-kong-china-at-the-2000-summer-paralympics,hong-kong-china-at-the-2000-summer-paralympics,UNK
+HONG KONG,10157228,5,14,,http://en.wikipedia.org/wiki/The_Hong_Kong,The Hong Kong,the-hong-kong,the-hong-kong,UNK
+HONG KONG,1389893,376,293,180697;1389893;248457;13411;13404,http://en.wikipedia.org/wiki/Hong_Kong_Station,Hong Kong Station,hong-kong-station,hong-kong-station,UNK
+HONG KONG,1244783,601,156,180697;26994;13404,http://en.wikipedia.org/wiki/Hong_Kong_Stadium,Hong Kong Stadium,hong-kong-stadium,hong-kong-stadium,UNK
+HONG KONG,13371128,52,51,180697;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Hotel,Hong Kong Hotel,hong-kong-hotel,hong-kong-hotel,UNK
+HONG KONG,19339340,52,31,268075;13404,http://en.wikipedia.org/wiki/2009_flu_pandemic_in_Hong_Kong,2009 flu pandemic in Hong Kong,2009-flu-pandemic-in-hong-kong,2009-flu-pandemic-in-hong-kong,UNK
+HONG KONG,33617951,142,153,36855089;13404;32837949;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2004_Summer_Paralympics","Hong Kong, China at the 2004 Summer Paralympics",hong-kong-china-at-the-2004-summer-paralympics,hong-kong-china-at-the-2004-summer-paralympics,UNK
+HONG KONG,27413692,563,306,393288;180697;268075;13406;13404,http://en.wikipedia.org/wiki/British_Hong_Kong,British Hong Kong,british-hong-kong,british-hong-kong,GPE
+HONG KONG,268075,918,410,180697;14560;19339340;268075;9316;4689264;26994;27413692;13404,http://en.wikipedia.org/wiki/University_of_Hong_Kong,University of Hong Kong,university-of-hong-kong,university-of-hong-kong,UNK
+HONG KONG,393288,131,230,4689264;27413692;13411;13406;13404;248457,http://en.wikipedia.org/wiki/Tourism_in_Hong_Kong,Tourism in Hong Kong,tourism-in-hong-kong,tourism-in-hong-kong,UNK
+Hong Kong Open,33983644,232,150,2947276;9316;4689264;3428311;26994;13404;2525758;23235,http://en.wikipedia.org/wiki/Hong_Kong_Open_(squash),Hong Kong Open,hong-kong-open,hong-kong-open-squash,PER
+Hong Kong Open,8627650,106,149,26994;9316;13404,http://en.wikipedia.org/wiki/Hong_Kong_Open_(badminton),Hong Kong Open,hong-kong-open,hong-kong-open-badminton,UNK
+Hong Kong Open,16244282,242,314,4689264;13404,http://en.wikipedia.org/wiki/Hong_Kong_Open_(tennis),Hong Kong Open,hong-kong-open,hong-kong-open-tennis,UNK
+Hong Kong Open,2005692,134,133,14560;26994;9316;13404;21265;4689264,http://en.wikipedia.org/wiki/Hong_Kong_Open_(golf),Hong Kong Open,hong-kong-open,hong-kong-open-golf,UNK
+Jansher Khan,2525758,83,80,26994;33983644;2947276;9316;13404;4689264;3428311;23235,http://en.wikipedia.org/wiki/Jansher_Khan,Jansher Khan,jansher-khan,jansher-khan,PER
+Pakistan,23235,33617,1132,1965925;9316;13404;14560;759295;759125;1026286;21265;23363;23235;464417;2947276;26994;4689264;6375316;2525758;33983644;3662295,http://en.wikipedia.org/wiki/Pakistan,Pakistan,pakistan,pakistan,GPE
+Pakistan,3662295,473,123,24442938;23363;4689264;1965925;6375316;759295;23235,http://en.wikipedia.org/wiki/Dominion_of_Pakistan,Dominion of Pakistan,dominion-of-pakistan,dominion-of-pakistan,GPE
+Pakistan,6375316,856,581,1965925;759295;3662295;1026286;23363;6375316;23235,http://en.wikipedia.org/wiki/Nuclear_power_in_Pakistan,Nuclear power in Pakistan,nuclear-power-in-pakistan,nuclear-power-in-pakistan,UNK
+Pakistan,1965925,2031,377,3662295;6375316;1965925;759295;1026286;23363;23235,http://en.wikipedia.org/wiki/Pakistan_Army,Pakistan Army,pakistan-army,pakistan-army,ORG
+Pakistan,1026286,1055,367,1965925;65836;759295;1026286;23363;6375316;23235,http://en.wikipedia.org/wiki/Pakistan_Movement,Pakistan Movement,pakistan-movement,pakistan-movement,ORG
+Pakistan,759295,1423,649,147575;3662295;9316;6375316;1965925;14560;759295;759125;1026286;23363;4689264;23235,http://en.wikipedia.org/wiki/Pakistan_national_cricket_team,Pakistan national cricket team,pakistan-national-cricket-team,pakistan-national-cricket-team,ORG
+Pakistan,23363,415,510,1026286;23363;1965925;6375316;759295;3662295;13406;23235,http://en.wikipedia.org/wiki/Geography_of_Pakistan,Geography of Pakistan,geography-of-pakistan,geography-of-pakistan,GPE
+Pakistan,24442938,2,14,3662295,"http://en.wikipedia.org/wiki/Pakistan,_India","Pakistan, India",pakistan-india,pakistan-india,UNK
+Pakistan,464417,6,20,4689264;2947276;23235;9316,http://en.wikipedia.org/wiki/Pakistan_International,Pakistan International,pakistan-international,pakistan-international,UNK
+Mark Cairns,7555328,10,6,3672106;9316;19375887,http://en.wikipedia.org/wiki/Mark_Cairns_(squash_player),Mark Cairns,mark-cairns,mark-cairns-squash-player,PER
+Mark Cairns,3245978,5,9,19375887,http://en.wikipedia.org/wiki/Mark_Cairns_(magician),Mark Cairns,mark-cairns,mark-cairns-magician,PER
+Mark Cairns,12013979,6,13,26994;19375887,http://en.wikipedia.org/wiki/Mark_Cairns_(footballer),Mark Cairns,mark-cairns,mark-cairns-footballer,PER
+Mark Cairns,19375887,0,3,3245978;7555328;12013979,http://en.wikipedia.org/wiki/Mark_Cairns,Mark Cairns,mark-cairns,mark-cairns,PER
+England,9316,158848,1726,286698;9904;9316;13404;14560;578101;578510;21265;268075;23235;26994;1930320;7555328;2525758;8391466;3124987;2313050;2857245;1349199;691024;11803289;969337;156486;157602;23248387;407950;147575;2947276;152256;16045038;8627650;11585295;168432;33983644;6020679;25730077;759295;759125;758049;2005692;464417;4689264;3672106,http://en.wikipedia.org/wiki/England,England,england,england,GPE
+England,2825496,25,261,147575,http://en.wikipedia.org/wiki/Edward_England,Edward England,edward-england,edward-england,PER
+England,286698,28,66,9316,"http://en.wikipedia.org/wiki/England,_Half-English","England, Half-English",england-half-english,england-half-english,UNK
+England,1959391,13,20,,"http://en.wikipedia.org/wiki/England,_Their_England","England, Their England",england-their-england,england-their-england,UNK
+England,71290,22,46,71290,"http://en.wikipedia.org/wiki/England,_England","England, England",england-england,england-england,UNK
+England,2539441,50,55,,"http://en.wikipedia.org/wiki/England,_Arkansas","England, Arkansas",england-arkansas,england-arkansas,GPE
+England,11803289,759,375,9904;9316;21265,http://en.wikipedia.org/wiki/England_national_under-19_football_team,England national under-19 football team,england-national-under-19-football-team,england-national-under-19-football-team,UNK
+England,6020679,0,42,21265;9316;26994,http://en.wikipedia.org/wiki/England_(British_postage_stamps),England,england,england-british-postage-stamps,UNK
+England,29406796,3,11,,http://en.wikipedia.org/wiki/Mount_England,Mount England,mount-england,mount-england,UNK
+England,8008415,23,37,1739788;4684902,http://en.wikipedia.org/wiki/USS_England_(DLG-22),USS England,uss-england,uss-england-dlg-22,UNK
+England,759125,3045,583,9904;9316;691024;14560;759295;2313050;4689264;23235,http://en.wikipedia.org/wiki/England_cricket_team,England cricket team,england-cricket-team,england-cricket-team,UNK
+England,407950,3926,354,147575;9316;23248387;26994;152256;407950;21265;14560;2313050;969337;168432,http://en.wikipedia.org/wiki/Kingdom_of_England,Kingdom of England,kingdom-of-england,kingdom-of-england,GPE
+England,40427896,3,17,,http://en.wikipedia.org/wiki/England_(band),England,england,england-band,UNK
+England,969337,393,514,2313050;152256;407950;9316;23248387,http://en.wikipedia.org/wiki/England_in_the_Middle_Ages,England in the Middle Ages,england-in-the-middle-ages,england-in-the-middle-ages,UNK
+England,27926611,24,45,,"http://en.wikipedia.org/wiki/England_Hill,_Kentucky","England Hill, Kentucky",england-hill-kentucky,england-hill-kentucky,GPE
+England,29113191,14,40,,"http://en.wikipedia.org/wiki/England,_My_England","England, My England",england-my-england,england-my-england,UNK
+England,691024,3595,744,9904;9316;26994;2313050;759125;620967;4689264;758049,http://en.wikipedia.org/wiki/England_national_rugby_union_team,England national rugby union team,england-national-rugby-union-team,england-national-rugby-union-team,UNK
+England,9904,10143,731,578101;578510;9904;9316;26994;691024;11803289;6967081;2313050;759125,http://en.wikipedia.org/wiki/England_national_football_team,England national football team,england-national-football-team,england-national-football-team,UNK
+England,39916947,3,147,,"http://en.wikipedia.org/wiki/Little_England_(Gloucester,_Virginia)",Little England,little-england,little-england-gloucester-virginia,UNK
+England,1739788,4,5,4684902;8008415,http://en.wikipedia.org/wiki/USS_England,USS England,uss-england,uss-england,UNK
+England,3646972,38,39,,"http://en.wikipedia.org/wiki/England,_My_England_and_Other_Stories","England, My England and Other Stories",england-my-england-and-other-stories,england-my-england-and-other-stories,ORG
+England,4684902,174,226,8008415;1739788;4689264,http://en.wikipedia.org/wiki/USS_England_(DE-635),USS England,uss-england,uss-england-de-635,UNK
+England,2313050,249,428,9904;147575;3124987;407950;691024;9316;21265;26994;2313050;759125;969337,http://en.wikipedia.org/wiki/Geography_of_England,Geography of England,geography-of-england,geography-of-england,UNK
+Anthony Hill,12063535,5,10,4689264;18214209,http://en.wikipedia.org/wiki/Anthony_Hill_(author),Anthony Hill,anthony-hill,anthony-hill-author,PER
+Anthony Hill,25730077,3,21,9316;18214209,http://en.wikipedia.org/wiki/Anthony_Hill_(cricketer),Anthony Hill,anthony-hill,anthony-hill-cricketer,PER
+Anthony Hill,41518749,2,4,4689264,http://en.wikipedia.org/wiki/Anthony_Hill_(squash_player),Anthony Hill,anthony-hill,anthony-hill-squash-player,PER
+Anthony Hill,11585295,14,22,9316;18214209,http://en.wikipedia.org/wiki/Anthony_Hill_(artist),Anthony Hill,anthony-hill,anthony-hill-artist,PER
+Anthony Hill,18214209,7,7,25730077;11585295;23376970;22575078;12063535,http://en.wikipedia.org/wiki/Anthony_Hill,Anthony Hill,anthony-hill,anthony-hill,PER
+Anthony Hill,22575078,19,34,18214209,http://en.wikipedia.org/wiki/Anthony_Hill_(American_football),Anthony Hill,anthony-hill,anthony-hill-american-football,UNK
+Anthony Hill,23376970,2,8,18214209;4689264,http://en.wikipedia.org/wiki/Anthony_Hill_(rugby_union),Anthony Hill,anthony-hill,anthony-hill-rugby-union,PER
+Australia,4689264,136194,1016,6126520;23376970;9316;7214224;13404;14560;21265;268075;23235;26994;2525758;49732;3662295;65836;16244282;2579874;18950948;2857245;26451470;26451467;26451463;26451498;26451490;32837949;620967;691024;157602;7447334;147575;393288;2947276;450955;41518749;33983644;12063535;185052;759295;759125;758049;27960950;20611325;2005692;1449735;3428311;464417;4689264;4684902;243669;984508,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australia,450955,49,106,4689264,http://en.wikipedia.org/wiki/Gun_politics_in_Australia,Gun politics in Australia,gun-politics-in-australia,gun-politics-in-australia,UNK
+Australia,18950948,203,272,4689264;18950948;20611325,http://en.wikipedia.org/wiki/Geography_of_Australia,Geography of Australia,geography-of-australia,geography-of-australia,UNK
+Australia,26451467,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Sydney,Australia/Sydney,australia-sydney,australia-sydney,PER
+Australia,23335381,10,15,,http://en.wikipedia.org/wiki/Australia_EP,Australia EP,australia-ep,australia-ep,UNK
+Australia,185052,236,108,4689264,http://en.wikipedia.org/wiki/Australia_Party,Australia Party,australia-party,australia-party,ORG
+Australia,8007505,169,194,,http://en.wikipedia.org/wiki/Australia_Station,Australia Station,australia-station,australia-station,ORG
+Australia,33114696,6,16,,http://en.wikipedia.org/wiki/For_Australia,For Australia,for-australia,for-australia,UNK
+Australia,20214173,19,31,,http://en.wikipedia.org/wiki/Australia_(schooner),Australia,australia,australia-schooner,UNK
+Australia,620967,2240,477,691024;4689264;758049,http://en.wikipedia.org/wiki/Australia_national_rugby_union_team,Australia national rugby union team,australia-national-rugby-union-team,australia-national-rugby-union-team,UNK
+Australia,38961514,2,7,,http://en.wikipedia.org/wiki/Mr._Australia,Mr. Australia,mr-australia,mr-australia,ORG
+Australia,26451490,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Adelaide,Australia/Adelaide,australia-adelaide,australia-adelaide,PER
+Australia,65836,173,290,4689264;1026286,http://en.wikipedia.org/wiki/Republicanism_in_Australia,Republicanism in Australia,republicanism-in-australia,republicanism-in-australia,UNK
+Australia,984508,214,355,4689264,http://en.wikipedia.org/wiki/Internet_censorship_in_Australia,Internet censorship in Australia,internet-censorship-in-australia,internet-censorship-in-australia,UNK
+Australia,243669,51,155,4689264,http://en.wikipedia.org/wiki/Australia_II,Australia II,australia-ii,australia-ii,UNK
+Australia,42450678,37,51,,"http://en.wikipedia.org/wiki/Australia,_Mississippi","Australia, Mississippi",australia-mississippi,australia-mississippi,GPE
+Australia,26451463,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Melbourne,Australia/Melbourne,australia-melbourne,australia-melbourne,PER
+Australia,27960950,4,21,4689264;27960950,http://en.wikipedia.org/wiki/MS_Australia,MS Australia,ms-australia,ms-australia,UNK
+Australia,7214224,5,22,4689264,http://en.wikipedia.org/wiki/National_Police_Memorial_Australia,National Police Memorial Australia,national-police-memorial-australia,national-police-memorial-australia,UNK
+Australia,10680720,15,21,,http://en.wikipedia.org/wiki/Australia_Hotel,Australia Hotel,australia-hotel,australia-hotel,UNK
+Australia,1460635,58,63,,"http://en.wikipedia.org/wiki/Wittenoom,_Western_Australia","Wittenoom, Western Australia",wittenoom-western-australia,wittenoom-western-australia,UNK
+Australia,37398196,0,1,,http://en.wikipedia.org/wiki/Australia_(KA-5),Australia,australia,australia-ka-5,PER
+Australia,26451470,2,10,4689264,http://en.wikipedia.org/wiki/Australia/Brisbane,Australia/Brisbane,australia-brisbane,australia-brisbane,PER
+Australia,42585823,126,145,,http://en.wikipedia.org/wiki/Australia_(Modern_Family),Australia,australia,australia-modern-family,UNK
+Australia,26451498,2,9,4689264,http://en.wikipedia.org/wiki/Australia/Perth,Australia/Perth,australia-perth,australia-perth,PER
+Australia,49732,126,120,4689264;14560,http://en.wikipedia.org/wiki/Australia_Group,Australia Group,australia-group,australia-group,ORG
+Australia,20611325,466,326,18950948;4689264;20611325,http://en.wikipedia.org/wiki/Australia_(continent),Australia,australia,australia-continent,UNK
+Dan Jenson,7447334,9,11,4689264,http://en.wikipedia.org/wiki/Dan_Jenson,Dan Jenson,dan-jenson,dan-jenson,UNK
+Peter Nicol,2947276,99,87,464417;26994;33983644;9316;4689264;3428311;2525758;23235,http://en.wikipedia.org/wiki/Peter_Nicol,Peter Nicol,peter-nicol,peter-nicol,PER
+Scotland,26994,59696,1247,7838122;8458308;9904;9316;134736;569201;691024;13404;14560;157602;23248387;578101;578510;407950;21265;268075;23235;147575;2947276;26994;152256;2286781;8627650;2525758;168432;33983644;6020679;39852802;8391466;3124987;2313050;22829002;758049;12013979;2005692;94545;93249;4689264;2595680;1244783;1349199,http://en.wikipedia.org/wiki/Scotland,Scotland,scotland,scotland,GPE
+Scotland,2565278,29,32,,"http://en.wikipedia.org/wiki/Scotland,_Arkansas","Scotland, Arkansas",scotland-arkansas,scotland-arkansas,UNK
+Scotland,3755676,19,24,,"http://en.wikipedia.org/wiki/Scotland,_Florida","Scotland, Florida",scotland-florida,scotland-florida,UNK
+Scotland,29702949,59,65,2595680,"http://en.wikipedia.org/wiki/Scotland,_Pennsylvania","Scotland, Pennsylvania",scotland-pennsylvania,scotland-pennsylvania,GPE
+Scotland,34406561,0,6,10263724,http://en.wikipedia.org/wiki/Scotland_Township,Scotland Township,scotland-township,scotland-township,GPE
+Scotland,23248387,2100,436,147575;152256;157602;407950;9316;21265;23248387;3124987;14560;969337;168432;26994,http://en.wikipedia.org/wiki/Kingdom_of_Scotland,Kingdom of Scotland,kingdom-of-scotland,kingdom-of-scotland,GPE
+Scotland,15129947,63,70,,"http://en.wikipedia.org/wiki/Scotland,_Indiana","Scotland, Indiana",scotland-indiana,scotland-indiana,GPE
+Scotland,3161801,20,35,,"http://en.wikipedia.org/wiki/Scotland,_Virginia","Scotland, Virginia",scotland-virginia,scotland-virginia,GPE
+Scotland,578101,5193,593,9904;9316;578101;26994;578510;569201;6967081;758049,http://en.wikipedia.org/wiki/Scotland_national_football_team,Scotland national football team,scotland-national-football-team,scotland-national-football-team,ORG
+Scotland,569201,907,241,569201;578101;26994,http://en.wikipedia.org/wiki/BBC_Scotland,BBC Scotland,bbc-scotland,bbc-scotland,UNK
+Scotland,9298757,49,45,,"http://en.wikipedia.org/wiki/Scotland,_Maryland","Scotland, Maryland",scotland-maryland,scotland-maryland,GPE
+Scotland,1349199,22,27,9316;26994,http://en.wikipedia.org/wiki/Scotland_Road,Scotland Road,scotland-road,scotland-road,UNK
+Scotland,758049,2714,553,691024;9316;620967;578101;4689264;26994,http://en.wikipedia.org/wiki/Scotland_national_rugby_union_team,Scotland national rugby union team,scotland-national-rugby-union-team,scotland-national-rugby-union-team,UNK
+Scotland,3124987,339,398,157602;156486;3124987;9316;21265;26994;2313050;23248387,http://en.wikipedia.org/wiki/Geography_of_Scotland,Geography of Scotland,geography-of-scotland,geography-of-scotland,UNK
+Scotland,2286781,339,136,7838122;26994,http://en.wikipedia.org/wiki/Scotland_Rugby_League,Scotland Rugby League,scotland-rugby-league,scotland-rugby-league,UNK
+Scotland,26980591,31,36,94545,"http://en.wikipedia.org/wiki/Scotland,_Missouri","Scotland, Missouri",scotland-missouri,scotland-missouri,GPE
+Scotland,22828968,0,5,12891901;22829002,http://en.wikipedia.org/wiki/Scotland_Street,Scotland Street,scotland-street,scotland-street,UNK
+Scotland,2579874,42,99,4689264,"http://en.wikipedia.org/wiki/Scotland_Island,_New_South_Wales","Scotland Island, New South Wales",scotland-island-new-south-wales,scotland-island-new-south-wales,UNK
+Scotland,8458308,78,114,26994,http://en.wikipedia.org/wiki/Scotland_(The_Goodies),Scotland,scotland,scotland-the-goodies,UNK
+Scotland,10263724,39,298,34406561,"http://en.wikipedia.org/wiki/Scotland_Township,_McDonough_County,_Illinois","Scotland Township, McDonough County, Illinois",scotland-township-mcdonough-county-illinois,scotland-township-mcdonough-county-illinois,UNK
+Scotland,22829002,12,11,26994;22828968,"http://en.wikipedia.org/wiki/Scotland_Street,_Glasgow","Scotland Street, Glasgow",scotland-street-glasgow,scotland-street-glasgow,UNK
+Scotland,7838122,127,93,26994;2286781,http://en.wikipedia.org/wiki/Scotland_GAA,Scotland GAA,scotland-gaa,scotland-gaa,GPE
+Scotland,94545,433,283,26980591;94545;535528;26994,"http://en.wikipedia.org/wiki/Scotland_County,_Missouri","Scotland County, Missouri",scotland-county-missouri,scotland-county-missouri,GPE
+Scotland,93249,356,272,93249;535528;26994,"http://en.wikipedia.org/wiki/Scotland_County,_North_Carolina","Scotland County, North Carolina",scotland-county-north-carolina,scotland-county-north-carolina,GPE
+Scotland,39852802,1,10,26994,http://en.wikipedia.org/wiki/Scotland_Institute,Scotland Institute,scotland-institute,scotland-institute,UNK
+Scotland,151103,20,44,,"http://en.wikipedia.org/wiki/Scotland,_Texas","Scotland, Texas",scotland-texas,scotland-texas,GPE
+Scotland,134736,32,52,26994,"http://en.wikipedia.org/wiki/Scotland,_South_Dakota","Scotland, South Dakota",scotland-south-dakota,scotland-south-dakota,GPE
+Scotland,108875,73,109,,"http://en.wikipedia.org/wiki/Scotland,_Connecticut","Scotland, Connecticut",scotland-connecticut,scotland-connecticut,GPE
+Scotland,535528,0,2,94545;93249,http://en.wikipedia.org/wiki/Scotland_County,Scotland County,scotland-county,scotland-county,UNK
+Scotland,157602,543,503,3124987;9316;21265;4689264;26994;23248387,http://en.wikipedia.org/wiki/Tourism_in_Scotland,Tourism in Scotland,tourism-in-scotland,tourism-in-scotland,UNK
+Scotland,2595680,147,158,26994;29702949,"http://en.wikipedia.org/wiki/Scotland,_PA","Scotland, PA",scotland-pa,scotland-pa,UNK
+Scotland,12891901,136,120,22828968,"http://en.wikipedia.org/wiki/Scotland_Street,_Suffolk","Scotland Street, Suffolk",scotland-street-suffolk,scotland-street-suffolk,UNK
+Scotland,110367,22,34,,"http://en.wikipedia.org/wiki/Scotland,_Georgia","Scotland, Georgia",scotland-georgia,scotland-georgia,GPE
+Chris Walker,3672106,15,7,9316;6308998;7555328,http://en.wikipedia.org/wiki/Chris_Walker_(squash_player),Chris Walker,chris-walker,chris-walker-squash-player,UNK
+Chris Walker,6012451,5,12,21265;6308998,http://en.wikipedia.org/wiki/Chris_Walker_(footballer),Chris Walker,chris-walker,chris-walker-footballer,PER
+Chris Walker,26435612,11,10,6308998,http://en.wikipedia.org/wiki/Chris_Walker_(musician),Chris Walker,chris-walker,chris-walker-musician,UNK
+Chris Walker,6308998,3,8,6126520;38170774;26435612;6012451;23691577;3672106;2857245;39083185,http://en.wikipedia.org/wiki/Chris_Walker,Chris Walker,chris-walker,chris-walker,PER
+Chris Walker,38170774,24,24,6308998,http://en.wikipedia.org/wiki/Chris_Walker_(basketball),Chris Walker,chris-walker,chris-walker-basketball,UNK
+Chris Walker,23691577,36,23,6308998,http://en.wikipedia.org/wiki/Chris_Walker_(actor),Chris Walker,chris-walker,chris-walker-actor,PER
+Chris Walker,100002448,0,0,,http://en.wikipedia.org/wiki/Chris_Walker_(baseball),Chris Walker,chris-walker,chris-walker-baseball,PER
+Chris Walker,2857245,90,109,6308998;9316;4689264,http://en.wikipedia.org/wiki/Chris_Walker_(motorcycle_racer),Chris Walker,chris-walker,chris-walker-motorcycle-racer,UNK
+Chris Walker,39083185,5,5,6308998,http://en.wikipedia.org/wiki/Chris_Walker_(cyclist),Chris Walker,chris-walker,chris-walker-cyclist,UNK
+Chris Walker,6126520,63,53,4689264;6308998,http://en.wikipedia.org/wiki/Chris_Walker_(rugby_league),Chris Walker,chris-walker,chris-walker-rugby-league,UNK
+Rodney Eyles,3428311,62,72,4689264;33983644;2525758;2947276,http://en.wikipedia.org/wiki/Rodney_Eyles,Rodney Eyles,rodney-eyles,rodney-eyles,PER
+Derek Ryan,39039839,0,4,39491852;39039941;24449519,http://en.wikipedia.org/wiki/Derek_Ryan,Derek Ryan,derek-ryan,derek-ryan,PER
+Derek Ryan,39039941,9,18,39039839;14560,http://en.wikipedia.org/wiki/Derek_Ryan_(singer),Derek Ryan,derek-ryan,derek-ryan-singer,UNK
+Derek Ryan,24449519,11,13,39039839;147575;14560,http://en.wikipedia.org/wiki/Derek_Ryan_(squash_player),Derek Ryan,derek-ryan,derek-ryan-squash-player,PER
+Derek Ryan,39491852,2,17,39039839,http://en.wikipedia.org/wiki/Derek_Ryan_(ice_hockey),Derek Ryan,derek-ryan,derek-ryan-ice-hockey,PER
+Ireland,14560,33957,1344,8391466;39039941;7154641;972201;9316;13404;6967081;759295;759125;156486;23248387;578510;2005692;407950;21265;268075;23235;147575;2731678;26994;152256;4689264;25689950;18933019;24449519;168432;49732,http://en.wikipedia.org/wiki/Republic_of_Ireland,Republic of Ireland,republic-of-ireland,republic-of-ireland,GPE
+Ireland,3392129,62,72,147575,http://en.wikipedia.org/wiki/Ireland_national_Australian_rules_football_team,Ireland national Australian rules football team,ireland-national-australian-rules-football-team,ireland-national-australian-rules-football-team,UNK
+Ireland,7154641,98,69,14560,http://en.wikipedia.org/wiki/Ireland_AM,Ireland AM,ireland-am,ireland-am,UNK
+Ireland,2410633,50,60,147575,"http://en.wikipedia.org/wiki/Ireland,_Indiana","Ireland, Indiana",ireland-indiana,ireland-indiana,GPE
+Ireland,21932111,1,6,,"http://en.wikipedia.org/wiki/Ireland,_Nova_Scotia","Ireland, Nova Scotia",ireland-nova-scotia,ireland-nova-scotia,GPE
+Ireland,18583408,3,15,,http://en.wikipedia.org/wiki/Mount_Ireland,Mount Ireland,mount-ireland,mount-ireland,UNK
+Ireland,2560333,34,59,147575,http://en.wikipedia.org/wiki/Great_Ireland,Great Ireland,great-ireland,great-ireland,UNK
+Ireland,8391466,1483,312,6967081;8391466;14560;9316;21265;26994;578510,http://en.wikipedia.org/wiki/League_of_Ireland,League of Ireland,league-of-ireland,league-of-ireland,ORG
+Ireland,21265,20794,1109,8391466;3124987;972201;9316;6012451;13404;11803289;6967081;18933019;14560;2313050;168432;156486;157602;23248387;578510;2005692;6020679;407950;21265;23235;147575;26994;152256;4689264,http://en.wikipedia.org/wiki/Northern_Ireland,Northern Ireland,northern-ireland,northern-ireland,GPE
+Ireland,168432,1145,353,147575;156486;18933019;14560;152256;407950;9316;21265;25689950;26994;23248387,http://en.wikipedia.org/wiki/Kingdom_of_Ireland,Kingdom of Ireland,kingdom-of-ireland,kingdom-of-ireland,GPE
+Ireland,152256,8595,755,156486;23248387;407950;21265;25689950;147575;9316;26994;152256;18933019;14560;969337;168432,http://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland,United Kingdom of Great Britain and Ireland,united-kingdom-of-great-britain-and-ireland,united-kingdom-of-great-britain-and-ireland,GPE
+Ireland,156486,225,517,147575;18933019;3124987;168432;9316;21265;14560;152256,http://en.wikipedia.org/wiki/Geography_of_Ireland,Geography of Ireland,geography-of-ireland,geography-of-ireland,UNK
+Ireland,100007221,0,0,,http://en.wikipedia.org/wiki/Ireland_(Home_Nation),Ireland,ireland,ireland-home-nation,UKN
+Ireland,972201,206,257,21265;14560,http://en.wikipedia.org/wiki/Communist_Party_of_Ireland,Communist Party of Ireland,communist-party-of-ireland,communist-party-of-ireland,UNK
+Ireland,2917157,50,63,147575,"http://en.wikipedia.org/wiki/Ireland,_West_Virginia","Ireland, West Virginia",ireland-west-virginia,ireland-west-virginia,GPE
+Ireland,18933019,318,328,147575;156486;18933019;168432;21265;14560;152256;13404,http://en.wikipedia.org/wiki/Economy_of_the_Republic_of_Ireland,Economy of the Republic of Ireland,economy-of-the-republic-of-ireland,economy-of-the-republic-of-ireland,UNK
+Ireland,6967081,981,283,147575;8391466;14560;9904;578101;21265;578510,http://en.wikipedia.org/wiki/Ireland_national_football_team_(1882–1950),Ireland national football team,ireland-national-football-team,ireland-national-football-team-1882–1950,UNK
+Ireland,16045038,132,151,9316,"http://en.wikipedia.org/wiki/Ireland,_Bedfordshire","Ireland, Bedfordshire",ireland-bedfordshire,ireland-bedfordshire,GPE
+Ireland,25689950,3,118,14560;152256;168432,http://en.wikipedia.org/wiki/Blasphemy_law_in_the_Republic_of_Ireland,Blasphemy law in the Republic of Ireland,blasphemy-law-in-the-republic-of-ireland,blasphemy-law-in-the-republic-of-ireland,UNK
+Ireland,3187717,31,11,147575,"http://en.wikipedia.org/wiki/Ireland_Island,_Bermuda","Ireland Island, Bermuda",ireland-island-bermuda,ireland-island-bermuda,UNK
+Ireland,1930320,166,231,9316,http://en.wikipedia.org/wiki/Ireland_Bridge,Ireland Bridge,ireland-bridge,ireland-bridge,UNK
+Ireland,22120682,7,27,147575,http://en.wikipedia.org/wiki/Ireland_Park,Ireland Park,ireland-park,ireland-park,UNK
+Ireland,35298741,5,3,147575,http://en.wikipedia.org/wiki/Little_Ireland,Little Ireland,little-ireland,little-ireland,GPE
+Ireland,147575,33024,1097,2917157;35298741;9316;22120682;2560333;6967081;14560;759295;2313050;156486;23248387;578510;407950;21265;147575;2731678;26994;152256;4689264;3392129;18933019;24449519;168432;3187717;2410633;2825496,http://en.wikipedia.org/wiki/Ireland,Ireland,ireland,ireland,GPE
+Ireland,2731678,171,173,147575;14560;578510,http://en.wikipedia.org/wiki/Stephen_Ireland,Stephen Ireland,stephen-ireland,stephen-ireland,PER
+Ireland,578510,2532,578,147575;8391466;9904;2731678;9316;21265;6967081;14560;578101;26994;578510,http://en.wikipedia.org/wiki/Republic_of_Ireland_national_football_team,Republic of Ireland national football team,republic-of-ireland-national-football-team,republic-of-ireland-national-football-team,UNK

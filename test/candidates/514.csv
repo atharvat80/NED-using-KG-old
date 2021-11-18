@@ -1,0 +1,211 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+LONDON,17867,92094,1769,18743234;3736;4179;33567266;4721;27902154;423106;12249;1679120;823473;17867;13190957;277942;31717;1290035;1786946;187448;3879356;2023355;25866628;24168328;5188309;24653935;2171552;12152512;22437586;3204747;33789688;98370;238524;18998750;118409;1113158;125325;249511;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,2023355,27,32,17867;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,187448,1900,216,823473;17867;508567;4721;640154;31717,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,12249,3253,543,2193334;17867;640154;3736;118409;1113158;4721;1679120;13861;249511;98370;31717;6965285;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,1679120,12,181,17867;98370;12249;31717,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,118409,547,127,17867;12249,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,238524,118,60,17867;4721,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,326248,1048,124,31717,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,13190957,2,122,17867;31717,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,423106,380,196,17867;13861;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,7984054,3,37,31717,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+British,31717,184306,1536,3736;4179;4721;12249;1679120;13861;6965285;17867;13190957;31717;33139;2528948;4208015;326248;9004141;24168328;335698;2584324;7795182;3574003;18998750;9200791;125325;18743234;1513051;7984054;1786946;3257059;187448;21242033;35306935;19097669;24065492;201013;5188309;2011283;2171552;460615;12152512;9058746;3204747;9934632;752921;21308184,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+British,4208015,6322,788,335698;19097669;3574003;4721;31717,http://en.wikipedia.org/wiki/British_Raj,British Raj,british-raj,british-raj,GPE
+British,22315902,2,16,,http://en.wikipedia.org/wiki/British_school,British school,british-school,british-school,ORG
+British,377070,55,22,3736,http://en.wikipedia.org/wiki/British_Islands,British Islands,british-islands,british-islands,UNK
+British,21308184,2,10,31717,"http://en.wikipedia.org/wiki/British_School,_Kuala_Lumpur","British School, Kuala Lumpur",british-school-kuala-lumpur,british-school-kuala-lumpur,ORG
+British,19097669,5651,715,3736;4179;4721;4208015;7795182;14539;31717,http://en.wikipedia.org/wiki/British_people,British people,british-people,british-people,UNK
+British,4179,1639,331,17867;4179;4721;19097669;31717;3736,http://en.wikipedia.org/wiki/British_English,British English,british-english,british-english,UNK
+British,12068557,33,45,3574003;12068557,http://en.wikipedia.org/wiki/British_India_(band),British India,british-india,british-india-band,UNK
+British,1513051,536,241,31717,http://en.wikipedia.org/wiki/British_Formula_Three_Championship,British Formula Three Championship,british-formula-three-championship,british-formula-three-championship,UNK
+British,3736,2695,375,17867;4179;4721;13861;377070;19097669;31717;12249;3736,http://en.wikipedia.org/wiki/British_Isles,British Isles,british-isles,british-isles,UNK
+British,5188309,390,398,9934632;31717;9004141;17867;3204747;9058746;5188309;1786946,http://en.wikipedia.org/wiki/Energy_efficiency_in_British_housing,Energy efficiency in British housing,energy-efficiency-in-british-housing,energy-efficiency-in-british-housing,UNK
+British,752921,36,197,752921;31717,http://en.wikipedia.org/wiki/British_humour,British humour,british-humour,british-humour,UNK
+British,9200791,227,281,9200791;31717,http://en.wikipedia.org/wiki/British_Figure_Skating_Championships,British Figure Skating Championships,british-figure-skating-championships,british-figure-skating-championships,UNK
+British,2528948,87,128,1347221;31717,http://en.wikipedia.org/wiki/British_Airways_Flight_9,British Airways Flight 9,british-airways-flight-9,british-airways-flight-9,UNK
+British,1347221,57,98,2528948,http://en.wikipedia.org/wiki/British_Airways_Flight_5390,British Airways Flight 5390,british-airways-flight-5390,british-airways-flight-5390,UNK
+British,460615,608,224,24168328;31717,http://en.wikipedia.org/wiki/British_undergraduate_degree_classification,British undergraduate degree classification,british-undergraduate-degree-classification,british-undergraduate-degree-classification,UNK
+British,4721,7762,934,17867;19097669;3574003;3736;4179;4721;238524;2011283;12249;4208015;187448;31717,http://en.wikipedia.org/wiki/British_Empire,British Empire,british-empire,british-empire,UNK
+British,9467811,242,263,,http://en.wikipedia.org/wiki/British_baseball,British baseball,british-baseball,british-baseball,UNK
+British,13353120,113,130,,http://en.wikipedia.org/wiki/British_Band,British Band,british-band,british-band,UNK
+British,201013,43,50,31717,http://en.wikipedia.org/wiki/Lord_British,Lord British,lord-british,lord-british,UNK
+British,3574003,155,303,31717;4208015;4721;12068557,http://en.wikipedia.org/wiki/Presidencies_and_provinces_of_British_India,Presidencies and provinces of British India,presidencies-and-provinces-of-british-india,presidencies-and-provinces-of-british-india,GPE
+Costain Group Plc,3204747,195,166,3204752;9058746;9934632;5188309;31717;9004141;17867;1786946,http://en.wikipedia.org/wiki/Costain_Group,Costain Group,costain-group,costain-group,UNK
+ARC,12152512,10,8,1786946;31717;17867,http://en.wikipedia.org/wiki/Amalgamated_Roadstone_Corporation,Amalgamated Roadstone Corporation,amalgamated-roadstone-corporation,amalgamated-roadstone-corporation,UNK
+ARC,30337733,364,344,,http://en.wikipedia.org/wiki/Sony_Ericsson_Xperia_Arc,Sony Ericsson Xperia Arc,sony-ericsson-xperia-arc,sony-ericsson-xperia-arc,UNK
+ARC,1239265,259,80,,http://en.wikipedia.org/wiki/Electric_arc,Electric arc,electric-arc,electric-arc,UNK
+ARC,731812,4,16,,http://en.wikipedia.org/wiki/ARC_group,ARC group,arc-group,arc-group,UNK
+ARC,29916392,1,9,,http://en.wikipedia.org/wiki/Arc_system,Arc system,arc-system,arc-system,PER
+ARC,30876030,68,71,,http://en.wikipedia.org/wiki/Giuseppe_Arcimboldo,Giuseppe Arcimboldo,giuseppe-arcimboldo,giuseppe-arcimboldo,PER
+ARC,1919632,20,25,6668530,http://en.wikipedia.org/wiki/Arc_(Savoie),Arc,arc,arc-savoie,UNK
+ARC,264158,44,35,275015,http://en.wikipedia.org/wiki/Archimedean_property,Archimedean property,archimedean-property,archimedean-property,PER
+ARC,24653935,1,45,17867,http://en.wikipedia.org/wiki/ARC_UK,ARC UK,arc-uk,arc-uk,UNK
+ARC,5744937,8,9,,http://en.wikipedia.org/wiki/Arc_(projective_geometry),Arc,arc,arc-projective-geometry,PER
+ARC,167417,120,159,167417,http://en.wikipedia.org/wiki/Archimedes_Palimpsest,Archimedes Palimpsest,archimedes-palimpsest,archimedes-palimpsest,UNK
+ARC,3082731,149,28,,http://en.wikipedia.org/wiki/Arc_(geometry),Arc,arc,arc-geometry,PER
+ARC,1721455,0,9,,http://en.wikipedia.org/wiki/Arc_(Bahá'í),Arc,arc,arc-bahai,UNK
+ARC,27445038,0,8,,http://en.wikipedia.org/wiki/Grand_Arc,Grand Arc,grand-arc,grand-arc,UNK
+ARC,12319895,161,34,,http://en.wikipedia.org/wiki/Architectural_firm,Architectural firm,architectural-firm,architectural-firm,UNK
+ARC,1102339,1050,391,,http://en.wikipedia.org/wiki/Volcanic_arc,Volcanic arc,volcanic-arc,volcanic-arc,UNK
+ARC,529844,704,49,529844,http://en.wikipedia.org/wiki/Story_arc,Story arc,story-arc,story-arc,UNK
+ARC,1942523,255,262,,http://en.wikipedia.org/wiki/Architecture_of_Windows_NT,Architecture of Windows NT,architecture-of-windows-nt,architecture-of-windows-nt,UNK
+ARC,53917,686,227,,http://en.wikipedia.org/wiki/Archetype,Archetype,archetype,archetype,UNK
+ARC,24180050,13,86,,http://en.wikipedia.org/wiki/ARC_(football_club),ARC,arc,arc-football-club,UNK
+ARC,61559,35,29,,http://en.wikipedia.org/wiki/Archimedean_spiral,Archimedean spiral,archimedean-spiral,archimedean-spiral,UNK
+ARC,12566618,162,161,1105241,http://en.wikipedia.org/wiki/Arc_International,Arc International,arc-international,arc-international,UNK
+ARC,1517465,150,118,,http://en.wikipedia.org/wiki/ARC_(file_format),ARC,arc,arc-file-format,UNK
+ARC,6668530,18,12,1919632,http://en.wikipedia.org/wiki/Arc_(Provence),Arc,arc,arc-provence,UNK
+ARC,24172579,9,60,,http://en.wikipedia.org/wiki/Arc_(protein),Arc,arc,arc-protein,UNK
+ARC,24065492,4,23,31717,http://en.wikipedia.org/wiki/ARC_Europe,ARC Europe,arc-europe,arc-europe,ORG
+ARC,1098713,968,244,1098713,http://en.wikipedia.org/wiki/Arcade_Fire,Arcade Fire,arcade-fire,arcade-fire,UNK
+ARC,1105241,27,31,12566618,http://en.wikipedia.org/wiki/ARC_International,ARC International,arc-international,arc-international,UNK
+ARC,22826860,67,150,,http://en.wikipedia.org/wiki/Architects_&_Engineers_for_9/11_Truth,Architects & Engineers for 9/11 Truth,architects-engineers-for-9-11-truth,architects-engineers-for-9-11-truth,UNK
+ARC,8470584,20,14,,http://en.wikipedia.org/wiki/Circumzenithal_arc,Circumzenithal arc,circumzenithal-arc,circumzenithal-arc,UNK
+ARC,188190,12,22,,http://en.wikipedia.org/wiki/Arc_(programming_language),Arc,arc,arc-programming-language,UNK
+Hanson Plc,1786946,253,170,3204747;9058746;9934632;5188309;31717;9004141;17867;12152512,http://en.wikipedia.org/wiki/Hanson_plc,Hanson plc,hanson-plc,hanson-plc,UNK
+David Harding,612684,0,2,24168328,http://en.wikipedia.org/wiki/David_Harding,David Harding,david-harding,david-harding,PER
+David Harding,24168328,6,25,460615;17867;31717;612684,http://en.wikipedia.org/wiki/David_Harding_(finance),David Harding,david-harding,david-harding-finance,UNK
+Hanson,1786946,253,170,3204747;9058746;9934632;5188309;31717;9004141;17867;12152512,http://en.wikipedia.org/wiki/Hanson_plc,Hanson plc,hanson-plc,hanson-plc,UNK
+Internet,33139,4162,569,35306935;11357820;11340650;203466;1616492;769088;14489292;13110980;14539;31717;100245;1141591,http://en.wikipedia.org/wiki/World_Wide_Web,World Wide Web,world-wide-web,world-wide-web,UNK
+Internet,35306935,60,323,1616492;14837;11357820;33139;31717;100245;14539;203466;11340650,http://en.wikipedia.org/wiki/Global_Internet_usage,Global Internet usage,global-internet-usage,global-internet-usage,ORG
+Internet,33789688,54,54,17867,http://en.wikipedia.org/wiki/The_Internet_(band),The Internet,the-internet,the-internet-band,UNK
+Internet,1141591,384,256,33139;14539,http://en.wikipedia.org/wiki/Rich_Internet_application,Rich Internet application,rich-internet-application,rich-internet-application,UNK
+Internet,11340650,45,382,33139;35306935;14539,http://en.wikipedia.org/wiki/Internet_in_Australia,Internet in Australia,internet-in-australia,internet-in-australia,UNK
+Internet,100245,1344,357,1616492;769088;35306935;33185411;33139;14837;11357820;14539;203466,http://en.wikipedia.org/wiki/Internet_service_provider,Internet service provider,internet-service-provider,internet-service-provider,ORG
+Internet,41644357,40,55,,http://en.wikipedia.org/wiki/Internet_Party_(New_Zealand),Internet Party,internet-party,internet-party-new-zealand,UNK
+Internet,14837,420,243,1616492;35306935;100245;203466;11357820;14730;14539,http://en.wikipedia.org/wiki/Internet_Message_Access_Protocol,Internet Message Access Protocol,internet-message-access-protocol,internet-message-access-protocol,UNK
+Internet,12057519,149,113,14539,http://en.wikipedia.org/wiki/Internet_of_Things,Internet of Things,internet-of-things,internet-of-things,ORG
+Internet,36557539,1,31,,http://en.wikipedia.org/wiki/Internet_Association,Internet Association,internet-association,internet-association,UNK
+Internet,362779,13,32,,http://en.wikipedia.org/wiki/Swatch_Internet_Time,Swatch Internet Time,swatch-internet-time,swatch-internet-time,UNK
+Internet,33185411,38,10,100245,http://en.wikipedia.org/wiki/Internet_Group,Internet Group,internet-group,internet-group,UNK
+Internet,23388120,2,37,14539,http://en.wikipedia.org/wiki/Internet_activism_during_2009_Iranian_election_protests,Internet activism during 2009 Iranian election protests,internet-activism-during-2009-iranian-election-protests,internet-activism-during-2009-iranian-election-protests,UNK
+Internet,14539,12639,758,35306935;33139;19097669;11340650;1282741;1616492;769088;8674550;100245;203466;294813;14837;14730;14539;11357820;23388120;1141591;12057519;28659846,http://en.wikipedia.org/wiki/Internet,Internet,internet,internet,UNK
+Internet,203466,203,79,1616492;14837;11357820;33139;35306935;100245;14539,http://en.wikipedia.org/wiki/Internet_Society,Internet Society,internet-society,internet-society,UNK
+Internet,3094956,1,4,,http://en.wikipedia.org/wiki/Internet_Privacy_Act,Internet Privacy Act,internet-privacy-act,internet-privacy-act,UNK
+Internet,13110980,4,122,33139,http://en.wikipedia.org/wiki/Internet_church,Internet church,internet-church,internet-church,ORG
+Internet,30273440,5,6,,http://en.wikipedia.org/wiki/Internet_Party_(Spain),Internet Party,internet-party,internet-party-spain,ORG
+Internet,2584324,71,59,31717,http://en.wikipedia.org/wiki/Legal_status_of_Internet_pornography,Legal status of Internet pornography,legal-status-of-internet-pornography,legal-status-of-internet-pornography,UNK
+Internet,1616492,539,97,33139;35306935;294813;100245;203466;1282741;14837;14539,http://en.wikipedia.org/wiki/Internet_meme,Internet meme,internet-meme,internet-meme,UNK
+Internet,14730,746,325,294813;14837;14730;14539,http://en.wikipedia.org/wiki/Internet_Relay_Chat,Internet Relay Chat,internet-relay-chat,internet-relay-chat,UNK
+Internet,8674550,80,90,14539,http://en.wikipedia.org/wiki/Temporary_Internet_Files,Temporary Internet Files,temporary-internet-files,temporary-internet-files,UNK
+Internet,294813,1004,119,1616492;14730;14539,http://en.wikipedia.org/wiki/Internet_forum,Internet forum,internet-forum,internet-forum,UNK
+Internet,769088,140,501,33139;100245;11357820;14539,http://en.wikipedia.org/wiki/Satellite_Internet_access,Satellite Internet access,satellite-internet-access,satellite-internet-access,UNK
+Internet,7798768,5,8,7798768,http://en.wikipedia.org/wiki/Internet_band,Internet band,internet-band,internet-band,UNK
+Internet,1282741,6,29,1616492;14539,http://en.wikipedia.org/wiki/Internets,Internets,internets,internets,UNK
+Internet,28659846,8,51,14539,"http://en.wikipedia.org/wiki/Internet_Co.,_Ltd.","Internet Co., Ltd.",internet-co-ltd,internet-co-ltd,UNK
+Internet,23921713,2,5,,http://en.wikipedia.org/wiki/Internet_Journal,Internet Journal,internet-journal,internet-journal,UNK
+Internet,11357820,19,129,14837;14539;769088;203466;33139;35306935;100245,http://en.wikipedia.org/wiki/Internet_in_the_United_States,Internet in the United States,internet-in-the-united-states,internet-in-the-united-states,UNK
+Building,9934632,220,160,3204747;9058746;5188309;31717;9004141;1786946,http://en.wikipedia.org/wiki/Building_(magazine),Building,building,building-magazine,ORG
+Building,40157779,1,73,,"http://en.wikipedia.org/wiki/California_Building_(Reno,_Nevada)",California Building,california-building,california-building-reno-nevada,UNK
+Building,2160833,34,22,,http://en.wikipedia.org/wiki/63_Building,63 Building,63-building,63-building,UNK
+Building,275015,13,64,264158,http://en.wikipedia.org/wiki/Building_(mathematics),Building,building,building-mathematics,UNK
+Building,14489292,13,58,33139,http://en.wikipedia.org/wiki/Link_building,Link building,link-building,link-building,UNK
+Building,45995,1292,294,,http://en.wikipedia.org/wiki/Building,Building,building,building,UNK
+Building,8568740,43,31,,http://en.wikipedia.org/wiki/Building_model,Building model,building-model,building-model,UNK
+Building,4776,365,165,4776,http://en.wikipedia.org/wiki/Building_society,Building society,building-society,building-society,UNK
+Building,217577,160,59,,http://en.wikipedia.org/wiki/Reichstag_building,Reichstag building,reichstag-building,reichstag-building,UNK
+Building,30161016,11,18,,http://en.wikipedia.org/wiki/General_Building,General Building,general-building,general-building,UNK
+Building,21807600,0,6,,http://en.wikipedia.org/wiki/Judge_Building,Judge Building,judge-building,judge-building,UNK
+Building,30490800,2,22,,http://en.wikipedia.org/wiki/National_Building,National Building,national-building,national-building,UNK
+Costain,3204747,195,166,3204752;9058746;9934632;5188309;31717;9004141;17867;1786946,http://en.wikipedia.org/wiki/Costain_Group,Costain Group,costain-group,costain-group,UNK
+Costain,3204752,8,12,3204747,http://en.wikipedia.org/wiki/Costain,Costain,costain,costain,UNK
+Newbury,125325,738,324,885489;17867;31717;13861;24607276;249511;11427178;116754;21675101,"http://en.wikipedia.org/wiki/Newbury,_Berkshire","Newbury, Berkshire",newbury-berkshire,newbury-berkshire,GPE
+Newbury,558421,2,2,6965285;1158892,http://en.wikipedia.org/wiki/Newbury_Park,Newbury Park,newbury-park,newbury-park,UNK
+Newbury,5250767,91,86,24607276;27082616;173466,http://en.wikipedia.org/wiki/Newbury_College_(United_States),Newbury College,newbury-college,newbury-college-united-states,UNK
+Newbury,6965285,49,99,12249;558421;31717,"http://en.wikipedia.org/wiki/Newbury_Park,_London","Newbury Park, London",newbury-park-london,newbury-park-london,GPE
+Newbury,1071555,32,161,1071555,http://en.wikipedia.org/wiki/Newbury_Street,Newbury Street,newbury-street,newbury-street,UNK
+Newbury,27082616,0,2,5250767;24607276,http://en.wikipedia.org/wiki/Newbury_College,Newbury College,newbury-college,newbury-college,ORG
+Newbury,13831278,40,51,,"http://en.wikipedia.org/wiki/Newbury_Township,_LaGrange_County,_Indiana","Newbury Township, LaGrange County, Indiana",newbury-township-lagrange-county-indiana,newbury-township-lagrange-county-indiana,GPE
+Newbury,260235,33,49,768142;260236,"http://en.wikipedia.org/wiki/Newbury_(village),_Vermont","Newbury (village), Vermont",newbury-village-vermont,newbury-village-vermont,GPE
+Newbury,5302462,37,52,,"http://en.wikipedia.org/wiki/Newbury_Township,_Geauga_County,_Ohio","Newbury Township, Geauga County, Ohio",newbury-township-geauga-county-ohio,newbury-township-geauga-county-ohio,GPE
+Newbury,21675101,65,61,125325,http://en.wikipedia.org/wiki/Newbury_F.C.,Newbury F.C.,newbury-fc,newbury-fc,UNK
+Newbury,28881696,2,5,,"http://en.wikipedia.org/wiki/Newbury,_Kent","Newbury, Kent",newbury-kent,newbury-kent,GPE
+Newbury,1158892,128,94,558421,"http://en.wikipedia.org/wiki/Newbury_Park,_California","Newbury Park, California",newbury-park-california,newbury-park-california,UNK
+Newbury,116754,194,225,124848;260236;125325;76194,"http://en.wikipedia.org/wiki/Newbury,_Massachusetts","Newbury, Massachusetts",newbury-massachusetts,newbury-massachusetts,GPE
+Newbury,124848,156,80,116754,"http://en.wikipedia.org/wiki/Newbury,_New_Hampshire","Newbury, New Hampshire",newbury-new-hampshire,newbury-new-hampshire,GPE
+Newbury,260236,80,87,116754;768142;260235,"http://en.wikipedia.org/wiki/Newbury_(town),_Vermont","Newbury (town), Vermont",newbury-town-vermont,newbury-town-vermont,GPE
+Newbury,885489,7,16,125325,http://en.wikipedia.org/wiki/Newbury_Castle,Newbury Castle,newbury-castle,newbury-castle,UNK
+Newbury,768142,1,4,260236;260235,"http://en.wikipedia.org/wiki/Newbury,_Vermont","Newbury, Vermont",newbury-vermont,newbury-vermont,UNK
+Newbury,11427178,18,19,125325,"http://en.wikipedia.org/wiki/Newbury,_Ontario","Newbury, Ontario",newbury-ontario,newbury-ontario,GPE
+Newbury,24607276,90,90,5250767;27082616;125325,http://en.wikipedia.org/wiki/Newbury_College_(England),Newbury College,newbury-college,newbury-college-england,UNK
+Reuters,18998750,9093,418,17867;18998750;2171552;31717,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,17867;18998750;31717,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Earth First,31327744,2,13,178776;31327744,http://en.wikipedia.org/wiki/Earth_First!_(magazine),Earth First!,earth-first,earth-first-magazine,ORG
+Earth First,178776,124,96,277942;31327744,http://en.wikipedia.org/wiki/Earth_First!,Earth First!,earth-first,earth-first,ORG
+The Land is Ours,18743234,8,11,31717;17867,http://en.wikipedia.org/wiki/The_Land_is_Ours,The Land is Ours,the-land-is-ours,the-land-is-ours,ORG
+M3,27521754,10,14,274631,http://en.wikipedia.org/wiki/M3:_Malay_Mo_Ma-develop,M3: Malay Mo Ma-develop,m3-malay-mo-ma-develop,m3-malay-mo-ma-develop,UNK
+M3,335698,209,159,31717;4208015;2011283;274631,http://en.wikipedia.org/wiki/M3_Lee,M3 Lee,m3-lee,m3-lee,UNK
+M3,274631,8,56,1679064;2011283;14198625;12226965;27521754;965751;4069043;21242033;335698;274631;249511;5970583;8687196,http://en.wikipedia.org/wiki/M3,M3,m3,m3,UNK
+M3,249511,806,308,17867;274631;125325;13861;12249;249511;277942;24618444,http://en.wikipedia.org/wiki/M3_motorway_(Great_Britain),M3 motorway,m3-motorway,m3-motorway-great-britain,UNK
+M3,965751,575,162,274631,http://en.wikipedia.org/wiki/BMW_M3,BMW M3,bmw-m3,bmw-m3,UNK
+M3,14198625,515,499,274631,http://en.wikipedia.org/wiki/Muscarinic_acetylcholine_receptor_M3,Muscarinic acetylcholine receptor M3,muscarinic-acetylcholine-receptor-m3,muscarinic-acetylcholine-receptor-m3,UNK
+M3,5970583,43,69,274631,http://en.wikipedia.org/wiki/M1/M3_(railcar),M1/M3,m1-m3,m1-m3-railcar,UNK
+M3,2011283,90,105,4721;31717;335698;274631,http://en.wikipedia.org/wiki/M3_Scout_Car,M3 Scout Car,m3-scout-car,m3-scout-car,UNK
+M3,19191,568,68,,http://en.wikipedia.org/wiki/M,M,m,m,GPE
+M3,1679064,53,54,274631,http://en.wikipedia.org/wiki/Leica_M3,Leica M3,leica-m3,leica-m3,UNK
+M3,24618444,0,8,249511,http://en.wikipedia.org/wiki/M3_motorway,M3 motorway,m3-motorway,m3-motorway,UNK
+M3,4069043,10,40,274631,http://en.wikipedia.org/wiki/M3_road_(Cape_Town),M3 road,m3-road,m3-road-cape-town,UNK
+M3,8687196,24,31,274631,http://en.wikipedia.org/wiki/M3_Records,M3 Records,m3-records,m3-records,UNK
+M3,12226965,33,14,274631,http://en.wikipedia.org/wiki/M3_(band),M3,m3,m3-band,UNK
+M3,21242033,114,122,31717;21242033;274631,http://en.wikipedia.org/wiki/M3_submachine_gun,M3 submachine gun,m3-submachine-gun,m3-submachine-gun,UNK
+Twyford Down,277942,44,74,17867;13861;178776;249511,http://en.wikipedia.org/wiki/Twyford_Down,Twyford Down,twyford-down,twyford-down,UNK
+Hampshire,13861,6963,385,3257059;3736;423106;512824;1919370;12249;125325;13861;249511;277942;91044;7623384;76194;31717,http://en.wikipedia.org/wiki/Hampshire,Hampshire,hampshire,hampshire,UNK
+Hampshire,173466,467,358,76194;5250767;173466,http://en.wikipedia.org/wiki/Hampshire_College,Hampshire College,hampshire-college,hampshire-college,ORG
+Hampshire,111372,88,75,9394036,"http://en.wikipedia.org/wiki/Hampshire,_Illinois","Hampshire, Illinois",hampshire-illinois,hampshire-illinois,GPE
+Hampshire,91044,649,411,13861;512824;3526326;91044,"http://en.wikipedia.org/wiki/Hampshire_County,_West_Virginia","Hampshire County, West Virginia",hampshire-county-west-virginia,hampshire-county-west-virginia,GPE
+Hampshire,25196330,3,3,,"http://en.wikipedia.org/wiki/Hampshire,_Prince_Edward_Island","Hampshire, Prince Edward Island",hampshire-prince-edward-island,hampshire-prince-edward-island,GPE
+Hampshire,1919370,2244,194,13861,http://en.wikipedia.org/wiki/Hampshire_County_Cricket_Club,Hampshire County Cricket Club,hampshire-county-cricket-club,hampshire-county-cricket-club,UNK
+Hampshire,32811042,17,27,,"http://en.wikipedia.org/wiki/Hampshire,_Tennessee","Hampshire, Tennessee",hampshire-tennessee,hampshire-tennessee,GPE
+Hampshire,9394036,66,76,111372,"http://en.wikipedia.org/wiki/Hampshire_Township,_Kane_County,_Illinois","Hampshire Township, Kane County, Illinois",hampshire-township-kane-county-illinois,hampshire-township-kane-county-illinois,GPE
+Hampshire,3257059,10,9,13861;31717,http://en.wikipedia.org/wiki/Hampshire_sheep,Hampshire sheep,hampshire-sheep,hampshire-sheep,UNK
+Hampshire,7623384,0,6,13861,http://en.wikipedia.org/wiki/Hampshire_pig,Hampshire pig,hampshire-pig,hampshire-pig,UNK
+Hampshire,16483160,43,52,,"http://en.wikipedia.org/wiki/Hampshire_Township,_Clinton_County,_Iowa","Hampshire Township, Clinton County, Iowa",hampshire-township-clinton-county-iowa,hampshire-township-clinton-county-iowa,GPE
+Hampshire,5117027,8,23,,http://en.wikipedia.org/wiki/Hampshire_Mall,Hampshire Mall,hampshire-mall,hampshire-mall,UNK
+Hampshire,76194,576,204,13861;76194;512824;173466;116754,"http://en.wikipedia.org/wiki/Hampshire_County,_Massachusetts","Hampshire County, Massachusetts",hampshire-county-massachusetts,hampshire-county-massachusetts,GPE
+Hampshire,512824,0,3,13861;76194;91044,http://en.wikipedia.org/wiki/Hampshire_County,Hampshire County,hampshire-county,hampshire-county,UNK
+Hampshire,8944095,1,6,,"http://en.wikipedia.org/wiki/Hampshire,_Tasmania","Hampshire, Tasmania",hampshire-tasmania,hampshire-tasmania,UNK
+Hampshire,3526326,50,66,91044,"http://en.wikipedia.org/wiki/Hampshire,_West_Virginia","Hampshire, West Virginia",hampshire-west-virginia,hampshire-west-virginia,GPE
+Construction Industry Council,9004141,175,163,3204747;1786946;9058746;9934632;5188309;31717,http://en.wikipedia.org/wiki/Construction_Industry_Council,Construction Industry Council,construction-industry-council,construction-industry-council,ORG
+Construction Industry Council,36485209,83,91,36485209,http://en.wikipedia.org/wiki/Construction_Industry_Council_Hong_Kong,Construction Industry Council Hong Kong,construction-industry-council-hong-kong,construction-industry-council-hong-kong,UNK
+Harding,612684,0,2,24168328,http://en.wikipedia.org/wiki/David_Harding,David Harding,david-harding,david-harding,PER
+Harding,24168328,6,25,460615;17867;31717;612684,http://en.wikipedia.org/wiki/David_Harding_(finance),David Harding,david-harding,david-harding-finance,UNK
+Simon Brown,2984385,38,21,2986399,http://en.wikipedia.org/wiki/Simon_Brown_(author),Simon Brown,simon-brown,simon-brown-author,UNK
+Simon Brown,3733951,17,18,2986399,http://en.wikipedia.org/wiki/Simon_Brown_(cricketer),Simon Brown,simon-brown,simon-brown-cricketer,UNK
+Simon Brown,2986399,7,8,6336123;7795182;3733951;10936109;6749694;2984385,http://en.wikipedia.org/wiki/Simon_Brown,Simon Brown,simon-brown,simon-brown,PER
+Simon Brown,7377024,0,70,,"http://en.wikipedia.org/wiki/Simon_Brown_(footballer,_born_1976)",Simon Brown,simon-brown,simon-brown-footballer-born-1976,PER
+Simon Brown,6749694,94,99,2986399,http://en.wikipedia.org/wiki/Simon_Brown_(Massachusetts),Simon Brown,simon-brown,simon-brown-massachusetts,UNK
+Simon Brown,4722845,0,42,,"http://en.wikipedia.org/wiki/Simon_Brown_(footballer,_born_1983)",Simon Brown,simon-brown,simon-brown-footballer-born-1983,PER
+Simon Brown,7795182,64,31,31717;19097669;2986399,"http://en.wikipedia.org/wiki/Simon_Brown,_Baron_Brown_of_Eaton-under-Heywood","Simon Brown, Baron Brown of Eaton-under-Heywood",simon-brown-baron-brown-of-eaton-under-heywood,simon-brown-baron-brown-of-eaton-under-heywood,PER
+Simon Brown,6336123,25,22,2986399,http://en.wikipedia.org/wiki/Simon_Brown_(boxer),Simon Brown,simon-brown,simon-brown-boxer,PER
+Simon Brown,10936109,2,8,2986399,http://en.wikipedia.org/wiki/Simon_Brown_(musician),Simon Brown,simon-brown,simon-brown-musician,UNK
+UBS,25866628,615,536,17867,http://en.wikipedia.org/wiki/UBS,UBS,ubs,ubs,UNK
+Tarmac,9058746,8,209,3204747;167921;9934632;5188309;31717;9004141;1786946,http://en.wikipedia.org/wiki/Tarmac_Group,Tarmac Group,tarmac-group,tarmac-group,UNK
+Tarmac,167921,355,115,9058746,http://en.wikipedia.org/wiki/Tarmac,Tarmac,tarmac,tarmac,UNK

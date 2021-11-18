@@ -1,0 +1,134 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+ENGLISH F.A. CUP,11237,12088,643,17867;347780;23857;11237,http://en.wikipedia.org/wiki/FA_Cup,FA Cup,fa-cup,fa-cup,UNK
+LONDON,17867,92094,1769,33567266;27902154;423106;11237;12249;1679120;823473;17867;13190957;23508;1290035;187448;3879356;2023355;22437586;376904;98370;238524;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,12249,3253,543,2193334;17867;640154;118409;1113158;1679120;98370;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,326248,1048,124,,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,2023355,27,32,17867;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,264093,1797,198,3025142;1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,187448,1900,216,823473;17867;508567;640154,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,238524,118,60,489446;17867,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,118409,547,127,17867;12249,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,7984054,3,37,,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,13190957,2,122,17867,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,1679120,12,181,17867;98370;12249,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+Plymouth,23857,2769,243,347780;23857;11237;23508,http://en.wikipedia.org/wiki/Plymouth_Argyle_F.C.,Plymouth Argyle F.C.,plymouth-argyle-fc,plymouth-argyle-fc,UNK
+Plymouth,918514,3,153,,http://en.wikipedia.org/wiki/Plymouth_Church_(Brooklyn),Plymouth Church,plymouth-church,plymouth-church-brooklyn,UNK
+Plymouth,17792372,40,57,,"http://en.wikipedia.org/wiki/Plymouth,_West_Virginia","Plymouth, West Virginia",plymouth-west-virginia,plymouth-west-virginia,GPE
+Plymouth,33747569,2,79,,http://en.wikipedia.org/wiki/The_Plymouth,The Plymouth,the-plymouth,the-plymouth,UNK
+Plymouth,18396862,56,67,,"http://en.wikipedia.org/wiki/Little_Plymouth,_Virginia","Little Plymouth, Virginia",little-plymouth-virginia,little-plymouth-virginia,GPE
+Plymouth,2436444,84,27,,"http://en.wikipedia.org/wiki/Plymouth,_Devonport_and_South_Western_Junction_Railway","Plymouth, Devonport and South Western Junction Railway",plymouth-devonport-and-south-western-junction-railway,plymouth-devonport-and-south-western-junction-railway,UNK
+Plymouth,2096880,12,9,2185120,"http://en.wikipedia.org/wiki/Plymouth,_Yarmouth_County,_Nova_Scotia","Plymouth, Yarmouth County, Nova Scotia",plymouth-yarmouth-county-nova-scotia,plymouth-yarmouth-county-nova-scotia,GPE
+Plymouth,29451907,28,83,1308115,"http://en.wikipedia.org/wiki/Plymouth_Township,_Russell_County,_Kansas","Plymouth Township, Russell County, Kansas",plymouth-township-russell-county-kansas,plymouth-township-russell-county-kansas,GPE
+Plymouth,34927979,56,84,,http://en.wikipedia.org/wiki/Plymouth_Theatre_(Boston),Plymouth Theatre,plymouth-theatre,plymouth-theatre-boston,UNK
+Plymouth,120220,517,278,,"http://en.wikipedia.org/wiki/Plymouth,_Minnesota","Plymouth, Minnesota",plymouth-minnesota,plymouth-minnesota,GPE
+Plymouth,128338,116,55,,"http://en.wikipedia.org/wiki/Plymouth,_North_Carolina","Plymouth, North Carolina",plymouth-north-carolina,plymouth-north-carolina,GPE
+Plymouth,111263,101,70,,"http://en.wikipedia.org/wiki/Plymouth,_Illinois","Plymouth, Illinois",plymouth-illinois,plymouth-illinois,GPE
+Plymouth,957403,7,17,23508,http://en.wikipedia.org/wiki/Mount_Plymouth,Mount Plymouth,mount-plymouth,mount-plymouth,UNK
+Plymouth,1330464,3,18,10399876;1329460;259486,http://en.wikipedia.org/wiki/USS_Plymouth_(SP-3308),USS Plymouth,uss-plymouth,uss-plymouth-sp-3308,UNK
+Plymouth,1308115,0,11,29451907;133398,http://en.wikipedia.org/wiki/Plymouth_Township,Plymouth Township,plymouth-township,plymouth-township,GPE
+Plymouth,133398,247,262,141563;1308115,"http://en.wikipedia.org/wiki/Plymouth_Township,_Montgomery_County,_Pennsylvania","Plymouth Township, Montgomery County, Pennsylvania",plymouth-township-montgomery-county-pennsylvania,plymouth-township-montgomery-county-pennsylvania,GPE
+Plymouth,376904,96,130,17867,"http://en.wikipedia.org/wiki/Plymouth,_Montserrat","Plymouth, Montserrat",plymouth-montserrat,plymouth-montserrat,GPE
+Plymouth,259485,80,95,12535880;259486,"http://en.wikipedia.org/wiki/Plymouth_Center,_Massachusetts","Plymouth Center, Massachusetts",plymouth-center-massachusetts,plymouth-center-massachusetts,GPE
+Plymouth,944236,9,10,2185120,"http://en.wikipedia.org/wiki/Plymouth,_Pictou_County,_Nova_Scotia","Plymouth, Pictou County, Nova Scotia",plymouth-pictou-county-nova-scotia,plymouth-pictou-county-nova-scotia,UNK
+Plymouth,1332401,27,37,259486;1329460,http://en.wikipedia.org/wiki/USS_Plymouth_(1867),USS Plymouth,uss-plymouth,uss-plymouth-1867,UNK
+Plymouth,13909934,0,2,,"http://en.wikipedia.org/wiki/Plymouth_Township,_Ohio","Plymouth Township, Ohio",plymouth-township-ohio,plymouth-township-ohio,UNK
+Plymouth,141563,9,2,133398,"http://en.wikipedia.org/wiki/Plymouth_Township,_Pennsylvania","Plymouth Township, Pennsylvania",plymouth-township-pennsylvania,plymouth-township-pennsylvania,GPE
+Plymouth,850518,145,168,10497591;23508;36614585,http://en.wikipedia.org/wiki/Plymouth_College,Plymouth College,plymouth-college,plymouth-college,UNK
+Plymouth,259575,285,117,259486,"http://en.wikipedia.org/wiki/Plymouth,_New_Hampshire","Plymouth, New Hampshire",plymouth-new-hampshire,plymouth-new-hampshire,GPE
+Plymouth,4889861,28,86,,"http://en.wikipedia.org/wiki/Plymouth,_Mississippi","Plymouth, Mississippi",plymouth-mississippi,plymouth-mississippi,UNK
+Plymouth,1187989,75,82,,"http://en.wikipedia.org/wiki/Plymouth,_Florida","Plymouth, Florida",plymouth-florida,plymouth-florida,GPE
+Plymouth,23779838,55,71,,"http://en.wikipedia.org/wiki/Plymouth,_Washington","Plymouth, Washington",plymouth-washington,plymouth-washington,GPE
+Plymouth,18746240,0,1,,"http://en.wikipedia.org/wiki/Plymouth,_IN_µSA","Plymouth, IN µSA",plymouth-in-µsa,plymouth-in-µsa,PER
+Plymouth,2185120,0,2,2096880;944236,"http://en.wikipedia.org/wiki/Plymouth,_Nova_Scotia","Plymouth, Nova Scotia",plymouth-nova-scotia,plymouth-nova-scotia,GPE
+Plymouth,260690,123,86,,"http://en.wikipedia.org/wiki/Plymouth,_Wisconsin","Plymouth, Wisconsin",plymouth-wisconsin,plymouth-wisconsin,GPE
+Plymouth,24498337,1,19,259486,"http://en.wikipedia.org/wiki/Plymouth,_Missouri","Plymouth, Missouri",plymouth-missouri,plymouth-missouri,GPE
+Plymouth,725748,76,98,23508,http://en.wikipedia.org/wiki/Plymouth_Duster,Plymouth Duster,plymouth-duster,plymouth-duster,UNK
+Plymouth,108759,174,141,23508;259486,"http://en.wikipedia.org/wiki/Plymouth,_Connecticut","Plymouth, Connecticut",plymouth-connecticut,plymouth-connecticut,GPE
+Plymouth,259486,951,611,1332401;24498337;1330464;12535880;108759;1332507;203838;1329454;259485;259575;17703374;23508;10399876,"http://en.wikipedia.org/wiki/Plymouth,_Massachusetts","Plymouth, Massachusetts",plymouth-massachusetts,plymouth-massachusetts,GPE
+Plymouth,1329454,26,22,10399876;259486;1329460,http://en.wikipedia.org/wiki/USS_Plymouth_(1844),USS Plymouth,uss-plymouth,uss-plymouth-1844,UNK
+Plymouth,417261,166,274,33719893;3161751;23508,http://en.wikipedia.org/wiki/Plymouth_University,Plymouth University,plymouth-university,plymouth-university,ORG
+Plymouth,1329460,6,6,1332401;1332507;1330464;1329454,http://en.wikipedia.org/wiki/USS_Plymouth,USS Plymouth,uss-plymouth,uss-plymouth,UNK
+Plymouth,489446,52,6,238524,http://en.wikipedia.org/wiki/Plymouth_Company,Plymouth Company,plymouth-company,plymouth-company,ORG
+Plymouth,10289720,2,1,,"http://en.wikipedia.org/wiki/Plymouth,_IN_μSA","Plymouth, IN μSA",plymouth-in-μsa,plymouth-in-μsa,PER
+Plymouth,26976765,6,17,,http://en.wikipedia.org/wiki/Plymouth_(software),Plymouth,plymouth,plymouth-software,UNK
+Plymouth,536323,0,2,,http://en.wikipedia.org/wiki/Plymouth_County,Plymouth County,plymouth-county,plymouth-county,UNK
+Plymouth,10399876,24,23,12535880;17703374;259486;23508;1332507;1330464;1329454,http://en.wikipedia.org/wiki/Plymouth_Bay,Plymouth Bay,plymouth-bay,plymouth-bay,UNK
+Plymouth,17703374,75,150,259486;10399876,http://en.wikipedia.org/wiki/Plymouth_Light,Plymouth Light,plymouth-light,plymouth-light,UNK
+Plymouth,1332507,14,32,10399876;259486;1329460,http://en.wikipedia.org/wiki/USS_Plymouth_(PG-57),USS Plymouth,uss-plymouth,uss-plymouth-pg-57,UNK
+Plymouth,112477,191,172,,"http://en.wikipedia.org/wiki/Plymouth,_Indiana","Plymouth, Indiana",plymouth-indiana,plymouth-indiana,GPE
+Plymouth,23508,4215,693,17867;36614585;33719893;850518;259486;10399876;957403;108759;417261;725748;23857;1446014,http://en.wikipedia.org/wiki/Plymouth,Plymouth,plymouth,plymouth,GPE
+Plymouth,12535880,79,81,10399876;259486;259485,"http://en.wikipedia.org/wiki/Plymouth_Beach,_Massachusetts","Plymouth Beach, Massachusetts",plymouth-beach-massachusetts,plymouth-beach-massachusetts,UNK
+Plymouth,42705204,24,27,,"http://en.wikipedia.org/wiki/Plymouth,_Kansas","Plymouth, Kansas",plymouth-kansas,plymouth-kansas,UNK
+Exeter,347780,2037,239,347780;36614585;23857;11237,http://en.wikipedia.org/wiki/Exeter_City_F.C.,Exeter City F.C.,exeter-city-fc,exeter-city-fc,UNK
+Exeter,33369172,89,102,36614585,http://en.wikipedia.org/wiki/Exeter_services,Exeter services,exeter-services,exeter-services,UNK
+Exeter,131361,232,250,141450;1341632;36614585,"http://en.wikipedia.org/wiki/Exeter_Township,_Berks_County,_Pennsylvania","Exeter Township, Berks County, Pennsylvania",exeter-township-berks-county-pennsylvania,exeter-township-berks-county-pennsylvania,GPE
+Exeter,116118,95,106,203838,"http://en.wikipedia.org/wiki/Exeter,_Maine","Exeter, Maine",exeter-maine,exeter-maine,GPE
+Exeter,19708812,1,2,1561890;1446014,http://en.wikipedia.org/wiki/Exeter_Airport,Exeter Airport,exeter-airport,exeter-airport,UNK
+Exeter,1561890,3,26,19708812;108292;1446014,http://en.wikipedia.org/wiki/Exeter_Airport_(United_States),Exeter Airport,exeter-airport,exeter-airport-united-states,UNK
+Exeter,33719893,1004,391,33719893;128331;417261;3161751;1090729;23508;36614585,http://en.wikipedia.org/wiki/University_of_Exeter,University of Exeter,university-of-exeter,university-of-exeter,ORG
+Exeter,33090334,3,149,,"http://en.wikipedia.org/wiki/Exeter_(Leesburg,_Virginia)",Exeter,exeter,exeter-leesburg-virginia,UNK
+Exeter,20742402,3,42,,"http://en.wikipedia.org/wiki/Exeter_(Federalsburg,_Maryland)",Exeter,exeter,exeter-federalsburg-maryland,UNK
+Exeter,134198,39,42,36614585;1341632;141450,"http://en.wikipedia.org/wiki/Exeter_Township,_Wyoming_County,_Pennsylvania","Exeter Township, Wyoming County, Pennsylvania",exeter-township-wyoming-county-pennsylvania,exeter-township-wyoming-county-pennsylvania,GPE
+Exeter,1090729,37,47,36614585;33719893,"http://en.wikipedia.org/wiki/University_of_Exeter,_Cornwall_Campus","University of Exeter, Cornwall Campus",university-of-exeter-cornwall-campus,university-of-exeter-cornwall-campus,UNK
+Exeter,2504807,14,11,203838,http://en.wikipedia.org/wiki/Exeter_River,Exeter River,exeter-river,exeter-river,UNK
+Exeter,118188,41,64,,"http://en.wikipedia.org/wiki/Exeter_Township,_Michigan","Exeter Township, Michigan",exeter-township-michigan,exeter-township-michigan,GPE
+Exeter,37154269,37,52,,"http://en.wikipedia.org/wiki/Exeter,_Virginia","Exeter, Virginia",exeter-virginia,exeter-virginia,GPE
+Exeter,19316485,3,39,36614585,http://en.wikipedia.org/wiki/HM_Prison_Exeter,HM Prison Exeter,hm-prison-exeter,hm-prison-exeter,UNK
+Exeter,1446014,609,378,19708812;1561890;23508;36614585,http://en.wikipedia.org/wiki/Exeter_International_Airport,Exeter International Airport,exeter-international-airport,exeter-international-airport,UNK
+Exeter,37795669,1,1,,http://en.wikipedia.org/wiki/Exeter_Hospital,Exeter Hospital,exeter-hospital,exeter-hospital,UNK
+Exeter,34654057,9,30,,http://en.wikipedia.org/wiki/Exeter_(1792),Exeter,exeter,exeter-1792,UNK
+Exeter,23410771,5,19,,http://en.wikipedia.org/wiki/Exeter_Bridge,Exeter Bridge,exeter-bridge,exeter-bridge,GPE
+Exeter,111896,17,31,203838,"http://en.wikipedia.org/wiki/Exeter,_Illinois","Exeter, Illinois",exeter-illinois,exeter-illinois,GPE
+Exeter,15749261,31,46,1341632,"http://en.wikipedia.org/wiki/Exeter_Township,_Clay_County,_Kansas","Exeter Township, Clay County, Kansas",exeter-township-clay-county-kansas,exeter-township-clay-county-kansas,GPE
+Exeter,133035,151,175,36614585;133036,"http://en.wikipedia.org/wiki/Exeter,_Pennsylvania","Exeter, Pennsylvania",exeter-pennsylvania,exeter-pennsylvania,GPE
+Exeter,3161751,60,66,36614585;417261;33719893,"http://en.wikipedia.org/wiki/Exeter_College,_Exeter","Exeter College, Exeter",exeter-college-exeter,exeter-college-exeter,ORG
+Exeter,141450,1,3,131361;133036;134198,"http://en.wikipedia.org/wiki/Exeter_Township,_Pennsylvania","Exeter Township, Pennsylvania",exeter-township-pennsylvania,exeter-township-pennsylvania,GPE
+Exeter,133036,133,145,36614585;141450;1341632;133035,"http://en.wikipedia.org/wiki/Exeter_Township,_Luzerne_County,_Pennsylvania","Exeter Township, Luzerne County, Pennsylvania",exeter-township-luzerne-county-pennsylvania,exeter-township-luzerne-county-pennsylvania,GPE
+Exeter,34512192,1,16,36614585,http://en.wikipedia.org/wiki/Exeter_Group,Exeter Group,exeter-group,exeter-group,UNK
+Exeter,203838,719,368,116118;203844;259486;111896;2504807;123888;36614585,"http://en.wikipedia.org/wiki/Exeter,_New_Hampshire","Exeter, New Hampshire",exeter-new-hampshire,exeter-new-hampshire,GPE
+Exeter,128331,954,182,33719893;36614585,"http://en.wikipedia.org/wiki/Exeter_College,_Oxford","Exeter College, Oxford",exeter-college-oxford,exeter-college-oxford,UNK
+Exeter,15139049,52,67,122504;1341632,"http://en.wikipedia.org/wiki/Exeter_Township,_Barry_County,_Missouri","Exeter Township, Barry County, Missouri",exeter-township-barry-county-missouri,exeter-township-barry-county-missouri,GPE
+Exeter,127012,64,72,36614585,"http://en.wikipedia.org/wiki/Exeter,_New_York","Exeter, New York",exeter-new-york,exeter-new-york,GPE
+Exeter,3025142,95,44,36614585;264093,"http://en.wikipedia.org/wiki/Exeter,_Ontario","Exeter, Ontario",exeter-ontario,exeter-ontario,GPE
+Exeter,33973571,41,56,139110,"http://en.wikipedia.org/wiki/Exeter_(community),_Wisconsin","Exeter (community), Wisconsin",exeter-community-wisconsin,exeter-community-wisconsin,GPE
+Exeter,769331,90,75,36614585,http://en.wikipedia.org/wiki/Exeter_Book,Exeter Book,exeter-book,exeter-book,UNK
+Exeter,1341632,0,6,15749261;15139049;131361;133036;134198,http://en.wikipedia.org/wiki/Exeter_Township,Exeter Township,exeter-township,exeter-township,GPE
+Exeter,139110,42,61,33973571;36614585,"http://en.wikipedia.org/wiki/Exeter,_Wisconsin","Exeter, Wisconsin",exeter-wisconsin,exeter-wisconsin,GPE
+Exeter,123888,32,63,203838,"http://en.wikipedia.org/wiki/Exeter,_Nebraska","Exeter, Nebraska",exeter-nebraska,exeter-nebraska,GPE
+Exeter,134342,189,137,36614585,"http://en.wikipedia.org/wiki/Exeter,_Rhode_Island","Exeter, Rhode Island",exeter-rhode-island,exeter-rhode-island,GPE
+Exeter,108292,152,136,1561890,"http://en.wikipedia.org/wiki/Exeter,_California","Exeter, California",exeter-california,exeter-california,GPE
+Exeter,1033709,78,91,36614585,"http://en.wikipedia.org/wiki/Exeter,_New_South_Wales","Exeter, New South Wales",exeter-new-south-wales,exeter-new-south-wales,UNK
+Exeter,28636213,4,4,,http://en.wikipedia.org/wiki/Exeter_monastery,Exeter monastery,exeter-monastery,exeter-monastery,UNK
+Exeter,3782000,55,65,36614585,"http://en.wikipedia.org/wiki/Exeter,_South_Australia","Exeter, South Australia",exeter-south-australia,exeter-south-australia,UNK
+Exeter,14919882,11,23,,"http://en.wikipedia.org/wiki/Exeter,_Tasmania","Exeter, Tasmania",exeter-tasmania,exeter-tasmania,UNK
+Exeter,122504,58,79,36614585;15139049,"http://en.wikipedia.org/wiki/Exeter,_Missouri","Exeter, Missouri",exeter-missouri,exeter-missouri,GPE
+Exeter,36614585,2580,503,347780;122504;769331;133036;133035;3025142;131361;10497591;1033709;134342;134198;33719893;128331;139110;33369172;19316485;34512192;203838;1446014;850518;127012;3161751;1090729;23508;3782000,http://en.wikipedia.org/wiki/Exeter,Exeter,exeter,exeter,GPE
+Exeter,10497591,141,127,36614585;850518,http://en.wikipedia.org/wiki/Exeter_School,Exeter School,exeter-school,exeter-school,UNK
+Exeter,203844,645,249,203838,http://en.wikipedia.org/wiki/Phillips_Exeter_Academy,Phillips Exeter Academy,phillips-exeter-academy,phillips-exeter-academy,ORG

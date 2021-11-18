@@ -1,0 +1,100 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+YORK,34361,4231,660,9904;720769;9316;4645171;349341;1427043;407950;2436511;9979614;969337;727606,http://en.wikipedia.org/wiki/York,York,york,york,GPE
+YORK,273484,518,252,273484,http://en.wikipedia.org/wiki/Thom_Yorke,Thom Yorke,thom-yorke,thom-yorke,UNK
+YORK,31475893,0,1,31475869,http://en.wikipedia.org/wiki/Edward_York,Edward York,edward-york,edward-york,PER
+YORK,5689376,26,85,3530410;2102286,http://en.wikipedia.org/wiki/York_Airport_(Pennsylvania),York Airport,york-airport,york-airport-pennsylvania,UNK
+YORK,3396401,21,29,3145132,http://en.wikipedia.org/wiki/York_University_(YRT),York University,york-university,york-university-yrt,UNK
+YORK,1305754,96,99,3145132,http://en.wikipedia.org/wiki/Royal_York_(TTC),Royal York,royal-york,royal-york-ttc,UNK
+YORK,10489684,320,306,,"http://en.wikipedia.org/wiki/York,_Edmonton","York, Edmonton",york-edmonton,york-edmonton,PER
+YORK,720678,0,3,720769;2590839;580792,http://en.wikipedia.org/wiki/York_River,York River,york-river,york-river,UNK
+YORK,18328889,3,72,,http://en.wikipedia.org/wiki/York_Hill,York Hill,york-hill,york-hill,UNK
+YORK,720769,221,44,39916947;34361;720678,http://en.wikipedia.org/wiki/York_River_(Virginia),York River,york-river,york-river-virginia,UNK
+YORK,20110488,78,42,,http://en.wikipedia.org/wiki/York_Theatre,York Theatre,york-theatre,york-theatre,UNK
+YORK,2327899,5,15,3197620,http://en.wikipedia.org/wiki/York_School_(California),York School,york-school,york-school-california,ORG
+YORK,12043804,92,113,,http://en.wikipedia.org/wiki/Mount_York,Mount York,mount-york,mount-york,UNK
+YORK,580792,16,37,720678,http://en.wikipedia.org/wiki/York_River_(Ontario),York River,york-river,york-river-ontario,UNK
+YORK,2436511,290,188,9316;34361;22104477,"http://en.wikipedia.org/wiki/York,_Western_Australia","York, Western Australia",york-western-australia,york-western-australia,UNK
+YORK,9979614,1,14,9316;34361,http://en.wikipedia.org/wiki/York_Brewery,York Brewery,york-brewery,york-brewery,UNK
+YORK,3530410,0,3,5689376,http://en.wikipedia.org/wiki/York_Airport,York Airport,york-airport,york-airport,UNK
+YORK,22104477,24,14,2436511,http://en.wikipedia.org/wiki/Electoral_district_of_York,Electoral district of York,electoral-district-of-york,electoral-district-of-york,UNK
+YORK,25549740,2,8,,http://en.wikipedia.org/wiki/York_Theatre_(Montreal),York Theatre,york-theatre,york-theatre-montreal,UNK
+YORK,3197620,0,2,17456035;2327899,http://en.wikipedia.org/wiki/York_School,York School,york-school,york-school,ORG
+YORK,349341,129,159,34361;969337,http://en.wikipedia.org/wiki/York_Castle,York Castle,york-castle,york-castle,UNK
+YORK,5846136,34,44,,http://en.wikipedia.org/wiki/York_(group),York,york,york-group,UNK
+YORK,31100024,5,8,,http://en.wikipedia.org/wiki/York_Club,York Club,york-club,york-club,UNK
+YORK,9286616,1,36,,http://en.wikipedia.org/wiki/York_Township,York Township,york-township,york-township,GPE
+YORK,9019151,9,20,,http://en.wikipedia.org/wiki/City_of_York_(barque),City of York,city-of-york,city-of-york-barque,ORG
+YORK,17456035,178,180,3197620,http://en.wikipedia.org/wiki/York_School_(Toronto),York School,york-school,york-school-toronto,UNK
+YORK,4115055,53,19,,http://en.wikipedia.org/wiki/York_Street,York Street,york-street,york-street,UNK
+YORK,5527911,10,22,,http://en.wikipedia.org/wiki/York_Street_(IND_Sixth_Avenue_Line),York Street,york-street,york-street-ind-sixth-avenue-line,UNK
+YORK,1427043,1112,86,9316;34361,http://en.wikipedia.org/wiki/Province_of_York,Province of York,province-of-york,province-of-york,UNK
+YORK,22383955,32,11,,http://en.wikipedia.org/wiki/York_Stadium,York Stadium,york-stadium,york-stadium,UNK
+YORK,4358437,20,149,9316,http://en.wikipedia.org/wiki/York_Road_(stadium),York Road,york-road,york-road-stadium,UNK
+YORK,1767913,41,24,,http://en.wikipedia.org/wiki/York_(electoral_district),York,york,york-electoral-district,PER
+YORK,31475869,3,7,31475893,http://en.wikipedia.org/wiki/Edward_York_(politician),Edward York,edward-york,edward-york-politician,PER
+YORK,3145132,87,96,1305754;3396401,http://en.wikipedia.org/wiki/York_University_(TTC),York University,york-university,york-university-ttc,UNK
+YORK,4645171,86,120,34361;9316,http://en.wikipedia.org/wiki/First_York,First York,first-york,first-york,UNK
+YORK,2102286,22,3,5689376,http://en.wikipedia.org/wiki/York_International,York International,york-international,york-international,ORG
+YORK,864510,289,334,,http://en.wikipedia.org/wiki/York_Park,York Park,york-park,york-park,UNK
+YORK,2590839,13,18,720678,http://en.wikipedia.org/wiki/York_River_(Maine),York River,york-river,york-river-maine,UNK
+YORK,3310716,105,107,,http://en.wikipedia.org/wiki/York_Railway,York Railway,york-railway,york-railway,UNK
+YORK,533818,0,9,,http://en.wikipedia.org/wiki/York_County,York County,york-county,york-county,UNK
+YORK,2576442,17,188,,http://en.wikipedia.org/wiki/York_(explorer),York,york,york-explorer,PER
+YORK,39555250,3,6,,http://en.wikipedia.org/wiki/York_Island_(Sierra_Leone),York Island,york-island,york-island-sierra-leone,UNK
+YORK,38629910,34,62,,http://en.wikipedia.org/wiki/York_(First_Exit_to_Brooklyn),York,york,york-first-exit-to-brooklyn,UNK
+YORK,17039974,60,61,,http://en.wikipedia.org/wiki/York_Island_(Wisconsin),York Island,york-island,york-island-wisconsin,UNK
+England,9316,158848,1726,286698;9904;9316;13434941;34361;1427043;9979614;2313050;32294776;4645171;4358437;691024;11803289;969337;158390;407950;24357628;24030679;6020679;2436511;759125;727606;259609,http://en.wikipedia.org/wiki/England,England,england,england,GPE
+England,407950,3926,354,9316;34361;407950;2313050;969337,http://en.wikipedia.org/wiki/Kingdom_of_England,Kingdom of England,kingdom-of-england,kingdom-of-england,GPE
+England,9904,10143,731,34361;9904;9316;691024;11803289;2313050;759125,http://en.wikipedia.org/wiki/England_national_football_team,England national football team,england-national-football-team,england-national-football-team,UNK
+England,759125,3045,583,9904;9316;691024;2313050,http://en.wikipedia.org/wiki/England_cricket_team,England cricket team,england-cricket-team,england-cricket-team,UNK
+England,286698,28,66,9316,"http://en.wikipedia.org/wiki/England,_Half-English","England, Half-English",england-half-english,england-half-english,UNK
+England,1959391,13,20,,"http://en.wikipedia.org/wiki/England,_Their_England","England, Their England",england-their-england,england-their-england,UNK
+England,71290,22,46,71290,"http://en.wikipedia.org/wiki/England,_England","England, England",england-england,england-england,UNK
+England,2539441,50,55,,"http://en.wikipedia.org/wiki/England,_Arkansas","England, Arkansas",england-arkansas,england-arkansas,GPE
+England,6020679,0,42,9316,http://en.wikipedia.org/wiki/England_(British_postage_stamps),England,england,england-british-postage-stamps,UNK
+England,29406796,3,11,,http://en.wikipedia.org/wiki/Mount_England,Mount England,mount-england,mount-england,UNK
+England,8008415,23,37,1739788;4684902,http://en.wikipedia.org/wiki/USS_England_(DLG-22),USS England,uss-england,uss-england-dlg-22,UNK
+England,4684902,174,226,8008415;1739788,http://en.wikipedia.org/wiki/USS_England_(DE-635),USS England,uss-england,uss-england-de-635,UNK
+England,39916947,3,147,720769,"http://en.wikipedia.org/wiki/Little_England_(Gloucester,_Virginia)",Little England,little-england,little-england-gloucester-virginia,UNK
+England,691024,3595,744,9904;9316;2313050;759125,http://en.wikipedia.org/wiki/England_national_rugby_union_team,England national rugby union team,england-national-rugby-union-team,england-national-rugby-union-team,UNK
+England,2825496,25,261,,http://en.wikipedia.org/wiki/Edward_England,Edward England,edward-england,edward-england,PER
+England,2313050,249,428,9904;407950;691024;9316;2313050;759125;969337,http://en.wikipedia.org/wiki/Geography_of_England,Geography of England,geography-of-england,geography-of-england,UNK
+England,40427896,3,17,,http://en.wikipedia.org/wiki/England_(band),England,england,england-band,UNK
+England,27926611,24,45,,"http://en.wikipedia.org/wiki/England_Hill,_Kentucky","England Hill, Kentucky",england-hill-kentucky,england-hill-kentucky,GPE
+England,29113191,14,40,,"http://en.wikipedia.org/wiki/England,_My_England","England, My England",england-my-england,england-my-england,UNK
+England,11803289,759,375,9904;9316,http://en.wikipedia.org/wiki/England_national_under-19_football_team,England national under-19 football team,england-national-under-19-football-team,england-national-under-19-football-team,UNK
+England,1739788,4,5,4684902;8008415,http://en.wikipedia.org/wiki/USS_England,USS England,uss-england,uss-england,UNK
+England,969337,393,514,349341;2313050;407950;9316;34361,http://en.wikipedia.org/wiki/England_in_the_Middle_Ages,England in the Middle Ages,england-in-the-middle-ages,england-in-the-middle-ages,UNK
+England,3646972,38,39,,"http://en.wikipedia.org/wiki/England,_My_England_and_Other_Stories","England, My England and Other Stories",england-my-england-and-other-stories,england-my-england-and-other-stories,ORG
+Nunthorpe Stakes,727606,135,104,33215457;34361;25674876;7183198;9316;40043503,http://en.wikipedia.org/wiki/Nunthorpe_Stakes,Nunthorpe Stakes,nunthorpe-stakes,nunthorpe-stakes,UNK
+Pivotal,25159788,5,15,25159788,http://en.wikipedia.org/wiki/Pivotal_CRM,Pivotal CRM,pivotal-crm,pivotal-crm,ORG
+George Duffield,7183198,78,34,727606;25674876,http://en.wikipedia.org/wiki/George_Duffield,George Duffield,george-duffield,george-duffield,PER
+George Duffield,27817974,4,14,21137948,"http://en.wikipedia.org/wiki/George_Duffield,_Jr.","George Duffield, Jr.",george-duffield-jr,george-duffield-jr,PER
+George Duffield,38417772,4,25,,http://en.wikipedia.org/wiki/George_Duffield_(film-maker),George Duffield,george-duffield,george-duffield-film-maker,PER
+George Duffield,21137948,9,18,27817974,http://en.wikipedia.org/wiki/George_Duffield_(Presbyterian),George Duffield,george-duffield,george-duffield-presbyterian,PER
+Hever Golf Rose,33215457,17,44,727606;1491956,http://en.wikipedia.org/wiki/Hever_Golf_Rose,Hever Golf Rose,hever-golf-rose,hever-golf-rose,PER
+Jason Weaver,18983954,51,12,1491956,http://en.wikipedia.org/wiki/Jason_Weaver_(jockey),Jason Weaver,jason-weaver,jason-weaver-jockey,PER
+Jason Weaver,32294776,1,26,9316;1491956,http://en.wikipedia.org/wiki/Jason_Weaver_(cricketer),Jason Weaver,jason-weaver,jason-weaver-cricketer,UNK
+Jason Weaver,1491956,76,60,33215457;32294776;18983954,http://en.wikipedia.org/wiki/Jason_Weaver,Jason Weaver,jason-weaver,jason-weaver,PER
+Mind Games,237582,152,169,,http://en.wikipedia.org/wiki/Mind_Games,Mind Games,mind-games,mind-games,UNK
+Mind Games,7412739,251,217,,http://en.wikipedia.org/wiki/Mind_games,Mind games,mind-games,mind-games,UNK
+Cheveley Park Stud,40043503,32,27,727606;158390,http://en.wikipedia.org/wiki/Cheveley_Park_Stud,Cheveley Park Stud,cheveley-park-stud,cheveley-park-stud,UNK
+Mark Prescott,25674876,64,16,727606;7183198,http://en.wikipedia.org/wiki/Mark_Prescott,Mark Prescott,mark-prescott,mark-prescott,PER
+Newmarket,158390,1007,174,24357628;40043503;24030679;13434941;9316;259609,"http://en.wikipedia.org/wiki/Newmarket,_Suffolk","Newmarket, Suffolk",newmarket-suffolk,newmarket-suffolk,GPE
+Newmarket,680511,72,48,30745871,"http://en.wikipedia.org/wiki/Newmarket,_New_Zealand","Newmarket, New Zealand",newmarket-new-zealand,newmarket-new-zealand,UNK
+Newmarket,33020886,5,30,,"http://en.wikipedia.org/wiki/Newmarket_Hill,_Sussex","Newmarket Hill, Sussex",newmarket-hill-sussex,newmarket-hill-sussex,GPE
+Newmarket,36932807,0,2,,"http://en.wikipedia.org/wiki/Newmarket_(Hampton,_Virginia)",Newmarket,newmarket,newmarket-hampton-virginia,UNK
+Newmarket,24357628,69,72,9316;158390,http://en.wikipedia.org/wiki/Newmarket_College,Newmarket College,newmarket-college,newmarket-college,UNK
+Newmarket,13434941,16,68,13434941;9316;158390,http://en.wikipedia.org/wiki/RAF_Newmarket,RAF Newmarket,raf-newmarket,raf-newmarket,UNK
+Newmarket,8504763,157,134,8502142,http://en.wikipedia.org/wiki/Newmarket_GAA,Newmarket GAA,newmarket-gaa,newmarket-gaa,ORG
+Newmarket,8502142,76,31,8504763,"http://en.wikipedia.org/wiki/Newmarket,_County_Cork","Newmarket, County Cork",newmarket-county-cork,newmarket-county-cork,GPE
+Newmarket,18435792,115,31,,"http://en.wikipedia.org/wiki/Newmarket,_Lewis","Newmarket, Lewis",newmarket-lewis,newmarket-lewis,UNK
+Newmarket,5531020,221,218,,"http://en.wikipedia.org/wiki/Newmarket,_Queensland","Newmarket, Queensland",newmarket-queensland,newmarket-queensland,UNK
+Newmarket,180169,666,235,180169;1916749,"http://en.wikipedia.org/wiki/Newmarket,_Ontario","Newmarket, Ontario",newmarket-ontario,newmarket-ontario,GPE
+Newmarket,24120854,36,29,,http://en.wikipedia.org/wiki/Newmarket_Road_(football_ground),Newmarket Road,newmarket-road,newmarket-road-football-ground,UNK
+Newmarket,13802876,1,2,,"http://en.wikipedia.org/wiki/Newmarket,_Virginia","Newmarket, Virginia",newmarket-virginia,newmarket-virginia,UNK
+Newmarket,1916749,119,145,180169,http://en.wikipedia.org/wiki/Newmarket_GO_Station,Newmarket GO Station,newmarket-go-station,newmarket-go-station,UNK
+Newmarket,30745871,11,12,680511,http://en.wikipedia.org/wiki/Newmarket_Park,Newmarket Park,newmarket-park,newmarket-park,UNK
+Newmarket,31849643,20,26,,http://en.wikipedia.org/wiki/Newmarket_Stadium,Newmarket Stadium,newmarket-stadium,newmarket-stadium,UNK
+Newmarket,24030679,19,23,9316;158390,"http://en.wikipedia.org/wiki/Newmarket_Road,_Cambridge","Newmarket Road, Cambridge",newmarket-road-cambridge,newmarket-road-cambridge,UNK
+Newmarket,259609,191,105,9316;158390,"http://en.wikipedia.org/wiki/Newmarket,_New_Hampshire","Newmarket, New Hampshire",newmarket-new-hampshire,newmarket-new-hampshire,GPE

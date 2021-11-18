@@ -1,0 +1,468 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+GREER,2070208,130,148,1360083;20050;12243648;552153;30857,http://en.wikipedia.org/wiki/Rusty_Greer,Rusty Greer,rusty-greer,rusty-greer,PER
+TEXAS,30857,4179,628,12243648;2004582;8579;1360083;218947;16883;212472;19590;1547794;27660;20050;20152;2644877;386384;2070208;4340;4339;22523;4848143;1915655;5945;1861667;153856;6652;552153;2407111;752415;6725;329401;2733958;2400192;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Texas_Rangers_(baseball),Texas Rangers,texas-rangers,texas-rangers-baseball,UNK
+TEXAS,12243648,150,236,552153;6652;212472;2070208;30857,http://en.wikipedia.org/wiki/2002_Texas_Rangers_season,2002 Texas Rangers season,2002-texas-rangers-season,2002-texas-rangers-season,UNK
+TEXAS,3322916,5,11,,http://en.wikipedia.org/wiki/Texas_Rangers_(architects),Texas Rangers,texas-rangers,texas-rangers-architects,UNK
+INDIANS,6652,6053,864,12243648;2004582;8579;1360083;16581;218947;16883;212472;2226049;27660;20050;20152;395171;386384;4340;4339;2466103;22523;23277625;4848143;1915655;5951;5945;6652;552153;2407111;3136125;752415;6849;6725;329401;502705;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Cleveland_Indians,Cleveland Indians,cleveland-indians,cleveland-indians,UNK
+INDIANS,9955084,19,9,,http://en.wikipedia.org/wiki/Cleveland_Indians_(ice_hockey),Cleveland Indians,cleveland-indians,cleveland-indians-ice-hockey,UNK
+INDIANS,239738,116,92,5951;239756;239738;239709;2046705,http://en.wikipedia.org/wiki/Cleveland_Indians_(NFL_1931),Cleveland Indians,cleveland-indians,cleveland-indians-nfl-1931,UNK
+CLEVELAND,5951,5903,970,17454;19590;73132;560530;24437894;239738;5951;6652;891699;645042;752415;329401;502705;26997138;8687;8579;148692;294538;4848143;2046705;5184742;5042117,http://en.wikipedia.org/wiki/Cleveland,Cleveland,cleveland,cleveland,GPE
+CLEVELAND,5042117,115,121,5951;2004519,http://en.wikipedia.org/wiki/Cleveland_(Hasidic_dynasty),Cleveland,cleveland,cleveland-hasidic-dynasty,UNK
+CLEVELAND,5344753,15,5,979228;5343460,"http://en.wikipedia.org/wiki/Cleveland,_Columbus,_Cincinnati_and_Indianapolis_Railway","Cleveland, Columbus, Cincinnati and Indianapolis Railway",cleveland-columbus-cincinnati-and-indianapolis-railway,cleveland-columbus-cincinnati-and-indianapolis-railway,UNK
+CLEVELAND,13722758,17,166,502705,"http://en.wikipedia.org/wiki/Cleveland,_Tennessee_metropolitan_area","Cleveland, Tennessee metropolitan area",cleveland-tennessee-metropolitan-area,cleveland-tennessee-metropolitan-area,ORG
+CLEVELAND,202769,6,7,560530;233302;202776,http://en.wikipedia.org/wiki/USS_Cleveland,USS Cleveland,uss-cleveland,uss-cleveland,UNK
+CLEVELAND,10020474,1,1,,"http://en.wikipedia.org/wiki/Cleveland,_MS_μSA","Cleveland, MS μSA",cleveland-ms-μsa,cleveland-ms-μsa,PER
+CLEVELAND,2465760,27,130,2670168,http://en.wikipedia.org/wiki/Mount_Cleveland_(Montana),Mount Cleveland,mount-cleveland,mount-cleveland-montana,UNK
+CLEVELAND,18745010,0,1,,"http://en.wikipedia.org/wiki/Cleveland,_MS_µSA","Cleveland, MS µSA",cleveland-ms-µsa,cleveland-ms-µsa,PER
+CLEVELAND,3016989,92,54,6905718,"http://en.wikipedia.org/wiki/Cleveland,_Queensland","Cleveland, Queensland",cleveland-queensland,cleveland-queensland,UNK
+CLEVELAND,1303351,38,115,,http://en.wikipedia.org/wiki/Cleveland_Bay,Cleveland Bay,cleveland-bay,cleveland-bay,UNK
+CLEVELAND,32903965,40,59,,"http://en.wikipedia.org/wiki/Cleveland,_Kansas","Cleveland, Kansas",cleveland-kansas,cleveland-kansas,GPE
+CLEVELAND,16443524,892,513,2466103;16443524;31747730,http://en.wikipedia.org/wiki/The_Cleveland_Show,The Cleveland Show,the-cleveland-show,the-cleveland-show,UNK
+CLEVELAND,1588020,82,18,,http://en.wikipedia.org/wiki/Al_Cleveland,Al Cleveland,al-cleveland,al-cleveland,PER
+CLEVELAND,233302,34,70,202769,http://en.wikipedia.org/wiki/USS_Cleveland_(LPD-7),USS Cleveland,uss-cleveland,uss-cleveland-lpd-7,UNK
+CLEVELAND,25567802,51,74,,"http://en.wikipedia.org/wiki/Cleveland,_West_Virginia","Cleveland, West Virginia",cleveland-west-virginia,cleveland-west-virginia,GPE
+CLEVELAND,502705,588,787,6652;26997138;572408;645042;148692;329401;876997;13722758;5951,http://en.wikipedia.org/wiki/Greater_Cleveland,Greater Cleveland,greater-cleveland,greater-cleveland,GPE
+CLEVELAND,560530,62,93,24437894;5951;202769,http://en.wikipedia.org/wiki/USS_Cleveland_(CL-55),USS Cleveland,uss-cleveland,uss-cleveland-cl-55,UNK
+CLEVELAND,2466103,190,105,6652;16443524,http://en.wikipedia.org/wiki/Cleveland_Brown,Cleveland Brown,cleveland-brown,cleveland-brown,UNK
+CLEVELAND,2070127,13,32,,http://en.wikipedia.org/wiki/Cleveland_Bridge,Cleveland Bridge,cleveland-bridge,cleveland-bridge,UNK
+CLEVELAND,752415,744,770,6652;17454;26997138;4340;645042;22523;4848143;1360083;329401;16883;21878486;5951;30847;30857,http://en.wikipedia.org/wiki/Cleveland_Stadium,Cleveland Stadium,cleveland-stadium,cleveland-stadium,UNK
+CLEVELAND,1297981,3,29,,"http://en.wikipedia.org/wiki/Cleveland,_Washington","Cleveland, Washington",cleveland-washington,cleveland-washington,UNK
+CLEVELAND,139305,104,99,141684,"http://en.wikipedia.org/wiki/Cleveland,_Manitowoc_County,_Wisconsin","Cleveland, Manitowoc County, Wisconsin",cleveland-manitowoc-county-wisconsin,cleveland-manitowoc-county-wisconsin,GPE
+CLEVELAND,148692,497,51,645042;502705;5951,http://en.wikipedia.org/wiki/Cleveland_Orchestra,Cleveland Orchestra,cleveland-orchestra,cleveland-orchestra,UNK
+CLEVELAND,29540562,1,14,,"http://en.wikipedia.org/wiki/Cleveland,_Tuscarawas_Valley_and_Wheeling_Railway","Cleveland, Tuscarawas Valley and Wheeling Railway",cleveland-tuscarawas-valley-and-wheeling-railway,cleveland-tuscarawas-valley-and-wheeling-railway,UNK
+CLEVELAND,141684,1,5,139305,"http://en.wikipedia.org/wiki/Cleveland,_Wisconsin","Cleveland, Wisconsin",cleveland-wisconsin,cleveland-wisconsin,UNK
+CLEVELAND,22907038,166,166,5407,"http://en.wikipedia.org/wiki/Cleveland,_California","Cleveland, California",cleveland-california,cleveland-california,UNK
+CLEVELAND,997845,188,222,,http://en.wikipedia.org/wiki/Cleveland_Park,Cleveland Park,cleveland-park,cleveland-park,UNK
+CLEVELAND,40171628,33,47,,"http://en.wikipedia.org/wiki/Cleveland,_South_Carolina","Cleveland, South Carolina",cleveland-south-carolina,cleveland-south-carolina,GPE
+CLEVELAND,202776,27,37,24437894;202769;8210131,http://en.wikipedia.org/wiki/USS_Cleveland_(C-19),USS Cleveland,uss-cleveland,uss-cleveland-c-19,UNK
+CLEVELAND,1451210,13,70,2670168,http://en.wikipedia.org/wiki/Mount_Cleveland_(Alaska),Mount Cleveland,mount-cleveland,mount-cleveland-alaska,UNK
+CLEVELAND,5343460,146,6,5344753,"http://en.wikipedia.org/wiki/Cleveland,_Columbus_and_Cincinnati_Railroad","Cleveland, Columbus and Cincinnati Railroad",cleveland-columbus-and-cincinnati-railroad,cleveland-columbus-and-cincinnati-railroad,UNK
+CLEVELAND,32147619,22,39,,"http://en.wikipedia.org/wiki/Cleveland,_Arkansas","Cleveland, Arkansas",cleveland-arkansas,cleveland-arkansas,UNK
+CLEVELAND,5184742,21,47,24437894;5951;645042,http://en.wikipedia.org/wiki/Cleveland_Lakefront_Station,Cleveland Lakefront Station,cleveland-lakefront-station,cleveland-lakefront-station,UNK
+CLEVELAND,979228,435,281,345688;4306277;975409;891699;351876;645042;19749481;816554;2499282;5344753,"http://en.wikipedia.org/wiki/Cleveland,_Cincinnati,_Chicago_and_St._Louis_Railway","Cleveland, Cincinnati, Chicago and St. Louis Railway",cleveland-cincinnati-chicago-and-st-louis-railway,cleveland-cincinnati-chicago-and-st-louis-railway,UNK
+CLEVELAND,18834451,151,193,,http://en.wikipedia.org/wiki/Cleveland_(30_Rock),Cleveland,cleveland,cleveland-30-rock,UNK
+CLEVELAND,5462202,18,9,,http://en.wikipedia.org/wiki/Cleveland_Railway_(Ohio),Cleveland Railway,cleveland-railway,cleveland-railway-ohio,UNK
+CLEVELAND,22684930,3,5,,"http://en.wikipedia.org/wiki/Cleveland,_Nova_Scotia","Cleveland, Nova Scotia",cleveland-nova-scotia,cleveland-nova-scotia,GPE
+CLEVELAND,5798240,11,18,,http://en.wikipedia.org/wiki/Cleveland_Street_(BMT_Jamaica_Line),Cleveland Street,cleveland-street,cleveland-street-bmt-jamaica-line,UNK
+CLEVELAND,6905718,249,113,3016989,http://en.wikipedia.org/wiki/Electoral_district_of_Cleveland,Electoral district of Cleveland,electoral-district-of-cleveland,electoral-district-of-cleveland,PER
+CLEVELAND,5737974,30,51,,"http://en.wikipedia.org/wiki/Cleveland,_Quebec","Cleveland, Quebec",cleveland-quebec,cleveland-quebec,UNK
+CLEVELAND,111284,358,62,,"http://en.wikipedia.org/wiki/Cleveland,_Illinois","Cleveland, Illinois",cleveland-illinois,cleveland-illinois,GPE
+CLEVELAND,2670168,0,3,1451210;2465760,http://en.wikipedia.org/wiki/Mount_Cleveland,Mount Cleveland,mount-cleveland,mount-cleveland,UNK
+Rusty Greer,2070208,130,148,1360083;20050;12243648;552153;30857,http://en.wikipedia.org/wiki/Rusty_Greer,Rusty Greer,rusty-greer,rusty-greer,PER
+Texas Rangers,30857,4179,628,12243648;2004582;8579;1360083;218947;16883;212472;19590;1547794;27660;20050;20152;2644877;386384;2070208;4340;4339;22523;4848143;1915655;5945;1861667;153856;6652;552153;2407111;752415;6725;329401;2733958;2400192;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Texas_Rangers_(baseball),Texas Rangers,texas-rangers,texas-rangers-baseball,UNK
+Texas Rangers,12243648,150,236,552153;6652;212472;2070208;30857,http://en.wikipedia.org/wiki/2002_Texas_Rangers_season,2002 Texas Rangers season,2002-texas-rangers-season,2002-texas-rangers-season,UNK
+Texas Rangers,3322916,5,11,,http://en.wikipedia.org/wiki/Texas_Rangers_(architects),Texas Rangers,texas-rangers,texas-rangers-architects,UNK
+Cleveland Indians,6652,6053,864,12243648;2004582;8579;1360083;16581;218947;16883;212472;2226049;27660;20050;20152;395171;386384;4340;4339;2466103;22523;23277625;4848143;1915655;5951;5945;6652;552153;2407111;3136125;752415;6849;6725;329401;502705;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Cleveland_Indians,Cleveland Indians,cleveland-indians,cleveland-indians,UNK
+Cleveland Indians,9955084,19,9,,http://en.wikipedia.org/wiki/Cleveland_Indians_(ice_hockey),Cleveland Indians,cleveland-indians,cleveland-indians-ice-hockey,UNK
+Cleveland Indians,239738,116,92,5951;239756;239738;239709;2046705,http://en.wikipedia.org/wiki/Cleveland_Indians_(NFL_1931),Cleveland Indians,cleveland-indians,cleveland-indians-nfl-1931,UNK
+Greer,2070208,130,148,1360083;20050;12243648;552153;30857,http://en.wikipedia.org/wiki/Rusty_Greer,Rusty Greer,rusty-greer,rusty-greer,PER
+Julian Tavarez,2407111,216,189,23277625;6652;20152;4339;30857,http://en.wikipedia.org/wiki/Julián_Tavárez,Julián Tavárez,julian-tavarez,julian-tavarez,PER
+Ivan Rodriguez,552153,517,463,153856;16581;6652;1838414;212472;35793470;12243648;2070208;2400192;16883;4340;4339;20050;161226;4848143;6333369;395171;2406308;8579;30857,http://en.wikipedia.org/wiki/Iván_Rodríguez,Iván Rodríguez,ivan-rodriguez,ivan-rodriguez,PER
+Ivan Rodriguez,35793470,59,65,552153,http://en.wikipedia.org/wiki/Iván_Rodríguez_(athlete),Iván Rodríguez,ivan-rodriguez,ivan-rodriguez-athlete,UNK
+Mickey Cochrane,161226,764,678,153856;212472;17454;61114;22523;552153;4848143;395171;8579;16581;1838414;5407,http://en.wikipedia.org/wiki/Mickey_Cochrane,Mickey Cochrane,mickey-cochrane,mickey-cochrane,PER
+Mickey Cochrane,38975309,2,3,,http://en.wikipedia.org/wiki/Mickey_Cochrane_Stadium,Mickey Cochrane Stadium,mickey-cochrane-stadium,mickey-cochrane-stadium,UNK
+Johnny Bench,16581,1187,1237,153856;6652;212472;386384;4339;552153;6849;1838414;218947;161226;8210131;877552,http://en.wikipedia.org/wiki/Johnny_Bench,Johnny Bench,johnny-bench,johnny-bench,PER
+Terry Kennedy,1261670,143,155,4340,http://en.wikipedia.org/wiki/Terry_Kennedy,Terry Kennedy,terry-kennedy,terry-kennedy,PER
+Terry Kennedy,31703458,36,45,,http://en.wikipedia.org/wiki/Terry_Kennedy_(footballer),Terry Kennedy,terry-kennedy,terry-kennedy-footballer,PER
+Terry Kennedy,39402578,0,14,,http://en.wikipedia.org/wiki/Terry_Kennedy_(speaker),Terry Kennedy,terry-kennedy,terry-kennedy-speaker,PER
+Terry Kennedy,1798310,17,19,,http://en.wikipedia.org/wiki/Terry_Kennedy_(skateboarder),Terry Kennedy,terry-kennedy,terry-kennedy-skateboarder,PER
+Rangers,30857,4179,628,12243648;2004582;8579;1360083;218947;16883;212472;19590;1547794;27660;20050;20152;2644877;386384;2070208;4340;4339;22523;4848143;1915655;5945;1861667;153856;6652;552153;2407111;752415;6725;329401;2733958;2400192;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Texas_Rangers_(baseball),Texas Rangers,texas-rangers,texas-rangers-baseball,UNK
+Rangers,12243648,150,236,552153;6652;212472;2070208;30857,http://en.wikipedia.org/wiki/2002_Texas_Rangers_season,2002 Texas Rangers season,2002-texas-rangers-season,2002-texas-rangers-season,UNK
+Rangers,3322916,5,11,,http://en.wikipedia.org/wiki/Texas_Rangers_(architects),Texas Rangers,texas-rangers,texas-rangers-architects,UNK
+Indians,6652,6053,864,12243648;2004582;8579;1360083;16581;218947;16883;212472;2226049;27660;20050;20152;395171;386384;4340;4339;2466103;22523;23277625;4848143;1915655;5951;5945;6652;552153;2407111;3136125;752415;6849;6725;329401;502705;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Cleveland_Indians,Cleveland Indians,cleveland-indians,cleveland-indians,UNK
+Indians,9955084,19,9,,http://en.wikipedia.org/wiki/Cleveland_Indians_(ice_hockey),Cleveland Indians,cleveland-indians,cleveland-indians-ice-hockey,UNK
+Indians,239738,116,92,5951;239756;239738;239709;2046705,http://en.wikipedia.org/wiki/Cleveland_Indians_(NFL_1931),Cleveland Indians,cleveland-indians,cleveland-indians-nfl-1931,UNK
+Jacobs Field,329401,377,374,1360083;6652;17454;16883;4340;4339;27660;502705;22523;20050;5951;5945;4848143;20152;752415;1264752;30847;2765457;2004582;8579;30857,http://en.wikipedia.org/wiki/Progressive_Field,Progressive Field,progressive-field,progressive-field,UNK
+Yankees,4848143,8723,1231,2004582;490998;16883;212472;1547794;20050;20152;38936;4340;4339;22523;23277625;1915655;239756;161226;5951;5945;6652;645042;752415;6725;329401;2400192;1264752;1141484;26997138;8579;1360083;218947;27660;6333369;8210131;877552;386384;3880857;4848143;1838414;385773;153856;552153;653109;30847;2314091;30857,http://en.wikipedia.org/wiki/New_York_Yankees,New York Yankees,new-york-yankees,new-york-yankees,UNK
+Yankees,14013141,28,27,645042,http://en.wikipedia.org/wiki/New_York_Yankees_(soccer),New York Yankees,new-york-yankees,new-york-yankees-soccer,ORG
+Yankees,239756,179,88,3880857;239756;4848143;8210131;239738;239709;21878486;2046705;17144071;645042,http://en.wikipedia.org/wiki/New_York_Yankees_(NFL),New York Yankees,new-york-yankees,new-york-yankees-nfl,UNK
+Yankees,1141484,814,1116,153856;6652;212472;38936;3880857;26997138;1547794;4340;4339;645042;27660;22523;20050;4848143;20152;6725;2004582;1360083;490998;218947;24437894;2400192;16883;5945;30847;8210131;30857,http://en.wikipedia.org/wiki/Yankees–Red_Sox_rivalry,Yankees–Red Sox rivalry,yankees–red-sox-rivalry,yankees–red-sox-rivalry,UNK
+Yankees,38936,398,305,24437894;4339;4848143;1141484,http://en.wikipedia.org/wiki/Yankee,Yankee,yankee,yankee,UNK
+Yankees,2314091,161,23,3880857;4848143;21878486;17144071,http://en.wikipedia.org/wiki/New_York_Yankees_(AAFC),New York Yankees,new-york-yankees,new-york-yankees-aafc,UNK
+Yankees,21878486,37,35,3880857;17144071;2314091;752415;239756,http://en.wikipedia.org/wiki/New_York_Yankees_(1936_AFL),New York Yankees,new-york-yankees,new-york-yankees-1936-afl,UNK
+Yankees,17144071,33,35,3880857;2314091;239756;21878486,http://en.wikipedia.org/wiki/New_York_Yankees_(1940_AFL),New York Yankees,new-york-yankees,new-york-yankees-1940-afl,UNK
+Cleveland,6652,6053,864,12243648;2004582;8579;1360083;16581;218947;16883;212472;2226049;27660;20050;20152;395171;386384;4340;4339;2466103;22523;23277625;4848143;1915655;5951;5945;6652;552153;2407111;3136125;752415;6849;6725;329401;502705;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Cleveland_Indians,Cleveland Indians,cleveland-indians,cleveland-indians,UNK
+Cleveland,9955084,19,9,,http://en.wikipedia.org/wiki/Cleveland_Indians_(ice_hockey),Cleveland Indians,cleveland-indians,cleveland-indians-ice-hockey,UNK
+Cleveland,239738,116,92,5951;239756;239738;239709;2046705,http://en.wikipedia.org/wiki/Cleveland_Indians_(NFL_1931),Cleveland Indians,cleveland-indians,cleveland-indians-nfl-1931,UNK
+Kenny Lofton,1264752,285,268,1360083;6652;329401;386384;4340;4339;27660;20050;5945;4848143;20152;30857,http://en.wikipedia.org/wiki/Kenny_Lofton,Kenny Lofton,kenny-lofton,kenny-lofton,PER
+Ed Vosberg,2733958,77,87,22523;23277625;905899;30857,http://en.wikipedia.org/wiki/Ed_Vosberg,Ed Vosberg,ed-vosberg,ed-vosberg,PER
+Dean Palmer,2644877,67,44,8579;16883;212472;30857,http://en.wikipedia.org/wiki/Dean_Palmer,Dean Palmer,dean-palmer,dean-palmer,PER
+Baltimore,4340,6010,826,26997138;2004582;8579;1360083;3139393;218947;166237;16883;2765457;212472;27660;20050;2868152;20152;47727;4340;4339;22523;23277625;4848143;1915655;1261670;905899;5945;385773;1861667;153856;6652;552153;3136125;752415;653109;6725;329401;502775;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Baltimore_Orioles,Baltimore Orioles,baltimore-orioles,baltimore-orioles,UNK
+Baltimore,34806992,107,111,,http://en.wikipedia.org/wiki/Baltimore_(NCIS),Baltimore,baltimore,baltimore-ncis,UNK
+Baltimore,8116583,7,8,,http://en.wikipedia.org/wiki/Baltimore_Tribe,Baltimore Tribe,baltimore-tribe,baltimore-tribe,UNK
+Baltimore,4318577,1260,114,4318577,http://en.wikipedia.org/wiki/Baltimore_classification,Baltimore classification,baltimore-classification,baltimore-classification,UNK
+Baltimore,137451,58,78,,"http://en.wikipedia.org/wiki/Baltimore,_Vermont","Baltimore, Vermont",baltimore-vermont,baltimore-vermont,GPE
+Baltimore,199533,5,20,187825,http://en.wikipedia.org/wiki/USS_Baltimore_(1861),USS Baltimore,uss-baltimore,uss-baltimore-1861,UNK
+Baltimore,129175,75,63,26997138,"http://en.wikipedia.org/wiki/Baltimore,_Ohio","Baltimore, Ohio",baltimore-ohio,baltimore-ohio,GPE
+Baltimore,117083,31,49,,"http://en.wikipedia.org/wiki/Baltimore_Township,_Michigan","Baltimore Township, Michigan",baltimore-township-michigan,baltimore-township-michigan,GPE
+Baltimore,2868152,229,291,26997138;4340,http://en.wikipedia.org/wiki/Baltimore_club,Baltimore club,baltimore-club,baltimore-club,UNK
+Baltimore,3729251,50,56,,"http://en.wikipedia.org/wiki/Baltimore,_Indiana","Baltimore, Indiana",baltimore-indiana,baltimore-indiana,GPE
+Baltimore,14628980,5,17,,"http://en.wikipedia.org/wiki/Baltimore,_or_The_Steadfast_Tin_Soldier_and_the_Vampire","Baltimore, or The Steadfast Tin Soldier and the Vampire",baltimore-or-the-steadfast-tin-soldier-and-the-vampire,baltimore-or-the-steadfast-tin-soldier-and-the-vampire,UNK
+Baltimore,28015174,16,8,26997138,http://en.wikipedia.org/wiki/Baltimore_(magazine),Baltimore,baltimore,baltimore-magazine,ORG
+Baltimore,22446241,137,145,5407,"http://en.wikipedia.org/wiki/Baltimore,_California","Baltimore, California",baltimore-california,baltimore-california,UNK
+Baltimore,187825,10,7,199538;199536;20956521;1076681;199533;199532,http://en.wikipedia.org/wiki/USS_Baltimore,USS Baltimore,uss-baltimore,uss-baltimore,UNK
+Baltimore,15735287,5,7,,"http://en.wikipedia.org/wiki/Baltimore_Hotel_(Muskogee,_Oklahoma)",Baltimore Hotel,baltimore-hotel,baltimore-hotel-muskogee-oklahoma,UNK
+Baltimore,23097144,0,7,5407,"http://en.wikipedia.org/wiki/Baltimore_Park,_Larkspur,_California","Baltimore Park, Larkspur, California",baltimore-park-larkspur-california,baltimore-park-larkspur-california,GPE
+Baltimore,4929598,73,112,,http://en.wikipedia.org/wiki/Baltimore_S.C.,Baltimore S.C.,baltimore-sc,baltimore-sc,UNK
+Baltimore,32269002,5,2,,http://en.wikipedia.org/wiki/Baltimore_College,Baltimore College,baltimore-college,baltimore-college,ORG
+Baltimore,22993175,166,172,5407,"http://en.wikipedia.org/wiki/Baltimore_Town,_California","Baltimore Town, California",baltimore-town-california,baltimore-town-california,UNK
+Baltimore,199532,4,11,187825,http://en.wikipedia.org/wiki/USS_Baltimore_(1798),USS Baltimore,uss-baltimore,uss-baltimore-1798,UNK
+Baltimore,275293,59,50,47727;26997138,http://en.wikipedia.org/wiki/Baron_Baltimore,Baron Baltimore,baron-baltimore,baron-baltimore,PER
+Baltimore,1125707,27,25,,http://en.wikipedia.org/wiki/Baltimore_SC,Baltimore SC,baltimore-sc,baltimore-sc,UNK
+Baltimore,23584352,3,12,,http://en.wikipedia.org/wiki/Baltimore_River,Baltimore River,baltimore-river,baltimore-river,UNK
+Baltimore,1076681,72,74,621979;187825,http://en.wikipedia.org/wiki/USS_Baltimore_(SSN-704),USS Baltimore,uss-baltimore,uss-baltimore-ssn-704,UNK
+Baltimore,47727,987,378,275293;47727;26997138;4340,"http://en.wikipedia.org/wiki/Baltimore_County,_Maryland","Baltimore County, Maryland",baltimore-county-maryland,baltimore-county-maryland,GPE
+Baltimore,23359250,3,20,,http://en.wikipedia.org/wiki/Baltimore_Checkerspot,Baltimore Checkerspot,baltimore-checkerspot,baltimore-checkerspot,UNK
+Baltimore,199536,133,142,645042;187825,http://en.wikipedia.org/wiki/USS_Baltimore_(C-3),USS Baltimore,uss-baltimore,uss-baltimore-c-3,UNK
+Baltimore,199538,39,62,206780;187825,http://en.wikipedia.org/wiki/USS_Baltimore_(CA-68),USS Baltimore,uss-baltimore,uss-baltimore-ca-68,UNK
+Baltimore,42099709,64,57,,http://en.wikipedia.org/wiki/Baltimore_Tower,Baltimore Tower,baltimore-tower,baltimore-tower,UNK
+Baltimore,4456276,12,8,335485,"http://en.wikipedia.org/wiki/Baltimore,_Ontario","Baltimore, Ontario",baltimore-ontario,baltimore-ontario,UNK
+Baltimore,17844713,7,89,,http://en.wikipedia.org/wiki/Baltimore_(tug),Baltimore,baltimore,baltimore-tug,UNK
+Baltimore,20956521,2,17,26997138;187825,http://en.wikipedia.org/wiki/USS_Baltimore_(1777),USS Baltimore,uss-baltimore,uss-baltimore-1777,UNK
+Baltimore,335485,121,48,4456276,"http://en.wikipedia.org/wiki/Baltimore,_County_Cork","Baltimore, County Cork",baltimore-county-cork,baltimore-county-cork,GPE
+Baltimore,502775,274,164,502775;26997138;4340,http://en.wikipedia.org/wiki/University_of_Baltimore,University of Baltimore,university-of-baltimore,university-of-baltimore,ORG
+Baltimore,26997138,8011,873,28015174;17454;4340;20956521;24437894;5951;1861667;645042;752415;502705;502775;1141484;26997138;572408;166237;129175;2868152;58296;876997;47727;4848143;153856;275293;653109,http://en.wikipedia.org/wiki/Baltimore,Baltimore,baltimore,baltimore,GPE
+Cal Ripken,153856,1090,1036,212472;386384;26997138;4340;4339;27660;22523;552153;4848143;20152;1915655;6849;395171;2004582;8579;16581;218947;905899;16883;161226;5945;30847;2765457;1141484;1861667;30857,"http://en.wikipedia.org/wiki/Cal_Ripken,_Jr.","Cal Ripken, Jr.",cal-ripken-jr,cal-ripken-jr,PER
+Cal Ripken,1861667,174,340,153856;20050;20152;30847;2765457;26997138;2004582;4340;30857,"http://en.wikipedia.org/wiki/Cal_Ripken,_Sr.","Cal Ripken, Sr.",cal-ripken-sr,cal-ripken-sr,PER
+Bobby Bonilla,905899,214,158,153856;5945;2733958;8210131;4340,http://en.wikipedia.org/wiki/Bobby_Bonilla,Bobby Bonilla,bobby-bonilla,bobby-bonilla,PER
+Orioles,4340,6010,826,26997138;2004582;8579;1360083;3139393;218947;166237;16883;2765457;212472;27660;20050;2868152;20152;47727;4340;4339;22523;23277625;4848143;1915655;1261670;905899;5945;385773;1861667;153856;6652;552153;3136125;752415;653109;6725;329401;502775;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Baltimore_Orioles,Baltimore Orioles,baltimore-orioles,baltimore-orioles,UNK
+Orioles,166237,81,35,26997138;8210131;4340,http://en.wikipedia.org/wiki/The_Orioles,The Orioles,the-orioles,the-orioles,UNK
+Orioles,653109,581,149,26997138;4340;4848143;653109;6849,http://en.wikipedia.org/wiki/Baltimore_Orioles_(19th_century),Baltimore Orioles,baltimore-orioles,baltimore-orioles-19th-century,UNK
+Seattle Mariners,27660,3427,559,2004582;8579;1360083;218947;16883;212472;27660;20050;20152;395171;6333369;386384;4340;4339;22523;4848143;5945;153856;6652;6725;329401;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Seattle_Mariners,Seattle Mariners,seattle-mariners,seattle-mariners,UNK
+Mariners,27660,3427,559,2004582;8579;1360083;218947;16883;212472;27660;20050;20152;395171;6333369;386384;4340;4339;22523;4848143;5945;153856;6652;6725;329401;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Seattle_Mariners,Seattle Mariners,seattle-mariners,seattle-mariners,UNK
+Ripken,153856,1090,1036,212472;386384;26997138;4340;4339;27660;22523;552153;4848143;20152;1915655;6849;395171;2004582;8579;16581;218947;905899;16883;161226;5945;30847;2765457;1141484;1861667;30857,"http://en.wikipedia.org/wiki/Cal_Ripken,_Jr.","Cal Ripken, Jr.",cal-ripken-jr,cal-ripken-jr,PER
+Ripken,1861667,174,340,153856;20050;20152;30847;2765457;26997138;2004582;4340;30857,"http://en.wikipedia.org/wiki/Cal_Ripken,_Sr.","Cal Ripken, Sr.",cal-ripken-sr,cal-ripken-sr,PER
+Sterling Hitchcock,6333369,128,94,27660;23277625;552153;4848143,http://en.wikipedia.org/wiki/Sterling_Hitchcock,Sterling Hitchcock,sterling-hitchcock,sterling-hitchcock,PER
+Bonilla,905899,214,158,153856;5945;2733958;8210131;4340,http://en.wikipedia.org/wiki/Bobby_Bonilla,Bobby Bonilla,bobby-bonilla,bobby-bonilla,PER
+Randy Johnson,386384,974,732,153856;6652;212472;14920310;4339;27660;22523;20050;23277625;4848143;20152;6849;6725;8579;1360083;3139393;16581;5407;218947;1264752;30847;385773;877552;30857,http://en.wikipedia.org/wiki/Randy_Johnson,Randy Johnson,randy-johnson,randy-johnson,PER
+Randy Johnson,20457263,15,25,8579;22523,http://en.wikipedia.org/wiki/Randy_Johnson_(third_baseman),Randy Johnson,randy-johnson,randy-johnson-third-baseman,PER
+Randy Johnson,14920310,3,13,19590;386384,http://en.wikipedia.org/wiki/Randy_Johnson_(council_member),Randy Johnson,randy-johnson,randy-johnson-council-member,PER
+Randy Johnson,9819010,358,354,,http://en.wikipedia.org/wiki/Randy_Johnson_(American_football),Randy Johnson,randy-johnson,randy-johnson-american-football,PER
+Randy Johnson,19895782,9,10,5945;20050,http://en.wikipedia.org/wiki/Randy_Johnson_(designated_hitter),Randy Johnson,randy-johnson,randy-johnson-designated-hitter,PER
+Cy Young,6725,861,210,6652;386384;4340;4339;27660;22523;20050;23277625;4848143;20152;1915655;6849;8579;1360083;16883;5945;30847;1141484;30857,http://en.wikipedia.org/wiki/Cy_Young_Award,Cy Young Award,cy-young-award,cy-young-award,UNK
+Cy Young,7661112,29,29,,http://en.wikipedia.org/wiki/Cy_Young_(athlete),Cy Young,cy-young,cy-young-athlete,PER
+Cy Young,1602045,8,15,645042,http://en.wikipedia.org/wiki/Cy_Young_(animator),Cy Young,cy-young,cy-young-animator,PER
+Cy Young,6849,832,709,153856;6652;386384;2226049;4339;22523;23277625;1915655;653109;6725;3139393;16581;7586402;385773,http://en.wikipedia.org/wiki/Cy_Young,Cy Young,cy-young,cy-young,PER
+A.L. East,2004582,1159,266,153856;6652;4340;4339;27660;22523;20050;4848143;20152;8579;1360083;1838414;329401;16883;5945;30847;1141484;1861667;30857,http://en.wikipedia.org/wiki/American_League_East,American League East,american-league-east,american-league-east,ORG
+Scott Erickson,1915655,330,281,153856;20050;23277625;6652;4848143;20152;6849;385773;1547794;6725;4340;30857,http://en.wikipedia.org/wiki/Scott_Erickson,Scott Erickson,scott-erickson,scott-erickson,PER
+Scott Erickson,27106701,7,22,,http://en.wikipedia.org/wiki/Scott_Erickson_(musician),Scott Erickson,scott-erickson,scott-erickson-musician,PER
+Alex Rodriguez,212472,990,724,153856;6652;212472;386384;12243648;4340;4339;645042;27660;22523;20050;552153;4848143;395171;8579;2644877;16581;218947;16883;161226;30847;1141484;877552;30857,http://en.wikipedia.org/wiki/Alex_Rodriguez,Alex Rodriguez,alex-rodriguez,alex-rodriguez,PER
+Alex Rodriguez,17301797,12,5,,http://en.wikipedia.org/wiki/Alex_Rodríguez_(film_editor),Alex Rodríguez,alex-rodriguez,alex-rodriguez-film-editor,PER
+Alex Rodriguez,29536301,2,6,,http://en.wikipedia.org/wiki/Alex_Rodriguez_(Andorran_footballer),Alex Rodriguez,alex-rodriguez,alex-rodriguez-andorran-footballer,PER
+Alex Rodriguez,40773864,23,32,,http://en.wikipedia.org/wiki/Álex_Rodríguez_(Panamanian_footballer),Álex Rodríguez,alex-rodriguez,alex-rodriguez-panamanian-footballer,PER
+Chris Hoiles,2765457,103,116,153856;329401;1861667;8579;4340,http://en.wikipedia.org/wiki/Chris_Hoiles,Chris Hoiles,chris-hoiles,chris-hoiles,PER
+New York,645042,77367,1542,979228;2499282;5951;8935;572408;8687;292741;19590;1141484;148692;8210131;27746113;180178;26035579;667548;167665;816554;3880857;1409989;351876;212472;206779;7402167;14013141;8023618;199536;2004519;2585447;24437894;645042;26997138;218947;5184742;13141861;239756;598652;2959176;876997;17292183;606772;1602045;752415;502705;1098681;4848143;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+New York,39062092,3,8,,http://en.wikipedia.org/wiki/New_York_EP,New York EP,new-york-ep,new-york-ep,UNK
+New York,5710132,2,12,,"http://en.wikipedia.org/wiki/New_York,_Auburn_and_Lansing_Railroad","New York, Auburn and Lansing Railroad",new-york-auburn-and-lansing-railroad,new-york-auburn-and-lansing-railroad,UNK
+New York,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+New York,2001239,3,3,,"http://en.wikipedia.org/wiki/New_York,_Newfoundland_and_London_Telegraph_Company","New York, Newfoundland and London Telegraph Company",new-york-newfoundland-and-london-telegraph-company,new-york-newfoundland-and-london-telegraph-company,UNK
+New York,3880857,301,536,5407;239756;21878486;4339;645042;4848143;17144071;2314091;8210131;1141484,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+New York,1159194,10,261,,"http://en.wikipedia.org/wiki/New_York,_Lincolnshire","New York, Lincolnshire",new-york-lincolnshire,new-york-lincolnshire,UNK
+New York,17292183,104,126,645042,"http://en.wikipedia.org/wiki/New_York,_I_Love_You","New York, I Love You",new-york-i-love-you,new-york-i-love-you,UNK
+New York,7402167,6,16,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_New_York_(So_Good_They_Named_It_Twice)","New York, New York",new-york-new-york,new-york-new-york-so-good-they-named-it-twice,UNK
+New York,351876,647,399,21310853;345688;2585447;24437894;4306277;975409;891699;645042;13141861;22915887;19749481;816554;2499282;979228;8210131,"http://en.wikipedia.org/wiki/New_York,_New_Haven_and_Hartford_Railroad","New York, New Haven and Hartford Railroad",new-york-new-haven-and-hartford-railroad,new-york-new-haven-and-hartford-railroad,UNK
+New York,26035579,0,1,645042,"http://en.wikipedia.org/wiki/New_York,_US-NY","New York, US-NY",new-york-us-ny,new-york-us-ny,UNK
+New York,21310853,2,74,351876,"http://en.wikipedia.org/wiki/New_York,_New_Haven_&_Hartford_Passenger_Depot","New York, New Haven & Hartford Passenger Depot",new-york-new-haven-hartford-passenger-depot,new-york-new-haven-hartford-passenger-depot,UNK
+New York,1470149,50,16,,http://en.wikipedia.org/wiki/New_York_&_Company,New York & Company,new-york-company,new-york-company,UNK
+New York,606772,30,81,8210131;645042,http://en.wikipedia.org/wiki/New_York:_A_Documentary_Film,New York: A Documentary Film,new-york-a-documentary-film,new-york-a-documentary-film,UNK
+New York,2499282,360,314,345688;4306277;975409;891699;351876;645042;19749481;816554;979228;8210131,"http://en.wikipedia.org/wiki/New_York,_Ontario_and_Western_Railway","New York, Ontario and Western Railway",new-york-ontario-and-western-railway,new-york-ontario-and-western-railway,UNK
+New York,31747730,135,373,1555877;16443524;645042,http://en.wikipedia.org/wiki/New_York_(Glee),New York,new-york,new-york-glee,UNK
+New York,1555877,17,13,31747730,"http://en.wikipedia.org/wiki/New_York,_New_York_(On_the_Town)","New York, New York",new-york-new-york,new-york-new-york-on-the-town,UNK
+New York,667548,10,36,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_Rio,_and_Buenos_Aires_Line","New York, Rio, and Buenos Aires Line",new-york-rio-and-buenos-aires-line,new-york-rio-and-buenos-aires-line,ORG
+New York,891699,493,307,345688;4306277;975409;351876;5951;19749481;816554;2499282;979228;8210131,"http://en.wikipedia.org/wiki/New_York,_Chicago_and_St._Louis_Railroad","New York, Chicago and St. Louis Railroad",new-york-chicago-and-st-louis-railroad,new-york-chicago-and-st-louis-railroad,UNK
+New York,27746113,5,109,13141861;645042,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railroad_Administration_Building","New York, Westchester and Boston Railroad Administration Building",new-york-westchester-and-boston-railroad-administration-building,new-york-westchester-and-boston-railroad-administration-building,UNK
+New York,598652,483,197,645042;598652;8210131,http://en.wikipedia.org/wiki/New_York_School,New York School,new-york-school,new-york-school,UNK
+New York,493759,93,39,,"http://en.wikipedia.org/wiki/New_York,_Tyne_and_Wear","New York, Tyne and Wear",new-york-tyne-and-wear,new-york-tyne-and-wear,GPE
+New York,8210131,70636,932,2499282;5407;16581;19590;23876058;1141484;8210131;667548;166237;816554;3880857;351876;905899;7402167;202776;24437894;891699;645042;13141861;239756;598652;10671071;606772;126401;4848143,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+New York,816554,492,446,345688;4306277;975409;891699;351876;38249102;645042;19749481;2499282;979228;8210131;26723573,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_and_Western_Railway","New York, Susquehanna and Western Railway",new-york-susquehanna-and-western-railway,new-york-susquehanna-and-western-railway,UNK
+New York,2585447,38,55,351876;645042,"http://en.wikipedia.org/wiki/New_York,_Providence_and_Boston_Railroad","New York, Providence and Boston Railroad",new-york-providence-and-boston-railroad,new-york-providence-and-boston-railroad,UNK
+New York,13141861,113,149,351876;8210131;645042;27746113,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railway","New York, Westchester and Boston Railway",new-york-westchester-and-boston-railway,new-york-westchester-and-boston-railway,UNK
+New York,7112349,30,43,,"http://en.wikipedia.org/wiki/New_York,_Texas","New York, Texas",new-york-texas,new-york-texas,GPE
+New York,26723573,3,85,816554,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_&_Western_Railroad_ALCO_Type_S-2_Locomotive","New York, Susquehanna & Western Railroad ALCO Type S-2 Locomotive",new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,UNK
+New York,13288448,14,23,,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+Jason Dickson,931528,71,67,1360083;218947;23277625,http://en.wikipedia.org/wiki/Jason_Dickson,Jason Dickson,jason-dickson,jason-dickson,PER
+Chili Davis,1547794,240,225,1360083;22523;20050;4848143;218947;1915655;16883;1141484;877552;30857,http://en.wikipedia.org/wiki/Chili_Davis,Chili Davis,chili-davis,chili-davis,PER
+California Angels,1360083,3383,550,2004582;8579;1360083;218947;16883;931528;2226049;1547794;27660;20050;20152;395171;386384;2070208;4340;4339;22523;23277625;4848143;5407;5945;6652;752415;6725;329401;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Los_Angeles_Angels_of_Anaheim,Los Angeles Angels of Anaheim,los-angeles-angels-of-anaheim,los-angeles-angels-of-anaheim,UNK
+Dickson,931528,71,67,1360083;218947;23277625,http://en.wikipedia.org/wiki/Jason_Dickson,Jason Dickson,jason-dickson,jason-dickson,PER
+Derek Jeter,218947,1271,999,153856;6652;212472;386384;931528;1547794;4340;4339;645042;27660;22523;20050;4848143;8579;1360083;16581;5945;30847;385773;1141484;877552;30857,http://en.wikipedia.org/wiki/Derek_Jeter,Derek Jeter,derek-jeter,derek-jeter,PER
+Angels,1360083,3383,550,2004582;8579;1360083;218947;16883;931528;2226049;1547794;27660;20050;20152;395171;386384;2070208;4340;4339;22523;23277625;4848143;5407;5945;6652;752415;6725;329401;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Los_Angeles_Angels_of_Anaheim,Los Angeles Angels of Anaheim,los-angeles-angels-of-anaheim,los-angeles-angels-of-anaheim,UNK
+Jimmy Key,385773,375,338,3139393;386384;218947;4340;23277625;4848143;1915655;30847;6849,http://en.wikipedia.org/wiki/Jimmy_Key,Jimmy Key,jimmy-key,jimmy-key,PER
+California,1360083,3383,550,2004582;8579;1360083;218947;16883;931528;2226049;1547794;27660;20050;20152;395171;386384;2070208;4340;4339;22523;23277625;4848143;5407;5945;6652;752415;6725;329401;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Los_Angeles_Angels_of_Anaheim,Los Angeles Angels of Anaheim,los-angeles-angels-of-anaheim,los-angeles-angels-of-anaheim,UNK
+California,13657777,1,20,,"http://en.wikipedia.org/wiki/California,_Shasta_and_Eastern_Railway","California, Shasta and Eastern Railway",california-shasta-and-eastern-railway,california-shasta-and-eastern-railway,UNK
+California,273597,191,228,5407,"http://en.wikipedia.org/wiki/California,_Buckinghamshire","California, Buckinghamshire",california-buckinghamshire,california-buckinghamshire,UNK
+California,41291975,2,21,5407,http://en.wikipedia.org/wiki/California_(titular_see),California,california,california-titular-see,GPE
+California,33232098,1,6,33232098,http://en.wikipedia.org/wiki/California_(neighborhood),California,california,california-neighborhood,UNK
+California,62706,314,100,58296;5407;1552882,http://en.wikipedia.org/wiki/Baja_California_peninsula,Baja California peninsula,baja-california-peninsula,baja-california-peninsula,UNK
+California,1157384,9,15,,"http://en.wikipedia.org/wiki/California,_Berkshire","California, Berkshire",california-berkshire,california-berkshire,GPE
+California,1552882,0,76,58296;62706;59453;5407,http://en.wikipedia.org/wiki/Etymology_of_California,Etymology of California,etymology-of-california,etymology-of-california,UNK
+California,134026,217,241,58296;5407,"http://en.wikipedia.org/wiki/California,_Pennsylvania","California, Pennsylvania",california-pennsylvania,california-pennsylvania,GPE
+California,2381369,26,31,,"http://en.wikipedia.org/wiki/California,_Usulután","California, Usulután",california-usulutan,california-usulutan,GPE
+California,23574924,0,2,2565257,"http://en.wikipedia.org/wiki/California,_Ohio","California, Ohio",california-ohio,california-ohio,UNK
+California,261297,56,70,5407,http://en.wikipedia.org/wiki/California_electricity_crisis,California electricity crisis,california-electricity-crisis,california-electricity-crisis,UNK
+California,28786051,95,127,58296;5407,"http://en.wikipedia.org/wiki/California,_Birmingham","California, Birmingham",california-birmingham,california-birmingham,GPE
+California,1528920,10,64,5407,http://en.wikipedia.org/wiki/341_California,341 California,341-california,341-california,UNK
+California,337984,495,545,5407;337984,http://en.wikipedia.org/wiki/California_Proposition_13_(1978),California Proposition 13,california-proposition-13,california-proposition-13-1978,UNK
+California,59453,903,361,58296;5407;1552882;59453,http://en.wikipedia.org/wiki/Spanish_missions_in_California,Spanish missions in California,spanish-missions-in-california,spanish-missions-in-california,UNK
+California,196870,144,71,5407,http://en.wikipedia.org/wiki/USS_California_(BB-44),USS California,uss-california,uss-california-bb-44,UNK
+California,23262954,1,13,8687,"http://en.wikipedia.org/wiki/California,_Here_We_Come","California, Here We Come",california-here-we-come,california-here-we-come,UNK
+California,33805843,0,179,,"http://en.wikipedia.org/wiki/California,_Bohol","California, Bohol",california-bohol,california-bohol,UNK
+California,10430696,88,92,,"http://en.wikipedia.org/wiki/California,_Santander","California, Santander",california-santander,california-santander,GPE
+California,2565257,73,151,23574924,"http://en.wikipedia.org/wiki/California,_Cincinnati","California, Cincinnati",california-cincinnati,california-cincinnati,UNK
+California,3230294,10,9,,"http://en.wikipedia.org/wiki/California,_Arizona_and_Santa_Fe_Railway","California, Arizona and Santa Fe Railway",california-arizona-and-santa-fe-railway,california-arizona-and-santa-fe-railway,UNK
+California,3832232,222,250,5503022,"http://en.wikipedia.org/wiki/California,_Louisville","California, Louisville",california-louisville,california-louisville,UNK
+California,23182465,1,24,,http://en.wikipedia.org/wiki/California_macrophylla,California macrophylla,california-macrophylla,california-macrophylla,PER
+California,13584131,11,4,,"http://en.wikipedia.org/wiki/California,_Trinidad_and_Tobago","California, Trinidad and Tobago",california-trinidad-and-tobago,california-trinidad-and-tobago,UNK
+California,1409989,25,65,5407;645042,"http://en.wikipedia.org/wiki/California,_Here_I_Come","California, Here I Come",california-here-i-come,california-here-i-come,UNK
+California,5407,76175,1092,1528920;5407;134026;19590;22523;161226;273597;8210131;23097144;36814246;1552882;59453;58296;3880857;1409989;62706;22907038;206779;196870;28786051;22446241;24437894;337984;22993175;1360083;386384;41291975;261297;1601287;22842834,http://en.wikipedia.org/wiki/California,California,california,california,GPE
+California,58296,2208,335,21952033;26997138;5407;1552882;59453;62706;28786051;134026,http://en.wikipedia.org/wiki/California_Gold_Rush,California Gold Rush,california-gold-rush,california-gold-rush,UNK
+California,1601287,163,238,5407,http://en.wikipedia.org/wiki/Domestic_partnership_in_California,Domestic partnership in California,domestic-partnership-in-california,domestic-partnership-in-california,UNK
+California,21952033,57,82,58296,"http://en.wikipedia.org/wiki/California,_Falkirk","California, Falkirk",california-falkirk,california-falkirk,UNK
+John McNamara,2226049,296,248,1360083;22523;6652;6849;1842070;4339,http://en.wikipedia.org/wiki/John_McNamara_(baseball),John McNamara,john-mcnamara,john-mcnamara-baseball,PER
+John McNamara,19139125,3,17,1842070,http://en.wikipedia.org/wiki/John_McNamara_(artist),John McNamara,john-mcnamara,john-mcnamara-artist,PER
+John McNamara,38960238,2,12,1842070,http://en.wikipedia.org/wiki/John_McNamara_(jockey),John McNamara,john-mcnamara,john-mcnamara-jockey,PER
+John McNamara,1842070,7,15,25942878;38960238;2226049;1218686;19139125;11472616,http://en.wikipedia.org/wiki/John_McNamara,John McNamara,john-mcnamara,john-mcnamara,PER
+John McNamara,11472616,28,37,1842070,http://en.wikipedia.org/wiki/John_McNamara_(writer),John McNamara,john-mcnamara,john-mcnamara-writer,UNK
+John McNamara,1218686,5,13,1842070,http://en.wikipedia.org/wiki/John_McNamara_(VC),John McNamara,john-mcnamara,john-mcnamara-vc,PER
+John McNamara,25942878,3,18,1842070,http://en.wikipedia.org/wiki/John_McNamara_(fraudster),John McNamara,john-mcnamara,john-mcnamara-fraudster,PER
+Boston,24437894,18889,1011,351876;38936;4339;5407;560530;5951;4584803;876997;202776;882398;17454;2004519;19590;24437894;645042;1141484;26997138;61114;1098681;8210131;1765242;5184742,http://en.wikipedia.org/wiki/Boston,Boston,boston,boston,GPE
+Boston,206780,41,73,188252;206779;199538,http://en.wikipedia.org/wiki/USS_Boston_(CA-69),USS Boston,uss-boston,uss-boston-ca-69,UNK
+Boston,298047,232,300,,http://en.wikipedia.org/wiki/Boston_Mountains,Boston Mountains,boston-mountains,boston-mountains,UNK
+Boston,882398,287,288,24437894,"http://en.wikipedia.org/wiki/Boston,_Texas","Boston, Texas",boston-texas,boston-texas,GPE
+Boston,2959176,45,41,645042,http://en.wikipedia.org/wiki/First_Boston,First Boston,first-boston,first-boston,UNK
+Boston,188252,13,8,621979;206775;206780;206777;206776;206779,http://en.wikipedia.org/wiki/USS_Boston,USS Boston,uss-boston,uss-boston,UNK
+Boston,876997,1491,940,26997138;61114;572408;4339;24437894;23604338;645042;876997;502705,http://en.wikipedia.org/wiki/Greater_Boston,Greater Boston,greater-boston,greater-boston,UNK
+Boston,473025,19,45,,http://en.wikipedia.org/wiki/Baron_Boston,Baron Boston,baron-boston,baron-boston,ORG
+Boston,206779,64,66,188252;5407;206780;645042,http://en.wikipedia.org/wiki/USS_Boston_(1884),USS Boston,uss-boston,uss-boston-1884,UNK
+Boston,1765242,66,146,24437894,http://en.wikipedia.org/wiki/For_Boston,For Boston,for-boston,for-boston,UNK
+Boston,6682329,43,53,,http://en.wikipedia.org/wiki/Boston_College_(England),Boston College,boston-college,boston-college-england,UNK
+Boston,3261998,5,2,,http://en.wikipedia.org/wiki/Boston_(dance),Boston,boston,boston-dance,UNK
+Boston,2343178,32,24,,http://en.wikipedia.org/wiki/Boston_Beach,Boston Beach,boston-beach,boston-beach,UNK
+Boston,206775,18,36,188252,http://en.wikipedia.org/wiki/USS_Boston_(1777),USS Boston,uss-boston,uss-boston-1777,UNK
+Boston,30697397,21,35,,"http://en.wikipedia.org/wiki/Boston,_Culpeper_County,_Virginia","Boston, Culpeper County, Virginia",boston-culpeper-county-virginia,boston-culpeper-county-virginia,GPE
+Boston,38249102,17,116,816554,"http://en.wikipedia.org/wiki/Boston,_Barre_and_Gardner_Railroad","Boston, Barre and Gardner Railroad",boston-barre-and-gardner-railroad,boston-barre-and-gardner-railroad,UNK
+Boston,206776,30,36,188252,http://en.wikipedia.org/wiki/USS_Boston_(1799),USS Boston,uss-boston,uss-boston-1799,UNK
+Boston,32650915,3,3,,"http://en.wikipedia.org/wiki/Boston,_Belize","Boston, Belize",boston-belize,boston-belize,UNK
+Boston,126401,192,183,8210131;23876058,"http://en.wikipedia.org/wiki/Boston,_New_York","Boston, New York",boston-new-york,boston-new-york,GPE
+Boston,40543468,40,43,,"http://en.wikipedia.org/wiki/Boston,_Louisiana","Boston, Louisiana",boston-louisiana,boston-louisiana,GPE
+Boston,1190152,32,35,,"http://en.wikipedia.org/wiki/Boston,_Revere_Beach_and_Lynn_Railroad","Boston, Revere Beach and Lynn Railroad",boston-revere-beach-and-lynn-railroad,boston-revere-beach-and-lynn-railroad,UNK
+Boston,167665,476,106,645042;167665,http://en.wikipedia.org/wiki/Boston_(band),Boston,boston,boston-band,UNK
+Boston,22915887,17,8,351876,"http://en.wikipedia.org/wiki/Boston,_Clinton,_Fitchburg_and_New_Bedford_Railroad","Boston, Clinton, Fitchburg and New Bedford Railroad",boston-clinton-fitchburg-and-new-bedford-railroad,boston-clinton-fitchburg-and-new-bedford-railroad,UNK
+Boston,11773015,27,24,5503022,"http://en.wikipedia.org/wiki/Boston,_Kentucky","Boston, Kentucky",boston-kentucky,boston-kentucky,GPE
+Boston,18346514,123,128,,"http://en.wikipedia.org/wiki/Boston,_Accomack_County,_Virginia","Boston, Accomack County, Virginia",boston-accomack-county-virginia,boston-accomack-county-virginia,GPE
+Boston,61114,4207,647,61114;876997;24437894;161226,http://en.wikipedia.org/wiki/Boston_University,Boston University,boston-university,boston-university,ORG
+Boston,37316261,24,41,,"http://en.wikipedia.org/wiki/Boston,_Tennessee","Boston, Tennessee",boston-tennessee,boston-tennessee,GPE
+Boston,38060788,7,12,,"http://en.wikipedia.org/wiki/Boston,_Pennsylvania","Boston, Pennsylvania",boston-pennsylvania,boston-pennsylvania,GPE
+Boston,27945833,1,7,,"http://en.wikipedia.org/wiki/Boston,_Suriname","Boston, Suriname",boston-suriname,boston-suriname,GPE
+Boston,13843411,100,90,,"http://en.wikipedia.org/wiki/Boston,_County_Clare","Boston, County Clare",boston-county-clare,boston-county-clare,GPE
+Boston,2154648,32,33,,"http://en.wikipedia.org/wiki/Boston,_Davao_Oriental","Boston, Davao Oriental",boston-davao-oriental,boston-davao-oriental,UNK
+Boston,23876058,168,170,8210131;126401,"http://en.wikipedia.org/wiki/Boston_(hamlet),_New_York","Boston (hamlet), New York",boston-hamlet-new-york,boston-hamlet-new-york,GPE
+Boston,5503022,220,251,11773015;3832232,"http://en.wikipedia.org/wiki/Boston,_Louisville","Boston, Louisville",boston-louisville,boston-louisville,UNK
+Boston,4584803,30,41,24437894,"http://en.wikipedia.org/wiki/Boston,_Missouri","Boston, Missouri",boston-missouri,boston-missouri,GPE
+Boston,1407478,31,38,,"http://en.wikipedia.org/wiki/Boston,_KwaZulu-Natal","Boston, KwaZulu-Natal",boston-kwazulu-natal,boston-kwazulu-natal,UNK
+Boston,513495,48,130,,http://en.wikipedia.org/wiki/Borough_of_Boston,Borough of Boston,borough-of-boston,borough-of-boston,UNK
+Boston,621979,76,85,188252;1076681,http://en.wikipedia.org/wiki/USS_Boston_(SSN-703),USS Boston,uss-boston,uss-boston-ssn-703,UNK
+Boston,5607669,107,161,,http://en.wikipedia.org/wiki/Boston_Light,Boston Light,boston-light,boston-light,UNK
+Boston,2004519,132,143,24437894;5042117;645042,http://en.wikipedia.org/wiki/Boston_(Hasidic_dynasty),Boston,boston,boston-hasidic-dynasty,UNK
+Boston,206777,19,21,188252,http://en.wikipedia.org/wiki/USS_Boston_(1825),USS Boston,uss-boston,uss-boston-1825,UNK
+Mike Stanley,2400192,73,56,30847;22523;552153;4848143;1141484;4339;30857,http://en.wikipedia.org/wiki/Mike_Stanley,Mike Stanley,mike-stanley,mike-stanley,PER
+Red Sox,4339,7119,1009,2004582;16581;490998;16883;212472;20050;20152;38936;4340;4339;22523;23277625;24437894;5945;6652;6849;6725;329401;2400192;7586402;1264752;1141484;8579;1360083;218947;2226049;23604338;27660;395171;876997;386384;3880857;4848143;153856;552153;2407111;30847;30857,http://en.wikipedia.org/wiki/Boston_Red_Sox,Boston Red Sox,boston-red-sox,boston-red-sox,UNK
+Red Sox,3726920,20,16,,http://en.wikipedia.org/wiki/Red_Sox_Manawatu,Red Sox Manawatu,red-sox-manawatu,red-sox-manawatu,UNK
+Red Sox,23604338,1,20,876997;4339,http://en.wikipedia.org/wiki/Red_Sox_Song,Red Sox Song,red-sox-song,red-sox-song,UNK
+Oakland Athletics,22523,5911,1068,17454;2004582;8579;1360083;218947;16883;6941975;20457263;212472;2226049;1547794;27660;20050;20152;877552;386384;4340;4339;22523;4848143;5407;161226;5945;2787747;153856;6652;752415;6849;6725;329401;2733958;2400192;30847;1141484;30857,http://en.wikipedia.org/wiki/Oakland_Athletics,Oakland Athletics,oakland-athletics,oakland-athletics,UNK
+Stanley,4681991,0,3,2692095,http://en.wikipedia.org/wiki/Stanley_River,Stanley River,stanley-river,stanley-river,UNK
+Stanley,5257696,3,19,,http://en.wikipedia.org/wiki/Stanley_Island,Stanley Island,stanley-island,stanley-island,UNK
+Stanley,20756246,4,42,,http://en.wikipedia.org/wiki/Stanley_Institute,Stanley Institute,stanley-institute,stanley-institute,UNK
+Stanley,4710406,22,19,22153660,http://en.wikipedia.org/wiki/Arthur_Stanley_(politician),Arthur Stanley,arthur-stanley,arthur-stanley-politician,PER
+Stanley,29187245,43,37,,"http://en.wikipedia.org/wiki/Stanley,_New_York","Stanley, New York",stanley-new-york,stanley-new-york,GPE
+Stanley,25411875,47,66,,"http://en.wikipedia.org/wiki/Stanley,_New_Mexico","Stanley, New Mexico",stanley-new-mexico,stanley-new-mexico,GPE
+Stanley,11150729,56,57,25671354,"http://en.wikipedia.org/wiki/Stanley,_Alexandria,_Egypt","Stanley, Alexandria, Egypt",stanley-alexandria-egypt,stanley-alexandria-egypt,UNK
+Stanley,4181698,20,27,,"http://en.wikipedia.org/wiki/Stanley,_Victoria","Stanley, Victoria",stanley-victoria,stanley-victoria,UNK
+Stanley,25671354,0,2,187206;11150729,http://en.wikipedia.org/wiki/Stanley_Beach,Stanley Beach,stanley-beach,stanley-beach,GPE
+Stanley,3816900,48,32,,"http://en.wikipedia.org/wiki/Stanley,_Tasmania","Stanley, Tasmania",stanley-tasmania,stanley-tasmania,UNK
+Stanley,1138038,56,30,1141318;212466,http://en.wikipedia.org/wiki/Edward_Stanley_(bishop),Edward Stanley,edward-stanley,edward-stanley-bishop,UNK
+Stanley,16474580,7,10,,"http://en.wikipedia.org/wiki/Stanley,_Inc.","Stanley, Inc.",stanley-inc,stanley-inc,UNK
+Stanley,6567845,7,7,187206,http://en.wikipedia.org/wiki/Stanley_Peninsula,Stanley Peninsula,stanley-peninsula,stanley-peninsula,UNK
+Stanley,22153660,1,4,4710406;212466,http://en.wikipedia.org/wiki/Arthur_Stanley,Arthur Stanley,arthur-stanley,arthur-stanley,PER
+Stanley,5789527,10,17,,"http://en.wikipedia.org/wiki/Stanley,_British_Columbia","Stanley, British Columbia",stanley-british-columbia,stanley-british-columbia,GPE
+Stanley,2897426,1,17,,"http://en.wikipedia.org/wiki/Stanley_Park_(Westfield,_Massachusetts)",Stanley Park,stanley-park,stanley-park-westfield-massachusetts,UNK
+Stanley,292741,322,319,292741;645042,http://en.wikipedia.org/wiki/Stanley_Park,Stanley Park,stanley-park,stanley-park,UNK
+Stanley,24667237,44,62,,"http://en.wikipedia.org/wiki/Stanley,_Oklahoma","Stanley, Oklahoma",stanley-oklahoma,stanley-oklahoma,GPE
+Stanley,2865003,247,168,,http://en.wikipedia.org/wiki/Stanley_(vehicle),Stanley,stanley,stanley-vehicle,UNK
+Stanley,187206,157,47,4087725;25671354;6567845,"http://en.wikipedia.org/wiki/Stanley,_Hong_Kong","Stanley, Hong Kong",stanley-hong-kong,stanley-hong-kong,UNK
+Stanley,37016081,24,35,,"http://en.wikipedia.org/wiki/Stanley,_Kentucky","Stanley, Kentucky",stanley-kentucky,stanley-kentucky,UNK
+Stanley,948492,8,16,948492,http://en.wikipedia.org/wiki/Stanley_Temple,Stanley Temple,stanley-temple,stanley-temple,PER
+Stanley,5818488,18,12,,http://en.wikipedia.org/wiki/Baron_Stanley,Baron Stanley,baron-stanley,baron-stanley,UNK
+Stanley,1361172,34,82,,http://en.wikipedia.org/wiki/Stanley_Road,Stanley Road,stanley-road,stanley-road,UNK
+Stanley,4437351,160,143,,"http://en.wikipedia.org/wiki/Stanley,_New_Brunswick","Stanley, New Brunswick",stanley-new-brunswick,stanley-new-brunswick,UNK
+Stanley,41507045,1,6,,http://en.wikipedia.org/wiki/Canadian_Government_Ship_Stanley,Canadian Government Ship Stanley,canadian-government-ship-stanley,canadian-government-ship-stanley,PER
+Stanley,3257466,47,42,,"http://en.wikipedia.org/wiki/Stanley,_West_Yorkshire","Stanley, West Yorkshire",stanley-west-yorkshire,stanley-west-yorkshire,GPE
+Stanley,17795445,146,159,,"http://en.wikipedia.org/wiki/Stanley,_Perthshire","Stanley, Perthshire",stanley-perthshire,stanley-perthshire,GPE
+Stanley,12769183,45,32,,http://en.wikipedia.org/wiki/Stanley_(play),Stanley,stanley,stanley-play,UNK
+Stanley,27678422,12,19,,http://en.wikipedia.org/wiki/Stanley_Mountain,Stanley Mountain,stanley-mountain,stanley-mountain,UNK
+Stanley,21776104,14,14,2925949,"http://en.wikipedia.org/wiki/Stanley,_Nova_Scotia","Stanley, Nova Scotia",stanley-nova-scotia,stanley-nova-scotia,UNK
+Stanley,20333886,22,19,,http://en.wikipedia.org/wiki/Stanley_Lake,Stanley Lake,stanley-lake,stanley-lake,UNK
+Stanley,24566788,40,63,19590,"http://en.wikipedia.org/wiki/Stanley,_Minnesota","Stanley, Minnesota",stanley-minnesota,stanley-minnesota,GPE
+Stanley,5439310,3,6,,http://en.wikipedia.org/wiki/Stanley_(boat),Stanley,stanley,stanley-boat,UNK
+Stanley,212466,54,119,1138038;22153660,http://en.wikipedia.org/wiki/Arthur_Stanley_(priest),Arthur Stanley,arthur-stanley,arthur-stanley-priest,UNK
+Stanley,22842834,69,79,5407,"http://en.wikipedia.org/wiki/Stanley,_California","Stanley, California",stanley-california,stanley-california,GPE
+Stanley,191436,401,265,,"http://en.wikipedia.org/wiki/Stanley,_Falkland_Islands","Stanley, Falkland Islands",stanley-falkland-islands,stanley-falkland-islands,GPE
+Stanley,35636711,46,60,,"http://en.wikipedia.org/wiki/Stanley,_Ritchie_County,_West_Virginia","Stanley, Ritchie County, West Virginia",stanley-ritchie-county-west-virginia,stanley-ritchie-county-west-virginia,GPE
+Stanley,115551,20,28,,"http://en.wikipedia.org/wiki/Stanley,_Louisiana","Stanley, Louisiana",stanley-louisiana,stanley-louisiana,GPE
+Stanley,4087725,6,8,187206,http://en.wikipedia.org/wiki/Stanley_Market,Stanley Market,stanley-market,stanley-market,UNK
+Stanley,2925949,8,100,21776104,http://en.wikipedia.org/wiki/Stanley_Airport,Stanley Airport,stanley-airport,stanley-airport,UNK
+Stanley,535188,0,3,,http://en.wikipedia.org/wiki/Stanley_County,Stanley County,stanley-county,stanley-county,UNK
+Stanley,1141318,5,21,1138038,http://en.wikipedia.org/wiki/Edward_Stanley,Edward Stanley,edward-stanley,edward-stanley,PER
+Stanley,643259,25,21,,http://en.wikipedia.org/wiki/Mount_Stanley,Mount Stanley,mount-stanley,mount-stanley,UNK
+Stanley,20707483,7,28,,http://en.wikipedia.org/wiki/Stanley_Hill,Stanley Hill,stanley-hill,stanley-hill,UNK
+Stanley,2692095,106,111,4681991,http://en.wikipedia.org/wiki/Stanley_River_(Queensland),Stanley River,stanley-river,stanley-river-queensland,UNK
+Boston,4339,7119,1009,2004582;16581;490998;16883;212472;20050;20152;38936;4340;4339;22523;23277625;24437894;5945;6652;6849;6725;329401;2400192;7586402;1264752;1141484;8579;1360083;218947;2226049;23604338;27660;395171;876997;386384;3880857;4848143;153856;552153;2407111;30847;30857,http://en.wikipedia.org/wiki/Boston_Red_Sox,Boston Red Sox,boston-red-sox,boston-red-sox,UNK
+Mo Vaughn,395171,288,319,1360083;153856;6652;212472;4339;27660;552153;161226,http://en.wikipedia.org/wiki/Mo_Vaughn,Mo Vaughn,mo-vaughn,mo-vaughn,PER
+Scott Brosius,877552,213,201,22523;16581;212472;4848143;386384;218947;1547794,http://en.wikipedia.org/wiki/Scott_Brosius,Scott Brosius,scott-brosius,scott-brosius,PER
+Athletics,22523,5911,1068,17454;2004582;8579;1360083;218947;16883;6941975;20457263;212472;2226049;1547794;27660;20050;20152;877552;386384;4340;4339;22523;4848143;5407;161226;5945;2787747;153856;6652;752415;6849;6725;329401;2733958;2400192;30847;1141484;30857,http://en.wikipedia.org/wiki/Oakland_Athletics,Oakland Athletics,oakland-athletics,oakland-athletics,UNK
+Detroit,8687,10335,825,32661022;703784;2288676;434275;23262954;3502799;17981366;975409;180178;5951;3850902;645042;36939268;30541023;8935;31534800;8687;8579;6703823;6907309;294538;8436512;10934068;155553,http://en.wikipedia.org/wiki/Detroit,Detroit,detroit,detroit,GPE
+Detroit,294538,393,392,3502799;8935;2290957;5951;290172;8687,http://en.wikipedia.org/wiki/Detroit_Metropolitan_Wayne_County_Airport,Detroit Metropolitan Wayne County Airport,detroit-metropolitan-wayne-county-airport,detroit-metropolitan-wayne-county-airport,UNK
+Detroit,1098681,36,75,24437894;434275;645042,http://en.wikipedia.org/wiki/USS_Detroit_(CL-8),USS Detroit,uss-detroit,uss-detroit-cl-8,UNK
+Detroit,3850902,10,4,8687,http://en.wikipedia.org/wiki/Detroit_Journal,Detroit Journal,detroit-journal,detroit-journal,ORG
+Detroit,13511163,12,11,,http://en.wikipedia.org/wiki/Detroit_(band),Detroit,detroit,detroit-band,UNK
+Detroit,32661022,21,26,434275;8687,http://en.wikipedia.org/wiki/USS_Detroit_(LCS-7),USS Detroit,uss-detroit,uss-detroit-lcs-7,UNK
+Detroit,434275,11,11,8023618;3486604;8687;2288676;32661022;1098681,http://en.wikipedia.org/wiki/USS_Detroit,USS Detroit,uss-detroit,uss-detroit,UNK
+Detroit,569633,709,702,8935;569633,http://en.wikipedia.org/wiki/Le_Détroit,Le Détroit,le-detroit,le-detroit,ORG
+Detroit,8935,956,370,180178;294538;645042;8687;569633;8579;3502799;6703823;155553,http://en.wikipedia.org/wiki/Detroit_River,Detroit River,detroit-river,detroit-river,UNK
+Detroit,6693671,10,7,,http://en.wikipedia.org/wiki/Detroit_Island,Detroit Island,detroit-island,detroit-island,UNK
+Detroit,180178,165,124,8935;180178;8687;645042,http://en.wikipedia.org/wiki/Detroit_techno,Detroit techno,detroit-techno,detroit-techno,UNK
+Detroit,3486604,6,9,434275;2288676,http://en.wikipedia.org/wiki/USS_Detroit_(1813),USS Detroit,uss-detroit,uss-detroit-1813,UNK
+Detroit,10934015,5,3,,http://en.wikipedia.org/wiki/Detroit_(Wheeler_Manufacturing),Detroit,detroit,detroit-wheeler-manufacturing,UNK
+Detroit,15172393,10,9,30541023;14986879,"http://en.wikipedia.org/wiki/Detroit,_Howell_and_Lansing_Railroad","Detroit, Howell and Lansing Railroad",detroit-howell-and-lansing-railroad,detroit-howell-and-lansing-railroad,UNK
+Detroit,2290957,1,2,294538,http://en.wikipedia.org/wiki/Detroit_Airport,Detroit Airport,detroit-airport,detroit-airport,UNK
+Detroit,17981366,230,277,6703823;8687,http://en.wikipedia.org/wiki/Detroit_Club,Detroit Club,detroit-club,detroit-club,UNK
+Detroit,6703823,208,207,8935;17981366;8687,http://en.wikipedia.org/wiki/Detroit_Building,Detroit Building,detroit-building,detroit-building,UNK
+Detroit,31534800,29,59,8687,http://en.wikipedia.org/wiki/Detroit_(play),Detroit,detroit,detroit-play,UNK
+Detroit,3502799,32,50,8935;8687;294538,http://en.wikipedia.org/wiki/Detroit_Department_of_Transportation,Detroit Department of Transportation,detroit-department-of-transportation,detroit-department-of-transportation,UNK
+Detroit,15206565,14,21,,"http://en.wikipedia.org/wiki/Detroit,_Mackinac_and_Marquette_Railroad","Detroit, Mackinac and Marquette Railroad",detroit-mackinac-and-marquette-railroad,detroit-mackinac-and-marquette-railroad,UNK
+Detroit,8436512,54,66,8687,"http://en.wikipedia.org/wiki/Detroit,_Kansas","Detroit, Kansas",detroit-kansas,detroit-kansas,GPE
+Detroit,15181392,4,7,,"http://en.wikipedia.org/wiki/Detroit,_Lake_Shore_and_Mt._Clemens_Railway","Detroit, Lake Shore and Mt. Clemens Railway",detroit-lake-shore-and-mt-clemens-railway,detroit-lake-shore-and-mt-clemens-railway,UNK
+Detroit,17471669,71,94,,http://en.wikipedia.org/wiki/Detroit_Metal_City,Detroit Metal City,detroit-metal-city,detroit-metal-city,UNK
+Detroit,155553,288,65,8935;8687,http://en.wikipedia.org/wiki/Detroit_Symphony_Orchestra,Detroit Symphony Orchestra,detroit-symphony-orchestra,detroit-symphony-orchestra,UNK
+Detroit,2995038,10,28,,http://en.wikipedia.org/wiki/Detroit_Junior,Detroit Junior,detroit-junior,detroit-junior,UNK
+Detroit,2288676,17,75,8687;3486604;434275,http://en.wikipedia.org/wiki/USS_Detroit_(AOE-4),USS Detroit,uss-detroit,uss-detroit-aoe-4,UNK
+Detroit,975409,277,271,19749481;816554;345688;2499282;4306277;979228;891699;351876;8687,"http://en.wikipedia.org/wiki/Detroit,_Toledo_and_Ironton_Railroad","Detroit, Toledo and Ironton Railroad",detroit-toledo-and-ironton-railroad,detroit-toledo-and-ironton-railroad,UNK
+Detroit,19749481,258,246,816554;345688;2499282;979228;4306277;975409;891699;14986879;351876,"http://en.wikipedia.org/wiki/Detroit,_Grand_Haven_and_Milwaukee_Railway","Detroit, Grand Haven and Milwaukee Railway",detroit-grand-haven-and-milwaukee-railway,detroit-grand-haven-and-milwaukee-railway,UNK
+Detroit,239709,130,101,239756;239738;239709;2046705;8579,http://en.wikipedia.org/wiki/Detroit_(1920s_NFL_teams),Detroit,detroit,detroit-1920s-nfl-teams,UNK
+Detroit,30541023,2,14,15172393;8687;14986879,"http://en.wikipedia.org/wiki/Detroit,_Lansing_and_Lake_Michigan_Rail_Road","Detroit, Lansing and Lake Michigan Rail Road",detroit-lansing-and-lake-michigan-rail-road,detroit-lansing-and-lake-michigan-rail-road,UNK
+Detroit,6907309,51,75,8687,http://en.wikipedia.org/wiki/Detroit-style_pizza,Detroit-style pizza,detroit-style-pizza,detroit-style-pizza,UNK
+Detroit,10269667,61,316,111794,"http://en.wikipedia.org/wiki/Detroit_Township,_Pike_County,_Illinois","Detroit Township, Pike County, Illinois",detroit-township-pike-county-illinois,detroit-township-pike-county-illinois,UNK
+Detroit,111794,69,68,10269667,"http://en.wikipedia.org/wiki/Detroit,_Illinois","Detroit, Illinois",detroit-illinois,detroit-illinois,GPE
+Detroit,264959,352,363,,http://en.wikipedia.org/wiki/Detroit_Lake,Detroit Lake,detroit-lake,detroit-lake,UNK
+Detroit,10934068,4,12,8687,http://en.wikipedia.org/wiki/Detroit_Auto_Vehicle_Company,Detroit Auto Vehicle Company,detroit-auto-vehicle-company,detroit-auto-vehicle-company,UNK
+Detroit,36939268,55,67,8687,http://en.wikipedia.org/wiki/Detroit_(mixtape),Detroit,detroit,detroit-mixtape,UNK
+Detroit,8023618,26,21,434275;645042,http://en.wikipedia.org/wiki/USS_Detroit_(C-10),USS Detroit,uss-detroit,uss-detroit-c-10,UNK
+Detroit,2236330,62,59,,http://en.wikipedia.org/wiki/Doctor_Detroit,Doctor Detroit,doctor-detroit,doctor-detroit,UNK
+Detroit,14986879,24,69,15172393;19749481;30541023,"http://en.wikipedia.org/wiki/Detroit,_Lansing_and_Northern_Railroad","Detroit, Lansing and Northern Railroad",detroit-lansing-and-northern-railroad,detroit-lansing-and-northern-railroad,UNK
+Detroit,703784,4,17,8687,http://en.wikipedia.org/wiki/Détroit,Détroit,detroit,detroit,UNK
+Brad Ausmus,1838414,596,469,16581;552153;161226;4848143;2004582;8579,http://en.wikipedia.org/wiki/Brad_Ausmus,Brad Ausmus,brad-ausmus,brad-ausmus,PER
+Tigers,8579,5768,927,8935;8687;2004582;8579;1360083;490998;218947;26126951;16883;2765457;20457263;212472;27660;20050;20152;2644877;386384;4340;4339;22523;23277625;4848143;1838414;239709;161226;5951;5945;153856;6652;552153;6725;329401;30847;30857,http://en.wikipedia.org/wiki/Detroit_Tigers,Detroit Tigers,detroit-tigers,detroit-tigers,UNK
+Tigers,2903692,31,13,,http://en.wikipedia.org/wiki/The_Tigers_(Japanese_band),The Tigers,the-tigers,the-tigers-japanese-band,UNK
+Tigers,41982036,8,3,,http://en.wikipedia.org/wiki/Tigers_FC_(Blantyre),Tigers FC,tigers-fc,tigers-fc-blantyre,PER
+Tigers,30075,1896,679,26126951,http://en.wikipedia.org/wiki/Tiger,Tiger,tiger,tiger,UNK
+Tigers,2906001,11,84,,http://en.wikipedia.org/wiki/Tigers_Militia,Tigers Militia,tigers-militia,tigers-militia,ORG
+Tigers,32072510,18,22,,http://en.wikipedia.org/wiki/Tigers_FC,Tigers FC,tigers-fc,tigers-fc,ORG
+Tigers,15542107,27,32,,http://en.wikipedia.org/wiki/Arthur_Tigers,Arthur Tigers,arthur-tigers,arthur-tigers,UNK
+Tigers,4926896,6,12,,http://en.wikipedia.org/wiki/The_Tigers_(band),The Tigers,the-tigers,the-tigers-band,PER
+Tigers,32116392,2,10,,"http://en.wikipedia.org/wiki/Tigers,_London_Zoological_Gardens","Tigers, London Zoological Gardens",tigers-london-zoological-gardens,tigers-london-zoological-gardens,UNK
+Tigers,26126951,3,31,30075;8579;490998,http://en.wikipedia.org/wiki/Tigers_(sports_teams),Tigers,tigers,tigers-sports-teams,UNK
+Tigers,490998,517,197,490998;26126951;4339;4848143;1141484;8579,http://en.wikipedia.org/wiki/Hanshin_Tigers,Hanshin Tigers,hanshin-tigers,hanshin-tigers,ORG
+Chicago White Sox,5945,5920,941,19895782;2004582;8579;1360083;218947;16883;27660;20050;20152;4340;4339;22523;23277625;4848143;905899;5945;2406308;153856;6652;3136125;6725;329401;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Chicago_White_Sox,Chicago White Sox,chicago-white-sox,chicago-white-sox,UNK
+White Sox,5945,5920,941,19895782;2004582;8579;1360083;218947;16883;27660;20050;20152;4340;4339;22523;23277625;4848143;905899;5945;2406308;153856;6652;3136125;6725;329401;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Chicago_White_Sox,Chicago White Sox,chicago-white-sox,chicago-white-sox,UNK
+Kansas City,17454,8235,747,17454;18709741;16883;4383006;9603883;11498373;22523;20988570;24437894;161226;5951;11498779;14531264;345688;752415;20297793;329401;31717649;115009;26997138;572408;290172;6940764;6941975;817286;28199702;5627598;6939841;2046705,"http://en.wikipedia.org/wiki/Kansas_City,_Missouri","Kansas City, Missouri",kansas-city-missouri,kansas-city-missouri,GPE
+Kansas City,11498779,6,3,17454;11498373,"http://en.wikipedia.org/wiki/Kansas_City,_Missouri_City_Council","Kansas City, Missouri City Council",kansas-city-missouri-city-council,kansas-city-missouri-city-council,ORG
+Kansas City,6941975,129,117,22523;20050;2046705;17454;20297793;14531264;290172;16883;572408,http://en.wikipedia.org/wiki/Sports_in_Kansas_City,Sports in Kansas City,sports-in-kansas-city,sports-in-kansas-city,UNK
+Kansas City,31432520,5,3,115009,"http://en.wikipedia.org/wiki/Kansas_City,_Kansas_Public_Schools","Kansas City, Kansas Public Schools",kansas-city-kansas-public-schools,kansas-city-kansas-public-schools,UNK
+Kansas City,18709741,14,9,17454;345688,"http://en.wikipedia.org/wiki/Kansas_City,_Pittsburg_and_Gulf_Railroad","Kansas City, Pittsburg and Gulf Railroad",kansas-city-pittsburg-and-gulf-railroad,kansas-city-pittsburg-and-gulf-railroad,UNK
+Kansas City,4306277,282,255,19749481;816554;345688;2499282;979228;975409;891699;351876,"http://en.wikipedia.org/wiki/Kansas_City,_Mexico_and_Orient_Railway","Kansas City, Mexico and Orient Railway",kansas-city-mexico-and-orient-railway,kansas-city-mexico-and-orient-railway,UNK
+Kansas City,20297793,4576,620,17454;572408;16883;6941975;20988570;2046705;20297793;31717649,http://en.wikipedia.org/wiki/Kansas_City_Chiefs,Kansas City Chiefs,kansas-city-chiefs,kansas-city-chiefs,UNK
+Kansas City,26620211,66,72,,"http://en.wikipedia.org/wiki/Kansas_City,_Oregon","Kansas City, Oregon",kansas-city-oregon,kansas-city-oregon,GPE
+Kansas City,14531264,24,120,17454;6941975,http://en.wikipedia.org/wiki/Kansas_City_Museum,Kansas City Museum,kansas-city-museum,kansas-city-museum,UNK
+Kansas City,15837542,0,2,290172,http://en.wikipedia.org/wiki/Kansas_City_Airport,Kansas City Airport,kansas-city-airport,kansas-city-airport,UNK
+Kansas City,290172,221,170,115009;6941975;17454;290172;15837542;572408;294538,http://en.wikipedia.org/wiki/Kansas_City_International_Airport,Kansas City International Airport,kansas-city-international-airport,kansas-city-international-airport,UNK
+Kansas City,27979728,7,62,115009,http://en.wikipedia.org/wiki/Kansas_City_University,Kansas City University,kansas-city-university,kansas-city-university,ORG
+Kansas City,20988570,17,115,16883;17454;20297793,http://en.wikipedia.org/wiki/Kansas_City_Tribe,Kansas City Tribe,kansas-city-tribe,kansas-city-tribe,UNK
+Kansas City,5307197,5,5,,"http://en.wikipedia.org/wiki/Kansas_City,_Clinton_and_Springfield_Railway","Kansas City, Clinton and Springfield Railway",kansas-city-clinton-and-springfield-railway,kansas-city-clinton-and-springfield-railway,UNK
+Kansas City,572408,703,780,17454;26997138;645042;20297793;290172;16883;876997;502705;115009;6941975,http://en.wikipedia.org/wiki/Kansas_City_metropolitan_area,Kansas City metropolitan area,kansas-city-metropolitan-area,kansas-city-metropolitan-area,UNK
+Kansas City,28199702,2,80,17454,"http://en.wikipedia.org/wiki/Kansas_City,_Missouri_Western_Union_Telegraph_Building","Kansas City, Missouri Western Union Telegraph Building",kansas-city-missouri-western-union-telegraph-building,kansas-city-missouri-western-union-telegraph-building,UNK
+Kansas City,31717649,26,74,17454;16883;20297793,http://en.wikipedia.org/wiki/Kansas_City_Club,Kansas City Club,kansas-city-club,kansas-city-club,UNK
+Kansas City,4383006,61,16,345688;17454,http://en.wikipedia.org/wiki/Kansas_City_Plant,Kansas City Plant,kansas-city-plant,kansas-city-plant,UNK
+Kansas City,5627598,77,78,17454,http://en.wikipedia.org/wiki/Kansas_City_(Oklahoma!),Kansas City,kansas-city,kansas-city-oklahoma,UNK
+Kansas City,6940764,6,7,17454,"http://en.wikipedia.org/wiki/Kansas_City,_Kaw_Valley_and_Western_Railway","Kansas City, Kaw Valley and Western Railway",kansas-city-kaw-valley-and-western-railway,kansas-city-kaw-valley-and-western-railway,UNK
+Kansas City,11498373,3,7,17454;11498779,"http://en.wikipedia.org/wiki/Kansas_City,_Missouri_Municipal_Government","Kansas City, Missouri Municipal Government",kansas-city-missouri-municipal-government,kansas-city-missouri-municipal-government,ORG
+Kansas City,1452678,10,5,,"http://en.wikipedia.org/wiki/Kansas_City,_Memphis_and_Birmingham_Railroad","Kansas City, Memphis and Birmingham Railroad",kansas-city-memphis-and-birmingham-railroad,kansas-city-memphis-and-birmingham-railroad,UNK
+Kansas City,2046705,79,80,5951;239756;239738;239709;6941975;17454;20297793,http://en.wikipedia.org/wiki/Kansas_City_Blues/Cowboys,Kansas City Blues/Cowboys,kansas-city-blues-cowboys,kansas-city-blues-cowboys,UNK
+Kansas City,9603883,2,5,17454,http://en.wikipedia.org/wiki/Kansas_City_(ABA),Kansas City,kansas-city,kansas-city-aba,PER
+Kansas City,817286,3,2,17454,http://en.wikipedia.org/wiki/Kansas_City_preventive_patrol_experiment,Kansas City preventive patrol experiment,kansas-city-preventive-patrol-experiment,kansas-city-preventive-patrol-experiment,UNK
+Kansas City,115009,2060,367,17454;572408;290172;31432520;345688;27979728,"http://en.wikipedia.org/wiki/Kansas_City,_Kansas","Kansas City, Kansas",kansas-city-kansas,kansas-city-kansas,GPE
+Kansas City,345688,718,330,17454;345688;4306277;18709741;975409;891699;351876;816554;979228;4383006;19749481;115009;2499282,http://en.wikipedia.org/wiki/Kansas_City_Southern_Railway,Kansas City Southern Railway,kansas-city-southern-railway,kansas-city-southern-railway,UNK
+Kansas City,6939841,5,4,17454,"http://en.wikipedia.org/wiki/Kansas_City,_Clay_County_and_St._Joseph_Railway","Kansas City, Clay County and St. Joseph Railway",kansas-city-clay-county-and-st-joseph-railway,kansas-city-clay-county-and-st-joseph-railway,UNK
+Kansas City,18600322,5,44,,"http://en.wikipedia.org/wiki/Kansas_City_Township,_Adams_County,_North_Dakota","Kansas City Township, Adams County, North Dakota",kansas-city-township-adams-county-north-dakota,kansas-city-township-adams-county-north-dakota,UNK
+Juan Guzman,3139393,194,160,23277625;386384;30847;2406243;1035969;6849;385773;4340,http://en.wikipedia.org/wiki/Juan_Guzmán_(baseball),Juan Guzmán,juan-guzman,juan-guzman-baseball,PER
+Juan Guzman,3079809,25,21,1035969;2406243,http://en.wikipedia.org/wiki/Juan_Guzmán_Tapia,Juan Guzmán Tapia,juan-guzman-tapia,juan-guzman-tapia,PER
+Juan Guzman,2406243,0,9,28030874;3079809;3139393;41571057,http://en.wikipedia.org/wiki/Juan_Guzmán,Juan Guzmán,juan-guzman,juan-guzman,PER
+Juan Guzman,28030874,49,34,2406243,http://en.wikipedia.org/wiki/Juan_Guzman_(soccer),Juan Guzman,juan-guzman,juan-guzman-soccer,PER
+Juan Guzman,41571057,1,14,2406243,http://en.wikipedia.org/wiki/Juan_Guzmán_(photographer),Juan Guzmán,juan-guzman,juan-guzman-photographer,PER
+ERA,8570677,1,10,,http://en.wikipedia.org/wiki/ERA_School,ERA School,era-school,era-school,ORG
+ERA,31366667,38,48,,http://en.wikipedia.org/wiki/Era_Station,Era Station,era-station,era-station,UNK
+ERA,192415,543,359,9758;3088053,http://en.wikipedia.org/wiki/Japanese_era_name,Japanese era name,japanese-era-name,japanese-era-name,UNK
+ERA,7586402,77,50,30847;20050;23277625;6849;4339,http://en.wikipedia.org/wiki/Adjusted_ERA+,Adjusted ERA+,adjusted-era,adjusted-era,PER
+ERA,26745384,52,75,26745384,http://en.wikipedia.org/wiki/Era_FM,Era FM,era-fm,era-fm,UNK
+ERA,19309536,4,7,,http://en.wikipedia.org/wiki/Era_(river),Era,era,era-river,UNK
+ERA,9172138,139,45,9172138;23121918,http://en.wikipedia.org/wiki/Improvement_Era,Improvement Era,improvement-era,improvement-era,ORG
+ERA,23277625,9295,116,3139393;16883;931528;20050;4340;4339;1915655;5945;6652;6849;6725;7586402;8579;1360083;6333369;386384;4848143;385773;2407111;2733958;30847,http://en.wikipedia.org/wiki/Earned_run_average,Earned run average,earned-run-average,earned-run-average,UNK
+ERA,11475128,29,30,,http://en.wikipedia.org/wiki/Era_Records,Era Records,era-records,era-records,UNK
+ERA,7421589,29,34,,"http://en.wikipedia.org/wiki/Era,_Texas","Era, Texas",era-texas,era-texas,GPE
+ERA,23121918,111,8,9172138,http://en.wikipedia.org/wiki/The_Era_(newspaper),The Era,the-era,the-era-newspaper,UNK
+ERA,9758,258,130,192415;3088053,http://en.wikipedia.org/wiki/Era,Era,era,era,UNK
+ERA,36814246,172,194,5407,http://en.wikipedia.org/wiki/Eraserhead,Eraserhead,eraserhead,eraserhead,UNK
+ERA,5492167,4,5,,http://en.wikipedia.org/wiki/Era_(publisher),Era,era,era-publisher,UNK
+ERA,3088053,366,118,9758;192415,http://en.wikipedia.org/wiki/Era_(geology),Era,era,era-geology,PER
+Toronto Blue Jays,30847,3681,883,2004582;8579;1360083;3139393;218947;16883;212472;27660;20050;20152;386384;4340;4339;22523;23277625;4848143;5945;385773;1861667;153856;6652;752415;6725;329401;5128563;2400192;7586402;30847;1141484;30857,http://en.wikipedia.org/wiki/Toronto_Blue_Jays,Toronto Blue Jays,toronto-blue-jays,toronto-blue-jays,UNK
+Royals,16883,3575,467,17454;572408;2004582;8579;1360083;16883;6941975;212472;1547794;27660;20050;20152;2644877;4340;4339;22523;23277625;4848143;20988570;5945;153856;6652;552153;752415;20297793;6725;329401;31717649;30847;1141484;30857,http://en.wikipedia.org/wiki/Kansas_City_Royals,Kansas City Royals,kansas-city-royals,kansas-city-royals,UNK
+Royals,8081928,113,97,,http://en.wikipedia.org/wiki/Royal_(sail),Royal,royal,royal-sail,ORG
+Royals,14896374,10,11,,http://en.wikipedia.org/wiki/The_Royals_(group),The Royals,the-royals,the-royals-group,UNK
+Royals,14097519,1,10,,http://en.wikipedia.org/wiki/Red_Deer_Royals,Red Deer Royals,red-deer-royals,red-deer-royals,UNK
+Royals,5128563,131,216,30847,http://en.wikipedia.org/wiki/Guelph_Royals_(baseball),Guelph Royals,guelph-royals,guelph-royals-baseball,ORG
+Guzman,3538161,151,159,1035969,http://en.wikipedia.org/wiki/Jonathan_de_Guzmán,Jonathan de Guzmán,jonathan-de-guzman,jonathan-de-guzman,PER
+Guzman,1035969,7,72,481609;3538161;3139393;3079809;10671071,http://en.wikipedia.org/wiki/Guzmán,Guzmán,guzman,guzman,GPE
+Guzman,31060925,24,24,,http://en.wikipedia.org/wiki/Nahuel_Guzmán,Nahuel Guzmán,nahuel-guzman,nahuel-guzman,PER
+Guzman,481609,91,112,1035969,http://en.wikipedia.org/wiki/Abimael_Guzmán,Abimael Guzmán,abimael-guzman,abimael-guzman,PER
+Guzman,19309241,14,6,,http://en.wikipedia.org/wiki/La_Guzmán,La Guzmán,la-guzman,la-guzman,UNK
+Guzman,10671071,40,22,8210131;1035969,http://en.wikipedia.org/wiki/Gastón_Guzmán,Gastón Guzmán,gaston-guzman,gaston-guzman,PER
+Minnesota,19590,19015,1084,73132;5407;5951;122129;19590;20050;24566788;159967;24437894;14920310;254060;645042;61196;150579;8210131;30857,http://en.wikipedia.org/wiki/Minnesota,Minnesota,minnesota,minnesota,UNK
+Minnesota,150579,82,116,19590,"http://en.wikipedia.org/wiki/Minnesota_Lake,_Minnesota","Minnesota Lake, Minnesota",minnesota-lake-minnesota,minnesota-lake-minnesota,GPE
+Minnesota,17588706,111,245,,"http://en.wikipedia.org/wiki/Minnesota,_Dakota_and_Western_Railway","Minnesota, Dakota and Western Railway",minnesota-dakota-and-western-railway,minnesota-dakota-and-western-railway,UNK
+Minnesota,254060,584,231,19590,http://en.wikipedia.org/wiki/Minnesota_River,Minnesota River,minnesota-river,minnesota-river,UNK
+Minnesota,30051730,1,44,,http://en.wikipedia.org/wiki/Minnesota_Building,Minnesota Building,minnesota-building,minnesota-building,UNK
+Minnesota,34208615,4,7,,http://en.wikipedia.org/wiki/Minnesota_(band),Minnesota,minnesota,minnesota-band,UNK
+Minnesota,73132,1614,332,5951;19590;20050;73132,http://en.wikipedia.org/wiki/Minnesota_Wild,Minnesota Wild,minnesota-wild,minnesota-wild,UNK
+Minnesota,3893536,69,44,,http://en.wikipedia.org/wiki/Minnesota_Opera,Minnesota Opera,minnesota-opera,minnesota-opera,UNK
+Minnesota,122129,64,80,19590,"http://en.wikipedia.org/wiki/Minnesota_City,_Minnesota","Minnesota City, Minnesota",minnesota-city-minnesota,minnesota-city-minnesota,GPE
+Minnesota,159967,234,35,61196;19590,http://en.wikipedia.org/wiki/Minnesota_Orchestra,Minnesota Orchestra,minnesota-orchestra,minnesota-orchestra,UNK
+Minnesota,61196,559,337,19590;159967,http://en.wikipedia.org/wiki/Minnesota_Public_Radio,Minnesota Public Radio,minnesota-public-radio,minnesota-public-radio,ORG
+John Jaha,2787747,77,68,22523;40061270;20152,http://en.wikipedia.org/wiki/John_Jaha,John Jaha,john-jaha,john-jaha,PER
+Milwaukee Brewers,20152,3722,421,2004582;8579;1360083;16883;27660;20050;20152;386384;4340;4339;22523;4848143;1915655;5945;2787747;1861667;2406308;153856;6652;2407111;3136125;6725;329401;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Milwaukee_Brewers,Milwaukee Brewers,milwaukee-brewers,milwaukee-brewers,UNK
+Milwaukee Brewers,8890484,49,30,,http://en.wikipedia.org/wiki/Milwaukee_Brewers_(UA),Milwaukee Brewers,milwaukee-brewers,milwaukee-brewers-ua,ORG
+Milwaukee Brewers,5552142,43,13,,http://en.wikipedia.org/wiki/Milwaukee_Brewers_(AA),Milwaukee Brewers,milwaukee-brewers,milwaukee-brewers-aa,UNK
+Milwaukee Brewers,3136125,17,66,20152;6652;4340;5945,http://en.wikipedia.org/wiki/Milwaukee_Brewers_(American_Association),Milwaukee Brewers,milwaukee-brewers,milwaukee-brewers-american-association,UNK
+Twins,20050,5297,629,19895782;2004582;8579;1360083;218947;16883;6941975;212472;19590;1547794;27660;20050;20152;73132;386384;2070208;4340;4339;22523;23277625;4848143;1915655;5945;1861667;6652;552153;6725;329401;7586402;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Minnesota_Twins,Minnesota Twins,minnesota-twins,minnesota-twins,UNK
+Twins,164075,76,86,34304108;488798;492700,http://en.wikipedia.org/wiki/Twins_(group),Twins,twins,twins-group,PER
+Twins,501611,4,107,79238,http://en.wikipedia.org/wiki/Twins_in_mythology,Twins in mythology,twins-in-mythology,twins-in-mythology,UNK
+Twins,1340384,58,115,,http://en.wikipedia.org/wiki/Twins_(The_Matrix),Twins,twins,twins-the-matrix,UNK
+Twins,488798,27,36,164075;492700,http://en.wikipedia.org/wiki/Twins_(2001_EP),Twins,twins,twins-2001-ep,UNK
+Twins,29650154,10,106,,http://en.wikipedia.org/wiki/TWINS,TWINS,twins,twins,UNK
+Twins,34304108,6,11,164075,http://en.wikipedia.org/wiki/The_Twins_(group),The Twins,the-twins,the-twins-group,UNK
+Twins,492700,27,37,164075;488798,http://en.wikipedia.org/wiki/Twins_(2002_EP),Twins,twins,twins-2002-ep,UNK
+Twins,79238,676,144,501611,http://en.wikipedia.org/wiki/Twin,Twin,twin,twin,UNK
+Twins,30496533,81,192,,http://en.wikipedia.org/wiki/Les_Twins,Les Twins,les-twins,les-twins,UNK
+Jaha,40061270,0,4,2787747,http://en.wikipedia.org/wiki/Jaha,Jaha,jaha,jaha,UNK
+Jose Valentin,2406308,168,164,552153;5945;20152,http://en.wikipedia.org/wiki/José_Valentín,José Valentín,jose-valentin,jose-valentin,PER
+Milwaukee,20152,3722,421,2004582;8579;1360083;16883;27660;20050;20152;386384;4340;4339;22523;4848143;1915655;5945;2787747;1861667;2406308;153856;6652;2407111;3136125;6725;329401;1264752;30847;1141484;30857,http://en.wikipedia.org/wiki/Milwaukee_Brewers,Milwaukee Brewers,milwaukee-brewers,milwaukee-brewers,UNK
+Milwaukee,8890484,49,30,,http://en.wikipedia.org/wiki/Milwaukee_Brewers_(UA),Milwaukee Brewers,milwaukee-brewers,milwaukee-brewers-ua,ORG
+Milwaukee,5552142,43,13,,http://en.wikipedia.org/wiki/Milwaukee_Brewers_(AA),Milwaukee Brewers,milwaukee-brewers,milwaukee-brewers-aa,UNK
+Milwaukee,3136125,17,66,20152;6652;4340;5945,http://en.wikipedia.org/wiki/Milwaukee_Brewers_(American_Association),Milwaukee Brewers,milwaukee-brewers,milwaukee-brewers-american-association,UNK

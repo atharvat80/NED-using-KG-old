@@ -1,0 +1,85 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+MADRID,41188263,14139,1303,69802;539568;2156535;14256525;1853980;225760;10147562;5980301;88459;18842471;115966;11607982;5991438;127192;26667;26825;41188263;5888447;90168,http://en.wikipedia.org/wiki/Madrid,Madrid,madrid,madrid,GPE
+MADRID,323556,185,121,26667,http://en.wikipedia.org/wiki/Miguel_de_la_Madrid,Miguel de la Madrid,miguel-de-la-madrid,miguel-de-la-madrid,UNK
+MADRID,11607982,24,84,69802;41188263;5888447;26667,http://en.wikipedia.org/wiki/Vinos_de_Madrid,Vinos de Madrid,vinos-de-madrid,vinos-de-madrid,UNK
+MADRID,104741,25,35,,"http://en.wikipedia.org/wiki/Madrid,_Alabama","Madrid, Alabama",madrid-alabama,madrid-alabama,GPE
+MADRID,10147562,108,82,18842471;10147562;41188263;26667,http://en.wikipedia.org/wiki/Districts_of_Madrid,Districts of Madrid,districts-of-madrid,districts-of-madrid,UNK
+MADRID,69802,1069,327,41188263;18842471;90168;26667;26825;11607982;1853980,http://en.wikipedia.org/wiki/Community_of_Madrid,Community of Madrid,community-of-madrid,community-of-madrid,UNK
+MADRID,5911621,1,7,,"http://en.wikipedia.org/wiki/Madrid_County,_California","Madrid County, California",madrid-county-california,madrid-county-california,UNK
+MADRID,124112,10,29,,"http://en.wikipedia.org/wiki/Madrid,_Nebraska","Madrid, Nebraska",madrid-nebraska,madrid-nebraska,GPE
+MADRID,14256525,112,145,26667;41188263,http://en.wikipedia.org/wiki/Madrid_(Spanish_Congress_Electoral_District),Madrid,madrid,madrid-spanish-congress-electoral-district,UNK
+MADRID,115966,39,74,41188263;26667,"http://en.wikipedia.org/wiki/Madrid,_Maine","Madrid, Maine",madrid-maine,madrid-maine,GPE
+MADRID,127192,81,75,41188263,"http://en.wikipedia.org/wiki/Madrid,_New_York","Madrid, New York",madrid-new-york,madrid-new-york,GPE
+MADRID,126024,60,85,26667,"http://en.wikipedia.org/wiki/Madrid,_New_Mexico","Madrid, New Mexico",madrid-new-mexico,madrid-new-mexico,GPE
+MADRID,33622811,12,99,33622811,http://en.wikipedia.org/wiki/Madrid_system,Madrid system,madrid-system,madrid-system,UNK
+MADRID,2156535,39,51,41188263,"http://en.wikipedia.org/wiki/Madrid,_Surigao_del_Sur","Madrid, Surigao del Sur",madrid-surigao-del-sur,madrid-surigao-del-sur,UNK
+MADRID,3823591,143,142,,"http://en.wikipedia.org/wiki/Madrid,_Cundinamarca","Madrid, Cundinamarca",madrid-cundinamarca,madrid-cundinamarca,GPE
+MADRID,1853980,176,107,26667;26825;90168;539568;69802;41188263,http://en.wikipedia.org/wiki/Autonomous_University_of_Madrid,Autonomous University of Madrid,autonomous-university-of-madrid,autonomous-university-of-madrid,UNK
+MADRID,27156859,26,43,,"http://en.wikipedia.org/wiki/Madrid,_Colorado","Madrid, Colorado",madrid-colorado,madrid-colorado,GPE
+MADRID,25527638,3,17,,http://en.wikipedia.org/wiki/Madrid_(band),Madrid,madrid,madrid-band,UNK
+MADRID,42773036,3,17,26825,"http://en.wikipedia.org/wiki/Madrid,_1987","Madrid, 1987",madrid-1987,madrid-1987,UNK
+MADRID,112776,47,70,,"http://en.wikipedia.org/wiki/Madrid,_Iowa","Madrid, Iowa",madrid-iowa,madrid-iowa,GPE
+MADRID,90168,674,379,41188263;69802;26825;1853980,http://en.wikipedia.org/wiki/Complutense_University_of_Madrid,Complutense University of Madrid,complutense-university-of-madrid,complutense-university-of-madrid,UNK
+Spanish,26667,100383,1235,17473275;18842471;26667;26825;323556;539568;18935041;5888447;69802;88459;14256525;1853980;115966;126024;124847;1523829;963152;10147562;5980301;5991438;2050142;11607982;19906671;2716954;41188263,http://en.wikipedia.org/wiki/Spain,Spain,spain,spain,GPE
+Spanish,879298,30,25,9627139,http://en.wikipedia.org/wiki/Spanish_River_(Ontario),Spanish River,spanish-river,spanish-river-ontario,UNK
+Spanish,504969,331,206,,http://en.wikipedia.org/wiki/Spanish_Town,Spanish Town,spanish-town,spanish-town,GPE
+Spanish,26811567,1,5,,http://en.wikipedia.org/wiki/Spanish_River_(Florida),Spanish River,spanish-river,spanish-river-florida,UNK
+Spanish,28214057,1,3,,"http://en.wikipedia.org/wiki/Spanish_Island,_Bermuda","Spanish Island, Bermuda",spanish-island-bermuda,spanish-island-bermuda,UNK
+Spanish,963152,2706,243,18842471;963152;5991438;26667;26825,http://en.wikipedia.org/wiki/Spanish_people,Spanish people,spanish-people,spanish-people,UNK
+Spanish,13073546,1,4,,http://en.wikipedia.org/wiki/Spanish_Island,Spanish Island,spanish-island,spanish-island,GPE
+Spanish,3639393,141,107,5888447;26825;16320787;1523829,http://en.wikipedia.org/wiki/Chilean_Spanish,Chilean Spanish,chilean-spanish,chilean-spanish,UNK
+Spanish,23544474,79,62,,http://en.wikipedia.org/wiki/Spanish_River_(Jamaica),Spanish River,spanish-river,spanish-river-jamaica,UNK
+Spanish,88459,663,373,18842471;41188263;26667,http://en.wikipedia.org/wiki/Spanish_Revolution,Spanish Revolution,spanish-revolution,spanish-revolution,UNK
+Spanish,35370862,5,26,,http://en.wikipedia.org/wiki/Spanish_Bay_(Nova_Scotia),Spanish Bay,spanish-bay,spanish-bay-nova-scotia,UNK
+Spanish,2999390,22,26,,http://en.wikipedia.org/wiki/Spanish_Road,Spanish Road,spanish-road,spanish-road,UNK
+Spanish,18842471,5299,694,69802;963152;10147562;5980301;5991438;26667;26825;88459;19906671;41188263;18842471,http://en.wikipedia.org/wiki/Spanish_Civil_War,Spanish Civil War,spanish-civil-war,spanish-civil-war,UNK
+Spanish,16320787,165,50,5888447;26825;1523829;3639393,http://en.wikipedia.org/wiki/Peninsular_Spanish,Peninsular Spanish,peninsular-spanish,peninsular-spanish,UNK
+Spanish,1537897,606,104,26825,http://en.wikipedia.org/wiki/Spanish_Netherlands,Spanish Netherlands,spanish-netherlands,spanish-netherlands,GPE
+Spanish,9627139,71,80,879298,"http://en.wikipedia.org/wiki/Spanish,_Ontario","Spanish, Ontario",spanish-ontario,spanish-ontario,GPE
+Spanish,2898367,5,28,,http://en.wikipedia.org/wiki/Spanish_City,Spanish City,spanish-city,spanish-city,UNK
+Spanish,124847,206,189,26667,"http://en.wikipedia.org/wiki/Spanish_Lake,_Missouri","Spanish Lake, Missouri",spanish-lake-missouri,spanish-lake-missouri,GPE
+Spanish,35761480,10,112,,http://en.wikipedia.org/wiki/Spanish_River_(Alabama),Spanish River,spanish-river,spanish-river-alabama,UNK
+Spanish,137086,25,39,,"http://en.wikipedia.org/wiki/Spanish_Valley,_Utah","Spanish Valley, Utah",spanish-valley-utah,spanish-valley-utah,GPE
+Spanish,4186526,0,8,,http://en.wikipedia.org/wiki/Spanish_Lake_(Ascension_Parish),Spanish Lake,spanish-lake,spanish-lake-ascension-parish,UNK
+Spanish,29503878,1,6,,"http://en.wikipedia.org/wiki/Spanish_Town,_United_States_Virgin_Islands","Spanish Town, United States Virgin Islands",spanish-town-united-states-virgin-islands,spanish-town-united-states-virgin-islands,GPE
+Spanish,17473275,0,6,26667,http://en.wikipedia.org/wiki/White-faced_Black_Spanish_chicken,White-faced Black Spanish chicken,white-faced-black-spanish-chicken,white-faced-black-spanish-chicken,UNK
+Spanish,5082805,6,99,,"http://en.wikipedia.org/wiki/Spanish_Town,_Baton_Rouge,_Louisiana","Spanish Town, Baton Rouge, Louisiana",spanish-town-baton-rouge-louisiana,spanish-town-baton-rouge-louisiana,UNK
+Spanish,5980301,756,505,41188263;18842471;26667,http://en.wikipedia.org/wiki/Spanish_Inquisition,Spanish Inquisition,spanish-inquisition,spanish-inquisition,UNK
+Spanish,19906671,23,64,18842471;26825;26667,http://en.wikipedia.org/wiki/Spanish_opera,Spanish opera,spanish-opera,spanish-opera,UNK
+Spanish,5991438,222,421,18842471;963152;41188263;5991438;26667,http://en.wikipedia.org/wiki/Spanish_architecture,Spanish architecture,spanish-architecture,spanish-architecture,UNK
+Spanish,22942647,1,7,,http://en.wikipedia.org/wiki/Spanish_Lake_(Iberia_Parish),Spanish Lake,spanish-lake,spanish-lake-iberia-parish,UNK
+Spanish,2716954,431,155,26667;26825,http://en.wikipedia.org/wiki/Spanish_Florida,Spanish Florida,spanish-florida,spanish-florida,UNK
+Spanish,10918718,9,8,,"http://en.wikipedia.org/wiki/Spanish_Town,_British_Virgin_Islands","Spanish Town, British Virgin Islands",spanish-town-british-virgin-islands,spanish-town-british-virgin-islands,UNK
+Spanish,26825,30522,647,69802;1523829;1537897;963152;42773036;18842471;16320787;26667;26825;19906671;90168;2050142;3639393;18935041;2716954;1853980;41188263;5888447,http://en.wikipedia.org/wiki/Spanish_language,Spanish language,spanish-language,spanish-language,UNK
+Spanish,5888447,179,71,26667;26825;3639393;16320787;1523829;2050142;41188263;11607982,http://en.wikipedia.org/wiki/Castilian_Spanish,Castilian Spanish,castilian-spanish,castilian-spanish,PER
+Spanish,18935041,241,135,26667;26825;18935041,http://en.wikipedia.org/wiki/Spanish_Wikipedia,Spanish Wikipedia,spanish-wikipedia,spanish-wikipedia,UNK
+Spanish,1523829,237,229,5888447;26667;26825;3639393;16320787,http://en.wikipedia.org/wiki/Mexican_Spanish,Mexican Spanish,mexican-spanish,mexican-spanish,UNK
+Spanish,2050142,280,188,5888447;26667;26825,http://en.wikipedia.org/wiki/Spanish_Texas,Spanish Texas,spanish-texas,spanish-texas,UNK
+Santiago Bernabeu stadium,225760,729,135,41188263,http://en.wikipedia.org/wiki/Santiago_Bernabéu_Stadium,Santiago Bernabéu Stadium,santiago-bernabeu-stadium,santiago-bernabeu-stadium,UNK
+Madrid,41188263,14139,1303,69802;539568;2156535;14256525;1853980;225760;10147562;5980301;88459;18842471;115966;11607982;5991438;127192;26667;26825;41188263;5888447;90168,http://en.wikipedia.org/wiki/Madrid,Madrid,madrid,madrid,GPE
+Madrid,323556,185,121,26667,http://en.wikipedia.org/wiki/Miguel_de_la_Madrid,Miguel de la Madrid,miguel-de-la-madrid,miguel-de-la-madrid,UNK
+Madrid,11607982,24,84,69802;41188263;5888447;26667,http://en.wikipedia.org/wiki/Vinos_de_Madrid,Vinos de Madrid,vinos-de-madrid,vinos-de-madrid,UNK
+Madrid,104741,25,35,,"http://en.wikipedia.org/wiki/Madrid,_Alabama","Madrid, Alabama",madrid-alabama,madrid-alabama,GPE
+Madrid,10147562,108,82,18842471;10147562;41188263;26667,http://en.wikipedia.org/wiki/Districts_of_Madrid,Districts of Madrid,districts-of-madrid,districts-of-madrid,UNK
+Madrid,69802,1069,327,41188263;18842471;90168;26667;26825;11607982;1853980,http://en.wikipedia.org/wiki/Community_of_Madrid,Community of Madrid,community-of-madrid,community-of-madrid,UNK
+Madrid,5911621,1,7,,"http://en.wikipedia.org/wiki/Madrid_County,_California","Madrid County, California",madrid-county-california,madrid-county-california,UNK
+Madrid,124112,10,29,,"http://en.wikipedia.org/wiki/Madrid,_Nebraska","Madrid, Nebraska",madrid-nebraska,madrid-nebraska,GPE
+Madrid,14256525,112,145,26667;41188263,http://en.wikipedia.org/wiki/Madrid_(Spanish_Congress_Electoral_District),Madrid,madrid,madrid-spanish-congress-electoral-district,UNK
+Madrid,115966,39,74,41188263;26667,"http://en.wikipedia.org/wiki/Madrid,_Maine","Madrid, Maine",madrid-maine,madrid-maine,GPE
+Madrid,127192,81,75,41188263,"http://en.wikipedia.org/wiki/Madrid,_New_York","Madrid, New York",madrid-new-york,madrid-new-york,GPE
+Madrid,126024,60,85,26667,"http://en.wikipedia.org/wiki/Madrid,_New_Mexico","Madrid, New Mexico",madrid-new-mexico,madrid-new-mexico,GPE
+Madrid,33622811,12,99,33622811,http://en.wikipedia.org/wiki/Madrid_system,Madrid system,madrid-system,madrid-system,UNK
+Madrid,2156535,39,51,41188263,"http://en.wikipedia.org/wiki/Madrid,_Surigao_del_Sur","Madrid, Surigao del Sur",madrid-surigao-del-sur,madrid-surigao-del-sur,UNK
+Madrid,3823591,143,142,,"http://en.wikipedia.org/wiki/Madrid,_Cundinamarca","Madrid, Cundinamarca",madrid-cundinamarca,madrid-cundinamarca,GPE
+Madrid,1853980,176,107,26667;26825;90168;539568;69802;41188263,http://en.wikipedia.org/wiki/Autonomous_University_of_Madrid,Autonomous University of Madrid,autonomous-university-of-madrid,autonomous-university-of-madrid,UNK
+Madrid,27156859,26,43,,"http://en.wikipedia.org/wiki/Madrid,_Colorado","Madrid, Colorado",madrid-colorado,madrid-colorado,GPE
+Madrid,25527638,3,17,,http://en.wikipedia.org/wiki/Madrid_(band),Madrid,madrid,madrid-band,UNK
+Madrid,42773036,3,17,26825,"http://en.wikipedia.org/wiki/Madrid,_1987","Madrid, 1987",madrid-1987,madrid-1987,UNK
+Madrid,112776,47,70,,"http://en.wikipedia.org/wiki/Madrid,_Iowa","Madrid, Iowa",madrid-iowa,madrid-iowa,GPE
+Madrid,90168,674,379,41188263;69802;26825;1853980,http://en.wikipedia.org/wiki/Complutense_University_of_Madrid,Complutense University of Madrid,complutense-university-of-madrid,complutense-university-of-madrid,UNK
+El Mundo,539568,729,49,41188263;26667;1853980,http://en.wikipedia.org/wiki/El_Mundo_(Spain),El Mundo,el-mundo,el-mundo-spain,ORG
+El Mundo,40377249,11,3,,http://en.wikipedia.org/wiki/El_Mundo_(Colombia),El Mundo,el-mundo,el-mundo-colombia,UNK
+El Mundo,10024635,55,28,,http://en.wikipedia.org/wiki/El_Mundo_(Puerto_Rico),El Mundo,el-mundo,el-mundo-puerto-rico,UNK
+El Mundo,21749559,15,12,,http://en.wikipedia.org/wiki/El_Mundo_(Venezuela),El Mundo,el-mundo,el-mundo-venezuela,ORG
+El Mundo,36549219,2,3,,http://en.wikipedia.org/wiki/El_Mundo_(Santa_Cruz),El Mundo,el-mundo,el-mundo-santa-cruz,UNK
+El Mundo,31419974,15,25,,http://en.wikipedia.org/wiki/El_Mundo_(Argentina),El Mundo,el-mundo,el-mundo-argentina,UNK

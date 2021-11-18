@@ -1,0 +1,21 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Venezuela,32374,25839,719,3734665;3229791;2660398;1016971;32374;32454;28173700;459362;31728475;34046278;2474817;55289,http://en.wikipedia.org/wiki/Venezuela,Venezuela,venezuela,venezuela,GPE
+Venezuela,459362,181,76,2474817;3229791;32374;32454,http://en.wikipedia.org/wiki/Flag_of_Venezuela,Flag of Venezuela,flag-of-venezuela,flag-of-venezuela,UNK
+Venezuela,1016971,1078,333,3734665;32374;55289,http://en.wikipedia.org/wiki/Venezuela_national_football_team,Venezuela national football team,venezuela-national-football-team,venezuela-national-football-team,UNK
+Venezuela,3229791,65,96,55289;459362;32374;2474817,http://en.wikipedia.org/wiki/First_Republic_of_Venezuela,First Republic of Venezuela,first-republic-of-venezuela,first-republic-of-venezuela,GPE
+Venezuela,2474817,48,71,55289;459362;3229791;32374,http://en.wikipedia.org/wiki/Second_Republic_of_Venezuela,Second Republic of Venezuela,second-republic-of-venezuela,second-republic-of-venezuela,GPE
+Venezuela,7875797,16,20,,"http://en.wikipedia.org/wiki/Venezuela,_Cuba","Venezuela, Cuba",venezuela-cuba,venezuela-cuba,GPE
+Venezuela,28866106,3,13,,http://en.wikipedia.org/wiki/Venezuela_(Pueblo),Venezuela,venezuela,venezuela-pueblo,UNK
+Venezuela,28173700,33,28,55289;32374,http://en.wikipedia.org/wiki/Venezuela_Province,Venezuela Province,venezuela-province,venezuela-province,UNK
+Venezuela,32454,107,140,459362;34046278;32374;31728475;32454,http://en.wikipedia.org/wiki/Geography_of_Venezuela,Geography of Venezuela,geography-of-venezuela,geography-of-venezuela,UNK
+CVG,31728475,86,8,32454;32374,http://en.wikipedia.org/wiki/Corporación_Venezolana_de_Guayana,Corporación Venezolana de Guayana,corporacion-venezolana-de-guayana,corporacion-venezolana-de-guayana,ORG
+CARACAS,55289,3777,393,3734665;2660398;1016971;2474817;32374;55289;28173700;3229791,http://en.wikipedia.org/wiki/Caracas,Caracas,caracas,caracas,GPE
+CARACAS,34046278,0,13,32454;32374,http://en.wikipedia.org/wiki/Caracas_Islands,Caracas Islands,caracas-islands,caracas-islands,GPE
+CARACAS,3734665,372,139,32374;55289;1016971,http://en.wikipedia.org/wiki/Caracas_FC,Caracas FC,caracas-fc,caracas-fc,UNK
+Corporacion Venezolana de Guayana,31728475,86,8,32454;32374,http://en.wikipedia.org/wiki/Corporación_Venezolana_de_Guayana,Corporación Venezolana de Guayana,corporacion-venezolana-de-guayana,corporacion-venezolana-de-guayana,ORG
+Sidor,22013617,4,11,,http://en.wikipedia.org/wiki/SIDOR,SIDOR,sidor,sidor,ORG
+Sidor,27443956,13,12,,http://en.wikipedia.org/wiki/Christian_Sidor,Christian Sidor,christian-sidor,christian-sidor,PER
+Radical Cause,2660398,49,48,55289;32374,http://en.wikipedia.org/wiki/Radical_Cause,Radical Cause,radical-cause,radical-cause,UNK
+Caracas,55289,3777,393,3734665;2660398;1016971;2474817;32374;55289;28173700;3229791,http://en.wikipedia.org/wiki/Caracas,Caracas,caracas,caracas,GPE
+Caracas,34046278,0,13,32454;32374,http://en.wikipedia.org/wiki/Caracas_Islands,Caracas Islands,caracas-islands,caracas-islands,GPE
+Caracas,3734665,372,139,32374;55289;1016971,http://en.wikipedia.org/wiki/Caracas_FC,Caracas FC,caracas-fc,caracas-fc,UNK

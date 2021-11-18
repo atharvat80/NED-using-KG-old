@@ -1,0 +1,28 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Slovak,26830,28262,776,1406517;424642;1534689;11694615;265170;770696;28136;27329;26830;12164012;6309155;6309141;6309143;6309121;1372844;18147649;5257605;1858086;18933194;681620;59590;797201,http://en.wikipedia.org/wiki/Slovakia,Slovakia,slovakia,slovakia,GPE
+Slovak,23135553,1,6,28136,http://en.wikipedia.org/wiki/Slovák,Slovák,slovak,slovak,UNK
+Slovak,28136,2312,207,23135553;424642;265170;1534689;681620;1372844;18933194;770696;11694615;1406517;27329;2720868;26830,http://en.wikipedia.org/wiki/Slovak_language,Slovak language,slovak-language,slovak-language,UNK
+Slovak,265170,1859,246,797201;265170;1372844;59590;18933194;1406517;28136;27329;26830,http://en.wikipedia.org/wiki/Slovaks,Slovaks,slovaks,slovaks,UNK
+Slovak,1858086,20,66,26830;18933194,http://en.wikipedia.org/wiki/Slovak_Airlines,Slovak Airlines,slovak-airlines,slovak-airlines,UNK
+Slovak,2720868,101,99,28136,http://en.wikipedia.org/wiki/Slovak_Wikipedia,Slovak Wikipedia,slovak-wikipedia,slovak-wikipedia,UNK
+Slovak,35280496,15,30,,"http://en.wikipedia.org/wiki/Slovak,_Arkansas","Slovak, Arkansas",slovak-arkansas,slovak-arkansas,UNK
+Slovak,770696,45,54,770696;26830;28136,http://en.wikipedia.org/wiki/Slovak_alphabet,Slovak alphabet,slovak-alphabet,slovak-alphabet,UNK
+Slovak,12164012,1,50,26830,http://en.wikipedia.org/wiki/Slovak_International,Slovak International,slovak-international,slovak-international,UNK
+BRATISLAVA,18933194,3744,613,265170;1858086;59590;6309155;6309141;6309143;6309121;1406517;28136;27329;26830;797201;424642;1534689;681620;1372844;18933194;11694615,http://en.wikipedia.org/wiki/Bratislava,Bratislava,bratislava,bratislava,UNK
+BRATISLAVA,11694615,8,56,26830;1372844;18933194;28136,http://en.wikipedia.org/wiki/Geography_of_Bratislava,Geography of Bratislava,geography-of-bratislava,geography-of-bratislava,UNK
+BRATISLAVA,1372844,110,141,11694615;26830;1406517;265170;18933194;28136,http://en.wikipedia.org/wiki/Bratislava_Castle,Bratislava Castle,bratislava-castle,bratislava-castle,UNK
+BRATISLAVA,6309155,32,41,18933194;26830;6309141;6309143;6309121;1406517,http://en.wikipedia.org/wiki/Bratislava_V,Bratislava V,bratislava-v,bratislava-v,UNK
+BRATISLAVA,1534689,37,73,26830;18933194;28136,http://en.wikipedia.org/wiki/Bratislava_Airport,Bratislava Airport,bratislava-airport,bratislava-airport,UNK
+BRATISLAVA,6309121,31,38,18933194;6309155;26830;6309141;6309143;1406517,http://en.wikipedia.org/wiki/Bratislava_II,Bratislava II,bratislava-ii,bratislava-ii,UNK
+BRATISLAVA,6309141,30,38,18933194;6309155;26830;6309143;6309121;1406517,http://en.wikipedia.org/wiki/Bratislava_III,Bratislava III,bratislava-iii,bratislava-iii,UNK
+BRATISLAVA,6309143,34,40,18933194;6309155;26830;6309141;6309121;1406517,http://en.wikipedia.org/wiki/Bratislava_IV,Bratislava IV,bratislava-iv,bratislava-iv,UNK
+BRATISLAVA,1406517,165,121,1372844;265170;18933194;26830;6309155;6309141;6309143;6309121;27329;28136;1406517,http://en.wikipedia.org/wiki/Bratislava_Region,Bratislava Region,bratislava-region,bratislava-region,UNK
+Galanta,797201,91,71,5257605;265170;18933194;26830,http://en.wikipedia.org/wiki/Galanta,Galanta,galanta,galanta,UNK
+Galanta,5257605,119,58,26830;797201;5257605;27329,http://en.wikipedia.org/wiki/Galanta_District,Galanta District,galanta-district,galanta-district,UNK
+Galanta,1832492,43,11,,http://en.wikipedia.org/wiki/Galant,Galant,galant,galant,PER
+Slovakia,26830,28262,776,1406517;424642;1534689;11694615;265170;770696;28136;27329;26830;12164012;6309155;6309141;6309143;6309121;1372844;18147649;5257605;1858086;18933194;681620;59590;797201,http://en.wikipedia.org/wiki/Slovakia,Slovakia,slovakia,slovakia,GPE
+Slovakia,18147649,370,245,681620;26830,http://en.wikipedia.org/wiki/Slovakia_national_under-21_football_team,Slovakia national under-21 football team,slovakia-national-under-21-football-team,slovakia-national-under-21-football-team,ORG
+Slovakia,681620,1113,404,18933194;28136;681620;18147649;26830,http://en.wikipedia.org/wiki/Slovakia_national_football_team,Slovakia national football team,slovakia-national-football-team,slovakia-national-football-team,UNK
+Slovakia,27329,2755,238,265170;18933194;1406517;28136;27329;26830;5257605,http://en.wikipedia.org/wiki/Geography_of_Slovakia,Geography of Slovakia,geography-of-slovakia,geography-of-slovakia,UNK
+Vladimir Meciar,59590,90,77,265170;18933194;26830;424642,http://en.wikipedia.org/wiki/Vladimír_Mečiar,Vladimír Mečiar,vladimir-meciar,vladimir-meciar,PER
+Movement for a Democratic Slovakia,424642,0,72,59590;26830;18933194;28136,http://en.wikipedia.org/wiki/People's_Party_–_Movement_for_a_Democratic_Slovakia,People's Party – Movement for a Democratic Slovakia,peoples-party-–-movement-for-a-democratic-slovakia,peoples-party-–-movement-for-a-democratic-slovakia,UNK

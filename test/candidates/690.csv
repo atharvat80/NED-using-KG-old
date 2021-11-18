@@ -1,0 +1,126 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+CAPE TOWN,6653,6553,566,670532;383252;4043753;65639;266326;17759734;17416221;5067810;6611416;390975;1018598;376115;12564208;26230922;8401973;30865,http://en.wikipedia.org/wiki/Cape_Town,Cape Town,cape-town,cape-town,GPE
+CAPE TOWN,266326,160,105,17416221;6653;4043753,http://en.wikipedia.org/wiki/Cape_Town_International_Airport,Cape Town International Airport,cape-town-international-airport,cape-town-international-airport,UNK
+CAPE TOWN,5067810,159,148,17416221;6653;1018598,http://en.wikipedia.org/wiki/Cape_Town_Stadium,Cape Town Stadium,cape-town-stadium,cape-town-stadium,UNK
+CAPE TOWN,12564208,48,49,6611416;17416221;6653,http://en.wikipedia.org/wiki/F.C._Cape_Town,F.C. Cape Town,fc-cape-town,fc-cape-town,UNK
+CAPE TOWN,4043753,133,122,17416221;6653;266326,http://en.wikipedia.org/wiki/City_of_Cape_Town,City of Cape Town,city-of-cape-town,city-of-cape-town,UNK
+CAPE TOWN,17759734,20,32,670532;6653,http://en.wikipedia.org/wiki/Cape_Town_Opera,Cape Town Opera,cape-town-opera,cape-town-opera,UNK
+CAPE TOWN,6611416,152,145,17416221;6653;12564208,"http://en.wikipedia.org/wiki/Parow,_Cape_Town","Parow, Cape Town",parow-cape-town,parow-cape-town,UNK
+CAPE TOWN,670532,1014,222,6653;12303804;670532;26230922;17759734;17416221,http://en.wikipedia.org/wiki/University_of_Cape_Town,University of Cape Town,university-of-cape-town,university-of-cape-town,ORG
+South Africa,17416221,57523,1123,4043753;6653;266326;6611416;30865;670532;3394012;65639;5067810;12564208;759263;3154383;17416221;1018598;12303804;383252;4962132;390975;8822906;363843;376115,http://en.wikipedia.org/wiki/South_Africa,South Africa,south-africa,south-africa,GPE
+South Africa,65639,171,310,17416221;6653;65639,http://en.wikipedia.org/wiki/Geography_of_South_Africa,Geography of South Africa,geography-of-south-africa,geography-of-south-africa,UNK
+South Africa,8822906,78,102,17416221,http://en.wikipedia.org/wiki/South_Africa_(The_Goodies),South Africa,south-africa,south-africa-the-goodies,UNK
+South Africa,759263,1457,311,3394012;1018598;376115;17416221,http://en.wikipedia.org/wiki/South_Africa_national_cricket_team,South Africa national cricket team,south-africa-national-cricket-team,south-africa-national-cricket-team,UNK
+South Africa,3394012,64,66,759263;1018598;17416221;376115,http://en.wikipedia.org/wiki/South_Africa_national_Australian_rules_football_team,South Africa national Australian rules football team,south-africa-national-australian-rules-football-team,south-africa-national-australian-rules-football-team,UNK
+South Africa,12303804,332,115,12303804;670532;17416221;363843,http://en.wikipedia.org/wiki/University_of_South_Africa,University of South Africa,university-of-south-africa,university-of-south-africa,ORG
+South Africa,35754887,316,351,30865;390975,http://en.wikipedia.org/wiki/Greater_South_Africa,Greater South Africa,greater-south-africa,greater-south-africa,UNK
+South Africa,376115,2028,619,3394012;6653;759263;1018598;17416221;8401973,http://en.wikipedia.org/wiki/South_Africa_national_rugby_union_team,South Africa national rugby union team,south-africa-national-rugby-union-team,south-africa-national-rugby-union-team,UNK
+South Africa,363843,270,147,12303804;17416221;383252;30865;390975,http://en.wikipedia.org/wiki/State_President_of_South_Africa,State President of South Africa,state-president-of-south-africa,state-president-of-south-africa,UNK
+South Africa,1018598,1434,587,3394012;6653;759263;376115;17416221;5067810,http://en.wikipedia.org/wiki/South_Africa_national_football_team,South Africa national football team,south-africa-national-football-team,south-africa-national-football-team,UNK
+Truth and Reconciliation Commission,8356188,8,8,3154383,http://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(Sierra_Leone),Truth and Reconciliation Commission,truth-and-reconciliation-commission,truth-and-reconciliation-commission-sierra-leone,UNK
+Truth and Reconciliation Commission,21397221,43,40,8401973;3154383;5640727;26230922;30865,http://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(Solomon_Islands),Truth and Reconciliation Commission,truth-and-reconciliation-commission,truth-and-reconciliation-commission-solomon-islands,PER
+Truth and Reconciliation Commission,17497312,21,132,3154383,http://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(South_Korea),Truth and Reconciliation Commission,truth-and-reconciliation-commission,truth-and-reconciliation-commission-south-korea,UNK
+Truth and Reconciliation Commission,10543033,15,50,3154383;30865,http://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(Liberia),Truth and Reconciliation Commission,truth-and-reconciliation-commission,truth-and-reconciliation-commission-liberia,PER
+Truth and Reconciliation Commission,30865,567,253,6653;3154383;21397221;10543033;35754887;17416221;363843;383252;8401973;390975,http://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(South_Africa),Truth and Reconciliation Commission,truth-and-reconciliation-commission,truth-and-reconciliation-commission-south-africa,UNK
+Truth and Reconciliation Commission,3154383,102,72,17416221;17497312;10543033;1587466;8401973;8356188;21397221;30865,http://en.wikipedia.org/wiki/Truth_and_reconciliation_commission,Truth and reconciliation commission,truth-and-reconciliation-commission,truth-and-reconciliation-commission,UNK
+Truth and Reconciliation Commission,1587466,31,33,3154383,http://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(Peru),Truth and Reconciliation Commission,truth-and-reconciliation-commission,truth-and-reconciliation-commission-peru,ORG
+John Allen,1102381,30,43,1553539,http://en.wikipedia.org/wiki/John_Allen_(soldier),John Allen,john-allen,john-allen-soldier,PER
+John Allen,15653045,12,34,1553539,http://en.wikipedia.org/wiki/John_Allen_(historian),John Allen,john-allen,john-allen-historian,PER
+John Allen,26241852,13,21,1553539,http://en.wikipedia.org/wiki/John_Allen_(coach),John Allen,john-allen,john-allen-coach,PER
+John Allen,22659959,1,5,1553539,"http://en.wikipedia.org/wiki/John_Allen_(cricketer,_born_1903)",John Allen,john-allen,john-allen-cricketer-born-1903,PER
+John Allen,41450412,58,83,1553539,http://en.wikipedia.org/wiki/John_Allen_(Arizona_politician),John Allen,john-allen,john-allen-arizona-politician,PER
+John Allen,37533259,2,34,1553539,http://en.wikipedia.org/wiki/John_Allen_(footballer_born_1964),John Allen,john-allen,john-allen-footballer-born-1964,PER
+John Allen,26024731,4,27,1553539,http://en.wikipedia.org/wiki/John_Allen_(miner),John Allen,john-allen,john-allen-miner,PER
+John Allen,18724594,2,9,1553539,"http://en.wikipedia.org/wiki/John_Allen_(cricketer,_born_1974)",John Allen,john-allen,john-allen-cricketer-born-1974,PER
+John Allen,23396228,4,19,1553539,http://en.wikipedia.org/wiki/John_Allen_(puritan),John Allen,john-allen,john-allen-puritan,PER
+John Allen,7285278,11,13,1553539;7285129,"http://en.wikipedia.org/wiki/John_Allen,_3rd_Viscount_Allen","John Allen, 3rd Viscount Allen",john-allen-3rd-viscount-allen,john-allen-3rd-viscount-allen,PER
+John Allen,28438248,4,27,1553539,http://en.wikipedia.org/wiki/John_Allen_(baseball),John Allen,john-allen,john-allen-baseball,PER
+John Allen,23396327,2,10,1553539,http://en.wikipedia.org/wiki/John_Allen_(physician),John Allen,john-allen,john-allen-physician,PER
+John Allen,1553539,1,61,10454544;30780607;18724594;22163299;24106871;23396493;23396228;32851705;9058393;15653045;23396669;23396398;12726692;1102381;7590646;22659959;11022360;37533259;22278517;7285129;28438248;26241852;26024731;17307166;41450412;23396327;7285278;7288688,http://en.wikipedia.org/wiki/John_Allen,John Allen,john-allen,john-allen,PER
+John Allen,23396493,9,12,17307166;1553539,http://en.wikipedia.org/wiki/John_Allen_(religious_writer),John Allen,john-allen,john-allen-religious-writer,PER
+John Allen,22278517,5,19,1553539,http://en.wikipedia.org/wiki/John_Allen_(pioneer),John Allen,john-allen,john-allen-pioneer,PER
+John Allen,137562,63,100,,http://en.wikipedia.org/wiki/John_Allen_Muhammad,John Allen Muhammad,john-allen-muhammad,john-allen-muhammad,PER
+John Allen,32851705,7,17,1553539,http://en.wikipedia.org/wiki/John_Allen_(diplomat),John Allen,john-allen,john-allen-diplomat,PER
+John Allen,9058393,2,6,1553539,http://en.wikipedia.org/wiki/John_Allen_(Irish_cricketer),John Allen,john-allen,john-allen-irish-cricketer,UNK
+John Allen,7590646,17,26,1553539,http://en.wikipedia.org/wiki/John_Allen_(Connecticut),John Allen,john-allen,john-allen-connecticut,PER
+John Allen,595099,33,33,,http://en.wikipedia.org/wiki/John_Allen_Paulos,John Allen Paulos,john-allen-paulos,john-allen-paulos,PER
+John Allen,11022360,144,155,1553539,http://en.wikipedia.org/wiki/John_Allen_(hurler),John Allen,john-allen,john-allen-hurler,PER
+John Allen,23396398,2,5,1553539,http://en.wikipedia.org/wiki/John_Allen_(bookseller),John Allen,john-allen,john-allen-bookseller,PER
+John Allen,23396669,4,16,1553539,http://en.wikipedia.org/wiki/John_Allen_(Irish_nationalist),John Allen,john-allen,john-allen-irish-nationalist,PER
+John Allen,22163299,5,18,1553539,http://en.wikipedia.org/wiki/John_Allen_(footballer_born_1955),John Allen,john-allen,john-allen-footballer-born-1955,PER
+John Allen,24106871,8,28,1553539,http://en.wikipedia.org/wiki/John_Allen_(saloon_keeper),John Allen,john-allen,john-allen-saloon-keeper,PER
+John Allen,12726692,4,23,1553539,http://en.wikipedia.org/wiki/John_Allen_(basketball),John Allen,john-allen,john-allen-basketball,UNK
+John Allen,10454544,26,26,1553539,http://en.wikipedia.org/wiki/John_Allen_(American_football),John Allen,john-allen,john-allen-american-football,PER
+John Allen,17307166,4,3,23396493;1553539,http://en.wikipedia.org/wiki/John_Allen_(minister),John Allen,john-allen,john-allen-minister,UNK
+John Allen,7288688,19,20,1553539;7285129,"http://en.wikipedia.org/wiki/John_Allen,_1st_Viscount_Allen","John Allen, 1st Viscount Allen",john-allen-1st-viscount-allen,john-allen-1st-viscount-allen,UNK
+John Allen,7285129,6,9,1553539;7285278;7288688,"http://en.wikipedia.org/wiki/John_Allen,_4th_Viscount_Allen","John Allen, 4th Viscount Allen",john-allen-4th-viscount-allen,john-allen-4th-viscount-allen,UNK
+John Allen,30780607,9,56,1553539,http://en.wikipedia.org/wiki/John_Allen_(priest),John Allen,john-allen,john-allen-priest,PER
+Reuters,18998750,9093,418,18998750;2171552,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+P.W. Botha,383252,368,188,6653;17416221;363843;8401973;30865;390975,http://en.wikipedia.org/wiki/P._W._Botha,P. W. Botha,p-w-botha,p-w-botha,UNK
+National Party,390975,924,386,6653;35754887;17416221;363843;383252;8401973;30865,http://en.wikipedia.org/wiki/National_Party_(South_Africa),National Party,national-party,national-party-south-africa,UNK
+National Party,2526904,211,66,988213;4294,"http://en.wikipedia.org/wiki/National_Party_(UK,_1917)",National Party,national-party,national-party-uk-1917,ORG
+National Party,8881536,190,35,37007727,http://en.wikipedia.org/wiki/National_Party_(Poland),National Party,national-party,national-party-poland,GPE
+National Party,4294,2225,577,4294;2526904;988213,http://en.wikipedia.org/wiki/British_National_Party,British National Party,british-national-party,british-national-party,ORG
+National Party,6335691,21,3,,http://en.wikipedia.org/wiki/National_Party_(Belize),National Party,national-party,national-party-belize,UNK
+National Party,13255330,8,7,,http://en.wikipedia.org/wiki/National_Party_(Sweden),National Party,national-party,national-party-sweden,UNK
+National Party,27074585,17,32,,http://en.wikipedia.org/wiki/Hawaiian_National_Party,Hawaiian National Party,hawaiian-national-party,hawaiian-national-party,UNK
+National Party,1214293,223,54,,http://en.wikipedia.org/wiki/National_Party_(Uruguay),National Party,national-party,national-party-uruguay,UNK
+National Party,32910478,19,26,,http://en.wikipedia.org/wiki/The_National_Party,The National Party,the-national-party,the-national-party,UNK
+National Party,1846375,3,44,,http://en.wikipedia.org/wiki/National_Party_(Peru),National Party,national-party,national-party-peru,UNK
+National Party,8641900,42,5,,http://en.wikipedia.org/wiki/National_Party_(Romania),National Party,national-party,national-party-romania,UNK
+National Party,27078474,37,45,,http://en.wikipedia.org/wiki/National_Party_(Turkey),National Party,national-party,national-party-turkey,UNK
+National Party,5640727,31,15,21397221,http://en.wikipedia.org/wiki/National_Party_(Solomon_Islands),National Party,national-party,national-party-solomon-islands,UNK
+National Party,1641714,229,137,333149,http://en.wikipedia.org/wiki/National_Party_of_Honduras,National Party of Honduras,national-party-of-honduras,national-party-of-honduras,UNK
+National Party,23969310,72,74,,"http://en.wikipedia.org/wiki/National_Party_(Ireland,_1924)",National Party,national-party,national-party-ireland-1924,UNK
+National Party,988213,175,190,2526904;4294,"http://en.wikipedia.org/wiki/National_Party_(UK,_1976)",National Party,national-party,national-party-uk-1976,ORG
+National Party,37007727,3,5,8881536,http://en.wikipedia.org/wiki/National_Party_(1989),National Party,national-party,national-party-1989,UNK
+National Party,1978501,52,68,,http://en.wikipedia.org/wiki/Slovenian_National_Party,Slovenian National Party,slovenian-national-party,slovenian-national-party,ORG
+National Party,9716506,14,22,,http://en.wikipedia.org/wiki/National_Party_(United_States),National Party,national-party,national-party-united-states,ORG
+National Party,8469834,9,47,8469706,"http://en.wikipedia.org/wiki/National_Party_(Chile,_1857–1933)",National Party,national-party,national-party-chile-1857–1933,UNK
+National Party,21927,2839,193,,http://en.wikipedia.org/wiki/National_Party_of_Australia,National Party of Australia,national-party-of-australia,national-party-of-australia,UNK
+National Party,462118,269,36,,http://en.wikipedia.org/wiki/National_Party_of_Canada,National Party of Canada,national-party-of-canada,national-party-of-canada,UNK
+National Party,8469706,8,23,8469834,"http://en.wikipedia.org/wiki/National_Party_(Chile,_1966–94)",National Party,national-party,national-party-chile-1966–94,UNK
+National Party,1831165,43,26,,http://en.wikipedia.org/wiki/National_Party_(Papua_New_Guinea),National Party,national-party,national-party-papua-new-guinea,UNK
+National Party,6176184,8,5,,http://en.wikipedia.org/wiki/National_Party_(Chile),National Party,national-party,national-party-chile,UNK
+National Party,4525405,4,19,,http://en.wikipedia.org/wiki/National_Party_(Czech_Republic),National Party,national-party,national-party-czech-republic,UNK
+National Party,16032839,130,342,,http://en.wikipedia.org/wiki/National_Party_(Pakistan),National Party,national-party,national-party-pakistan,UNK
+National Party,20930306,62,67,20930306,http://en.wikipedia.org/wiki/National_Party_(Syria),National Party,national-party,national-party-syria,UNK
+National Party,40704639,5,8,,http://en.wikipedia.org/wiki/National_Party_(Colombia),National Party,national-party,national-party-colombia,UNK
+National Party,333149,1247,386,333149;1641714,http://en.wikipedia.org/wiki/New_Zealand_National_Party,New Zealand National Party,new-zealand-national-party,new-zealand-national-party,UNK
+F.W. De Klerk,4962132,3,2,17416221,http://en.wikipedia.org/wiki/FW_de_Klerk_Foundation,FW de Klerk Foundation,fw-de-klerk-foundation,fw-de-klerk-foundation,ORG
+Botha,383252,368,188,6653;17416221;363843;8401973;30865;390975,http://en.wikipedia.org/wiki/P._W._Botha,P. W. Botha,p-w-botha,p-w-botha,UNK
+Allen,1102381,30,43,1553539,http://en.wikipedia.org/wiki/John_Allen_(soldier),John Allen,john-allen,john-allen-soldier,PER
+Allen,15653045,12,34,1553539,http://en.wikipedia.org/wiki/John_Allen_(historian),John Allen,john-allen,john-allen-historian,PER
+Allen,26241852,13,21,1553539,http://en.wikipedia.org/wiki/John_Allen_(coach),John Allen,john-allen,john-allen-coach,PER
+Allen,22659959,1,5,1553539,"http://en.wikipedia.org/wiki/John_Allen_(cricketer,_born_1903)",John Allen,john-allen,john-allen-cricketer-born-1903,PER
+Allen,41450412,58,83,1553539,http://en.wikipedia.org/wiki/John_Allen_(Arizona_politician),John Allen,john-allen,john-allen-arizona-politician,PER
+Allen,37533259,2,34,1553539,http://en.wikipedia.org/wiki/John_Allen_(footballer_born_1964),John Allen,john-allen,john-allen-footballer-born-1964,PER
+Allen,26024731,4,27,1553539,http://en.wikipedia.org/wiki/John_Allen_(miner),John Allen,john-allen,john-allen-miner,PER
+Allen,18724594,2,9,1553539,"http://en.wikipedia.org/wiki/John_Allen_(cricketer,_born_1974)",John Allen,john-allen,john-allen-cricketer-born-1974,PER
+Allen,23396228,4,19,1553539,http://en.wikipedia.org/wiki/John_Allen_(puritan),John Allen,john-allen,john-allen-puritan,PER
+Allen,7285278,11,13,1553539;7285129,"http://en.wikipedia.org/wiki/John_Allen,_3rd_Viscount_Allen","John Allen, 3rd Viscount Allen",john-allen-3rd-viscount-allen,john-allen-3rd-viscount-allen,PER
+Allen,28438248,4,27,1553539,http://en.wikipedia.org/wiki/John_Allen_(baseball),John Allen,john-allen,john-allen-baseball,PER
+Allen,23396327,2,10,1553539,http://en.wikipedia.org/wiki/John_Allen_(physician),John Allen,john-allen,john-allen-physician,PER
+Allen,1553539,1,61,10454544;30780607;18724594;22163299;24106871;23396493;23396228;32851705;9058393;15653045;23396669;23396398;12726692;1102381;7590646;22659959;11022360;37533259;22278517;7285129;28438248;26241852;26024731;17307166;41450412;23396327;7285278;7288688,http://en.wikipedia.org/wiki/John_Allen,John Allen,john-allen,john-allen,PER
+Allen,23396493,9,12,17307166;1553539,http://en.wikipedia.org/wiki/John_Allen_(religious_writer),John Allen,john-allen,john-allen-religious-writer,PER
+Allen,22278517,5,19,1553539,http://en.wikipedia.org/wiki/John_Allen_(pioneer),John Allen,john-allen,john-allen-pioneer,PER
+Allen,137562,63,100,,http://en.wikipedia.org/wiki/John_Allen_Muhammad,John Allen Muhammad,john-allen-muhammad,john-allen-muhammad,PER
+Allen,32851705,7,17,1553539,http://en.wikipedia.org/wiki/John_Allen_(diplomat),John Allen,john-allen,john-allen-diplomat,PER
+Allen,9058393,2,6,1553539,http://en.wikipedia.org/wiki/John_Allen_(Irish_cricketer),John Allen,john-allen,john-allen-irish-cricketer,UNK
+Allen,7590646,17,26,1553539,http://en.wikipedia.org/wiki/John_Allen_(Connecticut),John Allen,john-allen,john-allen-connecticut,PER
+Allen,595099,33,33,,http://en.wikipedia.org/wiki/John_Allen_Paulos,John Allen Paulos,john-allen-paulos,john-allen-paulos,PER
+Allen,11022360,144,155,1553539,http://en.wikipedia.org/wiki/John_Allen_(hurler),John Allen,john-allen,john-allen-hurler,PER
+Allen,23396398,2,5,1553539,http://en.wikipedia.org/wiki/John_Allen_(bookseller),John Allen,john-allen,john-allen-bookseller,PER
+Allen,23396669,4,16,1553539,http://en.wikipedia.org/wiki/John_Allen_(Irish_nationalist),John Allen,john-allen,john-allen-irish-nationalist,PER
+Allen,22163299,5,18,1553539,http://en.wikipedia.org/wiki/John_Allen_(footballer_born_1955),John Allen,john-allen,john-allen-footballer-born-1955,PER
+Allen,24106871,8,28,1553539,http://en.wikipedia.org/wiki/John_Allen_(saloon_keeper),John Allen,john-allen,john-allen-saloon-keeper,PER
+Allen,12726692,4,23,1553539,http://en.wikipedia.org/wiki/John_Allen_(basketball),John Allen,john-allen,john-allen-basketball,UNK
+Allen,10454544,26,26,1553539,http://en.wikipedia.org/wiki/John_Allen_(American_football),John Allen,john-allen,john-allen-american-football,PER
+Allen,17307166,4,3,23396493;1553539,http://en.wikipedia.org/wiki/John_Allen_(minister),John Allen,john-allen,john-allen-minister,UNK
+Allen,7288688,19,20,1553539;7285129,"http://en.wikipedia.org/wiki/John_Allen,_1st_Viscount_Allen","John Allen, 1st Viscount Allen",john-allen-1st-viscount-allen,john-allen-1st-viscount-allen,UNK
+Allen,7285129,6,9,1553539;7285278;7288688,"http://en.wikipedia.org/wiki/John_Allen,_4th_Viscount_Allen","John Allen, 4th Viscount Allen",john-allen-4th-viscount-allen,john-allen-4th-viscount-allen,UNK
+Allen,30780607,9,56,1553539,http://en.wikipedia.org/wiki/John_Allen_(priest),John Allen,john-allen,john-allen-priest,PER
+Nobel Peace,26230922,2434,99,21397221;6653;2826040;670532;8401973,http://en.wikipedia.org/wiki/Nobel_Peace_Prize,Nobel Peace Prize,nobel-peace-prize,nobel-peace-prize,UNK
+Nobel Peace,2826040,29,21,26230922,http://en.wikipedia.org/wiki/Nobel_Peace_Center,Nobel Peace Center,nobel-peace-center,nobel-peace-center,UNK
+Desmond Tutu,8401973,996,614,6653;3154383;21397221;390975;26230922;376115;383252;30865,http://en.wikipedia.org/wiki/Desmond_Tutu,Desmond Tutu,desmond-tutu,desmond-tutu,UNK

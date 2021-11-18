@@ -1,0 +1,76 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Sri Lankan,26750,21170,945,21637819;3973477;12821294;26295718;4096004;12486185;13627771;1569468;1399660;21447440;37657379;2682210;4703809;14580;260288;225283;472216;18606;56636;300548;372988;397246;22216145;4126071;27412;26750;18921419;29919;29918;32856502;29420532,http://en.wikipedia.org/wiki/Sri_Lanka,Sri Lanka,sri-lanka,sri-lanka,GPE
+Sri Lankan,2682210,297,234,26750;29919,http://en.wikipedia.org/wiki/Sri_Lankan_English,Sri Lankan English,sri-lankan-english,sri-lankan-english,UNK
+Sri Lankan,4096004,682,400,12486185;18606;372988;1399660;56636;27412;3973477;225283;300548;26750;4096004;29919;29918;16377192,http://en.wikipedia.org/wiki/Sri_Lankan_Tamil_people,Sri Lankan Tamil people,sri-lankan-tamil-people,sri-lankan-tamil-people,UNK
+Sri Lankan,1399660,426,391,26750;4096004,http://en.wikipedia.org/wiki/Sri_Lankan_cuisine,Sri Lankan cuisine,sri-lankan-cuisine,sri-lankan-cuisine,UNK
+Sri Lankan,225283,1274,567,12486185;56636;225283;29919;29918;4126071;21447440;18606;27412;300548;26750;4096004;16377192,http://en.wikipedia.org/wiki/Sri_Lankan_Civil_War,Sri Lankan Civil War,sri-lankan-civil-war,sri-lankan-civil-war,UNK
+COLOMBO,56636,3707,406,260288;225283;1569468;397246;4126071;18606;27412;26750;18921419;56636;3973477;12821294;29919;26295718;300548;4096004;12486185;41239377;29420532,http://en.wikipedia.org/wiki/Colombo,Colombo,colombo,colombo,GPE
+COLOMBO,1569468,377,242,56636;4703809;3973477;26750;12821294;18921419;1569468;29919,http://en.wikipedia.org/wiki/University_of_Colombo,University of Colombo,university-of-colombo,university-of-colombo,ORG
+COLOMBO,18921419,6,34,3973477;56636;1569468;26750,http://en.wikipedia.org/wiki/Colombo_FC,Colombo FC,colombo-fc,colombo-fc,UNK
+COLOMBO,13291048,38,43,,http://en.wikipedia.org/wiki/Riccardo_Colombo,Riccardo Colombo,riccardo-colombo,riccardo-colombo,PER
+COLOMBO,3973477,184,74,12486185;26750;18921419;4096004;1569468;56636;29919,http://en.wikipedia.org/wiki/Colombo_District,Colombo District,colombo-district,colombo-district,UNK
+COLOMBO,4931779,5,3,,http://en.wikipedia.org/wiki/Colombo_(soccer),Colombo,colombo,colombo-soccer,UNK
+COLOMBO,260288,234,125,26750;56636,http://en.wikipedia.org/wiki/Colombo_Plan,Colombo Plan,colombo-plan,colombo-plan,ORG
+COLOMBO,26295718,4,4,56636;26750,http://en.wikipedia.org/wiki/Colombo_Club,Colombo Club,colombo-club,colombo-club,ORG
+COLOMBO,21917581,0,10,,http://en.wikipedia.org/wiki/Colombo_Lake,Colombo Lake,colombo-lake,colombo-lake,UNK
+COLOMBO,29420532,42,45,26750;56636,http://en.wikipedia.org/wiki/Colombo_Street,Colombo Street,colombo-street,colombo-street,UNK
+COLOMBO,41239377,1,3,56636,http://en.wikipedia.org/wiki/Colombo_Airport,Colombo Airport,colombo-airport,colombo-airport,UNK
+COLOMBO,29402085,3,9,,http://en.wikipedia.org/wiki/Mount_Colombo,Mount Colombo,mount-colombo,mount-colombo,UNK
+COLOMBO,6671821,333,11,,"http://en.wikipedia.org/wiki/Colombo,_Paraná","Colombo, Paraná",colombo-parana,colombo-parana,GPE
+COLOMBO,4703809,4,5,1569468;26750,"http://en.wikipedia.org/wiki/University_of_Colombo,_Centre_for_Instrument_Development","University of Colombo, Centre for Instrument Development",university-of-colombo-centre-for-instrument-development,university-of-colombo-centre-for-instrument-development,UNK
+Tamil Tiger,18606,770,498,12486185;56636;225283;29919;29918;4126071;18606;300548;26750;4096004;16377192,http://en.wikipedia.org/wiki/Liberation_Tigers_of_Tamil_Eelam,Liberation Tigers of Tamil Eelam,liberation-tigers-of-tamil-eelam,liberation-tigers-of-tamil-eelam,UNK
+Sri Lanka,26750,21170,945,21637819;3973477;12821294;26295718;4096004;12486185;13627771;1569468;1399660;21447440;37657379;2682210;4703809;14580;260288;225283;472216;18606;56636;300548;372988;397246;22216145;4126071;27412;26750;18921419;29919;29918;32856502;29420532,http://en.wikipedia.org/wiki/Sri_Lanka,Sri Lanka,sri-lanka,sri-lanka,GPE
+Sri Lanka,397246,1318,410,56636;26750,http://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team,Sri Lanka national cricket team,sri-lanka-national-cricket-team,sri-lanka-national-cricket-team,UNK
+Sri Lanka,12821294,76,91,1569468;26750;56636;29919,http://en.wikipedia.org/wiki/University_of_Sri_Lanka,University of Sri Lanka,university-of-sri-lanka,university-of-sri-lanka,UNK
+Sri Lanka,225283,1274,567,12486185;56636;225283;29919;29918;4126071;21447440;18606;27412;300548;26750;4096004;16377192,http://en.wikipedia.org/wiki/Sri_Lankan_Civil_War,Sri Lankan Civil War,sri-lankan-civil-war,sri-lankan-civil-war,UNK
+Sri Lanka,27412,196,166,26750;4096004;14580;56636;225283,http://en.wikipedia.org/wiki/Geography_of_Sri_Lanka,Geography of Sri Lanka,geography-of-sri-lanka,geography-of-sri-lanka,UNK
+Liberation Tigers of Tamil Eelam,18606,770,498,12486185;56636;225283;29919;29918;4126071;18606;300548;26750;4096004;16377192,http://en.wikipedia.org/wiki/Liberation_Tigers_of_Tamil_Eelam,Liberation Tigers of Tamil Eelam,liberation-tigers-of-tamil-eelam,liberation-tigers-of-tamil-eelam,UNK
+LTTE,18606,770,498,12486185;56636;225283;29919;29918;4126071;18606;300548;26750;4096004;16377192,http://en.wikipedia.org/wiki/Liberation_Tigers_of_Tamil_Eelam,Liberation Tigers of Tamil Eelam,liberation-tigers-of-tamil-eelam,liberation-tigers-of-tamil-eelam,UNK
+Welikanda,37657379,5,7,26750,http://en.wikipedia.org/wiki/Welikanda,Welikanda,welikanda,welikanda,UNK
+Colombo,56636,3707,406,260288;225283;1569468;397246;4126071;18606;27412;26750;18921419;56636;3973477;12821294;29919;26295718;300548;4096004;12486185;41239377;29420532,http://en.wikipedia.org/wiki/Colombo,Colombo,colombo,colombo,GPE
+Colombo,1569468,377,242,56636;4703809;3973477;26750;12821294;18921419;1569468;29919,http://en.wikipedia.org/wiki/University_of_Colombo,University of Colombo,university-of-colombo,university-of-colombo,ORG
+Colombo,18921419,6,34,3973477;56636;1569468;26750,http://en.wikipedia.org/wiki/Colombo_FC,Colombo FC,colombo-fc,colombo-fc,UNK
+Colombo,13291048,38,43,,http://en.wikipedia.org/wiki/Riccardo_Colombo,Riccardo Colombo,riccardo-colombo,riccardo-colombo,PER
+Colombo,3973477,184,74,12486185;26750;18921419;4096004;1569468;56636;29919,http://en.wikipedia.org/wiki/Colombo_District,Colombo District,colombo-district,colombo-district,UNK
+Colombo,4931779,5,3,,http://en.wikipedia.org/wiki/Colombo_(soccer),Colombo,colombo,colombo-soccer,UNK
+Colombo,260288,234,125,26750;56636,http://en.wikipedia.org/wiki/Colombo_Plan,Colombo Plan,colombo-plan,colombo-plan,ORG
+Colombo,26295718,4,4,56636;26750,http://en.wikipedia.org/wiki/Colombo_Club,Colombo Club,colombo-club,colombo-club,ORG
+Colombo,21917581,0,10,,http://en.wikipedia.org/wiki/Colombo_Lake,Colombo Lake,colombo-lake,colombo-lake,UNK
+Colombo,29420532,42,45,26750;56636,http://en.wikipedia.org/wiki/Colombo_Street,Colombo Street,colombo-street,colombo-street,UNK
+Colombo,41239377,1,3,56636,http://en.wikipedia.org/wiki/Colombo_Airport,Colombo Airport,colombo-airport,colombo-airport,UNK
+Colombo,29402085,3,9,,http://en.wikipedia.org/wiki/Mount_Colombo,Mount Colombo,mount-colombo,mount-colombo,UNK
+Colombo,6671821,333,11,,"http://en.wikipedia.org/wiki/Colombo,_Paraná","Colombo, Paraná",colombo-parana,colombo-parana,GPE
+Colombo,4703809,4,5,1569468;26750,"http://en.wikipedia.org/wiki/University_of_Colombo,_Centre_for_Instrument_Development","University of Colombo, Centre for Instrument Development",university-of-colombo-centre-for-instrument-development,university-of-colombo-centre-for-instrument-development,UNK
+Tamils,300548,1710,292,372988;56636;225283;29919;29918;22216145;22381322;4096004;16377192;12486185;472216;14580;18606;13627771;26750,http://en.wikipedia.org/wiki/Tamil_people,Tamil people,tamil-people,tamil-people,UNK
+Indian Ocean,14580,6450,451,300548;27412;26750,http://en.wikipedia.org/wiki/Indian_Ocean,Indian Ocean,indian-ocean,indian-ocean,UNK
+Indian Ocean,1859663,57,52,1859663,http://en.wikipedia.org/wiki/Indian_Ocean_(band),Indian Ocean,indian-ocean,indian-ocean-band,UNK
+Tamil,300548,1710,292,372988;56636;225283;29919;29918;22216145;22381322;4096004;16377192;12486185;472216;14580;18606;13627771;26750,http://en.wikipedia.org/wiki/Tamil_people,Tamil people,tamil-people,tamil-people,UNK
+Tamil,22216145,46,60,300548;22381322;26750;29919;29918;372988,http://en.wikipedia.org/wiki/Tamil_culture,Tamil culture,tamil-culture,tamil-culture,UNK
+Tamil,13399487,610,72,29918,http://en.wikipedia.org/wiki/Tamil_University,Tamil University,tamil-university,tamil-university,ORG
+Tamil,16377192,257,89,300548;18606;4096004;29919;225283,http://en.wikipedia.org/wiki/British_Tamil,British Tamil,british-tamil,british-tamil,UNK
+Tamil,38921702,15,13,472216;29918,http://en.wikipedia.org/wiki/Tamil_(Unicode_block),Tamil,tamil,tamil-unicode-block,UNK
+Tamil,12605452,5,25,372988;29919,http://en.wikipedia.org/wiki/Tamil_historical_novels,Tamil historical novels,tamil-historical-novels,tamil-historical-novels,UNK
+Tamil,18606,770,498,12486185;56636;225283;29919;29918;4126071;18606;300548;26750;4096004;16377192,http://en.wikipedia.org/wiki/Liberation_Tigers_of_Tamil_Eelam,Liberation Tigers of Tamil Eelam,liberation-tigers-of-tamil-eelam,liberation-tigers-of-tamil-eelam,UNK
+Tamil,29918,14459,662,4096004;13627771;13399487;225283;18606;300548;372988;22216145;26750;30075;29919;29918;38921702,http://en.wikipedia.org/wiki/Tamil_Nadu,Tamil Nadu,tamil-nadu,tamil-nadu,GPE
+Tamil,22381322,4,7,22216145;300548,http://en.wikipedia.org/wiki/Tamil_architecture,Tamil architecture,tamil-architecture,tamil-architecture,UNK
+Tamil,372988,584,220,472216;12605452;300548;26750;4096004;29919;29918;22216145,http://en.wikipedia.org/wiki/Tamil_literature,Tamil literature,tamil-literature,tamil-literature,UNK
+Tamil,29919,12728,383,16377192;3973477;12821294;4096004;12486185;13627771;1569468;21447440;2682210;225283;472216;18606;56636;12605452;300548;372988;22216145;4126071;26750;29919;29918,http://en.wikipedia.org/wiki/Tamil_language,Tamil language,tamil-language,tamil-language,UNK
+Tamil,472216,351,501,372988;300548;26750;38921702;29919,http://en.wikipedia.org/wiki/Tamil_script,Tamil script,tamil-script,tamil-script,UNK
+Tamil,13627771,100,175,300548;26750;29919;29918,http://en.wikipedia.org/wiki/Tamil_Wikipedia,Tamil Wikipedia,tamil-wikipedia,tamil-wikipedia,UNK
+Tamil,4096004,682,400,12486185;18606;372988;1399660;56636;27412;3973477;225283;300548;26750;4096004;29919;29918;16377192,http://en.wikipedia.org/wiki/Sri_Lankan_Tamil_people,Sri Lankan Tamil people,sri-lankan-tamil-people,sri-lankan-tamil-people,UNK
+Tigers,2903692,31,13,,http://en.wikipedia.org/wiki/The_Tigers_(Japanese_band),The Tigers,the-tigers,the-tigers-japanese-band,UNK
+Tigers,30075,1896,679,29918;26126951,http://en.wikipedia.org/wiki/Tiger,Tiger,tiger,tiger,UNK
+Tigers,41982036,8,3,,http://en.wikipedia.org/wiki/Tigers_FC_(Blantyre),Tigers FC,tigers-fc,tigers-fc-blantyre,PER
+Tigers,2906001,11,84,,http://en.wikipedia.org/wiki/Tigers_Militia,Tigers Militia,tigers-militia,tigers-militia,ORG
+Tigers,8579,5768,927,8579;490998;26126951,http://en.wikipedia.org/wiki/Detroit_Tigers,Detroit Tigers,detroit-tigers,detroit-tigers,UNK
+Tigers,32072510,18,22,,http://en.wikipedia.org/wiki/Tigers_FC,Tigers FC,tigers-fc,tigers-fc,ORG
+Tigers,15542107,27,32,,http://en.wikipedia.org/wiki/Arthur_Tigers,Arthur Tigers,arthur-tigers,arthur-tigers,UNK
+Tigers,4926896,6,12,,http://en.wikipedia.org/wiki/The_Tigers_(band),The Tigers,the-tigers,the-tigers-band,PER
+Tigers,490998,517,197,490998;26126951;8579,http://en.wikipedia.org/wiki/Hanshin_Tigers,Hanshin Tigers,hanshin-tigers,hanshin-tigers,ORG
+Tigers,32116392,2,10,,"http://en.wikipedia.org/wiki/Tigers,_London_Zoological_Gardens","Tigers, London Zoological Gardens",tigers-london-zoological-gardens,tigers-london-zoological-gardens,UNK
+Tigers,26126951,3,31,30075;8579;490998,http://en.wikipedia.org/wiki/Tigers_(sports_teams),Tigers,tigers,tigers-sports-teams,UNK
+Vavuniya,4126071,181,32,12486185;32856502;26750;21447440;18606;56636;29919;21637819;225283,http://en.wikipedia.org/wiki/Vavuniya,Vavuniya,vavuniya,vavuniya,UNK
+Vavuniya,21447440,48,99,12486185;4126071;26750;29919;225283,http://en.wikipedia.org/wiki/Vavuniya_Airport,Vavuniya Airport,vavuniya-airport,vavuniya-airport,UNK
+Vavuniya,32856502,1,11,12486185;4126071;26750,http://en.wikipedia.org/wiki/Vavuniya_Hospital,Vavuniya Hospital,vavuniya-hospital,vavuniya-hospital,UNK
+Vavuniya,12486185,155,137,300548;32856502;4126071;26750;21447440;18606;4096004;56636;29919;21637819;3973477;225283,http://en.wikipedia.org/wiki/Vavuniya_District,Vavuniya District,vavuniya-district,vavuniya-district,UNK
+Vavuniya,21637819,55,89,12486185;4126071;26750,http://en.wikipedia.org/wiki/Vavuniya_Electoral_District,Vavuniya Electoral District,vavuniya-electoral-district,vavuniya-electoral-district,UNK

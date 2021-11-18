@@ -1,0 +1,25 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+HONG KONG,13404,29087,1384,18593210;22962474;19339340;27413692;13411;13406;13404;1389893;13371128;1449735;268075;393288;393307;33617951;180697;248457;1244783;309734;33918128,http://en.wikipedia.org/wiki/Hong_Kong,Hong Kong,hong-kong,hong-kong,GPE
+HONG KONG,33918128,1,10,13404;248457,http://en.wikipedia.org/wiki/Hong_Kong_(Area_Control_Centre),Hong Kong,hong-kong,hong-kong-area-control-centre,UNK
+HONG KONG,13406,276,257,393288;180697;248457;309734;27413692;13411;13406;13404,http://en.wikipedia.org/wiki/Geography_of_Hong_Kong,Geography of Hong Kong,geography-of-hong-kong,geography-of-hong-kong,UNK
+HONG KONG,36855089,173,199,33617951;32837949;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2012_Summer_Paralympics","Hong Kong, China at the 2012 Summer Paralympics",hong-kong-china-at-the-2012-summer-paralympics,hong-kong-china-at-the-2012-summer-paralympics,UNK
+HONG KONG,18775842,161,179,33617951;36855089;32837949,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2008_Summer_Paralympics","Hong Kong, China at the 2008 Summer Paralympics",hong-kong-china-at-the-2008-summer-paralympics,hong-kong-china-at-the-2008-summer-paralympics,UNK
+HONG KONG,32837949,110,121,33617951;36855089;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2000_Summer_Paralympics","Hong Kong, China at the 2000 Summer Paralympics",hong-kong-china-at-the-2000-summer-paralympics,hong-kong-china-at-the-2000-summer-paralympics,UNK
+HONG KONG,393288,131,230,309734;27413692;13411;13406;13404;248457,http://en.wikipedia.org/wiki/Tourism_in_Hong_Kong,Tourism in Hong Kong,tourism-in-hong-kong,tourism-in-hong-kong,UNK
+HONG KONG,22962474,40,50,13371128;180697;13404,http://en.wikipedia.org/wiki/W_Hong_Kong,W Hong Kong,w-hong-kong,w-hong-kong,UNK
+HONG KONG,2152406,18,13,,http://en.wikipedia.org/wiki/Hong_Kong_Club,Hong Kong Club,hong-kong-club,hong-kong-club,ORG
+HONG KONG,1244783,601,156,180697;13404,http://en.wikipedia.org/wiki/Hong_Kong_Stadium,Hong Kong Stadium,hong-kong-stadium,hong-kong-stadium,UNK
+HONG KONG,268075,918,410,180697;19339340;268075;27413692;13404,http://en.wikipedia.org/wiki/University_of_Hong_Kong,University of Hong Kong,university-of-hong-kong,university-of-hong-kong,UNK
+HONG KONG,13411,475,349,393288;180697;1389893;248457;309734;13411;13406;13404;1449735,http://en.wikipedia.org/wiki/Transport_in_Hong_Kong,Transport in Hong Kong,transport-in-hong-kong,transport-in-hong-kong,ORG
+HONG KONG,248457,1212,534,180697;309734;1449735;393288;1389893;33918128;13411;13406;13404,http://en.wikipedia.org/wiki/Hong_Kong_International_Airport,Hong Kong International Airport,hong-kong-international-airport,hong-kong-international-airport,UNK
+HONG KONG,180697,1125,122,248457;13371128;1389893;1244783;268075;27413692;13411;13406;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Island,Hong Kong Island,hong-kong-island,hong-kong-island,UNK
+HONG KONG,18593210,15,14,13404,http://en.wikipedia.org/wiki/Mr._Hong_Kong,Mr. Hong Kong,mr-hong-kong,mr-hong-kong,UNK
+HONG KONG,393307,62,30,309734;13404,http://en.wikipedia.org/wiki/Hong_Kong_Park,Hong Kong Park,hong-kong-park,hong-kong-park,UNK
+HONG KONG,1449735,450,319,248457;13411;13404,http://en.wikipedia.org/wiki/Hong_Kong_Airlines,Hong Kong Airlines,hong-kong-airlines,hong-kong-airlines,ORG
+HONG KONG,10157228,5,14,,http://en.wikipedia.org/wiki/The_Hong_Kong,The Hong Kong,the-hong-kong,the-hong-kong,UNK
+HONG KONG,1389893,376,293,180697;1389893;248457;13411;13404,http://en.wikipedia.org/wiki/Hong_Kong_Station,Hong Kong Station,hong-kong-station,hong-kong-station,UNK
+HONG KONG,13371128,52,51,180697;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Hotel,Hong Kong Hotel,hong-kong-hotel,hong-kong-hotel,UNK
+HONG KONG,19339340,52,31,268075;13404,http://en.wikipedia.org/wiki/2009_flu_pandemic_in_Hong_Kong,2009 flu pandemic in Hong Kong,2009-flu-pandemic-in-hong-kong,2009-flu-pandemic-in-hong-kong,UNK
+HONG KONG,27413692,563,306,393288;180697;268075;309734;13406;13404,http://en.wikipedia.org/wiki/British_Hong_Kong,British Hong Kong,british-hong-kong,british-hong-kong,GPE
+HONG KONG,33617951,142,153,36855089;13404;32837949;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2004_Summer_Paralympics","Hong Kong, China at the 2004 Summer Paralympics",hong-kong-china-at-the-2004-summer-paralympics,hong-kong-china-at-the-2004-summer-paralympics,UNK
+HK$,309734,625,364,393288;393307;248457;27413692;13411;13406;13404,http://en.wikipedia.org/wiki/Hong_Kong_dollar,Hong Kong dollar,hong-kong-dollar,hong-kong-dollar,UNK

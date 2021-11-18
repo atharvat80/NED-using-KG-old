@@ -1,0 +1,236 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Clinton,3356,9511,1120,19468510;295504;781322;3356;55846;468102;1296149;318094;25755;43505;5043544;27003223;187633;20132440;32070,http://en.wikipedia.org/wiki/Bill_Clinton,Bill Clinton,bill-clinton,bill-clinton,PER
+Clinton,20132440,4,16,3356,http://en.wikipedia.org/wiki/Little_Bill_Clinton,Little Bill Clinton,little-bill-clinton,little-bill-clinton,UNK
+Clinton,1296149,209,308,19468510;187633;3356;32070;318094;5043544,http://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton,Impeachment of Bill Clinton,impeachment-of-bill-clinton,impeachment-of-bill-clinton,UNK
+Dole,55846,1268,719,19468510;1831009;43505;32070;295504;187633;3356;11391701;4880582;5043544,http://en.wikipedia.org/wiki/Bob_Dole,Bob Dole,bob-dole,bob-dole,UNK
+CHICAGO,6886,34752,1613,11267556;425678;5945;6654;6886;9144003;409663;150201;950469;32070;318094;5043544;41962;326456;168876;19468510;498362;62027,http://en.wikipedia.org/wiki/Chicago,Chicago,chicago,chicago,UNK
+CHICAGO,11267556,248,178,6654;62027;6886,http://en.wikipedia.org/wiki/Chicago_(magazine),Chicago,chicago,chicago-magazine,ORG
+CHICAGO,8909849,34,134,498362;3143360;425678;409663,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee,_St._Paul_and_Pacific_Depot_Freight_House_and_Train_Shed","Chicago, Milwaukee, St. Paul and Pacific Depot Freight House and Train Shed",chicago-milwaukee-st-paul-and-pacific-depot-freight-house-and-train-shed,chicago-milwaukee-st-paul-and-pacific-depot-freight-house-and-train-shed,UNK
+CHICAGO,326456,3178,851,5945;6654;41962;623149;27003223;150201;6886;326456,http://en.wikipedia.org/wiki/Chicago_metropolitan_area,Chicago metropolitan area,chicago-metropolitan-area,chicago-metropolitan-area,UNK
+CHICAGO,24702353,1,80,,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee_and_St._Paul_Freight_House","Chicago, Milwaukee and St. Paul Freight House",chicago-milwaukee-and-st-paul-freight-house,chicago-milwaukee-and-st-paul-freight-house,UNK
+CHICAGO,3673503,57,4,409663,"http://en.wikipedia.org/wiki/Chicago,_Kansas_and_Nebraska_Railway","Chicago, Kansas and Nebraska Railway",chicago-kansas-and-nebraska-railway,chicago-kansas-and-nebraska-railway,UNK
+CHICAGO,6654,7063,1098,11267556;5945;6654;6886;28417;62027;326456,http://en.wikipedia.org/wiki/Chicago_Cubs,Chicago Cubs,chicago-cubs,chicago-cubs,UNK
+CHICAGO,6050234,165,49,,http://en.wikipedia.org/wiki/Chicago_(pool),Chicago,chicago,chicago-pool,UNK
+CHICAGO,5945,5920,941,28417;5945;6654;6886;326456;318094,http://en.wikipedia.org/wiki/Chicago_White_Sox,Chicago White Sox,chicago-white-sox,chicago-white-sox,UNK
+CHICAGO,10123843,0,22,9144003,"http://en.wikipedia.org/wiki/Chicago,_Danville_and_Vincennes_Railroad_(Indiana_Division)","Chicago, Danville and Vincennes Railroad",chicago-danville-and-vincennes-railroad,chicago-danville-and-vincennes-railroad-indiana-division,UNK
+CHICAGO,9078088,3,85,9518214;498362,"http://en.wikipedia.org/wiki/Chicago,_Burlington_and_Quincy_Railroad_Depot_(Oregon,_Illinois)","Chicago, Burlington and Quincy Railroad Depot",chicago-burlington-and-quincy-railroad-depot,chicago-burlington-and-quincy-railroad-depot-oregon-illinois,UNK
+CHICAGO,8483895,14,82,,http://en.wikipedia.org/wiki/Chicago_(Prison_Break),Chicago,chicago,chicago-prison-break,UNK
+CHICAGO,425678,842,358,20783664;409663;10432346;6886;8909849;498362;3143360;950469;425678;20784347;26530312,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee,_St._Paul_and_Pacific_Railroad","Chicago, Milwaukee, St. Paul and Pacific Railroad",chicago-milwaukee-st-paul-and-pacific-railroad,chicago-milwaukee-st-paul-and-pacific-railroad,UNK
+CHICAGO,9144003,9,19,10123843;6886,"http://en.wikipedia.org/wiki/Chicago,_Danville_and_Vincennes_Railroad","Chicago, Danville and Vincennes Railroad",chicago-danville-and-vincennes-railroad,chicago-danville-and-vincennes-railroad,UNK
+CHICAGO,9518214,0,6,9119565;498362;9078088,"http://en.wikipedia.org/wiki/Chicago,_Burlington_and_Quincy_Railroad_Depot","Chicago, Burlington and Quincy Railroad Depot",chicago-burlington-and-quincy-railroad-depot,chicago-burlington-and-quincy-railroad-depot,UNK
+CHICAGO,2051381,50,11,10432346,"http://en.wikipedia.org/wiki/Chicago,_Missouri_and_Western_Railway","Chicago, Missouri and Western Railway",chicago-missouri-and-western-railway,chicago-missouri-and-western-railway,UNK
+CHICAGO,26530312,251,250,498362;3143360;409663;425678,"http://en.wikipedia.org/wiki/Chicago,_Indiana_and_Southern_Railroad","Chicago, Indiana and Southern Railroad",chicago-indiana-and-southern-railroad,chicago-indiana-and-southern-railroad,UNK
+CHICAGO,168876,950,201,7197338;6886,http://en.wikipedia.org/wiki/Chicago_(band),Chicago,chicago,chicago-band,UNK
+CHICAGO,16640432,6,13,,http://en.wikipedia.org/wiki/Chicago_(manga),Chicago,chicago,chicago-manga,UNK
+CHICAGO,10432346,146,162,498362;2051381;409663;425678,"http://en.wikipedia.org/wiki/Chicago,_Fort_Wayne_and_Eastern_Railroad","Chicago, Fort Wayne and Eastern Railroad",chicago-fort-wayne-and-eastern-railroad,chicago-fort-wayne-and-eastern-railroad,UNK
+CHICAGO,41962,375,180,950469;326456;6886,http://en.wikipedia.org/wiki/Chicago_River,Chicago River,chicago-river,chicago-river,UNK
+CHICAGO,498362,865,352,9078088;27838149;409663;10432346;6886;8909849;3143360;9518214;950469;425678;26530312,"http://en.wikipedia.org/wiki/Chicago,_Burlington_and_Quincy_Railroad","Chicago, Burlington and Quincy Railroad",chicago-burlington-and-quincy-railroad,chicago-burlington-and-quincy-railroad,UNK
+CHICAGO,27838149,1,22,498362,"http://en.wikipedia.org/wiki/Chicago,_Burlington_&_Quincy_Railroad_Co._v._City_of_Chicago","Chicago, Burlington & Quincy Railroad Co. v. City of Chicago",chicago-burlington-quincy-railroad-co-v-city-of-chicago,chicago-burlington-quincy-railroad-co-v-city-of-chicago,UNK
+CHICAGO,10950220,4,9,10950220,http://en.wikipedia.org/wiki/Chicago_(art_magazine),Chicago,chicago,chicago-art-magazine,ORG
+CHICAGO,20784347,2,79,425678,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee_and_St._Paul_Passenger_Depot","Chicago, Milwaukee and St. Paul Passenger Depot",chicago-milwaukee-and-st-paul-passenger-depot,chicago-milwaukee-and-st-paul-passenger-depot,UNK
+CHICAGO,9119565,1,84,9518214,"http://en.wikipedia.org/wiki/Chicago,_Burlington_&_Quincy_Railroad_Station_(Canton,_Illinois)","Chicago, Burlington & Quincy Railroad Station",chicago-burlington-quincy-railroad-station,chicago-burlington-quincy-railroad-station-canton-illinois,UNK
+CHICAGO,27579196,31,28,8603011,http://en.wikipedia.org/wiki/Chicago_(play),Chicago,chicago,chicago-play,ORG
+CHICAGO,20795050,0,79,,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee,_St._Paul_and_Pacific_Depot_–_Delmar","Chicago, Milwaukee, St. Paul and Pacific Depot – Delmar",chicago-milwaukee-st-paul-and-pacific-depot-–-delmar,chicago-milwaukee-st-paul-and-pacific-depot-–-delmar,UNK
+CHICAGO,3143360,371,276,8909849;498362;409663;425678;26530312,"http://en.wikipedia.org/wiki/Chicago,_St._Paul,_Minneapolis_and_Omaha_Railway","Chicago, St. Paul, Minneapolis and Omaha Railway",chicago-st-paul-minneapolis-and-omaha-railway,chicago-st-paul-minneapolis-and-omaha-railway,UNK
+CHICAGO,8603011,26,51,27579196,http://en.wikipedia.org/wiki/Chicago:_Music_from_the_Miramax_Motion_Picture,Chicago: Music from the Miramax Motion Picture,chicago-music-from-the-miramax-motion-picture,chicago-music-from-the-miramax-motion-picture,UNK
+CHICAGO,409663,743,407,10432346;6886;8909849;498362;3143360;425678;26530312;3673503,"http://en.wikipedia.org/wiki/Chicago,_Rock_Island_and_Pacific_Railroad","Chicago, Rock Island and Pacific Railroad",chicago-rock-island-and-pacific-railroad,chicago-rock-island-and-pacific-railroad,UNK
+CHICAGO,20783664,2,78,425678,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee,_St._Paul_and_Pacific_Railroad_Depot_(Madison,_South_Dakota)","Chicago, Milwaukee, St. Paul and Pacific Railroad Depot",chicago-milwaukee-st-paul-and-pacific-railroad-depot,chicago-milwaukee-st-paul-and-pacific-railroad-depot-madison-south-dakota,UNK
+CHICAGO,150201,894,349,6886;326456,http://en.wikipedia.org/wiki/Chicago_Symphony_Orchestra,Chicago Symphony Orchestra,chicago-symphony-orchestra,chicago-symphony-orchestra,UNK
+CHICAGO,950469,564,186,498362;41962;425678;6886,http://en.wikipedia.org/wiki/Chicago_Union_Station,Chicago Union Station,chicago-union-station,chicago-union-station,UNK
+CHICAGO,7197338,0,74,168876,http://en.wikipedia.org/wiki/Chicago_(That_Toddlin'_Town),Chicago,chicago,chicago-that-toddlin-town,UNK
+ABC News,62027,19959,774,11267556;6654;6886;318094;28504;16997347,http://en.wikipedia.org/wiki/American_Broadcasting_Company,American Broadcasting Company,american-broadcasting-company,american-broadcasting-company,ORG
+ABC News,29903002,25,23,318094,http://en.wikipedia.org/wiki/ABC_News_(Albania),ABC News,abc-news,abc-news-albania,ORG
+ABC News,16997347,40,54,62027;318094,http://en.wikipedia.org/wiki/ABC_News_Now_(radio_network),ABC News Now,abc-news-now,abc-news-now-radio-network,UNK
+ABC News,2590577,64,79,4797328,http://en.wikipedia.org/wiki/ABC_News_and_Current_Affairs,ABC News and Current Affairs,abc-news-and-current-affairs,abc-news-and-current-affairs,UNK
+ABC News,4797328,1043,193,2590577;318094,http://en.wikipedia.org/wiki/ABC_News_(Australia),ABC News,abc-news,abc-news-australia,UNK
+ABC News,318094,4451,376,29903002;295504;3356;4797328;5945;16997347;32070;6886;62027;1296149,http://en.wikipedia.org/wiki/ABC_News,ABC News,abc-news,abc-news,UNK
+Bill Clinton,3356,9511,1120,19468510;295504;781322;3356;55846;468102;1296149;318094;25755;43505;5043544;27003223;187633;20132440;32070,http://en.wikipedia.org/wiki/Bill_Clinton,Bill Clinton,bill-clinton,bill-clinton,PER
+Bill Clinton,20132440,4,16,3356,http://en.wikipedia.org/wiki/Little_Bill_Clinton,Little Bill Clinton,little-bill-clinton,little-bill-clinton,UNK
+Bill Clinton,1296149,209,308,19468510;187633;3356;32070;318094;5043544,http://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton,Impeachment of Bill Clinton,impeachment-of-bill-clinton,impeachment-of-bill-clinton,UNK
+Republican,32070,35165,1167,764216;3356;6886;633627;781322;36563663;4880582;11391701;1764584;1831009;32070;9671506;318094;43505;5043544;19468510;295504;746483;3685635;55846;1296149;27003223;2330028;187633,http://en.wikipedia.org/wiki/Republican_Party_(United_States),Republican Party,republican-party,republican-party-united-states,UNK
+Republican,2224239,98,79,1130153;2224206,http://en.wikipedia.org/wiki/New_Zealand_Republican_Party_(1995),New Zealand Republican Party,new-zealand-republican-party,new-zealand-republican-party-1995,UNK
+Republican,23773817,59,29,424689,http://en.wikipedia.org/wiki/Republican_Party_(Estonia),Republican Party,republican-party,republican-party-estonia,ORG
+Republican,746483,27,47,32070,http://en.wikipedia.org/wiki/Republican_In_Name_Only,Republican In Name Only,republican-in-name-only,republican-in-name-only,UNK
+Republican,36930635,7,47,,http://en.wikipedia.org/wiki/Republican_Movement_(Switzerland),Republican Movement,republican-movement,republican-movement-switzerland,UNK
+Republican,268129,88,317,25755;1764584;772738;25536,http://en.wikipedia.org/wiki/Republicanism_in_the_United_Kingdom,Republicanism in the United Kingdom,republicanism-in-the-united-kingdom,republicanism-in-the-united-kingdom,UNK
+Republican,4991766,40,46,,http://en.wikipedia.org/wiki/Republican_Party_(France),Republican Party,republican-party,republican-party-france,UNK
+Republican,163353,117,44,,http://en.wikipedia.org/wiki/Republican_River,Republican River,republican-river,republican-river,UNK
+Republican,35495084,134,156,866140;424689,http://en.wikipedia.org/wiki/Republican_Party_(Tunisia),Republican Party,republican-party,republican-party-tunisia,UNK
+Republican,1764584,221,139,25755;32070;268129;19468510;772738;25536;5043544,http://en.wikipedia.org/wiki/Republicanism_in_the_United_States,Republicanism in the United States,republicanism-in-the-united-states,republicanism-in-the-united-states,UNK
+Republican,28535146,7,27,,http://en.wikipedia.org/wiki/Republican_Party_(Cambodia),Republican Party,republican-party,republican-party-cambodia,ORG
+Republican,11391701,452,280,1831009;55846;32070;4880582,http://en.wikipedia.org/wiki/New_Jersey_Republican_State_Committee,New Jersey Republican State Committee,new-jersey-republican-state-committee,new-jersey-republican-state-committee,UNK
+Republican,1831009,277,269,11391701;55846;32070;1831008;4880582,http://en.wikipedia.org/wiki/Republican_Party_(Northern_Mariana_Islands),Republican Party,republican-party,republican-party-northern-mariana-islands,UNK
+Republican,14090634,24,24,,http://en.wikipedia.org/wiki/Republican_Party_(East_Timor),Republican Party,republican-party,republican-party-east-timor,UNK
+Republican,36022822,1,27,39011948,"http://en.wikipedia.org/wiki/Republican_Party_(Iceland,_1953)",Republican Party,republican-party,republican-party-iceland-1953,UNK
+Republican,1826513,5,16,,http://en.wikipedia.org/wiki/Republican_Movement_(Mauritius),Republican Movement,republican-movement,republican-movement-mauritius,UNK
+Republican,187633,188,218,55846;32070;19468510;187633;5043544;1296149;3356,http://en.wikipedia.org/wiki/Republican_Revolution,Republican Revolution,republican-revolution,republican-revolution,UNK
+Republican,30357010,13,9,,http://en.wikipedia.org/wiki/Republican_Party_(Bolivia),Republican Party,republican-party,republican-party-bolivia,ORG
+Republican,25536,2113,292,772738;25755;34503937;25536;1764584;268129,http://en.wikipedia.org/wiki/Republic,Republic,republic,republic,UNK
+Republican,772738,852,371,772738;25755;25536;1764584;268129,http://en.wikipedia.org/wiki/Irish_republicanism,Irish republicanism,irish-republicanism,irish-republicanism,UNK
+Republican,25823329,15,10,,http://en.wikipedia.org/wiki/Republican_Party_(Panama),Republican Party,republican-party,republican-party-panama,UNK
+Republican,25575725,10,12,,http://en.wikipedia.org/wiki/Republican_Party_(Brazil),Republican Party,republican-party,republican-party-brazil,ORG
+Republican,40808573,7,28,25755,http://en.wikipedia.org/wiki/Republican_Party_(China),Republican Party,republican-party,republican-party-china,UNK
+Republican,1765880,24,23,,http://en.wikipedia.org/wiki/Republican_Party_(Malawi),Republican Party,republican-party,republican-party-malawi,UNK
+Republican,2730695,22,26,,http://en.wikipedia.org/wiki/Republican_Movement_(Ireland),Republican Movement,republican-movement,republican-movement-ireland,UNK
+Republican,39011948,2,6,36022822,"http://en.wikipedia.org/wiki/Republican_Party_(Iceland,_Current)",Republican Party,republican-party,republican-party-iceland-current,UNK
+Republican,32934828,29,33,,http://en.wikipedia.org/wiki/Republican_Party_(Jamaica),Republican Party,republican-party,republican-party-jamaica,ORG
+Republican,3875470,23,25,,http://en.wikipedia.org/wiki/Republican_Party_(Pakistan),Republican Party,republican-party,republican-party-pakistan,UNK
+Republican,2224206,81,78,2224239;1130153,http://en.wikipedia.org/wiki/New_Zealand_Republican_Party_(1967),New Zealand Republican Party,new-zealand-republican-party,new-zealand-republican-party-1967,UNK
+Republican,4520302,21,36,3133173,http://en.wikipedia.org/wiki/Republican_Party_(Liberia),Republican Party,republican-party,republican-party-liberia,UNK
+Republican,25755,979,227,772738;40808573;25536;3356;1764584;268129,http://en.wikipedia.org/wiki/Republicanism,Republicanism,republicanism,republicanism,UNK
+Republican,19950005,2,14,,http://en.wikipedia.org/wiki/Republican_Building_(Jinan),Republican Building,republican-building,republican-building-jinan,UNK
+Republican,4880582,299,455,1831009;11391701;55846;32070,http://en.wikipedia.org/wiki/Republican_Party_(Puerto_Rico),Republican Party,republican-party,republican-party-puerto-rico,ORG
+Republican,1826884,45,26,,http://en.wikipedia.org/wiki/Republican_Party_(Namibia),Republican Party,republican-party,republican-party-namibia,UNK
+Republican,3685635,198,114,32070,"http://en.wikipedia.org/wiki/The_Republican_(Springfield,_Massachusetts)",The Republican,the-republican,the-republican-springfield-massachusetts,UNK
+Republican,2228574,71,72,,http://en.wikipedia.org/wiki/Republican_Movement_(Colombia),Republican Movement,republican-movement,republican-movement-colombia,UNK
+Republican,33017764,243,197,,"http://en.wikipedia.org/wiki/Republican_Stadium,_Yerevan","Republican Stadium, Yerevan",republican-stadium-yerevan,republican-stadium-yerevan,UNK
+Republican,639307,7,10,,http://en.wikipedia.org/wiki/Republican_Party_(Canada),Republican Party,republican-party,republican-party-canada,ORG
+Republican,29747095,52,88,,http://en.wikipedia.org/wiki/Republican_Party_(Turkey),Republican Party,republican-party,republican-party-turkey,ORG
+Republican,1656176,14,19,,http://en.wikipedia.org/wiki/Republican_Party_(Abkhazia),Republican Party,republican-party,republican-party-abkhazia,UNK
+Bob Dole,55846,1268,719,19468510;1831009;43505;32070;295504;187633;3356;11391701;4880582;5043544,http://en.wikipedia.org/wiki/Bob_Dole,Bob Dole,bob-dole,bob-dole,UNK
+Democratic Convention,468102,1352,366,3356;5043544,http://en.wikipedia.org/wiki/Democratic_National_Convention,Democratic National Convention,democratic-national-convention,democratic-national-convention,UNK
+Democratic Convention,11994055,5,25,11994055,http://en.wikipedia.org/wiki/Democratic_Convention_(France),Democratic Convention,democratic-convention,democratic-convention-france,UNK
+Democratic Convention,2604877,62,60,,http://en.wikipedia.org/wiki/National_Democratic_Convention_(South_Africa),National Democratic Convention,national-democratic-convention,national-democratic-convention-south-africa,UNK
+Chicago,6886,34752,1613,11267556;425678;5945;6654;6886;9144003;409663;150201;950469;32070;318094;5043544;41962;326456;168876;19468510;498362;62027,http://en.wikipedia.org/wiki/Chicago,Chicago,chicago,chicago,UNK
+Chicago,11267556,248,178,6654;62027;6886,http://en.wikipedia.org/wiki/Chicago_(magazine),Chicago,chicago,chicago-magazine,ORG
+Chicago,8909849,34,134,498362;3143360;425678;409663,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee,_St._Paul_and_Pacific_Depot_Freight_House_and_Train_Shed","Chicago, Milwaukee, St. Paul and Pacific Depot Freight House and Train Shed",chicago-milwaukee-st-paul-and-pacific-depot-freight-house-and-train-shed,chicago-milwaukee-st-paul-and-pacific-depot-freight-house-and-train-shed,UNK
+Chicago,326456,3178,851,5945;6654;41962;623149;27003223;150201;6886;326456,http://en.wikipedia.org/wiki/Chicago_metropolitan_area,Chicago metropolitan area,chicago-metropolitan-area,chicago-metropolitan-area,UNK
+Chicago,24702353,1,80,,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee_and_St._Paul_Freight_House","Chicago, Milwaukee and St. Paul Freight House",chicago-milwaukee-and-st-paul-freight-house,chicago-milwaukee-and-st-paul-freight-house,UNK
+Chicago,3673503,57,4,409663,"http://en.wikipedia.org/wiki/Chicago,_Kansas_and_Nebraska_Railway","Chicago, Kansas and Nebraska Railway",chicago-kansas-and-nebraska-railway,chicago-kansas-and-nebraska-railway,UNK
+Chicago,6654,7063,1098,11267556;5945;6654;6886;28417;62027;326456,http://en.wikipedia.org/wiki/Chicago_Cubs,Chicago Cubs,chicago-cubs,chicago-cubs,UNK
+Chicago,6050234,165,49,,http://en.wikipedia.org/wiki/Chicago_(pool),Chicago,chicago,chicago-pool,UNK
+Chicago,5945,5920,941,28417;5945;6654;6886;326456;318094,http://en.wikipedia.org/wiki/Chicago_White_Sox,Chicago White Sox,chicago-white-sox,chicago-white-sox,UNK
+Chicago,10123843,0,22,9144003,"http://en.wikipedia.org/wiki/Chicago,_Danville_and_Vincennes_Railroad_(Indiana_Division)","Chicago, Danville and Vincennes Railroad",chicago-danville-and-vincennes-railroad,chicago-danville-and-vincennes-railroad-indiana-division,UNK
+Chicago,9078088,3,85,9518214;498362,"http://en.wikipedia.org/wiki/Chicago,_Burlington_and_Quincy_Railroad_Depot_(Oregon,_Illinois)","Chicago, Burlington and Quincy Railroad Depot",chicago-burlington-and-quincy-railroad-depot,chicago-burlington-and-quincy-railroad-depot-oregon-illinois,UNK
+Chicago,8483895,14,82,,http://en.wikipedia.org/wiki/Chicago_(Prison_Break),Chicago,chicago,chicago-prison-break,UNK
+Chicago,425678,842,358,20783664;409663;10432346;6886;8909849;498362;3143360;950469;425678;20784347;26530312,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee,_St._Paul_and_Pacific_Railroad","Chicago, Milwaukee, St. Paul and Pacific Railroad",chicago-milwaukee-st-paul-and-pacific-railroad,chicago-milwaukee-st-paul-and-pacific-railroad,UNK
+Chicago,9144003,9,19,10123843;6886,"http://en.wikipedia.org/wiki/Chicago,_Danville_and_Vincennes_Railroad","Chicago, Danville and Vincennes Railroad",chicago-danville-and-vincennes-railroad,chicago-danville-and-vincennes-railroad,UNK
+Chicago,9518214,0,6,9119565;498362;9078088,"http://en.wikipedia.org/wiki/Chicago,_Burlington_and_Quincy_Railroad_Depot","Chicago, Burlington and Quincy Railroad Depot",chicago-burlington-and-quincy-railroad-depot,chicago-burlington-and-quincy-railroad-depot,UNK
+Chicago,2051381,50,11,10432346,"http://en.wikipedia.org/wiki/Chicago,_Missouri_and_Western_Railway","Chicago, Missouri and Western Railway",chicago-missouri-and-western-railway,chicago-missouri-and-western-railway,UNK
+Chicago,26530312,251,250,498362;3143360;409663;425678,"http://en.wikipedia.org/wiki/Chicago,_Indiana_and_Southern_Railroad","Chicago, Indiana and Southern Railroad",chicago-indiana-and-southern-railroad,chicago-indiana-and-southern-railroad,UNK
+Chicago,168876,950,201,7197338;6886,http://en.wikipedia.org/wiki/Chicago_(band),Chicago,chicago,chicago-band,UNK
+Chicago,16640432,6,13,,http://en.wikipedia.org/wiki/Chicago_(manga),Chicago,chicago,chicago-manga,UNK
+Chicago,10432346,146,162,498362;2051381;409663;425678,"http://en.wikipedia.org/wiki/Chicago,_Fort_Wayne_and_Eastern_Railroad","Chicago, Fort Wayne and Eastern Railroad",chicago-fort-wayne-and-eastern-railroad,chicago-fort-wayne-and-eastern-railroad,UNK
+Chicago,41962,375,180,950469;326456;6886,http://en.wikipedia.org/wiki/Chicago_River,Chicago River,chicago-river,chicago-river,UNK
+Chicago,498362,865,352,9078088;27838149;409663;10432346;6886;8909849;3143360;9518214;950469;425678;26530312,"http://en.wikipedia.org/wiki/Chicago,_Burlington_and_Quincy_Railroad","Chicago, Burlington and Quincy Railroad",chicago-burlington-and-quincy-railroad,chicago-burlington-and-quincy-railroad,UNK
+Chicago,27838149,1,22,498362,"http://en.wikipedia.org/wiki/Chicago,_Burlington_&_Quincy_Railroad_Co._v._City_of_Chicago","Chicago, Burlington & Quincy Railroad Co. v. City of Chicago",chicago-burlington-quincy-railroad-co-v-city-of-chicago,chicago-burlington-quincy-railroad-co-v-city-of-chicago,UNK
+Chicago,10950220,4,9,10950220,http://en.wikipedia.org/wiki/Chicago_(art_magazine),Chicago,chicago,chicago-art-magazine,ORG
+Chicago,20784347,2,79,425678,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee_and_St._Paul_Passenger_Depot","Chicago, Milwaukee and St. Paul Passenger Depot",chicago-milwaukee-and-st-paul-passenger-depot,chicago-milwaukee-and-st-paul-passenger-depot,UNK
+Chicago,9119565,1,84,9518214,"http://en.wikipedia.org/wiki/Chicago,_Burlington_&_Quincy_Railroad_Station_(Canton,_Illinois)","Chicago, Burlington & Quincy Railroad Station",chicago-burlington-quincy-railroad-station,chicago-burlington-quincy-railroad-station-canton-illinois,UNK
+Chicago,27579196,31,28,8603011,http://en.wikipedia.org/wiki/Chicago_(play),Chicago,chicago,chicago-play,ORG
+Chicago,20795050,0,79,,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee,_St._Paul_and_Pacific_Depot_–_Delmar","Chicago, Milwaukee, St. Paul and Pacific Depot – Delmar",chicago-milwaukee-st-paul-and-pacific-depot-–-delmar,chicago-milwaukee-st-paul-and-pacific-depot-–-delmar,UNK
+Chicago,3143360,371,276,8909849;498362;409663;425678;26530312,"http://en.wikipedia.org/wiki/Chicago,_St._Paul,_Minneapolis_and_Omaha_Railway","Chicago, St. Paul, Minneapolis and Omaha Railway",chicago-st-paul-minneapolis-and-omaha-railway,chicago-st-paul-minneapolis-and-omaha-railway,UNK
+Chicago,8603011,26,51,27579196,http://en.wikipedia.org/wiki/Chicago:_Music_from_the_Miramax_Motion_Picture,Chicago: Music from the Miramax Motion Picture,chicago-music-from-the-miramax-motion-picture,chicago-music-from-the-miramax-motion-picture,UNK
+Chicago,409663,743,407,10432346;6886;8909849;498362;3143360;425678;26530312;3673503,"http://en.wikipedia.org/wiki/Chicago,_Rock_Island_and_Pacific_Railroad","Chicago, Rock Island and Pacific Railroad",chicago-rock-island-and-pacific-railroad,chicago-rock-island-and-pacific-railroad,UNK
+Chicago,20783664,2,78,425678,"http://en.wikipedia.org/wiki/Chicago,_Milwaukee,_St._Paul_and_Pacific_Railroad_Depot_(Madison,_South_Dakota)","Chicago, Milwaukee, St. Paul and Pacific Railroad Depot",chicago-milwaukee-st-paul-and-pacific-railroad-depot,chicago-milwaukee-st-paul-and-pacific-railroad-depot-madison-south-dakota,UNK
+Chicago,150201,894,349,6886;326456,http://en.wikipedia.org/wiki/Chicago_Symphony_Orchestra,Chicago Symphony Orchestra,chicago-symphony-orchestra,chicago-symphony-orchestra,UNK
+Chicago,950469,564,186,498362;41962;425678;6886,http://en.wikipedia.org/wiki/Chicago_Union_Station,Chicago Union Station,chicago-union-station,chicago-union-station,UNK
+Chicago,7197338,0,74,168876,http://en.wikipedia.org/wiki/Chicago_(That_Toddlin'_Town),Chicago,chicago,chicago-that-toddlin-town,UNK
+Ross Perot,43505,547,196,2330028;19468510;3356;55846;32070;295504;5043544,http://en.wikipedia.org/wiki/Ross_Perot,Ross Perot,ross-perot,ross-perot,PER
+Ross Perot,2330028,18,27,32070;43505,"http://en.wikipedia.org/wiki/Ross_Perot,_Jr.","Ross Perot, Jr.",ross-perot-jr,ross-perot-jr,PER
+Reform Party,295504,897,176,19468510;43505;32070;3356;55846;318094;36563663;5043544,http://en.wikipedia.org/wiki/Reform_Party_of_the_United_States_of_America,Reform Party of the United States of America,reform-party-of-the-united-states-of-america,reform-party-of-the-united-states-of-america,UNK
+Reform Party,18522917,53,33,18522917,http://en.wikipedia.org/wiki/Reform_Party_(Singapore),Reform Party,reform-party,reform-party-singapore,UNK
+Reform Party,7173333,23,25,,http://en.wikipedia.org/wiki/Freedom_and_Reform_Party,Freedom and Reform Party,freedom-and-reform-party,freedom-and-reform-party,UNK
+Reform Party,32446328,71,35,,http://en.wikipedia.org/wiki/Reform_Party_(Latvia),Reform Party,reform-party,reform-party-latvia,ORG
+Reform Party,566799,18,191,,http://en.wikipedia.org/wiki/Reform_Party_(Gibraltar),Reform Party,reform-party,reform-party-gibraltar,UNK
+Reform Party,17181688,5,13,25867605,http://en.wikipedia.org/wiki/Reform_Party_(Norway),Reform Party,reform-party,reform-party-norway,UNK
+Reform Party,424689,253,197,23773817;866140;35495084,http://en.wikipedia.org/wiki/Estonian_Reform_Party,Estonian Reform Party,estonian-reform-party,estonian-reform-party,ORG
+Reform Party,1831008,8,15,1831009,http://en.wikipedia.org/wiki/Reform_Party_(Northern_Mariana_Islands),Reform Party,reform-party,reform-party-northern-mariana-islands,UNK
+Reform Party,3276195,8,12,,http://en.wikipedia.org/wiki/Reform_Party_(Palestine),Reform Party,reform-party,reform-party-palestine,UNK
+Reform Party,216395,973,185,,http://en.wikipedia.org/wiki/Reform_Party_of_Canada,Reform Party of Canada,reform-party-of-canada,reform-party-of-canada,ORG
+Reform Party,25867605,8,15,17181688,"http://en.wikipedia.org/wiki/Reform_Party_(Norway,_1974)",Reform Party,reform-party,reform-party-norway-1974,UNK
+Reform Party,11254905,513,306,,http://en.wikipedia.org/wiki/Reform_Party_(South_Africa),Reform Party,reform-party,reform-party-south-africa,UNK
+Reform Party,1725091,82,36,,http://en.wikipedia.org/wiki/National_Reform_Party_(Ghana),National Reform Party,national-reform-party,national-reform-party-ghana,UNK
+Reform Party,1130153,469,114,2224206;2224239,http://en.wikipedia.org/wiki/New_Zealand_Reform_Party,New Zealand Reform Party,new-zealand-reform-party,new-zealand-reform-party,UNK
+Reform Party,36563663,22,13,5043544;32070;295504,http://en.wikipedia.org/wiki/Reform_Party_(19th-century_Wisconsin),Reform Party,reform-party,reform-party-19th-century-wisconsin,ORG
+ABC,62027,19959,774,11267556;6654;6886;318094;28504;16997347,http://en.wikipedia.org/wiki/American_Broadcasting_Company,American Broadcasting Company,american-broadcasting-company,american-broadcasting-company,ORG
+ABC,29903002,25,23,318094,http://en.wikipedia.org/wiki/ABC_News_(Albania),ABC News,abc-news,abc-news-albania,ORG
+ABC,16997347,40,54,62027;318094,http://en.wikipedia.org/wiki/ABC_News_Now_(radio_network),ABC News Now,abc-news-now,abc-news-now-radio-network,UNK
+ABC,2590577,64,79,4797328,http://en.wikipedia.org/wiki/ABC_News_and_Current_Affairs,ABC News and Current Affairs,abc-news-and-current-affairs,abc-news-and-current-affairs,UNK
+ABC,4797328,1043,193,2590577;318094,http://en.wikipedia.org/wiki/ABC_News_(Australia),ABC News,abc-news,abc-news-australia,UNK
+ABC,318094,4451,376,29903002;295504;3356;4797328;5945;16997347;32070;6886;62027;1296149,http://en.wikipedia.org/wiki/ABC_News,ABC News,abc-news,abc-news,UNK
+San Diego,28504,9713,1036,623149;263650;32016569;286083;574666;5043544;615377;28417;28504;27003223;922066;151173;4870046;31927;6600912;62027;2702810,http://en.wikipedia.org/wiki/San_Diego,San Diego,san-diego,san-diego,GPE
+San Diego,2345668,11,16,,"http://en.wikipedia.org/wiki/San_Diego,_Zacapa","San Diego, Zacapa",san-diego-zacapa,san-diego-zacapa,GPE
+San Diego,151173,309,386,28504,"http://en.wikipedia.org/wiki/San_Diego,_Texas","San Diego, Texas",san-diego-texas,san-diego-texas,GPE
+San Diego,286083,1785,351,286083;28417;28504;574666;27003223;31927,http://en.wikipedia.org/wiki/San_Diego_State_University,San Diego State University,san-diego-state-university,san-diego-state-university,ORG
+San Diego,1105924,8,8,2702810;16452438,"http://en.wikipedia.org/wiki/San_Diego,_Carabobo","San Diego, Carabobo",san-diego-carabobo,san-diego-carabobo,UNK
+San Diego,22382955,70,77,,"http://en.wikipedia.org/wiki/San_Diego,_Distrito_Nacional","San Diego, Distrito Nacional",san-diego-distrito-nacional,san-diego-distrito-nacional,GPE
+San Diego,18765549,17,37,615377,http://en.wikipedia.org/wiki/USS_San_Diego_(AFS-6),USS San Diego,uss-san-diego,uss-san-diego-afs-6,UNK
+San Diego,31927,1876,501,286083;28504;574666;27003223;31927,"http://en.wikipedia.org/wiki/University_of_California,_San_Diego","University of California, San Diego",university-of-california-san-diego,university-of-california-san-diego,ORG
+San Diego,28417,3743,598,28417;28504;623149;27003223;922066;263650;286083;5945;6654;574666,http://en.wikipedia.org/wiki/San_Diego_Padres,San Diego Padres,san-diego-padres,san-diego-padres,UNK
+San Diego,29609330,1,10,29609330,http://en.wikipedia.org/wiki/San_Diego_(Bogotá),San Diego,san-diego,san-diego-bogota,UNK
+San Diego,623149,226,253,922066;1716205;28417;326456;28504;574666;27003223;263650,http://en.wikipedia.org/wiki/Marine_Corps_Recruit_Depot_San_Diego,Marine Corps Recruit Depot San Diego,marine-corps-recruit-depot-san-diego,marine-corps-recruit-depot-san-diego,UNK
+San Diego,615377,8,3,614231;28504;18765549;1716205,http://en.wikipedia.org/wiki/USS_San_Diego,USS San Diego,uss-san-diego,uss-san-diego,UNK
+San Diego,4870046,99,49,28504,http://en.wikipedia.org/wiki/San_Diego_Opera,San Diego Opera,san-diego-opera,san-diego-opera,UNK
+San Diego,27003223,2773,756,19468510;286083;17736759;5043544;28417;28504;574666;623149;27003223;32070;31927;922066;6600912;326456;3356;263650;2702810,"http://en.wikipedia.org/wiki/San_Diego_County,_California","San Diego County, California",san-diego-county-california,san-diego-county-california,GPE
+San Diego,574666,671,220,286083;28417;28504;623149;27003223;31927;922066,http://en.wikipedia.org/wiki/University_of_San_Diego,University of San Diego,university-of-san-diego,university-of-san-diego,ORG
+San Diego,1716205,22,37,623149;615377,http://en.wikipedia.org/wiki/USS_San_Diego_(LPD-22),USS San Diego,uss-san-diego,uss-san-diego-lpd-22,UNK
+San Diego,263650,252,190,922066;28417;28504;623149;27003223,http://en.wikipedia.org/wiki/San_Diego_International_Airport,San Diego International Airport,san-diego-international-airport,san-diego-international-airport,UNK
+San Diego,21558831,0,1,,"http://en.wikipedia.org/wiki/San_Diego,_San_Pablo","San Diego, San Pablo",san-diego-san-pablo,san-diego-san-pablo,UNK
+San Diego,9394913,39,32,,"http://en.wikipedia.org/wiki/San_Diego,_Cesar","San Diego, Cesar",san-diego-cesar,san-diego-cesar,GPE
+San Diego,32016569,89,139,28504,http://en.wikipedia.org/wiki/The_Real_World:_San_Diego_(2011),The Real World: San Diego,the-real-world-san-diego,the-real-world-san-diego-2011,UNK
+San Diego,2702810,104,55,922066;28504;27003223;1105924,http://en.wikipedia.org/wiki/San_Diego_River,San Diego River,san-diego-river,san-diego-river,UNK
+San Diego,20398616,2,4,,http://en.wikipedia.org/wiki/San_Diego_River_(Cuba),San Diego River,san-diego-river,san-diego-river-cuba,UNK
+San Diego,922066,270,60,2702810;28417;28504;574666;623149;27003223;263650,http://en.wikipedia.org/wiki/San_Diego_Bay,San Diego Bay,san-diego-bay,san-diego-bay,UNK
+San Diego,16452438,6,14,1105924,http://en.wikipedia.org/wiki/San_Diego_Municipality,San Diego Municipality,san-diego-municipality,san-diego-municipality,UNK
+San Diego,614231,30,93,615377,http://en.wikipedia.org/wiki/USS_San_Diego_(CL-53),USS San Diego,uss-san-diego,uss-san-diego-cl-53,UNK
+San Diego,6600912,50,72,28504;27003223,http://en.wikipedia.org/wiki/San_Diego_Gas_&_Electric,San Diego Gas & Electric,san-diego-gas-electric,san-diego-gas-electric,UNK
+San Diego,17736759,3,23,27003223,"http://en.wikipedia.org/wiki/San_Diego_County,_California_Probation","San Diego County, California Probation",san-diego-county-california-probation,san-diego-county-california-probation,UNK
+Perot,43505,547,196,2330028;19468510;3356;55846;32070;295504;5043544,http://en.wikipedia.org/wiki/Ross_Perot,Ross Perot,ross-perot,ross-perot,PER
+Perot,2330028,18,27,32070;43505,"http://en.wikipedia.org/wiki/Ross_Perot,_Jr.","Ross Perot, Jr.",ross-perot-jr,ross-perot-jr,PER
+Democrats,5043544,35912,1060,764216;3356;6886;633627;4176146;781322;36563663;468102;28504;1764584;32070;43505;5043544;19468510;295504;55846;1296149;27003223;187633,http://en.wikipedia.org/wiki/Democratic_Party_(United_States),Democratic Party,democratic-party,democratic-party-united-states,UNK
+Democrats,23780798,4,12,23679275,"http://en.wikipedia.org/wiki/National_Democrats_(Norway,_1991)",National Democrats,national-democrats,national-democrats-norway-1991,UNK
+Democrats,36115456,111,77,,http://en.wikipedia.org/wiki/Democrats_(Greece),Democrats,democrats,democrats-greece,UNK
+Democrats,4176146,159,161,5043544,http://en.wikipedia.org/wiki/The_Democrats_(Italy),The Democrats,the-democrats,the-democrats-italy,UNK
+Democrats,9671506,165,210,32070,http://en.wikipedia.org/wiki/Democrats_(Brazil),Democrats,democrats,democrats-brazil,ORG
+Democrats,14063683,3,10,,"http://en.wikipedia.org/wiki/Democrats,_Laicists,_Socialists","Democrats, Laicists, Socialists",democrats-laicists-socialists,democrats-laicists-socialists,UNK
+Democrats,23679275,4,13,23780798,http://en.wikipedia.org/wiki/National_Democrats_(Norway),National Democrats,national-democrats,national-democrats-norway,UNK
+Democrats,1175600,8,209,1175600,http://en.wikipedia.org/wiki/National_Democrats_(United_Kingdom),National Democrats,national-democrats,national-democrats-united-kingdom,UNK
+Democrats,1977860,57,102,,http://en.wikipedia.org/wiki/Democrats_in_Norway,Democrats in Norway,democrats-in-norway,democrats-in-norway,UNK
+Democrats,1943,1166,210,61565,http://en.wikipedia.org/wiki/Australian_Democrats,Australian Democrats,australian-democrats,australian-democrats,UNK
+Democrats,25164574,61,72,,http://en.wikipedia.org/wiki/National_Democrats_(Sweden),National Democrats,national-democrats,national-democrats-sweden,UNK
+Democrats,2024828,53,30,,http://en.wikipedia.org/wiki/Democrats_(Greenland),Democrats,democrats,democrats-greenland,UNK
+Democrats,39821306,1,60,,http://en.wikipedia.org/wiki/German_Democrats,German Democrats,german-democrats,german-democrats,GPE
+Democrats,1697640,4,38,,http://en.wikipedia.org/wiki/The_Democrats_(Austria),The Democrats,the-democrats,the-democrats-austria,UNK
+House of Representatives,19468532,40,156,217778;155519;467207;4493312;17617021;3941312;3695977;3645403;4497460;19468510;34503937;1912306;2953789;29739592;3613683;28334445;21055060;2707214;4232934;293605,http://en.wikipedia.org/wiki/House_of_Representatives,House of Representatives,house-of-representatives,house-of-representatives,UNK
+House of Representatives,3941312,55,46,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_of_Belarus,House of Representatives of Belarus,house-of-representatives-of-belarus,house-of-representatives-of-belarus,ORG
+House of Representatives,21055060,33,25,19468532,http://en.wikipedia.org/wiki/Prussian_House_of_Representatives,Prussian House of Representatives,prussian-house-of-representatives,prussian-house-of-representatives,UNK
+House of Representatives,19468510,24027,789,764216;3356;6886;43505;633627;5043544;293605;19468532;295504;55846;1296149;27003223;187633;1764584;32070,http://en.wikipedia.org/wiki/United_States_House_of_Representatives,United States House of Representatives,united-states-house-of-representatives,united-states-house-of-representatives,ORG
+House of Representatives,155519,360,317,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Netherlands),House of Representatives,house-of-representatives,house-of-representatives-netherlands,UNK
+House of Representatives,20083165,2,116,764216,"http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,_127th_General_Assembly","Ohio House of Representatives, 127th General Assembly",ohio-house-of-representatives-127th-general-assembly,ohio-house-of-representatives-127th-general-assembly,PER
+House of Representatives,28334445,10,14,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_of_South_Africa,House of Representatives of South Africa,house-of-representatives-of-south-africa,house-of-representatives-of-south-africa,UNK
+House of Representatives,1912306,116,82,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Egypt),House of Representatives,house-of-representatives,house-of-representatives-egypt,UNK
+House of Representatives,3645403,68,71,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Nigeria),House of Representatives,house-of-representatives,house-of-representatives-nigeria,UNK
+House of Representatives,11277304,2,8,764216,"http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,_82nd_District","Ohio House of Representatives, 82nd District",ohio-house-of-representatives-82nd-district,ohio-house-of-representatives-82nd-district,UNK
+House of Representatives,467207,314,191,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Fiji),House of Representatives,house-of-representatives,house-of-representatives-fiji,ORG
+House of Representatives,4493312,40,46,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Yemen),House of Representatives,house-of-representatives,house-of-representatives-yemen,UNK
+House of Representatives,633627,1371,517,19468510;633627;32070;764216;5043544,http://en.wikipedia.org/wiki/Florida_House_of_Representatives,Florida House of Representatives,florida-house-of-representatives,florida-house-of-representatives,UNK
+House of Representatives,61565,2744,194,1943,http://en.wikipedia.org/wiki/Australian_House_of_Representatives,Australian House of Representatives,australian-house-of-representatives,australian-house-of-representatives,ORG
+House of Representatives,293605,2222,390,19468532;19468510,http://en.wikipedia.org/wiki/House_of_Representatives_of_the_Philippines,House of Representatives of the Philippines,house-of-representatives-of-the-philippines,house-of-representatives-of-the-philippines,ORG
+House of Representatives,4497460,31,89,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Cyprus),House of Representatives,house-of-representatives,house-of-representatives-cyprus,UNK
+House of Representatives,217778,320,308,19468532;217778,http://en.wikipedia.org/wiki/House_of_Representatives_(Japan),House of Representatives,house-of-representatives,house-of-representatives-japan,UNK
+House of Representatives,29739592,56,128,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Burma),House of Representatives,house-of-representatives,house-of-representatives-burma,ORG
+House of Representatives,11244548,4,12,,"http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,_80th_District","Ohio House of Representatives, 80th District",ohio-house-of-representatives-80th-district,ohio-house-of-representatives-80th-district,UNK
+House of Representatives,2953789,40,55,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Belize),House of Representatives,house-of-representatives,house-of-representatives-belize,ORG
+House of Representatives,353844,322,209,,http://en.wikipedia.org/wiki/House_of_Representatives_of_New_Zealand,House of Representatives of New Zealand,house-of-representatives-of-new-zealand,house-of-representatives-of-new-zealand,ORG
+House of Representatives,3695977,80,94,19468532;3613683,http://en.wikipedia.org/wiki/Zanzibar_House_of_Representatives,Zanzibar House of Representatives,zanzibar-house-of-representatives,zanzibar-house-of-representatives,UNK
+House of Representatives,3133173,158,70,4520302,http://en.wikipedia.org/wiki/House_of_Representatives_of_Liberia,House of Representatives of Liberia,house-of-representatives-of-liberia,house-of-representatives-of-liberia,UNK
+House of Representatives,2707214,3,54,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Nepal),House of Representatives,house-of-representatives,house-of-representatives-nepal,UNK
+House of Representatives,34503937,1,12,19468532;25536,http://en.wikipedia.org/wiki/House_of_Representatives_(Kenya),House of Representatives,house-of-representatives,house-of-representatives-kenya,PER
+House of Representatives,13113923,2,15,,"http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,_58th_District","Ohio House of Representatives, 58th District",ohio-house-of-representatives-58th-district,ohio-house-of-representatives-58th-district,UNK
+House of Representatives,3613683,19,96,3695977;19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Somaliland),House of Representatives,house-of-representatives,house-of-representatives-somaliland,GPE
+House of Representatives,4232934,44,106,19468532;866140,http://en.wikipedia.org/wiki/House_of_Representatives_(Thailand),House of Representatives,house-of-representatives,house-of-representatives-thailand,GPE
+House of Representatives,4503449,47,59,,http://en.wikipedia.org/wiki/House_of_Representatives_(Morocco),House of Representatives,house-of-representatives,house-of-representatives-morocco,UNK
+House of Representatives,17617021,7,72,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Ceylon),House of Representatives,house-of-representatives,house-of-representatives-ceylon,UNK
+House of Representatives,764216,1636,356,20083165;19468510;11277304;633627;32070;764216;5043544,http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,Ohio House of Representatives,ohio-house-of-representatives,ohio-house-of-representatives,UNK
+Democrat,5043544,35912,1060,764216;3356;6886;633627;4176146;781322;36563663;468102;28504;1764584;32070;43505;5043544;19468510;295504;55846;1296149;27003223;187633,http://en.wikipedia.org/wiki/Democratic_Party_(United_States),Democratic Party,democratic-party,democratic-party-united-states,UNK
+Democrat,1855143,1,47,1855143,http://en.wikipedia.org/wiki/Democrat_Party_(Peru)_(Nicolini),Democrat Party (Peru),democrat-party-peru,democrat-party-peru-nicolini,UNK
+Democrat,42363729,21,32,42363729,http://en.wikipedia.org/wiki/Democrat_Party_(Chile),Democrat Party,democrat-party,democrat-party-chile,UNK
+Democrat,6760089,59,232,,http://en.wikipedia.org/wiki/Mount_Democrat,Mount Democrat,mount-democrat,mount-democrat,UNK
+Democrat,13712519,42,56,,"http://en.wikipedia.org/wiki/Democrat_Township,_Carroll_County,_Indiana","Democrat Township, Carroll County, Indiana",democrat-township-carroll-county-indiana,democrat-township-carroll-county-indiana,GPE
+Democrat,32196168,165,171,,"http://en.wikipedia.org/wiki/Democrat,_California","Democrat, California",democrat-california,democrat-california,UNK
+Democrat,39651783,0,4,,http://en.wikipedia.org/wiki/The_Democrat,The Democrat,the-democrat,the-democrat,UNK
+Democrat,28065226,51,278,,http://en.wikipedia.org/wiki/Democrat_Building,Democrat Building,democrat-building,democrat-building,UNK
+Democrat,866140,271,108,4232934;424689;35495084,http://en.wikipedia.org/wiki/Democrat_Party_(Thailand),Democrat Party,democrat-party,democrat-party-thailand,GPE
+Democrat,781322,6,75,3356;5043544;32070,http://en.wikipedia.org/wiki/Democrat_Party_(epithet),Democrat Party,democrat-party,democrat-party-epithet,UNK
+Democrat,1846388,3,45,,http://en.wikipedia.org/wiki/Democrat_Party_(Peru),Democrat Party,democrat-party,democrat-party-peru,UNK

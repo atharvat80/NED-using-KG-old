@@ -1,0 +1,32 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Heidrun,2594976,40,48,11866976;87438,http://en.wikipedia.org/wiki/Heidrun_oil_field,Heidrun oil field,heidrun-oil-field,heidrun-oil-field,UNK
+Heidrun,87438,8,21,2594976,http://en.wikipedia.org/wiki/Heiðrún,Heiðrún,heidrun,heidrun,UNK
+Statoil,11866976,629,364,2594976;22309,http://en.wikipedia.org/wiki/Statoil,Statoil,statoil,statoil,UNK
+OSLO,22309,12573,884,8564656;3818308;179081;11866976;36806601;22309;34444451;31800,http://en.wikipedia.org/wiki/Oslo,Oslo,oslo,oslo,GPE
+OSLO,31800,2175,196,22309;31800,http://en.wikipedia.org/wiki/University_of_Oslo,University of Oslo,university-of-oslo,university-of-oslo,ORG
+OSLO,179081,421,414,3818308;22309,"http://en.wikipedia.org/wiki/Oslo_Airport,_Gardermoen","Oslo Airport, Gardermoen",oslo-airport-gardermoen,oslo-airport-gardermoen,UNK
+OSLO,34444451,15,49,22309,http://en.wikipedia.org/wiki/Oslo_IL,Oslo IL,oslo-il,oslo-il,UNK
+OSLO,16071498,25,30,,"http://en.wikipedia.org/wiki/Oslo,_Florida","Oslo, Florida",oslo-florida,oslo-florida,GPE
+OSLO,31835516,22,16,,"http://en.wikipedia.org/wiki/Oslo,_August_31st","Oslo, August 31st",oslo-august-31st,oslo-august-31st,UNK
+OSLO,3818308,195,287,22309;179081,"http://en.wikipedia.org/wiki/Oslo_Airport,_Fornebu","Oslo Airport, Fornebu",oslo-airport-fornebu,oslo-airport-fornebu,UNK
+OSLO,36806601,687,274,22309,http://en.wikipedia.org/wiki/Oslo_Accords,Oslo Accords,oslo-accords,oslo-accords,UNK
+OSLO,42164797,1,9,,http://en.wikipedia.org/wiki/Oslo_(Hackney),Oslo,oslo,oslo-hackney,UNK
+OSLO,120699,72,136,,"http://en.wikipedia.org/wiki/Oslo,_Minnesota","Oslo, Minnesota",oslo-minnesota,oslo-minnesota,GPE
+OSLO,12654410,0,26,,http://en.wikipedia.org/wiki/Oslo_Center,Oslo Center,oslo-center,oslo-center,ORG
+OSLO,8564656,8,4,22309,http://en.wikipedia.org/wiki/Oslo_City,Oslo City,oslo-city,oslo-city,UNK
+OSLO,10764982,8,14,,http://en.wikipedia.org/wiki/Oslo_(band),Oslo,oslo,oslo-band,UNK
+OSLO,16075494,3,26,16075494,http://en.wikipedia.org/wiki/Oslo_(Microsoft),Oslo,oslo,oslo-microsoft,UNK
+Oslo,22309,12573,884,8564656;3818308;179081;11866976;36806601;22309;34444451;31800,http://en.wikipedia.org/wiki/Oslo,Oslo,oslo,oslo,GPE
+Oslo,31800,2175,196,22309;31800,http://en.wikipedia.org/wiki/University_of_Oslo,University of Oslo,university-of-oslo,university-of-oslo,ORG
+Oslo,179081,421,414,3818308;22309,"http://en.wikipedia.org/wiki/Oslo_Airport,_Gardermoen","Oslo Airport, Gardermoen",oslo-airport-gardermoen,oslo-airport-gardermoen,UNK
+Oslo,34444451,15,49,22309,http://en.wikipedia.org/wiki/Oslo_IL,Oslo IL,oslo-il,oslo-il,UNK
+Oslo,16071498,25,30,,"http://en.wikipedia.org/wiki/Oslo,_Florida","Oslo, Florida",oslo-florida,oslo-florida,GPE
+Oslo,31835516,22,16,,"http://en.wikipedia.org/wiki/Oslo,_August_31st","Oslo, August 31st",oslo-august-31st,oslo-august-31st,UNK
+Oslo,3818308,195,287,22309;179081,"http://en.wikipedia.org/wiki/Oslo_Airport,_Fornebu","Oslo Airport, Fornebu",oslo-airport-fornebu,oslo-airport-fornebu,UNK
+Oslo,36806601,687,274,22309,http://en.wikipedia.org/wiki/Oslo_Accords,Oslo Accords,oslo-accords,oslo-accords,UNK
+Oslo,42164797,1,9,,http://en.wikipedia.org/wiki/Oslo_(Hackney),Oslo,oslo,oslo-hackney,UNK
+Oslo,120699,72,136,,"http://en.wikipedia.org/wiki/Oslo,_Minnesota","Oslo, Minnesota",oslo-minnesota,oslo-minnesota,GPE
+Oslo,12654410,0,26,,http://en.wikipedia.org/wiki/Oslo_Center,Oslo Center,oslo-center,oslo-center,ORG
+Oslo,8564656,8,4,22309,http://en.wikipedia.org/wiki/Oslo_City,Oslo City,oslo-city,oslo-city,UNK
+Oslo,10764982,8,14,,http://en.wikipedia.org/wiki/Oslo_(band),Oslo,oslo,oslo-band,UNK
+Oslo,16075494,3,26,16075494,http://en.wikipedia.org/wiki/Oslo_(Microsoft),Oslo,oslo,oslo-microsoft,UNK

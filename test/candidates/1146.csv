@@ -1,0 +1,14 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Bahraini,18933277,6688,721,21117206;20481;12835613;10518140;18933277,http://en.wikipedia.org/wiki/Bahrain,Bahrain,bahrain,bahrain,GPE
+Bahraini,12835613,355,362,18933277,http://en.wikipedia.org/wiki/Bahraini_cuisine,Bahraini cuisine,bahraini-cuisine,bahraini-cuisine,ORG
+MANAMA,20481,1052,477,18933277;16290997;10518140,http://en.wikipedia.org/wiki/Manama,Manama,manama,manama,GPE
+MANAMA,10518140,61,37,20481;18933277,http://en.wikipedia.org/wiki/Manama_Club,Manama Club,manama-club,manama-club,GPE
+MANAMA,21407678,36,54,28360756,"http://en.wikipedia.org/wiki/Manama,_Zimbabwe","Manama, Zimbabwe",manama-zimbabwe,manama-zimbabwe,GPE
+MANAMA,16290997,15,18,20481,"http://en.wikipedia.org/wiki/Manama,_Ajman","Manama, Ajman",manama-ajman,manama-ajman,UNK
+MANAMA,28360756,34,52,21407678,http://en.wikipedia.org/wiki/Manama_(village),Manama,manama,manama-village,GPE
+al-Daih,21117206,11,8,18933277,http://en.wikipedia.org/wiki/Al_Daih,Al Daih,al-daih,al-daih,GPE
+Manama,20481,1052,477,18933277;16290997;10518140,http://en.wikipedia.org/wiki/Manama,Manama,manama,manama,GPE
+Manama,10518140,61,37,20481;18933277,http://en.wikipedia.org/wiki/Manama_Club,Manama Club,manama-club,manama-club,GPE
+Manama,21407678,36,54,28360756,"http://en.wikipedia.org/wiki/Manama,_Zimbabwe","Manama, Zimbabwe",manama-zimbabwe,manama-zimbabwe,GPE
+Manama,16290997,15,18,20481,"http://en.wikipedia.org/wiki/Manama,_Ajman","Manama, Ajman",manama-ajman,manama-ajman,UNK
+Manama,28360756,34,52,21407678,http://en.wikipedia.org/wiki/Manama_(village),Manama,manama,manama-village,GPE

@@ -1,0 +1,460 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Mother Teresa,347105,1016,611,264434;1222409;29122088;28130294;32408;1744003;345921;47905;738;14533;236912;18940550;2927;2582228;29618;606848;26230922;29265;392006;13393;13543,http://en.wikipedia.org/wiki/Mother_Teresa,Mother Teresa,mother-teresa,mother-teresa,UNK
+Mother Teresa,28130294,3,116,347105;738,http://en.wikipedia.org/wiki/Mother_Teresa_Hospital_(Tirana),Mother Teresa Hospital,mother-teresa-hospital,mother-teresa-hospital-tirana,UNK
+Mother Teresa,42207377,0,6,,"http://en.wikipedia.org/wiki/Mother_Teresa_School,_Raebareli","Mother Teresa School, Raebareli",mother-teresa-school-raebareli,mother-teresa-school-raebareli,ORG
+CALCUTTA,47905,6465,866,51585;226310;3434750;9690013;3574003;2916789;408215;347105;407754;345921;37756;519610;129041;9665846;738406;2247213;3816837;14335981;25936454;47905;4208015;13677;13543;5908948;14533;31717;26230922,http://en.wikipedia.org/wiki/Kolkata,Kolkata,kolkata,kolkata,GPE
+CALCUTTA,14335981,3,8,47905,"http://en.wikipedia.org/wiki/Calcutta,_Belize","Calcutta, Belize",calcutta-belize,calcutta-belize,UNK
+CALCUTTA,25936454,77,80,47905,"http://en.wikipedia.org/wiki/Calcutta,_Suriname","Calcutta, Suriname",calcutta-suriname,calcutta-suriname,GPE
+CALCUTTA,9690013,172,5,738406;14533;519610;345921;47905,http://en.wikipedia.org/wiki/Calcutta_Club,Calcutta Club,calcutta-club,calcutta-club,ORG
+CALCUTTA,129041,59,73,3434750;47905,"http://en.wikipedia.org/wiki/Calcutta,_Ohio","Calcutta, Ohio",calcutta-ohio,calcutta-ohio,GPE
+CALCUTTA,9665846,7,363,14533;47905,http://en.wikipedia.org/wiki/Calcutta_Group,Calcutta Group,calcutta-group,calcutta-group,PER
+CALCUTTA,25461708,3,34,,http://en.wikipedia.org/wiki/Calcutta_(band),Calcutta,calcutta,calcutta-band,UNK
+CALCUTTA,65572,6,7,4721,http://en.wikipedia.org/wiki/Calcutta_auction,Calcutta auction,calcutta-auction,calcutta-auction,UNK
+CALCUTTA,28136882,11,33,14533,http://en.wikipedia.org/wiki/Calcutta_(Taxi_Taxi_Taxi),Calcutta,calcutta,calcutta-taxi-taxi-taxi,UNK
+CALCUTTA,519610,1537,610,9690013;3816837;345921;29969064;47905;5908948;4208015;519610;226310;738406,http://en.wikipedia.org/wiki/University_of_Calcutta,University of Calcutta,university-of-calcutta,university-of-calcutta,ORG
+CALCUTTA,2916789,34,48,3434750;47905,"http://en.wikipedia.org/wiki/Calcutta,_West_Virginia","Calcutta, West Virginia",calcutta-west-virginia,calcutta-west-virginia,GPE
+Nobel Peace Prize,26230922,2434,99,47905;236912;606848;347105;29122088;41537643,http://en.wikipedia.org/wiki/Nobel_Peace_Prize,Nobel Peace Prize,nobel-peace-prize,nobel-peace-prize,UNK
+Nobel Peace Prize,29122088,155,299,31717;26230922;347105;3434750,http://en.wikipedia.org/wiki/2010_Nobel_Peace_Prize,2010 Nobel Peace Prize,2010-nobel-peace-prize,2010-nobel-peace-prize,ORG
+Albanian,738,13283,853,738;1011001;417945;2927;5843419;11565183;347105;345921;1469407;8504;28130294;3305260;264434;10519050;39683421;18940550;335647;3434750;28968850;2415826;25458;29618;29265;32408;31717;1802100,http://en.wikipedia.org/wiki/Albania,Albania,albania,albania,GPE
+Albanian,3305260,102,100,18940550;738,http://en.wikipedia.org/wiki/Albanian_Wikipedia,Albanian Wikipedia,albanian-wikipedia,albanian-wikipedia,UNK
+Albanian,39683421,7,141,264434;18940550;738;2927,http://en.wikipedia.org/wiki/British_Albanian,British Albanian,british-albanian,british-albanian,UNK
+Albanian,29644482,6,12,18940550;2927,http://en.wikipedia.org/wiki/The_Albanian,The Albanian,the-albanian,the-albanian,UNK
+Albanian,18940550,3406,479,264434;39683421;738;18940550;25458;3434750;29644482;2927;3305260;29618;29265;347105;31717;1802100,http://en.wikipedia.org/wiki/Albanian_language,Albanian language,albanian-language,albanian-language,UNK
+Albanian,10519050,2,71,10519050;738,http://en.wikipedia.org/wiki/Albanian_horse,Albanian horse,albanian-horse,albanian-horse,UNK
+Albanian,264434,329,166,738;347105;18940550;2927;39683421,http://en.wikipedia.org/wiki/Albanian_lek,Albanian lek,albanian-lek,albanian-lek,UNK
+Albanian,1802100,124,72,29618;29265;18940550;738;2927;1802100,http://en.wikipedia.org/wiki/Gheg_Albanian,Gheg Albanian,gheg-albanian,gheg-albanian,UNK
+Albanian,2927,2095,418,264434;39683421;738;18940550;29618;29265;347105;3434750;29644482;345921;417945;2927;31717;5843419;1802100,http://en.wikipedia.org/wiki/Albanians,Albanians,albanians,albanians,UNK
+Albanian,30531764,6,14,,http://en.wikipedia.org/wiki/Albanian_Regiment_(France),Albanian Regiment,albanian-regiment,albanian-regiment-france,UNK
+Albanian,1469407,17,67,25458;738,http://en.wikipedia.org/wiki/Albanian_Airlines,Albanian Airlines,albanian-airlines,albanian-airlines,ORG
+Albanian,11565183,0,4,738,http://en.wikipedia.org/wiki/Albanian_cattle,Albanian cattle,albanian-cattle,albanian-cattle,UNK
+God,5042765,5355,640,5042765;43583;7515857;1813169;173722;1658436;9135463;307365;11003920;1095706;5013815;11932491;13543;5359259;31405;5443021;37972411,http://en.wikipedia.org/wiki/God,God,god,god,UNK
+God,5359259,62,123,5042765;7515857;11003920;11932491;1813169,http://en.wikipedia.org/wiki/God_(word),God,god,god-word,UNK
+God,5184906,4,14,,http://en.wikipedia.org/wiki/God_(sculpture),God,god,god-sculpture,UNK
+God,24867436,8,20,24867436,http://en.wikipedia.org/wiki/God-Building,God-Building,god-building,god-building,ORG
+God,1813169,96,266,5042765;7515857;5359259;27040774;14533;11003920;11932491,http://en.wikipedia.org/wiki/God_(male_deity),God,god,god-male-deity,PER
+God,39569926,117,111,3434750,"http://en.wikipedia.org/wiki/God,_Guns_&_Automobiles","God, Guns & Automobiles",god-guns-automobiles,god-guns-automobiles,UNK
+God,11003920,974,385,5042765;307365;1095706;5359259;364322;606848;37853250;11932491;37825334;7515857;1813169;13543,http://en.wikipedia.org/wiki/God_in_Christianity,God in Christianity,god-in-christianity,god-in-christianity,UNK
+God,8683423,1,2,,"http://en.wikipedia.org/wiki/God,_Sex_&_Apple_Pie","God, Sex & Apple Pie",god-sex-apple-pie,god-sex-apple-pie,UNK
+God,2797193,14,18,,http://en.wikipedia.org/wiki/God_(Australian_band),God,god,god-australian-band,UNK
+God,9135463,1,9,5042765,"http://en.wikipedia.org/wiki/God,_Inc.","God, Inc.",god-inc,god-inc,UNK
+God,91141,93,99,,http://en.wikipedia.org/wiki/God_K,God K,god-k,god-k,PER
+God,1658436,86,43,5042765;31717;3434750,"http://en.wikipedia.org/wiki/God,_the_Devil_and_Bob","God, the Devil and Bob",god-the-devil-and-bob,god-the-devil-and-bob,UNK
+God,17013213,31,41,17013213,http://en.wikipedia.org/wiki/God_(British_band),God,god,god-british-band,UNK
+God,37853250,5,113,13393;11003920;364322;606848;37825334;1095706,http://en.wikipedia.org/wiki/Kingdom_of_God_(Christian_denominational_variations),Kingdom of God,kingdom-of-god,kingdom-of-god-christian-denominational-variations,UNK
+God,4996373,105,48,,http://en.wikipedia.org/wiki/G.o.d.,G.o.d.,god,god,PER
+God,11164326,1,2,,"http://en.wikipedia.org/wiki/God,_Guns_&_Rock_and_Roll","God, Guns & Rock and Roll",god-guns-rock-and-roll,god-guns-rock-and-roll,UNK
+God,10456992,4,6,,"http://en.wikipedia.org/wiki/God,_A_Guide_for_the_Perplexed","God, A Guide for the Perplexed",god-a-guide-for-the-perplexed,god-a-guide-for-the-perplexed,UNK
+God,33819569,1,5,,http://en.wikipedia.org/wiki/God_Bay,God Bay,god-bay,god-bay,UNK
+God,42625839,3,14,,"http://en.wikipedia.org/wiki/God,_Country_and_My_Baby","God, Country and My Baby",god-country-and-my-baby,god-country-and-my-baby,UNK
+God,17545531,2,8,,"http://en.wikipedia.org/wiki/God,_the_Omnipotent!","God, the Omnipotent!",god-the-omnipotent,god-the-omnipotent,UNK
+God,33084080,0,7,,"http://en.wikipedia.org/wiki/God,_No!","God, No!",god-no,god-no,UNK
+God,6725478,5,4,,http://en.wikipedia.org/wiki/God_(play),God,god,god-play,UNK
+God,22109988,49,60,3434750,"http://en.wikipedia.org/wiki/God,_Time_and_Causality","God, Time and Causality",god-time-and-causality,god-time-and-causality,UNK
+God,23495114,16,26,,"http://en.wikipedia.org/wiki/G.O.D._(Gold,_Oil_&_Diamonds)",G.O.D.,god,god-gold-oil-diamonds,UNK
+God,37825334,13,116,11003920;364322;606848;37853250;1095706,http://en.wikipedia.org/wiki/Kingdom_of_God_(Christianity),Kingdom of God,kingdom-of-god,kingdom-of-god-christianity,UNK
+God,1057267,85,212,,http://en.wikipedia.org/wiki/Göd,Göd,god,god,UNK
+God,10240962,0,60,,"http://en.wikipedia.org/wiki/God,_That's_Good","God, That's Good",god-thats-good,god-thats-good,UNK
+God,22441124,12,42,,http://en.wikipedia.org/wiki/River_God,River God,river-god,river-god,UNK
+God,27040774,242,239,1813169,http://en.wikipedia.org/wiki/God_(MUD),God,god,god-mud,PER
+God,11932491,708,565,5042765;11003920;5359259;7515857;1813169,http://en.wikipedia.org/wiki/God_in_Judaism,God in Judaism,god-in-judaism,god-in-judaism,UNK
+God,5503439,1,4,,"http://en.wikipedia.org/wiki/God,_Heaven,_and_Har_Magedon","God, Heaven, and Har Magedon",god-heaven-and-har-magedon,god-heaven-and-har-magedon,UNK
+God,7515857,1393,422,5042765;25793095;173722;307365;11003920;1095706;5359259;11932491;1813169,http://en.wikipedia.org/wiki/God_in_Islam,God in Islam,god-in-islam,god-in-islam,UNK
+God,31405,9,32,5042765;1095706;31405,http://en.wikipedia.org/wiki/The_nature_of_God_in_Western_theology,The nature of God in Western theology,the-nature-of-god-in-western-theology,the-nature-of-god-in-western-theology,UNK
+God,25793095,24,66,7515857;25793095,http://en.wikipedia.org/wiki/National_god,National god,national-god,national-god,ORG
+Roman Catholic,606848,16975,1064,7467844;2154;5843419;974923;4721;1095706;347105;24002394;345921;37825334;290327;43583;37853250;1082197;392006;13393;41291975;2687967;606848;335721;11003920;301088;364322;27264339;25458;59453;338256;29265;32408;31717;26230922,http://en.wikipedia.org/wiki/Catholic_Church,Catholic Church,catholic-church,catholic-church,ORG
+Roman Catholic,10591765,17,52,5843419,http://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Le_Puy-en-Velay,Roman Catholic Diocese of Le Puy-en-Velay,roman-catholic-diocese-of-le-puy-en-velay,roman-catholic-diocese-of-le-puy-en-velay,ORG
+Roman Catholic,8620630,210,85,,http://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Cashel_and_Emly,Roman Catholic Archdiocese of Cashel and Emly,roman-catholic-archdiocese-of-cashel-and-emly,roman-catholic-archdiocese-of-cashel-and-emly,GPE
+Roman Catholic,24002394,96,274,606848;13393;25458;338256;43583;1095706,http://en.wikipedia.org/wiki/Roman_Catholic_(term),Roman Catholic,roman-catholic,roman-catholic-term,UNK
+Roman Catholic,7467844,9,20,606848,http://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Lucera–Troia,Roman Catholic Diocese of Lucera–Troia,roman-catholic-diocese-of-lucera–troia,roman-catholic-diocese-of-lucera–troia,ORG
+Roman Catholic,335721,267,168,5407;606848;59453;13393;3434750,http://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Los_Angeles,Roman Catholic Archdiocese of Los Angeles,roman-catholic-archdiocese-of-los-angeles,roman-catholic-archdiocese-of-los-angeles,ORG
+Indian,14533,128644,998,1890;5843419;4179;5407;2247213;13543;14533;4181941;31717;4131857;37756;47905;4208015;28136882;51585;13472210;307365;347105;1329287;27264339;4125366;3574003;1848052;4844705;3816837;372651;2672960;1813169;11804183;29969064;408215;407754;16560893;41537643;19792942;1298005;10748937;764545;19097669;201400;5908948;226310;3434750;10214211;9665846;26001291;521555;2707882;1996872;236912;2687967;9690013;738406;4971438,http://en.wikipedia.org/wiki/India,India,india,india,GPE
+Indian,23546122,2,5,,http://en.wikipedia.org/wiki/Indian_River_(Barbados),Indian River,indian-river,indian-river-barbados,UNK
+Indian,187816,185,121,,http://en.wikipedia.org/wiki/Indian_(motorcycle),Indian,indian,indian-motorcycle,UNK
+Indian,10748937,370,470,31717;4179;226310;3434750;4208015;19097669;14533;4721;13543,http://en.wikipedia.org/wiki/British_Indian,British Indian,british-indian,british-indian,UNK
+Indian,578529,3,23,252867,http://en.wikipedia.org/wiki/Indian_River_(Lanark_County),Indian River,indian-river,indian-river-lanark-county,UNK
+Indian,1835784,3,12,3434750,http://en.wikipedia.org/wiki/Indian_Lake_(Indiana),Indian Lake,indian-lake,indian-lake-indiana,UNK
+Indian,22795907,8,17,252867,http://en.wikipedia.org/wiki/Indian_River_(Yukon),Indian River,indian-river,indian-river-yukon,UNK
+Indian,25873599,3,5,,http://en.wikipedia.org/wiki/Indian_River_(Moose_River),Indian River,indian-river,indian-river-moose-river,UNK
+Indian,8694972,4,24,3434750,http://en.wikipedia.org/wiki/Indian_Mall,Indian Mall,indian-mall,indian-mall,UNK
+Indian,1848052,781,509,1848052;4208015;14533;2707882;408215,http://en.wikipedia.org/wiki/Indian_mathematics,Indian mathematics,indian-mathematics,indian-mathematics,UNK
+Indian,38605772,182,195,3434750,"http://en.wikipedia.org/wiki/Indian,_West_Virginia","Indian, West Virginia",indian-west-virginia,indian-west-virginia,GPE
+Indian,24389644,5,9,3434750,http://en.wikipedia.org/wiki/Indian_Lake_(Michigan),Indian Lake,indian-lake,indian-lake-michigan,UNK
+Indian,35836071,1,6,,http://en.wikipedia.org/wiki/Indian_(1809),Indian,indian,indian-1809,PER
+Indian,28702979,13,14,1055232;252867,http://en.wikipedia.org/wiki/Indian_River_(Mullett_Lake),Indian River,indian-river,indian-river-mullett-lake,UNK
+Indian,674901,30,94,3434750;252867,http://en.wikipedia.org/wiki/Indian_River_(Delaware),Indian River,indian-river,indian-river-delaware,UNK
+Indian,5381414,7,15,252867;3434750,http://en.wikipedia.org/wiki/Indian_River_(New_Hampshire),Indian River,indian-river,indian-river-new-hampshire,UNK
+Indian,1588877,3,28,,http://en.wikipedia.org/wiki/Indian_Lake_(Massachusetts),Indian Lake,indian-lake,indian-lake-massachusetts,UNK
+Indian,597859,7,33,32708929;252867,http://en.wikipedia.org/wiki/Indian_River_(Muskrat_River_watershed),Indian River,indian-river,indian-river-muskrat-river-watershed,UNK
+Indian,32708929,3,24,597859,"http://en.wikipedia.org/wiki/Indian,_Ontario","Indian, Ontario",indian-ontario,indian-ontario,UNK
+Indian,4656826,0,8,13156335,http://en.wikipedia.org/wiki/Indian_Hill,Indian Hill,indian-hill,indian-hill,UNK
+Indian,252867,0,27,28702974;23515228;23588008;22795907;28702979;674901;3426856;2045698;5381414;597859;23518740;578529,http://en.wikipedia.org/wiki/Indian_River,Indian River,indian-river,indian-river,UNK
+Indian,23518740,4,11,252867;3434750,http://en.wikipedia.org/wiki/Indian_River_(Virginia),Indian River,indian-river,indian-river-virginia,UNK
+Indian,9222128,21,86,58296;3434750,http://en.wikipedia.org/wiki/Indian_Island_(Humboldt_Bay),Indian Island,indian-island,indian-island-humboldt-bay,UNK
+Indian,34675649,3,12,,"http://en.wikipedia.org/wiki/Indian_Lake_(Teton_County,_Wyoming)",Indian Lake,indian-lake,indian-lake-teton-county-wyoming,UNK
+Indian,23515228,5,7,252867,http://en.wikipedia.org/wiki/Indian_River_(Dominica),Indian River,indian-river,indian-river-dominica,UNK
+Indian,9818776,18,23,,http://en.wikipedia.org/wiki/Indian_Institute,Indian Institute,indian-institute,indian-institute,UNK
+Indian,553098,36,52,3434750,http://en.wikipedia.org/wiki/Indian_Lake_(Ohio),Indian Lake,indian-lake,indian-lake-ohio,UNK
+Indian,12496752,2,12,,http://en.wikipedia.org/wiki/Indian_Bay,Indian Bay,indian-bay,indian-bay,UNK
+Indian,5263763,4,17,,http://en.wikipedia.org/wiki/Indian_College,Indian College,indian-college,indian-college,ORG
+Indian,28269209,4,32,226310,http://en.wikipedia.org/wiki/Indian_(soundtrack),Indian,indian,indian-soundtrack,UNK
+Indian,23588008,8,16,252867;3434750,http://en.wikipedia.org/wiki/Indian_River_(Maine),Indian River,indian-river,indian-river-maine,UNK
+Indian,1298005,0,8,14533,http://en.wikipedia.org/wiki/Indian_Village,Indian Village,indian-village,indian-village,UNK
+Indian,28702974,7,13,1055232;252867;3434750,http://en.wikipedia.org/wiki/Indian_River_(Manistique_River),Indian River,indian-river,indian-river-manistique-river,UNK
+Indian,1686300,89,80,1686300;3434750,http://en.wikipedia.org/wiki/Indian_club,Indian club,indian-club,indian-club,UNK
+Indian,13156335,2,5,4656826,http://en.wikipedia.org/wiki/Indian_Hill_(Minnesota),Indian Hill,indian-hill,indian-hill-minnesota,UNK
+Indian,26779494,2,6,3434750,http://en.wikipedia.org/wiki/Indian_Lake_(Wisconsin),Indian Lake,indian-lake,indian-lake-wisconsin,UNK
+Indian,2387419,6,118,,http://en.wikipedia.org/wiki/Indian_Lake_(New_Jersey),Indian Lake,indian-lake,indian-lake-new-jersey,UNK
+Indian,738406,234,268,9690013;519610;14533;345921;47905,http://en.wikipedia.org/wiki/Indian_Museum,Indian Museum,indian-museum,indian-museum,UNK
+Indian,372651,70,167,14533;37756;51585,http://en.wikipedia.org/wiki/Indian_(airline),Indian,indian,indian-airline,ORG
+Indian,3426856,7,17,252867;3434750,http://en.wikipedia.org/wiki/Indian_River_(Alaska),Indian River,indian-river,indian-river-alaska,UNK
+Indian,2045698,269,59,3434750;252867,http://en.wikipedia.org/wiki/Indian_River_(Florida),Indian River,indian-river,indian-river-florida,UNK
+Indian,23511213,1,7,,http://en.wikipedia.org/wiki/Indian_Tower,Indian Tower,indian-tower,indian-tower,UNK
+Indian,1055232,0,4,28702974;28702979,http://en.wikipedia.org/wiki/Indian_River_(Michigan),Indian River,indian-river,indian-river-michigan,UNK
+Indian,19767520,8,16,3434750,http://en.wikipedia.org/wiki/Indian_Lake_(New_York),Indian Lake,indian-lake,indian-lake-new-york,UNK
+Indian,10214211,1,28,14533,http://en.wikipedia.org/wiki/The_INDIAN,The INDIAN,the-indian,the-indian,UNK
+Indian,22098929,2,7,,"http://en.wikipedia.org/wiki/Indian_Lake_(Washington_County,_Rhode_Island)",Indian Lake,indian-lake,indian-lake-washington-county-rhode-island,UNK
+Calcutta,47905,6465,866,51585;226310;3434750;9690013;3574003;2916789;408215;347105;407754;345921;37756;519610;129041;9665846;738406;2247213;3816837;14335981;25936454;47905;4208015;13677;13543;5908948;14533;31717;26230922,http://en.wikipedia.org/wiki/Kolkata,Kolkata,kolkata,kolkata,GPE
+Calcutta,14335981,3,8,47905,"http://en.wikipedia.org/wiki/Calcutta,_Belize","Calcutta, Belize",calcutta-belize,calcutta-belize,UNK
+Calcutta,25936454,77,80,47905,"http://en.wikipedia.org/wiki/Calcutta,_Suriname","Calcutta, Suriname",calcutta-suriname,calcutta-suriname,GPE
+Calcutta,9690013,172,5,738406;14533;519610;345921;47905,http://en.wikipedia.org/wiki/Calcutta_Club,Calcutta Club,calcutta-club,calcutta-club,ORG
+Calcutta,129041,59,73,3434750;47905,"http://en.wikipedia.org/wiki/Calcutta,_Ohio","Calcutta, Ohio",calcutta-ohio,calcutta-ohio,GPE
+Calcutta,9665846,7,363,14533;47905,http://en.wikipedia.org/wiki/Calcutta_Group,Calcutta Group,calcutta-group,calcutta-group,PER
+Calcutta,25461708,3,34,,http://en.wikipedia.org/wiki/Calcutta_(band),Calcutta,calcutta,calcutta-band,UNK
+Calcutta,65572,6,7,4721,http://en.wikipedia.org/wiki/Calcutta_auction,Calcutta auction,calcutta-auction,calcutta-auction,UNK
+Calcutta,28136882,11,33,14533,http://en.wikipedia.org/wiki/Calcutta_(Taxi_Taxi_Taxi),Calcutta,calcutta,calcutta-taxi-taxi-taxi,UNK
+Calcutta,519610,1537,610,9690013;3816837;345921;29969064;47905;5908948;4208015;519610;226310;738406,http://en.wikipedia.org/wiki/University_of_Calcutta,University of Calcutta,university-of-calcutta,university-of-calcutta,ORG
+Calcutta,2916789,34,48,3434750;47905,"http://en.wikipedia.org/wiki/Calcutta,_West_Virginia","Calcutta, West Virginia",calcutta-west-virginia,calcutta-west-virginia,GPE
+Bharat Ratna,236912,329,233,26230922;347105;226310;345921;14533;37756;236912,http://en.wikipedia.org/wiki/Bharat_Ratna,Bharat Ratna,bharat-ratna,bharat-ratna,UNK
+Vatican,13393,5460,528,43583;1241;606848;37853250;335721;25458;59453;338256;4721;1095706;29265;347105;24002394;13393;41291975;301088;32408;345921;27264339,http://en.wikipedia.org/wiki/Holy_See,Holy See,holy-see,holy-see,UNK
+Vatican,22135708,2,18,,http://en.wikipedia.org/wiki/The_Vatican_(mixtape),The Vatican,the-vatican,the-vatican-mixtape,UNK
+Vatican,13891293,27,36,32408,"http://en.wikipedia.org/wiki/Vatican,_Louisiana","Vatican, Louisiana",vatican-louisiana,vatican-louisiana,GPE
+Vatican,301088,185,119,606848;13393;25458;32408,http://en.wikipedia.org/wiki/Vatican_Hill,Vatican Hill,vatican-hill,vatican-hill,UNK
+Vatican,32408,3930,580,43583;738;8504;13891293;606848;25458;5843419;4721;29618;29265;347105;13393;301088;32408;31717,http://en.wikipedia.org/wiki/Vatican_City,Vatican City,vatican-city,vatican-city,GPE
+Missionaries of Charity,345921,418,413,9690013;606848;519610;25458;347105;338256;3434750;47905;738406;738;392006;13393;236912;2927,http://en.wikipedia.org/wiki/Missionaries_of_Charity,Missionaries of Charity,missionaries-of-charity,missionaries-of-charity,ORG
+California,5407,76175,1092,863;1890;1973;2154;5843419;1528920;5407;290327;134026;13543;14533;273597;31717;312898;7426580;19792942;32523068;1552882;59453;58296;1409989;62706;19097669;196870;28786051;199154;335721;3434750;23455173;337984;103973;17161484;1707982;392006;386555;41291975;107333;261297;1601287,http://en.wikipedia.org/wiki/California,California,california,california,GPE
+California,13657777,1,20,,"http://en.wikipedia.org/wiki/California,_Shasta_and_Eastern_Railway","California, Shasta and Eastern Railway",california-shasta-and-eastern-railway,california-shasta-and-eastern-railway,UNK
+California,33232098,1,6,33232098,http://en.wikipedia.org/wiki/California_(neighborhood),California,california,california-neighborhood,UNK
+California,59453,903,361,58296;5407;606848;1552882;335721;59453;13393,http://en.wikipedia.org/wiki/Spanish_missions_in_California,Spanish missions in California,spanish-missions-in-california,spanish-missions-in-california,UNK
+California,1157384,9,15,,"http://en.wikipedia.org/wiki/California,_Berkshire","California, Berkshire",california-berkshire,california-berkshire,GPE
+California,2381369,26,31,,"http://en.wikipedia.org/wiki/California,_Usulután","California, Usulután",california-usulutan,california-usulutan,GPE
+California,23574924,0,2,2565257,"http://en.wikipedia.org/wiki/California,_Ohio","California, Ohio",california-ohio,california-ohio,UNK
+California,134026,217,241,58296;5407;3434750,"http://en.wikipedia.org/wiki/California,_Pennsylvania","California, Pennsylvania",california-pennsylvania,california-pennsylvania,GPE
+California,3832232,222,250,863,"http://en.wikipedia.org/wiki/California,_Louisville","California, Louisville",california-louisville,california-louisville,UNK
+California,23262954,1,13,,"http://en.wikipedia.org/wiki/California,_Here_We_Come","California, Here We Come",california-here-we-come,california-here-we-come,UNK
+California,1601287,163,238,5407;3434750,http://en.wikipedia.org/wiki/Domestic_partnership_in_California,Domestic partnership in California,domestic-partnership-in-california,domestic-partnership-in-california,UNK
+California,1528920,10,64,5407,http://en.wikipedia.org/wiki/341_California,341 California,341-california,341-california,UNK
+California,337984,495,545,5407;337984,http://en.wikipedia.org/wiki/California_Proposition_13_(1978),California Proposition 13,california-proposition-13,california-proposition-13-1978,UNK
+California,196870,144,71,5407,http://en.wikipedia.org/wiki/USS_California_(BB-44),USS California,uss-california,uss-california-bb-44,UNK
+California,21952033,57,82,31717;58296,"http://en.wikipedia.org/wiki/California,_Falkirk","California, Falkirk",california-falkirk,california-falkirk,UNK
+California,1409989,25,65,29265;5407,"http://en.wikipedia.org/wiki/California,_Here_I_Come","California, Here I Come",california-here-i-come,california-here-i-come,UNK
+California,33805843,0,179,,"http://en.wikipedia.org/wiki/California,_Bohol","California, Bohol",california-bohol,california-bohol,UNK
+California,261297,56,70,5407;3434750,http://en.wikipedia.org/wiki/California_electricity_crisis,California electricity crisis,california-electricity-crisis,california-electricity-crisis,UNK
+California,10430696,88,92,,"http://en.wikipedia.org/wiki/California,_Santander","California, Santander",california-santander,california-santander,GPE
+California,2565257,73,151,23574924,"http://en.wikipedia.org/wiki/California,_Cincinnati","California, Cincinnati",california-cincinnati,california-cincinnati,UNK
+California,1552882,0,76,58296;3434750;62706;59453;5407,http://en.wikipedia.org/wiki/Etymology_of_California,Etymology of California,etymology-of-california,etymology-of-california,UNK
+California,28786051,95,127,58296;5407;31717,"http://en.wikipedia.org/wiki/California,_Birmingham","California, Birmingham",california-birmingham,california-birmingham,GPE
+California,3230294,10,9,,"http://en.wikipedia.org/wiki/California,_Arizona_and_Santa_Fe_Railway","California, Arizona and Santa Fe Railway",california-arizona-and-santa-fe-railway,california-arizona-and-santa-fe-railway,UNK
+California,41291975,2,21,5407;606848;3434750;13393,http://en.wikipedia.org/wiki/California_(titular_see),California,california,california-titular-see,GPE
+California,23182465,1,24,,http://en.wikipedia.org/wiki/California_macrophylla,California macrophylla,california-macrophylla,california-macrophylla,PER
+California,58296,2208,335,386555;21952033;5407;1552882;3434750;1890;23455173;59453;62706;28786051;9222128;134026,http://en.wikipedia.org/wiki/California_Gold_Rush,California Gold Rush,california-gold-rush,california-gold-rush,UNK
+California,13584131,11,4,,"http://en.wikipedia.org/wiki/California,_Trinidad_and_Tobago","California, Trinidad and Tobago",california-trinidad-and-tobago,california-trinidad-and-tobago,UNK
+California,273597,191,228,5407;31717,"http://en.wikipedia.org/wiki/California,_Buckinghamshire","California, Buckinghamshire",california-buckinghamshire,california-buckinghamshire,UNK
+California,62706,314,100,58296;5407;1552882;3434750,http://en.wikipedia.org/wiki/Baja_California_peninsula,Baja California peninsula,baja-california-peninsula,baja-california-peninsula,UNK
+Rome,25458,26938,1320,738;6796445;5843419;24002394;345921;1469407;8504;1395903;13393;18940550;3434750;2012056;25458;29618;29265;32408;31717;521555;5443021;43583;110096;51585;606848;1423165;3382089;301088;6647773,http://en.wikipedia.org/wiki/Rome,Rome,rome,rome,GPE
+Rome,22682787,8,232,110096,"http://en.wikipedia.org/wiki/Rome,_Georgia_metropolitan_area","Rome, Georgia metropolitan area",rome-georgia-metropolitan-area,rome-georgia-metropolitan-area,UNK
+Rome,17161484,16,25,24192691;3434750;5407,http://en.wikipedia.org/wiki/Rome_(musician),Rome,rome,rome-musician,UNK
+Rome,6647773,45,57,25458;3434750,"http://en.wikipedia.org/wiki/Rome,_Oregon","Rome, Oregon",rome-oregon,rome-oregon,GPE
+Rome,1395903,56,121,25458;5843419,http://en.wikipedia.org/wiki/Rome_(department),Rome,rome,rome-department,UNK
+Rome,11932117,41,51,3434750;1310891,"http://en.wikipedia.org/wiki/Rome_Township,_Jefferson_County,_Illinois","Rome Township, Jefferson County, Illinois",rome-township-jefferson-county-illinois,rome-township-jefferson-county-illinois,UNK
+Rome,141783,0,6,139190;138661;37501441,"http://en.wikipedia.org/wiki/Rome,_Wisconsin","Rome, Wisconsin",rome-wisconsin,rome-wisconsin,UNK
+Rome,1310891,0,14,11932117;132235;41732644,http://en.wikipedia.org/wiki/Rome_Township,Rome Township,rome-township,rome-township,GPE
+Rome,502642,30,47,,http://en.wikipedia.org/wiki/Rome_(Paris_Métro),Rome,rome,rome-paris-metro,UNK
+Rome,24192691,55,36,17161484;24192691,http://en.wikipedia.org/wiki/Rome_Ramirez,Rome Ramirez,rome-ramirez,rome-ramirez,UNK
+Rome,41732644,36,1,1310891,"http://en.wikipedia.org/wiki/Rome_Township,_Jones_County,_Iowa","Rome Township, Jones County, Iowa",rome-township-jones-county-iowa,rome-township-jones-county-iowa,PER
+Rome,21722083,0,9,126858;3434750,"http://en.wikipedia.org/wiki/Rome_Company,_Inc.","Rome Company, Inc.",rome-company-inc,rome-company-inc,UNK
+Rome,894949,42,64,126858,"http://en.wikipedia.org/wiki/Rome,_Watertown_and_Ogdensburg_Railroad","Rome, Watertown and Ogdensburg Railroad",rome-watertown-and-ogdensburg-railroad,rome-watertown-and-ogdensburg-railroad,UNK
+Rome,41221567,1,40,31717,"http://en.wikipedia.org/wiki/Old_Rome,_South_Ayrshire","Old Rome, South Ayrshire",old-rome-south-ayrshire,old-rome-south-ayrshire,UNK
+Rome,110096,584,474,19156980;863;25458;22682787;3434750,"http://en.wikipedia.org/wiki/Rome,_Georgia","Rome, Georgia",rome-georgia,rome-georgia,GPE
+Rome,2070821,9,19,,http://en.wikipedia.org/wiki/Emor:_Rome_Upside_Down,Emor: Rome Upside Down,emor-rome-upside-down,emor-rome-upside-down,UNK
+Rome,2012056,194,147,37474285;25458;3434750,"http://en.wikipedia.org/wiki/Rome,_Open_City","Rome, Open City",rome-open-city,rome-open-city,UNK
+Rome,22845514,3,4,,http://en.wikipedia.org/wiki/Romé,Romé,rome,rome,UNK
+Rome,132235,79,87,3434750;141577;1310891,"http://en.wikipedia.org/wiki/Rome_Township,_Crawford_County,_Pennsylvania","Rome Township, Crawford County, Pennsylvania",rome-township-crawford-county-pennsylvania,rome-township-crawford-county-pennsylvania,GPE
+Rome,19156980,4,7,110096,http://en.wikipedia.org/wiki/Rome_Railroad,Rome Railroad,rome-railroad,rome-railroad,UNK
+Rome,1810825,0,3,,"http://en.wikipedia.org/wiki/Rome_Township,_Ohio","Rome Township, Ohio",rome-township-ohio,rome-township-ohio,UNK
+Rome,138661,52,72,141783;37501441;3434750,"http://en.wikipedia.org/wiki/Rome,_Adams_County,_Wisconsin","Rome, Adams County, Wisconsin",rome-adams-county-wisconsin,rome-adams-county-wisconsin,GPE
+Rome,3382089,554,192,3382089;25458,http://en.wikipedia.org/wiki/Province_of_Rome,Province of Rome,province-of-rome,province-of-rome,UNK
+Rome,126858,764,342,4721;3434750;894949;21722083,"http://en.wikipedia.org/wiki/Rome,_New_York","Rome, New York",rome-new-york,rome-new-york,GPE
+Rome,15775750,590,592,5843419,http://en.wikipedia.org/wiki/Saint-Rome,Saint-Rome,saint-rome,saint-rome,UNK
+Rome,37870985,16,30,3434750,"http://en.wikipedia.org/wiki/Rome,_Tennessee","Rome, Tennessee",rome-tennessee,rome-tennessee,GPE
+Rome,7044623,46,53,,http://en.wikipedia.org/wiki/Rome_media_releases,Rome media releases,rome-media-releases,rome-media-releases,UNK
+Rome,128875,35,50,3434750,"http://en.wikipedia.org/wiki/Rome,_Ohio","Rome, Ohio",rome-ohio,rome-ohio,GPE
+Rome,1423165,5,5,25458,http://en.wikipedia.org/wiki/University_of_Rome,University of Rome,university-of-rome,university-of-rome,ORG
+Rome,113870,20,49,3434750,"http://en.wikipedia.org/wiki/Rome,_Iowa","Rome, Iowa",rome-iowa,rome-iowa,GPE
+Rome,23746455,37,58,3434750,"http://en.wikipedia.org/wiki/Rome,_Mississippi","Rome, Mississippi",rome-mississippi,rome-mississippi,UNK
+Rome,111777,57,63,3434750,"http://en.wikipedia.org/wiki/Rome,_Illinois","Rome, Illinois",rome-illinois,rome-illinois,UNK
+Rome,6796445,0,10,25458;3434750,http://en.wikipedia.org/wiki/Rome_Airport,Rome Airport,rome-airport,rome-airport,UNK
+Rome,141577,0,2,132235,"http://en.wikipedia.org/wiki/Rome_Township,_Pennsylvania","Rome Township, Pennsylvania",rome-township-pennsylvania,rome-township-pennsylvania,GPE
+Rome,116024,52,83,3434750,"http://en.wikipedia.org/wiki/Rome,_Maine","Rome, Maine",rome-maine,rome-maine,GPE
+Rome,10435940,11,17,,http://en.wikipedia.org/wiki/Rome_(band),Rome,rome,rome-band,UNK
+Rome,37501441,48,67,141783;3434750;138661,"http://en.wikipedia.org/wiki/Rome_(community),_Adams_County,_Wisconsin","Rome (community), Adams County, Wisconsin",rome-community-adams-county-wisconsin,rome-community-adams-county-wisconsin,GPE
+Rome,37016067,19,33,3434750,"http://en.wikipedia.org/wiki/Rome,_Kentucky","Rome, Kentucky",rome-kentucky,rome-kentucky,UNK
+Rome,33606595,0,30,3434750,"http://en.wikipedia.org/wiki/Rome,_Sweet_Rome","Rome, Sweet Rome",rome-sweet-rome,rome-sweet-rome,UNK
+Rome,139190,73,81,141783;3434750,"http://en.wikipedia.org/wiki/Rome,_Jefferson_County,_Wisconsin","Rome, Jefferson County, Wisconsin",rome-jefferson-county-wisconsin,rome-jefferson-county-wisconsin,GPE
+Rome,521555,10527,1000,521555;3434750;19097669;5843419;2707882;25458;29618;29265;14533,http://en.wikipedia.org/wiki/Ancient_Rome,Ancient Rome,ancient-rome,ancient-rome,UNK
+New Delhi,51585,6679,542,3574003;37756;25458;47905;4208015;13677;13543;14533;31717;372651,http://en.wikipedia.org/wiki/New_Delhi,New Delhi,new-delhi,new-delhi,GPE
+New Delhi,37756,8330,747,51585;226310;3434750;3574003;408215;2672960;407754;37756;236912;47905;4208015;13677;13543;14533;31717;372651,http://en.wikipedia.org/wiki/Delhi,Delhi,delhi,delhi,GPE
+New Delhi,7888869,147,148,,http://en.wikipedia.org/wiki/New_Delhi_metro_station,New Delhi metro station,new-delhi-metro-station,new-delhi-metro-station,UNK
+New Delhi,30284321,37,45,3434750,"http://en.wikipedia.org/wiki/New_Delhi,_Illinois","New Delhi, Illinois",new-delhi-illinois,new-delhi-illinois,GPE
+Skopje,29618,2607,536,4976079;738;8504;18940550;29618;335647;25458;521555;29265;347105;1011001;5251799;32408;2927;2582228;31717;5843419;17857097;1802100,http://en.wikipedia.org/wiki/Skopje,Skopje,skopje,skopje,GPE
+Skopje,17857097,213,107,29618,http://en.wikipedia.org/wiki/FK_Skopje,FK Skopje,fk-skopje,fk-skopje,UNK
+Serbia,29265,33224,1190,738;417945;2927;5843419;347105;290327;8504;13393;18940550;335647;3434750;2582228;25458;29618;29265;32408;31717;521555;1011001;5251799;12155044;9200791;4976079;606848;28968850;2415826;15027128;1409989;1802100,http://en.wikipedia.org/wiki/Serbia,Serbia,serbia,serbia,GPE
+Serbia,15027128,111,95,2582228;4976079;29265;28968850,http://en.wikipedia.org/wiki/Republic_of_Serbia_(1992–2006),Republic of Serbia,republic-of-serbia,republic-of-serbia-1992–2006,UNK
+Serbia,28968850,402,104,2582228;4976079;29265;738;15027128,http://en.wikipedia.org/wiki/Kingdom_of_Serbia_(medieval),Kingdom of Serbia,kingdom-of-serbia,kingdom-of-serbia-medieval,GPE
+Serbia,417945,291,213,2582228;29265;417945;738;2927,http://en.wikipedia.org/wiki/Greater_Serbia,Greater Serbia,greater-serbia,greater-serbia,PER
+Serbia,2582228,1195,188,4976079;28968850;417945;15027128;29618;29265;347105;5251799;12155044,http://en.wikipedia.org/wiki/Kingdom_of_Serbia,Kingdom of Serbia,kingdom-of-serbia,kingdom-of-serbia,GPE
+Serbia,4976079,137,305,2582228;29618;15027128;29265;28968850;20599016,http://en.wikipedia.org/wiki/Territory_of_the_Military_Commander_in_Serbia,Territory of the Military Commander in Serbia,territory-of-the-military-commander-in-serbia,territory-of-the-military-commander-in-serbia,UNK
+Serbia,12155044,4,118,2582228;335647;29265,http://en.wikipedia.org/wiki/Kingdom_of_Serbia_(1718–39),Kingdom of Serbia,kingdom-of-serbia,kingdom-of-serbia-1718–39,GPE
+Serbia,335647,219,205,29618;738;12155044;29265;67472,http://en.wikipedia.org/wiki/Geography_of_Serbia,Geography of Serbia,geography-of-serbia,geography-of-serbia,UNK
+Serbia,5251799,55,21,29265;2582228;29618,http://en.wikipedia.org/wiki/Old_Serbia,Old Serbia,old-serbia,old-serbia,UNK
+Serbia,1011001,1309,561,738;8504;29618;29265;1011001;3434750;250197;5843419,http://en.wikipedia.org/wiki/Serbia_national_football_team,Serbia national football team,serbia-national-football-team,serbia-national-football-team,UNK
+Loretto,392006,223,253,5407;606848;392006;8504;347105;3183350;345921,http://en.wikipedia.org/wiki/Sisters_of_Loreto,Sisters of Loreto,sisters-of-loreto,sisters-of-loreto,ORG
+Loretto,3003944,99,45,,http://en.wikipedia.org/wiki/Loretto_School,Loretto School,loretto-school,loretto-school,UNK
+Loretto,41731992,10,24,3434750,"http://en.wikipedia.org/wiki/Loretto,_Nebraska","Loretto, Nebraska",loretto-nebraska,loretto-nebraska,UNK
+Loretto,40789445,3,149,3434750,"http://en.wikipedia.org/wiki/Loretto_(Wytheville,_Virginia)",Loretto,loretto,loretto-wytheville-virginia,UNK
+Loretto,115333,31,39,3434750,"http://en.wikipedia.org/wiki/Loretto,_Kentucky","Loretto, Kentucky",loretto-kentucky,loretto-kentucky,GPE
+Loretto,131684,224,132,3434750,"http://en.wikipedia.org/wiki/Loretto,_Pennsylvania","Loretto, Pennsylvania",loretto-pennsylvania,loretto-pennsylvania,GPE
+Loretto,2571141,13,24,,http://en.wikipedia.org/wiki/Loretto_Chapel,Loretto Chapel,loretto-chapel,loretto-chapel,UNK
+Loretto,120207,66,72,3434750,"http://en.wikipedia.org/wiki/Loretto,_Minnesota","Loretto, Minnesota",loretto-minnesota,loretto-minnesota,GPE
+Loretto,10709815,27,35,,"http://en.wikipedia.org/wiki/Loretto,_Austria","Loretto, Austria",loretto-austria,loretto-austria,GPE
+Loretto,27283959,28,36,3434750,"http://en.wikipedia.org/wiki/Loretto,_Virginia","Loretto, Virginia",loretto-virginia,loretto-virginia,GPE
+Loretto,135266,40,51,3434750,"http://en.wikipedia.org/wiki/Loretto,_Tennessee","Loretto, Tennessee",loretto-tennessee,loretto-tennessee,GPE
+Loretto Abbey,3183350,195,209,392006,http://en.wikipedia.org/wiki/Loretto_Abbey_Catholic_Secondary_School,Loretto Abbey Catholic Secondary School,loretto-abbey-catholic-secondary-school,loretto-abbey-catholic-secondary-school,UNK
+Dublin,8504,17483,818,382598;738;1011001;5843419;36238232;3736;145190;4721;6514;41537643;8504;1858148;392006;293794;110212;107333;20042225;31280585;137735;7946104;302560;147849;25458;2759665;3071799;1450475;7298170;29618;29265;31746013;32408;31717,http://en.wikipedia.org/wiki/Dublin,Dublin,dublin,dublin,GPE
+Dublin,135851,71,84,3434750,"http://en.wikipedia.org/wiki/Dublin,_Texas","Dublin, Texas",dublin-texas,dublin-texas,GPE
+Dublin,127678,33,42,3434750,"http://en.wikipedia.org/wiki/Dublin,_North_Carolina","Dublin, North Carolina",dublin-north-carolina,dublin-north-carolina,GPE
+Dublin,112683,52,66,3434750,"http://en.wikipedia.org/wiki/Dublin,_Indiana","Dublin, Indiana",dublin-indiana,dublin-indiana,GPE
+Dublin,36238232,11,40,6514;8504,http://en.wikipedia.org/wiki/Dublin_(barony),Dublin,dublin,dublin-barony,UNK
+Dublin,302560,165,18,8504;6514,http://en.wikipedia.org/wiki/Dublin_Corporation,Dublin Corporation,dublin-corporation,dublin-corporation,GPE
+Dublin,6514,1652,309,145190;147849;8504;293794;6514;41537643;2759665;302560;36238232;3071799;1450475,http://en.wikipedia.org/wiki/County_Dublin,County Dublin,county-dublin,county-dublin,GPE
+Dublin,147849,616,232,6514;8504,http://en.wikipedia.org/wiki/Dublin_Castle,Dublin Castle,dublin-castle,dublin-castle,UNK
+Dublin,40750205,3,14,,"http://en.wikipedia.org/wiki/Dublin,_Banana_Islands","Dublin, Banana Islands",dublin-banana-islands,dublin-banana-islands,GPE
+Dublin,131518,146,151,3434750,"http://en.wikipedia.org/wiki/Dublin,_Pennsylvania","Dublin, Pennsylvania",dublin-pennsylvania,dublin-pennsylvania,GPE
+Dublin,7946104,9,21,8504,http://en.wikipedia.org/wiki/Dublin:_Foundation,Dublin: Foundation,dublin-foundation,dublin-foundation,UNK
+Dublin,6203627,38,51,6690080;3434750,"http://en.wikipedia.org/wiki/Dublin_Township,_Mercer_County,_Ohio","Dublin Township, Mercer County, Ohio",dublin-township-mercer-county-ohio,dublin-township-mercer-county-ohio,GPE
+Dublin,137735,291,474,3434750;8504,"http://en.wikipedia.org/wiki/Dublin,_Virginia","Dublin, Virginia",dublin-virginia,dublin-virginia,GPE
+Dublin,1858148,14,27,8504,"http://en.wikipedia.org/wiki/Dublin,_South_Australia","Dublin, South Australia",dublin-south-australia,dublin-south-australia,GPE
+Dublin,6690080,0,6,121903;132660;6203627;132608,http://en.wikipedia.org/wiki/Dublin_Township,Dublin Township,dublin-township,dublin-township,GPE
+Dublin,1450475,73,49,8504;6514,http://en.wikipedia.org/wiki/Kingdom_of_Dublin,Kingdom of Dublin,kingdom-of-dublin,kingdom-of-dublin,GPE
+Dublin,31746013,31,44,3434750;8504,"http://en.wikipedia.org/wiki/Dublin,_Kentucky","Dublin, Kentucky",dublin-kentucky,dublin-kentucky,UNK
+Dublin,21462534,34,42,,"http://en.wikipedia.org/wiki/Dublin,_Mississippi","Dublin, Mississippi",dublin-mississippi,dublin-mississippi,GPE
+Dublin,132608,31,40,6690080;3434750;141442,"http://en.wikipedia.org/wiki/Dublin_Township,_Fulton_County,_Pennsylvania","Dublin Township, Fulton County, Pennsylvania",dublin-township-fulton-county-pennsylvania,dublin-township-fulton-county-pennsylvania,GPE
+Dublin,3071799,190,42,293794;6514;2759665;8504,http://en.wikipedia.org/wiki/Dublin_Region,Dublin Region,dublin-region,dublin-region,UNK
+Dublin,145190,511,189,6514;41537643;8504,http://en.wikipedia.org/wiki/University_of_Dublin,University of Dublin,university-of-dublin,university-of-dublin,ORG
+Dublin,132660,70,79,6690080;3434750;141442,"http://en.wikipedia.org/wiki/Dublin_Township,_Huntingdon_County,_Pennsylvania","Dublin Township, Huntingdon County, Pennsylvania",dublin-township-huntingdon-county-pennsylvania,dublin-township-huntingdon-county-pennsylvania,GPE
+Dublin,124537,251,91,7298170;3434750,"http://en.wikipedia.org/wiki/Dublin,_New_Hampshire","Dublin, New Hampshire",dublin-new-hampshire,dublin-new-hampshire,GPE
+Dublin,20042225,51,75,3434750;8504,"http://en.wikipedia.org/wiki/Dublin,_Maryland","Dublin, Maryland",dublin-maryland,dublin-maryland,GPE
+Dublin,121903,31,49,6690080;3434750,"http://en.wikipedia.org/wiki/Dublin_Township,_Swift_County,_Minnesota","Dublin Township, Swift County, Minnesota",dublin-township-swift-county-minnesota,dublin-township-swift-county-minnesota,GPE
+Dublin,7298170,9,29,124537;8504,http://en.wikipedia.org/wiki/Dublin_School,Dublin School,dublin-school,dublin-school,ORG
+Dublin,41537643,1406,467,145190;8504;3434750;6514;14533;41537643;26230922,http://en.wikipedia.org/wiki/University_College_Dublin,University College Dublin,university-college-dublin,university-college-dublin,UNK
+Dublin,141442,1,4,132660;132608,"http://en.wikipedia.org/wiki/Dublin_Township,_Pennsylvania","Dublin Township, Pennsylvania",dublin-township-pennsylvania,dublin-township-pennsylvania,GPE
+Dublin,20542401,4,233,110212,"http://en.wikipedia.org/wiki/Dublin,_Georgia,_micropolitan_area","Dublin, Georgia, micropolitan area",dublin-georgia-micropolitan-area,dublin-georgia-micropolitan-area,GPE
+Dublin,110212,179,56,20542401;8504;3434750,"http://en.wikipedia.org/wiki/Dublin,_Georgia","Dublin, Georgia",dublin-georgia,dublin-georgia,GPE
+Dublin,8684391,9,12,,"http://en.wikipedia.org/wiki/Dublin,_Paterson","Dublin, Paterson",dublin-paterson,dublin-paterson,UNK
+Dublin,31280585,29,42,8504,"http://en.wikipedia.org/wiki/Dublin,_Missouri","Dublin, Missouri",dublin-missouri,dublin-missouri,UNK
+Dublin,382598,122,48,8504,http://en.wikipedia.org/wiki/Dublin_Bay,Dublin Bay,dublin-bay,dublin-bay,GPE
+Dublin,107333,540,276,5407;150896;3434750;8504,"http://en.wikipedia.org/wiki/Dublin,_California","Dublin, California",dublin-california,dublin-california,GPE
+Dublin,2759665,1886,253,8504;6514;3071799,http://en.wikipedia.org/wiki/Dublin_GAA,Dublin GAA,dublin-gaa,dublin-gaa,GPE
+Dublin,293794,612,414,6514;8504;3071799,http://en.wikipedia.org/wiki/Dublin_Airport,Dublin Airport,dublin-airport,dublin-airport,UNK
+Dublin,150896,463,238,107333,"http://en.wikipedia.org/wiki/Dublin,_Ohio","Dublin, Ohio",dublin-ohio,dublin-ohio,GPE
+India,14533,128644,998,1890;5843419;4179;5407;2247213;13543;14533;4181941;31717;4131857;37756;47905;4208015;28136882;51585;13472210;307365;347105;1329287;27264339;4125366;3574003;1848052;4844705;3816837;372651;2672960;1813169;11804183;29969064;408215;407754;16560893;41537643;19792942;1298005;10748937;764545;19097669;201400;5908948;226310;3434750;10214211;9665846;26001291;521555;2707882;1996872;236912;2687967;9690013;738406;4971438,http://en.wikipedia.org/wiki/India,India,india,india,GPE
+India,23859009,202,238,,http://en.wikipedia.org/wiki/India_Longford,India Longford,india-longford,india-longford,UNK
+India,407754,1582,520,47905;14533;37756,http://en.wikipedia.org/wiki/India_national_cricket_team,India national cricket team,india-national-cricket-team,india-national-cricket-team,ORG
+India,27264339,44,56,606848;14533;13393,http://en.wikipedia.org/wiki/India_(East_Syrian_Ecclesiastical_Province),India,india,india-east-syrian-ecclesiastical-province,UNK
+India,33347419,30,51,,http://en.wikipedia.org/wiki/India_Song,India Song,india-song,india-song,UNK
+India,13920327,163,208,,http://en.wikipedia.org/wiki/Mongol_invasions_of_India,Mongol invasions of India,mongol-invasions-of-india,mongol-invasions-of-india,UNK
+India,13472210,4,3,3434750;14533,"http://en.wikipedia.org/wiki/India,_China_&_America_Institute","India, China & America Institute",india-china-america-institute,india-china-america-institute,ORG
+India,37053158,18,18,,http://en.wikipedia.org/wiki/India?,India?,india,india,UNK
+India,32553670,2,105,,"http://en.wikipedia.org/wiki/India,_India","India, India",india-india,india-india,UNK
+India,408215,1702,412,47905;2707882;1848052;14533;37756,http://en.wikipedia.org/wiki/Communist_Party_of_India,Communist Party of India,communist-party-of-india,communist-party-of-india,UNK
+India,1707982,153,57,5407,http://en.wikipedia.org/wiki/Indian_Health_Service,Indian Health Service,indian-health-service,indian-health-service,ORG
+India,2707882,294,379,1848052;408215;521555;13677;4208015;14533;764545,http://en.wikipedia.org/wiki/Indian_maritime_history,Indian maritime history,indian-maritime-history,indian-maritime-history,UNK
+India,764545,43,179,13677;2707882;1996872;4208015;14533;13543,http://en.wikipedia.org/wiki/Names_of_India,Names of India,names-of-india,names-of-india,UNK
+India,4971438,68,93,14533,http://en.wikipedia.org/wiki/India_(cat),India,india,india-cat,UNK
+India,32416870,0,14,,http://en.wikipedia.org/wiki/India_(battle_honour),India,india,india-battle-honour,UNK
+India,4181941,48,91,4181941;14533,http://en.wikipedia.org/wiki/2006_H5N1_outbreak_in_India,2006 H5N1 outbreak in India,2006-h5n1-outbreak-in-india,2006-h5n1-outbreak-in-india,UNK
+India,11804183,207,175,14533,http://en.wikipedia.org/wiki/India_Tower,India Tower,india-tower,india-tower,UNK
+India,37474285,35,33,2012056,http://en.wikipedia.org/wiki/India:_Matri_Bhumi,India: Matri Bhumi,india-matri-bhumi,india-matri-bhumi,UNK
+India,4267804,5,7,2154,http://en.wikipedia.org/wiki/India_(entertainer),India,india,india-entertainer,UNK
+India,1996872,237,210,13677;14533;13543;764545,http://en.wikipedia.org/wiki/Greater_India,Greater India,greater-india,greater-india,UNK
+India,39849556,4,24,,http://en.wikipedia.org/wiki/India_(Herodotus),India,india,india-herodotus,UNK
+India,4125366,66,63,14533,http://en.wikipedia.org/wiki/Mr._India,Mr. India,mr-india,mr-india,UNK
+India,1342972,179,87,,http://en.wikipedia.org/wiki/La_India,La India,la-india,la-india,PER
+India,3816837,39,84,14533;519610;47905,http://en.wikipedia.org/wiki/Indian_Science_Congress_Association,Indian Science Congress Association,indian-science-congress-association,indian-science-congress-association,UNK
+India,1329287,3,10,14533,http://en.wikipedia.org/wiki/India_Inc.,India Inc.,india-inc,india-inc,UNK
+India,10748937,370,470,31717;4179;226310;3434750;4208015;19097669;14533;4721;13543,http://en.wikipedia.org/wiki/British_Indian,British Indian,british-indian,british-indian,UNK
+American,3434750,529967,1252,738;863;1241;1890;1973;2154;2927;4179;4721;5407;13677;14533;25458;29265;31717;37756;47905;20042225;13472210;58296;62706;6796445;18940550;37870985;23455173;11181079;30284321;103973;24389644;112683;113870;111777;110212;110096;107333;121903;120207;116024;115333;129041;128875;127678;126858;124537;132235;132608;132660;131518;131684;3234414;134026;135266;135851;138661;139190;26779494;137735;23518740;9116059;5727912;19097669;199154;23588008;1222409;261297;37016067;250197;21308184;6647773;290327;312898;33606595;29122088;345921;335721;9222128;376996;386555;9200791;41291975;2415826;1552882;22109988;3434750;3426856;521555;17161484;5381414;40175041;1686300;28355249;553098;1658436;27283959;1601287;31746013;6278401;41537643;39569926;674901;37501441;37515198;6203627;5843419;11932117;40789445;4131857;19767520;21722083;38605772;28702974;8694972;1835784;2916789;974923;23746455;19792942;6852012;2045698;10748937;20894515;2012056;1011001;41731992,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+American,10490364,5,3,10467654,http://en.wikipedia.org/wiki/USS_American,USS American,uss-american,uss-american,UNK
+American,11181079,12,22,23455173;3434750,http://en.wikipedia.org/wiki/American_River_(Washington),American River,american-river,american-river-washington,UNK
+American,103973,364,232,5407;103973;4179;3434750;1890,http://en.wikipedia.org/wiki/General_American,General American,general-american,general-american,UNK
+American,19792942,3526,706,290327;863;312898;1241;3434750;1890;1973;2154;26040944;386555;974923;4721;5407;13543;14533;199154,http://en.wikipedia.org/wiki/Americans,Americans,americans,americans,UNK
+American,28355249,17,6,3434750,http://en.wikipedia.org/wiki/American_Institute,American Institute,american-institute,american-institute,ORG
+American,376996,185,213,5280104;5843419;5727912;863;3434750,http://en.wikipedia.org/wiki/American_School_(economics),American School,american-school,american-school-economics,UNK
+American,191890,3857,578,191890;3234414,http://en.wikipedia.org/wiki/American_Idol,American Idol,american-idol,american-idol,UNK
+American,1241,20,100,1890;13393;19792942;1241;5843419;3434750,http://en.wikipedia.org/wiki/American_(word),American,american,american-word,UNK
+American,10467654,4,15,10490364,http://en.wikipedia.org/wiki/USS_American_(1861),USS American,uss-american,uss-american-1861,UNK
+American,290327,1463,698,863;974923;5407;606848;29265;3434750;1890;1973;2154;19792942;5843419,http://en.wikipedia.org/wiki/German_American,German American,german-american,german-american,UNK
+American,5727912,39,43,3434750;376996,http://en.wikipedia.org/wiki/American_System_(economic_plan),American System,american-system,american-system-economic-plan,UNK
+American,4007691,45,63,,"http://en.wikipedia.org/wiki/American_River,_South_Australia","American River, South Australia",american-river-south-australia,american-river-south-australia,UNK
+American,37515198,94,98,3434750;7426580,http://en.wikipedia.org/wiki/American_Party_(1924),American Party,american-party,american-party-1924,ORG
+American,9364258,58,66,,http://en.wikipedia.org/wiki/AmericanEP,AmericanEP,americanep,americanep,UNK
+American,1973,5125,668,290327;863;312898;3434750;1890;1973;2154;19792942;5843419;386555;4721;5407;199154,http://en.wikipedia.org/wiki/American_Revolution,American Revolution,american-revolution,american-revolution,UNK
+American,199154,1462,935,386555;863;312898;5407;3434750;1890;1973;19792942,http://en.wikipedia.org/wiki/American_literature,American literature,american-literature,american-literature,UNK
+American,2302636,2,23,,http://en.wikipedia.org/wiki/The_American_(statue),The American,the-american,the-american-statue,UNK
+American,5280104,3,7,376996,http://en.wikipedia.org/wiki/American_School,American School,american-school,american-school,ORG
+American,312898,491,371,386555;5407;3434750;1890;199154;863;19792942;1973,http://en.wikipedia.org/wiki/American_exceptionalism,American exceptionalism,american-exceptionalism,american-exceptionalism,UNK
+American,5245708,95,90,,http://en.wikipedia.org/wiki/Grand_American,Grand American,grand-american,grand-american,ORG
+American,863,32421,849,863;1890;1973;2154;5407;290327;199154;3434750;312898;376996;3832232;19792942;386555;110096,http://en.wikipedia.org/wiki/American_Civil_War,American Civil War,american-civil-war,american-civil-war,UNK
+American,1890,3485,773,290327;863;312898;1241;3434750;1890;1973;2154;158627;19792942;58296;103973;5843419;386555;4179;974923;4721;5407;14533;31717;199154,http://en.wikipedia.org/wiki/American_English,American English,american-english,american-english,UNK
+American,4985225,43,65,,http://en.wikipedia.org/wiki/Mr_American,Mr American,mr-american,mr-american,UNK
+American,23455173,280,111,58296;5407;11181079;3434750,http://en.wikipedia.org/wiki/American_River,American River,american-river,american-river,UNK
+American,7426580,511,119,37515198;5407,http://en.wikipedia.org/wiki/American_Party_(1969),American Party,american-party,american-party-1969,UNK
+American,23243585,10,25,,http://en.wikipedia.org/wiki/American_Party_(1914),American Party,american-party,american-party-1914,ORG
+American,2154,10623,597,863;606848;3434750;1890;1973;4267804;2154;26040944;974923;5407;290327;19792942,http://en.wikipedia.org/wiki/African_American,African American,african-american,african-american,UNK
+American,24473004,0,12,,http://en.wikipedia.org/wiki/American_cattle,American cattle,american-cattle,american-cattle,PER
+American,386555,1059,630,386555;863;19792942;312898;58296;5407;3434750;1890;13353120;199154;1973,http://en.wikipedia.org/wiki/American_Indian_Wars,American Indian Wars,american-indian-wars,american-indian-wars,UNK
+American,974923,179,286,290327;31717;606848;2154;1890;19097669;4721;19792942;3434750,http://en.wikipedia.org/wiki/British_American,British American,british-american,british-american,UNK
+American,12676486,46,31,,http://en.wikipedia.org/wiki/The_American_(magazine),The American,the-american,the-american-magazine,ORG
+American,29827906,12,17,,http://en.wikipedia.org/wiki/American_Party_(Utah),American Party,american-party,american-party-utah,ORG
+Teresa,1222409,27,118,26040944;1021641;347105;338256;43583;1744003;2415826;1380197;3434750,http://en.wikipedia.org/wiki/Teresa,Teresa,teresa,teresa,UNK
+Teresa,29682600,4,29,5843419;31717,http://en.wikipedia.org/wiki/USS_Teresa_(ID-4478),USS Teresa,uss-teresa,uss-teresa-id-4478,UNK
+Teresa,26040944,9,18,1222409;2154;19792942,http://en.wikipedia.org/wiki/Teresa_(Barbie),Teresa,teresa,teresa-barbie,UNK
+Teresa,8364714,88,87,8364714,http://en.wikipedia.org/wiki/Teresa_Mo,Teresa Mo,teresa-mo,teresa-mo,UNK
+Teresa,1085242,90,31,,"http://en.wikipedia.org/wiki/Teresa,_Rizal","Teresa, Rizal",teresa-rizal,teresa-rizal,UNK
+Teresa,43583,1467,705,5042765;338256;1744003;1095706;606848;25458;24002394;13393;1222409;32408;1082197,http://en.wikipedia.org/wiki/Teresa_of_Ávila,Teresa of Ávila,teresa-of-avila,teresa-of-avila,PER
+Teresa,2415826,79,96,1222409;29265;738;2415826;5843419;3434750,http://en.wikipedia.org/wiki/Teresa_(2010_telenovela),Teresa,teresa,teresa-2010-telenovela,UNK
+Teresa,37415601,9,16,,http://en.wikipedia.org/wiki/Teresa_(1989_telenovela),Teresa,teresa,teresa-1989-telenovela,UNK
+Teresa,1380197,54,62,1222409;1380197,http://en.wikipedia.org/wiki/Teresa_Nielsen_Hayden,Teresa Nielsen Hayden,teresa-nielsen-hayden,teresa-nielsen-hayden,UNK
+Teresa,21157777,33,45,,"http://en.wikipedia.org/wiki/Teresa,_Greater_Poland_Voivodeship","Teresa, Greater Poland Voivodeship",teresa-greater-poland-voivodeship,teresa-greater-poland-voivodeship,UNK
+Teresa,14918850,137,123,,"http://en.wikipedia.org/wiki/Teresa,_Castellón","Teresa, Castellón",teresa-castellon,teresa-castellon,UNK
+Teresa,25317515,4,4,,"http://en.wikipedia.org/wiki/St._Teresa,_Newfoundland_and_Labrador","St. Teresa, Newfoundland and Labrador",st-teresa-newfoundland-and-labrador,st-teresa-newfoundland-and-labrador,UNK
+Teresa,1744003,1,10,338256;43583;6278401;347105;1222409,http://en.wikipedia.org/wiki/Saint_Teresa,Saint Teresa,saint-teresa,saint-teresa,PER
+Teresa,20894515,20,30,3434750,http://en.wikipedia.org/wiki/Teresa_Hill,Teresa Hill,teresa-hill,teresa-hill,PER
+Teresa,6278401,15,28,1744003;3434750,"http://en.wikipedia.org/wiki/St._Teresa,_Florida","St. Teresa, Florida",st-teresa-florida,st-teresa-florida,GPE
+Teresa,9595581,43,14,,"http://en.wikipedia.org/wiki/Teresa,_Contessa_Guiccioli","Teresa, Contessa Guiccioli",teresa-contessa-guiccioli,teresa-contessa-guiccioli,PER
+France,5843419,190787,1650,738;6122287;1241;1890;1973;2927;5843419;4179;4721;5407;290327;8504;1395903;14533;5612901;12943731;25458;29618;29265;32408;31717;4131857;5013815;2567493;67473;67472;644329;376996;42474021;9200791;606848;24373999;1513051;23527303;15775750;955656;10591765;2415826;19097669;29682600;3434750;9351658;521555;1011001;20599016;2687967;250197;22600976,http://en.wikipedia.org/wiki/France,France,france,france,GPE
+France,2589960,11,10,,http://en.wikipedia.org/wiki/France_family,France family,france-family,france-family,UNK
+France,9351658,5,36,5843419,http://en.wikipedia.org/wiki/France_II,France II,france-ii,france-ii,UNK
+France,644329,374,225,5843419;955656;644329,http://en.wikipedia.org/wiki/France_Télévisions,France Télévisions,france-televisions,france-televisions,ORG
+France,6132809,173,168,,http://en.wikipedia.org/wiki/Little_France,Little France,little-france,little-france,UNK
+France,67473,488,455,5843419;4131857;67473;67472;23527303;2687967;20599016,http://en.wikipedia.org/wiki/Economy_of_France,Economy of France,economy-of-france,economy-of-france,UNK
+France,30770045,0,5,,http://en.wikipedia.org/wiki/Edward_France,Edward France,edward-france,edward-france,PER
+France,2567493,90,99,5612901;31717;5843419,http://en.wikipedia.org/wiki/France_Info,France Info,france-info,france-info,UNK
+France,11809,513,287,,http://en.wikipedia.org/wiki/Francesco_Cossiga,Francesco Cossiga,francesco-cossiga,francesco-cossiga,PER
+France,12943731,411,384,5843419;955656;250197,http://en.wikipedia.org/wiki/France_national_youth_football_team,France national youth football team,france-national-youth-football-team,france-national-youth-football-team,ORG
+France,67472,417,303,335647;5843419;67473;67472;23527303;2687967;20599016,http://en.wikipedia.org/wiki/Geography_of_France,Geography of France,geography-of-france,geography-of-france,UNK
+France,23527303,196,15,5843419;2687967;20599016;67473;67472,http://en.wikipedia.org/wiki/Kingdom_of_France_(1791–92),Kingdom of France,kingdom-of-france,kingdom-of-france-1791–92,GPE
+France,3776038,24,8,,http://en.wikipedia.org/wiki/University_of_France,University of France,university-of-france,university-of-france,ORG
+France,42474021,5,22,5843419,http://en.wikipedia.org/wiki/Little_France_(castle),Little France,little-france,little-france-castle,UNK
+France,9116059,3,89,3434750,http://en.wikipedia.org/wiki/France_Hotel,France Hotel,france-hotel,france-hotel,UNK
+France,250197,3412,873,955656;1011001;3434750;250197;5843419;31717;12943731,http://en.wikipedia.org/wiki/France_national_football_team,France national football team,france-national-football-team,france-national-football-team,UNK
+France,39251067,5,13,,http://en.wikipedia.org/wiki/La_France_(French_newspaper),La France,la-france,la-france-french-newspaper,UNK
+France,5612901,146,75,2567493;5843419,http://en.wikipedia.org/wiki/France_Culture,France Culture,france-culture,france-culture,UNK
+France,40175041,26,46,3434750,"http://en.wikipedia.org/wiki/La_France,_South_Carolina","La France, South Carolina",la-france-south-carolina,la-france-south-carolina,GPE
+France,2687967,3313,297,2687967;606848;24373999;23527303;5843419;20599016;67473;67472;14533,http://en.wikipedia.org/wiki/Kingdom_of_France,Kingdom of France,kingdom-of-france,kingdom-of-france,GPE
+France,6122287,56,58,5843419,http://en.wikipedia.org/wiki/France_(Epcot),France,france,france-epcot,UNK
+France,20599016,2454,744,4976079;2687967;20599016;67473;67472;23527303;5843419,http://en.wikipedia.org/wiki/Vichy_France,Vichy France,vichy-france,vichy-france,GPE
+France,955656,2298,525,644329;250197;5843419;12943731,http://en.wikipedia.org/wiki/France_national_rugby_union_team,France national rugby union team,france-national-rugby-union-team,france-national-rugby-union-team,UNK
+France,4131857,209,198,5843419;4131857;14533;3434750;67473,http://en.wikipedia.org/wiki/Nuclear_power_in_France,Nuclear power in France,nuclear-power-in-france,nuclear-power-in-france,UNK
+France,19088931,16,6,,http://en.wikipedia.org/wiki/La_France_(airship),La France,la-france,la-france-airship,UNK
+Therese,1021641,36,22,1222409,http://en.wikipedia.org/wiki/Therese_Grankvist,Therese Grankvist,therese-grankvist,therese-grankvist,UNK
+Therese,40156768,12,24,,http://en.wikipedia.org/wiki/Thérèse_Raquin_(character),Thérèse Raquin,therese-raquin,therese-raquin-character,UNK
+Therese,7704629,51,64,,http://en.wikipedia.org/wiki/Thérèse_(opera),Thérèse,therese,therese-opera,UNK
+Therese,2241895,2,12,,http://en.wikipedia.org/wiki/Therese_Park,Therese Park,therese-park,therese-park,UNK
+Therese,6862275,8,11,,http://en.wikipedia.org/wiki/Thérèse_Island,Thérèse Island,therese-island,therese-island,UNK
+Therese,10738800,109,69,10738800,http://en.wikipedia.org/wiki/Therese_of_Saxe-Hildburghausen,Therese of Saxe-Hildburghausen,therese-of-saxe-hildburghausen,therese-of-saxe-hildburghausen,PER
+Therese,338256,1228,602,1222409;43583;1744003;345921;1082197;1095706;606848;24002394;13393,http://en.wikipedia.org/wiki/Thérèse_of_Lisieux,Thérèse of Lisieux,therese-of-lisieux,therese-of-lisieux,PER
+Therese,24373999,68,120,2687967;5843419,http://en.wikipedia.org/wiki/Princess_Thérèse_of_France,Princess Thérèse of France,princess-therese-of-france,princess-therese-of-france,PER
+Therese,22537558,43,48,,http://en.wikipedia.org/wiki/Therèse,Therèse,therese,therese,UNK
+Jesus,1095706,7362,1205,606848;173722;158627;26799264;159229;6852012;11003920;1095706;24002394;364322;37825334;5443021;5042765;4468392;43583;37853250;7515857;23267143;128345;1082197;1812233;1168010;31088818;3234414;338256;13393;13543;31405;37972411,http://en.wikipedia.org/wiki/Jesus,Jesus,jesus,jesus,PER
+Jesus,16895905,127,152,,"http://en.wikipedia.org/wiki/Jesús_District,_Cajamarca","Jesús District, Cajamarca",jesus-district-cajamarca,jesus-district-cajamarca,UNK
+Jesus,1168010,582,234,364322;173722;158627;31088818;1812233;1095706,http://en.wikipedia.org/wiki/Life_of_Jesus_in_the_New_Testament,Life of Jesus in the New Testament,life-of-jesus-in-the-new-testament,life-of-jesus-in-the-new-testament,UNK
+Jesus,5375354,58,79,,http://en.wikipedia.org/wiki/American_Jesus,American Jesus,american-jesus,american-jesus,UNK
+Jesus,37972411,32,46,5042765;1095706,"http://en.wikipedia.org/wiki/Jesus,_Mary_and_Joseph!","Jesus, Mary and Joseph!",jesus-mary-and-joseph,jesus-mary-and-joseph,UNK
+Jesus,22600976,157,111,5843419,"http://en.wikipedia.org/wiki/Jesus_Church,_Valby","Jesus Church, Valby",jesus-church-valby,jesus-church-valby,UNK
+Jesus,28639854,1,8,,http://en.wikipedia.org/wiki/Jesus_EP,Jesus EP,jesus-ep,jesus-ep,UNK
+Jesus,26015915,826,265,128345;26015915,"http://en.wikipedia.org/wiki/Jesus_College,_Cambridge","Jesus College, Cambridge",jesus-college-cambridge,jesus-college-cambridge,UNK
+Jesus,364322,646,421,173722;11003920;1812233;1095706;606848;37853250;1168010;37825334;31088818,http://en.wikipedia.org/wiki/Jesus_in_Christianity,Jesus in Christianity,jesus-in-christianity,jesus-in-christianity,PER
+Jesus,26799264,4,15,1095706,"http://en.wikipedia.org/wiki/Jesús,_nuestro_Señor","Jesús, nuestro Señor",jesus-nuestro-senor,jesus-nuestro-senor,UNK
+Jesus,28921205,50,57,,"http://en.wikipedia.org/wiki/Jesús,_Verbo_No_Sustantivo","Jesús, Verbo No Sustantivo",jesus-verbo-no-sustantivo,jesus-verbo-no-sustantivo,UNK
+Jesus,1812233,73,180,364322;1168010;1812233;173722;1095706,http://en.wikipedia.org/wiki/Jesus_Christ_in_comparative_mythology,Jesus Christ in comparative mythology,jesus-christ-in-comparative-mythology,jesus-christ-in-comparative-mythology,PER
+Jesus,15049800,5,21,17245715,"http://en.wikipedia.org/wiki/Jesús,_Peru","Jesús, Peru",jesus-peru,jesus-peru,GPE
+Jesus,27142041,16,13,,http://en.wikipedia.org/wiki/Jesus_Culture,Jesus Culture,jesus-culture,jesus-culture,ORG
+Jesus,5443021,21,28,5042765;25458;1095706,http://en.wikipedia.org/wiki/King_Jesus,King Jesus,king-jesus,king-jesus,UNK
+Jesus,3234414,85,89,191890;3434750;1095706,"http://en.wikipedia.org/wiki/Jesus,_Take_the_Wheel","Jesus, Take the Wheel",jesus-take-the-wheel,jesus-take-the-wheel,UNK
+Jesus,2326137,17,19,,http://en.wikipedia.org/wiki/Jesus_Family,Jesus Family,jesus-family,jesus-family,UNK
+Jesus,17245715,81,105,15049800,"http://en.wikipedia.org/wiki/Jesús_District,_Lauricocha","Jesús District, Lauricocha",jesus-district-lauricocha,jesus-district-lauricocha,UNK
+Jesus,22852250,15,13,,"http://en.wikipedia.org/wiki/Jesus,_Interrupted","Jesus, Interrupted",jesus-interrupted,jesus-interrupted,UNK
+Jesus,4468392,0,10,1095706,http://en.wikipedia.org/wiki/Jesus'_true_relatives,Jesus' true relatives,jesus-true-relatives,jesus-true-relatives,UNK
+Jesus,37950573,64,74,,"http://en.wikipedia.org/wiki/Jesus,_son_of_Fabus","Jesus, son of Fabus",jesus-son-of-fabus,jesus-son-of-fabus,PER
+Jesus,23267143,0,27,1095706,http://en.wikipedia.org/wiki/De_Jesus,De Jesus,de-jesus,de-jesus,UNK
+Jesus,35701897,33,65,,"http://en.wikipedia.org/wiki/Jesus,_Friend_of_Sinners","Jesus, Friend of Sinners",jesus-friend-of-sinners,jesus-friend-of-sinners,UNK
+Jesus,36989219,3,14,,http://en.wikipedia.org/wiki/Jesús_(Ibiza),Jesús,jesus,jesus-ibiza,UNK
+Jesus,6852012,39,67,3434750;1095706,http://en.wikipedia.org/wiki/Jesus_Camp,Jesus Camp,jesus-camp,jesus-camp,UNK
+Jesus,29773334,129,124,,"http://en.wikipedia.org/wiki/Jesus,_Take_a_Hold","Jesus, Take a Hold",jesus-take-a-hold,jesus-take-a-hold,UNK
+Jesus,158627,105,102,1168010;1890;14670964;158627;1095706,http://en.wikipedia.org/wiki/Jesus_Seminar,Jesus Seminar,jesus-seminar,jesus-seminar,GPE
+Jesus,5013815,2,12,5042765;5843419,http://en.wikipedia.org/wiki/Jesus_Church_(Oslo),Jesus Church,jesus-church,jesus-church-oslo,UNK
+Jesus,23420166,5,85,,http://en.wikipedia.org/wiki/Jesus_Church_(Berlin-Kaulsdorf),Jesus Church,jesus-church,jesus-church-berlin-kaulsdorf,UNK
+Jesus,14670964,6,19,158627,http://en.wikipedia.org/wiki/Jesus_Project,Jesus Project,jesus-project,jesus-project,PER
+Jesus,159229,341,180,31717;1095706,http://en.wikipedia.org/wiki/Jesus_movement,Jesus movement,jesus-movement,jesus-movement,UNK
+Jesus,173722,416,402,5042765;364322;1168010;173722;7515857;1812233;1095706,http://en.wikipedia.org/wiki/Jesus_in_Islam,Jesus in Islam,jesus-in-islam,jesus-in-islam,UNK
+Jesus,128345,1073,375,128345;1095706;26015915,"http://en.wikipedia.org/wiki/Jesus_College,_Oxford","Jesus College, Oxford",jesus-college-oxford,jesus-college-oxford,UNK
+Jesus,8738919,11,23,,http://en.wikipedia.org/wiki/Jesus_Church_(Cieszyn),Jesus Church,jesus-church,jesus-church-cieszyn,UNK
+Jesus,31088818,34,53,1168010;364322;1095706,"http://en.wikipedia.org/wiki/Jesus,_King_of_the_Jews","Jesus, King of the Jews",jesus-king-of-the-jews,jesus-king-of-the-jews,UNK
+Mother,347105,1016,611,264434;1222409;29122088;28130294;32408;1744003;345921;47905;738;14533;236912;18940550;2927;2582228;29618;606848;26230922;29265;392006;13393;13543,http://en.wikipedia.org/wiki/Mother_Teresa,Mother Teresa,mother-teresa,mother-teresa,UNK
+Mother,28130294,3,116,347105;738,http://en.wikipedia.org/wiki/Mother_Teresa_Hospital_(Tirana),Mother Teresa Hospital,mother-teresa-hospital,mother-teresa-hospital-tirana,UNK
+Mother,42207377,0,6,,"http://en.wikipedia.org/wiki/Mother_Teresa_School,_Raebareli","Mother Teresa School, Raebareli",mother-teresa-school-raebareli,mother-teresa-school-raebareli,ORG
+Hindu,28890710,26,36,,"http://en.wikipedia.org/wiki/Hindu,_Salme_Parish","Hindu, Salme Parish",hindu-salme-parish,hindu-salme-parish,UNK
+Hindu,226310,6125,231,40584235;10748937;37756;519610;236912;28269209;47905;13677;14533,http://en.wikipedia.org/wiki/The_Hindu,The Hindu,the-hindu,the-hindu,UNK
+Hindu,99585,1360,458,307365;201400;13677;13543;2247213;2235585,http://en.wikipedia.org/wiki/Hindu_deities,Hindu deities,hindu-deities,hindu-deities,UNK
+Hindu,2235585,171,287,2247213;6839210;201400;99585;13677;307365;13543,http://en.wikipedia.org/wiki/Hindu_wedding,Hindu wedding,hindu-wedding,hindu-wedding,UNK
+Hindu,28890429,38,48,,"http://en.wikipedia.org/wiki/Hindu,_Orissaare_Parish","Hindu, Orissaare Parish",hindu-orissaare-parish,hindu-orissaare-parish,UNK
+Hindu,5908948,8,34,519610;47905;14533,"http://en.wikipedia.org/wiki/Hindu_School,_Kolkata","Hindu School, Kolkata",hindu-school-kolkata,hindu-school-kolkata,ORG
+Hindu,16560893,69,138,2247213;14533;13677;13543,"http://en.wikipedia.org/wiki/Hindu_Temple,_Dubai","Hindu Temple, Dubai",hindu-temple-dubai,hindu-temple-dubai,UNK
+Hindu,40584235,27,28,226310,http://en.wikipedia.org/wiki/The_Hindu_(Tamil),The Hindu,the-hindu,the-hindu-tamil,UNK
+Hindu,5200214,66,50,,http://en.wikipedia.org/wiki/Hindú_Club,Hindú Club,hindu-club,hindu-club,UNK
+Hindu,201400,3916,373,201400;2247213;307365;13677;13543;2235585;14533;99585,http://en.wikipedia.org/wiki/Hindu_calendar,Hindu calendar,hindu-calendar,hindu-calendar,UNK
+Hindu,307365,1774,1064,5042765;307365;11003920;201400;7515857;13677;13543;2247213;2235585;14533;99585,http://en.wikipedia.org/wiki/Hindu_philosophy,Hindu philosophy,hindu-philosophy,hindu-philosophy,UNK
+Hindu,4844705,10,6,14533,http://en.wikipedia.org/wiki/Hindu_College_(Guntur),Hindu College,hindu-college,hindu-college-guntur,ORG
+Hindu,13543,11351,1210,51585;10748937;764545;19097669;16560893;11003920;1095706;5407;347105;37756;99585;5042765;1996872;201400;2247213;19792942;47905;307365;4208015;13677;13543;2235585;14533;31717,http://en.wikipedia.org/wiki/Hinduism,Hinduism,hinduism,hinduism,ORG
+Hindu,27965225,44,54,,"http://en.wikipedia.org/wiki/Hindu,_Hiiu_County","Hindu, Hiiu County",hindu-hiiu-county,hindu-hiiu-county,UNK
+Hindu,29969064,256,195,519610;4208015;14533,http://en.wikipedia.org/wiki/Hindu_Theatre,Hindu Theatre,hindu-theatre,hindu-theatre,UNK
+Hindu,32523068,111,117,5407,"http://en.wikipedia.org/wiki/Hindu,_California","Hindu, California",hindu-california,hindu-california,UNK
+Hindu,2672960,111,124,14533;37756,"http://en.wikipedia.org/wiki/Hindu_College,_University_of_Delhi","Hindu College, University of Delhi",hindu-college-university-of-delhi,hindu-college-university-of-delhi,UNK
+Hindu,13677,8518,306,51585;226310;3434750;764545;16560893;2707882;37756;99585;1996872;201400;2247213;47905;307365;13677;13543;2235585;31717,http://en.wikipedia.org/wiki/Hindu,Hindu,hindu,hindu,UNK
+Hindu,2247213,2285,516,47905;307365;201400;13677;13543;2247213;2235585;14533;99585;16560893,http://en.wikipedia.org/wiki/Hindu_temple,Hindu temple,hindu-temple,hindu-temple,UNK
+Hindu,6839210,180,168,2235585,http://en.wikipedia.org/wiki/Hindu_joint_family,Hindu joint family,hindu-joint-family,hindu-joint-family,UNK
+Tender Heart,26001291,1,3,14533,http://en.wikipedia.org/wiki/Tender_Heart_School,Tender Heart School,tender-heart-school,tender-heart-school,UNK
+British,31717,184306,1536,738;1890;2927;5843419;3736;4179;4721;5407;8504;13677;13543;14533;25458;273597;29618;29265;32408;31717;21952033;37756;2528948;47905;4208015;51585;1658436;29122088;2567493;18940550;3574003;9200791;606848;974923;1513051;159229;10748937;19097669;201013;29682600;28786051;5188309;3434750;460615;41221567;752921;250197;21308184,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+British,4721,7762,934,606848;3434750;10748937;1890;1973;19097669;5843419;3574003;3736;4179;65572;974923;4721;8504;19792942;126858;4208015;13393;32408;31717,http://en.wikipedia.org/wiki/British_Empire,British Empire,british-empire,british-empire,UNK
+British,22315902,2,16,,http://en.wikipedia.org/wiki/British_school,British school,british-school,british-school,ORG
+British,377070,55,22,3736,http://en.wikipedia.org/wiki/British_Islands,British Islands,british-islands,british-islands,UNK
+British,5188309,390,398,31717;5188309,http://en.wikipedia.org/wiki/Energy_efficiency_in_British_housing,Energy efficiency in British housing,energy-efficiency-in-british-housing,energy-efficiency-in-british-housing,UNK
+British,460615,608,224,31717,http://en.wikipedia.org/wiki/British_undergraduate_degree_classification,British undergraduate degree classification,british-undergraduate-degree-classification,british-undergraduate-degree-classification,UNK
+British,12068557,33,45,3574003;12068557,http://en.wikipedia.org/wiki/British_India_(band),British India,british-india,british-india-band,UNK
+British,3574003,155,303,51585;31717;47905;4208015;14533;37756;4721;12068557,http://en.wikipedia.org/wiki/Presidencies_and_provinces_of_British_India,Presidencies and provinces of British India,presidencies-and-provinces-of-british-india,presidencies-and-provinces-of-british-india,GPE
+British,21308184,2,10,3434750;31717,"http://en.wikipedia.org/wiki/British_School,_Kuala_Lumpur","British School, Kuala Lumpur",british-school-kuala-lumpur,british-school-kuala-lumpur,ORG
+British,19097669,5651,715,521555;3434750;10748937;5843419;3736;4179;974923;4721;5407;4208015;13543;14533;31717,http://en.wikipedia.org/wiki/British_people,British people,british-people,british-people,UNK
+British,1513051,536,241,31717;5843419,http://en.wikipedia.org/wiki/British_Formula_Three_Championship,British Formula Three Championship,british-formula-three-championship,british-formula-three-championship,UNK
+British,4179,1639,331,4179;4721;3434750;10748937;1890;19097669;14533;103973;31717;5843419;3736,http://en.wikipedia.org/wiki/British_English,British English,british-english,british-english,UNK
+British,752921,36,197,752921;31717,http://en.wikipedia.org/wiki/British_humour,British humour,british-humour,british-humour,UNK
+British,2528948,87,128,1347221;31717,http://en.wikipedia.org/wiki/British_Airways_Flight_9,British Airways Flight 9,british-airways-flight-9,british-airways-flight-9,UNK
+British,1347221,57,98,2528948,http://en.wikipedia.org/wiki/British_Airways_Flight_5390,British Airways Flight 5390,british-airways-flight-5390,british-airways-flight-5390,UNK
+British,3736,2695,375,4179;8504;4721;377070;19097669;31717;3736,http://en.wikipedia.org/wiki/British_Isles,British Isles,british-isles,british-isles,UNK
+British,9467811,242,263,,http://en.wikipedia.org/wiki/British_baseball,British baseball,british-baseball,british-baseball,UNK
+British,201013,43,50,31717,http://en.wikipedia.org/wiki/Lord_British,Lord British,lord-british,lord-british,UNK
+British,9200791,227,281,9200791;31717;5843419;29265;3434750,http://en.wikipedia.org/wiki/British_Figure_Skating_Championships,British Figure Skating Championships,british-figure-skating-championships,british-figure-skating-championships,UNK
+British,13353120,113,130,386555,http://en.wikipedia.org/wiki/British_Band,British Band,british-band,british-band,UNK
+British,4208015,6322,788,51585;10748937;764545;1848052;19097669;3574003;29969064;4721;2707882;37756;519610;47905;13543;14533;31717,http://en.wikipedia.org/wiki/British_Raj,British Raj,british-raj,british-raj,GPE
+Catholics,606848,16975,1064,7467844;2154;5843419;974923;4721;1095706;347105;24002394;345921;37825334;290327;43583;37853250;1082197;392006;13393;41291975;2687967;606848;335721;11003920;301088;364322;27264339;25458;59453;338256;29265;32408;31717;26230922,http://en.wikipedia.org/wiki/Catholic_Church,Catholic Church,catholic-church,catholic-church,ORG
+Catholics,1082197,11,182,606848;338256;43583;1095706,http://en.wikipedia.org/wiki/Lists_of_Roman_Catholics,Lists of Roman Catholics,lists-of-roman-catholics,lists-of-roman-catholics,PER
+Catholics,1845685,27,45,,http://en.wikipedia.org/wiki/German_Catholics,German Catholics,german-catholics,german-catholics,UNK

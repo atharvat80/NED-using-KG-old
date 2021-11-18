@@ -1,0 +1,24 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+GERMAN CUP,675126,2264,259,3241723;1734592;1586579;675126;881244,http://en.wikipedia.org/wiki/DFB-Pokal,DFB-Pokal,dfb-pokal,dfb-pokal,ORG
+GERMAN CUP,32908935,30,30,,http://en.wikipedia.org/wiki/German_Cup_(ice_hockey),German Cup,german-cup,german-cup-ice-hockey,GPE
+BONN,3295,3084,310,105036;89061;101612,http://en.wikipedia.org/wiki/Bonn,Bonn,bonn,bonn,GPE
+BONN,89061,1156,184,3295;89061;4658617,http://en.wikipedia.org/wiki/University_of_Bonn,University of Bonn,university-of-bonn,university-of-bonn,ORG
+German Cup,675126,2264,259,3241723;1734592;1586579;675126;881244,http://en.wikipedia.org/wiki/DFB-Pokal,DFB-Pokal,dfb-pokal,dfb-pokal,ORG
+German Cup,32908935,30,30,,http://en.wikipedia.org/wiki/German_Cup_(ice_hockey),German Cup,german-cup,german-cup-ice-hockey,GPE
+Karlsruhe,1734592,1075,304,3241723;105036;675126;1734592;599978;1586579;881244,http://en.wikipedia.org/wiki/Karlsruher_SC,Karlsruher SC,karlsruher-sc,karlsruher-sc,UNK
+Karlsruhe,5960131,20,59,3582096;105036;15487193,http://en.wikipedia.org/wiki/SMS_Karlsruhe,SMS Karlsruhe,sms-karlsruhe,sms-karlsruhe,UNK
+Karlsruhe,194895,264,21,105036;229825,http://en.wikipedia.org/wiki/Karlsruhe_(region),Karlsruhe,karlsruhe,karlsruhe-region,UNK
+Karlsruhe,2055931,24,26,105036,http://en.wikipedia.org/wiki/Karlsruhe_model,Karlsruhe model,karlsruhe-model,karlsruhe-model,UNK
+Karlsruhe,229825,202,102,105036;194895,http://en.wikipedia.org/wiki/Karlsruhe_(district),Karlsruhe,karlsruhe,karlsruhe-district,GPE
+Karlsruhe,3582096,73,56,5960131,http://en.wikipedia.org/wiki/German_cruiser_Karlsruhe,German cruiser Karlsruhe,german-cruiser-karlsruhe,german-cruiser-karlsruhe,UNK
+Karlsruhe,15487193,20,57,105036;5960131,http://en.wikipedia.org/wiki/SMS_Karlsruhe_(1916),SMS Karlsruhe,sms-karlsruhe,sms-karlsruhe-1916,UNK
+Karlsruhe,128596,29,59,,"http://en.wikipedia.org/wiki/Karlsruhe,_North_Dakota","Karlsruhe, North Dakota",karlsruhe-north-dakota,karlsruhe-north-dakota,GPE
+Karlsruhe,105036,2198,369,105036;194895;15487193;2055931;1734592;101612;3295;5960131;229825,http://en.wikipedia.org/wiki/Karlsruhe,Karlsruhe,karlsruhe,karlsruhe,GPE
+Hansa Rostock,599978,637,253,3241723;1734592;599978;1586579;881244,http://en.wikipedia.org/wiki/F.C._Hansa_Rostock,F.C. Hansa Rostock,fc-hansa-rostock,fc-hansa-rostock,UNK
+Borussia Neunkirchen,3241723,305,103,599978;1586579;881244;675126;1734592,http://en.wikipedia.org/wiki/Borussia_Neunkirchen,Borussia Neunkirchen,borussia-neunkirchen,borussia-neunkirchen,UNK
+St Pauli,881244,813,356,3241723;675126;1734592;599978;1586579;881244;535900,http://en.wikipedia.org/wiki/FC_St._Pauli,FC St. Pauli,fc-st-pauli,fc-st-pauli,UNK
+St Pauli,535900,155,130,881244,http://en.wikipedia.org/wiki/St._Pauli,St. Pauli,st-pauli,st-pauli,GPE
+Duisburg,1586579,1079,276,3241723;675126;1734592;599978;101612;1586579;881244,http://en.wikipedia.org/wiki/MSV_Duisburg,MSV Duisburg,msv-duisburg,msv-duisburg,UNK
+Duisburg,4658617,28,7,101612;89061,http://en.wikipedia.org/wiki/University_of_Duisburg,University of Duisburg,university-of-duisburg,university-of-duisburg,ORG
+Duisburg,15465427,3,11,101612,http://en.wikipedia.org/wiki/Duisburg_(Tervuren),Duisburg,duisburg,duisburg-tervuren,UNK
+Duisburg,101612,1498,396,105036;1586579;3295;15465427;4658617,http://en.wikipedia.org/wiki/Duisburg,Duisburg,duisburg,duisburg,GPE

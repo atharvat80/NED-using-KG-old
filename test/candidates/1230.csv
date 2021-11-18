@@ -1,0 +1,109 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+WINNIPEG,100730,6283,608,281157;100730;101846;31876081;1526892;5042916;587404;429750;168998;3812764,http://en.wikipedia.org/wiki/Winnipeg,Winnipeg,winnipeg,winnipeg,GPE
+WINNIPEG,18380363,4,16,,http://en.wikipedia.org/wiki/Winnipeg_Limited,Winnipeg Limited,winnipeg-limited,winnipeg-limited,UNK
+WINNIPEG,1787741,45,31,5042916,http://en.wikipedia.org/wiki/Winnipeg_(electoral_district),Winnipeg,winnipeg,winnipeg-electoral-district,UNK
+WINNIPEG,3812764,403,97,168998;100730,http://en.wikipedia.org/wiki/Winnipeg_Beach,Winnipeg Beach,winnipeg-beach,winnipeg-beach,UNK
+WINNIPEG,587404,376,106,101846;100730,http://en.wikipedia.org/wiki/University_of_Winnipeg,University of Winnipeg,university-of-winnipeg,university-of-winnipeg,UNK
+WINNIPEG,13231745,5,32,5042916,http://en.wikipedia.org/wiki/SS_Winnipeg,SS Winnipeg,ss-winnipeg,ss-winnipeg,UNK
+WINNIPEG,168998,308,76,3812764;5042916;100730;932543;3434750,http://en.wikipedia.org/wiki/Lake_Winnipeg,Lake Winnipeg,lake-winnipeg,lake-winnipeg,UNK
+WINNIPEG,31876081,948,304,5042916;100730;3434750;31876081,http://en.wikipedia.org/wiki/Winnipeg_Jets,Winnipeg Jets,winnipeg-jets,winnipeg-jets,UNK
+WINNIPEG,932543,81,57,168998;5042916,http://en.wikipedia.org/wiki/Winnipeg_River,Winnipeg River,winnipeg-river,winnipeg-river,UNK
+Canadian,5042916,159749,788,281157;5873;6340;4236671;1702572;17232762;5042916;13231745;17259359;889461;328618;100730;101846;11406554;1526892;19851291;1510291;952445;444113;168998;1787741;932543;429750;21559355;9089046;3434750;26544195;7174310;6399816;9331428;31876081;2477935,http://en.wikipedia.org/wiki/Canada,Canada,canada,canada,GPE
+Canadian,136047,323,375,3434750;617153;441501,"http://en.wikipedia.org/wiki/Canadian,_Texas","Canadian, Texas",canadian-texas,canadian-texas,GPE
+Canadian,617153,208,50,136047;79717;92111;3434750,http://en.wikipedia.org/wiki/Canadian_River,Canadian River,canadian-river,canadian-river,UNK
+Canadian,9089046,5,9,5042916,http://en.wikipedia.org/wiki/Canadian_Bandurist_Capella,Canadian Bandurist Capella,canadian-bandurist-capella,canadian-bandurist-capella,UNK
+Canadian,2477935,122,138,2477935;5042916;3434750,http://en.wikipedia.org/wiki/Canadian_Chinese_cuisine,Canadian Chinese cuisine,canadian-chinese-cuisine,canadian-chinese-cuisine,UNK
+Canadian,17232762,30,39,5042916,http://en.wikipedia.org/wiki/Canadian_College,Canadian College,canadian-college,canadian-college,ORG
+Canadian,26544195,41,8,5042916;26544195,http://en.wikipedia.org/wiki/Canadian_Musician,Canadian Musician,canadian-musician,canadian-musician,ORG
+Canadian,130520,35,46,3434750,"http://en.wikipedia.org/wiki/Canadian,_Oklahoma","Canadian, Oklahoma",canadian-oklahoma,canadian-oklahoma,GPE
+Canadian,1526892,168,210,5042916;100730;3434750,http://en.wikipedia.org/wiki/Canadian_(train),Canadian,canadian,canadian-train,UNK
+Canadian,1684950,6,20,3434750,http://en.wikipedia.org/wiki/Canadian_River_(Colorado),Canadian River,canadian-river,canadian-river-colorado,UNK
+Canadian,21336436,40,47,,"http://en.wikipedia.org/wiki/Canadian,_Victoria","Canadian, Victoria",canadian-victoria,canadian-victoria,UNK
+Canadian,281157,198,250,5042916;100730;3434750,http://en.wikipedia.org/wiki/Canadian_Airlines,Canadian Airlines,canadian-airlines,canadian-airlines,ORG
+Canadian,4526025,84,25,,http://en.wikipedia.org/wiki/Canadian_Division,Canadian Division,canadian-division,canadian-division,ORG
+Canadian,19851291,1524,619,5042916;7174310;3434750;101846;5873;6340,http://en.wikipedia.org/wiki/Canadians,Canadians,canadians,canadians,UNK
+Canadian,952445,14,28,5042916,http://en.wikipedia.org/wiki/Canadian_Party,Canadian Party,canadian-party,canadian-party,UNK
+Canadian,1702572,66,78,5042916,http://en.wikipedia.org/wiki/Canadian_Club,Canadian Club,canadian-club,canadian-club,UNK
+Canadian,17259359,3,27,3434750;5042916,http://en.wikipedia.org/wiki/Canadian_International_(badminton),Canadian International,canadian-international,canadian-international-badminton,PER
+Canadian,6340,1256,589,5042916;7174310;3434750;101846;19851291;6340,http://en.wikipedia.org/wiki/Canadian_English,Canadian English,canadian-english,canadian-english,ORG
+Canadian,6399816,78,77,5042916,http://en.wikipedia.org/wiki/Canadian_GAA,Canadian GAA,canadian-gaa,canadian-gaa,GPE
+Canadian,4236671,83,91,101846;5042916,http://en.wikipedia.org/wiki/Canadian_Silver_Maple_Leaf,Canadian Silver Maple Leaf,canadian-silver-maple-leaf,canadian-silver-maple-leaf,UNK
+Canadian,7174310,1,278,5042916;19851291;6340;3434750,http://en.wikipedia.org/wiki/American_Canadian,American Canadian,american-canadian,american-canadian,UNK
+Canadian,92111,394,276,3434750;617153;92111,"http://en.wikipedia.org/wiki/Canadian_County,_Oklahoma","Canadian County, Oklahoma",canadian-county-oklahoma,canadian-county-oklahoma,GPE
+Canadian,328618,637,343,5042916;328618;3434750;101846,http://en.wikipedia.org/wiki/Canadian_Space_Agency,Canadian Space Agency,canadian-space-agency,canadian-space-agency,ORG
+CAN,5042916,159749,788,281157;5873;6340;4236671;1702572;17232762;5042916;13231745;17259359;889461;328618;100730;101846;11406554;1526892;19851291;1510291;952445;444113;168998;1787741;932543;429750;21559355;9089046;3434750;26544195;7174310;6399816;9331428;31876081;2477935,http://en.wikipedia.org/wiki/Canada,Canada,canada,canada,GPE
+CAN,5873,385,254,5042916;19851291;101846,http://en.wikipedia.org/wiki/Canada_Day,Canada Day,canada-day,canada-day,UNK
+CAN,398883,275,65,398883,http://en.wikipedia.org/wiki/Canon_(music),Canon,canon,canon-music,UNK
+CAN,28600493,1,4,,http://en.wikipedia.org/wiki/Mount_Cẩn,Mount Cẩn,mount-can,mount-can,UNK
+CAN,125320,1288,992,3434750,http://en.wikipedia.org/wiki/Italian_American,Italian American,italian-american,italian-american,UNK
+CAN,40842,44,9,,http://en.wikipedia.org/wiki/Cancel_character,Cancel character,cancel-character,cancel-character,PER
+CAN,11649034,4197,431,9331428,http://en.wikipedia.org/wiki/Canadian_Hot_100,Canadian Hot 100,canadian-hot-100,canadian-hot-100,UNK
+CAN,513149,94,138,,http://en.wikipedia.org/wiki/Cannibal_Holocaust,Cannibal Holocaust,cannibal-holocaust,cannibal-holocaust,UNK
+CAN,2192501,76,57,,http://en.wikipedia.org/wiki/Cancellous_bone,Cancellous bone,cancellous-bone,cancellous-bone,UNK
+CAN,44017,495,188,3434750,http://en.wikipedia.org/wiki/Candle,Candle,candle,candle,UNK
+CAN,20567885,148,9,,http://en.wikipedia.org/wiki/River_Can,River Can,river-can,river-can,GPE
+CAN,311774,289,202,3434750,http://en.wikipedia.org/wiki/Coyoacán,Coyoacán,coyoacan,coyoacan,GPE
+CAN,4094625,23,105,,http://en.wikipedia.org/wiki/Çan,Çan,can,can,UNK
+CAN,6713728,129,117,,http://en.wikipedia.org/wiki/Canons_of_page_construction,Canons of page construction,canons-of-page-construction,canons-of-page-construction,UNK
+CAN,9331428,3290,150,5042916;11649034,http://en.wikipedia.org/wiki/Canadian_Albums_Chart,Canadian Albums Chart,canadian-albums-chart,canadian-albums-chart,PER
+CAN,42504713,3,10,251573,http://en.wikipedia.org/wiki/Can_(South_Korean_band),Can,can,can-south-korean-band,PER
+CAN,394063,46,53,3434750,http://en.wikipedia.org/wiki/CAN-SPAM_Act_of_2003,CAN-SPAM Act of 2003,can-spam-act-of-2003,can-spam-act-of-2003,UNK
+CAN,14536815,184,197,,http://en.wikipedia.org/wiki/Candice_Swanepoel,Candice Swanepoel,candice-swanepoel,candice-swanepoel,PER
+CAN,11406554,21,27,5042916,http://en.wikipedia.org/wiki/Canadian_motion_picture_rating_system,Canadian motion picture rating system,canadian-motion-picture-rating-system,canadian-motion-picture-rating-system,UNK
+CAN,1510291,423,290,5042916;3434750,http://en.wikipedia.org/wiki/Can-Am,Can-Am,can-am,can-am,UNK
+CAN,251573,482,195,251573;42504713,http://en.wikipedia.org/wiki/Can_(band),Can,can,can-band,UNK
+CAN,1020378,69,146,3434750,http://en.wikipedia.org/wiki/Vulcan_statue,Vulcan statue,vulcan-statue,vulcan-statue,UNK
+CAN,13398301,20,20,,http://en.wikipedia.org/wiki/Canton_Jones,Canton Jones,canton-jones,canton-jones,UNK
+CAN,101846,2495,445,5042916;100730;3434750;5873;587404;19851291;6340;328618;4236671,http://en.wikipedia.org/wiki/Canadian_dollar,Canadian dollar,canadian-dollar,canadian-dollar,UNK
+U.S.,3434750,529967,1252,6340;44017;92111;101846;130520;125320;136047;168998;238192;233474;281157;311774;17259359;328618;10328578;1526892;1510291;394063;435793;436898;3434750;2477935;1684950;5042916;3868301;605077;617153;7174310;31876081;19851291;1020378,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S.,10328578,210,402,435793;10328648;10328590;3434750;10328620;75235;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S.,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S.,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S.,75235,531,306,22398962;889461;888778;435793;447879;436898;10328578;887108;13949871;441501;79717;428913;70780;238192;429750;889284;6310196;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S.,889461,178,203,887108;441501;79717;5042916;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S.,16304842,112,175,8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S.,233474,102,93,3434750,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S.,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S.,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;70780;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S.,10328648,378,412,903062;10328590;10328578;10328620;10328575;238192;6310196,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S.,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S.,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S.,902392,245,190,22398962;436898;10328620;75235;10328575;7261326,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S.,6737193,115,173,887108,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S.,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S.,605077,301,341,3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S.,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S.,889284,455,321,889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S.,21559355,95,143,5042916,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S.,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;887108;136047;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S.,444113,128,143,5042916,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S.,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S.,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S.,435793,251,290,889461;498188;888778;447879;436898;10328578;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S.,10328575,231,291,903062;447879;238192;6310196;10328648;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S.,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S.,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S.,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S.,903385,68,230,903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S.,447879,394,337,16304842;889461;903062;888778;435793;436898;75235;10328575;887108;9180009;441501;79717;428913;70780;8675595;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S.,2440624,133,162,70780;3868301,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S.,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S.,10328620,138,207,10328575;238192;6310196;10328648;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S.,70780,396,232,889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;238192;429750;889284;3868301,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S.,3868301,350,531,3434750;2440624;79717;70780,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S.,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S.,429750,276,240,887108;441501;79717;5042916;889461;428913;100730;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S.,436898,769,483,889461;435793;887108;441501;889284;429750;902392;888778;447879;3434750;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S.,79717,694,442,889461;435793;887108;9180009;441501;889284;429750;3868301;888778;447879;436898;75235;617153;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+U.S.,238192,394,239,889461;888778;435793;447879;436898;10328648;3434750;10328620;75235;10328575;887108;441501;79717;428913;70780;903385;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S.,6310196,592,545,435793;10328648;10328590;10328578;10328620;10328575;6310196;447879;75235;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+U.S.,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+Winnipeg,100730,6283,608,281157;100730;101846;31876081;1526892;5042916;587404;429750;168998;3812764,http://en.wikipedia.org/wiki/Winnipeg,Winnipeg,winnipeg,winnipeg,GPE
+Winnipeg,18380363,4,16,,http://en.wikipedia.org/wiki/Winnipeg_Limited,Winnipeg Limited,winnipeg-limited,winnipeg-limited,UNK
+Winnipeg,1787741,45,31,5042916,http://en.wikipedia.org/wiki/Winnipeg_(electoral_district),Winnipeg,winnipeg,winnipeg-electoral-district,UNK
+Winnipeg,3812764,403,97,168998;100730,http://en.wikipedia.org/wiki/Winnipeg_Beach,Winnipeg Beach,winnipeg-beach,winnipeg-beach,UNK
+Winnipeg,587404,376,106,101846;100730,http://en.wikipedia.org/wiki/University_of_Winnipeg,University of Winnipeg,university-of-winnipeg,university-of-winnipeg,UNK
+Winnipeg,13231745,5,32,5042916,http://en.wikipedia.org/wiki/SS_Winnipeg,SS Winnipeg,ss-winnipeg,ss-winnipeg,UNK
+Winnipeg,168998,308,76,3812764;5042916;100730;932543;3434750,http://en.wikipedia.org/wiki/Lake_Winnipeg,Lake Winnipeg,lake-winnipeg,lake-winnipeg,UNK
+Winnipeg,31876081,948,304,5042916;100730;3434750;31876081,http://en.wikipedia.org/wiki/Winnipeg_Jets,Winnipeg Jets,winnipeg-jets,winnipeg-jets,UNK
+Winnipeg,932543,81,57,168998;5042916,http://en.wikipedia.org/wiki/Winnipeg_River,Winnipeg River,winnipeg-river,winnipeg-river,UNK

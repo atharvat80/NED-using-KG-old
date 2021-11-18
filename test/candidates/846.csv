@@ -1,0 +1,32 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Serbia,29265,33224,1190,417945;147111;30371487;4642522;30723170;335647;2582228;29265;1011001;5251799;5875457;18553760;12155044;5105041;8370927;4976079;121807;28968850;55904;116011;15027128;4356288;124077;918895;123390,http://en.wikipedia.org/wiki/Serbia,Serbia,serbia,serbia,GPE
+Serbia,5251799,55,21,29265;2582228,http://en.wikipedia.org/wiki/Old_Serbia,Old Serbia,old-serbia,old-serbia,UNK
+Serbia,28968850,402,104,2582228;4976079;29265;55904;15027128,http://en.wikipedia.org/wiki/Kingdom_of_Serbia_(medieval),Kingdom of Serbia,kingdom-of-serbia,kingdom-of-serbia-medieval,GPE
+Serbia,417945,291,213,2582228;29265;417945;55904,http://en.wikipedia.org/wiki/Greater_Serbia,Greater Serbia,greater-serbia,greater-serbia,PER
+Serbia,12155044,4,118,2582228;55904;335647;29265,http://en.wikipedia.org/wiki/Kingdom_of_Serbia_(1718–39),Kingdom of Serbia,kingdom-of-serbia,kingdom-of-serbia-1718–39,GPE
+Serbia,15027128,111,95,147111;2582228;4976079;55904;29265;28968850,http://en.wikipedia.org/wiki/Republic_of_Serbia_(1992–2006),Republic of Serbia,republic-of-serbia,republic-of-serbia-1992–2006,UNK
+Serbia,2582228,1195,188,4976079;147111;28968850;417945;15027128;29265;5251799;55904;12155044,http://en.wikipedia.org/wiki/Kingdom_of_Serbia,Kingdom of Serbia,kingdom-of-serbia,kingdom-of-serbia,GPE
+Serbia,4976079,137,305,2582228;55904;15027128;29265;28968850,http://en.wikipedia.org/wiki/Territory_of_the_Military_Commander_in_Serbia,Territory of the Military Commander in Serbia,territory-of-the-military-commander-in-serbia,territory-of-the-military-commander-in-serbia,UNK
+Serbia,335647,219,205,55904;12155044;29265,http://en.wikipedia.org/wiki/Geography_of_Serbia,Geography of Serbia,geography-of-serbia,geography-of-serbia,UNK
+Serbia,1011001,1309,561,29265;1011001;55904,http://en.wikipedia.org/wiki/Serbia_national_football_team,Serbia national football team,serbia-national-football-team,serbia-national-football-team,UNK
+Zastava,8370927,69,63,147111;29265,http://en.wikipedia.org/wiki/Zastava_Arms,Zastava Arms,zastava-arms,zastava-arms,ORG
+Zastava,26406905,129,140,,"http://en.wikipedia.org/wiki/Zastava,_Črnomelj","Zastava, Črnomelj",zastava-crnomelj,zastava-crnomelj,GPE
+Zastava,4356288,13,32,147111;29265,http://en.wikipedia.org/wiki/Zastava_Florida,Zastava Florida,zastava-florida,zastava-florida,UNK
+BELGRADE,55904,9633,1211,4976079;335647;1011001;121807;28968850;417945;5875457;18553760;55904;12155044;147111;116011;15027128;30371487;2582228;5105041;4642522;30723170;29265;124077;918895;123390,http://en.wikipedia.org/wiki/Belgrade,Belgrade,belgrade,belgrade,GPE
+BELGRADE,39253940,27,41,,"http://en.wikipedia.org/wiki/Belgrade,_KwaZulu-Natal","Belgrade, KwaZulu-Natal",belgrade-kwazulu-natal,belgrade-kwazulu-natal,UNK
+BELGRADE,918895,1023,313,147111;918895;5105041;29265;55904,http://en.wikipedia.org/wiki/University_of_Belgrade,University of Belgrade,university-of-belgrade,university-of-belgrade,ORG
+BELGRADE,120944,27,43,,"http://en.wikipedia.org/wiki/Belgrade_Township,_Nicollet_County,_Minnesota","Belgrade Township, Nicollet County, Minnesota",belgrade-township-nicollet-county-minnesota,belgrade-township-nicollet-county-minnesota,GPE
+BELGRADE,4642522,26,24,29265;55904,"http://en.wikipedia.org/wiki/Belgrade,_Missouri","Belgrade, Missouri",belgrade-missouri,belgrade-missouri,GPE
+BELGRADE,116011,76,96,55904;29265,"http://en.wikipedia.org/wiki/Belgrade,_Maine","Belgrade, Maine",belgrade-maine,belgrade-maine,GPE
+BELGRADE,30371487,13,27,29265;55904,"http://en.wikipedia.org/wiki/Belgrade,_Texas","Belgrade, Texas",belgrade-texas,belgrade-texas,UNK
+BELGRADE,124077,25,44,29265;55904,"http://en.wikipedia.org/wiki/Belgrade,_Nebraska","Belgrade, Nebraska",belgrade-nebraska,belgrade-nebraska,GPE
+BELGRADE,18553760,50,34,29265;55904,http://en.wikipedia.org/wiki/Siege_of_Belgrade_(1688),Siege of Belgrade,siege-of-belgrade,siege-of-belgrade-1688,UNK
+BELGRADE,30723170,61,66,29265;55904,http://en.wikipedia.org/wiki/Capture_of_Belgrade_(1739),Capture of Belgrade,capture-of-belgrade,capture-of-belgrade-1739,UNK
+BELGRADE,121807,79,96,55904;29265,"http://en.wikipedia.org/wiki/Belgrade,_Minnesota","Belgrade, Minnesota",belgrade-minnesota,belgrade-minnesota,GPE
+BELGRADE,5875457,76,17,29265;55904,http://en.wikipedia.org/wiki/Belgrade_Theatre,Belgrade Theatre,belgrade-theatre,belgrade-theatre,UNK
+BELGRADE,123390,576,164,29265;55904,"http://en.wikipedia.org/wiki/Belgrade,_Montana","Belgrade, Montana",belgrade-montana,belgrade-montana,GPE
+Reuters,18998750,9093,418,18998750;2171552,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Kragujevac,147111,824,423,147111;8370927;918895;15027128;2582228;5105041;29265;55904;4356288,http://en.wikipedia.org/wiki/Kragujevac,Kragujevac,kragujevac,kragujevac,GPE
+Kragujevac,5105041,109,97,147111;55904;29265;5105041;918895,http://en.wikipedia.org/wiki/University_of_Kragujevac,University of Kragujevac,university-of-kragujevac,university-of-kragujevac,ORG
+Kragujevac,28951902,161,170,,http://en.wikipedia.org/wiki/Kragujevac_(Višegrad),Kragujevac,kragujevac,kragujevac-visegrad,UNK

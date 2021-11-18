@@ -1,0 +1,62 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Croatian,5573,32159,1248,2085716;5575;5573;1245772;146972;1609836;11884;11867;6724307;24554128;715240;11887947;21212;2582233;152735;899111;12164707;458559;1917091;935024;26276394;55906;3811530,http://en.wikipedia.org/wiki/Croatia,Croatia,croatia,croatia,GPE
+Croatian,12164707,1,62,5573;11867,http://en.wikipedia.org/wiki/Croatian_International,Croatian International,croatian-international,croatian-international,UNK
+Croatian,26276394,4103,329,26276394;1609836;11884;3502875;1917091;715240;11887947;5575;5573;55906;899111;6724307;146972;2582233;935024;458559,http://en.wikipedia.org/wiki/Croatian_language,Croatian language,croatian-language,croatian-language,UNK
+Croatian,3502875,108,123,1245772;21212;26276394;55906,http://en.wikipedia.org/wiki/Croatian_Wikipedia,Croatian Wikipedia,croatian-wikipedia,croatian-wikipedia,UNK
+ZAGREB,55906,6534,952,26276394;3502875;2085716;715240;11887947;5575;5573;55906;146972;2582233;458559;1609836;11884;11867;899111;6724307;935024;3811530,http://en.wikipedia.org/wiki/Zagreb,Zagreb,zagreb,zagreb,GPE
+ZAGREB,458559,295,73,6724307;935024;26276394;55906;5575;5573,http://en.wikipedia.org/wiki/Zagreb_County,Zagreb County,zagreb-county,zagreb-county,UNK
+ZAGREB,3811530,245,281,899111;6724307;55906;5573;146972,http://en.wikipedia.org/wiki/Zagreb_Airport,Zagreb Airport,zagreb-airport,zagreb-airport,UNK
+ZAGREB,1609836,773,368,715240;26276394;5573;55906,http://en.wikipedia.org/wiki/NK_Zagreb,NK Zagreb,nk-zagreb,nk-zagreb,ORG
+ZAGREB,899111,892,286,899111;6724307;11887947;26276394;5573;3811530;55906,http://en.wikipedia.org/wiki/University_of_Zagreb,University of Zagreb,university-of-zagreb,university-of-zagreb,ORG
+ZAGREB,935024,94,113,26276394;458559;55906;5573;11884,http://en.wikipedia.org/wiki/Zagreb_County_(former),Zagreb County,zagreb-county,zagreb-county-former,UNK
+Interbank,14218072,21,20,,http://en.wikipedia.org/wiki/Interbank,Interbank,interbank,interbank,ORG
+Interbank,40034174,5,10,,http://en.wikipedia.org/wiki/İnterbank,İnterbank,interbank,interbank,UNK
+Croatia,5573,32159,1248,2085716;5575;5573;1245772;146972;1609836;11884;11867;6724307;24554128;715240;11887947;21212;2582233;152735;899111;12164707;458559;1917091;935024;26276394;55906;3811530,http://en.wikipedia.org/wiki/Croatia,Croatia,croatia,croatia,GPE
+Croatia,715240,1540,634,715240;26276394;5573;55906;1609836;24554128;11867,http://en.wikipedia.org/wiki/Croatia_national_football_team,Croatia national football team,croatia-national-football-team,croatia-national-football-team,ORG
+Croatia,11887947,315,187,899111;2582233;6724307;26276394;5575;5573;11884;152735;55906;1917091,http://en.wikipedia.org/wiki/Kingdom_of_Croatia_(Habsburg),Kingdom of Croatia,kingdom-of-croatia,kingdom-of-croatia-habsburg,GPE
+Croatia,5575,274,570,2582233;6724307;26276394;5575;5573;458559;11887947;55906,http://en.wikipedia.org/wiki/Geography_of_Croatia,Geography of Croatia,geography-of-croatia,geography-of-croatia,UNK
+Croatia,1917091,222,158,11887947;26276394;5573,http://en.wikipedia.org/wiki/Greater_Croatia,Greater Croatia,greater-croatia,greater-croatia,UNK
+Croatia,2085716,201,53,55906;5573,http://en.wikipedia.org/wiki/Croatia_Records,Croatia Records,croatia-records,croatia-records,UNK
+Croatia,2582233,119,256,11887947;2582233;26276394;55906;5575;5573,http://en.wikipedia.org/wiki/Kingdom_of_Croatia_(925–1102),Kingdom of Croatia,kingdom-of-croatia,kingdom-of-croatia-925–1102,GPE
+Croatia,6724307,20,305,899111;11887947;26276394;55906;5575;5573;458559;3811530,http://en.wikipedia.org/wiki/Croatia_proper,Croatia proper,croatia-proper,croatia-proper,UNK
+Croatia,24554128,349,229,5573;11867;715240,http://en.wikipedia.org/wiki/Croatia_national_under-19_football_team,Croatia national under-19 football team,croatia-national-under-19-football-team,croatia-national-under-19-football-team,UNK
+Croatia,146972,390,320,26276394;5573;11867;3811530;55906,http://en.wikipedia.org/wiki/Croatia_Airlines,Croatia Airlines,croatia-airlines,croatia-airlines,ORG
+German,11867,167535,1367,5573;290327;10612;11884;11867;21212;55906;146972;715240;1263999;152735;1559449;24554128;476441;475014;12164707,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+German,15082689,0,4,,"http://en.wikipedia.org/wiki/German_Township,_Indiana","German Township, Indiana",german-township-indiana,german-township-indiana,UNK
+German,13314138,20,25,11884;152735,http://en.wikipedia.org/wiki/German_Party_(Yugoslavia),German Party,german-party,german-party-yugoslavia,UNK
+German,1245772,609,182,5573;11884;3502875,http://en.wikipedia.org/wiki/German_Wikipedia,German Wikipedia,german-wikipedia,german-wikipedia,UNK
+German,12453352,0,5,9269386;2241658;6046607,"http://en.wikipedia.org/wiki/German_Township,_Ohio","German Township, Ohio",german-township-ohio,german-township-ohio,UNK
+German,36286602,5,23,,http://en.wikipedia.org/wiki/Germán,Germán,german,german,UNK
+German,36687858,164,170,,"http://en.wikipedia.org/wiki/German,_Iran","German, Iran",german-iran,german-iran,UNK
+German,34977979,51,25,34978004;34977989,http://en.wikipedia.org/wiki/German_Party_(1947),German Party,german-party,german-party-1947,UNK
+German,11204290,5,18,30138606,"http://en.wikipedia.org/wiki/German,_Bulgaria","German, Bulgaria",german-bulgaria,german-bulgaria,GPE
+German,34378156,2,26,,http://en.wikipedia.org/wiki/Arthur_German,Arthur German,arthur-german,arthur-german,UNK
+German,475014,250,170,290327;11884;11867;152735,http://en.wikipedia.org/wiki/German-speaking_Community_of_Belgium,German-speaking Community of Belgium,german-speaking-community-of-belgium,german-speaking-community-of-belgium,UNK
+German,2318626,324,65,11884,http://en.wikipedia.org/wiki/German_studies,German studies,german-studies,german-studies,PER
+German,290327,1463,698,475014;152735;11884;11867,http://en.wikipedia.org/wiki/German_American,German American,german-american,german-american,UNK
+German,22184642,4,12,,http://en.wikipedia.org/wiki/German_River,German River,german-river,german-river,UNK
+German,11369455,41,54,21212;11884,http://en.wikipedia.org/wiki/German_Party_(Romania),German Party,german-party,german-party-romania,UNK
+German,42060415,46,52,15082701,"http://en.wikipedia.org/wiki/German_Township,_Kossuth_County,_Iowa","German Township, Kossuth County, Iowa",german-township-kossuth-county-iowa,german-township-kossuth-county-iowa,GPE
+German,18512402,18,11,,http://en.wikipedia.org/wiki/Les_German,Les German,les-german,les-german,PER
+German,1559449,163,120,1263999;11884;11867;21212;152735;10612,http://en.wikipedia.org/wiki/German_model,German model,german-model,german-model,UNK
+German,126281,41,50,,"http://en.wikipedia.org/wiki/German,_New_York","German, New York",german-new-york,german-new-york,GPE
+German,239855,56,80,11884,http://en.wikipedia.org/wiki/German_alphabet,German alphabet,german-alphabet,german-alphabet,UNK
+German,21212,18535,1346,5573;1559449;10612;11884;11867;3901931;3502875;21212;1263999;152735;11369455,http://en.wikipedia.org/wiki/Nazi_Germany,Nazi Germany,nazi-germany,nazi-germany,GPE
+German,132530,92,177,15082701,"http://en.wikipedia.org/wiki/German_Township,_Fayette_County,_Pennsylvania","German Township, Fayette County, Pennsylvania",german-township-fayette-county-pennsylvania,german-township-fayette-county-pennsylvania,GPE
+German,10612,1073,518,1559449;1263999;10612;11884;11867;152735;21212,http://en.wikipedia.org/wiki/Cinema_of_Germany,Cinema of Germany,cinema-of-germany,cinema-of-germany,UNK
+German,30138606,9,13,11204290,http://en.wikipedia.org/wiki/German_Peninsula,German Peninsula,german-peninsula,german-peninsula,UNK
+German,34978004,4,32,11884;1263999;34977979,http://en.wikipedia.org/wiki/German_Party_(1993),German Party,german-party,german-party-1993,UNK
+German,241920,127,87,,http://en.wikipedia.org/wiki/Edward_German,Edward German,edward-german,edward-german,UNK
+German,34977989,3,7,34977979,http://en.wikipedia.org/wiki/German_Party_(1961),German Party,german-party,german-party-1961,UNK
+German,12050833,24,279,15082701,"http://en.wikipedia.org/wiki/German_Township,_Richland_County,_Illinois","German Township, Richland County, Illinois",german-township-richland-county-illinois,german-township-richland-county-illinois,UNK
+German,6046607,34,48,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Fulton_County,_Ohio","German Township, Fulton County, Ohio",german-township-fulton-county-ohio,german-township-fulton-county-ohio,GPE
+German,24233458,2,4,,http://en.wikipedia.org/wiki/The_German,The German,the-german,the-german,UNK
+German,152735,7195,672,13314138;475014;11887947;5573;21212;1559449;1263999;290327;10612;11884;11867;152735,http://en.wikipedia.org/wiki/Germans,Germans,germans,germans,UNK
+German,1263999,412,329,11884;11867;152735;1559449;1263999;34978004;21212;10612,http://en.wikipedia.org/wiki/Elections_in_Germany,Elections in Germany,elections-in-germany,elections-in-germany,UNK
+German,476441,101,169,11884;11867,http://en.wikipedia.org/wiki/German_name,German name,german-name,german-name,UNK
+German,15082701,0,14,132530;9269386;6046607;42060415;2241658;12050833,http://en.wikipedia.org/wiki/German_Township,German Township,german-township,german-township,GPE
+German,11884,43032,653,13314138;2318626;5573;1245772;290327;10612;11867;476441;475014;3901931;11887947;21212;1263999;152735;239855;1559449;935024;26276394;55906;34978004;11369455,http://en.wikipedia.org/wiki/German_language,German language,german-language,german-language,UNK
+German,9269386,44,55,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Clark_County,_Ohio","German Township, Clark County, Ohio",german-township-clark-county-ohio,german-township-clark-county-ohio,GPE
+German,4356261,77,64,,http://en.wikipedia.org/wiki/German_(parish),German,german,german-parish,UNK
+German,3901931,32,37,21212;11884,http://en.wikipedia.org/wiki/German–Polish_Non-Aggression_Pact,German–Polish Non-Aggression Pact,german–polish-non-aggression-pact,german–polish-non-aggression-pact,UNK
+German,2241658,45,60,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Auglaize_County,_Ohio","German Township, Auglaize County, Ohio",german-township-auglaize-county-ohio,german-township-auglaize-county-ohio,GPE

@@ -1,0 +1,36 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Bangladesh,3454,16062,683,18739257;3454;4233263;68921;28473733;1951662;10137679;15269266;12690719;759341;20579666;25360214;403946;56656;3528591;2669680;10044913;32819303;672766;309760,http://en.wikipedia.org/wiki/Bangladesh,Bangladesh,bangladesh,bangladesh,GPE
+Bangladesh,1951662,94,278,309760;4233263;10137679;56656;3454;672766,http://en.wikipedia.org/wiki/Hinduism_in_Bangladesh,Hinduism in Bangladesh,hinduism-in-bangladesh,hinduism-in-bangladesh,UNK
+Bangladesh,672766,1926,632,28473733;56656;1951662;3528591;32819303;4233263;3454;68921,http://en.wikipedia.org/wiki/Bangladesh_Liberation_War,Bangladesh Liberation War,bangladesh-liberation-war,bangladesh-liberation-war,UNK
+Bangladesh,20579666,4,12,56656;3454,http://en.wikipedia.org/wiki/Taj_Mahal_Bangladesh,Taj Mahal Bangladesh,taj-mahal-bangladesh,taj-mahal-bangladesh,UNK
+Bangladesh,3528591,181,250,3528591;56656;3454;68921;672766;32819303,http://en.wikipedia.org/wiki/Bangladesh_Railway,Bangladesh Railway,bangladesh-railway,bangladesh-railway,UNK
+Bangladesh,759341,901,379,56656;3454,http://en.wikipedia.org/wiki/Bangladesh_national_cricket_team,Bangladesh national cricket team,bangladesh-national-cricket-team,bangladesh-national-cricket-team,UNK
+Bangladesh,18739257,76,99,3454,http://en.wikipedia.org/wiki/Bangladesh_(record_producer),Bangladesh,bangladesh,bangladesh-record-producer,UNK
+Bangladesh,42719999,1,6,42719999,http://en.wikipedia.org/wiki/Little_Bangladesh,Little Bangladesh,little-bangladesh,little-bangladesh,ORG
+Bangladesh,309760,241,43,56656;1951662;3454,http://en.wikipedia.org/wiki/Bangladesh_Nationalist_Party,Bangladesh Nationalist Party,bangladesh-nationalist-party,bangladesh-nationalist-party,UNK
+Bangladesh,68921,219,283,3528591;56656;3454;68921;672766,http://en.wikipedia.org/wiki/Geography_of_Bangladesh,Geography of Bangladesh,geography-of-bangladesh,geography-of-bangladesh,UNK
+Bangladesh,12690719,61,76,56656;3454;12690719,http://en.wikipedia.org/wiki/Bangladesh_University,Bangladesh University,bangladesh-university,bangladesh-university,ORG
+Bangladesh,28473733,126,268,3454;672766,http://en.wikipedia.org/wiki/Greater_Bangladesh,Greater Bangladesh,greater-bangladesh,greater-bangladesh,UNK
+DHAKA,56656,3658,560,1951662;3528591;20579666;25360214;2669680;10137679;403946;10044913;3454;15269266;12690719;56656;672766;32819303;9184959;4233263;309760;759341;68921,http://en.wikipedia.org/wiki/Dhaka,Dhaka,dhaka,dhaka,GPE
+DHAKA,2669680,126,85,56656;3454,http://en.wikipedia.org/wiki/Dhaka_College,Dhaka College,dhaka-college,dhaka-college,ORG
+DHAKA,403946,547,89,4233263;56656;3454;32819303,http://en.wikipedia.org/wiki/Dhaka_Division,Dhaka Division,dhaka-division,dhaka-division,UNK
+DHAKA,15269266,2,5,56656;3454,http://en.wikipedia.org/wiki/Dhaka_Regency,Dhaka Regency,dhaka-regency,dhaka-regency,UNK
+DHAKA,10044913,37,16,56656;3454,"http://en.wikipedia.org/wiki/Dhaka,_East_Champaran","Dhaka, East Champaran",dhaka-east-champaran,dhaka-east-champaran,UNK
+DHAKA,4233263,271,169,56656;403946;1951662;3454;672766,http://en.wikipedia.org/wiki/Dhaka_District,Dhaka District,dhaka-district,dhaka-district,UNK
+DHAKA,10137679,12,10,25360214;56656;3454;1951662,http://en.wikipedia.org/wiki/Dhaka_Club,Dhaka Club,dhaka-club,dhaka-club,UNK
+DHAKA,5647189,208,247,,http://en.wikipedia.org/wiki/Dhaka_clan,Dhaka clan,dhaka-clan,dhaka-clan,UNK
+DHAKA,32819303,600,263,56656;3454;3528591;403946;672766;32819303,http://en.wikipedia.org/wiki/University_of_Dhaka,University of Dhaka,university-of-dhaka,university-of-dhaka,ORG
+DHAKA,9184959,2,10,56656,http://en.wikipedia.org/wiki/Dhaka_(village),Dhaka,dhaka,dhaka-village,UNK
+DHAKA,25360214,29,32,10137679;56656;3454,http://en.wikipedia.org/wiki/Old_Dhaka,Old Dhaka,old-dhaka,old-dhaka,UNK
+BANGLADESH,3454,16062,683,18739257;3454;4233263;68921;28473733;1951662;10137679;15269266;12690719;759341;20579666;25360214;403946;56656;3528591;2669680;10044913;32819303;672766;309760,http://en.wikipedia.org/wiki/Bangladesh,Bangladesh,bangladesh,bangladesh,GPE
+BANGLADESH,1951662,94,278,309760;4233263;10137679;56656;3454;672766,http://en.wikipedia.org/wiki/Hinduism_in_Bangladesh,Hinduism in Bangladesh,hinduism-in-bangladesh,hinduism-in-bangladesh,UNK
+BANGLADESH,672766,1926,632,28473733;56656;1951662;3528591;32819303;4233263;3454;68921,http://en.wikipedia.org/wiki/Bangladesh_Liberation_War,Bangladesh Liberation War,bangladesh-liberation-war,bangladesh-liberation-war,UNK
+BANGLADESH,20579666,4,12,56656;3454,http://en.wikipedia.org/wiki/Taj_Mahal_Bangladesh,Taj Mahal Bangladesh,taj-mahal-bangladesh,taj-mahal-bangladesh,UNK
+BANGLADESH,3528591,181,250,3528591;56656;3454;68921;672766;32819303,http://en.wikipedia.org/wiki/Bangladesh_Railway,Bangladesh Railway,bangladesh-railway,bangladesh-railway,UNK
+BANGLADESH,759341,901,379,56656;3454,http://en.wikipedia.org/wiki/Bangladesh_national_cricket_team,Bangladesh national cricket team,bangladesh-national-cricket-team,bangladesh-national-cricket-team,UNK
+BANGLADESH,18739257,76,99,3454,http://en.wikipedia.org/wiki/Bangladesh_(record_producer),Bangladesh,bangladesh,bangladesh-record-producer,UNK
+BANGLADESH,42719999,1,6,42719999,http://en.wikipedia.org/wiki/Little_Bangladesh,Little Bangladesh,little-bangladesh,little-bangladesh,ORG
+BANGLADESH,309760,241,43,56656;1951662;3454,http://en.wikipedia.org/wiki/Bangladesh_Nationalist_Party,Bangladesh Nationalist Party,bangladesh-nationalist-party,bangladesh-nationalist-party,UNK
+BANGLADESH,68921,219,283,3528591;56656;3454;68921;672766,http://en.wikipedia.org/wiki/Geography_of_Bangladesh,Geography of Bangladesh,geography-of-bangladesh,geography-of-bangladesh,UNK
+BANGLADESH,12690719,61,76,56656;3454;12690719,http://en.wikipedia.org/wiki/Bangladesh_University,Bangladesh University,bangladesh-university,bangladesh-university,ORG
+BANGLADESH,28473733,126,268,3454;672766,http://en.wikipedia.org/wiki/Greater_Bangladesh,Greater Bangladesh,greater-bangladesh,greater-bangladesh,UNK

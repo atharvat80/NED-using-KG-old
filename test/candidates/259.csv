@@ -1,0 +1,133 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+YUGOSLAV,34244,7977,306,607040;297809;34244;8565886;55904;361966;176801;1733071;738596;923044;2652716;232269;249783;1940216;2424381;5769234,http://en.wikipedia.org/wiki/Yugoslavia,Yugoslavia,yugoslavia,yugoslavia,GPE
+YUGOSLAV,923044,663,144,381658;923044;4626685;34244;176801;232269;249783;55904;297809,http://en.wikipedia.org/wiki/Yugoslavs,Yugoslavs,yugoslavs,yugoslavs,UNK
+YUGOSLAV,297809,11798,604,381658;607040;17634183;297809;6885117;34244;5551651;24300826;55904;361966;5103317;176801;20517361;3198001;923044;4827027;4826904;4826799;861240;12576085;2652716;2652690;1132478;232269;1940216;918895;2424381;5769234;4319218,http://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia,Socialist Federal Republic of Yugoslavia,socialist-federal-republic-of-yugoslavia,socialist-federal-republic-of-yugoslavia,GPE
+YUGOSLAV,232269,3171,378,20517361;381658;607040;923044;297809;4826904;34244;861240;12576085;2652716;2652690;1132478;8565886;232269;249783;55904;1940216;918895;2424381;176801;5769234,http://en.wikipedia.org/wiki/Kingdom_of_Yugoslavia,Kingdom of Yugoslavia,kingdom-of-yugoslavia,kingdom-of-yugoslavia,GPE
+BELGRADE,55904,9633,1211,5337463;381658;607040;121807;12074915;5202955;297809;5875457;34244;18553760;5493490;5551651;8565886;2883250;55904;361966;283879;116011;30371487;5103317;176801;12587188;12103584;3198001;738596;34839100;923044;24201383;4445271;4826904;4826799;861240;1132478;4642522;232269;249783;30723170;4626685;124077;918895;2424381;123390,http://en.wikipedia.org/wiki/Belgrade,Belgrade,belgrade,belgrade,GPE
+BELGRADE,124077,25,44,55904,"http://en.wikipedia.org/wiki/Belgrade,_Nebraska","Belgrade, Nebraska",belgrade-nebraska,belgrade-nebraska,GPE
+BELGRADE,39253940,27,41,,"http://en.wikipedia.org/wiki/Belgrade,_KwaZulu-Natal","Belgrade, KwaZulu-Natal",belgrade-kwazulu-natal,belgrade-kwazulu-natal,UNK
+BELGRADE,120944,27,43,,"http://en.wikipedia.org/wiki/Belgrade_Township,_Nicollet_County,_Minnesota","Belgrade Township, Nicollet County, Minnesota",belgrade-township-nicollet-county-minnesota,belgrade-township-nicollet-county-minnesota,GPE
+BELGRADE,18553760,50,34,55904,http://en.wikipedia.org/wiki/Siege_of_Belgrade_(1688),Siege of Belgrade,siege-of-belgrade,siege-of-belgrade-1688,UNK
+BELGRADE,30371487,13,27,55904,"http://en.wikipedia.org/wiki/Belgrade,_Texas","Belgrade, Texas",belgrade-texas,belgrade-texas,UNK
+BELGRADE,30723170,61,66,55904,http://en.wikipedia.org/wiki/Capture_of_Belgrade_(1739),Capture of Belgrade,capture-of-belgrade,capture-of-belgrade-1739,UNK
+BELGRADE,121807,79,96,55904,"http://en.wikipedia.org/wiki/Belgrade,_Minnesota","Belgrade, Minnesota",belgrade-minnesota,belgrade-minnesota,GPE
+BELGRADE,5875457,76,17,55904,http://en.wikipedia.org/wiki/Belgrade_Theatre,Belgrade Theatre,belgrade-theatre,belgrade-theatre,UNK
+BELGRADE,123390,576,164,55904,"http://en.wikipedia.org/wiki/Belgrade,_Montana","Belgrade, Montana",belgrade-montana,belgrade-montana,GPE
+BELGRADE,116011,76,96,55904,"http://en.wikipedia.org/wiki/Belgrade,_Maine","Belgrade, Maine",belgrade-maine,belgrade-maine,GPE
+BELGRADE,4642522,26,24,55904,"http://en.wikipedia.org/wiki/Belgrade,_Missouri","Belgrade, Missouri",belgrade-missouri,belgrade-missouri,GPE
+BELGRADE,918895,1023,313,5337463;918895;3198001;297809;232269;249783;55904;34839100,http://en.wikipedia.org/wiki/University_of_Belgrade,University of Belgrade,university-of-belgrade,university-of-belgrade,ORG
+Yugoslav,34244,7977,306,607040;297809;34244;8565886;55904;361966;176801;1733071;738596;923044;2652716;232269;249783;1940216;2424381;5769234,http://en.wikipedia.org/wiki/Yugoslavia,Yugoslavia,yugoslavia,yugoslavia,GPE
+Yugoslav,923044,663,144,381658;923044;4626685;34244;176801;232269;249783;55904;297809,http://en.wikipedia.org/wiki/Yugoslavs,Yugoslavs,yugoslavs,yugoslavs,UNK
+Yugoslav,297809,11798,604,381658;607040;17634183;297809;6885117;34244;5551651;24300826;55904;361966;5103317;176801;20517361;3198001;923044;4827027;4826904;4826799;861240;12576085;2652716;2652690;1132478;232269;1940216;918895;2424381;5769234;4319218,http://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia,Socialist Federal Republic of Yugoslavia,socialist-federal-republic-of-yugoslavia,socialist-federal-republic-of-yugoslavia,GPE
+Yugoslav,232269,3171,378,20517361;381658;607040;923044;297809;4826904;34244;861240;12576085;2652716;2652690;1132478;8565886;232269;249783;55904;1940216;918895;2424381;176801;5769234,http://en.wikipedia.org/wiki/Kingdom_of_Yugoslavia,Kingdom of Yugoslavia,kingdom-of-yugoslavia,kingdom-of-yugoslavia,GPE
+Cukaricki,8565886,202,214,381658;1132478;2424381;20517361;4827027;55904;34244;232269;361966;4826904;6885117;12074915;12103584;12587188;5769234;4826799;607040;17634183;12576085;2652716;2652690,http://en.wikipedia.org/wiki/FK_Čukarički,FK Čukarički,fk-cukaricki,fk-cukaricki,UNK
+Cukaricki,12074915,2,8,8565886;55904,http://en.wikipedia.org/wiki/Čukarički_Stadium,Čukarički Stadium,cukaricki-stadium,cukaricki-stadium,UNK
+Hajduk,12587188,168,62,381658;1132478;2424381;20517361;4827027;55904;425345;8565886;361966;4826904;12103584;4826799;2652716,http://en.wikipedia.org/wiki/FK_Hajduk_Beograd,FK Hajduk Beograd,fk-hajduk-beograd,fk-hajduk-beograd,UNK
+Hajduk,1582579,15,23,425345,http://en.wikipedia.org/wiki/Hajduk_(soldiers),Hajduk,hajduk,hajduk-soldiers,UNK
+Hajduk,861240,1570,625,1132478;20517361;1940216;2424381;297809;4826904;12821345;6885117;929190;381658;232269;861240;5769234;607040;55904;425345;361966;738596;12576085;2652716;2652690,http://en.wikipedia.org/wiki/HNK_Hajduk_Split,HNK Hajduk Split,hnk-hajduk-split,hnk-hajduk-split,UNK
+Hajduk,425345,182,138,1582579;861240;12587188,http://en.wikipedia.org/wiki/Hajduk,Hajduk,hajduk,hajduk,UNK
+Becej,283879,354,333,4626685;176801;249783;55904;4445271,http://en.wikipedia.org/wiki/Bečej,Bečej,becej,becej,GPE
+Borac,4827027,380,166,381658;1132478;20517361;12712153;12587188;5769234;607040;17634183;2424381;297809;8565886;361966;4826904;6885117;12103584;4826799;12576085;2652716;2652690,http://en.wikipedia.org/wiki/FK_Borac_Čačak,FK Borac Čačak,fk-borac-cacak,fk-borac-cacak,UNK
+Borac,41101205,2,4,24116465,http://en.wikipedia.org/wiki/Borač,Borač,borac,borac,UNK
+Borac,24116465,189,196,41101205,"http://en.wikipedia.org/wiki/Borač,_Czech_Republic","Borač, Czech Republic",borac-czech-republic,borac-czech-republic,GPE
+Borac,607040,525,321,381658;1132478;20517361;34244;232269;861240;5769234;1940216;2424381;3198001;4827027;55904;297809;8565886;361966;4826904;4826799;12576085;2652716;2652690,http://en.wikipedia.org/wiki/FK_Borac_Banja_Luka,FK Borac Banja Luka,fk-borac-banja-luka,fk-borac-banja-luka,UNK
+Zemun,4826904,461,258,381658;1132478;20517361;232269;249783;861240;12587188;5769234;607040;17634183;1940216;5337463;2424381;4827027;55904;297809;8565886;361966;6885117;12103584;4826799;12576085;2652716;2652690,http://en.wikipedia.org/wiki/FK_Zemun,FK Zemun,fk-zemun,fk-zemun,UNK
+Zemun,24201383,10,42,249783;55904,http://en.wikipedia.org/wiki/Zemun_Clan,Zemun Clan,zemun-clan,zemun-clan,PER
+Zemun,5337463,131,12,55904;918895;249783;4826904,http://en.wikipedia.org/wiki/Zemun_Stadium,Zemun Stadium,zemun-stadium,zemun-stadium,UNK
+Zemun,249783,719,438,5202955;923044;4626685;24201383;283879;5337463;918895;3198001;4445271;4826904;381658;34244;176801;232269;55904;34839100,http://en.wikipedia.org/wiki/Zemun,Zemun,zemun,zemun,GPE
+Rad,1132478,660,276,381658;20517361;232269;861240;12587188;5769234;607040;17634183;1940216;2424381;4827027;55904;297809;8565886;361966;4826904;6885117;12103584;4826799;12576085;2652716;2652690,http://en.wikipedia.org/wiki/FK_Rad,FK Rad,fk-rad,fk-rad,UNK
+Rad,25980,70,92,25980,http://en.wikipedia.org/wiki/Radix_sort,Radix sort,radix-sort,radix-sort,UNK
+Rad,13721296,0,20,,http://en.wikipedia.org/wiki/Rad_(musician),Rad,rad,rad-musician,UNK
+Rad,26003,349,101,1363657,http://en.wikipedia.org/wiki/Radian,Radian,radian,radian,GPE
+Rad,1597485,7,19,,http://en.wikipedia.org/wiki/Radio_UserLand,Radio UserLand,radio-userland,radio-userland,UNK
+Rad,6328053,83,90,,http://en.wikipedia.org/wiki/Rad_(village),Rad,rad,rad-village,UNK
+Rad,17312447,72,14,,http://en.wikipedia.org/wiki/Rád,Rád,rad,rad,UNK
+Rad,1241628,0,148,,http://en.wikipedia.org/wiki/Ar-Ra'd,Ar-Ra'd,ar-rad,ar-rad,UNK
+Rad,5532073,426,331,,http://en.wikipedia.org/wiki/Rad_(Transformers),Rad,rad,rad-transformers,UNK
+Rad,1949062,57,37,,http://en.wikipedia.org/wiki/Radio_Radicale,Radio Radicale,radio-radicale,radio-radicale,UNK
+Rad,1481659,81,98,,http://en.wikipedia.org/wiki/Radix_tree,Radix tree,radix-tree,radix-tree,PER
+Rad,197767,642,261,37257;211485,http://en.wikipedia.org/wiki/Radioactive_decay,Radioactive decay,radioactive-decay,radioactive-decay,UNK
+Rad,37257,730,512,37257;197767;211485,http://en.wikipedia.org/wiki/Radioactive_waste,Radioactive waste,radioactive-waste,radioactive-waste,UNK
+Rad,740680,89,46,,http://en.wikipedia.org/wiki/Radar_cross-section,Radar cross-section,radar-cross-section,radar-cross-section,PER
+Rad,1363657,68,93,26003;19513952,http://en.wikipedia.org/wiki/Rad_(unit),Rad,rad,rad-unit,UNK
+Rad,2044496,578,278,,http://en.wikipedia.org/wiki/Radio_masts_and_towers,Radio masts and towers,radio-masts-and-towers,radio-masts-and-towers,UNK
+Rad,100225,957,146,,http://en.wikipedia.org/wiki/Radha,Radha,radha,radha,UNK
+Rad,19513952,0,1,1363657,http://en.wikipedia.org/wiki/Rad_(radiation),Rad,rad,rad-radiation,UNK
+Rad,38328921,6,8,38328921,http://en.wikipedia.org/wiki/Rad_(journal),Rad,rad,rad-journal,ORG
+Rad,211485,278,378,37257;197767,http://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator,Radioisotope thermoelectric generator,radioisotope-thermoelectric-generator,radioisotope-thermoelectric-generator,UNK
+Rad,6974695,5,40,,http://en.wikipedia.org/wiki/RAD_Group,RAD Group,rad-group,rad-group,UNK
+Partizan,381658,1996,682,1132478;20517361;5551651;3198001;8565886;12821345;929190;381658;232269;249783;607040;55904;361966;738596;34839100;923044;17634183;1940216;2424381;4827027;297809;4826904;6885117;4826799;861240;12587188;5769234;12103584;12576085;2652716;2652690,http://en.wikipedia.org/wiki/FK_Partizan,FK Partizan,fk-partizan,fk-partizan,UNK
+Partizan,3198001,293,96,381658;2424381;55904;297809;361966;249783;5551651;607040;918895;34839100,http://en.wikipedia.org/wiki/Partizan_Stadium,Partizan Stadium,partizan-stadium,partizan-stadium,UNK
+Partizan,41520665,1,20,43035435,"http://en.wikipedia.org/wiki/Partizan,_Sakha_Republic","Partizan, Sakha Republic",partizan-sakha-republic,partizan-sakha-republic,UNK
+Partizan,25236037,6,12,,http://en.wikipedia.org/wiki/Partizan_(band),Partizan,partizan,partizan-band,UNK
+Partizan,29550344,3,14,,http://en.wikipedia.org/wiki/Partizan_Island,Partizan Island,partizan-island,partizan-island,UNK
+Partizan,5551651,577,274,381658;5103317;29141408;5551651;3198001;55904;297809,http://en.wikipedia.org/wiki/KK_Partizan,KK Partizan,kk-partizan,kk-partizan,UNK
+Partizan,43035435,1,22,41520665,http://en.wikipedia.org/wiki/Partizan_(rural_locality),Partizan,partizan,partizan-rural-locality,UNK
+Vojvodina,2652716,1259,718,1132478;20517361;12712153;17634183;1940216;2424381;4827027;297809;8565886;4826904;6885117;4826799;929190;381658;34244;176801;232269;861240;12587188;5769234;607040;361966;12103584;12576085;2652716;2652690,http://en.wikipedia.org/wiki/FK_Vojvodina,FK Vojvodina,fk-vojvodina,fk-vojvodina,UNK
+Vojvodina,176801,1710,543,2883250;232269;249783;55904;923044;4626685;283879;297809;4445271;7763524;34244;12576085;2652716,http://en.wikipedia.org/wiki/Vojvodina,Vojvodina,vojvodina,vojvodina,GPE
+Vojvodina,2883250,8,39,176801;55904,http://en.wikipedia.org/wiki/Geography_of_Vojvodina,Geography of Vojvodina,geography-of-vojvodina,geography-of-vojvodina,UNK
+Red Star,361966,2019,912,1132478;20517361;3198001;5077936;8565886;929190;381658;607040;55904;361966;738596;34839100;17634183;1940216;2424381;4827027;297809;4826904;6885117;4826799;34244;861240;12587188;5769234;12103584;12576085;2652716;2652690,http://en.wikipedia.org/wiki/Red_Star_Belgrade,Red Star Belgrade,red-star-belgrade,red-star-belgrade,UNK
+Red Star,34839100,273,104,381658;3198001;4626685;55904;361966;249783;918895,http://en.wikipedia.org/wiki/Red_Star_Stadium,Red Star Stadium,red-star-stadium,red-star-stadium,UNK
+Red Star,14599233,11,9,,http://en.wikipedia.org/wiki/Red_Star_Records,Red Star Records,red-star-records,red-star-records,ORG
+Red Star,738596,154,145,381658;4319218;3099333;55904;34244;361966;861240,http://en.wikipedia.org/wiki/Red_star,Red star,red-star,red-star,UNK
+Red Star,20197308,24,28,,http://en.wikipedia.org/wiki/Red_Star_(EP),Red Star,red-star,red-star-ep,UNK
+Red Star,3099333,196,206,738596,http://en.wikipedia.org/wiki/Red_Star_(G.I._Joe),Red Star,red-star,red-star-gi-joe,UNK
+Red Star,895436,0,13,,http://en.wikipedia.org/wiki/Red_Star_(UK),Red Star,red-star,red-star-uk,UNK
+Red Star,7644087,52,67,,"http://en.wikipedia.org/wiki/Red_Star,_Winter_Orbit","Red Star, Winter Orbit",red-star-winter-orbit,red-star-winter-orbit,UNK
+Red Star,14062889,4,6,,http://en.wikipedia.org/wiki/Red_Star_Stadium_(Omsk),Red Star Stadium,red-star-stadium,red-star-stadium-omsk,UNK
+Red Star,36452590,44,60,,"http://en.wikipedia.org/wiki/Red_Star,_Kentucky","Red Star, Kentucky",red-star-kentucky,red-star-kentucky,GPE
+Red Star,4319218,55,144,738596;297809,http://en.wikipedia.org/wiki/Red_Star_F.C.,Red Star F.C.,red-star-fc,red-star-fc,ORG
+Red Star,5593122,14,22,,http://en.wikipedia.org/wiki/The_Red_Star,The Red Star,the-red-star,the-red-star,ORG
+Buducnost,2652690,637,317,381658;5103317;1132478;20517361;232269;861240;5769234;607040;1940216;2424381;4827027;297809;8565886;361966;4826904;6885117;4826799;12576085;2652716;2652690,http://en.wikipedia.org/wiki/FK_Budućnost_Podgorica,FK Budućnost Podgorica,fk-buducnost-podgorica,fk-buducnost-podgorica,UNK
+Buducnost,5103317,304,156,55904;297809;5551651;2652690,http://en.wikipedia.org/wiki/KK_Budućnost_Podgorica,KK Budućnost Podgorica,kk-buducnost-podgorica,kk-buducnost-podgorica,ORG
+Proleter,12576085,322,157,381658;1132478;2424381;20517361;4827027;297809;176801;232269;8565886;361966;861240;4826904;5769234;4826799;607040;1940216;2652716;2652690,http://en.wikipedia.org/wiki/FK_Proleter_Zrenjanin,FK Proleter Zrenjanin,fk-proleter-zrenjanin,fk-proleter-zrenjanin,UNK
+Proleter,12712153,95,81,4827027;2652716,http://en.wikipedia.org/wiki/FK_Proleter_Novi_Sad,FK Proleter Novi Sad,fk-proleter-novi-sad,fk-proleter-novi-sad,UNK
+Sutjeska,5769234,501,298,381658;1132478;20517361;34244;232269;861240;607040;1940216;2424381;4827027;297809;8565886;361966;4826904;12821345;6885117;4826799;12576085;2652716;2652690,http://en.wikipedia.org/wiki/FK_Sutjeska_Nikšić,FK Sutjeska Nikšić,fk-sutjeska-niksic,fk-sutjeska-niksic,UNK
+Sutjeska,5202955,10,15,249783;55904,http://en.wikipedia.org/wiki/Sutjeska_(Zemun),Sutjeska,sutjeska,sutjeska-zemun,UNK
+Sutjeska,24300826,34,154,1733071;297809,http://en.wikipedia.org/wiki/Sutjeska_(river),Sutjeska,sutjeska,sutjeska-river,UNK
+Sutjeska,7763524,57,79,176801,http://en.wikipedia.org/wiki/Sutjeska_(Sečanj),Sutjeska,sutjeska,sutjeska-secanj,GPE
+Sutjeska,1733071,39,61,34244;24300826,http://en.wikipedia.org/wiki/Sutjeska_National_Park,Sutjeska National Park,sutjeska-national-park,sutjeska-national-park,UNK
+Sloboda,1940216,437,250,381658;1132478;20517361;34244;232269;861240;5769234;607040;2424381;297809;361966;4826904;12576085;2652716;2652690,http://en.wikipedia.org/wiki/FK_Sloboda_Tuzla,FK Sloboda Tuzla,fk-sloboda-tuzla,fk-sloboda-tuzla,UNK
+Sloboda,2546304,113,30,1508006,http://en.wikipedia.org/wiki/Sloboda,Sloboda,sloboda,sloboda,UNK
+Sloboda,19036202,11,23,18666539,"http://en.wikipedia.org/wiki/Słoboda,_Podkarpackie_Voivodeship","Słoboda, Podkarpackie Voivodeship",sloboda-podkarpackie-voivodeship,sloboda-podkarpackie-voivodeship,GPE
+Sloboda,18666539,38,45,19036202,"http://en.wikipedia.org/wiki/Słoboda,_Podlaskie_Voivodeship","Słoboda, Podlaskie Voivodeship",sloboda-podlaskie-voivodeship,sloboda-podlaskie-voivodeship,GPE
+Sloboda,1508006,164,149,2546304,http://en.wikipedia.org/wiki/Sloboda_Ukraine,Sloboda Ukraine,sloboda-ukraine,sloboda-ukraine,UNK
+Sloboda,42277989,31,42,,"http://en.wikipedia.org/wiki/Sloboda,_Novoselytsia_Raion","Sloboda, Novoselytsia Raion",sloboda-novoselytsia-raion,sloboda-novoselytsia-raion,GPE
+Sloboda,29141408,42,54,5551651,http://en.wikipedia.org/wiki/KK_Sloboda_Užice,KK Sloboda Užice,kk-sloboda-uzice,kk-sloboda-uzice,UNK
+Sloboda,30690790,5,10,,http://en.wikipedia.org/wiki/Roman_Sloboda,Roman Sloboda,roman-sloboda,roman-sloboda,PER
+Loznica,33476071,2,9,,http://en.wikipedia.org/wiki/Loznica_(Valjevo),Loznica,loznica,loznica-valjevo,UNK
+Loznica,28204928,2,11,,http://en.wikipedia.org/wiki/Loznica_(Bratunac),Loznica,loznica,loznica-bratunac,GPE
+Loznica,28951915,162,170,,http://en.wikipedia.org/wiki/Loznica_(Višegrad),Loznica,loznica,loznica-visegrad,UNK
+Loznica,4626687,95,87,,http://en.wikipedia.org/wiki/Ložnica,Ložnica,loznica,loznica,UNK
+Loznica,17119384,27,35,,"http://en.wikipedia.org/wiki/Ložnica,_Velenje","Ložnica, Velenje",loznica-velenje,loznica-velenje,GPE
+Loznica,4626685,364,302,923044;176801;249783;283879;55904;4445271;34839100,http://en.wikipedia.org/wiki/Loznica,Loznica,loznica,loznica,GPE
+Loznica,21885618,30,43,,"http://en.wikipedia.org/wiki/Łoźnica,_West_Pomeranian_Voivodeship","Łoźnica, West Pomeranian Voivodeship",loznica-west-pomeranian-voivodeship,loznica-west-pomeranian-voivodeship,UNK
+Loznica,28379069,12,22,,"http://en.wikipedia.org/wiki/Ložnica,_Makole","Ložnica, Makole",loznica-makole,loznica-makole,GPE
+Loznica,28087467,2,9,,http://en.wikipedia.org/wiki/Loznica_(Čačak),Loznica,loznica,loznica-cacak,UNK
+Obilic,4826799,281,199,381658;1132478;2424381;20517361;4827027;55904;297809;8565886;361966;4826904;6885117;12103584;12587188;5769234;607040;17634183;12576085;2652716;2652690,http://en.wikipedia.org/wiki/FK_Obilić,FK Obilić,fk-obilic,fk-obilic,UNK
+Obilic,4445271,275,63,4626685;55904;176801;249783;283879,http://en.wikipedia.org/wiki/Obilić,Obilić,obilic,obilic,GPE
+OFK Kikinda,17634183,91,87,381658;1132478;2424381;20517361;4826799;4827027;297809;2652716;8565886;361966;4826904,http://en.wikipedia.org/wiki/OFK_Kikinda,OFK Kikinda,ofk-kikinda,ofk-kikinda,UNK
+Spartak,20517361,352,287,381658;1132478;232269;861240;12587188;5769234;607040;17634183;1940216;2424381;4827027;297809;8565886;361966;4826904;6885117;12103584;4826799;12576085;2652716;2652690,http://en.wikipedia.org/wiki/FK_Spartak_Zlatibor_Voda,FK Spartak Zlatibor Voda,fk-spartak-zlatibor-voda,fk-spartak-zlatibor-voda,UNK
+Spartak,4205590,33,10,,http://en.wikipedia.org/wiki/Spartak_Stadium_(Kyrgyzstan),Spartak Stadium,spartak-stadium,spartak-stadium-kyrgyzstan,UNK
+Spartak,929190,1814,480,929190;381658;361966;6885117;861240;2652716,http://en.wikipedia.org/wiki/FC_Spartak_Moscow,FC Spartak Moscow,fc-spartak-moscow,fc-spartak-moscow,UNK
+Spartak,21400762,8,6,,http://en.wikipedia.org/wiki/Spartak_Stadium_(Mogilev),Spartak Stadium,spartak-stadium,spartak-stadium-mogilev,UNK
+Spartak,17473806,0,15,,http://en.wikipedia.org/wiki/Spartak!,Spartak!,spartak,spartak,UNK
+Spartak,6574893,34,8,,http://en.wikipedia.org/wiki/Spartak_Stadium_(Babruysk),Spartak Stadium,spartak-stadium,spartak-stadium-babruysk,UNK
+Spartak,5684921,29,8,,http://en.wikipedia.org/wiki/Spartak_Stadium_(Varna),Spartak Stadium,spartak-stadium,spartak-stadium-varna,UNK
+Spartak,3234435,410,165,4506739,http://en.wikipedia.org/wiki/PFC_Spartak_Nalchik,PFC Spartak Nalchik,pfc-spartak-nalchik,pfc-spartak-nalchik,UNK
+Spartak,4506739,41,6,3234435,http://en.wikipedia.org/wiki/Spartak_Stadium_(Nalchik),Spartak Stadium,spartak-stadium,spartak-stadium-nalchik,UNK
+Spartak,40119161,6,12,,http://en.wikipedia.org/wiki/Spartak_(Ukraine),Spartak,spartak,spartak-ukraine,UNK
+Spartak,16198626,2,7,,"http://en.wikipedia.org/wiki/Spartak,_Kyrgyzstan","Spartak, Kyrgyzstan",spartak-kyrgyzstan,spartak-kyrgyzstan,GPE
+Spartak,4117806,226,68,,http://en.wikipedia.org/wiki/PFC_Spartak_Pleven,PFC Spartak Pleven,pfc-spartak-pleven,pfc-spartak-pleven,UNK
+Spartak,8074757,28,6,,http://en.wikipedia.org/wiki/Spartak_Stadium_(Novosibirsk),Spartak Stadium,spartak-stadium,spartak-stadium-novosibirsk,UNK
+Spartak,22494230,54,35,,http://en.wikipedia.org/wiki/Spartak_Stadium_(Odessa),Spartak Stadium,spartak-stadium,spartak-stadium-odessa,UNK
+OFK Beograd,2424381,902,438,1132478;20517361;17634183;1940216;3198001;4827027;297809;8565886;4826904;6885117;4826799;381658;34244;232269;861240;12587188;5769234;607040;55904;361966;12103584;12576085;2652716;2652690,http://en.wikipedia.org/wiki/OFK_Beograd,OFK Beograd,ofk-beograd,ofk-beograd,UNK
+Sutjeska,12821345,56,62,381658;5769234;861240,http://en.wikipedia.org/wiki/FK_Sutjeska_Foča,FK Sutjeska Foča,fk-sutjeska-foca,fk-sutjeska-foca,UNK
+Zeleznik,5493490,33,11,5337443;55904,http://en.wikipedia.org/wiki/Železnik,Železnik,zeleznik,zeleznik,GPE
+Zeleznik,5337443,12,6,5493490,http://en.wikipedia.org/wiki/Železnik_Stadium,Železnik Stadium,zeleznik-stadium,zeleznik-stadium,UNK
+Zeleznik,7898433,71,80,,http://en.wikipedia.org/wiki/Železník_(village),Železník,zeleznik,zeleznik-village,UNK
+Zeleznik,12103584,203,61,381658;1132478;2424381;20517361;4827027;55904;8565886;361966;4826904;12587188;4826799;2652716,http://en.wikipedia.org/wiki/FK_Železnik,FK Železnik,fk-zeleznik,fk-zeleznik,UNK
+Zeleznik,14706843,44,54,,http://en.wikipedia.org/wiki/Żeleźnik,Żeleźnik,zeleznik,zeleznik,GPE
+Rudar,5077936,338,247,361966,http://en.wikipedia.org/wiki/NK_Rudar_Velenje,NK Rudar Velenje,nk-rudar-velenje,nk-rudar-velenje,GPE
+Rudar,6885117,467,277,381658;1132478;20517361;861240;5769234;2424381;4827027;297809;8565886;361966;4826904;4826799;929190;2652716;2652690,http://en.wikipedia.org/wiki/FK_Rudar_Pljevlja,FK Rudar Pljevlja,fk-rudar-pljevlja,fk-rudar-pljevlja,UNK
+Rudar,33317360,0,2,,http://en.wikipedia.org/wiki/Rudar,Rudar,rudar,rudar,GPE

@@ -1,0 +1,25 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Frankfurt,661174,416,301,10992;274294,http://en.wikipedia.org/wiki/Frankfurt_Stock_Exchange,Frankfurt Stock Exchange,frankfurt-stock-exchange,frankfurt-stock-exchange,UNK
+Frankfurt,539067,8,2,,http://en.wikipedia.org/wiki/University_of_Frankfurt,University of Frankfurt,university-of-frankfurt,university-of-frankfurt,ORG
+Frankfurt,10992,6502,1040,229236;98577;661174;274294;4605151;862147;1695702;248285,http://en.wikipedia.org/wiki/Frankfurt,Frankfurt,frankfurt,frankfurt,GPE
+Frankfurt,34345845,3,8,,http://en.wikipedia.org/wiki/Frankfurt_(icebreaker),Frankfurt,frankfurt,frankfurt-icebreaker,PER
+Frankfurt,229236,869,443,10992;229236,http://en.wikipedia.org/wiki/Frankfurt_School,Frankfurt School,frankfurt-school,frankfurt-school,UNK
+Frankfurt,98577,479,174,10992;25646127,http://en.wikipedia.org/wiki/Frankfurt_(Oder),Frankfurt,frankfurt,frankfurt-oder,GPE
+Frankfurt,25646127,22,25,98577,http://en.wikipedia.org/wiki/Frankfurt_(Bezirk),Frankfurt,frankfurt,frankfurt-bezirk,ORG
+Frankfurt,13659323,7,6,,http://en.wikipedia.org/wiki/Frankfurt_Group,Frankfurt Group,frankfurt-group,frankfurt-group,UNK
+Frankfurt,4605151,199,160,10992,http://en.wikipedia.org/wiki/Frankfurt_(Main)_Hauptbahnhof,Frankfurt (Main) Hauptbahnhof,frankfurt-main-hauptbahnhof,frankfurt-main-hauptbahnhof,UNK
+Frankfurt,862147,1853,615,10992;862147,http://en.wikipedia.org/wiki/Eintracht_Frankfurt,Eintracht Frankfurt,eintracht-frankfurt,eintracht-frankfurt,UNK
+Frankfurt,1695702,388,310,10992,http://en.wikipedia.org/wiki/Frankfurt_Motor_Show,Frankfurt Motor Show,frankfurt-motor-show,frankfurt-motor-show,UNK
+Frankfurt,248285,872,583,10992,http://en.wikipedia.org/wiki/Frankfurt_Airport,Frankfurt Airport,frankfurt-airport,frankfurt-airport,UNK
+FRANKFURT,10992,6502,1040,229236;98577;661174;274294;4605151;862147;1695702;248285,http://en.wikipedia.org/wiki/Frankfurt,Frankfurt,frankfurt,frankfurt,GPE
+FRANKFURT,539067,8,2,,http://en.wikipedia.org/wiki/University_of_Frankfurt,University of Frankfurt,university-of-frankfurt,university-of-frankfurt,ORG
+FRANKFURT,34345845,3,8,,http://en.wikipedia.org/wiki/Frankfurt_(icebreaker),Frankfurt,frankfurt,frankfurt-icebreaker,PER
+FRANKFURT,229236,869,443,10992;229236,http://en.wikipedia.org/wiki/Frankfurt_School,Frankfurt School,frankfurt-school,frankfurt-school,UNK
+FRANKFURT,98577,479,174,10992;25646127,http://en.wikipedia.org/wiki/Frankfurt_(Oder),Frankfurt,frankfurt,frankfurt-oder,GPE
+FRANKFURT,25646127,22,25,98577,http://en.wikipedia.org/wiki/Frankfurt_(Bezirk),Frankfurt,frankfurt,frankfurt-bezirk,ORG
+FRANKFURT,13659323,7,6,,http://en.wikipedia.org/wiki/Frankfurt_Group,Frankfurt Group,frankfurt-group,frankfurt-group,UNK
+FRANKFURT,4605151,199,160,10992,http://en.wikipedia.org/wiki/Frankfurt_(Main)_Hauptbahnhof,Frankfurt (Main) Hauptbahnhof,frankfurt-main-hauptbahnhof,frankfurt-main-hauptbahnhof,UNK
+FRANKFURT,862147,1853,615,10992;862147,http://en.wikipedia.org/wiki/Eintracht_Frankfurt,Eintracht Frankfurt,eintracht-frankfurt,eintracht-frankfurt,UNK
+FRANKFURT,1695702,388,310,10992,http://en.wikipedia.org/wiki/Frankfurt_Motor_Show,Frankfurt Motor Show,frankfurt-motor-show,frankfurt-motor-show,UNK
+FRANKFURT,248285,872,583,10992,http://en.wikipedia.org/wiki/Frankfurt_Airport,Frankfurt Airport,frankfurt-airport,frankfurt-airport,UNK
+Bundesbank,274294,317,421,10992;661174,http://en.wikipedia.org/wiki/Deutsche_Bundesbank,Deutsche Bundesbank,deutsche-bundesbank,deutsche-bundesbank,UNK

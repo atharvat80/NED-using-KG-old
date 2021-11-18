@@ -1,0 +1,57 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Brazil,3383,84101,1038,1701;8079600;3383;3631;4752;23506835;30863678;13688885;2377528;409573;149286;4628340;453551;3271715;681926;11982053;3542930;1043873;357590;225504;8794264;23951144;90451;12396435;112165;30868004;27301828;19886337;30871369,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Brazil,30868004,2,61,3383,http://en.wikipedia.org/wiki/Brazil_International,Brazil International,brazil-international,brazil-international,UNK
+Brazil,16052160,4,59,,"http://en.wikipedia.org/wiki/Brazil,_Northern_Cape","Brazil, Northern Cape",brazil-northern-cape,brazil-northern-cape,UNK
+Brazil,13707513,57,75,112165,"http://en.wikipedia.org/wiki/Brazil_Township,_Clay_County,_Indiana","Brazil Township, Clay County, Indiana",brazil-township-clay-county-indiana,brazil-township-clay-county-indiana,GPE
+Brazil,13688885,76,71,3383,http://en.wikipedia.org/wiki/Kingdom_of_Brazil,Kingdom of Brazil,kingdom-of-brazil,kingdom-of-brazil,GPE
+Brazil,681926,1338,314,3383;149286,http://en.wikipedia.org/wiki/Brazilian_Football_Confederation,Brazilian Football Confederation,brazilian-football-confederation,brazilian-football-confederation,UNK
+Brazil,22575394,2,6,,"http://en.wikipedia.org/wiki/Brazil_Lake,_Nova_Scotia","Brazil Lake, Nova Scotia",brazil-lake-nova-scotia,brazil-lake-nova-scotia,GPE
+Brazil,357590,167,107,4752;3383,http://en.wikipedia.org/wiki/Communist_Party_of_Brazil,Communist Party of Brazil,communist-party-of-brazil,communist-party-of-brazil,ORG
+Brazil,38154757,13,29,,"http://en.wikipedia.org/wiki/Brazil,_Kentucky","Brazil, Kentucky",brazil-kentucky,brazil-kentucky,UNK
+Brazil,112165,193,213,13707513;3383,"http://en.wikipedia.org/wiki/Brazil,_Indiana","Brazil, Indiana",brazil-indiana,brazil-indiana,GPE
+Brazil,8794264,635,458,409573;453551;2377528;4752;27301828;1043873;30871369;3383;3631;30863678;11982053,http://en.wikipedia.org/wiki/Tourism_in_Brazil,Tourism in Brazil,tourism-in-brazil,tourism-in-brazil,ORG
+Brazil,29333456,0,11,,http://en.wikipedia.org/wiki/Mount_Brazil,Mount Brazil,mount-brazil,mount-brazil,UNK
+Brazil,27301828,209,230,8794264;3383,http://en.wikipedia.org/wiki/Coffee_production_in_Brazil,Coffee production in Brazil,coffee-production-in-brazil,coffee-production-in-brazil,UNK
+Brazil,27565426,23,40,,"http://en.wikipedia.org/wiki/Brazil,_Mississippi","Brazil, Mississippi",brazil-mississippi,brazil-mississippi,GPE
+Brazil,38411413,57,77,11982053,"http://en.wikipedia.org/wiki/Little_Brazil,_Manhattan","Little Brazil, Manhattan",little-brazil-manhattan,little-brazil-manhattan,UNK
+Brazil,149286,3969,1115,149286;3383;4752;681926,http://en.wikipedia.org/wiki/Brazil_national_football_team,Brazil national football team,brazil-national-football-team,brazil-national-football-team,ORG
+Brazil,3631,653,292,409573;453551;2377528;4752;1043873;30871369;3383;1701;3631;8794264;30863678;11982053,http://en.wikipedia.org/wiki/Geography_of_Brazil,Geography of Brazil,geography-of-brazil,geography-of-brazil,UNK
+Brazil,7519411,23,26,,http://en.wikipedia.org/wiki/Brazil_(band),Brazil,brazil,brazil-band,UNK
+Brazil,4497173,48,14,,http://en.wikipedia.org/wiki/Little_Brazil,Little Brazil,little-brazil,little-brazil,UNK
+Brazil,36002865,24,50,3542930,http://en.wikipedia.org/wiki/Brazil_with_Michael_Palin,Brazil with Michael Palin,brazil-with-michael-palin,brazil-with-michael-palin,UNK
+Brazil,4628340,199,184,11982053;3383,http://en.wikipedia.org/wiki/Dutch_Brazil,Dutch Brazil,dutch-brazil,dutch-brazil,GPE
+Brazil,19886337,4,48,3383,http://en.wikipedia.org/wiki/Brazil_(public_relations_agency),Brazil,brazil,brazil-public-relations-agency,UNK
+Amazon,1701,1183,212,453551;225504;4752;90451;3383;1701;3631;1695,http://en.wikipedia.org/wiki/Amazon_River,Amazon River,amazon-river,amazon-river,UNK
+Amazon,453551,1680,172,409573;4752;1701;8794264;2377528;1043873;30871369;3383;3631;30863678;11982053,http://en.wikipedia.org/wiki/Amazon_Basin,Amazon Basin,amazon-basin,amazon-basin,UNK
+Amazon,3083229,126,184,14312829;1371297;1335453;90451;37137750,http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk,Amazon Mechanical Turk,amazon-mechanical-turk,amazon-mechanical-turk,UNK
+Amazon,90451,10008,805,225504;1701;1695;1371297;37137750;3383;1335453;3083229;90451;14312829,http://en.wikipedia.org/wiki/Amazon.com,Amazon.com,amazoncom,amazoncom,ORG
+Amazon,225504,323,297,1701;90451;3383,http://en.wikipedia.org/wiki/Survivor:_The_Amazon,Survivor: The Amazon,survivor-the-amazon,survivor-the-amazon,UNK
+Amazon,1335453,93,102,14312829;90451;3083229;37137750;1371297,http://en.wikipedia.org/wiki/Amazon_Light,Amazon Light,amazon-light,amazon-light,UNK
+Amazon,1695,811,442,239929;90451;1701,http://en.wikipedia.org/wiki/Amazons,Amazons,amazons,amazons,UNK
+Amazon,31255899,6,42,,http://en.wikipedia.org/wiki/Amazon_(yacht),Amazon,amazon,amazon-yacht,UNK
+Amazon,10271268,4,12,,http://en.wikipedia.org/wiki/USS_Amazon_(1861),USS Amazon,uss-amazon,uss-amazon-1861,UNK
+Amazon,37137750,125,111,1335453;14312829;90451;3083229;1371297,http://en.wikipedia.org/wiki/Amazon_Studios,Amazon Studios,amazon-studios,amazon-studios,UNK
+Amazon,239929,75,71,1695,http://en.wikipedia.org/wiki/Volvo_Amazon,Volvo Amazon,volvo-amazon,volvo-amazon,UNK
+Amazon,1371297,100,114,1335453;14312829;90451;3083229;37137750,http://en.wikipedia.org/wiki/Amazon_China,Amazon China,amazon-china,amazon-china,UNK
+Amazon,35407953,15,21,,http://en.wikipedia.org/wiki/The_Amazon_(novella),The Amazon,the-amazon,the-amazon-novella,UNK
+Amazon,14312829,1016,535,1371297;37137750;90451;1335453;3083229,http://en.wikipedia.org/wiki/Amazon_Kindle,Amazon Kindle,amazon-kindle,amazon-kindle,UNK
+Amazon,3542930,20,40,36002865;3383,http://en.wikipedia.org/wiki/Amazon_Theatre,Amazon Theatre,amazon-theatre,amazon-theatre,UNK
+Amazon,36392754,32,35,,http://en.wikipedia.org/wiki/Amazon_(chess),Amazon,amazon,amazon-chess,UNK
+BRASILIA,4752,1491,563,409573;3271715;1701;8794264;149286;453551;357590;2377528;1043873;30871369;3383;3631;30863678;11982053,http://en.wikipedia.org/wiki/Brasília,Brasília,brasilia,brasilia,GPE
+BRASILIA,3271715,116,107,4752;3383,http://en.wikipedia.org/wiki/Volkswagen_Brasilia,Volkswagen Brasilia,volkswagen-brasilia,volkswagen-brasilia,UNK
+BRASILIA,30871369,99,259,453551;3631;8794264;4752;11982053;3383,http://en.wikipedia.org/wiki/Brasília_International_Airport,Brasília International Airport,brasilia-international-airport,brasilia-international-airport,UNK
+BRASILIA,2377528,62,215,453551;3631;8794264;4752;11982053;3383,http://en.wikipedia.org/wiki/University_of_Brasília,University of Brasília,university-of-brasilia,university-of-brasilia,ORG
+Brazilian,3383,84101,1038,1701;8079600;3383;3631;4752;23506835;30863678;13688885;2377528;409573;149286;4628340;453551;3271715;681926;11982053;3542930;1043873;357590;225504;8794264;23951144;90451;12396435;112165;30868004;27301828;19886337;30871369,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Brazilian,11982053,1714,305,409573;4752;8794264;453551;2377528;1043873;30871369;3383;3631;30863678;4628340;38411413,http://en.wikipedia.org/wiki/Brazilian_people,Brazilian people,brazilian-people,brazilian-people,UNK
+Brazilian,30863678,354,347,409573;1043873;453551;3383;3631;8794264;30863678;4752;11982053,http://en.wikipedia.org/wiki/Italian_Brazilian,Italian Brazilian,italian-brazilian,italian-brazilian,UNK
+Brazilian,8079600,11,28,3383,http://en.wikipedia.org/wiki/Brazilian_Island,Brazilian Island,brazilian-island,brazilian-island,UNK
+Brazilian,1043873,372,442,409573;453551;3383;3631;8794264;30863678;4752;11982053,http://en.wikipedia.org/wiki/German_Brazilian,German Brazilian,german-brazilian,german-brazilian,UNK
+Brazilian,8691009,13,27,,http://en.wikipedia.org/wiki/The_Brazilian,The Brazilian,the-brazilian,the-brazilian,UNK
+Belem,409573,839,343,453551;4752;1043873;1633120;3383;3631;8794264;30863678;11982053,http://en.wikipedia.org/wiki/Belém,Belém,belem,belem,GPE
+Belem,23506835,3,6,3383,http://en.wikipedia.org/wiki/Belém_River_(Rondônia),Belém River,belem-river,belem-river-rondonia,UNK
+Belem,8468077,22,30,,"http://en.wikipedia.org/wiki/Belém,_Cape_Verde","Belém, Cape Verde",belem-cape-verde,belem-cape-verde,UNK
+Belem,1633120,28,87,409573;1608923,http://en.wikipedia.org/wiki/Belém_(Lisbon),Belém,belem,belem-lisbon,ORG
+Belem,8207455,104,102,,"http://en.wikipedia.org/wiki/Belém,_Alagoas","Belém, Alagoas",belem-alagoas,belem-alagoas,GPE
+Belem,23951144,3,6,3383,http://en.wikipedia.org/wiki/Belém_River_(Paraná),Belém River,belem-river,belem-river-parana,UNK
+Belem,1608923,56,80,1633120,http://en.wikipedia.org/wiki/Belém_Tower,Belém Tower,belem-tower,belem-tower,UNK
+Belem,12396435,74,68,3383,"http://en.wikipedia.org/wiki/Belém,_Paraíba","Belém, Paraíba",belem-paraiba,belem-paraiba,UNK

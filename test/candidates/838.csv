@@ -1,0 +1,32 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Chad,31639859,3,96,1573293,"http://en.wikipedia.org/wiki/Chad_Valley,_Birmingham","Chad Valley, Birmingham",chad-valley-birmingham,chad-valley-birmingham,GPE
+Chad,15960292,101,111,5488;15960292;5330,http://en.wikipedia.org/wiki/Religion_in_Chad,Religion in Chad,religion-in-chad,religion-in-chad,UNK
+Chad,59314,306,87,5488;5478;16460678;539606;5330,http://en.wikipedia.org/wiki/Lake_Chad,Lake Chad,lake-chad,lake-chad,UNK
+Chad,5330,101,180,59314;5488;5478;15960292;5330,http://en.wikipedia.org/wiki/Geography_of_Chad,Geography of Chad,geography-of-chad,geography-of-chad,UNK
+Chad,33675955,3,15,,http://en.wikipedia.org/wiki/Chad_(chess_variant),Chad,chad,chad-chess-variant,UNK
+Chad,23520871,3,31,,http://en.wikipedia.org/wiki/Chad_(slang),Chad,chad,chad-slang,UNK
+Chad,5488,4810,571,334090;59314;539606;4274672;5513949;57059;5488;5478;5330;15960292;405963,http://en.wikipedia.org/wiki/Chad,Chad,chad,chad,GPE
+Chad,1349055,190,63,,http://en.wikipedia.org/wiki/Chad_Hugo,Chad Hugo,chad-hugo,chad-hugo,UNK
+Chad,20384601,8,35,,"http://en.wikipedia.org/wiki/Chad,_Matt_&_Rob","Chad, Matt & Rob",chad-matt-rob,chad-matt-rob,PER
+Chad,83481,116,20,,http://en.wikipedia.org/wiki/Chad_(paper),Chad,chad,chad-paper,UNK
+Chad,6712415,204,43,6712415,http://en.wikipedia.org/wiki/Chad_Brock,Chad Brock,chad-brock,chad-brock,UNK
+Chad,16460678,9,16,59314,http://en.wikipedia.org/wiki/Lake_Chad_(Antarctica),Lake Chad,lake-chad,lake-chad-antarctica,UNK
+Chad,1573293,104,89,31639859,http://en.wikipedia.org/wiki/Chad_Valley,Chad Valley,chad-valley,chad-valley,UNK
+N'DJAMENA,57059,0,203,5488;5478;539606;334090,http://en.wikipedia.org/wiki/N'Djamena,N'Djamena,ndjamena,ndjamena,UNK
+N'DJAMENA,4274672,0,6,5488,http://en.wikipedia.org/wiki/University_of_N'Djamena,University of N'Djamena,university-of-ndjamena,university-of-ndjamena,ORG
+N'DJAMENA,5513949,0,76,5488,http://en.wikipedia.org/wiki/N'Djamena_International_Airport,N'Djamena International Airport,ndjamena-international-airport,ndjamena-international-airport,UNK
+Idriss Deby,334090,222,55,5488;57059;405963,http://en.wikipedia.org/wiki/Idriss_Déby,Idriss Déby,idriss-deby,idriss-deby,PER
+Central African,12733410,0,6,539606;5478,http://en.wikipedia.org/wiki/Central_African,Central African,central-african,central-african,UNK
+Central African,539606,986,203,59314;57059;5488;5478;12733410,http://en.wikipedia.org/wiki/Central_Africa,Central Africa,central-africa,central-africa,UNK
+Central African,5478,5042,570,12733410;59314;539606;57059;5488;5478;5330,http://en.wikipedia.org/wiki/Central_African_Republic,Central African Republic,central-african-republic,central-african-republic,GPE
+Deby,18669698,54,63,18325619,"http://en.wikipedia.org/wiki/Dęby,_Pomeranian_Voivodeship","Dęby, Pomeranian Voivodeship",deby-pomeranian-voivodeship,deby-pomeranian-voivodeship,GPE
+Deby,18325620,23,33,18325619,"http://en.wikipedia.org/wiki/Dęby,_Kuyavian-Pomeranian_Voivodeship","Dęby, Kuyavian-Pomeranian Voivodeship",deby-kuyavian-pomeranian-voivodeship,deby-kuyavian-pomeranian-voivodeship,GPE
+Deby,19857468,24,34,18325619,"http://en.wikipedia.org/wiki/Dęby,_Masovian_Voivodeship","Dęby, Masovian Voivodeship",deby-masovian-voivodeship,deby-masovian-voivodeship,GPE
+Deby,18325619,0,6,19018007;19857468;21730408;18669698;21363292;18325620,http://en.wikipedia.org/wiki/Dęby,Dęby,deby,deby,UNK
+Deby,21730408,70,85,18325619,"http://en.wikipedia.org/wiki/Dęby,_Warmian-Masurian_Voivodeship","Dęby, Warmian-Masurian Voivodeship",deby-warmian-masurian-voivodeship,deby-warmian-masurian-voivodeship,GPE
+Deby,334090,222,55,5488;57059;405963,http://en.wikipedia.org/wiki/Idriss_Déby,Idriss Déby,idriss-deby,idriss-deby,PER
+Deby,19018007,36,48,18325619,"http://en.wikipedia.org/wiki/Dęby,_Lublin_Voivodeship","Dęby, Lublin Voivodeship",deby-lublin-voivodeship,deby-lublin-voivodeship,GPE
+Deby,21363292,23,34,18325619,"http://en.wikipedia.org/wiki/Dęby,_Lubusz_Voivodeship","Dęby, Lubusz Voivodeship",deby-lubusz-voivodeship,deby-lubusz-voivodeship,UNK
+Republican Front,1309962,40,41,,http://en.wikipedia.org/wiki/Republican_Front,Republican Front,republican-front,republican-front,ORG
+Republican Front,7242034,10,9,,http://en.wikipedia.org/wiki/Republican_Front_(France),Republican Front,republican-front,republican-front-france,UNK
+Patriotic Salvation Movement,405963,53,29,5488;334090,http://en.wikipedia.org/wiki/Patriotic_Salvation_Movement,Patriotic Salvation Movement,patriotic-salvation-movement,patriotic-salvation-movement,UNK

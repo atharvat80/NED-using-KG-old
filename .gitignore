@@ -2,8 +2,8 @@
 .api_key
 
 /test/raw/*
-# /test/mentions/*.csv
-/test/candidates/*.csv
+/test/mentions/*.csv
+# /test/candidates/*.csv
 /results/*
 
 /embeddings/*

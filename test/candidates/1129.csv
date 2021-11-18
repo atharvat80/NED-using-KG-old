@@ -1,0 +1,236 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Polish,22936,115021,1647,5843419;10597;13083;28878684;4244153;3074893;22975;22936;26748;2785800;31388;32908;67473;16717205;10339758;635098;636823;10082478;10924566;40620438;112404;1107413;11555574;962731;42187354;4329310;15335256;9387653;3967014;1028194;771860;260198;250197,http://en.wikipedia.org/wiki/Poland,Poland,poland,poland,GPE
+Polish,8338304,6,8,,http://en.wikipedia.org/wiki/Polish_Mountain,Polish Mountain,polish-mountain,polish-mountain,UNK
+Polish,42187354,20,81,22936,http://en.wikipedia.org/wiki/Polish_Party,Polish Party,polish-party,polish-party,UNK
+Polish,15335256,26,41,32908;26748;22936;5843419,"http://en.wikipedia.org/wiki/Polish_Museum,_Rapperswil","Polish Museum, Rapperswil",polish-museum-rapperswil,polish-museum-rapperswil,UNK
+Polish,40620438,4,12,22936,http://en.wikipedia.org/wiki/Polish_International,Polish International,polish-international,polish-international,PER
+Polish,2447796,35,22,,http://en.wikipedia.org/wiki/Maxwell_Street_Polish,Maxwell Street Polish,maxwell-street-polish,maxwell-street-polish,UNK
+Polish,220464,118,15,5757742,http://en.wikipedia.org/wiki/Polishing,Polishing,polishing,polishing,ORG
+Polish,9387653,8,12,22936,http://en.wikipedia.org/wiki/Polish_chicken,Polish chicken,polish-chicken,polish-chicken,UNK
+Polish,1313740,128,107,22975;1147094,http://en.wikipedia.org/wiki/Polish_Wikipedia,Polish Wikipedia,polish-wikipedia,polish-wikipedia,UNK
+Polish,2966446,220,292,22975,http://en.wikipedia.org/wiki/Polish_Hill,Polish Hill,polish-hill,polish-hill,UNK
+Polish,4776201,153,140,4776201;32908,http://en.wikipedia.org/wiki/Polish_nationality_law,Polish nationality law,polish-nationality-law,polish-nationality-law,UNK
+Polish,22975,9904,454,10904336;28878684;32908;4244153;5843419;2966446;3074893;22975;22936;1313740;10339758;10597;771860;13083;867865;635098;3967014;11157563;11555574;2785800;636823,http://en.wikipedia.org/wiki/Polish_language,Polish language,polish-language,polish-language,UNK
+Polish,11555574,12,225,22975;22936;32908,http://en.wikipedia.org/wiki/Polish_opera,Polish opera,polish-opera,polish-opera,GPE
+Polish,4329310,803,549,32908;20599016;1721644;22936;867865,http://en.wikipedia.org/wiki/Polish_resistance_movement_in_World_War_II,Polish resistance movement in World War II,polish-resistance-movement-in-world-war-ii,polish-resistance-movement-in-world-war-ii,UNK
+Polish,5757742,200,24,220464,http://en.wikipedia.org/wiki/Polishing_(metalworking),Polishing,polishing,polishing-metalworking,UNK
+Polish,1107413,479,531,22936,http://en.wikipedia.org/wiki/Polish_Club,Polish Club,polish-club,polish-club,PER
+WARSAW,32908,16012,776,32908;5843419;10924566;112404;4329310;635098;3967014;11157563;11555574;15335256;260198;260197;122528;28878684;1721644;1028194;22975;22936;129059;771860;26748;867865;4776201,http://en.wikipedia.org/wiki/Warsaw,Warsaw,warsaw,warsaw,GPE
+WARSAW,115116,159,237,137739,"http://en.wikipedia.org/wiki/Warsaw,_Kentucky","Warsaw, Kentucky",warsaw-kentucky,warsaw-kentucky,GPE
+WARSAW,41212449,1,11,129059,http://en.wikipedia.org/wiki/Warsaw_Hotel,Warsaw Hotel,warsaw-hotel,warsaw-hotel,UNK
+WARSAW,120103,57,74,141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Goodhue_County,_Minnesota","Warsaw Township, Goodhue County, Minnesota",warsaw-township-goodhue-county-minnesota,warsaw-township-goodhue-county-minnesota,GPE
+WARSAW,8285297,1,5,,http://en.wikipedia.org/wiki/Warsaw_Bridge,Warsaw Bridge,warsaw-bridge,warsaw-bridge,UNK
+WARSAW,3495456,1,4,,http://en.wikipedia.org/wiki/Little_Warsaw,Little Warsaw,little-warsaw,little-warsaw,PER
+WARSAW,10389748,59,74,141311;111265,"http://en.wikipedia.org/wiki/Warsaw_Township,_Hancock_County,_Illinois","Warsaw Township, Hancock County, Illinois",warsaw-township-hancock-county-illinois,warsaw-township-hancock-county-illinois,UNK
+WARSAW,141311,0,4,120103;10389748;132787;121578,http://en.wikipedia.org/wiki/Warsaw_Township,Warsaw Township,warsaw-township,warsaw-township,GPE
+WARSAW,25139728,35,60,121578,"http://en.wikipedia.org/wiki/Warsaw,_Minnesota","Warsaw, Minnesota",warsaw-minnesota,warsaw-minnesota,UNK
+WARSAW,111265,98,81,10389748,"http://en.wikipedia.org/wiki/Warsaw,_Illinois","Warsaw, Illinois",warsaw-illinois,warsaw-illinois,GPE
+WARSAW,122528,199,188,32908,"http://en.wikipedia.org/wiki/Warsaw,_Missouri","Warsaw, Missouri",warsaw-missouri,warsaw-missouri,GPE
+WARSAW,260197,63,57,32908;260198,"http://en.wikipedia.org/wiki/Warsaw_(village),_New_York","Warsaw (village), New York",warsaw-village-new-york,warsaw-village-new-york,GPE
+WARSAW,4091374,1,1,,http://en.wikipedia.org/wiki/Warsaw_Airport,Warsaw Airport,warsaw-airport,warsaw-airport,UNK
+WARSAW,112404,282,310,22936;32908,"http://en.wikipedia.org/wiki/Warsaw,_Indiana","Warsaw, Indiana",warsaw-indiana,warsaw-indiana,GPE
+WARSAW,11157563,624,221,22975;32908;10597,http://en.wikipedia.org/wiki/University_of_Warsaw,University of Warsaw,university-of-warsaw,university-of-warsaw,ORG
+WARSAW,22858084,238,243,,"http://en.wikipedia.org/wiki/Warsaw,_California","Warsaw, California",warsaw-california,warsaw-california,UNK
+WARSAW,3967014,139,60,32908;22975;22936,http://en.wikipedia.org/wiki/Warsaw_Philharmonic_Orchestra,Warsaw Philharmonic Orchestra,warsaw-philharmonic-orchestra,warsaw-philharmonic-orchestra,UNK
+WARSAW,18746673,0,1,,"http://en.wikipedia.org/wiki/Warsaw,_IN_µSA","Warsaw, IN µSA",warsaw-in-µsa,warsaw-in-µsa,PER
+WARSAW,127877,48,42,,"http://en.wikipedia.org/wiki/Warsaw,_North_Carolina","Warsaw, North Carolina",warsaw-north-carolina,warsaw-north-carolina,GPE
+WARSAW,129059,62,71,32908;41212449,"http://en.wikipedia.org/wiki/Warsaw,_Ohio","Warsaw, Ohio",warsaw-ohio,warsaw-ohio,GPE
+WARSAW,1028194,1,31,32908;22936,http://en.wikipedia.org/wiki/Warsaw_School_(mathematics),Warsaw School,warsaw-school,warsaw-school-mathematics,UNK
+WARSAW,260198,31,68,32908;260197;22936,"http://en.wikipedia.org/wiki/Warsaw,_New_York","Warsaw, New York",warsaw-new-york,warsaw-new-york,GPE
+WARSAW,137739,326,277,115116,"http://en.wikipedia.org/wiki/Warsaw,_Virginia","Warsaw, Virginia",warsaw-virginia,warsaw-virginia,GPE
+WARSAW,121578,38,58,25139728;141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Rice_County,_Minnesota","Warsaw Township, Rice County, Minnesota",warsaw-township-rice-county-minnesota,warsaw-township-rice-county-minnesota,GPE
+WARSAW,4244153,30,36,22975;22936,"http://en.wikipedia.org/wiki/Warsaw,_North_Dakota","Warsaw, North Dakota",warsaw-north-dakota,warsaw-north-dakota,GPE
+WARSAW,132787,45,56,141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Jefferson_County,_Pennsylvania","Warsaw Township, Jefferson County, Pennsylvania",warsaw-township-jefferson-county-pennsylvania,warsaw-township-jefferson-county-pennsylvania,GPE
+WARSAW,867865,785,470,32908;22975;4329310,http://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising,Warsaw Ghetto Uprising,warsaw-ghetto-uprising,warsaw-ghetto-uprising,UNK
+WARSAW,10280546,1,1,,"http://en.wikipedia.org/wiki/Warsaw,_IN_μSA","Warsaw, IN μSA",warsaw-in-μsa,warsaw-in-μsa,PER
+BRE,4920175,1134,713,,http://en.wikipedia.org/wiki/Brett_Favre,Brett Favre,brett-favre,brett-favre,UNK
+BRE,4419,59,55,4489,http://en.wikipedia.org/wiki/Breast_reconstruction,Breast reconstruction,breast-reconstruction,breast-reconstruction,UNK
+BRE,2093148,71,109,5843419,http://en.wikipedia.org/wiki/Breguet_Alizé,Breguet Alizé,breguet-alize,breguet-alize,UNK
+BRE,4489,982,475,4419,http://en.wikipedia.org/wiki/Breast,Breast,breast,breast,UNK
+BRE,395888,629,409,361362;26748,http://en.wikipedia.org/wiki/Bretton_Woods_system,Bretton Woods system,bretton-woods-system,bretton-woods-system,UNK
+BRE,475296,20,39,,http://en.wikipedia.org/wiki/Bre-X,Bre-X,bre-x,bre-x,UNK
+BRE,14426270,1132,506,14426270,http://en.wikipedia.org/wiki/Breaking_Bad,Breaking Bad,breaking-bad,breaking-bad,UNK
+BRE,93750,31,27,,http://en.wikipedia.org/wiki/Brennan_Manning,Brennan Manning,brennan-manning,brennan-manning,PER
+BRE,31388,794,423,635098;22936,http://en.wikipedia.org/wiki/Treaty_of_Brest-Litovsk,Treaty of Brest-Litovsk,treaty-of-brest-litovsk,treaty-of-brest-litovsk,UNK
+BRE,97026,88,43,,http://en.wikipedia.org/wiki/Breadth-first_search,Breadth-first search,breadth-first-search,breadth-first-search,UNK
+BRE,15330986,10,17,26748,http://en.wikipedia.org/wiki/Brè,Brè,bre,bre,UNK
+BRE,15066901,9,23,,http://en.wikipedia.org/wiki/BRE_(gene),BRE,bre,bre-gene,UNK
+BRE,54147,167,86,,http://en.wikipedia.org/wiki/Bremsstrahlung,Bremsstrahlung,bremsstrahlung,bremsstrahlung,UNK
+BRE,2785800,79,44,22975;22936,http://en.wikipedia.org/wiki/Brest_Fortress,Brest Fortress,brest-fortress,brest-fortress,UNK
+France,5843419,190787,1650,6122287;5843419;11188;10597;5612901;22975;22936;12943731;26748;4131857;32908;39764;320082;2567493;67473;67472;644329;597908;42474021;361362;140311;144626;2093148;962731;23527303;162873;955656;2048999;11599695;15335256;427067;9351658;771860;28190991;20599016;2687967;7351032;250197,http://en.wikipedia.org/wiki/France,France,france,france,GPE
+France,9116059,3,89,,http://en.wikipedia.org/wiki/France_Hotel,France Hotel,france-hotel,france-hotel,UNK
+France,2589960,11,10,,http://en.wikipedia.org/wiki/France_family,France family,france-family,france-family,UNK
+France,9351658,5,36,5843419,http://en.wikipedia.org/wiki/France_II,France II,france-ii,france-ii,UNK
+France,644329,374,225,5843419;955656;644329,http://en.wikipedia.org/wiki/France_Télévisions,France Télévisions,france-televisions,france-televisions,ORG
+France,6132809,173,168,,http://en.wikipedia.org/wiki/Little_France,Little France,little-france,little-france,UNK
+France,3776038,24,8,10597,http://en.wikipedia.org/wiki/University_of_France,University of France,university-of-france,university-of-france,ORG
+France,30770045,0,5,,http://en.wikipedia.org/wiki/Edward_France,Edward France,edward-france,edward-france,PER
+France,23527303,196,15,962731;5843419;11599695;11188;2687967;10597;20599016;67473;67472,http://en.wikipedia.org/wiki/Kingdom_of_France_(1791–92),Kingdom of France,kingdom-of-france,kingdom-of-france-1791–92,GPE
+France,67473,488,455,22936;5843419;4131857;11188;67473;67472;962731;26748;23527303;11599695;2687967;10597;20599016,http://en.wikipedia.org/wiki/Economy_of_France,Economy of France,economy-of-france,economy-of-france,UNK
+France,67472,417,303,5843419;11188;67473;67472;962731;26748;28878684;23527303;11599695;2687967;10597;20599016,http://en.wikipedia.org/wiki/Geography_of_France,Geography of France,geography-of-france,geography-of-france,UNK
+France,12943731,411,384,5843419;955656;250197,http://en.wikipedia.org/wiki/France_national_youth_football_team,France national youth football team,france-national-youth-football-team,france-national-youth-football-team,ORG
+France,40175041,26,46,,"http://en.wikipedia.org/wiki/La_France,_South_Carolina","La France, South Carolina",la-france-south-carolina,la-france-south-carolina,GPE
+France,2567493,90,99,5612901;10597;5843419,http://en.wikipedia.org/wiki/France_Info,France Info,france-info,france-info,UNK
+France,2687967,3313,297,2687967;962731;11188;23527303;10597;5843419;20599016;67473;67472;11599695,http://en.wikipedia.org/wiki/Kingdom_of_France,Kingdom of France,kingdom-of-france,kingdom-of-france,GPE
+France,42474021,5,22,5843419,http://en.wikipedia.org/wiki/Little_France_(castle),Little France,little-france,little-france-castle,UNK
+France,39251067,5,13,,http://en.wikipedia.org/wiki/La_France_(French_newspaper),La France,la-france,la-france-french-newspaper,UNK
+France,20599016,2454,744,2687967;39764;20599016;67473;67472;962731;11188;23527303;11599695;10597;5843419;26748;4329310,http://en.wikipedia.org/wiki/Vichy_France,Vichy France,vichy-france,vichy-france,GPE
+France,11809,513,287,39764,http://en.wikipedia.org/wiki/Francesco_Cossiga,Francesco Cossiga,francesco-cossiga,francesco-cossiga,PER
+France,6122287,56,58,5843419,http://en.wikipedia.org/wiki/France_(Epcot),France,france,france-epcot,UNK
+France,250197,3412,873,955656;10597;250197;771860;5843419;26748;39764;22936;12943731,http://en.wikipedia.org/wiki/France_national_football_team,France national football team,france-national-football-team,france-national-football-team,UNK
+France,955656,2298,525,644329;250197;5843419;12943731,http://en.wikipedia.org/wiki/France_national_rugby_union_team,France national rugby union team,france-national-rugby-union-team,france-national-rugby-union-team,UNK
+France,5612901,146,75,2567493;10597;5843419,http://en.wikipedia.org/wiki/France_Culture,France Culture,france-culture,france-culture,UNK
+France,4131857,209,198,5843419;4131857;67473,http://en.wikipedia.org/wiki/Nuclear_power_in_France,Nuclear power in France,nuclear-power-in-france,nuclear-power-in-france,UNK
+France,19088931,16,6,,http://en.wikipedia.org/wiki/La_France_(airship),La France,la-france,la-france-airship,UNK
+Hachette,140311,818,91,1001933;5414157;5843419,http://en.wikipedia.org/wiki/Hachette_Filipacchi_Médias,Hachette Filipacchi Médias,hachette-filipacchi-medias,hachette-filipacchi-medias,UNK
+Hachette,5414157,263,204,140311;1001933,http://en.wikipedia.org/wiki/Hachette_Book_Group_USA,Hachette Book Group USA,hachette-book-group-usa,hachette-book-group-usa,ORG
+Hachette,1001933,232,132,140311;5414157;1001933,http://en.wikipedia.org/wiki/Hachette_(publisher),Hachette,hachette,hachette-publisher,UNK
+Zycie Warszawy,10924566,25,5,32908;22936,http://en.wikipedia.org/wiki/Życie_Warszawy,Życie Warszawy,zycie-warszawy,zycie-warszawy,UNK
+Zygmunt Solorz,16717205,10,8,22936,http://en.wikipedia.org/wiki/Zygmunt_Solorz-Żak,Zygmunt Solorz-Żak,zygmunt-solorz-zak,zygmunt-solorz-zak,PER
+Warsaw,32908,16012,776,32908;5843419;10924566;112404;4329310;635098;3967014;11157563;11555574;15335256;260198;260197;122528;28878684;1721644;1028194;22975;22936;129059;771860;26748;867865;4776201,http://en.wikipedia.org/wiki/Warsaw,Warsaw,warsaw,warsaw,GPE
+Warsaw,115116,159,237,137739,"http://en.wikipedia.org/wiki/Warsaw,_Kentucky","Warsaw, Kentucky",warsaw-kentucky,warsaw-kentucky,GPE
+Warsaw,41212449,1,11,129059,http://en.wikipedia.org/wiki/Warsaw_Hotel,Warsaw Hotel,warsaw-hotel,warsaw-hotel,UNK
+Warsaw,120103,57,74,141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Goodhue_County,_Minnesota","Warsaw Township, Goodhue County, Minnesota",warsaw-township-goodhue-county-minnesota,warsaw-township-goodhue-county-minnesota,GPE
+Warsaw,8285297,1,5,,http://en.wikipedia.org/wiki/Warsaw_Bridge,Warsaw Bridge,warsaw-bridge,warsaw-bridge,UNK
+Warsaw,3495456,1,4,,http://en.wikipedia.org/wiki/Little_Warsaw,Little Warsaw,little-warsaw,little-warsaw,PER
+Warsaw,10389748,59,74,141311;111265,"http://en.wikipedia.org/wiki/Warsaw_Township,_Hancock_County,_Illinois","Warsaw Township, Hancock County, Illinois",warsaw-township-hancock-county-illinois,warsaw-township-hancock-county-illinois,UNK
+Warsaw,141311,0,4,120103;10389748;132787;121578,http://en.wikipedia.org/wiki/Warsaw_Township,Warsaw Township,warsaw-township,warsaw-township,GPE
+Warsaw,25139728,35,60,121578,"http://en.wikipedia.org/wiki/Warsaw,_Minnesota","Warsaw, Minnesota",warsaw-minnesota,warsaw-minnesota,UNK
+Warsaw,111265,98,81,10389748,"http://en.wikipedia.org/wiki/Warsaw,_Illinois","Warsaw, Illinois",warsaw-illinois,warsaw-illinois,GPE
+Warsaw,122528,199,188,32908,"http://en.wikipedia.org/wiki/Warsaw,_Missouri","Warsaw, Missouri",warsaw-missouri,warsaw-missouri,GPE
+Warsaw,260197,63,57,32908;260198,"http://en.wikipedia.org/wiki/Warsaw_(village),_New_York","Warsaw (village), New York",warsaw-village-new-york,warsaw-village-new-york,GPE
+Warsaw,4091374,1,1,,http://en.wikipedia.org/wiki/Warsaw_Airport,Warsaw Airport,warsaw-airport,warsaw-airport,UNK
+Warsaw,112404,282,310,22936;32908,"http://en.wikipedia.org/wiki/Warsaw,_Indiana","Warsaw, Indiana",warsaw-indiana,warsaw-indiana,GPE
+Warsaw,11157563,624,221,22975;32908;10597,http://en.wikipedia.org/wiki/University_of_Warsaw,University of Warsaw,university-of-warsaw,university-of-warsaw,ORG
+Warsaw,22858084,238,243,,"http://en.wikipedia.org/wiki/Warsaw,_California","Warsaw, California",warsaw-california,warsaw-california,UNK
+Warsaw,3967014,139,60,32908;22975;22936,http://en.wikipedia.org/wiki/Warsaw_Philharmonic_Orchestra,Warsaw Philharmonic Orchestra,warsaw-philharmonic-orchestra,warsaw-philharmonic-orchestra,UNK
+Warsaw,18746673,0,1,,"http://en.wikipedia.org/wiki/Warsaw,_IN_µSA","Warsaw, IN µSA",warsaw-in-µsa,warsaw-in-µsa,PER
+Warsaw,127877,48,42,,"http://en.wikipedia.org/wiki/Warsaw,_North_Carolina","Warsaw, North Carolina",warsaw-north-carolina,warsaw-north-carolina,GPE
+Warsaw,129059,62,71,32908;41212449,"http://en.wikipedia.org/wiki/Warsaw,_Ohio","Warsaw, Ohio",warsaw-ohio,warsaw-ohio,GPE
+Warsaw,1028194,1,31,32908;22936,http://en.wikipedia.org/wiki/Warsaw_School_(mathematics),Warsaw School,warsaw-school,warsaw-school-mathematics,UNK
+Warsaw,260198,31,68,32908;260197;22936,"http://en.wikipedia.org/wiki/Warsaw,_New_York","Warsaw, New York",warsaw-new-york,warsaw-new-york,GPE
+Warsaw,137739,326,277,115116,"http://en.wikipedia.org/wiki/Warsaw,_Virginia","Warsaw, Virginia",warsaw-virginia,warsaw-virginia,GPE
+Warsaw,121578,38,58,25139728;141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Rice_County,_Minnesota","Warsaw Township, Rice County, Minnesota",warsaw-township-rice-county-minnesota,warsaw-township-rice-county-minnesota,GPE
+Warsaw,4244153,30,36,22975;22936,"http://en.wikipedia.org/wiki/Warsaw,_North_Dakota","Warsaw, North Dakota",warsaw-north-dakota,warsaw-north-dakota,GPE
+Warsaw,132787,45,56,141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Jefferson_County,_Pennsylvania","Warsaw Township, Jefferson County, Pennsylvania",warsaw-township-jefferson-county-pennsylvania,warsaw-township-jefferson-county-pennsylvania,GPE
+Warsaw,867865,785,470,32908;22975;4329310,http://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising,Warsaw Ghetto Uprising,warsaw-ghetto-uprising,warsaw-ghetto-uprising,UNK
+Warsaw,10280546,1,1,,"http://en.wikipedia.org/wiki/Warsaw,_IN_μSA","Warsaw, IN μSA",warsaw-in-μsa,warsaw-in-μsa,PER
+division,13744020,0,3,,http://en.wikipedia.org/wiki/Division_General_(Bosnia),Division General,division-general,division-general-bosnia,UNK
+division,1791272,2,43,995449,http://en.wikipedia.org/wiki/Second_Division,Second Division,second-division,second-division,PER
+division,11501028,21,24,,http://en.wikipedia.org/wiki/Division_(music),Division,division,division-music,UNK
+division,26128861,2,189,,http://en.wikipedia.org/wiki/Division_Mountain,Division Mountain,division-mountain,division-mountain,UNK
+division,1845063,161,190,,http://en.wikipedia.org/wiki/79th_Armoured_Division_(United_Kingdom),79th Armoured Division,79th-armoured-division,79th-armoured-division-united-kingdom,ORG
+division,4084112,21,17,,http://en.wikipedia.org/wiki/Division_(horticulture),Division,division,division-horticulture,UNK
+division,7207645,1749,17,7207645,http://en.wikipedia.org/wiki/Division_(business),Division,division,division-business,UNK
+division,9755361,391,149,,http://en.wikipedia.org/wiki/A_Division_(New_York_City_Subway),A Division,a-division,a-division-new-york-city-subway,UNK
+division,1938160,210,201,226729,http://en.wikipedia.org/wiki/Division_(country_subdivision),Division,division,division-country-subdivision,UNK
+division,185663,91,69,53696,http://en.wikipedia.org/wiki/Division_by_zero,Division by zero,division-by-zero,division-by-zero,UNK
+division,7606851,240,119,7606851,http://en.wikipedia.org/wiki/A-Division_(Bhutan),A-Division,a-division,a-division-bhutan,UNK
+division,53696,219,84,3336479;53696;185663,http://en.wikipedia.org/wiki/Division_(mathematics),Division,division,division-mathematics,UNK
+division,14909814,166,175,,http://en.wikipedia.org/wiki/Division_Street_(Manhattan),Division Street,division-street,division-street-manhattan,UNK
+division,1608423,2883,112,248295;874503,http://en.wikipedia.org/wiki/Division_II_(NCAA),Division II,division-ii,division-ii-ncaa,ORG
+division,183054,71,93,,http://en.wikipedia.org/wiki/Divisions_of_the_world_in_Islam,Divisions of the world in Islam,divisions-of-the-world-in-islam,divisions-of-the-world-in-islam,UNK
+division,36869,474,99,,http://en.wikipedia.org/wiki/Cell_division,Cell division,cell-division,cell-division,UNK
+division,14544236,34,36,,"http://en.wikipedia.org/wiki/Division_Street,_Sheffield","Division Street, Sheffield",division-street-sheffield,division-street-sheffield,UNK
+division,874503,2095,162,1608423;248295,http://en.wikipedia.org/wiki/Division_III_(NCAA),Division III,division-iii,division-iii-ncaa,ORG
+division,248295,295,32,1608423;874503,http://en.wikipedia.org/wiki/Division_(sport),Division,division,division-sport,UNK
+division,226729,1344,175,1938160,http://en.wikipedia.org/wiki/Divisions_of_Bangladesh,Divisions of Bangladesh,divisions-of-bangladesh,divisions-of-bangladesh,UNK
+division,145415,2353,248,1721644,http://en.wikipedia.org/wiki/Division_(military),Division,division,division-military,ORG
+division,4525904,48,25,22015687,http://en.wikipedia.org/wiki/American_Division,American Division,american-division,american-division,ORG
+division,22015687,69,43,4525904,http://en.wikipedia.org/wiki/U.S._Division,U.S. Division,us-division,us-division,UNK
+division,376938,90,108,,http://en.wikipedia.org/wiki/Division_of_the_assembly,Division of the assembly,division-of-the-assembly,division-of-the-assembly,UNK
+division,2121606,98,87,,http://en.wikipedia.org/wiki/Division_Street_(Chicago),Division Street,division-street,division-street-chicago,UNK
+division,1721644,179,192,32908;145415;4329310,http://en.wikipedia.org/wiki/5th_SS_Panzer_Division_Wiking,5th SS Panzer Division Wiking,5th-ss-panzer-division-wiking,5th-ss-panzer-division-wiking,ORG
+division,3336479,28,35,53696,http://en.wikipedia.org/wiki/Division_algorithm,Division algorithm,division-algorithm,division-algorithm,UNK
+division,522936,75,67,,http://en.wikipedia.org/wiki/Fallacy_of_division,Fallacy of division,fallacy-of-division,fallacy-of-division,UNK
+division,1515510,519,123,10597,http://en.wikipedia.org/wiki/Belgian_Third_Division,Belgian Third Division,belgian-third-division,belgian-third-division,UNK
+division,4320847,20,18,,http://en.wikipedia.org/wiki/Air_Division_(United_States),Air Division,air-division,air-division-united-states,ORG
+division,2302694,282,63,,http://en.wikipedia.org/wiki/The_Division,The Division,the-division,the-division,UNK
+division,42291767,10,6,,http://en.wikipedia.org/wiki/Division_(naval),Division,division,division-naval,PER
+division,7624210,95,78,,http://en.wikipedia.org/wiki/GFA_League_First_Division,GFA League First Division,gfa-league-first-division,gfa-league-first-division,UNK
+division,995449,41,10,1791272,http://en.wikipedia.org/wiki/First_division_(baseball),First division,first-division,first-division-baseball,UNK
+French,5843419,190787,1650,6122287;5843419;11188;10597;5612901;22975;22936;12943731;26748;4131857;32908;39764;320082;2567493;67473;67472;644329;597908;42474021;361362;140311;144626;2093148;962731;23527303;162873;955656;2048999;11599695;15335256;427067;9351658;771860;28190991;20599016;2687967;7351032;250197,http://en.wikipedia.org/wiki/France,France,france,france,GPE
+French,39783493,0,18,,http://en.wikipedia.org/wiki/French_Mountain,French Mountain,french-mountain,french-mountain,UNK
+French,34368007,0,5,32924780;30896353;23911533,http://en.wikipedia.org/wiki/Edward_French,Edward French,edward-french,edward-french,PER
+French,25305700,16,24,4916317,http://en.wikipedia.org/wiki/Arthur_French_(actor),Arthur French,arthur-french,arthur-french-actor,PER
+French,13570077,3,35,10597;10904336,http://en.wikipedia.org/wiki/American_French,American French,american-french,american-french,UNK
+French,10904336,510,152,22975;13570077;10597,http://en.wikipedia.org/wiki/Canadian_French,Canadian French,canadian-french,canadian-french,UNK
+French,102012,119,139,,http://en.wikipedia.org/wiki/French_Island_(Victoria),French Island,french-island,french-island-victoria,UNK
+French,20140721,1,7,,http://en.wikipedia.org/wiki/French_Mountains,French Mountains,french-mountains,french-mountains,UNK
+French,1711156,7,4,,http://en.wikipedia.org/wiki/The_French_(band),The French,the-french,the-french-band,UNK
+French,38870015,2,8,,http://en.wikipedia.org/wiki/French_(1790_cricketer),French,french,french-1790-cricketer,PER
+French,23544670,5,13,,http://en.wikipedia.org/wiki/French_River_(Minnesota),French River,french-river,french-river-minnesota,UNK
+French,2563278,12,46,,http://en.wikipedia.org/wiki/French_Market,French Market,french-market,french-market,UNK
+French,24563621,3,24,10597,http://en.wikipedia.org/wiki/French_Church_(Bucharest),French Church,french-church,french-church-bucharest,UNK
+French,11188,8628,701,2687967;962731;23527303;5843419;20599016;144626;67473;67472;7114160;11599695;427067;320082;11188;10597;26748,http://en.wikipedia.org/wiki/French_Revolution,French Revolution,french-revolution,french-revolution,UNK
+French,21713935,5,15,10597,http://en.wikipedia.org/wiki/French_California,French California,french-california,french-california,UNK
+French,7114160,196,287,11188,http://en.wikipedia.org/wiki/French_opera,French opera,french-opera,french-opera,UNK
+French,597908,327,186,889565;5843419;10597,http://en.wikipedia.org/wiki/French_River_(Ontario),French River,french-river,french-river-ontario,UNK
+French,23911533,3,10,23911533;34368007,http://en.wikipedia.org/wiki/Edward_French_(professor),Edward French,edward-french,edward-french-professor,UNK
+French,10464596,12,72,,http://en.wikipedia.org/wiki/French_Party,French Party,french-party,french-party,UNK
+French,42473218,9,15,10597,http://en.wikipedia.org/wiki/La_French,La French,la-french,la-french,UNK
+French,14640382,7,179,,http://en.wikipedia.org/wiki/French_Valley,French Valley,french-valley,french-valley,UNK
+French,889565,0,8,8788076;597908,http://en.wikipedia.org/wiki/French_River,French River,french-river,french-river,UNK
+French,21431860,17,13,4916317,http://en.wikipedia.org/wiki/Arthur_French_(politician),Arthur French,arthur-french,arthur-french-politician,PER
+French,30896353,1,24,34368007,http://en.wikipedia.org/wiki/Edward_French_(cricketer),Edward French,edward-french,edward-french-cricketer,PER
+French,2591353,64,23,,http://en.wikipedia.org/wiki/French_Louisiana,French Louisiana,french-louisiana,french-louisiana,UNK
+French,8788076,16,17,889565,http://en.wikipedia.org/wiki/French_River_(Massachusetts),French River,french-river,french-river-massachusetts,UNK
+French,17490726,0,1,1379952,http://en.wikipedia.org/wiki/Mount_French,Mount French,mount-french,mount-french,UNK
+French,212066,155,50,10597,http://en.wikipedia.org/wiki/French_Canada,French Canada,french-canada,french-canada,UNK
+French,1131875,166,149,,http://en.wikipedia.org/wiki/French_Hill,French Hill,french-hill,french-hill,UNK
+French,11599695,307,339,5843419;11188;67473;67472;962731;23527303;11599695;2687967;10597;20599016,http://en.wikipedia.org/wiki/French_architecture,French architecture,french-architecture,french-architecture,UNK
+French,2048999,128,61,10597;5843419,http://en.wikipedia.org/wiki/French_Community,French Community,french-community,french-community,UNK
+French,1147094,868,118,1313740;1147094;10597;26748,http://en.wikipedia.org/wiki/French_Wikipedia,French Wikipedia,french-wikipedia,french-wikipedia,UNK
+French,22868267,0,2,,http://en.wikipedia.org/wiki/French_Village,French Village,french-village,french-village,GPE
+French,2642797,4,11,10597,http://en.wikipedia.org/wiki/Pardon_my_French,Pardon my French,pardon-my-french,pardon-my-french,UNK
+French,4916317,0,6,21431860;25305700,http://en.wikipedia.org/wiki/Arthur_French,Arthur French,arthur-french,arthur-french,PER
+French,12565649,113,142,,http://en.wikipedia.org/wiki/USS_French_(DE-367),USS French,uss-french,uss-french-de-367,UNK
+French,10597,33530,620,212066;5843419;2567493;67473;67472;11188;10597;1515510;10904336;962731;23527303;5612901;24563621;22975;22936;21713935;26748;13570077;3776038;2642797;2048999;313833;28190991;20599016;11599695;597908;320082;42473218;11157563;1147094;2687967;7351032;361362;250197,http://en.wikipedia.org/wiki/French_language,French language,french-language,french-language,UNK
+French,24850237,518,135,24850237,http://en.wikipedia.org/wiki/French_Montana,French Montana,french-montana,french-montana,UNK
+French,962731,5647,501,2687967;11188;23527303;10597;5843419;26748;7351032;39764;20599016;67473;67472;11599695;22936,http://en.wikipedia.org/wiki/French_people,French people,french-people,french-people,UNK
+French,320082,1152,187,11188;10597;5843419;26748,http://en.wikipedia.org/wiki/Old_French,Old French,old-french,old-french,UNK
+French,3798286,0,5,,http://en.wikipedia.org/wiki/French_Lake,French Lake,french-lake,french-lake,UNK
+French,1379952,10,23,17490726,http://en.wikipedia.org/wiki/Mount_French_(Queensland),Mount French,mount-french,mount-french-queensland,UNK
+French,35676031,3,7,,http://en.wikipedia.org/wiki/French_Hospital_(Manhattan),French Hospital,french-hospital,french-hospital-manhattan,ORG
+French,12886373,0,9,,"http://en.wikipedia.org/wiki/French_Park_(Amberley,_Ohio)",French Park,french-park,french-park-amberley-ohio,UNK
+French,32924780,5,7,34368007,http://en.wikipedia.org/wiki/Edward_French_(bishop),Edward French,edward-french,edward-french-bishop,UNK
+French,28190991,73,80,10597;5843419,http://en.wikipedia.org/wiki/French_Florida,French Florida,french-florida,french-florida,GPE
+Jacques Chirac,39764,1302,454,250197;39764;20599016;11809;5843419;962731,http://en.wikipedia.org/wiki/Jacques_Chirac,Jacques Chirac,jacques-chirac,jacques-chirac,PER
+Poland,22936,115021,1647,5843419;10597;13083;28878684;4244153;3074893;22975;22936;26748;2785800;31388;32908;67473;16717205;10339758;635098;636823;10082478;10924566;40620438;112404;1107413;11555574;962731;42187354;4329310;15335256;9387653;3967014;1028194;771860;260198;250197,http://en.wikipedia.org/wiki/Poland,Poland,poland,poland,GPE
+Poland,28878684,182,266,28878684;22975;22936;32908;67472,http://en.wikipedia.org/wiki/Geography_of_Poland,Geography of Poland,geography-of-poland,geography-of-poland,UNK
+Poland,126523,58,56,126255;141360,"http://en.wikipedia.org/wiki/Poland,_Herkimer_County,_New_York","Poland, Herkimer County, New York",poland-herkimer-county-new-york,poland-herkimer-county-new-york,GPE
+Poland,115861,87,98,,"http://en.wikipedia.org/wiki/Poland,_Maine","Poland, Maine",poland-maine,poland-maine,GPE
+Poland,37910099,204,218,,http://en.wikipedia.org/wiki/Poland_(sculpture),Poland,poland,poland-sculpture,UNK
+Poland,635098,9,135,636823;635098;32908;22975;22936;31388;3074893,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1916–18),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1916–18,GPE
+Poland,3074893,567,26,635098;22975;22936;3074893;636823,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1385–1569),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1385–1569,GPE
+Poland,10339758,3,14,22975;22936,"http://en.wikipedia.org/wiki/Poland,_Kiribati","Poland, Kiribati",poland-kiribati,poland-kiribati,GPE
+Poland,2521075,49,66,65865,"http://en.wikipedia.org/wiki/Poland_Township,_Mahoning_County,_Ohio","Poland Township, Mahoning County, Ohio",poland-township-mahoning-county-ohio,poland-township-mahoning-county-ohio,GPE
+Poland,771860,2358,602,32908;250197;22975;22936;5843419;26748,http://en.wikipedia.org/wiki/Poland_national_football_team,Poland national football team,poland-national-football-team,poland-national-football-team,UNK
+Poland,17716699,63,83,,"http://en.wikipedia.org/wiki/Poland,_Indiana","Poland, Indiana",poland-indiana,poland-indiana,GPE
+Poland,141360,0,2,126255;126523,"http://en.wikipedia.org/wiki/Poland,_New_York","Poland, New York",poland-new-york,poland-new-york,UNK
+Poland,14616196,30,41,,"http://en.wikipedia.org/wiki/Poland_Township,_Buena_Vista_County,_Iowa","Poland Township, Buena Vista County, Iowa",poland-township-buena-vista-county-iowa,poland-township-buena-vista-county-iowa,GPE
+Poland,10082478,464,208,13083;22936;10082478,http://en.wikipedia.org/wiki/Flight_and_expulsion_of_Germans_from_Poland_during_and_after_World_War_II,Flight and expulsion of Germans from Poland during and after World War II,flight-and-expulsion-of-germans-from-poland-during-and-after-world-war-ii,flight-and-expulsion-of-germans-from-poland-during-and-after-world-war-ii,GPE
+Poland,3965238,1,6,,http://en.wikipedia.org/wiki/Little_Poland,Little Poland,little-poland,little-poland,GPE
+Poland,65865,89,70,2521075,"http://en.wikipedia.org/wiki/Poland,_Ohio","Poland, Ohio",poland-ohio,poland-ohio,GPE
+Poland,12552161,8,9,,http://en.wikipedia.org/wiki/Poland_China,Poland China,poland-china,poland-china,ORG
+Poland,636823,306,32,635098;22975;22936;3074893,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1025–1385),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1025–1385,GPE
+Poland,27482253,66,80,,"http://en.wikipedia.org/wiki/Poland,_Wisconsin","Poland, Wisconsin",poland-wisconsin,poland-wisconsin,GPE
+Poland,13083,591,81,22975;22936;10082478,http://en.wikipedia.org/wiki/Greater_Poland,Greater Poland,greater-poland,greater-poland,GPE
+Poland,126255,72,81,126523;141360,"http://en.wikipedia.org/wiki/Poland,_Chautauqua_County,_New_York","Poland, Chautauqua County, New York",poland-chautauqua-county-new-york,poland-chautauqua-county-new-york,GPE
+SPC,10813212,4,7,,http://en.wikipedia.org/wiki/SPC_file_format,SPC file format,spc-file-format,spc-file-format,UNK
+SPC,8782649,5,68,8782649,http://en.wikipedia.org/wiki/SPC_Group,SPC Group,spc-group,spc-group,ORG
+Swiss,26748,62648,1091,5843419;144626;11188;10597;962731;22936;162873;395888;26748;32908;313833;320082;15330986;1147094;15335256;427067;67473;67472;771860;20599016;7351032;361362;250197,http://en.wikipedia.org/wiki/Switzerland,Switzerland,switzerland,switzerland,GPE
+Swiss,427067,135,76,26748;5843419;11188;7351032;144626,http://en.wikipedia.org/wiki/Swiss_mercenaries,Swiss mercenaries,swiss-mercenaries,swiss-mercenaries,UNK
+Swiss,15463860,8,5,,"http://en.wikipedia.org/wiki/Swiss,_North_Carolina","Swiss, North Carolina",swiss-north-carolina,swiss-north-carolina,UNK
+Swiss,7351032,640,284,361362;427067;10597;5843419;962731;26748,http://en.wikipedia.org/wiki/Swiss_people,Swiss people,swiss-people,swiss-people,UNK
+Swiss,27003,118,44,,http://en.wikipedia.org/wiki/Swiss_cheese,Swiss cheese,swiss-cheese,swiss-cheese,UNK
+Swiss,162873,483,358,5843419;361362;26748,http://en.wikipedia.org/wiki/Swiss_International_Air_Lines,Swiss International Air Lines,swiss-international-air-lines,swiss-international-air-lines,ORG
+Swiss,313833,297,293,26748;10597,http://en.wikipedia.org/wiki/Swiss_Army_knife,Swiss Army knife,swiss-army-knife,swiss-army-knife,UNK
+Swiss,8475710,16,25,,http://en.wikipedia.org/wiki/Swiss_Movement,Swiss Movement,swiss-movement,swiss-movement,UNK
+Swiss,361362,852,263,10597;5843419;26748;395888;162873;7351032,http://en.wikipedia.org/wiki/Swiss_franc,Swiss franc,swiss-franc,swiss-franc,UNK
+Swiss,144626,271,205,26748;5843419;427067;11188;144626,http://en.wikipedia.org/wiki/Swiss_Guard,Swiss Guard,swiss-guard,swiss-guard,ORG
+Swiss,14353790,113,114,,http://en.wikipedia.org/wiki/Swiss_Tower,Swiss Tower,swiss-tower,swiss-tower,UNK
+Swiss,15471841,1,5,,"http://en.wikipedia.org/wiki/Swiss,_Missouri","Swiss, Missouri",swiss-missouri,swiss-missouri,GPE
+Swiss,15463848,51,65,,"http://en.wikipedia.org/wiki/Swiss,_West_Virginia","Swiss, West Virginia",swiss-west-virginia,swiss-west-virginia,GPE
+Swiss,138776,48,71,,"http://en.wikipedia.org/wiki/Swiss,_Wisconsin","Swiss, Wisconsin",swiss-wisconsin,swiss-wisconsin,GPE
+Anthony Barker,13646048,5,8,,http://en.wikipedia.org/wiki/Anthony_Raine_Barker,Anthony Raine Barker,anthony-raine-barker,anthony-raine-barker,UNK

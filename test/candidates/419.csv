@@ -1,0 +1,124 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+AFRICAN NATIONS CUP,250680,1907,249,1205110;1234981;1092055;1263594;1158358;187749;1263067;1198472;250680;1089708;1080720;1047784;1212797;1199910,http://en.wikipedia.org/wiki/Africa_Cup_of_Nations,Africa Cup of Nations,africa-cup-of-nations,africa-cup-of-nations,UNK
+JOHANNESBURG,58893,6511,729,1126561;1390702;23371194;3464;1158737;1601521;58893;107536,http://en.wikipedia.org/wiki/Johannesburg,Johannesburg,johannesburg,johannesburg,GPE
+JOHANNESBURG,107536,363,361,58893,"http://en.wikipedia.org/wiki/Johannesburg,_California","Johannesburg, California",johannesburg-california,johannesburg-california,GPE
+JOHANNESBURG,1390702,62,20,58893,http://en.wikipedia.org/wiki/Johannesburg_Stadium,Johannesburg Stadium,johannesburg-stadium,johannesburg-stadium,UNK
+JOHANNESBURG,32825373,60,76,,"http://en.wikipedia.org/wiki/Johannesburg,_Wisconsin","Johannesburg, Wisconsin",johannesburg-wisconsin,johannesburg-wisconsin,UNK
+JOHANNESBURG,5473966,3,16,,http://en.wikipedia.org/wiki/Johannesburg_Mountain,Johannesburg Mountain,johannesburg-mountain,johannesburg-mountain,UNK
+JOHANNESBURG,1158737,297,208,1126561;1158737;58893,http://en.wikipedia.org/wiki/University_of_Johannesburg,University of Johannesburg,university-of-johannesburg,university-of-johannesburg,ORG
+JOHANNESBURG,3232004,2,7,,http://en.wikipedia.org/wiki/Johannesburg_Regiment,Johannesburg Regiment,johannesburg-regiment,johannesburg-regiment,UNK
+JOHANNESBURG,1126561,14,386,58893;1158737,http://en.wikipedia.org/wiki/Greater_Johannesburg,Greater Johannesburg,greater-johannesburg,greater-johannesburg,UNK
+African Nations Cup,250680,1907,249,1205110;1234981;1092055;1263594;1158358;187749;1263067;1198472;250680;1089708;1080720;1047784;1212797;1199910,http://en.wikipedia.org/wiki/Africa_Cup_of_Nations,Africa Cup of Nations,africa-cup-of-nations,africa-cup-of-nations,UNK
+Ethiopia,1089708,390,360,5478;1047784;1263594;1158358;1205110;1198472;187749;1234981;3459;3464;1212797;250680;1263067;1199910;19599929;1092055;31816;1080720,http://en.wikipedia.org/wiki/Ethiopia_national_football_team,Ethiopia national football team,ethiopia-national-football-team,ethiopia-national-football-team,UNK
+Ethiopia,9686,545,476,62143;187749;1041300,http://en.wikipedia.org/wiki/Ethiopian_cuisine,Ethiopian cuisine,ethiopian-cuisine,ethiopian-cuisine,UNK
+Ethiopia,383735,71,124,187749;31816;19599929;383735,http://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_961,Ethiopian Airlines Flight 961,ethiopian-airlines-flight-961,ethiopian-airlines-flight-961,UNK
+Ethiopia,62143,128,342,30140;56922;62143;3695;21294;3613;57010;56697;56698;187749;68972;9686,http://en.wikipedia.org/wiki/Geography_of_Ethiopia,Geography of Ethiopia,geography-of-ethiopia,geography-of-ethiopia,UNK
+Ethiopia,187749,13614,660,1041300;1092055;21490998;1089708;383735;3459;3464;5478;1158358;1403395;9686;8681060;76762;18778516;5618599;19201;2583645;21292;1080720;19599929;250680;27288;30138;187749;31816;62143,http://en.wikipedia.org/wiki/Ethiopia,Ethiopia,ethiopia,ethiopia,GPE
+Ethiopia,5618599,16,22,187749,"http://en.wikipedia.org/wiki/Dallol,_Ethiopia","Dallol, Ethiopia",dallol-ethiopia,dallol-ethiopia,GPE
+Ethiopia,1403395,64,101,187749,"http://en.wikipedia.org/wiki/Little_Ethiopia,_Los_Angeles","Little Ethiopia, Los Angeles",little-ethiopia-los-angeles,little-ethiopia-los-angeles,UNK
+Ethiopia,2583645,2,2,187749,http://en.wikipedia.org/wiki/Link_Ethiopia,Link Ethiopia,link-ethiopia,link-ethiopia,ORG
+Ethiopia,8681060,29,52,187749,http://en.wikipedia.org/wiki/Aethiopia,Aethiopia,aethiopia,aethiopia,UNK
+Ethiopia,1041300,2945,168,187749;9686,http://en.wikipedia.org/wiki/Ethiopian_calendar,Ethiopian calendar,ethiopian-calendar,ethiopian-calendar,PER
+Uganda,1092055,599,277,1047784;1263594;1158358;1205110;1198472;187749;1234981;1212797;250680;1263067;1199910;1089708;76762;31816;1080720,http://en.wikipedia.org/wiki/Uganda_national_football_team,Uganda national football team,uganda-national-football-team,uganda-national-football-team,UNK
+Uganda,23375454,166,192,31816,http://en.wikipedia.org/wiki/Uganda_Museum,Uganda Museum,uganda-museum,uganda-museum,UNK
+Uganda,1601521,16,138,76762;21490998;31816;58893,http://en.wikipedia.org/wiki/Uganda_Airlines,Uganda Airlines,uganda-airlines,uganda-airlines,UNK
+Uganda,31282051,78,93,32323123;31816,http://en.wikipedia.org/wiki/Uganda_(Commonwealth_realm),Uganda,uganda,uganda-commonwealth-realm,GPE
+Uganda,510121,168,117,31816,http://en.wikipedia.org/wiki/Uganda_Railway,Uganda Railway,uganda-railway,uganda-railway,UNK
+Uganda,56922,145,157,30140;56922;56697;56698;76762;31816;62143;3695;68972;21294;3613;57010,http://en.wikipedia.org/wiki/Geography_of_Uganda,Geography of Uganda,geography-of-uganda,geography-of-uganda,PER
+Uganda,31816,12962,676,1092055;21490998;1089708;383735;3459;3464;1212797;5478;16278518;31282051;877492;23375454;76762;510121;18778516;19201;56922;21292;1601521;19599929;27288;30138;187749;31816,http://en.wikipedia.org/wiki/Uganda,Uganda,uganda,uganda,GPE
+Mauritania,1234981,353,263,1047784;1263594;1158358;1205110;1198472;18778516;1212797;250680;1263067;1199910;1089708;1092055;19201;1080720,http://en.wikipedia.org/wiki/Mauritania_national_football_team,Mauritania national football team,mauritania-national-football-team,mauritania-national-football-team,UNK
+Mauritania,56698,119,184,30140;56922;62143;3695;21294;18778516;3613;57010;56697;56698;417283;68972,http://en.wikipedia.org/wiki/Geography_of_Mauritania,Geography of Mauritania,geography-of-mauritania,geography-of-mauritania,UNK
+Mauritania,417283,157,139,56698;459310;18778516,http://en.wikipedia.org/wiki/Flag_of_Mauritania,Flag of Mauritania,flag-of-mauritania,flag-of-mauritania,UNK
+Mauritania,18778516,4359,484,1205110;19599929;21490998;18778516;27288;3459;3464;19201;56698;1234981;30138;5478;187749;21292;417283;10171867;2424468;76762;31816,http://en.wikipedia.org/wiki/Mauritania,Mauritania,mauritania,mauritania,GPE
+Mauritania,2424468,20,61,18778516;2424468,http://en.wikipedia.org/wiki/Mauritania_Railway,Mauritania Railway,mauritania-railway,mauritania-railway,UNK
+Mauritania,10171867,5,30,18778516,http://en.wikipedia.org/wiki/Greater_Mauritania,Greater Mauritania,greater-mauritania,greater-mauritania,PER
+Benin,1198472,379,315,1047784;1263594;1158358;1205110;1234981;3459;1212797;250680;1263067;1199910;1089708;1092055;1080720,http://en.wikipedia.org/wiki/Benin_national_football_team,Benin national football team,benin-national-football-team,benin-national-football-team,UNK
+Benin,68972,129,124,30140;30138;56922;56697;56698;3459;62143;3695;21294;3613;57010,http://en.wikipedia.org/wiki/Geography_of_Benin,Geography of Benin,geography-of-benin,geography-of-benin,UNK
+Benin,317744,349,110,2097268;25649488;1739575;3459;317744;9244485,http://en.wikipedia.org/wiki/Benin_City,Benin City,benin-city,benin-city,GPE
+Benin,2097268,1,10,3459;1739575;317744;30138,http://en.wikipedia.org/wiki/University_of_Benin,University of Benin,university-of-benin,university-of-benin,ORG
+Benin,9854642,655,657,,http://en.wikipedia.org/wiki/Saint-Benin,Saint-Benin,saint-benin,saint-benin,ORG
+Benin,9244485,29,36,317744,http://en.wikipedia.org/wiki/Benin_Airport,Benin Airport,benin-airport,benin-airport,UNK
+Benin,25649488,347,215,3459;317744,http://en.wikipedia.org/wiki/Benin_Empire,Benin Empire,benin-empire,benin-empire,GPE
+Benin,1739575,61,23,2097268;317744,http://en.wikipedia.org/wiki/University_of_Benin_(Nigeria),University of Benin,university-of-benin,university-of-benin-nigeria,ORG
+Benin,3459,5648,470,25649488;2097268;544898;19599929;1198472;21490998;1089708;18778516;27288;3459;3464;19201;8082734;30140;30138;5478;187749;21292;76762;31816;317744;68972,http://en.wikipedia.org/wiki/Benin,Benin,benin,benin,GPE
+Namibia,1199910,343,235,1047784;1263594;1158358;1205110;1198472;1234981;3464;1212797;250680;1263067;21292;1089708;1092055;1080720,http://en.wikipedia.org/wiki/Namibia_national_football_team,Namibia national football team,namibia-national-football-team,namibia-national-football-team,UNK
+Namibia,1058238,77,65,21292,"http://en.wikipedia.org/wiki/Namibia,_Land_of_the_Brave","Namibia, Land of the Brave",namibia-land-of-the-brave,namibia-land-of-the-brave,UNK
+Namibia,21294,83,125,30140;56922;56697;56698;3464;62143;3695;68972;21292;3613;57010,http://en.wikipedia.org/wiki/Geography_of_Namibia,Geography of Namibia,geography-of-namibia,geography-of-namibia,UNK
+Namibia,3063359,78,24,21292,http://en.wikipedia.org/wiki/University_of_Namibia,University of Namibia,university-of-namibia,university-of-namibia,ORG
+Namibia,21292,8490,614,544898;1058238;21490998;3063359;18778516;3459;3464;1199910;3620;3613;19201;5478;1158358;21292;21294;1205110;19599929;16808509;27288;877492;30138;187749;76762;31816,http://en.wikipedia.org/wiki/Namibia,Namibia,namibia,namibia,GPE
+Namibia,16808509,165,97,21292,http://en.wikipedia.org/wiki/Religion_in_Namibia,Religion in Namibia,religion-in-namibia,religion-in-namibia,PER
+Botswana,1158358,401,231,1047784;1263594;1205110;1198472;187749;1234981;3464;1212797;250680;1263067;1199910;21292;1089708;1092055;76762;1080720,http://en.wikipedia.org/wiki/Botswana_national_football_team,Botswana national football team,botswana-national-football-team,botswana-national-football-team,UNK
+Botswana,3464,6022,539,1205110;544898;19599929;21490998;1138625;58893;1089708;18778516;27288;3459;3464;1199910;3620;3613;19201;30138;5478;1158358;187749;21292;21294;76762;31816;30661442,http://en.wikipedia.org/wiki/Botswana,Botswana,botswana,botswana,GPE
+Botswana,3620,145,131,3464;21292;3620;3613,http://en.wikipedia.org/wiki/Foreign_relations_of_Botswana,Foreign relations of Botswana,foreign-relations-of-botswana,foreign-relations-of-botswana,UNK
+Botswana,544898,177,174,30138;5478;19599929;21292;3613;3459;3464;1138625,http://en.wikipedia.org/wiki/Botswana_pula,Botswana pula,botswana-pula,botswana-pula,UNK
+Botswana,38850702,3,5,1138625,"http://en.wikipedia.org/wiki/University_of_Botswana,_Lesotho,_and_Swaziland","University of Botswana, Lesotho, and Swaziland",university-of-botswana-lesotho-and-swaziland,university-of-botswana-lesotho-and-swaziland,UNK
+Botswana,30661442,1,6,3464,http://en.wikipedia.org/wiki/Botswana_Society,Botswana Society,botswana-society,botswana-society,ORG
+Botswana,3613,91,152,30140;56922;56697;56698;3464;62143;1138625;3695;544898;68972;21292;21294;3620;3613;57010,http://en.wikipedia.org/wiki/Geography_of_Botswana,Geography of Botswana,geography-of-botswana,geography-of-botswana,UNK
+Botswana,1138625,79,29,38850702;3464;544898;3613,http://en.wikipedia.org/wiki/University_of_Botswana,University of Botswana,university-of-botswana,university-of-botswana,ORG
+Seychelles,1263594,230,239,1263067;1047784;1158358;1199910;1205110;1198472;27288;1089708;1092055;76762;1234981;1212797;250680;1080720,http://en.wikipedia.org/wiki/Seychelles_national_football_team,Seychelles national football team,seychelles-national-football-team,seychelles-national-football-team,UNK
+Seychelles,424859,201,118,247789;23371194;459310;27288;57010;19201,http://en.wikipedia.org/wiki/Music_of_Seychelles,Music of Seychelles,music-of-seychelles,music-of-seychelles,UNK
+Seychelles,23371194,33,142,19201;58893;424859;27288;57010,http://en.wikipedia.org/wiki/Rugby_union_in_the_Seychelles,Rugby union in the Seychelles,rugby-union-in-the-seychelles,rugby-union-in-the-seychelles,ORG
+Seychelles,57010,113,180,30140;56922;56697;56698;19201;23371194;62143;459310;3695;68972;424859;21294;3613;27288;57010,http://en.wikipedia.org/wiki/Geography_of_Seychelles,Geography of Seychelles,geography-of-seychelles,geography-of-seychelles,UNK
+Seychelles,622744,2,22,27288,http://en.wikipedia.org/wiki/Seychelles_Party,Seychelles Party,seychelles-party,seychelles-party,UNK
+Seychelles,27288,4188,503,1205110;19599929;21490998;31283791;23371194;622744;18778516;27288;26523140;3459;3464;19201;424859;30138;57010;5478;1263594;716442;187749;21292;76762;31816;459310,http://en.wikipedia.org/wiki/Seychelles,Seychelles,seychelles,seychelles,GPE
+Seychelles,716442,72,53,27288,http://en.wikipedia.org/wiki/Seychelles_International_Airport,Seychelles International Airport,seychelles-international-airport,seychelles-international-airport,UNK
+Seychelles,459310,41,83,417283;424859;27288;57010,http://en.wikipedia.org/wiki/Flag_of_the_Seychelles,Flag of the Seychelles,flag-of-the-seychelles,flag-of-the-seychelles,UNK
+Seychelles,26523140,7,8,27288,http://en.wikipedia.org/wiki/University_of_Seychelles,University of Seychelles,university-of-seychelles,university-of-seychelles,UNK
+Mauritius,1205110,373,320,1047784;1263594;1158358;1198472;18778516;27288;1234981;3464;1212797;250680;1263067;1199910;19599929;21292;1089708;1092055;19201;1080720,http://en.wikipedia.org/wiki/Mauritius_national_football_team,Mauritius national football team,mauritius-national-football-team,mauritius-national-football-team,UNK
+Mauritius,12048137,16,13,,http://en.wikipedia.org/wiki/Mauritius_(play),Mauritius,mauritius,mauritius-play,UNK
+Mauritius,32323123,127,101,19201;31282051;31283791,http://en.wikipedia.org/wiki/Mauritius_(Commonwealth_realm),Mauritius,mauritius,mauritius-commonwealth-realm,GPE
+Mauritius,31283791,178,204,32323123;27288;19201,http://en.wikipedia.org/wiki/British_Mauritius,British Mauritius,british-mauritius,british-mauritius,GPE
+Mauritius,56697,100,148,30140;56922;56697;56698;19201;62143;3695;68972;21294;3613;57010,http://en.wikipedia.org/wiki/Geography_of_Mauritius,Geography of Mauritius,geography-of-mauritius,geography-of-mauritius,UNK
+Mauritius,22060649,35,21,19201,http://en.wikipedia.org/wiki/University_of_Mauritius,University of Mauritius,university-of-mauritius,university-of-mauritius,UNK
+Mauritius,19201,6861,735,21490998;23371194;18778516;3459;3464;19201;424859;56697;1234981;57010;5478;21292;32323123;1205110;22060649;19599929;31283791;27288;30138;187749;76762;31816,http://en.wikipedia.org/wiki/Mauritius,Mauritius,mauritius,mauritius,GPE
+Togo,1080720,632,369,1205110;1198472;1234981;250680;30138;1089708;1092055;1047784;1263594;1158358;187749;1212797;1263067;1199910,http://en.wikipedia.org/wiki/Togo_national_football_team,Togo national football team,togo-national-football-team,togo-national-football-team,UNK
+Togo,30138,6011,418,2097268;4553358;544898;19599929;21490998;18778516;27288;3459;3464;19201;8082734;30140;30138;5478;187749;21292;1670551;76762;31816;1080720;68972,http://en.wikipedia.org/wiki/Togo,Togo,togo,togo,GPE
+Togo,10634634,104,130,,"http://en.wikipedia.org/wiki/Togo,_Minnesota","Togo, Minnesota",togo-minnesota,togo-minnesota,GPE
+Togo,1670551,10,8,26793498;30140;30138,http://en.wikipedia.org/wiki/Lake_Togo,Lake Togo,lake-togo,lake-togo,GPE
+Togo,26793498,3,8,1670551,http://en.wikipedia.org/wiki/Lake_Tōgō,Lake Tōgō,lake-togo,lake-togo,UNK
+Togo,459746,5,9,,"http://en.wikipedia.org/wiki/Togo,_Miyazaki","Togo, Miyazaki",togo-miyazaki,togo-miyazaki,UNK
+Togo,4553358,29,23,30138,http://en.wikipedia.org/wiki/TOGO,TOGO,togo,togo,UNK
+Togo,28130253,4,3,,http://en.wikipedia.org/wiki/Togo_(comedian),Togo,togo,togo-comedian,PER
+Togo,18328330,4,91,,http://en.wikipedia.org/wiki/Tōgō_Station,Tōgō Station,togo-station,togo-station,UNK
+Togo,601459,83,94,,"http://en.wikipedia.org/wiki/Tōgō,_Aichi","Tōgō, Aichi",togo-aichi,togo-aichi,GPE
+Togo,459068,12,17,,"http://en.wikipedia.org/wiki/Tōgō,_Kagoshima","Tōgō, Kagoshima",togo-kagoshima,togo-kagoshima,GPE
+Togo,1591026,23,138,,http://en.wikipedia.org/wiki/Togo_(dog),Togo,togo,togo-dog,UNK
+Togo,24481759,26,37,,"http://en.wikipedia.org/wiki/Togo,_Texas","Togo, Texas",togo-texas,togo-texas,GPE
+Togo,8082734,6,9,3459;30140;30138,http://en.wikipedia.org/wiki/Togo_Mountains,Togo Mountains,togo-mountains,togo-mountains,GPE
+Togo,8512173,164,131,,http://en.wikipedia.org/wiki/Togo_(character),Togo,togo,togo-character,PER
+Togo,555984,6,10,,"http://en.wikipedia.org/wiki/Tōgō,_Tottori","Tōgō, Tottori",togo-tottori,togo-tottori,GPE
+Togo,30140,103,144,30140;30138;56922;8082734;56697;56698;1670551;3459;62143;3695;68972;21294;3613;57010,http://en.wikipedia.org/wiki/Geography_of_Togo,Geography of Togo,geography-of-togo,geography-of-togo,UNK
+Togo,3766008,25,12,,"http://en.wikipedia.org/wiki/Togo,_Saskatchewan","Togo, Saskatchewan",togo-saskatchewan,togo-saskatchewan,GPE
+Congo,1047784,402,257,1263594;1158358;1205110;1198472;1234981;1212797;250680;1263067;1199910;19599929;1089708;1092055;76762;1080720,http://en.wikipedia.org/wiki/Congo_national_football_team,Congo national football team,congo-national-football-team,congo-national-football-team,UNK
+Congo,35014469,4,3,35014469,"http://en.wikipedia.org/wiki/Le_Congo,_quel_cinéma!","Le Congo, quel cinéma!",le-congo-quel-cinema,le-congo-quel-cinema,UNK
+Congo,23056696,5,6,,http://en.wikipedia.org/wiki/Congo_Town,Congo Town,congo-town,congo-town,UNK
+Congo,1876523,8,17,1876523,http://en.wikipedia.org/wiki/Congo_(chimpanzee),Congo,congo,congo-chimpanzee,UNK
+Congo,32186844,167,180,,"http://en.wikipedia.org/wiki/Congo,_Pennsylvania","Congo, Pennsylvania",congo-pennsylvania,congo-pennsylvania,UNK
+Congo,7362056,3,4,,http://en.wikipedia.org/wiki/Congo_(pinball),Congo,congo,congo-pinball,UNK
+Congo,23531582,1,4,,http://en.wikipedia.org/wiki/Congo_River_(Panama),Congo River,congo-river,congo-river-panama,GPE
+Congo,5412977,3,4,,http://en.wikipedia.org/wiki/Congo_(loa),Congo,congo,congo-loa,UNK
+Congo,44361,665,215,21490998;11170805;76762;13728759;5478;34257212;19599929;3695;877492,http://en.wikipedia.org/wiki/Congo_River,Congo River,congo-river,congo-river,UNK
+Congo,1799911,64,136,76762;13728759;19599929;877492,http://en.wikipedia.org/wiki/LGBT_rights_in_the_Democratic_Republic_of_the_Congo,LGBT rights in the Democratic Republic of the Congo,lgbt-rights-in-the-democratic-republic-of-the-congo,lgbt-rights-in-the-democratic-republic-of-the-congo,ORG
+Congo,25493708,10,10,,"http://en.wikipedia.org/wiki/Congo,_Paraíba","Congo, Paraíba",congo-paraiba,congo-paraiba,GPE
+Congo,5957478,26,116,,"http://en.wikipedia.org/wiki/Congo,_West_Virginia","Congo, West Virginia",congo-west-virginia,congo-west-virginia,GPE
+Congo,2388646,15,20,,http://en.wikipedia.org/wiki/El_Congo,El Congo,el-congo,el-congo,GPE
+Congo,34257212,83,22,76762;19599929;44361,http://en.wikipedia.org/wiki/Congo_(area),Congo,congo,congo-area,GPE
+Congo,877492,576,224,1812595;21490998;16278518;3695;21292;1799911;44361;76762;13728759;31816,http://en.wikipedia.org/wiki/Second_Congo_War,Second Congo War,second-congo-war,second-congo-war,UNK
+Congo,19599929,4771,378,1205110;13728759;34257212;544898;19599929;44361;21490998;1089708;383735;18778516;27288;3459;3464;19201;30138;5478;187749;1263067;21292;1799911;76762;31816;1047784,http://en.wikipedia.org/wiki/Republic_of_the_Congo,Republic of the Congo,republic-of-the-congo,republic-of-the-congo,GPE
+Congo,24010496,1,4,,http://en.wikipedia.org/wiki/Congo_River_(Ecuador),Congo River,congo-river,congo-river-ecuador,UNK
+Congo,76762,10070,610,1092055;13728759;21490998;18778516;3459;3464;3695;19201;56922;5478;1263594;1158358;21292;1249230;1601521;16278518;1047784;34257212;19599929;44361;27288;2974512;877492;30138;187749;1799911;76762;1606616;31816,http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo,Democratic Republic of the Congo,democratic-republic-of-the-congo,democratic-republic-of-the-congo,GPE
+Congo,2974512,15,57,76762,http://en.wikipedia.org/wiki/Congo_Railway,Congo Railway,congo-railway,congo-railway,UNK
+Congo,40057104,5,19,,http://en.wikipedia.org/wiki/Congo_(chess_variant),Congo,congo,congo-chess-variant,UNK
+Congo,13728759,279,103,19599929;1799911;44361;76762;877492,http://en.wikipedia.org/wiki/Republic_of_the_Congo_(Léopoldville),Republic of the Congo,republic-of-the-congo,republic-of-the-congo-leopoldville,GPE
+Congo,11170805,5,11,44361,"http://en.wikipedia.org/wiki/Congo_River,_Beyond_Darkness","Congo River, Beyond Darkness",congo-river-beyond-darkness,congo-river-beyond-darkness,UNK
+Congo,1606616,36,34,76762,http://en.wikipedia.org/wiki/Congo_Airlines,Congo Airlines,congo-airlines,congo-airlines,ORG
+Congo,1249230,68,138,5478;76762,http://en.wikipedia.org/wiki/Congo_Craton,Congo Craton,congo-craton,congo-craton,UNK
+Central African Republic,1263067,220,221,5478;1047784;1263594;1158358;1199910;19599929;1205110;1198472;1089708;1092055;1234981;1212797;250680;1080720,http://en.wikipedia.org/wiki/Central_African_Republic_national_football_team,Central African Republic national football team,central-african-republic-national-football-team,central-african-republic-national-football-team,UNK
+Central African Republic,247789,222,141,5478;247789;424859,http://en.wikipedia.org/wiki/Music_of_the_Central_African_Republic,Music of the Central African Republic,music-of-the-central-african-republic,music-of-the-central-african-republic,ORG
+Central African Republic,5478,5042,570,544898;19599929;44361;21490998;1089708;18778516;27288;3459;3464;19201;30138;5478;187749;1263067;21292;1249230;76762;31816;247789,http://en.wikipedia.org/wiki/Central_African_Republic,Central African Republic,central-african-republic,central-african-republic,GPE
+Burundi,1212797,265,220,1263067;1047784;1263594;1158358;16278518;1199910;1205110;1198472;1089708;1092055;1234981;21490998;31816;250680;1080720,http://en.wikipedia.org/wiki/Burundi_national_football_team,Burundi national football team,burundi-national-football-team,burundi-national-football-team,UNK
+Burundi,1812595,131,83,21490998;16278518;877492;3695,http://en.wikipedia.org/wiki/Kingdom_of_Burundi,Kingdom of Burundi,kingdom-of-burundi,kingdom-of-burundi,GPE
+Burundi,21490998,4628,438,1812595;2082570;19599929;44361;21490998;18778516;27288;3459;3464;1212797;3695;19201;877492;30138;5478;187749;21292;1601521;16278518;76762;31816,http://en.wikipedia.org/wiki/Burundi,Burundi,burundi,burundi,GPE
+Burundi,3695,104,149,1812595;30140;56922;56697;56698;76762;21490998;16278518;62143;877492;3695;68972;21294;44361;3613;57010,http://en.wikipedia.org/wiki/Geography_of_Burundi,Geography of Burundi,geography-of-burundi,geography-of-burundi,ORG
+Burundi,2082570,11,15,16278518;21490998,http://en.wikipedia.org/wiki/University_of_Burundi,University of Burundi,university-of-burundi,university-of-burundi,UNK
+Burundi,16278518,31,332,1812595;3695;2082570;76762;21490998;1212797;31816;877492,http://en.wikipedia.org/wiki/Outline_of_Burundi,Outline of Burundi,outline-of-burundi,outline-of-burundi,GPE

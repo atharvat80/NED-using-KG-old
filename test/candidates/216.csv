@@ -1,0 +1,14 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Royal Oak,118790,927,408,118791;370241,"http://en.wikipedia.org/wiki/Royal_Oak,_Michigan","Royal Oak, Michigan",royal-oak-michigan,royal-oak-michigan,GPE
+Royal Oak,35566056,83,98,,"http://en.wikipedia.org/wiki/The_Royal_Oak,_Monmouth","The Royal Oak, Monmouth",the-royal-oak-monmouth,the-royal-oak-monmouth,UNK
+Royal Oak,118791,78,139,118790,"http://en.wikipedia.org/wiki/Royal_Oak_Charter_Township,_Michigan","Royal Oak Charter Township, Michigan",royal-oak-charter-township-michigan,royal-oak-charter-township-michigan,GPE
+Royal Oak,21337307,34,35,,"http://en.wikipedia.org/wiki/Royal_Oak,_Maryland","Royal Oak, Maryland",royal-oak-maryland,royal-oak-maryland,GPE
+Royal Oak,2777955,3,34,,"http://en.wikipedia.org/wiki/Royal_Oak,_North_Yorkshire","Royal Oak, North Yorkshire",royal-oak-north-yorkshire,royal-oak-north-yorkshire,UNK
+Royal Oak,11273735,202,207,,"http://en.wikipedia.org/wiki/Royal_Oak,_Calgary","Royal Oak, Calgary",royal-oak-calgary,royal-oak-calgary,GPE
+Royal Oak,370241,73,46,118790;2608789;485630,http://en.wikipedia.org/wiki/Royal_Oak,Royal Oak,royal-oak,royal-oak,UNK
+Royal Oak,485630,209,285,370241,http://en.wikipedia.org/wiki/HMS_Royal_Oak_(08),HMS Royal Oak,hms-royal-oak,hms-royal-oak-08,UNK
+Royal Oak,42351109,1,18,,"http://en.wikipedia.org/wiki/The_Royal_Oak,_Hail_Weston","The Royal Oak, Hail Weston",the-royal-oak-hail-weston,the-royal-oak-hail-weston,PER
+Royal Oak,1609500,4,26,,"http://en.wikipedia.org/wiki/Royal_Oak,_County_Durham","Royal Oak, County Durham",royal-oak-county-durham,royal-oak-county-durham,GPE
+Royal Oak,1745124,102,104,,http://en.wikipedia.org/wiki/Royal_Oak_Station_(TransLink),Royal Oak Station,royal-oak-station,royal-oak-station-translink,UNK
+Royal Oak,7187155,27,38,,"http://en.wikipedia.org/wiki/Royal_Oak,_County_Carlow","Royal Oak, County Carlow",royal-oak-county-carlow,royal-oak-county-carlow,GPE
+Royal Oak,2608789,17,21,370241,"http://en.wikipedia.org/wiki/Royal_Oak,_New_Zealand","Royal Oak, New Zealand",royal-oak-new-zealand,royal-oak-new-zealand,UNK

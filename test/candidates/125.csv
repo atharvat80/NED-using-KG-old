@@ -1,0 +1,491 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+GMT,12701,3323,226,17867;12249;21212;31717;22989,http://en.wikipedia.org/wiki/Greenwich_Mean_Time,Greenwich Mean Time,greenwich-mean-time,greenwich-mean-time,UNK
+GMT,8465437,5,10,31717,http://en.wikipedia.org/wiki/GMT_Records,GMT Records,gmt-records,gmt-records,ORG
+GMT,26207611,229,250,17867,http://en.wikipedia.org/wiki/GMT_(programme),GMT,gmt,gmt-programme,UNK
+GMT,8984512,57,45,,http://en.wikipedia.org/wiki/GMT360,GMT360,gmt360,gmt360,UNK
+LONDON,17867,92094,1769,3736;4179;33567266;4721;27902154;26207611;423106;10992;11867;12249;12701;1679120;13404;15573;823473;17867;13190957;21212;22989;27862;8210131;30057;31717;1159194;1290035;3880857;187448;3879356;2023355;36855089;5188309;645042;22437586;98577;98370;238524;118409;1113158;1098693;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,2023355,27,32,17867;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,12249,3253,543,2193334;17867;640154;11867;3736;8210131;118409;30057;12701;1113158;4721;1679120;13404;645042;98370;31717;22989;423106;15573,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,187448,1900,216,823473;17867;508567;4721;640154;31717,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,1679120,12,181,17867;98370;12249;31717,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,118409,547,127,17867;12249,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,238524,118,60,17867;4721,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,33567266,19,43,8210131;17867;22989;645042,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,326248,1048,124,31717,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,13190957,2,122,17867;31717,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,7984054,3,37,31717,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,8591270,5,9,14609428,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+LONDON,22437586,76,82,17867;22192200;42989724,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+London,17867,92094,1769,3736;4179;33567266;4721;27902154;26207611;423106;10992;11867;12249;12701;1679120;13404;15573;823473;17867;13190957;21212;22989;27862;8210131;30057;31717;1159194;1290035;3880857;187448;3879356;2023355;36855089;5188309;645042;22437586;98577;98370;238524;118409;1113158;1098693;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+London,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+London,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+London,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+London,2023355,27,32,17867;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+London,12249,3253,543,2193334;17867;640154;11867;3736;8210131;118409;30057;12701;1113158;4721;1679120;13404;645042;98370;31717;22989;423106;15573,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+London,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+London,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+London,187448,1900,216,823473;17867;508567;4721;640154;31717,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+London,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+London,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+London,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+London,1679120,12,181,17867;98370;12249;31717,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+London,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+London,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+London,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+London,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+London,118409,547,127,17867;12249,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+London,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+London,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+London,238524,118,60,17867;4721,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+London,33567266,19,43,8210131;17867;22989;645042,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+London,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+London,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+London,326248,1048,124,31717,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+London,13190957,2,122,17867;31717,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+London,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+London,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+London,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+London,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+London,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+London,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+London,7984054,3,37,31717,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+London,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+London,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+London,8591270,5,9,14609428,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+London,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+London,22437586,76,82,17867;22192200;42989724,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+German,11867,167535,1367,4179;290327;10992;10612;11884;11867;12249;25646127;15573;17867;21212;11533780;22989;27862;1695702;30057;31717;34345845;796228;98577;9200791;1113940;862147;1263999;152735;1559449;4605151;932079;186932;19097669;476441;475014;5188309;229236;248285,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+German,15082689,0,4,,"http://en.wikipedia.org/wiki/German_Township,_Indiana","German Township, Indiana",german-township-indiana,german-township-indiana,UNK
+German,13314138,20,25,11884;152735,http://en.wikipedia.org/wiki/German_Party_(Yugoslavia),German Party,german-party,german-party-yugoslavia,UNK
+German,12453352,0,5,9269386;2241658;6046607,"http://en.wikipedia.org/wiki/German_Township,_Ohio","German Township, Ohio",german-township-ohio,german-township-ohio,UNK
+German,152735,7195,672,13314138;475014;21212;1559449;1263999;290327;10612;11884;11867;152735,http://en.wikipedia.org/wiki/Germans,Germans,germans,germans,UNK
+German,36286602,5,23,,http://en.wikipedia.org/wiki/Germán,Germán,german,german,UNK
+German,36687858,164,170,,"http://en.wikipedia.org/wiki/German,_Iran","German, Iran",german-iran,german-iran,UNK
+German,11884,43032,653,13314138;2318626;1245772;290327;10612;11867;15606;476441;475014;3901931;229236;21212;1263999;8210131;152735;239855;1559449;98577;4605151;5460564;34978004;248285;11369455,http://en.wikipedia.org/wiki/German_language,German language,german-language,german-language,UNK
+German,34977979,51,25,34978004;34977989,http://en.wikipedia.org/wiki/German_Party_(1947),German Party,german-party,german-party-1947,UNK
+German,290327,1463,698,475014;152735;645042;11884;11867;8210131,http://en.wikipedia.org/wiki/German_American,German American,german-american,german-american,UNK
+German,11204290,5,18,30138606,"http://en.wikipedia.org/wiki/German,_Bulgaria","German, Bulgaria",german-bulgaria,german-bulgaria,GPE
+German,34378156,2,26,,http://en.wikipedia.org/wiki/Arthur_German,Arthur German,arthur-german,arthur-german,UNK
+German,475014,250,170,290327;11884;11867;152735,http://en.wikipedia.org/wiki/German-speaking_Community_of_Belgium,German-speaking Community of Belgium,german-speaking-community-of-belgium,german-speaking-community-of-belgium,UNK
+German,2318626,324,65,11884,http://en.wikipedia.org/wiki/German_studies,German studies,german-studies,german-studies,PER
+German,22184642,4,12,,http://en.wikipedia.org/wiki/German_River,German River,german-river,german-river,UNK
+German,11369455,41,54,21212;11884,http://en.wikipedia.org/wiki/German_Party_(Romania),German Party,german-party,german-party-romania,UNK
+German,42060415,46,52,15082701,"http://en.wikipedia.org/wiki/German_Township,_Kossuth_County,_Iowa","German Township, Kossuth County, Iowa",german-township-kossuth-county-iowa,german-township-kossuth-county-iowa,GPE
+German,18512402,18,11,,http://en.wikipedia.org/wiki/Les_German,Les German,les-german,les-german,PER
+German,126281,41,50,8210131,"http://en.wikipedia.org/wiki/German,_New_York","German, New York",german-new-york,german-new-york,GPE
+German,239855,56,80,11884,http://en.wikipedia.org/wiki/German_alphabet,German alphabet,german-alphabet,german-alphabet,UNK
+German,1245772,609,182,10992;11884;645042;18935639,http://en.wikipedia.org/wiki/German_Wikipedia,German Wikipedia,german-wikipedia,german-wikipedia,UNK
+German,132530,92,177,15082701,"http://en.wikipedia.org/wiki/German_Township,_Fayette_County,_Pennsylvania","German Township, Fayette County, Pennsylvania",german-township-fayette-county-pennsylvania,german-township-fayette-county-pennsylvania,GPE
+German,30138606,9,13,11204290,http://en.wikipedia.org/wiki/German_Peninsula,German Peninsula,german-peninsula,german-peninsula,UNK
+German,1559449,163,120,1263999;31717;11884;11867;21212;152735;10612,http://en.wikipedia.org/wiki/German_model,German model,german-model,german-model,UNK
+German,34978004,4,32,11884;1263999;34977979,http://en.wikipedia.org/wiki/German_Party_(1993),German Party,german-party,german-party-1993,UNK
+German,241920,127,87,,http://en.wikipedia.org/wiki/Edward_German,Edward German,edward-german,edward-german,UNK
+German,34977989,3,7,34977979,http://en.wikipedia.org/wiki/German_Party_(1961),German Party,german-party,german-party-1961,UNK
+German,3901931,32,37,21212;11884;22989,http://en.wikipedia.org/wiki/German–Polish_Non-Aggression_Pact,German–Polish Non-Aggression Pact,german–polish-non-aggression-pact,german–polish-non-aggression-pact,UNK
+German,12050833,24,279,15082701,"http://en.wikipedia.org/wiki/German_Township,_Richland_County,_Illinois","German Township, Richland County, Illinois",german-township-richland-county-illinois,german-township-richland-county-illinois,UNK
+German,6046607,34,48,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Fulton_County,_Ohio","German Township, Fulton County, Ohio",german-township-fulton-county-ohio,german-township-fulton-county-ohio,GPE
+German,24233458,2,4,,http://en.wikipedia.org/wiki/The_German,The German,the-german,the-german,UNK
+German,1263999,412,329,11884;11867;152735;1559449;1263999;34978004;21212;10612,http://en.wikipedia.org/wiki/Elections_in_Germany,Elections in Germany,elections-in-germany,elections-in-germany,UNK
+German,10612,1073,518,1559449;1263999;10612;11884;11867;22989;152735;21212;15573,http://en.wikipedia.org/wiki/Cinema_of_Germany,Cinema of Germany,cinema-of-germany,cinema-of-germany,UNK
+German,476441,101,169,11884;11867,http://en.wikipedia.org/wiki/German_name,German name,german-name,german-name,UNK
+German,21212,18535,1346,4721;1559449;10992;10612;11884;11867;12701;4208015;15573;17867;3901931;21212;1263999;84692;862147;152735;11369455,http://en.wikipedia.org/wiki/Nazi_Germany,Nazi Germany,nazi-germany,nazi-germany,GPE
+German,15082701,0,14,132530;9269386;6046607;42060415;2241658;12050833,http://en.wikipedia.org/wiki/German_Township,German Township,german-township,german-township,GPE
+German,9269386,44,55,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Clark_County,_Ohio","German Township, Clark County, Ohio",german-township-clark-county-ohio,german-township-clark-county-ohio,GPE
+German,4356261,77,64,,http://en.wikipedia.org/wiki/German_(parish),German,german,german-parish,UNK
+German,2241658,45,60,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Auglaize_County,_Ohio","German Township, Auglaize County, Ohio",german-township-auglaize-county-ohio,german-township-auglaize-county-ohio,GPE
+Japanese,15573,121938,860,30855569;10612;11867;12249;13404;15976;15606;15573;17867;265516;21212;11533780;22989;268075;27862;1695702;30057;31928;31717;24210789;40293;1922311;23076410;1171535;796228;344430;1055369;1077950;1877139;645042;2574754;9200791;364805;22416062;2611945;862147;1513051;716657;147807;393288;166215;932079;18443430;186932;482088;482178;5188309;2729996;32165991;1004626;2977331,http://en.wikipedia.org/wiki/Japan,Japan,japan,japan,GPE
+Japanese,344430,322,507,15976;30922663;186932;30057;266152;1922311;15573,http://en.wikipedia.org/wiki/Japanese_architecture,Japanese architecture,japanese-architecture,japanese-architecture,UNK
+Japanese,2574829,10,26,,http://en.wikipedia.org/wiki/Japanese_family,Japanese family,japanese-family,japanese-family,UNK
+Japanese,26127981,7,9,,"http://en.wikipedia.org/wiki/Japanese_Village,_Knightsbridge","Japanese Village, Knightsbridge",japanese-village-knightsbridge,japanese-village-knightsbridge,UNK
+Japanese,15606,12275,331,5460564;30855569;37154180;716657;2977331;2729996;11884;186932;30057;18935639;1922311;15606;1004626;15573;18357891,http://en.wikipedia.org/wiki/Japanese_language,Japanese language,japanese-language,japanese-language,UNK
+Japanese,608926,137,53,608926,http://en.wikipedia.org/wiki/Half_Japanese,Half Japanese,half-japanese,half-japanese,PER
+Japanese,2611945,60,79,15573;15976,http://en.wikipedia.org/wiki/Japanese_rice,Japanese rice,japanese-rice,japanese-rice,UNK
+Japanese,39920721,3,80,26591527,http://en.wikipedia.org/wiki/Japanese_Hospital_(Saipan),Japanese Hospital,japanese-hospital,japanese-hospital-saipan,UNK
+Japanese,2729996,278,200,30057;914179;266152;15606;15573;40293;47361,http://en.wikipedia.org/wiki/Japanese_asset_price_bubble,Japanese asset price bubble,japanese-asset-price-bubble,japanese-asset-price-bubble,UNK
+Japanese,26080673,3,114,,http://en.wikipedia.org/wiki/Japanese_Village,Japanese Village,japanese-village,japanese-village,UNK
+Japanese,2977331,99,131,15606;1004626;15573,http://en.wikipedia.org/wiki/Japanese_books,Japanese books,japanese-books,japanese-books,UNK
+Japanese,914179,136,76,2729996;40293,http://en.wikipedia.org/wiki/Japanese_domestic_market,Japanese domestic market,japanese-domestic-market,japanese-domestic-market,GPE
+Japanese,18935639,156,138,15606;1245772;18935639;645042,http://en.wikipedia.org/wiki/Japanese_Wikipedia,Japanese Wikipedia,japanese-wikipedia,japanese-wikipedia,UNK
+Japanese,716657,363,356,186932;15606;15573,http://en.wikipedia.org/wiki/Japanese_Brazilian,Japanese Brazilian,japanese-brazilian,japanese-brazilian,UNK
+Japanese,1922311,354,287,30922663;30057;266152;15606;15573;344430,http://en.wikipedia.org/wiki/Japanese_castle,Japanese castle,japanese-castle,japanese-castle,UNK
+Japanese,147807,110,96,266152;15573;147807;15976,http://en.wikipedia.org/wiki/Japanese_New_Year,Japanese New Year,japanese-new-year,japanese-new-year,UNK
+Japanese,2574754,1,23,15573;30057,http://en.wikipedia.org/wiki/Japanese_neighborhood,Japanese neighborhood,japanese-neighborhood,japanese-neighborhood,UNK
+Japanese,15976,937,662,147807;186932;2611945;1077950;15573;13404;344430,http://en.wikipedia.org/wiki/Japanese_cuisine,Japanese cuisine,japanese-cuisine,japanese-cuisine,UNK
+Japanese,26591527,0,3,39920721,http://en.wikipedia.org/wiki/Japanese_Hospital,Japanese Hospital,japanese-hospital,japanese-hospital,UNK
+Japanese,1055369,29,27,15573,http://en.wikipedia.org/wiki/Japanese_mathematics,Japanese mathematics,japanese-mathematics,japanese-mathematics,UNK
+Japanese,1004626,140,160,2977331;15606;15573,http://en.wikipedia.org/wiki/Old_Japanese,Old Japanese,old-japanese,old-japanese,UNK
+Japanese,186932,6362,307,716657;752921;344430;11867;13404;31717;15976;15606;15573,http://en.wikipedia.org/wiki/Japanese_people,Japanese people,japanese-people,japanese-people,UNK
+British,31717,184306,1536,3736;4179;4721;11867;12249;12701;8465437;1679120;13404;15573;17867;13190957;11533780;22989;27862;1695702;30057;31717;1159194;2528948;4208015;326248;796228;635553;36855089;645042;3574003;9200791;1513051;393288;1559449;166215;7984054;932079;180697;186932;187448;19097669;201013;27413692;5188309;460615;752921;21308184;497717;493759,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+British,3574003,155,303,31717;4208015;27413692;4721;12068557,http://en.wikipedia.org/wiki/Presidencies_and_provinces_of_British_India,Presidencies and provinces of British India,presidencies-and-provinces-of-british-india,presidencies-and-provinces-of-british-india,GPE
+British,5188309,390,398,31717;11867;17867;5188309;15573,http://en.wikipedia.org/wiki/Energy_efficiency_in_British_housing,Energy efficiency in British housing,energy-efficiency-in-british-housing,energy-efficiency-in-british-housing,UNK
+British,4721,7762,934,17867;295105;19097669;3574003;3736;4179;4721;21212;11533780;645042;238524;180697;12249;4208015;187448;27413692;13404;31717,http://en.wikipedia.org/wiki/British_Empire,British Empire,british-empire,british-empire,UNK
+British,22315902,2,16,,http://en.wikipedia.org/wiki/British_school,British school,british-school,british-school,ORG
+British,19097669,5651,715,3736;4179;4721;11867;4208015;27413692;13404;31717,http://en.wikipedia.org/wiki/British_people,British people,british-people,british-people,UNK
+British,377070,55,22,3736,http://en.wikipedia.org/wiki/British_Islands,British Islands,british-islands,british-islands,UNK
+British,21308184,2,10,31717,"http://en.wikipedia.org/wiki/British_School,_Kuala_Lumpur","British School, Kuala Lumpur",british-school-kuala-lumpur,british-school-kuala-lumpur,ORG
+British,752921,36,197,186932;752921;31717,http://en.wikipedia.org/wiki/British_humour,British humour,british-humour,british-humour,UNK
+British,1513051,536,241,31717;15573,http://en.wikipedia.org/wiki/British_Formula_Three_Championship,British Formula Three Championship,british-formula-three-championship,british-formula-three-championship,UNK
+British,460615,608,224,31717,http://en.wikipedia.org/wiki/British_undergraduate_degree_classification,British undergraduate degree classification,british-undergraduate-degree-classification,british-undergraduate-degree-classification,UNK
+British,12068557,33,45,3574003;12068557,http://en.wikipedia.org/wiki/British_India_(band),British India,british-india,british-india-band,UNK
+British,3736,2695,375,17867;4179;4721;377070;19097669;31717;84692;12249;3736,http://en.wikipedia.org/wiki/British_Isles,British Isles,british-isles,british-isles,UNK
+British,9200791,227,281,9200791;31717;11867;15573,http://en.wikipedia.org/wiki/British_Figure_Skating_Championships,British Figure Skating Championships,british-figure-skating-championships,british-figure-skating-championships,UNK
+British,2528948,87,128,266313;1347221;31717,http://en.wikipedia.org/wiki/British_Airways_Flight_9,British Airways Flight 9,british-airways-flight-9,british-airways-flight-9,UNK
+British,1347221,57,98,2528948,http://en.wikipedia.org/wiki/British_Airways_Flight_5390,British Airways Flight 5390,british-airways-flight-5390,british-airways-flight-5390,UNK
+British,4179,1639,331,17867;4179;4721;13404;19097669;31717;11867;3736,http://en.wikipedia.org/wiki/British_English,British English,british-english,british-english,UNK
+British,4208015,6322,788,295105;19097669;3574003;4721;21212;27413692;31717,http://en.wikipedia.org/wiki/British_Raj,British Raj,british-raj,british-raj,GPE
+British,9467811,242,263,,http://en.wikipedia.org/wiki/British_baseball,British baseball,british-baseball,british-baseball,UNK
+British,13353120,113,130,,http://en.wikipedia.org/wiki/British_Band,British Band,british-band,british-band,UNK
+British,201013,43,50,31717,http://en.wikipedia.org/wiki/Lord_British,Lord British,lord-british,lord-british,UNK
+NEW YORK,645042,77367,1542,2499282;33567266;4721;1245772;290327;10992;12249;13404;15573;17867;22989;27862;8210131;30057;31717;27746113;26035579;667548;816554;18935639;46638;3880857;351876;7402167;2585447;229236;645042;13141861;598652;17292183;606772;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+NEW YORK,39062092,3,8,,http://en.wikipedia.org/wiki/New_York_EP,New York EP,new-york-ep,new-york-ep,UNK
+NEW YORK,5710132,2,12,,"http://en.wikipedia.org/wiki/New_York,_Auburn_and_Lansing_Railroad","New York, Auburn and Lansing Railroad",new-york-auburn-and-lansing-railroad,new-york-auburn-and-lansing-railroad,UNK
+NEW YORK,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+NEW YORK,2001239,3,3,,"http://en.wikipedia.org/wiki/New_York,_Newfoundland_and_London_Telegraph_Company","New York, Newfoundland and London Telegraph Company",new-york-newfoundland-and-london-telegraph-company,new-york-newfoundland-and-london-telegraph-company,UNK
+NEW YORK,7402167,6,16,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_New_York_(So_Good_They_Named_It_Twice)","New York, New York",new-york-new-york,new-york-new-york-so-good-they-named-it-twice,UNK
+NEW YORK,1159194,10,261,31717;17867,"http://en.wikipedia.org/wiki/New_York,_Lincolnshire","New York, Lincolnshire",new-york-lincolnshire,new-york-lincolnshire,UNK
+NEW YORK,351876,647,399,21310853;2585447;891699;645042;13141861;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_New_Haven_and_Hartford_Railroad","New York, New Haven and Hartford Railroad",new-york-new-haven-and-hartford-railroad,new-york-new-haven-and-hartford-railroad,UNK
+NEW YORK,816554,492,446,891699;351876;645042;2499282;8210131;26723573,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_and_Western_Railway","New York, Susquehanna and Western Railway",new-york-susquehanna-and-western-railway,new-york-susquehanna-and-western-railway,UNK
+NEW YORK,891699,493,307,351876;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_Chicago_and_St._Louis_Railroad","New York, Chicago and St. Louis Railroad",new-york-chicago-and-st-louis-railroad,new-york-chicago-and-st-louis-railroad,UNK
+NEW YORK,26035579,0,1,645042,"http://en.wikipedia.org/wiki/New_York,_US-NY","New York, US-NY",new-york-us-ny,new-york-us-ny,UNK
+NEW YORK,21310853,2,74,351876,"http://en.wikipedia.org/wiki/New_York,_New_Haven_&_Hartford_Passenger_Depot","New York, New Haven & Hartford Passenger Depot",new-york-new-haven-hartford-passenger-depot,new-york-new-haven-hartford-passenger-depot,UNK
+NEW YORK,1470149,50,16,,http://en.wikipedia.org/wiki/New_York_&_Company,New York & Company,new-york-company,new-york-company,UNK
+NEW YORK,606772,30,81,8210131;645042,http://en.wikipedia.org/wiki/New_York:_A_Documentary_Film,New York: A Documentary Film,new-york-a-documentary-film,new-york-a-documentary-film,UNK
+NEW YORK,1555877,17,13,31747730,"http://en.wikipedia.org/wiki/New_York,_New_York_(On_the_Town)","New York, New York",new-york-new-york,new-york-new-york-on-the-town,UNK
+NEW YORK,667548,10,36,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_Rio,_and_Buenos_Aires_Line","New York, Rio, and Buenos Aires Line",new-york-rio-and-buenos-aires-line,new-york-rio-and-buenos-aires-line,ORG
+NEW YORK,27746113,5,109,13141861;645042,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railroad_Administration_Building","New York, Westchester and Boston Railroad Administration Building",new-york-westchester-and-boston-railroad-administration-building,new-york-westchester-and-boston-railroad-administration-building,UNK
+NEW YORK,3880857,301,536,17867;645042;8210131,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+NEW YORK,31747730,135,373,1555877;645042,http://en.wikipedia.org/wiki/New_York_(Glee),New York,new-york,new-york-glee,UNK
+NEW YORK,2499282,360,314,891699;351876;645042;816554;8210131,"http://en.wikipedia.org/wiki/New_York,_Ontario_and_Western_Railway","New York, Ontario and Western Railway",new-york-ontario-and-western-railway,new-york-ontario-and-western-railway,UNK
+NEW YORK,8210131,70636,932,2499282;33567266;290327;11884;12249;17867;22989;8210131;10157228;667548;816554;58268;3880857;351876;7402167;891699;645042;13141861;598652;606772;126281,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+NEW YORK,598652,483,197,22989;645042;598652;8210131,http://en.wikipedia.org/wiki/New_York_School,New York School,new-york-school,new-york-school,UNK
+NEW YORK,17292183,104,126,4360088;645042,"http://en.wikipedia.org/wiki/New_York,_I_Love_You","New York, I Love You",new-york-i-love-you,new-york-i-love-you,UNK
+NEW YORK,493759,93,39,31717,"http://en.wikipedia.org/wiki/New_York,_Tyne_and_Wear","New York, Tyne and Wear",new-york-tyne-and-wear,new-york-tyne-and-wear,GPE
+NEW YORK,2585447,38,55,351876;645042,"http://en.wikipedia.org/wiki/New_York,_Providence_and_Boston_Railroad","New York, Providence and Boston Railroad",new-york-providence-and-boston-railroad,new-york-providence-and-boston-railroad,UNK
+NEW YORK,13141861,113,149,351876;8210131;645042;27746113,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railway","New York, Westchester and Boston Railway",new-york-westchester-and-boston-railway,new-york-westchester-and-boston-railway,UNK
+NEW YORK,7112349,30,43,,"http://en.wikipedia.org/wiki/New_York,_Texas","New York, Texas",new-york-texas,new-york-texas,GPE
+NEW YORK,26723573,3,85,816554,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_&_Western_Railroad_ALCO_Type_S-2_Locomotive","New York, Susquehanna & Western Railroad ALCO Type S-2 Locomotive",new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,UNK
+NEW YORK,13288448,14,23,,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+TOKYO,30057,20218,1027,24210789;344430;482088;482178;166215;29025998;11867;12249;42989724;13404;32165991;1922311;15606;15573;18357891;17867;10765373;364805;5460564;265516;266152;23076410;37154180;1877139;18443430;645042;1171535;22989;2729996;148869;27862;2913859;2574754;30057;31717,http://en.wikipedia.org/wiki/Tokyo,Tokyo,tokyo,tokyo,GPE
+TOKYO,482178,117,10,482088;15573;30057,http://en.wikipedia.org/wiki/Tokyo_Prefecture,Tokyo Prefecture,tokyo-prefecture,tokyo-prefecture,UNK
+TOKYO,15409922,14,17,166215;15409922,"http://en.wikipedia.org/wiki/University_of_Tokyo,_Komaba_Campus","University of Tokyo, Komaba Campus",university-of-tokyo-komaba-campus,university-of-tokyo-komaba-campus,UNK
+TOKYO,635553,252,202,31717,http://en.wikipedia.org/wiki/Tokyo_Mew_Mew,Tokyo Mew Mew,tokyo-mew-mew,tokyo-mew-mew,UNK
+TOKYO,265516,810,67,30057;15573,http://en.wikipedia.org/wiki/Tokyo_Bay,Tokyo Bay,tokyo-bay,tokyo-bay,UNK
+TOKYO,10765373,9,5,30057,http://en.wikipedia.org/wiki/Tokyo_Journal,Tokyo Journal,tokyo-journal,tokyo-journal,ORG
+TOKYO,23076410,5,24,30057;15573,http://en.wikipedia.org/wiki/Tokyo_Tokyo,Tokyo Tokyo,tokyo-tokyo,tokyo-tokyo,UNK
+TOKYO,5460564,42,47,15606;30057;11884,http://en.wikipedia.org/wiki/Tokyo-Ga,Tokyo-Ga,tokyo-ga,tokyo-ga,UNK
+TOKYO,266152,164,56,30057;1922311;2729996;364805;344430;147807,http://en.wikipedia.org/wiki/Tokyo_Imperial_Palace,Tokyo Imperial Palace,tokyo-imperial-palace,tokyo-imperial-palace,UNK
+TOKYO,42989724,73,82,22437586;22192200;30057,http://en.wikipedia.org/wiki/.tokyo,.tokyo,tokyo,tokyo,UNK
+TOKYO,5758622,26,58,,http://en.wikipedia.org/wiki/Tokyo_Hotel_(Chicago),Tokyo Hotel,tokyo-hotel,tokyo-hotel-chicago,UNK
+TOKYO,100006303,0,0,,http://en.wikipedia.org/wiki/Tokyo_(Single),Tokyo,tokyo,tokyo-single,UKN
+TOKYO,364805,785,524,30057;266152;15573,http://en.wikipedia.org/wiki/Tokyo_Station,Tokyo Station,tokyo-station,tokyo-station,UNK
+TOKYO,17065397,3,11,,http://en.wikipedia.org/wiki/Tokyo_Tribe,Tokyo Tribe,tokyo-tribe,tokyo-tribe,UNK
+TOKYO,15233114,53,67,,"http://en.wikipedia.org/wiki/Tokyo,_Oklahoma","Tokyo, Oklahoma",tokyo-oklahoma,tokyo-oklahoma,UNK
+TOKYO,24210789,3,2,30057;15573,http://en.wikipedia.org/wiki/Tokyo_Foundation,Tokyo Foundation,tokyo-foundation,tokyo-foundation,UNK
+TOKYO,30922663,660,216,1922311;344430,http://en.wikipedia.org/wiki/Tokyō,Tokyō,tokyo,tokyo,UNK
+TOKYO,1877139,195,183,1877139;30057;15573;148869,http://en.wikipedia.org/wiki/Tokyo_FM,Tokyo FM,tokyo-fm,tokyo-fm,ORG
+TOKYO,166215,1474,322,30057;166215;15409922;31928;31717;268075;15573,http://en.wikipedia.org/wiki/University_of_Tokyo,University of Tokyo,university-of-tokyo,university-of-tokyo,UNK
+TOKYO,30855569,15,28,15606;15573,http://en.wikipedia.org/wiki/Tokyo_Park,Tokyo Park,tokyo-park,tokyo-park,UNK
+TOKYO,22416062,27,33,1171535;15573,http://en.wikipedia.org/wiki/F.C._Tokyo_(volleyball),F.C. Tokyo,fc-tokyo,fc-tokyo-volleyball,ORG
+TOKYO,2913859,187,134,30057,http://en.wikipedia.org/wiki/The_Fast_and_the_Furious:_Tokyo_Drift,The Fast and the Furious: Tokyo Drift,the-fast-and-the-furious-tokyo-drift,the-fast-and-the-furious-tokyo-drift,UNK
+TOKYO,482088,106,56,15573;30057;482178,http://en.wikipedia.org/wiki/Tokyo_City,Tokyo City,tokyo-city,tokyo-city,GPE
+TOKYO,1077950,209,183,15573;15976,"http://en.wikipedia.org/wiki/Little_Tokyo,_Los_Angeles","Little Tokyo, Los Angeles",little-tokyo-los-angeles,little-tokyo-los-angeles,UNK
+TOKYO,18357891,36,53,15606;30057,http://en.wikipedia.org/wiki/Tokyo!,Tokyo!,tokyo,tokyo,UNK
+TOKYO,37154180,67,34,15606;30057,http://en.wikipedia.org/wiki/Tokyo_Family,Tokyo Family,tokyo-family,tokyo-family,UNK
+TOKYO,148869,287,196,1877139;522978;30057;22989;32165991,http://en.wikipedia.org/wiki/Tokyo_Tower,Tokyo Tower,tokyo-tower,tokyo-tower,UNK
+TOKYO,1171535,578,385,22416062;30057;1171535;15573,http://en.wikipedia.org/wiki/F.C._Tokyo,F.C. Tokyo,fc-tokyo,fc-tokyo,UNK
+TOKYO,29025998,24,50,30057,http://en.wikipedia.org/wiki/Tokyo_(Vampires_&_Wolves),Tokyo,tokyo,tokyo-vampires-wolves,UNK
+TOKYO,25758881,15,20,,"http://en.wikipedia.org/wiki/Little_Tokyo,_U.S.A.","Little Tokyo, U.S.A.",little-tokyo-usa,little-tokyo-usa,UNK
+TOKYO,18443430,17,32,18443430;30057;15573,http://en.wikipedia.org/wiki/Tokyo_Stadium_(1962),Tokyo Stadium,tokyo-stadium,tokyo-stadium-1962,UNK
+TOKYO,5704277,9,13,5704277,http://en.wikipedia.org/wiki/Tokyo_Love_Story,Tokyo Love Story,tokyo-love-story,tokyo-love-story,UNK
+TOKYO,32165991,84,163,15573;148869;30057,http://en.wikipedia.org/wiki/Tokyo_Building,Tokyo Building,tokyo-building,tokyo-building,UNK
+FRANKFURT,10992,6502,1040,17867;229236;1245772;21212;645042;98577;22989;4605151;11867;862147;1695702;248285,http://en.wikipedia.org/wiki/Frankfurt,Frankfurt,frankfurt,frankfurt,GPE
+FRANKFURT,539067,8,2,,http://en.wikipedia.org/wiki/University_of_Frankfurt,University of Frankfurt,university-of-frankfurt,university-of-frankfurt,ORG
+FRANKFURT,98577,479,174,10992;11884;11867;17867;25646127,http://en.wikipedia.org/wiki/Frankfurt_(Oder),Frankfurt,frankfurt,frankfurt-oder,GPE
+FRANKFURT,34345845,3,8,11867,http://en.wikipedia.org/wiki/Frankfurt_(icebreaker),Frankfurt,frankfurt,frankfurt-icebreaker,PER
+FRANKFURT,4605151,199,160,10992;11884;11867,http://en.wikipedia.org/wiki/Frankfurt_(Main)_Hauptbahnhof,Frankfurt (Main) Hauptbahnhof,frankfurt-main-hauptbahnhof,frankfurt-main-hauptbahnhof,UNK
+FRANKFURT,1695702,388,310,10992;31717;11867;15573,http://en.wikipedia.org/wiki/Frankfurt_Motor_Show,Frankfurt Motor Show,frankfurt-motor-show,frankfurt-motor-show,UNK
+FRANKFURT,248285,872,583,10992;248457;11884;11867,http://en.wikipedia.org/wiki/Frankfurt_Airport,Frankfurt Airport,frankfurt-airport,frankfurt-airport,UNK
+FRANKFURT,229236,869,443,10992;645042;11884;11867;229236,http://en.wikipedia.org/wiki/Frankfurt_School,Frankfurt School,frankfurt-school,frankfurt-school,UNK
+FRANKFURT,13659323,7,6,,http://en.wikipedia.org/wiki/Frankfurt_Group,Frankfurt Group,frankfurt-group,frankfurt-group,UNK
+FRANKFURT,25646127,22,25,98577;11867,http://en.wikipedia.org/wiki/Frankfurt_(Bezirk),Frankfurt,frankfurt,frankfurt-bezirk,ORG
+FRANKFURT,862147,1853,615,21212;10992;11867;862147;15573,http://en.wikipedia.org/wiki/Eintracht_Frankfurt,Eintracht Frankfurt,eintracht-frankfurt,eintracht-frankfurt,UNK
+PARIS,22989,46849,1623,33567266;10992;10612;11867;12249;33006596;12701;13404;22192200;15573;17867;3901931;645042;22989;84692;148869;27862;8210131;30057;705310;31717;3453075;598652;513436;295105;1973841;932079;7758150,http://en.wikipedia.org/wiki/Paris,Paris,paris,paris,UNK
+PARIS,84692,2888,164,21212;22989;3736,http://en.wikipedia.org/wiki/University_of_Paris,University of Paris,university-of-paris,university-of-paris,ORG
+PARIS,14609428,2,9,8591270,"http://en.wikipedia.org/wiki/Paris,_Kiribati","Paris, Kiribati",paris-kiribati,paris-kiribati,UNK
+PARIS,7758150,2,9,22989,"http://en.wikipedia.org/wiki/Paris,_Paris","Paris, Paris",paris-paris,paris-paris,UNK
+PARIS,3453075,551,133,22989,http://en.wikipedia.org/wiki/Paris_Opera,Paris Opera,paris-opera,paris-opera,ORG
+PARIS,1973841,442,93,22989,http://en.wikipedia.org/wiki/Paris_FC,Paris FC,paris-fc,paris-fc,UNK
+PARIS,10308003,1,1,,"http://en.wikipedia.org/wiki/Paris,_TN_μSA","Paris, TN μSA",paris-tn-μsa,paris-tn-μsa,PER
+PARIS,31420657,1,7,,"http://en.wikipedia.org/wiki/Paris,_Denmark","Paris, Denmark",paris-denmark,paris-denmark,UNK
+PARIS,6198965,2,10,,http://en.wikipedia.org/wiki/Little_Paris,Little Paris,little-paris,little-paris,UNK
+PARIS,5655865,40,58,141772,"http://en.wikipedia.org/wiki/Paris_(community),_Wisconsin","Paris (community), Wisconsin",paris-community-wisconsin,paris-community-wisconsin,UNK
+PARIS,111145,145,93,,"http://en.wikipedia.org/wiki/Paris,_Illinois","Paris, Illinois",paris-illinois,paris-illinois,UNK
+PARIS,248424,203,53,,"http://en.wikipedia.org/wiki/Paris,_Ontario","Paris, Ontario",paris-ontario,paris-ontario,GPE
+PARIS,23768447,3,33,,"http://en.wikipedia.org/wiki/Paris,_Not_France","Paris, Not France",paris-not-france,paris-not-france,UNK
+PARIS,10224966,1,1,,"http://en.wikipedia.org/wiki/Paris,_TX_μSA","Paris, TX μSA",paris-tx-μsa,paris-tx-μsa,PER
+PARIS,18746173,0,1,,"http://en.wikipedia.org/wiki/Paris,_TN_µSA","Paris, TN µSA",paris-tn-µsa,paris-tn-µsa,PER
+PARIS,31631798,30,59,,"http://en.wikipedia.org/wiki/Paris,_Iowa","Paris, Iowa",paris-iowa,paris-iowa,UNK
+PARIS,4380507,178,264,,http://en.wikipedia.org/wiki/Count_Paris,Count Paris,count-paris,count-paris,UNK
+PARIS,932079,86,56,15573;31717;11867;22989,http://en.wikipedia.org/wiki/Paris_Club,Paris Club,paris-club,paris-club,UNK
+PARIS,3320433,8,13,,http://en.wikipedia.org/wiki/Paris_(genus),Paris,paris,paris-genus,PER
+PARIS,1645419,7,11,,"http://en.wikipedia.org/wiki/Paris,_Texas_(band)","Paris, Texas",paris-texas,paris-texas-band,UNK
+PARIS,141772,0,3,5655865,"http://en.wikipedia.org/wiki/Paris,_Wisconsin","Paris, Wisconsin",paris-wisconsin,paris-wisconsin,GPE
+PARIS,18746176,0,1,,"http://en.wikipedia.org/wiki/Paris,_TX_µSA","Paris, TX µSA",paris-tx-µsa,paris-tx-µsa,PER
+PARIS,36726996,15,33,,"http://en.wikipedia.org/wiki/Paris,_Mississippi","Paris, Mississippi",paris-mississippi,paris-mississippi,GPE
+PARIS,705310,278,202,22989,http://en.wikipedia.org/wiki/Paris_Las_Vegas,Paris Las Vegas,paris-las-vegas,paris-las-vegas,ORG
+PARIS,11287669,34,38,,http://en.wikipedia.org/wiki/SS_Paris_(1916),SS Paris,ss-paris,ss-paris-1916,UNK
+PARIS,32977266,16,20,,http://en.wikipedia.org/wiki/Paris_(band),Paris,paris,paris-band,UNK
+PARIS,35318735,24,35,,http://en.wikipedia.org/wiki/Paris_(Ooh_La_La),Paris,paris,paris-ooh-la-la,UNK
+PARIS,22192200,73,81,22437586;22989;42989724,http://en.wikipedia.org/wiki/.paris,.paris,paris,paris,UNK
+PARIS,15956462,49,46,,"http://en.wikipedia.org/wiki/Paris,_Tokyo","Paris, Tokyo",paris-tokyo,paris-tokyo,UNK
+PARIS,33006596,259,318,22989,http://en.wikipedia.org/wiki/Niggas_in_Paris,Niggas in Paris,niggas-in-paris,niggas-in-paris,UNK
+PARIS,1853308,0,9,,http://en.wikipedia.org/wiki/Paris_Airport,Paris Airport,paris-airport,paris-airport,UNK
+PARIS,9289655,5,10,,http://en.wikipedia.org/wiki/Paris_(actor_under_Domitian),Paris,paris,paris-actor-under-domitian,PER
+PARIS,4360088,0,257,17292183,"http://en.wikipedia.org/wiki/Paris,_je_t'aime","Paris, je t'aime",paris-je-taime,paris-je-taime,UNK
+PARIS,9628841,59,65,,"http://en.wikipedia.org/wiki/Paris,_Ohio","Paris, Ohio",paris-ohio,paris-ohio,GPE
+PARIS,8506637,3,18,,http://en.wikipedia.org/wiki/París_(retail),París,paris,paris-retail,UNK
+PARIS,42983166,4,22,,"http://en.wikipedia.org/wiki/Paris,_BN,_lat._4404","Paris, BN, lat. 4404",paris-bn-lat-4404,paris-bn-lat-4404,UNK
+PARIS,295105,1324,361,295105;4208015;4721;22989,"http://en.wikipedia.org/wiki/Paris_Peace_Conference,_1919","Paris Peace Conference, 1919",paris-peace-conference-1919,paris-peace-conference-1919,UNK
+PARIS,14384812,9,11,14384812,http://en.wikipedia.org/wiki/Paris_(Pantheon),Paris,paris,paris-pantheon,UNK
+PARIS,513436,42,51,22989,"http://en.wikipedia.org/wiki/Paris,_Yukon","Paris, Yukon",paris-yukon,paris-yukon,UNK
+PARIS,3111017,137,216,,"http://en.wikipedia.org/wiki/Paris,_Pennsylvania","Paris, Pennsylvania",paris-pennsylvania,paris-pennsylvania,GPE
+PARIS,13482794,52,61,,"http://en.wikipedia.org/wiki/Paris,_Virginia","Paris, Virginia",paris-virginia,paris-virginia,GPE
+PARIS,212144,63,47,,http://en.wikipedia.org/wiki/Paris_(rapper),Paris,paris,paris-rapper,UNK
+SYDNEY,27862,23790,889,3293549;522978;665230;11867;32837949;23684447;15573;17867;1113940;6469725;8856503;11533780;266313;3499711;645042;22989;27862;30057;31928;796228;31717,http://en.wikipedia.org/wiki/Sydney,Sydney,sydney,sydney,GPE
+SYDNEY,1101331,79,37,,"http://en.wikipedia.org/wiki/Sydney_Road,_Melbourne","Sydney Road, Melbourne",sydney-road-melbourne,sydney-road-melbourne,UNK
+SYDNEY,665230,60,54,31928;27862,http://en.wikipedia.org/wiki/Sydney_Hospital,Sydney Hospital,sydney-hospital,sydney-hospital,ORG
+SYDNEY,522978,296,277,23684447;27862;6469725;266313;148869;3499711,http://en.wikipedia.org/wiki/Sydney_Tower,Sydney Tower,sydney-tower,sydney-tower,UNK
+SYDNEY,8856503,166,170,796228;27862,http://en.wikipedia.org/wiki/Electoral_district_of_Sydney,Electoral district of Sydney,electoral-district-of-sydney,electoral-district-of-sydney,UNK
+SYDNEY,6469725,122,81,266313;3499711;796228;522978;27862,http://en.wikipedia.org/wiki/Geography_of_Sydney,Geography of Sydney,geography-of-sydney,geography-of-sydney,UNK
+SYDNEY,3293549,13,21,27862;3293668;3293549;58268,http://en.wikipedia.org/wiki/Sydney_River,Sydney River,sydney-river,sydney-river,UNK
+SYDNEY,1332907,8,10,,http://en.wikipedia.org/wiki/Baron_Sydney,Baron Sydney,baron-sydney,baron-sydney,PER
+SYDNEY,36436066,6,11,,http://en.wikipedia.org/wiki/Sydney_School,Sydney School,sydney-school,sydney-school,UNK
+SYDNEY,1098693,16,55,17867,"http://en.wikipedia.org/wiki/Sydney,_Lady_Morgan","Sydney, Lady Morgan",sydney-lady-morgan,sydney-lady-morgan,PER
+SYDNEY,6163291,0,2,21773055,http://en.wikipedia.org/wiki/Sydney_Island,Sydney Island,sydney-island,sydney-island,UNK
+SYDNEY,31928,3130,486,166215;27862;665230;13404;31928;796228;268075;15573,http://en.wikipedia.org/wiki/University_of_Sydney,University of Sydney,university-of-sydney,university-of-sydney,ORG
+SYDNEY,266313,937,665,2528948;6469725;3499711;248457;522978;27862;23684447,http://en.wikipedia.org/wiki/Sydney_Airport,Sydney Airport,sydney-airport,sydney-airport,UNK
+SYDNEY,796228,537,286,31717;11867;6469725;27862;8856503;15573;31928,http://en.wikipedia.org/wiki/City_of_Sydney,City of Sydney,city-of-sydney,city-of-sydney,UNK
+SYDNEY,23684447,146,28,266313;3499711;522978;27862,http://en.wikipedia.org/wiki/Sydney_Theatre,Sydney Theatre,sydney-theatre,sydney-theatre,UNK
+SYDNEY,58268,787,256,3293549;8210131,"http://en.wikipedia.org/wiki/Sydney,_Nova_Scotia","Sydney, Nova Scotia",sydney-nova-scotia,sydney-nova-scotia,GPE
+SYDNEY,5941401,4,23,,http://en.wikipedia.org/wiki/Sydney_Park_(actress),Sydney Park,sydney-park,sydney-park-actress,PER
+SYDNEY,21773055,1,8,6163291,http://en.wikipedia.org/wiki/Sydney_Island_(Queensland),Sydney Island,sydney-island,sydney-island-queensland,UNK
+SYDNEY,3499711,117,148,23684447;266313;522978;27862;6469725,http://en.wikipedia.org/wiki/Sydney_Park,Sydney Park,sydney-park,sydney-park,UNK
+SYDNEY,11533780,325,435,31717;11867;27862;15573;4721,http://en.wikipedia.org/wiki/Sydney_International,Sydney International,sydney-international,sydney-international,UNK
+SYDNEY,2854921,43,11,,http://en.wikipedia.org/wiki/Sydney_Stadium,Sydney Stadium,sydney-stadium,sydney-stadium,UNK
+SYDNEY,1113940,907,353,1113940;27862;11867,http://en.wikipedia.org/wiki/Sydney_FC,Sydney FC,sydney-fc,sydney-fc,ORG
+SYDNEY,3293668,25,9,3293668;3293549,"http://en.wikipedia.org/wiki/Sydney_River,_Nova_Scotia","Sydney River, Nova Scotia",sydney-river-nova-scotia,sydney-river-nova-scotia,GPE
+HONG KONG,13404,29087,1384,19097669;4179;4721;18593210;12249;22962474;19339340;27413692;13411;13406;13404;15976;15573;17867;1389893;13371128;1449735;645042;22989;268075;393288;393307;30057;31928;31717;23476353;33617951;180697;248457;186932;1244783;33918128,http://en.wikipedia.org/wiki/Hong_Kong,Hong Kong,hong-kong,hong-kong,GPE
+HONG KONG,13406,276,257,393288;180697;248457;27413692;13411;13406;13404,http://en.wikipedia.org/wiki/Geography_of_Hong_Kong,Geography of Hong Kong,geography-of-hong-kong,geography-of-hong-kong,UNK
+HONG KONG,248457,1212,534,180697;266313;248285;1449735;393288;1389893;33918128;13411;13406;13404,http://en.wikipedia.org/wiki/Hong_Kong_International_Airport,Hong Kong International Airport,hong-kong-international-airport,hong-kong-international-airport,UNK
+HONG KONG,33918128,1,10,13404;248457,http://en.wikipedia.org/wiki/Hong_Kong_(Area_Control_Centre),Hong Kong,hong-kong,hong-kong-area-control-centre,UNK
+HONG KONG,18775842,161,179,33617951;36855089;32837949,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2008_Summer_Paralympics","Hong Kong, China at the 2008 Summer Paralympics",hong-kong-china-at-the-2008-summer-paralympics,hong-kong-china-at-the-2008-summer-paralympics,UNK
+HONG KONG,180697,1125,122,248457;13371128;4721;31717;1389893;1244783;268075;27413692;13411;13406;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Island,Hong Kong Island,hong-kong-island,hong-kong-island,UNK
+HONG KONG,393307,62,30,13404,http://en.wikipedia.org/wiki/Hong_Kong_Park,Hong Kong Park,hong-kong-park,hong-kong-park,UNK
+HONG KONG,22962474,40,50,13371128;180697;13404,http://en.wikipedia.org/wiki/W_Hong_Kong,W Hong Kong,w-hong-kong,w-hong-kong,UNK
+HONG KONG,393288,131,230,31717;27413692;13411;15573;13406;13404;248457,http://en.wikipedia.org/wiki/Tourism_in_Hong_Kong,Tourism in Hong Kong,tourism-in-hong-kong,tourism-in-hong-kong,UNK
+HONG KONG,13411,475,349,393288;23476353;180697;1389893;248457;13411;13406;13404;1449735,http://en.wikipedia.org/wiki/Transport_in_Hong_Kong,Transport in Hong Kong,transport-in-hong-kong,transport-in-hong-kong,ORG
+HONG KONG,2152406,18,13,,http://en.wikipedia.org/wiki/Hong_Kong_Club,Hong Kong Club,hong-kong-club,hong-kong-club,ORG
+HONG KONG,10157228,5,14,8210131,http://en.wikipedia.org/wiki/The_Hong_Kong,The Hong Kong,the-hong-kong,the-hong-kong,UNK
+HONG KONG,1244783,601,156,180697;13404,http://en.wikipedia.org/wiki/Hong_Kong_Stadium,Hong Kong Stadium,hong-kong-stadium,hong-kong-stadium,UNK
+HONG KONG,18593210,15,14,13404,http://en.wikipedia.org/wiki/Mr._Hong_Kong,Mr. Hong Kong,mr-hong-kong,mr-hong-kong,UNK
+HONG KONG,1449735,450,319,248457;13411;13404,http://en.wikipedia.org/wiki/Hong_Kong_Airlines,Hong Kong Airlines,hong-kong-airlines,hong-kong-airlines,ORG
+HONG KONG,1389893,376,293,180697;1389893;248457;13411;13404,http://en.wikipedia.org/wiki/Hong_Kong_Station,Hong Kong Station,hong-kong-station,hong-kong-station,UNK
+HONG KONG,13371128,52,51,180697;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Hotel,Hong Kong Hotel,hong-kong-hotel,hong-kong-hotel,UNK
+HONG KONG,36855089,173,199,33617951;32837949;31717;18775842;17867,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2012_Summer_Paralympics","Hong Kong, China at the 2012 Summer Paralympics",hong-kong-china-at-the-2012-summer-paralympics,hong-kong-china-at-the-2012-summer-paralympics,UNK
+HONG KONG,19339340,52,31,268075;13404,http://en.wikipedia.org/wiki/2009_flu_pandemic_in_Hong_Kong,2009 flu pandemic in Hong Kong,2009-flu-pandemic-in-hong-kong,2009-flu-pandemic-in-hong-kong,UNK
+HONG KONG,27413692,563,306,393288;180697;31717;268075;3574003;4208015;19097669;13406;13404;4721,http://en.wikipedia.org/wiki/British_Hong_Kong,British Hong Kong,british-hong-kong,british-hong-kong,GPE
+HONG KONG,32837949,110,121,33617951;36855089;27862;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2000_Summer_Paralympics","Hong Kong, China at the 2000 Summer Paralympics",hong-kong-china-at-the-2000-summer-paralympics,hong-kong-china-at-the-2000-summer-paralympics,UNK
+HONG KONG,268075,918,410,180697;31928;19339340;166215;268075;27413692;15573;13404,http://en.wikipedia.org/wiki/University_of_Hong_Kong,University of Hong Kong,university-of-hong-kong,university-of-hong-kong,UNK
+HONG KONG,33617951,142,153,36855089;13404;32837949;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2004_Summer_Paralympics","Hong Kong, China at the 2004 Summer Paralympics",hong-kong-china-at-the-2004-summer-paralympics,hong-kong-china-at-the-2004-summer-paralympics,UNK
+New York,645042,77367,1542,2499282;33567266;4721;1245772;290327;10992;12249;13404;15573;17867;22989;27862;8210131;30057;31717;27746113;26035579;667548;816554;18935639;46638;3880857;351876;7402167;2585447;229236;645042;13141861;598652;17292183;606772;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+New York,39062092,3,8,,http://en.wikipedia.org/wiki/New_York_EP,New York EP,new-york-ep,new-york-ep,UNK
+New York,5710132,2,12,,"http://en.wikipedia.org/wiki/New_York,_Auburn_and_Lansing_Railroad","New York, Auburn and Lansing Railroad",new-york-auburn-and-lansing-railroad,new-york-auburn-and-lansing-railroad,UNK
+New York,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+New York,2001239,3,3,,"http://en.wikipedia.org/wiki/New_York,_Newfoundland_and_London_Telegraph_Company","New York, Newfoundland and London Telegraph Company",new-york-newfoundland-and-london-telegraph-company,new-york-newfoundland-and-london-telegraph-company,UNK
+New York,7402167,6,16,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_New_York_(So_Good_They_Named_It_Twice)","New York, New York",new-york-new-york,new-york-new-york-so-good-they-named-it-twice,UNK
+New York,1159194,10,261,31717;17867,"http://en.wikipedia.org/wiki/New_York,_Lincolnshire","New York, Lincolnshire",new-york-lincolnshire,new-york-lincolnshire,UNK
+New York,351876,647,399,21310853;2585447;891699;645042;13141861;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_New_Haven_and_Hartford_Railroad","New York, New Haven and Hartford Railroad",new-york-new-haven-and-hartford-railroad,new-york-new-haven-and-hartford-railroad,UNK
+New York,816554,492,446,891699;351876;645042;2499282;8210131;26723573,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_and_Western_Railway","New York, Susquehanna and Western Railway",new-york-susquehanna-and-western-railway,new-york-susquehanna-and-western-railway,UNK
+New York,891699,493,307,351876;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_Chicago_and_St._Louis_Railroad","New York, Chicago and St. Louis Railroad",new-york-chicago-and-st-louis-railroad,new-york-chicago-and-st-louis-railroad,UNK
+New York,26035579,0,1,645042,"http://en.wikipedia.org/wiki/New_York,_US-NY","New York, US-NY",new-york-us-ny,new-york-us-ny,UNK
+New York,21310853,2,74,351876,"http://en.wikipedia.org/wiki/New_York,_New_Haven_&_Hartford_Passenger_Depot","New York, New Haven & Hartford Passenger Depot",new-york-new-haven-hartford-passenger-depot,new-york-new-haven-hartford-passenger-depot,UNK
+New York,1470149,50,16,,http://en.wikipedia.org/wiki/New_York_&_Company,New York & Company,new-york-company,new-york-company,UNK
+New York,606772,30,81,8210131;645042,http://en.wikipedia.org/wiki/New_York:_A_Documentary_Film,New York: A Documentary Film,new-york-a-documentary-film,new-york-a-documentary-film,UNK
+New York,1555877,17,13,31747730,"http://en.wikipedia.org/wiki/New_York,_New_York_(On_the_Town)","New York, New York",new-york-new-york,new-york-new-york-on-the-town,UNK
+New York,667548,10,36,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_Rio,_and_Buenos_Aires_Line","New York, Rio, and Buenos Aires Line",new-york-rio-and-buenos-aires-line,new-york-rio-and-buenos-aires-line,ORG
+New York,27746113,5,109,13141861;645042,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railroad_Administration_Building","New York, Westchester and Boston Railroad Administration Building",new-york-westchester-and-boston-railroad-administration-building,new-york-westchester-and-boston-railroad-administration-building,UNK
+New York,3880857,301,536,17867;645042;8210131,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+New York,31747730,135,373,1555877;645042,http://en.wikipedia.org/wiki/New_York_(Glee),New York,new-york,new-york-glee,UNK
+New York,2499282,360,314,891699;351876;645042;816554;8210131,"http://en.wikipedia.org/wiki/New_York,_Ontario_and_Western_Railway","New York, Ontario and Western Railway",new-york-ontario-and-western-railway,new-york-ontario-and-western-railway,UNK
+New York,8210131,70636,932,2499282;33567266;290327;11884;12249;17867;22989;8210131;10157228;667548;816554;58268;3880857;351876;7402167;891699;645042;13141861;598652;606772;126281,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+New York,598652,483,197,22989;645042;598652;8210131,http://en.wikipedia.org/wiki/New_York_School,New York School,new-york-school,new-york-school,UNK
+New York,17292183,104,126,4360088;645042,"http://en.wikipedia.org/wiki/New_York,_I_Love_You","New York, I Love You",new-york-i-love-you,new-york-i-love-you,UNK
+New York,493759,93,39,31717,"http://en.wikipedia.org/wiki/New_York,_Tyne_and_Wear","New York, Tyne and Wear",new-york-tyne-and-wear,new-york-tyne-and-wear,GPE
+New York,2585447,38,55,351876;645042,"http://en.wikipedia.org/wiki/New_York,_Providence_and_Boston_Railroad","New York, Providence and Boston Railroad",new-york-providence-and-boston-railroad,new-york-providence-and-boston-railroad,UNK
+New York,13141861,113,149,351876;8210131;645042;27746113,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railway","New York, Westchester and Boston Railway",new-york-westchester-and-boston-railway,new-york-westchester-and-boston-railway,UNK
+New York,7112349,30,43,,"http://en.wikipedia.org/wiki/New_York,_Texas","New York, Texas",new-york-texas,new-york-texas,GPE
+New York,26723573,3,85,816554,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_&_Western_Railroad_ALCO_Type_S-2_Locomotive","New York, Susquehanna & Western Railroad ALCO Type S-2 Locomotive",new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,UNK
+New York,13288448,14,23,,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+Dow Jones,47361,425,319,46638;40293;497717;2729996,http://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average,Dow Jones Industrial Average,dow-jones-industrial-average,dow-jones-industrial-average,UNK
+Dow Jones,46638,524,126,645042;47361,http://en.wikipedia.org/wiki/Dow_Jones_&_Company,Dow Jones & Company,dow-jones-company,dow-jones-company,UNK
+Dow Jones,23151272,29,24,23151272,http://en.wikipedia.org/wiki/Dow_Jones_Sustainability_Index,Dow Jones Sustainability Index,dow-jones-sustainability-index,dow-jones-sustainability-index,ORG
+FTSE-100,497717,495,558,31717;47361,http://en.wikipedia.org/wiki/FTSE_100_Index,FTSE 100 Index,ftse-100-index,ftse-100-index,UNK
+Tokyo,30057,20218,1027,24210789;344430;482088;482178;166215;29025998;11867;12249;42989724;13404;32165991;1922311;15606;15573;18357891;17867;10765373;364805;5460564;265516;266152;23076410;37154180;1877139;18443430;645042;1171535;22989;2729996;148869;27862;2913859;2574754;30057;31717,http://en.wikipedia.org/wiki/Tokyo,Tokyo,tokyo,tokyo,GPE
+Tokyo,482178,117,10,482088;15573;30057,http://en.wikipedia.org/wiki/Tokyo_Prefecture,Tokyo Prefecture,tokyo-prefecture,tokyo-prefecture,UNK
+Tokyo,15409922,14,17,166215;15409922,"http://en.wikipedia.org/wiki/University_of_Tokyo,_Komaba_Campus","University of Tokyo, Komaba Campus",university-of-tokyo-komaba-campus,university-of-tokyo-komaba-campus,UNK
+Tokyo,635553,252,202,31717,http://en.wikipedia.org/wiki/Tokyo_Mew_Mew,Tokyo Mew Mew,tokyo-mew-mew,tokyo-mew-mew,UNK
+Tokyo,265516,810,67,30057;15573,http://en.wikipedia.org/wiki/Tokyo_Bay,Tokyo Bay,tokyo-bay,tokyo-bay,UNK
+Tokyo,10765373,9,5,30057,http://en.wikipedia.org/wiki/Tokyo_Journal,Tokyo Journal,tokyo-journal,tokyo-journal,ORG
+Tokyo,23076410,5,24,30057;15573,http://en.wikipedia.org/wiki/Tokyo_Tokyo,Tokyo Tokyo,tokyo-tokyo,tokyo-tokyo,UNK
+Tokyo,5460564,42,47,15606;30057;11884,http://en.wikipedia.org/wiki/Tokyo-Ga,Tokyo-Ga,tokyo-ga,tokyo-ga,UNK
+Tokyo,266152,164,56,30057;1922311;2729996;364805;344430;147807,http://en.wikipedia.org/wiki/Tokyo_Imperial_Palace,Tokyo Imperial Palace,tokyo-imperial-palace,tokyo-imperial-palace,UNK
+Tokyo,42989724,73,82,22437586;22192200;30057,http://en.wikipedia.org/wiki/.tokyo,.tokyo,tokyo,tokyo,UNK
+Tokyo,5758622,26,58,,http://en.wikipedia.org/wiki/Tokyo_Hotel_(Chicago),Tokyo Hotel,tokyo-hotel,tokyo-hotel-chicago,UNK
+Tokyo,100006303,0,0,,http://en.wikipedia.org/wiki/Tokyo_(Single),Tokyo,tokyo,tokyo-single,UKN
+Tokyo,364805,785,524,30057;266152;15573,http://en.wikipedia.org/wiki/Tokyo_Station,Tokyo Station,tokyo-station,tokyo-station,UNK
+Tokyo,17065397,3,11,,http://en.wikipedia.org/wiki/Tokyo_Tribe,Tokyo Tribe,tokyo-tribe,tokyo-tribe,UNK
+Tokyo,15233114,53,67,,"http://en.wikipedia.org/wiki/Tokyo,_Oklahoma","Tokyo, Oklahoma",tokyo-oklahoma,tokyo-oklahoma,UNK
+Tokyo,24210789,3,2,30057;15573,http://en.wikipedia.org/wiki/Tokyo_Foundation,Tokyo Foundation,tokyo-foundation,tokyo-foundation,UNK
+Tokyo,30922663,660,216,1922311;344430,http://en.wikipedia.org/wiki/Tokyō,Tokyō,tokyo,tokyo,UNK
+Tokyo,1877139,195,183,1877139;30057;15573;148869,http://en.wikipedia.org/wiki/Tokyo_FM,Tokyo FM,tokyo-fm,tokyo-fm,ORG
+Tokyo,166215,1474,322,30057;166215;15409922;31928;31717;268075;15573,http://en.wikipedia.org/wiki/University_of_Tokyo,University of Tokyo,university-of-tokyo,university-of-tokyo,UNK
+Tokyo,30855569,15,28,15606;15573,http://en.wikipedia.org/wiki/Tokyo_Park,Tokyo Park,tokyo-park,tokyo-park,UNK
+Tokyo,22416062,27,33,1171535;15573,http://en.wikipedia.org/wiki/F.C._Tokyo_(volleyball),F.C. Tokyo,fc-tokyo,fc-tokyo-volleyball,ORG
+Tokyo,2913859,187,134,30057,http://en.wikipedia.org/wiki/The_Fast_and_the_Furious:_Tokyo_Drift,The Fast and the Furious: Tokyo Drift,the-fast-and-the-furious-tokyo-drift,the-fast-and-the-furious-tokyo-drift,UNK
+Tokyo,482088,106,56,15573;30057;482178,http://en.wikipedia.org/wiki/Tokyo_City,Tokyo City,tokyo-city,tokyo-city,GPE
+Tokyo,1077950,209,183,15573;15976,"http://en.wikipedia.org/wiki/Little_Tokyo,_Los_Angeles","Little Tokyo, Los Angeles",little-tokyo-los-angeles,little-tokyo-los-angeles,UNK
+Tokyo,18357891,36,53,15606;30057,http://en.wikipedia.org/wiki/Tokyo!,Tokyo!,tokyo,tokyo,UNK
+Tokyo,37154180,67,34,15606;30057,http://en.wikipedia.org/wiki/Tokyo_Family,Tokyo Family,tokyo-family,tokyo-family,UNK
+Tokyo,148869,287,196,1877139;522978;30057;22989;32165991,http://en.wikipedia.org/wiki/Tokyo_Tower,Tokyo Tower,tokyo-tower,tokyo-tower,UNK
+Tokyo,1171535,578,385,22416062;30057;1171535;15573,http://en.wikipedia.org/wiki/F.C._Tokyo,F.C. Tokyo,fc-tokyo,fc-tokyo,UNK
+Tokyo,29025998,24,50,30057,http://en.wikipedia.org/wiki/Tokyo_(Vampires_&_Wolves),Tokyo,tokyo,tokyo-vampires-wolves,UNK
+Tokyo,25758881,15,20,,"http://en.wikipedia.org/wiki/Little_Tokyo,_U.S.A.","Little Tokyo, U.S.A.",little-tokyo-usa,little-tokyo-usa,UNK
+Tokyo,18443430,17,32,18443430;30057;15573,http://en.wikipedia.org/wiki/Tokyo_Stadium_(1962),Tokyo Stadium,tokyo-stadium,tokyo-stadium-1962,UNK
+Tokyo,5704277,9,13,5704277,http://en.wikipedia.org/wiki/Tokyo_Love_Story,Tokyo Love Story,tokyo-love-story,tokyo-love-story,UNK
+Tokyo,32165991,84,163,15573;148869;30057,http://en.wikipedia.org/wiki/Tokyo_Building,Tokyo Building,tokyo-building,tokyo-building,UNK
+Nikkei,40293,780,330,23476353;40293;914179;15573;2729996;47361,http://en.wikipedia.org/wiki/Nikkei_225,Nikkei 225,nikkei-225,nikkei-225,UNK
+Frankfurt,10992,6502,1040,17867;229236;1245772;21212;645042;98577;22989;4605151;11867;862147;1695702;248285,http://en.wikipedia.org/wiki/Frankfurt,Frankfurt,frankfurt,frankfurt,GPE
+Frankfurt,539067,8,2,,http://en.wikipedia.org/wiki/University_of_Frankfurt,University of Frankfurt,university-of-frankfurt,university-of-frankfurt,ORG
+Frankfurt,98577,479,174,10992;11884;11867;17867;25646127,http://en.wikipedia.org/wiki/Frankfurt_(Oder),Frankfurt,frankfurt,frankfurt-oder,GPE
+Frankfurt,34345845,3,8,11867,http://en.wikipedia.org/wiki/Frankfurt_(icebreaker),Frankfurt,frankfurt,frankfurt-icebreaker,PER
+Frankfurt,4605151,199,160,10992;11884;11867,http://en.wikipedia.org/wiki/Frankfurt_(Main)_Hauptbahnhof,Frankfurt (Main) Hauptbahnhof,frankfurt-main-hauptbahnhof,frankfurt-main-hauptbahnhof,UNK
+Frankfurt,1695702,388,310,10992;31717;11867;15573,http://en.wikipedia.org/wiki/Frankfurt_Motor_Show,Frankfurt Motor Show,frankfurt-motor-show,frankfurt-motor-show,UNK
+Frankfurt,248285,872,583,10992;248457;11884;11867,http://en.wikipedia.org/wiki/Frankfurt_Airport,Frankfurt Airport,frankfurt-airport,frankfurt-airport,UNK
+Frankfurt,229236,869,443,10992;645042;11884;11867;229236,http://en.wikipedia.org/wiki/Frankfurt_School,Frankfurt School,frankfurt-school,frankfurt-school,UNK
+Frankfurt,13659323,7,6,,http://en.wikipedia.org/wiki/Frankfurt_Group,Frankfurt Group,frankfurt-group,frankfurt-group,UNK
+Frankfurt,25646127,22,25,98577;11867,http://en.wikipedia.org/wiki/Frankfurt_(Bezirk),Frankfurt,frankfurt,frankfurt-bezirk,ORG
+Frankfurt,862147,1853,615,21212;10992;11867;862147;15573,http://en.wikipedia.org/wiki/Eintracht_Frankfurt,Eintracht Frankfurt,eintracht-frankfurt,eintracht-frankfurt,UNK
+Paris,22989,46849,1623,33567266;10992;10612;11867;12249;33006596;12701;13404;22192200;15573;17867;3901931;645042;22989;84692;148869;27862;8210131;30057;705310;31717;3453075;598652;513436;295105;1973841;932079;7758150,http://en.wikipedia.org/wiki/Paris,Paris,paris,paris,UNK
+Paris,84692,2888,164,21212;22989;3736,http://en.wikipedia.org/wiki/University_of_Paris,University of Paris,university-of-paris,university-of-paris,ORG
+Paris,14609428,2,9,8591270,"http://en.wikipedia.org/wiki/Paris,_Kiribati","Paris, Kiribati",paris-kiribati,paris-kiribati,UNK
+Paris,7758150,2,9,22989,"http://en.wikipedia.org/wiki/Paris,_Paris","Paris, Paris",paris-paris,paris-paris,UNK
+Paris,3453075,551,133,22989,http://en.wikipedia.org/wiki/Paris_Opera,Paris Opera,paris-opera,paris-opera,ORG
+Paris,1973841,442,93,22989,http://en.wikipedia.org/wiki/Paris_FC,Paris FC,paris-fc,paris-fc,UNK
+Paris,10308003,1,1,,"http://en.wikipedia.org/wiki/Paris,_TN_μSA","Paris, TN μSA",paris-tn-μsa,paris-tn-μsa,PER
+Paris,31420657,1,7,,"http://en.wikipedia.org/wiki/Paris,_Denmark","Paris, Denmark",paris-denmark,paris-denmark,UNK
+Paris,6198965,2,10,,http://en.wikipedia.org/wiki/Little_Paris,Little Paris,little-paris,little-paris,UNK
+Paris,5655865,40,58,141772,"http://en.wikipedia.org/wiki/Paris_(community),_Wisconsin","Paris (community), Wisconsin",paris-community-wisconsin,paris-community-wisconsin,UNK
+Paris,111145,145,93,,"http://en.wikipedia.org/wiki/Paris,_Illinois","Paris, Illinois",paris-illinois,paris-illinois,UNK
+Paris,248424,203,53,,"http://en.wikipedia.org/wiki/Paris,_Ontario","Paris, Ontario",paris-ontario,paris-ontario,GPE
+Paris,23768447,3,33,,"http://en.wikipedia.org/wiki/Paris,_Not_France","Paris, Not France",paris-not-france,paris-not-france,UNK
+Paris,10224966,1,1,,"http://en.wikipedia.org/wiki/Paris,_TX_μSA","Paris, TX μSA",paris-tx-μsa,paris-tx-μsa,PER
+Paris,18746173,0,1,,"http://en.wikipedia.org/wiki/Paris,_TN_µSA","Paris, TN µSA",paris-tn-µsa,paris-tn-µsa,PER
+Paris,31631798,30,59,,"http://en.wikipedia.org/wiki/Paris,_Iowa","Paris, Iowa",paris-iowa,paris-iowa,UNK
+Paris,4380507,178,264,,http://en.wikipedia.org/wiki/Count_Paris,Count Paris,count-paris,count-paris,UNK
+Paris,932079,86,56,15573;31717;11867;22989,http://en.wikipedia.org/wiki/Paris_Club,Paris Club,paris-club,paris-club,UNK
+Paris,3320433,8,13,,http://en.wikipedia.org/wiki/Paris_(genus),Paris,paris,paris-genus,PER
+Paris,1645419,7,11,,"http://en.wikipedia.org/wiki/Paris,_Texas_(band)","Paris, Texas",paris-texas,paris-texas-band,UNK
+Paris,141772,0,3,5655865,"http://en.wikipedia.org/wiki/Paris,_Wisconsin","Paris, Wisconsin",paris-wisconsin,paris-wisconsin,GPE
+Paris,18746176,0,1,,"http://en.wikipedia.org/wiki/Paris,_TX_µSA","Paris, TX µSA",paris-tx-µsa,paris-tx-µsa,PER
+Paris,36726996,15,33,,"http://en.wikipedia.org/wiki/Paris,_Mississippi","Paris, Mississippi",paris-mississippi,paris-mississippi,GPE
+Paris,705310,278,202,22989,http://en.wikipedia.org/wiki/Paris_Las_Vegas,Paris Las Vegas,paris-las-vegas,paris-las-vegas,ORG
+Paris,11287669,34,38,,http://en.wikipedia.org/wiki/SS_Paris_(1916),SS Paris,ss-paris,ss-paris-1916,UNK
+Paris,32977266,16,20,,http://en.wikipedia.org/wiki/Paris_(band),Paris,paris,paris-band,UNK
+Paris,35318735,24,35,,http://en.wikipedia.org/wiki/Paris_(Ooh_La_La),Paris,paris,paris-ooh-la-la,UNK
+Paris,22192200,73,81,22437586;22989;42989724,http://en.wikipedia.org/wiki/.paris,.paris,paris,paris,UNK
+Paris,15956462,49,46,,"http://en.wikipedia.org/wiki/Paris,_Tokyo","Paris, Tokyo",paris-tokyo,paris-tokyo,UNK
+Paris,33006596,259,318,22989,http://en.wikipedia.org/wiki/Niggas_in_Paris,Niggas in Paris,niggas-in-paris,niggas-in-paris,UNK
+Paris,1853308,0,9,,http://en.wikipedia.org/wiki/Paris_Airport,Paris Airport,paris-airport,paris-airport,UNK
+Paris,9289655,5,10,,http://en.wikipedia.org/wiki/Paris_(actor_under_Domitian),Paris,paris,paris-actor-under-domitian,PER
+Paris,4360088,0,257,17292183,"http://en.wikipedia.org/wiki/Paris,_je_t'aime","Paris, je t'aime",paris-je-taime,paris-je-taime,UNK
+Paris,9628841,59,65,,"http://en.wikipedia.org/wiki/Paris,_Ohio","Paris, Ohio",paris-ohio,paris-ohio,GPE
+Paris,8506637,3,18,,http://en.wikipedia.org/wiki/París_(retail),París,paris,paris-retail,UNK
+Paris,42983166,4,22,,"http://en.wikipedia.org/wiki/Paris,_BN,_lat._4404","Paris, BN, lat. 4404",paris-bn-lat-4404,paris-bn-lat-4404,UNK
+Paris,295105,1324,361,295105;4208015;4721;22989,"http://en.wikipedia.org/wiki/Paris_Peace_Conference,_1919","Paris Peace Conference, 1919",paris-peace-conference-1919,paris-peace-conference-1919,UNK
+Paris,14384812,9,11,14384812,http://en.wikipedia.org/wiki/Paris_(Pantheon),Paris,paris,paris-pantheon,UNK
+Paris,513436,42,51,22989,"http://en.wikipedia.org/wiki/Paris,_Yukon","Paris, Yukon",paris-yukon,paris-yukon,UNK
+Paris,3111017,137,216,,"http://en.wikipedia.org/wiki/Paris,_Pennsylvania","Paris, Pennsylvania",paris-pennsylvania,paris-pennsylvania,GPE
+Paris,13482794,52,61,,"http://en.wikipedia.org/wiki/Paris,_Virginia","Paris, Virginia",paris-virginia,paris-virginia,GPE
+Paris,212144,63,47,,http://en.wikipedia.org/wiki/Paris_(rapper),Paris,paris,paris-rapper,UNK
+Sydney,27862,23790,889,3293549;522978;665230;11867;32837949;23684447;15573;17867;1113940;6469725;8856503;11533780;266313;3499711;645042;22989;27862;30057;31928;796228;31717,http://en.wikipedia.org/wiki/Sydney,Sydney,sydney,sydney,GPE
+Sydney,1101331,79,37,,"http://en.wikipedia.org/wiki/Sydney_Road,_Melbourne","Sydney Road, Melbourne",sydney-road-melbourne,sydney-road-melbourne,UNK
+Sydney,665230,60,54,31928;27862,http://en.wikipedia.org/wiki/Sydney_Hospital,Sydney Hospital,sydney-hospital,sydney-hospital,ORG
+Sydney,522978,296,277,23684447;27862;6469725;266313;148869;3499711,http://en.wikipedia.org/wiki/Sydney_Tower,Sydney Tower,sydney-tower,sydney-tower,UNK
+Sydney,8856503,166,170,796228;27862,http://en.wikipedia.org/wiki/Electoral_district_of_Sydney,Electoral district of Sydney,electoral-district-of-sydney,electoral-district-of-sydney,UNK
+Sydney,6469725,122,81,266313;3499711;796228;522978;27862,http://en.wikipedia.org/wiki/Geography_of_Sydney,Geography of Sydney,geography-of-sydney,geography-of-sydney,UNK
+Sydney,3293549,13,21,27862;3293668;3293549;58268,http://en.wikipedia.org/wiki/Sydney_River,Sydney River,sydney-river,sydney-river,UNK
+Sydney,1332907,8,10,,http://en.wikipedia.org/wiki/Baron_Sydney,Baron Sydney,baron-sydney,baron-sydney,PER
+Sydney,36436066,6,11,,http://en.wikipedia.org/wiki/Sydney_School,Sydney School,sydney-school,sydney-school,UNK
+Sydney,1098693,16,55,17867,"http://en.wikipedia.org/wiki/Sydney,_Lady_Morgan","Sydney, Lady Morgan",sydney-lady-morgan,sydney-lady-morgan,PER
+Sydney,6163291,0,2,21773055,http://en.wikipedia.org/wiki/Sydney_Island,Sydney Island,sydney-island,sydney-island,UNK
+Sydney,31928,3130,486,166215;27862;665230;13404;31928;796228;268075;15573,http://en.wikipedia.org/wiki/University_of_Sydney,University of Sydney,university-of-sydney,university-of-sydney,ORG
+Sydney,266313,937,665,2528948;6469725;3499711;248457;522978;27862;23684447,http://en.wikipedia.org/wiki/Sydney_Airport,Sydney Airport,sydney-airport,sydney-airport,UNK
+Sydney,796228,537,286,31717;11867;6469725;27862;8856503;15573;31928,http://en.wikipedia.org/wiki/City_of_Sydney,City of Sydney,city-of-sydney,city-of-sydney,UNK
+Sydney,23684447,146,28,266313;3499711;522978;27862,http://en.wikipedia.org/wiki/Sydney_Theatre,Sydney Theatre,sydney-theatre,sydney-theatre,UNK
+Sydney,58268,787,256,3293549;8210131,"http://en.wikipedia.org/wiki/Sydney,_Nova_Scotia","Sydney, Nova Scotia",sydney-nova-scotia,sydney-nova-scotia,GPE
+Sydney,5941401,4,23,,http://en.wikipedia.org/wiki/Sydney_Park_(actress),Sydney Park,sydney-park,sydney-park-actress,PER
+Sydney,21773055,1,8,6163291,http://en.wikipedia.org/wiki/Sydney_Island_(Queensland),Sydney Island,sydney-island,sydney-island-queensland,UNK
+Sydney,3499711,117,148,23684447;266313;522978;27862;6469725,http://en.wikipedia.org/wiki/Sydney_Park,Sydney Park,sydney-park,sydney-park,UNK
+Sydney,11533780,325,435,31717;11867;27862;15573;4721,http://en.wikipedia.org/wiki/Sydney_International,Sydney International,sydney-international,sydney-international,UNK
+Sydney,2854921,43,11,,http://en.wikipedia.org/wiki/Sydney_Stadium,Sydney Stadium,sydney-stadium,sydney-stadium,UNK
+Sydney,1113940,907,353,1113940;27862;11867,http://en.wikipedia.org/wiki/Sydney_FC,Sydney FC,sydney-fc,sydney-fc,ORG
+Sydney,3293668,25,9,3293668;3293549,"http://en.wikipedia.org/wiki/Sydney_River,_Nova_Scotia","Sydney River, Nova Scotia",sydney-river-nova-scotia,sydney-river-nova-scotia,GPE
+Hong Kong,13404,29087,1384,19097669;4179;4721;18593210;12249;22962474;19339340;27413692;13411;13406;13404;15976;15573;17867;1389893;13371128;1449735;645042;22989;268075;393288;393307;30057;31928;31717;23476353;33617951;180697;248457;186932;1244783;33918128,http://en.wikipedia.org/wiki/Hong_Kong,Hong Kong,hong-kong,hong-kong,GPE
+Hong Kong,13406,276,257,393288;180697;248457;27413692;13411;13406;13404,http://en.wikipedia.org/wiki/Geography_of_Hong_Kong,Geography of Hong Kong,geography-of-hong-kong,geography-of-hong-kong,UNK
+Hong Kong,248457,1212,534,180697;266313;248285;1449735;393288;1389893;33918128;13411;13406;13404,http://en.wikipedia.org/wiki/Hong_Kong_International_Airport,Hong Kong International Airport,hong-kong-international-airport,hong-kong-international-airport,UNK
+Hong Kong,33918128,1,10,13404;248457,http://en.wikipedia.org/wiki/Hong_Kong_(Area_Control_Centre),Hong Kong,hong-kong,hong-kong-area-control-centre,UNK
+Hong Kong,18775842,161,179,33617951;36855089;32837949,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2008_Summer_Paralympics","Hong Kong, China at the 2008 Summer Paralympics",hong-kong-china-at-the-2008-summer-paralympics,hong-kong-china-at-the-2008-summer-paralympics,UNK
+Hong Kong,180697,1125,122,248457;13371128;4721;31717;1389893;1244783;268075;27413692;13411;13406;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Island,Hong Kong Island,hong-kong-island,hong-kong-island,UNK
+Hong Kong,393307,62,30,13404,http://en.wikipedia.org/wiki/Hong_Kong_Park,Hong Kong Park,hong-kong-park,hong-kong-park,UNK
+Hong Kong,22962474,40,50,13371128;180697;13404,http://en.wikipedia.org/wiki/W_Hong_Kong,W Hong Kong,w-hong-kong,w-hong-kong,UNK
+Hong Kong,393288,131,230,31717;27413692;13411;15573;13406;13404;248457,http://en.wikipedia.org/wiki/Tourism_in_Hong_Kong,Tourism in Hong Kong,tourism-in-hong-kong,tourism-in-hong-kong,UNK
+Hong Kong,13411,475,349,393288;23476353;180697;1389893;248457;13411;13406;13404;1449735,http://en.wikipedia.org/wiki/Transport_in_Hong_Kong,Transport in Hong Kong,transport-in-hong-kong,transport-in-hong-kong,ORG
+Hong Kong,2152406,18,13,,http://en.wikipedia.org/wiki/Hong_Kong_Club,Hong Kong Club,hong-kong-club,hong-kong-club,ORG
+Hong Kong,10157228,5,14,8210131,http://en.wikipedia.org/wiki/The_Hong_Kong,The Hong Kong,the-hong-kong,the-hong-kong,UNK
+Hong Kong,1244783,601,156,180697;13404,http://en.wikipedia.org/wiki/Hong_Kong_Stadium,Hong Kong Stadium,hong-kong-stadium,hong-kong-stadium,UNK
+Hong Kong,18593210,15,14,13404,http://en.wikipedia.org/wiki/Mr._Hong_Kong,Mr. Hong Kong,mr-hong-kong,mr-hong-kong,UNK
+Hong Kong,1449735,450,319,248457;13411;13404,http://en.wikipedia.org/wiki/Hong_Kong_Airlines,Hong Kong Airlines,hong-kong-airlines,hong-kong-airlines,ORG
+Hong Kong,1389893,376,293,180697;1389893;248457;13411;13404,http://en.wikipedia.org/wiki/Hong_Kong_Station,Hong Kong Station,hong-kong-station,hong-kong-station,UNK
+Hong Kong,13371128,52,51,180697;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Hotel,Hong Kong Hotel,hong-kong-hotel,hong-kong-hotel,UNK
+Hong Kong,36855089,173,199,33617951;32837949;31717;18775842;17867,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2012_Summer_Paralympics","Hong Kong, China at the 2012 Summer Paralympics",hong-kong-china-at-the-2012-summer-paralympics,hong-kong-china-at-the-2012-summer-paralympics,UNK
+Hong Kong,19339340,52,31,268075;13404,http://en.wikipedia.org/wiki/2009_flu_pandemic_in_Hong_Kong,2009 flu pandemic in Hong Kong,2009-flu-pandemic-in-hong-kong,2009-flu-pandemic-in-hong-kong,UNK
+Hong Kong,27413692,563,306,393288;180697;31717;268075;3574003;4208015;19097669;13406;13404;4721,http://en.wikipedia.org/wiki/British_Hong_Kong,British Hong Kong,british-hong-kong,british-hong-kong,GPE
+Hong Kong,32837949,110,121,33617951;36855089;27862;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2000_Summer_Paralympics","Hong Kong, China at the 2000 Summer Paralympics",hong-kong-china-at-the-2000-summer-paralympics,hong-kong-china-at-the-2000-summer-paralympics,UNK
+Hong Kong,268075,918,410,180697;31928;19339340;166215;268075;27413692;15573;13404,http://en.wikipedia.org/wiki/University_of_Hong_Kong,University of Hong Kong,university-of-hong-kong,university-of-hong-kong,UNK
+Hong Kong,33617951,142,153,36855089;13404;32837949;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2004_Summer_Paralympics","Hong Kong, China at the 2004 Summer Paralympics",hong-kong-china-at-the-2004-summer-paralympics,hong-kong-china-at-the-2004-summer-paralympics,UNK
+Hang Seng,23476353,236,158,23476353;13411;13404;40293,http://en.wikipedia.org/wiki/Hang_Seng_Index,Hang Seng Index,hang-seng-index,hang-seng-index,ORG

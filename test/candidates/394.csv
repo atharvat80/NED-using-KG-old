@@ -1,0 +1,41 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Pakistani Kashmir,2745,1007,307,1915235;429283;2745;8037082;18186703;3030955;4827529;1369007;1026286;23363;17337;1119495;23235,http://en.wikipedia.org/wiki/Azad_Kashmir,Azad Kashmir,azad-kashmir,azad-kashmir,UNK
+Pakistani Kashmir,17337,2443,356,1915235;4452347;18186703;3030955;3662295;1119495;20051686;429283;2745;8037082;1965925;1935660;23363;6037917;23235,http://en.wikipedia.org/wiki/Kashmir,Kashmir,kashmir,kashmir,UNK
+MUZAFFARABAD,1119495,246,105,2745;14555341;8037082;4827529;18186703;3030955;17337;1369007;1915235;23235,http://en.wikipedia.org/wiki/Muzaffarabad,Muzaffarabad,muzaffarabad,muzaffarabad,UNK
+MUZAFFARABAD,1369007,102,20,2745;1119495;23235,http://en.wikipedia.org/wiki/Muzaffarabad_District,Muzaffarabad District,muzaffarabad-district,muzaffarabad-district,UNK
+MUZAFFARABAD,4827529,5,11,2745;1119495;23235,http://en.wikipedia.org/wiki/Muzaffarabad_Airport,Muzaffarabad Airport,muzaffarabad-airport,muzaffarabad-airport,UNK
+Pakistan,23235,33617,1132,3734053;2745;1965925;1119495;4918169;759295;28171281;17337;14555341;1026286;23363;6037917;23235;464417;1935660;15684890;3030955;1369007;6375316;4827529;2159600;1915235;18186703;429283;3662295;8037082,http://en.wikipedia.org/wiki/Pakistan,Pakistan,pakistan,pakistan,GPE
+Pakistan,23363,415,510,15684890;28171281;429283;1026286;2745;23363;1965925;17337;6375316;759295;3662295;23235,http://en.wikipedia.org/wiki/Geography_of_Pakistan,Geography of Pakistan,geography-of-pakistan,geography-of-pakistan,GPE
+Pakistan,464417,6,20,23235,http://en.wikipedia.org/wiki/Pakistan_International,Pakistan International,pakistan-international,pakistan-international,UNK
+Pakistan,6375316,856,581,15684890;28171281;429283;1965925;759295;3662295;1026286;23363;6375316;23235,http://en.wikipedia.org/wiki/Nuclear_power_in_Pakistan,Nuclear power in Pakistan,nuclear-power-in-pakistan,nuclear-power-in-pakistan,UNK
+Pakistan,1026286,1055,367,14555341;15684890;28171281;429283;2745;1965925;3030955;759295;1026286;23363;6037917;6375316;23235,http://en.wikipedia.org/wiki/Pakistan_Movement,Pakistan Movement,pakistan-movement,pakistan-movement,ORG
+Pakistan,24442938,2,14,3662295,"http://en.wikipedia.org/wiki/Pakistan,_India","Pakistan, India",pakistan-india,pakistan-india,UNK
+Pakistan,759295,1423,649,15684890;3662295;6375316;429283;1965925;759295;1026286;23363;23235,http://en.wikipedia.org/wiki/Pakistan_national_cricket_team,Pakistan national cricket team,pakistan-national-cricket-team,pakistan-national-cricket-team,ORG
+Pakistan,1965925,2031,377,28171281;18186703;3030955;3662295;17337;6375316;429283;8037082;1965925;759295;1026286;23363;23235,http://en.wikipedia.org/wiki/Pakistan_Army,Pakistan Army,pakistan-army,pakistan-army,ORG
+Pakistan,3662295,473,123,24442938;28171281;429283;23363;6037917;1965925;18186703;3030955;17337;6375316;759295;23235,http://en.wikipedia.org/wiki/Dominion_of_Pakistan,Dominion of Pakistan,dominion-of-pakistan,dominion-of-pakistan,GPE
+Kashmir,17337,2443,356,1915235;4452347;18186703;3030955;3662295;1119495;20051686;429283;2745;8037082;1965925;1935660;23363;6037917;23235,http://en.wikipedia.org/wiki/Kashmir,Kashmir,kashmir,kashmir,UNK
+Kashmir,3030955,853,399,1915235;2745;8037082;4452347;1965925;18186703;3030955;13321644;3662295;1935660;1026286;6037917;17337;1119495;23235,http://en.wikipedia.org/wiki/Kashmir_conflict,Kashmir conflict,kashmir-conflict,kashmir-conflict,UNK
+Kashmir,15342530,12,6,1915235,http://en.wikipedia.org/wiki/Greater_Kashmir,Greater Kashmir,greater-kashmir,greater-kashmir,ORG
+Kashmir,8037082,287,65,2745;14555341;1965925;3030955;17337;1935660;1119495;23235,http://en.wikipedia.org/wiki/2005_Kashmir_earthquake,2005 Kashmir earthquake,2005-kashmir-earthquake,2005-kashmir-earthquake,UNK
+Kashmir,1935660,326,260,6037917;8037082;4452347;18186703;3030955;17337;13321644;1915235;1935660;23235,http://en.wikipedia.org/wiki/Kashmir_Valley,Kashmir Valley,kashmir-valley,kashmir-valley,UNK
+Kashmir,20051686,104,105,17337,http://en.wikipedia.org/wiki/Kashmir_rug,Kashmir rug,kashmir-rug,kashmir-rug,UNK
+Kashmir,1915235,272,195,15342530;2745;3030955;17337;1935660;1119495;23235,http://en.wikipedia.org/wiki/Insurgency_in_Jammu_and_Kashmir,Insurgency in Jammu and Kashmir,insurgency-in-jammu-and-kashmir,insurgency-in-jammu-and-kashmir,UNK
+Kashmir,1863213,59,35,,http://en.wikipedia.org/wiki/Kashmir_(band),Kashmir,kashmir,kashmir-band,UNK
+Kashmir,27307256,0,13,,http://en.wikipedia.org/wiki/Kashmir_cat,Kashmir cat,kashmir-cat,kashmir-cat,UNK
+Kashmir,18186703,162,168,2745;14555341;1965925;3030955;17337;3662295;1935660;1119495;23235,http://en.wikipedia.org/wiki/Kashmir_and_Jammu_(princely_state),Kashmir and Jammu,kashmir-and-jammu,kashmir-and-jammu-princely-state,UNK
+Kashmir,4452347,483,502,6037917;4452347;3030955;17337;13321644;1935660,http://en.wikipedia.org/wiki/Kashmir_Railway,Kashmir Railway,kashmir-railway,kashmir-railway,UNK
+Kashmir,37844459,173,186,,"http://en.wikipedia.org/wiki/Kashmir,_Iran","Kashmir, Iran",kashmir-iran,kashmir-iran,UNK
+Kashmir,13321644,58,182,6037917;4452347;3030955;13321644;1935660,http://en.wikipedia.org/wiki/University_of_Kashmir,University of Kashmir,university-of-kashmir,university-of-kashmir,ORG
+Moslem,6037917,20084,792,3030955;17337;1026286;4452347;6037917;23235;429283;13321644;1935660;15684890;3662295,http://en.wikipedia.org/wiki/Islam,Islam,islam,islam,UNK
+Kunar,4918169,77,22,2159600;2413389;3734053;23235,http://en.wikipedia.org/wiki/Kunar_River,Kunar River,kunar-river,kunar-river,UNK
+Kunar,2413389,4,3,3734053;2159600;4918169,http://en.wikipedia.org/wiki/Kunar,Kunar,kunar,kunar,UNK
+Kunar,3734053,34,8,2159600;4918169;23235;2413389,http://en.wikipedia.org/wiki/Kunar_Valley,Kunar Valley,kunar-valley,kunar-valley,UNK
+Kunar,2159600,634,540,2413389;4918169;3734053;23235,http://en.wikipedia.org/wiki/Kunar_Province,Kunar Province,kunar-province,kunar-province,UNK
+Muzaffarabad,1119495,246,105,2745;14555341;8037082;4827529;18186703;3030955;17337;1369007;1915235;23235,http://en.wikipedia.org/wiki/Muzaffarabad,Muzaffarabad,muzaffarabad,muzaffarabad,UNK
+Muzaffarabad,1369007,102,20,2745;1119495;23235,http://en.wikipedia.org/wiki/Muzaffarabad_District,Muzaffarabad District,muzaffarabad-district,muzaffarabad-district,UNK
+Muzaffarabad,4827529,5,11,2745;1119495;23235,http://en.wikipedia.org/wiki/Muzaffarabad_Airport,Muzaffarabad Airport,muzaffarabad-airport,muzaffarabad-airport,UNK
+Pakistani,23235,33617,1132,3734053;2745;1965925;1119495;4918169;759295;28171281;17337;14555341;1026286;23363;6037917;23235;464417;1935660;15684890;3030955;1369007;6375316;4827529;2159600;1915235;18186703;429283;3662295;8037082,http://en.wikipedia.org/wiki/Pakistan,Pakistan,pakistan,pakistan,GPE
+Pakistani,28171281,671,333,15684890;429283;1965925;3662295;1026286;23363;6375316;23235,http://en.wikipedia.org/wiki/Pakistani_people,Pakistani people,pakistani-people,pakistani-people,GPE
+Pakistani,15684890,259,96,23363;6037917;6375316;28171281;759295;429283;1026286;23235,http://en.wikipedia.org/wiki/Pakistani_architecture,Pakistani architecture,pakistani-architecture,pakistani-architecture,ORG
+Pakistani,429283,790,804,15684890;28171281;429283;2745;1965925;759295;3662295;1026286;23363;6037917;17337;6375316;23235,http://en.wikipedia.org/wiki/Pakistani_cuisine,Pakistani cuisine,pakistani-cuisine,pakistani-cuisine,UNK
+Garhi Habibullah,14555341,61,81,18186703;1026286;23235;8037082;1119495,http://en.wikipedia.org/wiki/Garhi_Habibullah,Garhi Habibullah,garhi-habibullah,garhi-habibullah,GPE

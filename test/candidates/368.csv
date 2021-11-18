@@ -1,0 +1,131 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+DUTCH,21148,78333,1147,844;2289;2273;1248171;4358886;34115133;21148;23383569;834154;834196;834226;834256;834275;28721;32053;1939537;4628340;23476997;173098;1155120;42737;47707;13774915;8898153;546160;50332;50333;50118;50117;2555166;1542517;1656551;4590816;800033;23355899;918733;25904929;1336325;36114850;34190771;79818;79820;1036492;6539290;2442571;770443;337249;6762763;19985174;99186;17161483;510990;505173;745757;2202202;1107824;259891;259890;3471650;255460;23424881;5087293;1103112;1350371,http://en.wikipedia.org/wiki/Netherlands,Netherlands,netherlands,netherlands,GPE
+DUTCH,663444,40,12,663444,http://en.wikipedia.org/wiki/Dutch_auction,Dutch auction,dutch-auction,dutch-auction,UNK
+DUTCH,23476997,2445,577,1656551;844;4590816;21148;918733;6762763;2555166;42737;4628340;19985174,http://en.wikipedia.org/wiki/Dutch_East_Indies,Dutch East Indies,dutch-east-indies,dutch-east-indies,GPE
+DUTCH,4628340,199,184,4590816;6762763;21148;1656551;19985174;42737;23476997,http://en.wikipedia.org/wiki/Dutch_Brazil,Dutch Brazil,dutch-brazil,dutch-brazil,GPE
+DUTCH,4418525,316,270,42068978,http://en.wikipedia.org/wiki/Dutch_Clark,Dutch Clark,dutch-clark,dutch-clark,PER
+DUTCH,19985174,8555,418,546160;844;23476997;2273;50332;3916477;50117;19985174;21148;255460;2555166;1656551;1313683;79820;834154;42737;47707;6539290;13165865;28721;918733;32053;1939537;337249;510990;4628340,http://en.wikipedia.org/wiki/Dutch_language,Dutch language,dutch-language,dutch-language,UNK
+DUTCH,42068978,1,17,4418525,http://en.wikipedia.org/wiki/Dutch_(nickname),Dutch,dutch,dutch-nickname,UNK
+DUTCH,498036,295,172,,http://en.wikipedia.org/wiki/Dutch_Defence,Dutch Defence,dutch-defence,dutch-defence,UNK
+DUTCH,13774915,24,32,21148,http://en.wikipedia.org/wiki/Dutch_School_(painting),Dutch School,dutch-school,dutch-school-painting,PER
+DUTCH,8397243,2,16,,http://en.wikipedia.org/wiki/Dutch_Lake,Dutch Lake,dutch-lake,dutch-lake,UNK
+DUTCH,918733,479,678,50332;1656551;23476997;50117;21148;19985174,http://en.wikipedia.org/wiki/Dutch_cuisine,Dutch cuisine,dutch-cuisine,dutch-cuisine,UNK
+DUTCH,13165865,204,131,19985174,"http://en.wikipedia.org/wiki/Dutch_Church,_Austin_Friars","Dutch Church, Austin Friars",dutch-church-austin-friars,dutch-church-austin-friars,UNK
+DUTCH,32520080,109,116,,"http://en.wikipedia.org/wiki/Dutch_Hill,_California","Dutch Hill, California",dutch-hill-california,dutch-hill-california,UNK
+DUTCH,6539290,128,149,50117;21148;34115133;50333;1656551;19985174,http://en.wikipedia.org/wiki/Old_Dutch,Old Dutch,old-dutch,old-dutch,UNK
+DUTCH,337249,55,58,21148;19985174,http://en.wikipedia.org/wiki/Dutch_oven,Dutch oven,dutch-oven,dutch-oven,UNK
+DUTCH,36069697,23,112,,"http://en.wikipedia.org/wiki/Dutch_Town,_West_Virginia","Dutch Town, West Virginia",dutch-town-west-virginia,dutch-town-west-virginia,GPE
+DUTCH,1043984,61,58,,http://en.wikipedia.org/wiki/Dutch_Gold,Dutch Gold,dutch-gold,dutch-gold,UNK
+DUTCH,1542517,218,146,21148,"http://en.wikipedia.org/wiki/Dutch_European_Constitution_referendum,_2005","Dutch European Constitution referendum, 2005",dutch-european-constitution-referendum-2005,dutch-european-constitution-referendum-2005,UNK
+DUTCH,1939537,294,295,2555166;1656551;21148;19985174,http://en.wikipedia.org/wiki/Canadians_of_Dutch_descent,Canadians of Dutch descent,canadians-of-dutch-descent,canadians-of-dutch-descent,UNK
+DUTCH,1656551,2697,305,546160;23476997;6539290;21148;918733;3916477;1939537;2555166;42737;510990;259891;4628340;19985174,http://en.wikipedia.org/wiki/Dutch_people,Dutch people,dutch-people,dutch-people,UNK
+DUTCH,6762763,49,128,21148;4628340;42737;23476997,http://en.wikipedia.org/wiki/Dutch_Island_(Rhode_Island),Dutch Island,dutch-island,dutch-island-rhode-island,UNK
+DUTCH,4590816,186,104,21148;4628340;42737;23476997,http://en.wikipedia.org/wiki/Dutch_India,Dutch India,dutch-india,dutch-india,GPE
+DUTCH,316073,9,64,,http://en.wikipedia.org/wiki/Going_Dutch,Going Dutch,going-dutch,going-dutch,UNK
+DUTCH,173098,341,114,546160;21148;844,http://en.wikipedia.org/wiki/Dutch_elm_disease,Dutch elm disease,dutch-elm-disease,dutch-elm-disease,UNK
+DUTCH,1313683,134,101,19985174,http://en.wikipedia.org/wiki/Dutch_Wikipedia,Dutch Wikipedia,dutch-wikipedia,dutch-wikipedia,UNK
+DUTCH,510990,664,59,2555166;1656551;42737;50117;21148;844;19985174,http://en.wikipedia.org/wiki/Dutch_Reformed_Church,Dutch Reformed Church,dutch-reformed-church,dutch-reformed-church,UNK
+DUTCH,2555166,234,339,1656551;42737;21148;1939537;510990;844;19985174;23476997,http://en.wikipedia.org/wiki/Dutch_American,Dutch American,dutch-american,dutch-american,UNK
+DUTCH,34115133,11,27,21148;6539290;844,http://en.wikipedia.org/wiki/Old_Dutch_(restaurant),Old Dutch,old-dutch,old-dutch-restaurant,UNK
+DUTCH,42737,1463,296,546160;1656551;844;23476997;4590816;21148;6762763;2555166;510990;4628340;19985174,http://en.wikipedia.org/wiki/Dutch_East_India_Company,Dutch East India Company,dutch-east-india-company,dutch-east-india-company,ORG
+DUTCH,3916477,146,126,1656551;19985174,http://en.wikipedia.org/wiki/Dutch_nationality_law,Dutch nationality law,dutch-nationality-law,dutch-nationality-law,UNK
+AMSTERDAM,844,14114,1231,844;23476997;2273;173098;19985174;1155120;79820;42737;47707;34115133;8898153;510990;546160;122518;50332;50333;50118;50117;1696565;259891;259890;21148;2442571;255460;6107242;2555166;1628568;5087293;834154;770443;28721;1103112;25904929,http://en.wikipedia.org/wiki/Amsterdam,Amsterdam,amsterdam,amsterdam,GPE
+AMSTERDAM,19252002,1,102,259891,http://en.wikipedia.org/wiki/Amsterdam_Castle,Amsterdam Castle,amsterdam-castle,amsterdam-castle,UNK
+AMSTERDAM,25904929,0,13,21148;844,http://en.wikipedia.org/wiki/Geography_of_Amsterdam,Geography of Amsterdam,geography-of-amsterdam,geography-of-amsterdam,UNK
+AMSTERDAM,1248171,7,55,21148,"http://en.wikipedia.org/wiki/Amsterdam,_Saskatchewan","Amsterdam, Saskatchewan",amsterdam-saskatchewan,amsterdam-saskatchewan,GPE
+AMSTERDAM,6321728,25,120,6321728,http://en.wikipedia.org/wiki/Hamsterdam,Hamsterdam,hamsterdam,hamsterdam,UNK
+AMSTERDAM,8898153,135,40,21148;505173;2289;745757;844;2273;834154;47707;834196;834226;79820;834256;1107824;800033;1103112;834275,http://en.wikipedia.org/wiki/FC_Amsterdam,FC Amsterdam,fc-amsterdam,fc-amsterdam,UNK
+AMSTERDAM,122518,44,63,844,"http://en.wikipedia.org/wiki/Amsterdam,_Missouri","Amsterdam, Missouri",amsterdam-missouri,amsterdam-missouri,GPE
+AMSTERDAM,17161483,7,59,21148;28721,http://en.wikipedia.org/wiki/Amsterdam_Airlines,Amsterdam Airlines,amsterdam-airlines,amsterdam-airlines,ORG
+AMSTERDAM,259891,297,513,1656551;21148;844;259890;19252002,"http://en.wikipedia.org/wiki/Amsterdam_(city),_New_York","Amsterdam (city), New York",amsterdam-city-new-york,amsterdam-city-new-york,GPE
+AMSTERDAM,1696565,51,30,546160;50118;844,http://en.wikipedia.org/wiki/Amsterdam_School,Amsterdam School,amsterdam-school,amsterdam-school,UNK
+AMSTERDAM,18744705,0,1,,"http://en.wikipedia.org/wiki/Amsterdam,_NY_µSA","Amsterdam, NY µSA",amsterdam-ny-µsa,amsterdam-ny-µsa,PER
+AMSTERDAM,2442571,25,37,21148;4358886;844,http://en.wikipedia.org/wiki/MS_Amsterdam,MS Amsterdam,ms-amsterdam,ms-amsterdam,UNK
+AMSTERDAM,207487,38,67,207401,http://en.wikipedia.org/wiki/USS_Amsterdam_(CL-101),USS Amsterdam,uss-amsterdam,uss-amsterdam-cl-101,UNK
+AMSTERDAM,259890,212,287,21148;844;259891,"http://en.wikipedia.org/wiki/Amsterdam_(town),_New_York","Amsterdam (town), New York",amsterdam-town-new-york,amsterdam-town-new-york,GPE
+AMSTERDAM,10289494,1,1,,"http://en.wikipedia.org/wiki/Amsterdam,_NY_μSA","Amsterdam, NY μSA",amsterdam-ny-μsa,amsterdam-ny-μsa,PER
+AMSTERDAM,23186691,86,92,,"http://en.wikipedia.org/wiki/Amsterdam,_California","Amsterdam, California",amsterdam-california,amsterdam-california,GPE
+AMSTERDAM,18419993,59,72,,"http://en.wikipedia.org/wiki/Amsterdam,_Virginia","Amsterdam, Virginia",amsterdam-virginia,amsterdam-virginia,GPE
+AMSTERDAM,5087293,38,18,21148;844,http://en.wikipedia.org/wiki/Amsterdam_Museum,Amsterdam Museum,amsterdam-museum,amsterdam-museum,UNK
+AMSTERDAM,1155120,76,114,546160;21148;844,http://en.wikipedia.org/wiki/Government_of_Amsterdam,Government of Amsterdam,government-of-amsterdam,government-of-amsterdam,UNK
+AMSTERDAM,770443,285,120,21148;844,http://en.wikipedia.org/wiki/Île_Amsterdam,Île Amsterdam,ile-amsterdam,ile-amsterdam,GPE
+AMSTERDAM,1455304,67,73,,"http://en.wikipedia.org/wiki/Amsterdam,_Mpumalanga","Amsterdam, Mpumalanga",amsterdam-mpumalanga,amsterdam-mpumalanga,GPE
+AMSTERDAM,100000559,0,0,,http://en.wikipedia.org/wiki/Amsterdam_2002,Amsterdam 2002,amsterdam-2002,amsterdam-2002,UKN
+AMSTERDAM,1628568,15,32,844,http://en.wikipedia.org/wiki/Amsterdam_(band),Amsterdam,amsterdam,amsterdam-band,UNK
+AMSTERDAM,14936574,45,51,,"http://en.wikipedia.org/wiki/Amsterdam,_Texas","Amsterdam, Texas",amsterdam-texas,amsterdam-texas,ORG
+AMSTERDAM,207401,2,3,207487,http://en.wikipedia.org/wiki/USS_Amsterdam,USS Amsterdam,uss-amsterdam,uss-amsterdam,UNK
+AMSTERDAM,28721,718,556,17161483;844;50117;21148;19985174,http://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol,Amsterdam Airport Schiphol,amsterdam-airport-schiphol,amsterdam-airport-schiphol,UNK
+AMSTERDAM,129457,58,147,,"http://en.wikipedia.org/wiki/Amsterdam,_Ohio","Amsterdam, Ohio",amsterdam-ohio,amsterdam-ohio,GPE
+AMSTERDAM,19523408,35,38,,"http://en.wikipedia.org/wiki/Amsterdam,_Montana","Amsterdam, Montana",amsterdam-montana,amsterdam-montana,GPE
+AMSTERDAM,546160,963,283,1155120;2273;1656551;32053;173098;844;255460;42737;21148;1696565;19985174,http://en.wikipedia.org/wiki/University_of_Amsterdam,University of Amsterdam,university-of-amsterdam,university-of-amsterdam,UNK
+AMSTERDAM,6107242,20,27,844,"http://en.wikipedia.org/wiki/Amsterdam_Bridge,_Toronto","Amsterdam Bridge, Toronto",amsterdam-bridge-toronto,amsterdam-bridge-toronto,UNK
+AMSTERDAM,23108986,33,46,,"http://en.wikipedia.org/wiki/Amsterdam_Township,_Hancock_County,_Iowa","Amsterdam Township, Hancock County, Iowa",amsterdam-township-hancock-county-iowa,amsterdam-township-hancock-county-iowa,GPE
+Dutch,21148,78333,1147,844;2289;2273;1248171;4358886;34115133;21148;23383569;834154;834196;834226;834256;834275;28721;32053;1939537;4628340;23476997;173098;1155120;42737;47707;13774915;8898153;546160;50332;50333;50118;50117;2555166;1542517;1656551;4590816;800033;23355899;918733;25904929;1336325;36114850;34190771;79818;79820;1036492;6539290;2442571;770443;337249;6762763;19985174;99186;17161483;510990;505173;745757;2202202;1107824;259891;259890;3471650;255460;23424881;5087293;1103112;1350371,http://en.wikipedia.org/wiki/Netherlands,Netherlands,netherlands,netherlands,GPE
+Dutch,663444,40,12,663444,http://en.wikipedia.org/wiki/Dutch_auction,Dutch auction,dutch-auction,dutch-auction,UNK
+Dutch,23476997,2445,577,1656551;844;4590816;21148;918733;6762763;2555166;42737;4628340;19985174,http://en.wikipedia.org/wiki/Dutch_East_Indies,Dutch East Indies,dutch-east-indies,dutch-east-indies,GPE
+Dutch,4628340,199,184,4590816;6762763;21148;1656551;19985174;42737;23476997,http://en.wikipedia.org/wiki/Dutch_Brazil,Dutch Brazil,dutch-brazil,dutch-brazil,GPE
+Dutch,4418525,316,270,42068978,http://en.wikipedia.org/wiki/Dutch_Clark,Dutch Clark,dutch-clark,dutch-clark,PER
+Dutch,19985174,8555,418,546160;844;23476997;2273;50332;3916477;50117;19985174;21148;255460;2555166;1656551;1313683;79820;834154;42737;47707;6539290;13165865;28721;918733;32053;1939537;337249;510990;4628340,http://en.wikipedia.org/wiki/Dutch_language,Dutch language,dutch-language,dutch-language,UNK
+Dutch,42068978,1,17,4418525,http://en.wikipedia.org/wiki/Dutch_(nickname),Dutch,dutch,dutch-nickname,UNK
+Dutch,498036,295,172,,http://en.wikipedia.org/wiki/Dutch_Defence,Dutch Defence,dutch-defence,dutch-defence,UNK
+Dutch,13774915,24,32,21148,http://en.wikipedia.org/wiki/Dutch_School_(painting),Dutch School,dutch-school,dutch-school-painting,PER
+Dutch,8397243,2,16,,http://en.wikipedia.org/wiki/Dutch_Lake,Dutch Lake,dutch-lake,dutch-lake,UNK
+Dutch,918733,479,678,50332;1656551;23476997;50117;21148;19985174,http://en.wikipedia.org/wiki/Dutch_cuisine,Dutch cuisine,dutch-cuisine,dutch-cuisine,UNK
+Dutch,13165865,204,131,19985174,"http://en.wikipedia.org/wiki/Dutch_Church,_Austin_Friars","Dutch Church, Austin Friars",dutch-church-austin-friars,dutch-church-austin-friars,UNK
+Dutch,32520080,109,116,,"http://en.wikipedia.org/wiki/Dutch_Hill,_California","Dutch Hill, California",dutch-hill-california,dutch-hill-california,UNK
+Dutch,6539290,128,149,50117;21148;34115133;50333;1656551;19985174,http://en.wikipedia.org/wiki/Old_Dutch,Old Dutch,old-dutch,old-dutch,UNK
+Dutch,337249,55,58,21148;19985174,http://en.wikipedia.org/wiki/Dutch_oven,Dutch oven,dutch-oven,dutch-oven,UNK
+Dutch,36069697,23,112,,"http://en.wikipedia.org/wiki/Dutch_Town,_West_Virginia","Dutch Town, West Virginia",dutch-town-west-virginia,dutch-town-west-virginia,GPE
+Dutch,1043984,61,58,,http://en.wikipedia.org/wiki/Dutch_Gold,Dutch Gold,dutch-gold,dutch-gold,UNK
+Dutch,1542517,218,146,21148,"http://en.wikipedia.org/wiki/Dutch_European_Constitution_referendum,_2005","Dutch European Constitution referendum, 2005",dutch-european-constitution-referendum-2005,dutch-european-constitution-referendum-2005,UNK
+Dutch,1939537,294,295,2555166;1656551;21148;19985174,http://en.wikipedia.org/wiki/Canadians_of_Dutch_descent,Canadians of Dutch descent,canadians-of-dutch-descent,canadians-of-dutch-descent,UNK
+Dutch,1656551,2697,305,546160;23476997;6539290;21148;918733;3916477;1939537;2555166;42737;510990;259891;4628340;19985174,http://en.wikipedia.org/wiki/Dutch_people,Dutch people,dutch-people,dutch-people,UNK
+Dutch,6762763,49,128,21148;4628340;42737;23476997,http://en.wikipedia.org/wiki/Dutch_Island_(Rhode_Island),Dutch Island,dutch-island,dutch-island-rhode-island,UNK
+Dutch,4590816,186,104,21148;4628340;42737;23476997,http://en.wikipedia.org/wiki/Dutch_India,Dutch India,dutch-india,dutch-india,GPE
+Dutch,316073,9,64,,http://en.wikipedia.org/wiki/Going_Dutch,Going Dutch,going-dutch,going-dutch,UNK
+Dutch,173098,341,114,546160;21148;844,http://en.wikipedia.org/wiki/Dutch_elm_disease,Dutch elm disease,dutch-elm-disease,dutch-elm-disease,UNK
+Dutch,1313683,134,101,19985174,http://en.wikipedia.org/wiki/Dutch_Wikipedia,Dutch Wikipedia,dutch-wikipedia,dutch-wikipedia,UNK
+Dutch,510990,664,59,2555166;1656551;42737;50117;21148;844;19985174,http://en.wikipedia.org/wiki/Dutch_Reformed_Church,Dutch Reformed Church,dutch-reformed-church,dutch-reformed-church,UNK
+Dutch,2555166,234,339,1656551;42737;21148;1939537;510990;844;19985174;23476997,http://en.wikipedia.org/wiki/Dutch_American,Dutch American,dutch-american,dutch-american,UNK
+Dutch,34115133,11,27,21148;6539290;844,http://en.wikipedia.org/wiki/Old_Dutch_(restaurant),Old Dutch,old-dutch,old-dutch-restaurant,UNK
+Dutch,42737,1463,296,546160;1656551;844;23476997;4590816;21148;6762763;2555166;510990;4628340;19985174,http://en.wikipedia.org/wiki/Dutch_East_India_Company,Dutch East India Company,dutch-east-india-company,dutch-east-india-company,ORG
+Dutch,3916477,146,126,1656551;19985174,http://en.wikipedia.org/wiki/Dutch_nationality_law,Dutch nationality law,dutch-nationality-law,dutch-nationality-law,UNK
+Feyenoord Rotterdam,47707,1857,929,47707;505173;745757;2202202;844;79818;79820;21148;2289;834154;2273;834196;834226;834256;1103112;834275;1107824;1336325;8898153;50118;800033;19985174,http://en.wikipedia.org/wiki/Feyenoord,Feyenoord,feyenoord,feyenoord,UNK
+Volendam,2202202,513,205,2289;834154;2273;47707;834196;834226;834256;1103112;834275;505173;745757;1107824;79818;79820;800033;2202202;21148;1350371;1336325,http://en.wikipedia.org/wiki/FC_Volendam,FC Volendam,fc-volendam,fc-volendam,UNK
+Volendam,4358886,23,45,21148;1350371;2442571,http://en.wikipedia.org/wiki/MS_Volendam,MS Volendam,ms-volendam,ms-volendam,UNK
+Volendam,1350371,95,31,21148;4358886;2202202,http://en.wikipedia.org/wiki/Volendam,Volendam,volendam,volendam,GPE
+NEC Nijmegen,834154,378,299,2273;47707;834196;834226;834256;1103112;834275;505173;8898153;745757;1107824;79818;79820;800033;2202202;21148;844;19985174;1336325,http://en.wikipedia.org/wiki/N.E.C._(football_club),N.E.C.,nec,nec-football-club,UNK
+AZ Alkmaar,2289,707,577,2273;47707;834196;834226;834256;1103112;834275;505173;745757;1107824;2202202;1336325;23383569;8898153;79818;79820;800033;21148,http://en.wikipedia.org/wiki/AZ_Alkmaar,AZ Alkmaar,az-alkmaar,az-alkmaar,UNK
+AZ Alkmaar,23383569,2,82,21148;36114850;2289;34190771,http://en.wikipedia.org/wiki/AZ_Alkmaar_(women),AZ Alkmaar,az-alkmaar,az-alkmaar-women,ORG
+Vitesse Arnhem,834256,1015,569,2289;834154;2273;47707;834196;834226;834256;1103112;834275;505173;745757;1107824;2202202;1336325;8898153;79818;79820;800033;21148,http://en.wikipedia.org/wiki/Vitesse,Vitesse,vitesse,vitesse,UNK
+Utrecht,834226,1107,468,2289;834154;2273;47707;834196;834256;1103112;834275;505173;50333;745757;1107824;2202202;1336325;8898153;79818;79820;800033;21148;34190771,http://en.wikipedia.org/wiki/FC_Utrecht,FC Utrecht,fc-utrecht,fc-utrecht,ORG
+Utrecht,180936,803,252,50333,http://en.wikipedia.org/wiki/Treaty_of_Utrecht,Treaty of Utrecht,treaty-of-utrecht,treaty-of-utrecht,UNK
+Utrecht,1036492,5,17,50332;50333;21148,http://en.wikipedia.org/wiki/Utrecht_(agglomeration),Utrecht,utrecht,utrecht-agglomeration,UNK
+Utrecht,34190771,42,73,21148;36114850;834226;50333;23383569,http://en.wikipedia.org/wiki/FC_Utrecht_(women),FC Utrecht,fc-utrecht,fc-utrecht-women,UNK
+Utrecht,32053,651,204,546160;255460;50333;21148;19985174,http://en.wikipedia.org/wiki/Utrecht_University,Utrecht University,utrecht-university,utrecht-university,ORG
+Utrecht,50333,1170,298,2273;834226;50332;32053;1036492;180936;844;6539290;50118;50117;21148;34190771,http://en.wikipedia.org/wiki/Utrecht,Utrecht,utrecht,utrecht,GPE
+Utrecht,1404432,56,70,,"http://en.wikipedia.org/wiki/Utrecht,_KwaZulu-Natal","Utrecht, KwaZulu-Natal",utrecht-kwazulu-natal,utrecht-kwazulu-natal,UNK
+Utrecht,50332,819,117,918733;50332;50333;1036492;844;50118;50117;21148;19985174,http://en.wikipedia.org/wiki/Utrecht_(province),Utrecht,utrecht,utrecht-province,UNK
+Twente Enschede,800033,1231,547,2289;834154;2273;47707;834196;834226;834256;1103112;834275;505173;745757;1107824;2202202;1336325;8898153;79818;79820;800033;21148,http://en.wikipedia.org/wiki/FC_Twente,FC Twente,fc-twente,fc-twente,UNK
+Roda JC,834196,240,300,2289;834154;2273;47707;834226;834256;1103112;834275;505173;8898153;745757;1107824;79818;79820;800033;2202202;21148;1336325,http://en.wikipedia.org/wiki/Roda_JC_Kerkrade,Roda JC Kerkrade,roda-jc-kerkrade,roda-jc-kerkrade,UNK
+Roda JC,36114850,14,56,21148;34190771;23383569,http://en.wikipedia.org/wiki/Roda_JC_(women),Roda JC,roda-jc,roda-jc-women,ORG
+PSV Eindhoven,79820,2281,868,47707;505173;745757;2202202;844;79818;79820;21148;23355899;2289;834154;2273;834196;834226;834256;1103112;834275;1107824;1336325;8898153;50118;800033;19985174,http://en.wikipedia.org/wiki/PSV_Eindhoven,PSV Eindhoven,psv-eindhoven,psv-eindhoven,UNK
+PSV Eindhoven,23355899,97,100,21148;79820,http://en.wikipedia.org/wiki/PSV_Eindhoven_(Superleague_Formula_team),PSV Eindhoven,psv-eindhoven,psv-eindhoven-superleague-formula-team,ORG
+Groningen,1103112,805,365,2289;2273;834154;47707;834196;834226;834256;834275;505173;745757;1107824;2202202;844;1336325;8898153;50118;50117;79818;79820;800033;21148,http://en.wikipedia.org/wiki/FC_Groningen,FC Groningen,fc-groningen,fc-groningen,UNK
+Groningen,50118,569,322,255460;99186;4972231;47707;1103112;50332;50333;745757;50117;79820;21148;1696565;844,http://en.wikipedia.org/wiki/Groningen,Groningen,groningen,groningen,GPE
+Groningen,4972231,570,596,50118,http://en.wikipedia.org/wiki/Grøningen,Grøningen,groningen,groningen,UNK
+Groningen,3471650,24,30,21148;50117,http://en.wikipedia.org/wiki/Flag_of_Groningen_(province),Flag of Groningen,flag-of-groningen,flag-of-groningen-province,UNK
+Groningen,991015,61,52,,http://en.wikipedia.org/wiki/Gröningen,Gröningen,groningen,groningen,UNK
+Groningen,255460,482,139,546160;32053;50118;50117;21148;844;19985174,http://en.wikipedia.org/wiki/University_of_Groningen,University of Groningen,university-of-groningen,university-of-groningen,ORG
+Groningen,3947995,86,79,,"http://en.wikipedia.org/wiki/Groningen,_Suriname","Groningen, Suriname",groningen-suriname,groningen-suriname,GPE
+Groningen,50117,998,338,918733;1103112;50332;50333;844;3471650;255460;23424881;6539290;50118;50117;21148;510990;19985174;28721,http://en.wikipedia.org/wiki/Groningen_(province),Groningen,groningen,groningen-province,UNK
+Groningen,23424881,69,93,21148;50117,"http://en.wikipedia.org/wiki/Groningen,_Minnesota","Groningen, Minnesota",groningen-minnesota,groningen-minnesota,UNK
+RKC Waalwijk,1107824,524,277,2289;834154;2273;47707;834196;834226;834256;1103112;834275;505173;8898153;745757;79818;79820;800033;2202202;21148;1336325,http://en.wikipedia.org/wiki/RKC_Waalwijk,RKC Waalwijk,rkc-waalwijk,rkc-waalwijk,UNK
+Willem II Tilburg,834275,617,336,2289;834154;2273;47707;834196;834226;834256;1103112;505173;8898153;745757;1107824;79818;79820;800033;2202202;21148;1336325,http://en.wikipedia.org/wiki/Willem_II_(football_club),Willem II,willem-ii,willem-ii-football-club,UNK
+Fortuna Sittard,1336325,461,276,2289;834154;2273;47707;834196;834226;834256;1103112;834275;505173;745757;1107824;79818;79820;800033;2202202;21148,http://en.wikipedia.org/wiki/Fortuna_Sittard,Fortuna Sittard,fortuna-sittard,fortuna-sittard,ORG
+NAC Breda,505173,754,310,2289;2273;834154;47707;834196;834226;834256;1103112;834275;505173;745757;1107824;2202202;1336325;8898153;79818;79820;800033;21148,http://en.wikipedia.org/wiki/NAC_Breda,NAC Breda,nac-breda,nac-breda,UNK
+Sparta Rotterdam,79818,832,313,2289;2273;834154;47707;834196;834226;834256;1103112;834275;505173;745757;1107824;2202202;1336325;79820;800033;21148,http://en.wikipedia.org/wiki/Sparta_Rotterdam,Sparta Rotterdam,sparta-rotterdam,sparta-rotterdam,ORG
+Heerenveen,745757,834,682,99186;2289;834154;2273;47707;834196;834226;834256;1103112;834275;505173;1107824;2202202;1336325;8898153;50118;79818;79820;800033;21148,http://en.wikipedia.org/wiki/SC_Heerenveen,SC Heerenveen,sc-heerenveen,sc-heerenveen,UNK
+Heerenveen,99186,527,92,745757;50118;21148,http://en.wikipedia.org/wiki/Heerenveen,Heerenveen,heerenveen,heerenveen,GPE
+Ajax Amsterdam,2273,2715,1174,546160;47707;505173;745757;2202202;844;79818;79820;21148;2289;834154;2273;834196;834226;834256;1103112;834275;50333;1107824;1336325;8898153;800033;19985174,http://en.wikipedia.org/wiki/AFC_Ajax,AFC Ajax,afc-ajax,afc-ajax,UNK
+Roda JC Kerkrade,834196,240,300,2289;834154;2273;47707;834226;834256;1103112;834275;505173;8898153;745757;1107824;79818;79820;800033;2202202;21148;1336325,http://en.wikipedia.org/wiki/Roda_JC_Kerkrade,Roda JC Kerkrade,roda-jc-kerkrade,roda-jc-kerkrade,UNK

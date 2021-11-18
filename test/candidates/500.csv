@@ -1,0 +1,127 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+FRANCE,5843419,190787,1650,6122287;5843419;9317;11188;10597;5612901;22989;12943731;4131857;320082;324164;5334607;2567493;67473;67472;22192200;87110;3141209;644329;84692;597908;42474021;7758150;127071;962731;23527303;955656;705310;2048999;11599695;14609428;932079;26574363;9351658;28190991;20599016;513436;1973841;2687967;250197,http://en.wikipedia.org/wiki/France,France,france,france,GPE
+FRANCE,3776038,24,8,10597;84692,http://en.wikipedia.org/wiki/University_of_France,University of France,university-of-france,university-of-france,ORG
+FRANCE,644329,374,225,5843419;22989;955656;644329,http://en.wikipedia.org/wiki/France_Télévisions,France Télévisions,france-televisions,france-televisions,ORG
+FRANCE,2589960,11,10,,http://en.wikipedia.org/wiki/France_family,France family,france-family,france-family,UNK
+FRANCE,955656,2298,525,644329;250197;5843419;22989;12943731,http://en.wikipedia.org/wiki/France_national_rugby_union_team,France national rugby union team,france-national-rugby-union-team,france-national-rugby-union-team,UNK
+FRANCE,9351658,5,36,5843419,http://en.wikipedia.org/wiki/France_II,France II,france-ii,france-ii,UNK
+FRANCE,6132809,173,168,,http://en.wikipedia.org/wiki/Little_France,Little France,little-france,little-france,UNK
+FRANCE,30770045,0,5,,http://en.wikipedia.org/wiki/Edward_France,Edward France,edward-france,edward-france,PER
+FRANCE,6122287,56,58,5843419;22989,http://en.wikipedia.org/wiki/France_(Epcot),France,france,france-epcot,UNK
+FRANCE,67473,488,455,5843419;4131857;11188;67473;67472;962731;9317;23527303;11599695;2687967;10597;20599016,http://en.wikipedia.org/wiki/Economy_of_France,Economy of France,economy-of-france,economy-of-france,UNK
+FRANCE,11809,513,287,,http://en.wikipedia.org/wiki/Francesco_Cossiga,Francesco Cossiga,francesco-cossiga,francesco-cossiga,PER
+FRANCE,4131857,209,198,9317;5843419;4131857;67473,http://en.wikipedia.org/wiki/Nuclear_power_in_France,Nuclear power in France,nuclear-power-in-france,nuclear-power-in-france,UNK
+FRANCE,12943731,411,384,5843419;955656;250197,http://en.wikipedia.org/wiki/France_national_youth_football_team,France national youth football team,france-national-youth-football-team,france-national-youth-football-team,ORG
+FRANCE,40175041,26,46,,"http://en.wikipedia.org/wiki/La_France,_South_Carolina","La France, South Carolina",la-france-south-carolina,la-france-south-carolina,GPE
+FRANCE,2687967,3313,297,2687967;962731;11188;23527303;10597;5843419;20599016;67473;67472;11599695;22989,http://en.wikipedia.org/wiki/Kingdom_of_France,Kingdom of France,kingdom-of-france,kingdom-of-france,GPE
+FRANCE,42474021,5,22,5843419,http://en.wikipedia.org/wiki/Little_France_(castle),Little France,little-france,little-france-castle,UNK
+FRANCE,67472,417,303,5843419;11188;67473;67472;962731;23527303;11599695;2687967;10597;20599016,http://en.wikipedia.org/wiki/Geography_of_France,Geography of France,geography-of-france,geography-of-france,UNK
+FRANCE,39251067,5,13,,http://en.wikipedia.org/wiki/La_France_(French_newspaper),La France,la-france,la-france-french-newspaper,UNK
+FRANCE,9116059,3,89,111145,http://en.wikipedia.org/wiki/France_Hotel,France Hotel,france-hotel,france-hotel,UNK
+FRANCE,250197,3412,873,955656;1973841;10597;250197;5843419;22989;12943731,http://en.wikipedia.org/wiki/France_national_football_team,France national football team,france-national-football-team,france-national-football-team,UNK
+FRANCE,20599016,2454,744,2687967;87110;20599016;67473;67472;962731;11188;23527303;11599695;10597;127071;5843419,http://en.wikipedia.org/wiki/Vichy_France,Vichy France,vichy-france,vichy-france,GPE
+FRANCE,2567493,90,99,5612901;10597;5843419;22989,http://en.wikipedia.org/wiki/France_Info,France Info,france-info,france-info,UNK
+FRANCE,23527303,196,15,962731;5843419;22989;11599695;11188;2687967;10597;20599016;67473;67472,http://en.wikipedia.org/wiki/Kingdom_of_France_(1791–92),Kingdom of France,kingdom-of-france,kingdom-of-france-1791–92,GPE
+FRANCE,5612901,146,75,2567493;10597;5843419;22989,http://en.wikipedia.org/wiki/France_Culture,France Culture,france-culture,france-culture,UNK
+FRANCE,19088931,16,6,,http://en.wikipedia.org/wiki/La_France_(airship),La France,la-france,la-france-airship,UNK
+LE MONDE,127071,1454,69,10597;20599016;5843419;22989;962731,http://en.wikipedia.org/wiki/Le_Monde,Le Monde,le-monde,le-monde,ORG
+PARIS,22989,46849,1623,6122287;5843419;2567493;9317;11188;10597;33006596;22192200;87110;23527303;3141209;5612901;644329;22989;84692;955656;705310;2048999;3453075;7114160;11599695;513436;295105;1973841;2687967;932079;250197;7758150;127071,http://en.wikipedia.org/wiki/Paris,Paris,paris,paris,UNK
+PARIS,14609428,2,9,5843419,"http://en.wikipedia.org/wiki/Paris,_Kiribati","Paris, Kiribati",paris-kiribati,paris-kiribati,UNK
+PARIS,22192200,73,81,5843419;22989,http://en.wikipedia.org/wiki/.paris,.paris,paris,paris,UNK
+PARIS,513436,42,51,10597;5843419;22989,"http://en.wikipedia.org/wiki/Paris,_Yukon","Paris, Yukon",paris-yukon,paris-yukon,UNK
+PARIS,111145,145,93,9116059,"http://en.wikipedia.org/wiki/Paris,_Illinois","Paris, Illinois",paris-illinois,paris-illinois,UNK
+PARIS,295105,1324,361,295105;22989,"http://en.wikipedia.org/wiki/Paris_Peace_Conference,_1919","Paris Peace Conference, 1919",paris-peace-conference-1919,paris-peace-conference-1919,UNK
+PARIS,10308003,1,1,,"http://en.wikipedia.org/wiki/Paris,_TN_μSA","Paris, TN μSA",paris-tn-μsa,paris-tn-μsa,PER
+PARIS,31420657,1,7,,"http://en.wikipedia.org/wiki/Paris,_Denmark","Paris, Denmark",paris-denmark,paris-denmark,UNK
+PARIS,6198965,2,10,,http://en.wikipedia.org/wiki/Little_Paris,Little Paris,little-paris,little-paris,UNK
+PARIS,705310,278,202,5843419;22989,http://en.wikipedia.org/wiki/Paris_Las_Vegas,Paris Las Vegas,paris-las-vegas,paris-las-vegas,ORG
+PARIS,5655865,40,58,141772,"http://en.wikipedia.org/wiki/Paris_(community),_Wisconsin","Paris (community), Wisconsin",paris-community-wisconsin,paris-community-wisconsin,UNK
+PARIS,1973841,442,93,5843419;22989;250197,http://en.wikipedia.org/wiki/Paris_FC,Paris FC,paris-fc,paris-fc,UNK
+PARIS,248424,203,53,,"http://en.wikipedia.org/wiki/Paris,_Ontario","Paris, Ontario",paris-ontario,paris-ontario,GPE
+PARIS,23768447,3,33,,"http://en.wikipedia.org/wiki/Paris,_Not_France","Paris, Not France",paris-not-france,paris-not-france,UNK
+PARIS,10224966,1,1,,"http://en.wikipedia.org/wiki/Paris,_TX_μSA","Paris, TX μSA",paris-tx-μsa,paris-tx-μsa,PER
+PARIS,18746173,0,1,,"http://en.wikipedia.org/wiki/Paris,_TN_µSA","Paris, TN µSA",paris-tn-µsa,paris-tn-µsa,PER
+PARIS,31631798,30,59,,"http://en.wikipedia.org/wiki/Paris,_Iowa","Paris, Iowa",paris-iowa,paris-iowa,UNK
+PARIS,4380507,178,264,,http://en.wikipedia.org/wiki/Count_Paris,Count Paris,count-paris,count-paris,UNK
+PARIS,3320433,8,13,,http://en.wikipedia.org/wiki/Paris_(genus),Paris,paris,paris-genus,PER
+PARIS,1645419,7,11,,"http://en.wikipedia.org/wiki/Paris,_Texas_(band)","Paris, Texas",paris-texas,paris-texas-band,UNK
+PARIS,3453075,551,133,22989;11188;7114160;10597,http://en.wikipedia.org/wiki/Paris_Opera,Paris Opera,paris-opera,paris-opera,ORG
+PARIS,4360088,0,257,,"http://en.wikipedia.org/wiki/Paris,_je_t'aime","Paris, je t'aime",paris-je-taime,paris-je-taime,UNK
+PARIS,141772,0,3,5655865,"http://en.wikipedia.org/wiki/Paris,_Wisconsin","Paris, Wisconsin",paris-wisconsin,paris-wisconsin,GPE
+PARIS,18746176,0,1,,"http://en.wikipedia.org/wiki/Paris,_TX_µSA","Paris, TX µSA",paris-tx-µsa,paris-tx-µsa,PER
+PARIS,36726996,15,33,,"http://en.wikipedia.org/wiki/Paris,_Mississippi","Paris, Mississippi",paris-mississippi,paris-mississippi,GPE
+PARIS,11287669,34,38,,http://en.wikipedia.org/wiki/SS_Paris_(1916),SS Paris,ss-paris,ss-paris-1916,UNK
+PARIS,32977266,16,20,,http://en.wikipedia.org/wiki/Paris_(band),Paris,paris,paris-band,UNK
+PARIS,35318735,24,35,,http://en.wikipedia.org/wiki/Paris_(Ooh_La_La),Paris,paris,paris-ooh-la-la,UNK
+PARIS,15956462,49,46,,"http://en.wikipedia.org/wiki/Paris,_Tokyo","Paris, Tokyo",paris-tokyo,paris-tokyo,UNK
+PARIS,33006596,259,318,22989,http://en.wikipedia.org/wiki/Niggas_in_Paris,Niggas in Paris,niggas-in-paris,niggas-in-paris,UNK
+PARIS,1853308,0,9,,http://en.wikipedia.org/wiki/Paris_Airport,Paris Airport,paris-airport,paris-airport,UNK
+PARIS,84692,2888,164,3776038;11188;10597;5843419;22989,http://en.wikipedia.org/wiki/University_of_Paris,University of Paris,university-of-paris,university-of-paris,ORG
+PARIS,9289655,5,10,,http://en.wikipedia.org/wiki/Paris_(actor_under_Domitian),Paris,paris,paris-actor-under-domitian,PER
+PARIS,7758150,2,9,5843419;22989,"http://en.wikipedia.org/wiki/Paris,_Paris","Paris, Paris",paris-paris,paris-paris,UNK
+PARIS,9628841,59,65,,"http://en.wikipedia.org/wiki/Paris,_Ohio","Paris, Ohio",paris-ohio,paris-ohio,GPE
+PARIS,8506637,3,18,,http://en.wikipedia.org/wiki/París_(retail),París,paris,paris-retail,UNK
+PARIS,42983166,4,22,,"http://en.wikipedia.org/wiki/Paris,_BN,_lat._4404","Paris, BN, lat. 4404",paris-bn-lat-4404,paris-bn-lat-4404,UNK
+PARIS,14384812,9,11,14384812,http://en.wikipedia.org/wiki/Paris_(Pantheon),Paris,paris,paris-pantheon,UNK
+PARIS,3111017,137,216,,"http://en.wikipedia.org/wiki/Paris,_Pennsylvania","Paris, Pennsylvania",paris-pennsylvania,paris-pennsylvania,GPE
+PARIS,13482794,52,61,,"http://en.wikipedia.org/wiki/Paris,_Virginia","Paris, Virginia",paris-virginia,paris-virginia,GPE
+PARIS,932079,86,56,10597;5843419;22989,http://en.wikipedia.org/wiki/Paris_Club,Paris Club,paris-club,paris-club,UNK
+PARIS,212144,63,47,,http://en.wikipedia.org/wiki/Paris_(rapper),Paris,paris,paris-rapper,UNK
+Le Monde,127071,1454,69,10597;20599016;5843419;22989;962731,http://en.wikipedia.org/wiki/Le_Monde,Le Monde,le-monde,le-monde,ORG
+Ipsos,3141209,141,95,5843419;22989;8923909,http://en.wikipedia.org/wiki/Ipsos,Ipsos,ipsos,ipsos,ORG
+Ipsos,8923909,8,47,3141209,http://en.wikipedia.org/wiki/IPSOS,IPSOS,ipsos,ipsos,PER
+French,5843419,190787,1650,6122287;5843419;9317;11188;10597;5612901;22989;12943731;4131857;320082;324164;5334607;2567493;67473;67472;22192200;87110;3141209;644329;84692;597908;42474021;7758150;127071;962731;23527303;955656;705310;2048999;11599695;14609428;932079;26574363;9351658;28190991;20599016;513436;1973841;2687967;250197,http://en.wikipedia.org/wiki/France,France,france,france,GPE
+French,320082,1152,187,11188;10597;5843419,http://en.wikipedia.org/wiki/Old_French,Old French,old-french,old-french,UNK
+French,39783493,0,18,,http://en.wikipedia.org/wiki/French_Mountain,French Mountain,french-mountain,french-mountain,UNK
+French,34368007,0,5,32924780;30896353;23911533,http://en.wikipedia.org/wiki/Edward_French,Edward French,edward-french,edward-french,PER
+French,25305700,16,24,4916317,http://en.wikipedia.org/wiki/Arthur_French_(actor),Arthur French,arthur-french,arthur-french-actor,PER
+French,7114160,196,287,22989;11188;3453075,http://en.wikipedia.org/wiki/French_opera,French opera,french-opera,french-opera,UNK
+French,13570077,3,35,10597;10904336,http://en.wikipedia.org/wiki/American_French,American French,american-french,american-french,UNK
+French,1147094,868,118,1147094;10597,http://en.wikipedia.org/wiki/French_Wikipedia,French Wikipedia,french-wikipedia,french-wikipedia,UNK
+French,102012,119,139,,http://en.wikipedia.org/wiki/French_Island_(Victoria),French Island,french-island,french-island-victoria,UNK
+French,20140721,1,7,,http://en.wikipedia.org/wiki/French_Mountains,French Mountains,french-mountains,french-mountains,UNK
+French,1711156,7,4,,http://en.wikipedia.org/wiki/The_French_(band),The French,the-french,the-french-band,UNK
+French,38870015,2,8,,http://en.wikipedia.org/wiki/French_(1790_cricketer),French,french,french-1790-cricketer,PER
+French,23544670,5,13,,http://en.wikipedia.org/wiki/French_River_(Minnesota),French River,french-river,french-river-minnesota,UNK
+French,2563278,12,46,,http://en.wikipedia.org/wiki/French_Market,French Market,french-market,french-market,UNK
+French,11188,8628,701,2687967;962731;23527303;5843419;3453075;20599016;67473;67472;7114160;11599695;26574363;22989;84692;320082;11188;10597,http://en.wikipedia.org/wiki/French_Revolution,French Revolution,french-revolution,french-revolution,UNK
+French,24563621,3,24,10597,http://en.wikipedia.org/wiki/French_Church_(Bucharest),French Church,french-church,french-church-bucharest,UNK
+French,21713935,5,15,10597,http://en.wikipedia.org/wiki/French_California,French California,french-california,french-california,UNK
+French,597908,327,186,889565;5843419;10597,http://en.wikipedia.org/wiki/French_River_(Ontario),French River,french-river,french-river-ontario,UNK
+French,23911533,3,10,23911533;34368007,http://en.wikipedia.org/wiki/Edward_French_(professor),Edward French,edward-french,edward-french-professor,UNK
+French,10464596,12,72,,http://en.wikipedia.org/wiki/French_Party,French Party,french-party,french-party,UNK
+French,42473218,9,15,10597,http://en.wikipedia.org/wiki/La_French,La French,la-french,la-french,UNK
+French,14640382,7,179,,http://en.wikipedia.org/wiki/French_Valley,French Valley,french-valley,french-valley,UNK
+French,889565,0,8,8788076;597908,http://en.wikipedia.org/wiki/French_River,French River,french-river,french-river,UNK
+French,21431860,17,13,4916317,http://en.wikipedia.org/wiki/Arthur_French_(politician),Arthur French,arthur-french,arthur-french-politician,PER
+French,30896353,1,24,34368007,http://en.wikipedia.org/wiki/Edward_French_(cricketer),Edward French,edward-french,edward-french-cricketer,PER
+French,2591353,64,23,,http://en.wikipedia.org/wiki/French_Louisiana,French Louisiana,french-louisiana,french-louisiana,UNK
+French,8788076,16,17,889565,http://en.wikipedia.org/wiki/French_River_(Massachusetts),French River,french-river,french-river-massachusetts,UNK
+French,17490726,0,1,1379952,http://en.wikipedia.org/wiki/Mount_French,Mount French,mount-french,mount-french,UNK
+French,212066,155,50,10597,http://en.wikipedia.org/wiki/French_Canada,French Canada,french-canada,french-canada,UNK
+French,2048999,128,61,10597;5843419;22989,http://en.wikipedia.org/wiki/French_Community,French Community,french-community,french-community,UNK
+French,1131875,166,149,,http://en.wikipedia.org/wiki/French_Hill,French Hill,french-hill,french-hill,UNK
+French,22868267,0,2,,http://en.wikipedia.org/wiki/French_Village,French Village,french-village,french-village,GPE
+French,11599695,307,339,5843419;22989;11188;67473;67472;962731;23527303;11599695;2687967;10597;20599016,http://en.wikipedia.org/wiki/French_architecture,French architecture,french-architecture,french-architecture,UNK
+French,2642797,4,11,10597,http://en.wikipedia.org/wiki/Pardon_my_French,Pardon my French,pardon-my-french,pardon-my-french,UNK
+French,4916317,0,6,21431860;25305700,http://en.wikipedia.org/wiki/Arthur_French,Arthur French,arthur-french,arthur-french,PER
+French,12565649,113,142,,http://en.wikipedia.org/wiki/USS_French_(DE-367),USS French,uss-french,uss-french-de-367,UNK
+French,24850237,518,135,24850237,http://en.wikipedia.org/wiki/French_Montana,French Montana,french-montana,french-montana,UNK
+French,10597,33530,620,212066;5843419;2567493;67473;67472;9317;11188;10597;10904336;962731;23527303;5612901;24563621;22989;84692;21713935;13570077;3776038;2642797;2048999;28190991;3453075;20599016;11599695;597908;320082;513436;42473218;1147094;2687967;932079;5334607;250197;127071,http://en.wikipedia.org/wiki/French_language,French language,french-language,french-language,UNK
+French,962731,5647,501,2687967;11188;23527303;10597;127071;5843419;20599016;67473;67472;5334607;11599695,http://en.wikipedia.org/wiki/French_people,French people,french-people,french-people,UNK
+French,3798286,0,5,,http://en.wikipedia.org/wiki/French_Lake,French Lake,french-lake,french-lake,UNK
+French,1379952,10,23,17490726,http://en.wikipedia.org/wiki/Mount_French_(Queensland),Mount French,mount-french,mount-french-queensland,UNK
+French,10904336,510,152,13570077;10597,http://en.wikipedia.org/wiki/Canadian_French,Canadian French,canadian-french,canadian-french,UNK
+French,35676031,3,7,,http://en.wikipedia.org/wiki/French_Hospital_(Manhattan),French Hospital,french-hospital,french-hospital-manhattan,ORG
+French,12886373,0,9,,"http://en.wikipedia.org/wiki/French_Park_(Amberley,_Ohio)",French Park,french-park,french-park-amberley-ohio,UNK
+French,32924780,5,7,34368007,http://en.wikipedia.org/wiki/Edward_French_(bishop),Edward French,edward-french,edward-french-bishop,UNK
+French,28190991,73,80,10597;5843419,http://en.wikipedia.org/wiki/French_Florida,French Florida,french-florida,french-florida,GPE
+Africans,5334607,18375,769,5843419;10597;8301094;962731;5334607,http://en.wikipedia.org/wiki/Africa,Africa,africa,africa,GPE
+Africans,8301094,354,335,5334607,http://en.wikipedia.org/wiki/Africans,Africans,africans,africans,UNK
+Africans,17140704,0,12,,http://en.wikipedia.org/wiki/The_Africans,The Africans,the-africans,the-africans,UNK
+SNCF,87110,1802,151,87110;20599016;5843419;22989,http://en.wikipedia.org/wiki/SNCF,SNCF,sncf,sncf,ORG
+European Union,9317,19822,836,4131857;5843419;67473;26574363;9317;5805422;10597;2348980;324164;22989,http://en.wikipedia.org/wiki/European_Union,European Union,european-union,european-union,UNK
+European Union,26574363,12,34,5843419;11188;9317,http://en.wikipedia.org/wiki/European_Union_(resistance_group),European Union,european-union,european-union-resistance-group,GPE
+European Union,5805422,293,153,9317,http://en.wikipedia.org/wiki/European_Union_Microsoft_competition_case,European Union Microsoft competition case,european-union-microsoft-competition-case,european-union-microsoft-competition-case,ORG
+European Union,324164,639,368,324164;5843419;9317,http://en.wikipedia.org/wiki/Enlargement_of_the_European_Union,Enlargement of the European Union,enlargement-of-the-european-union,enlargement-of-the-european-union,UNK
+European Union,2348980,56,97,9317;2348980,http://en.wikipedia.org/wiki/European_Union_Emission_Trading_Scheme,European Union Emission Trading Scheme,european-union-emission-trading-scheme,european-union-emission-trading-scheme,UNK

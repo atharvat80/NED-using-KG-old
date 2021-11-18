@@ -1,0 +1,134 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+SHANGHAI,27643,10242,864,351504;504623;16450146;402737;686244;367843;1963462;33167689;27682110;30031499;5405;20404059;40710796;23237;184224;27909;27643;18769119;9041110;415815;6427329;37285010;919887;4531418;1623791,http://en.wikipedia.org/wiki/Shanghai,Shanghai,shanghai,shanghai,GPE
+SHANGHAI,1623791,606,404,5405;1963462;27643;892238;124485,http://en.wikipedia.org/wiki/Shanghai_Airlines,Shanghai Airlines,shanghai-airlines,shanghai-airlines,ORG
+SHANGHAI,504623,354,206,27643;33167689;504623,http://en.wikipedia.org/wiki/Battle_of_Shanghai,Battle of Shanghai,battle-of-shanghai,battle-of-shanghai,UNK
+SHANGHAI,2422669,4,12,,http://en.wikipedia.org/wiki/(Why_Did_I_Tell_You_I_Was_Going_To)_Shanghai,(Why Did I Tell You I Was Going To) Shanghai,-why-did-i-tell-you-i-was-going-to-shanghai,-why-did-i-tell-you-i-was-going-to-shanghai,UNK
+SHANGHAI,18397029,58,70,,"http://en.wikipedia.org/wiki/Shanghai,_Virginia","Shanghai, Virginia",shanghai-virginia,shanghai-virginia,GPE
+SHANGHAI,5751279,1,2,,http://en.wikipedia.org/wiki/Shanghai_Airport,Shanghai Airport,shanghai-airport,shanghai-airport,UNK
+SHANGHAI,27682110,65,169,16450146;402737;5405;27643,http://en.wikipedia.org/wiki/Shanghai_Tower_(Liverpool),Shanghai Tower,shanghai-tower,shanghai-tower-liverpool,UNK
+SHANGHAI,3670643,55,63,,"http://en.wikipedia.org/wiki/Shanghai,_West_Virginia","Shanghai, West Virginia",shanghai-west-virginia,shanghai-west-virginia,GPE
+SHANGHAI,37285010,3,23,27643,"http://en.wikipedia.org/wiki/Shanghai,_Shanghai","Shanghai, Shanghai",shanghai-shanghai,shanghai-shanghai,UNK
+SHANGHAI,415815,210,45,18769119;1963462;4531418;402737;27643,http://en.wikipedia.org/wiki/Shanghai_Museum,Shanghai Museum,shanghai-museum,shanghai-museum,UNK
+SHANGHAI,30560827,35,50,,"http://en.wikipedia.org/wiki/Shanghai_City,_Illinois","Shanghai City, Illinois",shanghai-city-illinois,shanghai-city-illinois,GPE
+SHANGHAI,4531418,353,298,5405;1963462;415815;27643;18769119;16450146;402737,http://en.wikipedia.org/wiki/Shanghai_Stadium,Shanghai Stadium,shanghai-stadium,shanghai-stadium,UNK
+SHANGHAI,686244,71,284,5405;27643,http://en.wikipedia.org/wiki/Shanghaiing,Shanghaiing,shanghaiing,shanghaiing,UNK
+SHANGHAI,919887,237,230,367843;5405;6427329;27643,http://en.wikipedia.org/wiki/Shanghai_University,Shanghai University,shanghai-university,shanghai-university,ORG
+SHANGHAI,27909,127,99,27909;5405;27643,http://en.wikipedia.org/wiki/Shanghai_cuisine,Shanghai cuisine,shanghai-cuisine,shanghai-cuisine,UNK
+SHANGHAI,30031499,11,18,27643,http://en.wikipedia.org/wiki/Shanghai_School,Shanghai School,shanghai-school,shanghai-school,GPE
+SHANGHAI,1963462,631,736,4531418;415815;1623791;16450146;402737;5405;27643;18769119,http://en.wikipedia.org/wiki/Shanghai_Maglev_Train,Shanghai Maglev Train,shanghai-maglev-train,shanghai-maglev-train,UNK
+SHANGHAI,28141415,1,11,,http://en.wikipedia.org/wiki/Shanghai_(Santurce),Shanghai,shanghai,shanghai-santurce,UNK
+SHANGHAI,18769119,101,162,415815;16450146;402737;5405;27643;1963462;4531418;23237,http://en.wikipedia.org/wiki/Geography_of_Shanghai,Geography of Shanghai,geography-of-shanghai,geography-of-shanghai,UNK
+SHANGHAI,16450146,356,225,27682110;1963462;4531418;27643;18769119;402737,http://en.wikipedia.org/wiki/Shanghai_Tower,Shanghai Tower,shanghai-tower,shanghai-tower,UNK
+SHANGHAI,6427329,54,46,27643;919887,http://en.wikipedia.org/wiki/University_of_Shanghai,University of Shanghai,university-of-shanghai,university-of-shanghai,UNK
+SHANGHAI,3145995,16,80,5405,http://en.wikipedia.org/wiki/Shanghai_Street,Shanghai Street,shanghai-street,shanghai-street,UNK
+Pudong New Area,402737,409,295,27682110;5405;1963462;4531418;415815;27643;18769119;16450146,http://en.wikipedia.org/wiki/Pudong,Pudong,pudong,pudong,GPE
+Shanghai,27643,10242,864,351504;504623;16450146;402737;686244;367843;1963462;33167689;27682110;30031499;5405;20404059;40710796;23237;184224;27909;27643;18769119;9041110;415815;6427329;37285010;919887;4531418;1623791,http://en.wikipedia.org/wiki/Shanghai,Shanghai,shanghai,shanghai,GPE
+Shanghai,1623791,606,404,5405;1963462;27643;892238;124485,http://en.wikipedia.org/wiki/Shanghai_Airlines,Shanghai Airlines,shanghai-airlines,shanghai-airlines,ORG
+Shanghai,504623,354,206,27643;33167689;504623,http://en.wikipedia.org/wiki/Battle_of_Shanghai,Battle of Shanghai,battle-of-shanghai,battle-of-shanghai,UNK
+Shanghai,2422669,4,12,,http://en.wikipedia.org/wiki/(Why_Did_I_Tell_You_I_Was_Going_To)_Shanghai,(Why Did I Tell You I Was Going To) Shanghai,-why-did-i-tell-you-i-was-going-to-shanghai,-why-did-i-tell-you-i-was-going-to-shanghai,UNK
+Shanghai,18397029,58,70,,"http://en.wikipedia.org/wiki/Shanghai,_Virginia","Shanghai, Virginia",shanghai-virginia,shanghai-virginia,GPE
+Shanghai,5751279,1,2,,http://en.wikipedia.org/wiki/Shanghai_Airport,Shanghai Airport,shanghai-airport,shanghai-airport,UNK
+Shanghai,27682110,65,169,16450146;402737;5405;27643,http://en.wikipedia.org/wiki/Shanghai_Tower_(Liverpool),Shanghai Tower,shanghai-tower,shanghai-tower-liverpool,UNK
+Shanghai,3670643,55,63,,"http://en.wikipedia.org/wiki/Shanghai,_West_Virginia","Shanghai, West Virginia",shanghai-west-virginia,shanghai-west-virginia,GPE
+Shanghai,37285010,3,23,27643,"http://en.wikipedia.org/wiki/Shanghai,_Shanghai","Shanghai, Shanghai",shanghai-shanghai,shanghai-shanghai,UNK
+Shanghai,415815,210,45,18769119;1963462;4531418;402737;27643,http://en.wikipedia.org/wiki/Shanghai_Museum,Shanghai Museum,shanghai-museum,shanghai-museum,UNK
+Shanghai,30560827,35,50,,"http://en.wikipedia.org/wiki/Shanghai_City,_Illinois","Shanghai City, Illinois",shanghai-city-illinois,shanghai-city-illinois,GPE
+Shanghai,4531418,353,298,5405;1963462;415815;27643;18769119;16450146;402737,http://en.wikipedia.org/wiki/Shanghai_Stadium,Shanghai Stadium,shanghai-stadium,shanghai-stadium,UNK
+Shanghai,686244,71,284,5405;27643,http://en.wikipedia.org/wiki/Shanghaiing,Shanghaiing,shanghaiing,shanghaiing,UNK
+Shanghai,919887,237,230,367843;5405;6427329;27643,http://en.wikipedia.org/wiki/Shanghai_University,Shanghai University,shanghai-university,shanghai-university,ORG
+Shanghai,27909,127,99,27909;5405;27643,http://en.wikipedia.org/wiki/Shanghai_cuisine,Shanghai cuisine,shanghai-cuisine,shanghai-cuisine,UNK
+Shanghai,30031499,11,18,27643,http://en.wikipedia.org/wiki/Shanghai_School,Shanghai School,shanghai-school,shanghai-school,GPE
+Shanghai,1963462,631,736,4531418;415815;1623791;16450146;402737;5405;27643;18769119,http://en.wikipedia.org/wiki/Shanghai_Maglev_Train,Shanghai Maglev Train,shanghai-maglev-train,shanghai-maglev-train,UNK
+Shanghai,28141415,1,11,,http://en.wikipedia.org/wiki/Shanghai_(Santurce),Shanghai,shanghai,shanghai-santurce,UNK
+Shanghai,18769119,101,162,415815;16450146;402737;5405;27643;1963462;4531418;23237,http://en.wikipedia.org/wiki/Geography_of_Shanghai,Geography of Shanghai,geography-of-shanghai,geography-of-shanghai,UNK
+Shanghai,16450146,356,225,27682110;1963462;4531418;27643;18769119;402737,http://en.wikipedia.org/wiki/Shanghai_Tower,Shanghai Tower,shanghai-tower,shanghai-tower,UNK
+Shanghai,6427329,54,46,27643;919887,http://en.wikipedia.org/wiki/University_of_Shanghai,University of Shanghai,university-of-shanghai,university-of-shanghai,UNK
+Shanghai,3145995,16,80,5405,http://en.wikipedia.org/wiki/Shanghai_Street,Shanghai Street,shanghai-street,shanghai-street,UNK
+Xinhua,263168,1153,110,5405,http://en.wikipedia.org/wiki/Xinhua_News_Agency,Xinhua News Agency,xinhua-news-agency,xinhua-news-agency,UNK
+Xinhua,38511372,2,13,,"http://en.wikipedia.org/wiki/Xinhua,_Hegang","Xinhua, Hegang",xinhua-hegang,xinhua-hegang,UNK
+Xinhua,338666,173,146,5405,http://en.wikipedia.org/wiki/Xinhua_County,Xinhua County,xinhua-county,xinhua-county,GPE
+Xinhua,38538244,1,10,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Tianquan_County","Xinhua Township, Tianquan County",xinhua-township-tianquan-county,xinhua-township-tianquan-county,UNK
+Xinhua,38526873,1,13,,"http://en.wikipedia.org/wiki/Xinhua,_Wenshan","Xinhua, Wenshan",xinhua-wenshan,xinhua-wenshan,GPE
+Xinhua,38527375,2,12,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Heilongjiang","Xinhua Township, Heilongjiang",xinhua-township-heilongjiang,xinhua-township-heilongjiang,UNK
+Xinhua,38512072,1,11,,"http://en.wikipedia.org/wiki/Xinhua,_Xuanhan_County","Xinhua, Xuanhan County",xinhua-xuanhan-county,xinhua-xuanhan-county,UNK
+Xinhua,38527234,1,9,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Chongqing","Xinhua Township, Chongqing",xinhua-township-chongqing,xinhua-township-chongqing,UNK
+Xinhua,38527339,1,11,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Guizhou","Xinhua Township, Guizhou",xinhua-township-guizhou,xinhua-township-guizhou,UNK
+Xinhua,38538767,1,10,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Tengchong_County","Xinhua Township, Tengchong County",xinhua-township-tengchong-county,xinhua-township-tengchong-county,GPE
+Xinhua,38538684,1,10,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Pingbian_County","Xinhua Township, Pingbian County",xinhua-township-pingbian-county,xinhua-township-pingbian-county,GPE
+Xinhua,38511983,3,13,,"http://en.wikipedia.org/wiki/Xinhua,_Tongyu_County","Xinhua, Tongyu County",xinhua-tongyu-county,xinhua-tongyu-county,UNK
+Xinhua,24700316,181,184,5405,"http://en.wikipedia.org/wiki/Xinhua_District,_Pingdingshan","Xinhua District, Pingdingshan",xinhua-district-pingdingshan,xinhua-district-pingdingshan,GPE
+Xinhua,38538850,1,11,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Yuanmou_County","Xinhua Township, Yuanmou County",xinhua-township-yuanmou-county,xinhua-township-yuanmou-county,GPE
+Xinhua,38511642,3,11,,"http://en.wikipedia.org/wiki/Xinhua,_Shennongjia","Xinhua, Shennongjia",xinhua-shennongjia,xinhua-shennongjia,UNK
+Xinhua,38511263,1,13,,"http://en.wikipedia.org/wiki/Xinhua,_Linze_County","Xinhua, Linze County",xinhua-linze-county,xinhua-linze-county,UNK
+Xinhua,24662193,200,203,5405;24690608,"http://en.wikipedia.org/wiki/Xinhua_District,_Shijiazhuang","Xinhua District, Shijiazhuang",xinhua-district-shijiazhuang,xinhua-district-shijiazhuang,GPE
+Xinhua,20404059,7,16,5405;27643,http://en.wikipedia.org/wiki/Xinhua_Hospital,Xinhua Hospital,xinhua-hospital,xinhua-hospital,ORG
+Xinhua,38537646,1,10,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Ningnan_County","Xinhua Township, Ningnan County",xinhua-township-ningnan-county,xinhua-township-ningnan-county,UNK
+Xinhua,38527302,1,12,,"http://en.wikipedia.org/wiki/Xinhua_Township,_Gansu","Xinhua Township, Gansu",xinhua-township-gansu,xinhua-township-gansu,UNK
+Xinhua,38511774,1,12,,"http://en.wikipedia.org/wiki/Xinhua_Town,_Bayannur","Xinhua Town, Bayannur",xinhua-town-bayannur,xinhua-town-bayannur,UNK
+Xinhua,957763,46,59,,"http://en.wikipedia.org/wiki/Xinhua_District,_Tainan","Xinhua District, Tainan",xinhua-district-tainan,xinhua-district-tainan,UNK
+Xinhua,24690608,184,190,24662193,"http://en.wikipedia.org/wiki/Xinhua_District,_Cangzhou","Xinhua District, Cangzhou",xinhua-district-cangzhou,xinhua-district-cangzhou,GPE
+China,5405,76886,1206,1963462;5405;2259195;29031717;402737;263168;19323;715265;33167689;6108359;20404059;23237;27909;27643;26769;32919758;686244;5334607;919887;3733255;40710796;24662193;332456;27682110;17416221;217487;3145995;338666;1623791;24700316;601694;18769119;1231558;367843;11641871;4531418;124485,http://en.wikipedia.org/wiki/China,China,china,china,GPE
+China,36907282,1,7,,http://en.wikipedia.org/wiki/BBC_China,BBC China,bbc-china,bbc-china,UNK
+China,30809009,1,14,,http://en.wikipedia.org/wiki/China_(footballer_born_1964),China,china,china-footballer-born-1964,PER
+China,3676975,33,38,,http://en.wikipedia.org/wiki/China_Kantner,China Kantner,china-kantner,china-kantner,PER
+China,23237,408,328,5405;27643;217487;367843;601694;18769119;33167689,http://en.wikipedia.org/wiki/Geography_of_China,Geography of China,geography-of-china,geography-of-china,UNK
+China,32215636,132,153,,"http://en.wikipedia.org/wiki/China,_IL","China, IL",china-il,china-il,UNK
+China,11641871,21,20,5405,http://en.wikipedia.org/wiki/China_Team,China Team,china-team,china-team,ORG
+China,40710796,6,16,5405;27643,http://en.wikipedia.org/wiki/China_Association,China Association,china-association,china-association,ORG
+China,184224,201,253,33167689;27643;124485,http://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China,Flag of the Republic of China,flag-of-the-republic-of-china,flag-of-the-republic-of-china,UNK
+China,6108359,52,54,5405,http://en.wikipedia.org/wiki/China_(Epcot),China,china,china-epcot,UNK
+China,332456,4,14,5405,http://en.wikipedia.org/wiki/China_Hotel,China Hotel,china-hotel,china-hotel,UNK
+China,9041110,9,11,27643,http://en.wikipedia.org/wiki/China_Club,China Club,china-club,china-club,UNK
+China,2259195,63,130,5405,http://en.wikipedia.org/wiki/Recognition_of_same-sex_unions_in_China,Recognition of same-sex unions in China,recognition-of-same-sex-unions-in-china,recognition-of-same-sex-unions-in-china,GPE
+China,689521,269,153,,http://en.wikipedia.org/wiki/China_Beach,China Beach,china-beach,china-beach,UNK
+China,217487,320,734,217487;33167689;5405;367843;23237,http://en.wikipedia.org/wiki/Human_rights_in_China,Human rights in China,human-rights-in-china,human-rights-in-china,ORG
+China,33167689,655,414,217487;5405;27643;367843;184224;504623;23237,http://en.wikipedia.org/wiki/Republic_of_China_(1912–49),Republic of China,republic-of-china,republic-of-china-1912–49,GPE
+China,367843,339,506,5405;919887;27643;217487;367843;33167689;23237,http://en.wikipedia.org/wiki/Religion_in_China,Religion in China,religion-in-china,religion-in-china,UNK
+China,5865836,201,77,,http://en.wikipedia.org/wiki/Chin,Chin,chin,chin,UNK
+China,29668485,209,261,,http://en.wikipedia.org/wiki/China_(The_Office),China,china,china-the-office,UNK
+China,1231558,12,53,5405,http://en.wikipedia.org/wiki/China_Poblana,China Poblana,china-poblana,china-poblana,UNK
+China,1002769,48,20,,http://en.wikipedia.org/wiki/China_Records,China Records,china-records,china-records,UNK
+China,20500198,0,22,,http://en.wikipedia.org/wiki/China_(footballer_born_1980),China,china,china-footballer-born-1980,PER
+China,6421885,57,48,,"http://en.wikipedia.org/wiki/China,_Nuevo_León","China, Nuevo León",china-nuevo-leon,china-nuevo-leon,GPE
+China,29031717,42,83,5405,http://en.wikipedia.org/wiki/China_(Superleague_Formula_team),China,china,china-superleague-formula-team,UNK
+China,33089020,4,14,,http://en.wikipedia.org/wiki/On_China,On China,on-china,on-china,UNK
+China,124485,570,414,5405;17416221;1623791;184224;892238;124485,http://en.wikipedia.org/wiki/China_Airlines,China Airlines,china-airlines,china-airlines,UNK
+China,3733255,99,95,5405,http://en.wikipedia.org/wiki/China_Institute,China Institute,china-institute,china-institute,UNK
+China,32919758,2,19,5405,http://en.wikipedia.org/wiki/China_Information,China Information,china-information,china-information,ORG
+China,601694,143,45,5405;23237,http://en.wikipedia.org/wiki/Greater_China,Greater China,greater-china,greater-china,UNK
+China,21265151,4,9,,http://en.wikipedia.org/wiki/China_Beach_(Canada),China Beach,china-beach,china-beach-canada,UNK
+South America,26769,13731,427,1854;11931355;5405;5244370;19323;5334607;26769;27067,http://en.wikipedia.org/wiki/South_America,South America,south-america,south-america,UNK
+South America,11931355,52,100,26769,http://en.wikipedia.org/wiki/Ages_of_consent_in_South_America,Ages of consent in South America,ages-of-consent-in-south-america,ages-of-consent-in-south-america,UNK
+South America,10269639,5,13,,http://en.wikipedia.org/wiki/USS_South_America_(1861),USS South America,uss-south-america,uss-south-america-1861,UNK
+South America,5244370,74,133,26769;5244370,http://en.wikipedia.org/wiki/Geography_of_South_America,Geography of South America,geography-of-south-america,geography-of-south-america,UNK
+Middle East,19323,9750,323,351504;19323;5405;5334607;3093402;892238;4886900;26769;27067;4144983;4628356,http://en.wikipedia.org/wiki/Middle_East,Middle East,middle-east,middle-east,UNK
+Middle East,23163807,121,109,23163807,http://en.wikipedia.org/wiki/The_Middle_East_(magazine),The Middle East,the-middle-east,the-middle-east-magazine,ORG
+Middle East,26823399,1,14,,http://en.wikipedia.org/wiki/Middle_East_College,Middle East College,middle-east-college,middle-east-college,UNK
+Middle East,892238,425,349,1623791;19323;5334607;124485,http://en.wikipedia.org/wiki/Middle_East_Airlines,Middle East Airlines,middle-east-airlines,middle-east-airlines,ORG
+Middle East,4628356,38,52,4886900;19323,http://en.wikipedia.org/wiki/Middle_East_Journal,Middle East Journal,middle-east-journal,middle-east-journal,ORG
+Middle East,351504,256,133,351504;19323;27643,http://en.wikipedia.org/wiki/Middle_East_Media_Research_Institute,Middle East Media Research Institute,middle-east-media-research-institute,middle-east-media-research-institute,ORG
+Middle East,24477969,32,53,,http://en.wikipedia.org/wiki/The_Middle_East_(band),The Middle East,the-middle-east,the-middle-east-band,UNK
+Middle East,3093402,453,485,19323,http://en.wikipedia.org/wiki/Middle_Eastern_theatre_of_World_War_I,Middle Eastern theatre of World War I,middle-eastern-theatre-of-world-war-i,middle-eastern-theatre-of-world-war-i,UNK
+Middle East,4144983,94,46,19323,http://en.wikipedia.org/wiki/Greater_Middle_East,Greater Middle East,greater-middle-east,greater-middle-east,UNK
+Middle East,8489044,49,36,,http://en.wikipedia.org/wiki/The_Middle_East_(nightclub),The Middle East,the-middle-east,the-middle-east-nightclub,UNK
+Middle East,29173082,28,33,30518755,http://en.wikipedia.org/wiki/Middle_East_University_(Jordan),Middle East University,middle-east-university,middle-east-university-jordan,ORG
+Middle East,8743071,156,137,,"http://en.wikipedia.org/wiki/Middle_East,_Baltimore","Middle East, Baltimore",middle-east-baltimore,middle-east-baltimore,UNK
+Middle East,30518755,4,9,29173082,http://en.wikipedia.org/wiki/Middle_East_University_(Lebanon),Middle East University,middle-east-university,middle-east-university-lebanon,UNK
+Middle East,4886900,71,47,19323;4628356,http://en.wikipedia.org/wiki/Middle_East_Institute,Middle East Institute,middle-east-institute,middle-east-institute,UNK
+Africa,5334607,18375,769,22437592;38109008;1854;5405;17599440;8580547;19323;715265;5334607;468634;17416221;892238;8150650;26769;27067;31661144,http://en.wikipedia.org/wiki/Africa,Africa,africa,africa,GPE
+Africa,22437592,76,80,5334607,http://en.wikipedia.org/wiki/.africa,.africa,africa,africa,UNK
+Africa,5312529,11,14,,http://en.wikipedia.org/wiki/Africa_University,Africa University,africa-university,africa-university,UNK
+Africa,27067,1428,786,1854;5334607;17416221;26769;19323,http://en.wikipedia.org/wiki/Sub-Saharan_Africa,Sub-Saharan Africa,sub-saharan-africa,sub-saharan-africa,UNK
+Africa,957705,6,6,,http://en.wikipedia.org/wiki/Africa_(William_Billings),Africa,africa,africa-william-billings,GPE
+Africa,32015460,11,73,,http://en.wikipedia.org/wiki/Kingdom_of_Africa,Kingdom of Africa,kingdom-of-africa,kingdom-of-africa,UNK
+Africa,17599440,16,23,5334607,http://en.wikipedia.org/wiki/Africa_(journal),Africa,africa,africa-journal,ORG
+Africa,715265,3921,776,1854;5405;5334607;17416221,http://en.wikipedia.org/wiki/Confederation_of_African_Football,Confederation of African Football,confederation-of-african-football,confederation-of-african-football,ORG
+Africa,11310891,37,48,,"http://en.wikipedia.org/wiki/Africa,_Ohio","Africa, Ohio",africa-ohio,africa-ohio,GPE
+Africa,468634,461,335,468634;5334607,http://en.wikipedia.org/wiki/Africa_(Roman_province),Africa,africa,africa-roman-province,UNK
+Africa,8580547,37,82,5334607,http://en.wikipedia.org/wiki/Africa_(Petrarch),Africa,africa,africa-petrarch,UNK
+Africa,1854,295,264,17416221;26769;1854;5334607;715265;27067,http://en.wikipedia.org/wiki/Geography_of_Africa,Geography of Africa,geography-of-africa,geography-of-africa,UNK
+Africa,17416221,57523,1123,1854;5405;715265;27067;5334607;17416221;124485,http://en.wikipedia.org/wiki/South_Africa,South Africa,south-africa,south-africa,GPE
+Africa,31661144,1,7,31661144;5334607,http://en.wikipedia.org/wiki/Western_influence_on_Africa,Western influence on Africa,western-influence-on-africa,western-influence-on-africa,UNK
+Africa,8150650,8,41,5334607,http://en.wikipedia.org/wiki/King_África,King África,king-africa,king-africa,PER
+Africa,38109008,57,101,5334607,http://en.wikipedia.org/wiki/Africa_(BBC_documentary_series),Africa,africa,africa-bbc-documentary-series,UNK
+Xingfu,37897227,1,0,,http://en.wikipedia.org/wiki/Xingfu,Xingfu,xingfu,xingfu,UNK

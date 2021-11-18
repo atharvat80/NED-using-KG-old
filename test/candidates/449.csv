@@ -1,0 +1,50 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+GMT,12701,3323,226,,http://en.wikipedia.org/wiki/Greenwich_Mean_Time,Greenwich Mean Time,greenwich-mean-time,greenwich-mean-time,UNK
+GMT,8465437,5,10,,http://en.wikipedia.org/wiki/GMT_Records,GMT Records,gmt-records,gmt-records,ORG
+GMT,8984512,57,45,,http://en.wikipedia.org/wiki/GMT360,GMT360,gmt360,gmt360,UNK
+GMT,26207611,229,250,,http://en.wikipedia.org/wiki/GMT_(programme),GMT,gmt,gmt-programme,UNK
+KIRKLAND,138007,746,267,11388236;13015878;406405;31857983;6036380,"http://en.wikipedia.org/wiki/Kirkland,_Washington","Kirkland, Washington",kirkland-washington,kirkland-washington,GPE
+KIRKLAND,128079,29,41,,"http://en.wikipedia.org/wiki/Kirkland,_North_Carolina","Kirkland, North Carolina",kirkland-north-carolina,kirkland-north-carolina,GPE
+KIRKLAND,734020,169,132,,"http://en.wikipedia.org/wiki/Kirkland,_Quebec","Kirkland, Quebec",kirkland-quebec,kirkland-quebec,GPE
+KIRKLAND,542092,12,17,,http://en.wikipedia.org/wiki/Kirkland_College,Kirkland College,kirkland-college,kirkland-college,UNK
+KIRKLAND,13799437,34,47,,"http://en.wikipedia.org/wiki/Kirkland_Township,_Adams_County,_Indiana","Kirkland Township, Adams County, Indiana",kirkland-township-adams-county-indiana,kirkland-township-adams-county-indiana,GPE
+KIRKLAND,18723204,50,74,,"http://en.wikipedia.org/wiki/Kirkland,_Arizona","Kirkland, Arizona",kirkland-arizona,kirkland-arizona,UNK
+KIRKLAND,37568034,1,100,,http://en.wikipedia.org/wiki/Kirkland_Station,Kirkland Station,kirkland-station,kirkland-station,UNK
+KIRKLAND,31857983,174,50,31804912;138007,http://en.wikipedia.org/wiki/Kirkland_(sidewheeler),Kirkland,kirkland,kirkland-sidewheeler,UNK
+KIRKLAND,4882983,115,116,,"http://en.wikipedia.org/wiki/Kirkland,_Lancashire","Kirkland, Lancashire",kirkland-lancashire,kirkland-lancashire,UNK
+KIRKLAND,25197060,3,113,,http://en.wikipedia.org/wiki/Kirkland_Hotel,Kirkland Hotel,kirkland-hotel,kirkland-hotel,UNK
+KIRKLAND,126848,81,85,,"http://en.wikipedia.org/wiki/Kirkland,_New_York","Kirkland, New York",kirkland-new-york,kirkland-new-york,GPE
+KIRKLAND,20519900,3,29,,http://en.wikipedia.org/wiki/Kirkland_Island,Kirkland Island,kirkland-island,kirkland-island,UNK
+KIRKLAND,111096,66,66,,"http://en.wikipedia.org/wiki/Kirkland,_Illinois","Kirkland, Illinois",kirkland-illinois,kirkland-illinois,GPE
+KIRKLAND,325502,219,186,,http://en.wikipedia.org/wiki/Kirkland_Lake,Kirkland Lake,kirkland-lake,kirkland-lake,GPE
+KIRKLAND,22864831,0,3,,http://en.wikipedia.org/wiki/Arthur_Kirkland,Arthur Kirkland,arthur-kirkland,arthur-kirkland,PER
+KIRKLAND,27470923,16,35,27470886,"http://en.wikipedia.org/wiki/Kirkland,_Lincoln_County,_Tennessee","Kirkland, Lincoln County, Tennessee",kirkland-lincoln-county-tennessee,kirkland-lincoln-county-tennessee,GPE
+KIRKLAND,27470827,26,40,27470886,"http://en.wikipedia.org/wiki/Kirkland,_Williamson_County,_Tennessee","Kirkland, Williamson County, Tennessee",kirkland-williamson-county-tennessee,kirkland-williamson-county-tennessee,GPE
+KIRKLAND,28855771,5,3,,"http://en.wikipedia.org/wiki/Kirkland,_Eden","Kirkland, Eden",kirkland-eden,kirkland-eden,GPE
+KIRKLAND,27470886,0,2,27470923;27470827,"http://en.wikipedia.org/wiki/Kirkland,_Tennessee","Kirkland, Tennessee",kirkland-tennessee,kirkland-tennessee,UNK
+KIRKLAND,29176513,4,4,,"http://en.wikipedia.org/wiki/Kirkland,_Copeland","Kirkland, Copeland",kirkland-copeland,kirkland-copeland,GPE
+Wash,13015878,8843,1031,11388236;403287;27660;13015878;214753;29200;138007,http://en.wikipedia.org/wiki/Washington_(state),Washington,washington,washington-state,UNK
+Wash,18044689,0,13,,"http://en.wikipedia.org/wiki/Grand_Wash,_Lake_Mead","Grand Wash, Lake Mead",grand-wash-lake-mead,grand-wash-lake-mead,GPE
+Wash,3955754,34,126,,http://en.wikipedia.org/wiki/The_Wash_(soundtrack),The Wash,the-wash,the-wash-soundtrack,UNK
+Wash,2802135,3,15,,"http://en.wikipedia.org/wiki/Wash_Woods,_Virginia","Wash Woods, Virginia",wash-woods-virginia,wash-woods-virginia,UNK
+Wash,2720237,10,6,,http://en.wikipedia.org/wiki/Wash_(distilling),Wash,wash,wash-distilling,UNK
+Wash,172111,356,162,172111,http://en.wikipedia.org/wiki/Washing_machine,Washing machine,washing-machine,washing-machine,UNK
+Wash,3038376,63,89,,http://en.wikipedia.org/wiki/WASH_(FM),WASH,wash,wash-fm,UNK
+Wash,30777141,9,13,,http://en.wikipedia.org/wiki/WASH,WASH,wash,wash,ORG
+Wash,100455,283,87,,http://en.wikipedia.org/wiki/The_Wash,The Wash,the-wash,the-wash,UNK
+Wash,9240654,39,30,,http://en.wikipedia.org/wiki/Wash_(painting),Wash,wash,wash-painting,UNK
+Seattle,11388236,11926,894,12568873;1697989;11388236;403287;6164108;406405;6036380;27660;9473164;1000718;13015878;214753;29200;138007,http://en.wikipedia.org/wiki/Seattle,Seattle,seattle,seattle,GPE
+Seattle,31748503,9,38,,http://en.wikipedia.org/wiki/Seattle_Song,Seattle Song,seattle-song,seattle-song,PER
+Seattle,9473164,6,12,11388236,http://en.wikipedia.org/wiki/Seattle_Hotel,Seattle Hotel,seattle-hotel,seattle-hotel,UNK
+Seattle,1697989,15,47,5017895;11388236,http://en.wikipedia.org/wiki/USS_Seattle_(AOE-3),USS Seattle,uss-seattle,uss-seattle-aoe-3,UNK
+Seattle,6164108,176,231,11388236,http://en.wikipedia.org/wiki/Seattle_Jewish_Federation_shooting,Seattle Jewish Federation shooting,seattle-jewish-federation-shooting,seattle-jewish-federation-shooting,UNK
+Seattle,214753,78,46,13015878;29200;11388236,http://en.wikipedia.org/wiki/Chief_Seattle,Chief Seattle,chief-seattle,chief-seattle,PER
+Seattle,1000718,165,82,11388236;403287,http://en.wikipedia.org/wiki/Seattle_Opera,Seattle Opera,seattle-opera,seattle-opera,UNK
+Seattle,406405,38,68,138007;11388236,"http://en.wikipedia.org/wiki/Seattle,_Lake_Shore_and_Eastern_Railway","Seattle, Lake Shore and Eastern Railway",seattle-lake-shore-and-eastern-railway,seattle-lake-shore-and-eastern-railway,UNK
+Seattle,31804912,167,228,31857983,http://en.wikipedia.org/wiki/City_of_Seattle_(steam_ferry),City of Seattle,city-of-seattle,city-of-seattle-steam-ferry,UNK
+Seattle,29200,436,183,214753;11388236;403287;13015878,http://en.wikipedia.org/wiki/Seattle_University,Seattle University,seattle-university,seattle-university,ORG
+Seattle,12568873,6,112,11388236,http://en.wikipedia.org/wiki/Seattle_Tower,Seattle Tower,seattle-tower,seattle-tower,UNK
+Seattle,403287,200,147,11388236;1000718;13015878;29200,http://en.wikipedia.org/wiki/Seattle_Center,Seattle Center,seattle-center,seattle-center,UNK
+Seattle,27660,3427,559,11388236;27660;13015878,http://en.wikipedia.org/wiki/Seattle_Mariners,Seattle Mariners,seattle-mariners,seattle-mariners,UNK
+Seattle,5017895,5,4,1697989,http://en.wikipedia.org/wiki/USS_Seattle,USS Seattle,uss-seattle,uss-seattle,UNK
+Lamonts,6036380,26,37,138007;11388236,http://en.wikipedia.org/wiki/Lamonts,Lamonts,lamonts,lamonts,UNK

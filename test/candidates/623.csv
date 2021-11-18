@@ -1,0 +1,100 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Australian,4689264,136194,1016,7214224;24355;33613;296393;49732;65836;83395;18950948;26451470;26451467;26451463;26451498;26451490;611486;7479924;620967;22613643;450955;35609977;18442052;185052;27960950;20611325;2457195;8785037;4689264;243669;984508,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australian,18442052,14,104,33613;4689264,http://en.wikipedia.org/wiki/Western_Australian_Party,Western Australian Party,western-australian-party,western-australian-party,ORG
+Australian,2551671,179,129,33613,http://en.wikipedia.org/wiki/Western_Australian_English,Western Australian English,western-australian-english,western-australian-english,UNK
+Australian,33613,12610,445,1460635;5286965;33613;65836;9973210;38961514;22613643;296393;2551671;20611325;83395;18442052;17322361;24355;2457195;8785037;18950948;2911738;6025372;8007505;4689264,http://en.wikipedia.org/wiki/Western_Australia,Western Australia,western-australia,western-australia,UNK
+Australian,2911738,157,62,24355;33613;22613643;243669,http://en.wikipedia.org/wiki/Western_Australian_Museum,Western Australian Museum,western-australian-museum,western-australian-museum,UNK
+Australian,2457195,98,105,33613;4689264,http://en.wikipedia.org/wiki/Western_Australian_Rugby_League,Western Australian Rugby League,western-australian-rugby-league,western-australian-rugby-league,UNK
+PERTH,24355,2854,503,296393;18950948;33613;58730;243669;20611325;2911738;9973210;22613643;6025372;4689264,http://en.wikipedia.org/wiki/Perth,Perth,perth,perth,UNK
+PERTH,296393,418,392,22613643;6025372;24355;33613;4689264,http://en.wikipedia.org/wiki/Perth_Airport,Perth Airport,perth-airport,perth-airport,UNK
+PERTH,17322361,52,72,33613,http://en.wikipedia.org/wiki/Perth_Stadium,Perth Stadium,perth-stadium,perth-stadium,UNK
+PERTH,35244798,7,11,58730,http://en.wikipedia.org/wiki/Perth_Castle,Perth Castle,perth-castle,perth-castle,UNK
+PERTH,7479924,107,59,4689264,http://en.wikipedia.org/wiki/Perth_SC,Perth SC,perth-sc,perth-sc,UNK
+PERTH,8785037,16,32,4689264;33613;58730,http://en.wikipedia.org/wiki/Perth_College_(Western_Australia),Perth College,perth-college,perth-college-western-australia,ORG
+PERTH,22901663,116,130,,"http://en.wikipedia.org/wiki/Perth,_Delaware","Perth, Delaware",perth-delaware,perth-delaware,UNK
+PERTH,24853985,12,56,,"http://en.wikipedia.org/wiki/Perth_Parish,_New_Brunswick","Perth Parish, New Brunswick",perth-parish-new-brunswick,perth-parish-new-brunswick,GPE
+PERTH,35609977,81,72,4689264,http://en.wikipedia.org/wiki/Perth_International,Perth International,perth-international,perth-international,UNK
+PERTH,9973210,29,47,10845384;24355;33613,"http://en.wikipedia.org/wiki/Perth_County,_Western_Australia","Perth County, Western Australia",perth-county-western-australia,perth-county-western-australia,UNK
+PERTH,128816,18,45,83395;3067168,"http://en.wikipedia.org/wiki/Perth,_North_Dakota","Perth, North Dakota",perth-north-dakota,perth-north-dakota,GPE
+PERTH,611486,30,20,83395;4689264,"http://en.wikipedia.org/wiki/Perth,_Tasmania","Perth, Tasmania",perth-tasmania,perth-tasmania,UNK
+PERTH,1793219,62,37,,http://en.wikipedia.org/wiki/Perth_(electoral_district),Perth,perth,perth-electoral-district,UNK
+PERTH,126478,30,43,58730,"http://en.wikipedia.org/wiki/Perth,_New_York","Perth, New York",perth-new-york,perth-new-york,GPE
+PERTH,83395,281,62,33613;4689264;627790;58730;128816;611486,"http://en.wikipedia.org/wiki/Perth,_Ontario","Perth, Ontario",perth-ontario,perth-ontario,GPE
+PERTH,3067168,28,32,128816;58730,"http://en.wikipedia.org/wiki/Perth_Township,_Walsh_County,_North_Dakota","Perth Township, Walsh County, North Dakota",perth-township-walsh-county-north-dakota,perth-township-walsh-county-north-dakota,GPE
+PERTH,6025372,21,27,22923431;296393;24355;33613,"http://en.wikipedia.org/wiki/Perth_Airport,_Western_Australia","Perth Airport, Western Australia",perth-airport-western-australia,perth-airport-western-australia,UNK
+PERTH,22613643,223,93,24355;33613;4689264;296393;2911738,http://en.wikipedia.org/wiki/Perth_(suburb),Perth,perth,perth-suburb,UNK
+PERTH,58730,1656,416,83395;126478;23618261;35244798;16655894;8785037;5424140;24355;20975149;7113878;3067168,"http://en.wikipedia.org/wiki/Perth,_Scotland","Perth, Scotland",perth-scotland,perth-scotland,GPE
+PERTH,5286965,5,13,33613,http://en.wikipedia.org/wiki/Perth_Station,Perth Station,perth-station,perth-station,UNK
+PERTH,15031953,60,74,,"http://en.wikipedia.org/wiki/Perth,_Indiana","Perth, Indiana",perth-indiana,perth-indiana,GPE
+PERTH,23618261,49,31,58730,http://en.wikipedia.org/wiki/Perth_Theatre,Perth Theatre,perth-theatre,perth-theatre,UNK
+PERTH,20975149,31,35,58730,http://en.wikipedia.org/wiki/HM_Prison_Perth,HM Prison Perth,hm-prison-perth,hm-prison-perth,UNK
+PERTH,10845384,0,2,627790;9973210,http://en.wikipedia.org/wiki/Perth_County,Perth County,perth-county,perth-county,UNK
+PERTH,7415690,5,10,,http://en.wikipedia.org/wiki/Perth_River,Perth River,perth-river,perth-river,UNK
+PERTH,7113878,161,160,7113878;58730,"http://en.wikipedia.org/wiki/Perth,_Almond_Valley_and_Methven_Railway","Perth, Almond Valley and Methven Railway",perth-almond-valley-and-methven-railway,perth-almond-valley-and-methven-railway,UNK
+PERTH,5424140,53,131,58730,http://en.wikipedia.org/wiki/Perth_Airport_(Scotland),Perth Airport,perth-airport,perth-airport-scotland,UNK
+PERTH,16655894,7,14,58730,http://en.wikipedia.org/wiki/Perth_Bridge,Perth Bridge,perth-bridge,perth-bridge,UNK
+PERTH,22923431,0,1,6025372,"http://en.wikipedia.org/wiki/Perth_Airport,_AU-WA","Perth Airport, AU-WA",perth-airport-au-wa,perth-airport-au-wa,UNK
+PERTH,627790,200,126,83395;10845384,"http://en.wikipedia.org/wiki/Perth_County,_Ontario","Perth County, Ontario",perth-county-ontario,perth-county-ontario,GPE
+Australia,4689264,136194,1016,7214224;24355;33613;296393;49732;65836;83395;18950948;26451470;26451467;26451463;26451498;26451490;611486;7479924;620967;22613643;450955;35609977;18442052;185052;27960950;20611325;2457195;8785037;4689264;243669;984508,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australia,450955,49,106,4689264,http://en.wikipedia.org/wiki/Gun_politics_in_Australia,Gun politics in Australia,gun-politics-in-australia,gun-politics-in-australia,UNK
+Australia,18950948,203,272,24355;33613;4689264;18950948;20611325,http://en.wikipedia.org/wiki/Geography_of_Australia,Geography of Australia,geography-of-australia,geography-of-australia,UNK
+Australia,20611325,466,326,18950948;24355;33613;4689264;20611325,http://en.wikipedia.org/wiki/Australia_(continent),Australia,australia,australia-continent,UNK
+Australia,26451467,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Sydney,Australia/Sydney,australia-sydney,australia-sydney,PER
+Australia,1460635,58,63,33613,"http://en.wikipedia.org/wiki/Wittenoom,_Western_Australia","Wittenoom, Western Australia",wittenoom-western-australia,wittenoom-western-australia,UNK
+Australia,23335381,10,15,,http://en.wikipedia.org/wiki/Australia_EP,Australia EP,australia-ep,australia-ep,UNK
+Australia,185052,236,108,4689264,http://en.wikipedia.org/wiki/Australia_Party,Australia Party,australia-party,australia-party,ORG
+Australia,8007505,169,194,33613,http://en.wikipedia.org/wiki/Australia_Station,Australia Station,australia-station,australia-station,ORG
+Australia,33114696,6,16,,http://en.wikipedia.org/wiki/For_Australia,For Australia,for-australia,for-australia,UNK
+Australia,20214173,19,31,,http://en.wikipedia.org/wiki/Australia_(schooner),Australia,australia,australia-schooner,UNK
+Australia,26451490,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Adelaide,Australia/Adelaide,australia-adelaide,australia-adelaide,PER
+Australia,984508,214,355,4689264,http://en.wikipedia.org/wiki/Internet_censorship_in_Australia,Internet censorship in Australia,internet-censorship-in-australia,internet-censorship-in-australia,UNK
+Australia,38961514,2,7,33613,http://en.wikipedia.org/wiki/Mr._Australia,Mr. Australia,mr-australia,mr-australia,ORG
+Australia,65836,173,290,33613;4689264,http://en.wikipedia.org/wiki/Republicanism_in_Australia,Republicanism in Australia,republicanism-in-australia,republicanism-in-australia,UNK
+Australia,42450678,37,51,,"http://en.wikipedia.org/wiki/Australia,_Mississippi","Australia, Mississippi",australia-mississippi,australia-mississippi,GPE
+Australia,620967,2240,477,4689264,http://en.wikipedia.org/wiki/Australia_national_rugby_union_team,Australia national rugby union team,australia-national-rugby-union-team,australia-national-rugby-union-team,UNK
+Australia,26451463,2,11,4689264,http://en.wikipedia.org/wiki/Australia/Melbourne,Australia/Melbourne,australia-melbourne,australia-melbourne,PER
+Australia,27960950,4,21,4689264;27960950,http://en.wikipedia.org/wiki/MS_Australia,MS Australia,ms-australia,ms-australia,UNK
+Australia,7214224,5,22,4689264,http://en.wikipedia.org/wiki/National_Police_Memorial_Australia,National Police Memorial Australia,national-police-memorial-australia,national-police-memorial-australia,UNK
+Australia,10680720,15,21,,http://en.wikipedia.org/wiki/Australia_Hotel,Australia Hotel,australia-hotel,australia-hotel,UNK
+Australia,37398196,0,1,,http://en.wikipedia.org/wiki/Australia_(KA-5),Australia,australia,australia-ka-5,PER
+Australia,26451470,2,10,4689264,http://en.wikipedia.org/wiki/Australia/Brisbane,Australia/Brisbane,australia-brisbane,australia-brisbane,PER
+Australia,243669,51,155,24355;4689264;2911738,http://en.wikipedia.org/wiki/Australia_II,Australia II,australia-ii,australia-ii,UNK
+Australia,42585823,126,145,,http://en.wikipedia.org/wiki/Australia_(Modern_Family),Australia,australia,australia-modern-family,UNK
+Australia,26451498,2,9,4689264,http://en.wikipedia.org/wiki/Australia/Perth,Australia/Perth,australia-perth,australia-perth,PER
+Australia,49732,126,120,4689264,http://en.wikipedia.org/wiki/Australia_Group,Australia Group,australia-group,australia-group,ORG
+US$,18717338,16188,846,18717338,http://en.wikipedia.org/wiki/United_States_dollar,United States dollar,united-states-dollar,united-states-dollar,UNK
+Perth,24355,2854,503,296393;18950948;33613;58730;243669;20611325;2911738;9973210;22613643;6025372;4689264,http://en.wikipedia.org/wiki/Perth,Perth,perth,perth,UNK
+Perth,296393,418,392,22613643;6025372;24355;33613;4689264,http://en.wikipedia.org/wiki/Perth_Airport,Perth Airport,perth-airport,perth-airport,UNK
+Perth,17322361,52,72,33613,http://en.wikipedia.org/wiki/Perth_Stadium,Perth Stadium,perth-stadium,perth-stadium,UNK
+Perth,35244798,7,11,58730,http://en.wikipedia.org/wiki/Perth_Castle,Perth Castle,perth-castle,perth-castle,UNK
+Perth,7479924,107,59,4689264,http://en.wikipedia.org/wiki/Perth_SC,Perth SC,perth-sc,perth-sc,UNK
+Perth,8785037,16,32,4689264;33613;58730,http://en.wikipedia.org/wiki/Perth_College_(Western_Australia),Perth College,perth-college,perth-college-western-australia,ORG
+Perth,22901663,116,130,,"http://en.wikipedia.org/wiki/Perth,_Delaware","Perth, Delaware",perth-delaware,perth-delaware,UNK
+Perth,24853985,12,56,,"http://en.wikipedia.org/wiki/Perth_Parish,_New_Brunswick","Perth Parish, New Brunswick",perth-parish-new-brunswick,perth-parish-new-brunswick,GPE
+Perth,35609977,81,72,4689264,http://en.wikipedia.org/wiki/Perth_International,Perth International,perth-international,perth-international,UNK
+Perth,9973210,29,47,10845384;24355;33613,"http://en.wikipedia.org/wiki/Perth_County,_Western_Australia","Perth County, Western Australia",perth-county-western-australia,perth-county-western-australia,UNK
+Perth,128816,18,45,83395;3067168,"http://en.wikipedia.org/wiki/Perth,_North_Dakota","Perth, North Dakota",perth-north-dakota,perth-north-dakota,GPE
+Perth,611486,30,20,83395;4689264,"http://en.wikipedia.org/wiki/Perth,_Tasmania","Perth, Tasmania",perth-tasmania,perth-tasmania,UNK
+Perth,1793219,62,37,,http://en.wikipedia.org/wiki/Perth_(electoral_district),Perth,perth,perth-electoral-district,UNK
+Perth,126478,30,43,58730,"http://en.wikipedia.org/wiki/Perth,_New_York","Perth, New York",perth-new-york,perth-new-york,GPE
+Perth,83395,281,62,33613;4689264;627790;58730;128816;611486,"http://en.wikipedia.org/wiki/Perth,_Ontario","Perth, Ontario",perth-ontario,perth-ontario,GPE
+Perth,3067168,28,32,128816;58730,"http://en.wikipedia.org/wiki/Perth_Township,_Walsh_County,_North_Dakota","Perth Township, Walsh County, North Dakota",perth-township-walsh-county-north-dakota,perth-township-walsh-county-north-dakota,GPE
+Perth,6025372,21,27,22923431;296393;24355;33613,"http://en.wikipedia.org/wiki/Perth_Airport,_Western_Australia","Perth Airport, Western Australia",perth-airport-western-australia,perth-airport-western-australia,UNK
+Perth,22613643,223,93,24355;33613;4689264;296393;2911738,http://en.wikipedia.org/wiki/Perth_(suburb),Perth,perth,perth-suburb,UNK
+Perth,58730,1656,416,83395;126478;23618261;35244798;16655894;8785037;5424140;24355;20975149;7113878;3067168,"http://en.wikipedia.org/wiki/Perth,_Scotland","Perth, Scotland",perth-scotland,perth-scotland,GPE
+Perth,5286965,5,13,33613,http://en.wikipedia.org/wiki/Perth_Station,Perth Station,perth-station,perth-station,UNK
+Perth,15031953,60,74,,"http://en.wikipedia.org/wiki/Perth,_Indiana","Perth, Indiana",perth-indiana,perth-indiana,GPE
+Perth,23618261,49,31,58730,http://en.wikipedia.org/wiki/Perth_Theatre,Perth Theatre,perth-theatre,perth-theatre,UNK
+Perth,20975149,31,35,58730,http://en.wikipedia.org/wiki/HM_Prison_Perth,HM Prison Perth,hm-prison-perth,hm-prison-perth,UNK
+Perth,10845384,0,2,627790;9973210,http://en.wikipedia.org/wiki/Perth_County,Perth County,perth-county,perth-county,UNK
+Perth,7415690,5,10,,http://en.wikipedia.org/wiki/Perth_River,Perth River,perth-river,perth-river,UNK
+Perth,7113878,161,160,7113878;58730,"http://en.wikipedia.org/wiki/Perth,_Almond_Valley_and_Methven_Railway","Perth, Almond Valley and Methven Railway",perth-almond-valley-and-methven-railway,perth-almond-valley-and-methven-railway,UNK
+Perth,5424140,53,131,58730,http://en.wikipedia.org/wiki/Perth_Airport_(Scotland),Perth Airport,perth-airport,perth-airport-scotland,UNK
+Perth,16655894,7,14,58730,http://en.wikipedia.org/wiki/Perth_Bridge,Perth Bridge,perth-bridge,perth-bridge,UNK
+Perth,22923431,0,1,6025372,"http://en.wikipedia.org/wiki/Perth_Airport,_AU-WA","Perth Airport, AU-WA",perth-airport-au-wa,perth-airport-au-wa,UNK
+Perth,627790,200,126,83395;10845384,"http://en.wikipedia.org/wiki/Perth_County,_Ontario","Perth County, Ontario",perth-county-ontario,perth-county-ontario,GPE
+Western Australian,33613,12610,445,1460635;5286965;33613;65836;9973210;38961514;22613643;296393;2551671;20611325;83395;18442052;17322361;24355;2457195;8785037;18950948;2911738;6025372;8007505;4689264,http://en.wikipedia.org/wiki/Western_Australia,Western Australia,western-australia,western-australia,UNK
+Western Australian,18442052,14,104,33613;4689264,http://en.wikipedia.org/wiki/Western_Australian_Party,Western Australian Party,western-australian-party,western-australian-party,ORG
+Western Australian,2551671,179,129,33613,http://en.wikipedia.org/wiki/Western_Australian_English,Western Australian English,western-australian-english,western-australian-english,UNK
+Western Australian,2911738,157,62,24355;33613;22613643;243669,http://en.wikipedia.org/wiki/Western_Australian_Museum,Western Australian Museum,western-australian-museum,western-australian-museum,UNK
+Western Australian,2457195,98,105,33613;4689264,http://en.wikipedia.org/wiki/Western_Australian_Rugby_League,Western Australian Rugby League,western-australian-rugby-league,western-australian-rugby-league,UNK

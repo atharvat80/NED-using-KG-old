@@ -1,0 +1,76 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Greek,12108,43026,1020,1216;2018079;11887;12108;13517898;13871790;2445603;3833962;148363;340510;393824;1210883;93140;104851;8111453;3027504;7679136;166697;42056;1503369;48962;23416994;186859,http://en.wikipedia.org/wiki/Greece,Greece,greece,greece,GPE
+Greek,38894567,5,40,715909,http://en.wikipedia.org/wiki/Greek_and_Coptic,Greek and Coptic,greek-and-coptic,greek-and-coptic,UNK
+Greek,2295538,226,119,7017879,http://en.wikipedia.org/wiki/Greek_Theatre_(Los_Angeles),Greek Theatre,greek-theatre,greek-theatre-los-angeles,UNK
+Greek,250251,160,148,250251;715909;42056,http://en.wikipedia.org/wiki/Greeks_(finance),Greeks,greeks,greeks-finance,GPE
+Greek,2445603,172,424,23416994;1216;11887;2445603;12108;340510;33696661;42056,http://en.wikipedia.org/wiki/Names_of_the_Greeks,Names of the Greeks,names-of-the-greeks,names-of-the-greeks,UNK
+Greek,840617,232,200,23416994;1216;340510,http://en.wikipedia.org/wiki/Greek_sea_gods,Greek sea gods,greek-sea-gods,greek-sea-gods,UNK
+Greek,40100774,83,73,,http://en.wikipedia.org/wiki/Greek_Theatre_(Baton_Rouge),Greek Theatre,greek-theatre,greek-theatre-baton-rouge,UNK
+Greek,1210883,334,314,1216;11887;12108;42056,http://en.wikipedia.org/wiki/Greek_Cypriots,Greek Cypriots,greek-cypriots,greek-cypriots,UNK
+Greek,166697,496,447,23416994;1216;13517898;11887;12108;340510;148363;715909;33696661;3027504,http://en.wikipedia.org/wiki/Greek_numerals,Greek numerals,greek-numerals,greek-numerals,UNK
+Greek,5911855,32,41,,http://en.wikipedia.org/wiki/Greek_Street,Greek Street,greek-street,greek-street,UNK
+Greek,42056,4221,662,1216;340510;250251;11887;2445603;12108;393824;33696661;42056;13517898;1503369;715909;23416994;1210883;13871790,http://en.wikipedia.org/wiki/Greeks,Greeks,greeks,greeks,UNK
+Greek,15167607,2,9,,http://en.wikipedia.org/wiki/Greek_Islands_(restaurant),Greek Islands,greek-islands,greek-islands-restaurant,UNK
+Greek,148363,6514,476,1216;3027504;715909;23416994;166697;340510;11887;12108;33696661;13517898,http://en.wikipedia.org/wiki/Ancient_Greek,Ancient Greek,ancient-greek,ancient-greek,UNK
+Greek,1503369,295,154,11887;12108;42056,http://en.wikipedia.org/wiki/Greek_mathematics,Greek mathematics,greek-mathematics,greek-mathematics,PER
+Greek,715909,1774,915,13517898;148363;1216;166697;23416994;38894567;340510;250251;11887;33696661;42056;3027504,http://en.wikipedia.org/wiki/Greek_alphabet,Greek alphabet,greek-alphabet,greek-alphabet,UNK
+Greek,26471307,58,63,26447122,http://en.wikipedia.org/wiki/Greek_(play),Greek,greek,greek-play,UNK
+Greek,28494263,3,109,,"http://en.wikipedia.org/wiki/Greek_College,_Oxford","Greek College, Oxford",greek-college-oxford,greek-college-oxford,UNK
+Greek,7017879,142,83,2295538,http://en.wikipedia.org/wiki/The_Greek,The Greek,the-greek,the-greek,UNK
+Greek,23953696,1,30,,http://en.wikipedia.org/wiki/Mr._Greek,Mr. Greek,mr-greek,mr-greek,UNK
+Greek,26447122,62,83,26471307,http://en.wikipedia.org/wiki/Greek_(opera),Greek,greek,greek-opera,UNK
+Greek,11887,28317,382,1216;2018079;11887;12108;33696661;13517898;13871790;2445603;715909;3833962;148363;340510;393824;1210883;3027504;7679136;166697;42056;1503369;48962,http://en.wikipedia.org/wiki/Greek_language,Greek language,greek-language,greek-language,UNK
+Greek,340510,465,336,23416994;1216;13517898;11887;2445603;12108;166697;148363;715909;33696661;42056;840617,http://en.wikipedia.org/wiki/Greek_Dark_Ages,Greek Dark Ages,greek-dark-ages,greek-dark-ages,UNK
+Greek,23416994,5050,543,148363;1216;166697;840617;340510;2445603;12108;33696661;42056;13517898;715909;23416994,http://en.wikipedia.org/wiki/Greek_mythology,Greek mythology,greek-mythology,greek-mythology,UNK
+Greek,3027504,101,173,148363;715909;33696661;166697;11887;12108,http://en.wikipedia.org/wiki/Greek_Wikipedia,Greek Wikipedia,greek-wikipedia,greek-wikipedia,UNK
+Greek,33696661,940,368,23416994;13517898;340510;148363;1216;11887;2445603;166697;715909;42056;3027504,http://en.wikipedia.org/wiki/Koine_Greek,Koine Greek,koine-greek,koine-greek,UNK
+ATHENS,1216,15159,1410,70107;104851;1216;139326;840617;8111453;7679136;132172;23035410;131455;131456;166697;111694;11887;12108;33696661;42056;13517898;135291;48962;136048;138509;4705193;137424;24564223;2445603;259810;117211;117210;715909;23416994;116172;115536;3833962;42450518;148363;1596912;340510;341110;393824;186859;17983302;1210883;93140,http://en.wikipedia.org/wiki/Athens,Athens,athens,athens,UNK
+ATHENS,259811,24,55,259810,"http://en.wikipedia.org/wiki/Athens,_New_York","Athens, New York",athens-new-york,athens-new-york,GPE
+ATHENS,117211,41,59,1328159;1216;117210,"http://en.wikipedia.org/wiki/Athens_Township,_Michigan","Athens Township, Michigan",athens-township-michigan,athens-township-michigan,GPE
+ATHENS,23035410,22,26,1216,"http://en.wikipedia.org/wiki/Athens,_Arkansas","Athens, Arkansas",athens-arkansas,athens-arkansas,UNK
+ATHENS,24564223,41,67,1216,"http://en.wikipedia.org/wiki/Athens,_Minnesota","Athens, Minnesota",athens-minnesota,athens-minnesota,GPE
+ATHENS,139326,127,143,1216,"http://en.wikipedia.org/wiki/Athens,_Wisconsin","Athens, Wisconsin",athens-wisconsin,athens-wisconsin,GPE
+ATHENS,11331841,0,2,,"http://en.wikipedia.org/wiki/Athens_Township,_Ohio","Athens Township, Ohio",athens-township-ohio,athens-township-ohio,UNK
+ATHENS,12397993,2,82,70107,http://en.wikipedia.org/wiki/Athens_B_&_O_Train_Depot,Athens B & O Train Depot,athens-b-o-train-depot,athens-b-o-train-depot,UNK
+ATHENS,70107,707,189,1216;12397993;93140,"http://en.wikipedia.org/wiki/Athens,_Ohio","Athens, Ohio",athens-ohio,athens-ohio,GPE
+ATHENS,3833962,100,127,7679136;1216;11887;12108,http://en.wikipedia.org/wiki/Athens_Prefecture,Athens Prefecture,athens-prefecture,athens-prefecture,UNK
+ATHENS,8111453,30,50,1216;12108,"http://en.wikipedia.org/wiki/Athens,_Indiana","Athens, Indiana",athens-indiana,athens-indiana,GPE
+ATHENS,42450518,13,20,1216,"http://en.wikipedia.org/wiki/Athens,_Missouri","Athens, Missouri",athens-missouri,athens-missouri,UNK
+ATHENS,2018079,36,41,11887;12108,http://en.wikipedia.org/wiki/Athens_College,Athens College,athens-college,athens-college,ORG
+ATHENS,115536,31,37,1216,"http://en.wikipedia.org/wiki/Athens,_Louisiana","Athens, Louisiana",athens-louisiana,athens-louisiana,UNK
+ATHENS,4705193,39,49,1216,"http://en.wikipedia.org/wiki/Athens,_Mississippi","Athens, Mississippi",athens-mississippi,athens-mississippi,GPE
+ATHENS,341110,44,22,1216,"http://en.wikipedia.org/wiki/Athens,_Ontario","Athens, Ontario",athens-ontario,athens-ontario,GPE
+ATHENS,117210,54,60,1216;117211,"http://en.wikipedia.org/wiki/Athens,_Michigan","Athens, Michigan",athens-michigan,athens-michigan,GPE
+ATHENS,10282847,1,1,93140,"http://en.wikipedia.org/wiki/Athens,_OH_μSA","Athens, OH μSA",athens-oh-μsa,athens-oh-μsa,PER
+ATHENS,1328159,0,6,132172;117211;131456,http://en.wikipedia.org/wiki/Athens_Township,Athens Township,athens-township,athens-township,GPE
+ATHENS,1596912,277,361,1216,"http://en.wikipedia.org/wiki/Athens,_California","Athens, California",athens-california,athens-california,GPE
+ATHENS,10288370,2,1,,"http://en.wikipedia.org/wiki/Athens,_TN_μSA","Athens, TN μSA",athens-tn-μsa,athens-tn-μsa,PER
+ATHENS,131456,73,86,132172;131455;1328159;1216;141391,"http://en.wikipedia.org/wiki/Athens_Township,_Bradford_County,_Pennsylvania","Athens Township, Bradford County, Pennsylvania",athens-township-bradford-county-pennsylvania,athens-township-bradford-county-pennsylvania,GPE
+ATHENS,111694,65,60,1216,"http://en.wikipedia.org/wiki/Athens,_Illinois","Athens, Illinois",athens-illinois,athens-illinois,UNK
+ATHENS,17983302,107,187,1216,"http://en.wikipedia.org/wiki/Athens,_Kentucky","Athens, Kentucky",athens-kentucky,athens-kentucky,GPE
+ATHENS,132172,82,87,1328159;1216;131456;141391,"http://en.wikipedia.org/wiki/Athens_Township,_Crawford_County,_Pennsylvania","Athens Township, Crawford County, Pennsylvania",athens-township-crawford-county-pennsylvania,athens-township-crawford-county-pennsylvania,GPE
+ATHENS,27969541,4,51,104851,"http://en.wikipedia.org/wiki/Old_Athens,_Alabama_Main_Post_Office","Old Athens, Alabama Main Post Office",old-athens-alabama-main-post-office,old-athens-alabama-main-post-office,UNK
+ATHENS,18744737,0,1,,"http://en.wikipedia.org/wiki/Athens,_TN_µSA","Athens, TN µSA",athens-tn-µsa,athens-tn-µsa,PER
+ATHENS,136048,411,400,1216,"http://en.wikipedia.org/wiki/Athens,_Texas","Athens, Texas",athens-texas,athens-texas,GPE
+ATHENS,18744741,0,1,,"http://en.wikipedia.org/wiki/Athens,_TX_µSA","Athens, TX µSA",athens-tx-µsa,athens-tx-µsa,PER
+ATHENS,116172,63,74,1216,"http://en.wikipedia.org/wiki/Athens,_Maine","Athens, Maine",athens-maine,athens-maine,GPE
+ATHENS,186859,2476,502,1216;12108;3383478,"http://en.wikipedia.org/wiki/Athens,_Georgia","Athens, Georgia",athens-georgia,athens-georgia,GPE
+ATHENS,48962,397,273,4090285;1216;11887;12108;393824,http://en.wikipedia.org/wiki/Athens_International_Airport,Athens International Airport,athens-international-airport,athens-international-airport,UNK
+ATHENS,10221370,1,1,,"http://en.wikipedia.org/wiki/Athens,_TX_μSA","Athens, TX μSA",athens-tx-μsa,athens-tx-μsa,PER
+ATHENS,131455,124,112,1216;131456,"http://en.wikipedia.org/wiki/Athens,_Pennsylvania","Athens, Pennsylvania",athens-pennsylvania,athens-pennsylvania,GPE
+ATHENS,135291,146,106,1216,"http://en.wikipedia.org/wiki/Athens,_Tennessee","Athens, Tennessee",athens-tennessee,athens-tennessee,GPE
+ATHENS,13517898,649,462,23416994;340510;148363;1216;11887;12108;166697;715909;33696661;42056,http://en.wikipedia.org/wiki/Classical_Athens,Classical Athens,classical-athens,classical-athens,GPE
+ATHENS,137424,54,62,1216,"http://en.wikipedia.org/wiki/Athens,_Vermont","Athens, Vermont",athens-vermont,athens-vermont,GPE
+ATHENS,93140,542,267,1216;18744733;10282847;12108;70107;93140,"http://en.wikipedia.org/wiki/Athens_County,_Ohio","Athens County, Ohio",athens-county-ohio,athens-county-ohio,GPE
+ATHENS,3383478,7,15,186859,"http://en.wikipedia.org/wiki/Athens,_GA:_Inside/Out","Athens, GA: Inside/Out",athens-ga-inside-out,athens-ga-inside-out,UNK
+ATHENS,4090285,0,4,48962,http://en.wikipedia.org/wiki/Athens_Airport,Athens Airport,athens-airport,athens-airport,UNK
+ATHENS,141391,0,2,132172;131456,"http://en.wikipedia.org/wiki/Athens_Township,_Pennsylvania","Athens Township, Pennsylvania",athens-township-pennsylvania,athens-township-pennsylvania,GPE
+ATHENS,104851,246,199,27969541;1216;12108,"http://en.wikipedia.org/wiki/Athens,_Alabama","Athens, Alabama",athens-alabama,athens-alabama,GPE
+ATHENS,18744733,0,1,93140,"http://en.wikipedia.org/wiki/Athens,_OH_µSA","Athens, OH µSA",athens-oh-µsa,athens-oh-µsa,PER
+ATHENS,7679136,33,36,1216;11887;12108;3833962,http://en.wikipedia.org/wiki/Athens_Football_Clubs_Association,Athens Football Clubs Association,athens-football-clubs-association,athens-football-clubs-association,UNK
+ATHENS,138509,343,333,1216,"http://en.wikipedia.org/wiki/Athens,_West_Virginia","Athens, West Virginia",athens-west-virginia,athens-west-virginia,GPE
+ATHENS,27492464,135,152,,"http://en.wikipedia.org/wiki/Athens,_Virginia","Athens, Virginia",athens-virginia,athens-virginia,GPE
+ATHENS,259810,53,65,1216;259811,"http://en.wikipedia.org/wiki/Athens_(village),_New_York","Athens (village), New York",athens-village-new-york,athens-village-new-york,GPE
+ATHENS,9314852,27,21,,http://en.wikipedia.org/wiki/Little_Athens,Little Athens,little-athens,little-athens,UNK
+Costas Simitis,393824,256,225,1216;11887;42056;48962;12108,http://en.wikipedia.org/wiki/Costas_Simitis,Costas Simitis,costas-simitis,costas-simitis,PER
+Costas Skandalidis,13871790,17,24,42056;11887;12108,http://en.wikipedia.org/wiki/Kostas_Skandalidis,Kostas Skandalidis,kostas-skandalidis,kostas-skandalidis,PER

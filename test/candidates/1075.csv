@@ -1,0 +1,27 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+MAURITANIA,1234981,353,263,51592;1198472;18778516,http://en.wikipedia.org/wiki/Mauritania_national_football_team,Mauritania national football team,mauritania-national-football-team,mauritania-national-football-team,UNK
+MAURITANIA,18778516,4359,484,51592;18778516;3459;4589046;10097604;56698;1234981;21714;417283;10171867;2424468,http://en.wikipedia.org/wiki/Mauritania,Mauritania,mauritania,mauritania,GPE
+MAURITANIA,417283,157,139,56698;18778516,http://en.wikipedia.org/wiki/Flag_of_Mauritania,Flag of Mauritania,flag-of-mauritania,flag-of-mauritania,UNK
+MAURITANIA,2424468,20,61,18778516;2424468,http://en.wikipedia.org/wiki/Mauritania_Railway,Mauritania Railway,mauritania-railway,mauritania-railway,UNK
+MAURITANIA,56698,119,184,51592;18778516;56698;417283;68972,http://en.wikipedia.org/wiki/Geography_of_Mauritania,Geography of Mauritania,geography-of-mauritania,geography-of-mauritania,UNK
+MAURITANIA,10171867,5,30,18778516,http://en.wikipedia.org/wiki/Greater_Mauritania,Greater Mauritania,greater-mauritania,greater-mauritania,PER
+NOUAKCHOTT,51592,510,232,18778516;56698;1234981;3459;4589046;10097604,http://en.wikipedia.org/wiki/Nouakchott,Nouakchott,nouakchott,nouakchott,GPE
+NOUAKCHOTT,4589046,60,60,51592;18778516,http://en.wikipedia.org/wiki/Nouakchott_International_Airport,Nouakchott International Airport,nouakchott-international-airport,nouakchott-international-airport,UNK
+NOUAKCHOTT,10097604,8,7,18778516;51592,http://en.wikipedia.org/wiki/University_of_Nouakchott,University of Nouakchott,university-of-nouakchott,university-of-nouakchott,ORG
+Mauritania,18778516,4359,484,51592;18778516;3459;4589046;10097604;56698;1234981;21714;417283;10171867;2424468,http://en.wikipedia.org/wiki/Mauritania,Mauritania,mauritania,mauritania,GPE
+Mauritania,417283,157,139,56698;18778516,http://en.wikipedia.org/wiki/Flag_of_Mauritania,Flag of Mauritania,flag-of-mauritania,flag-of-mauritania,UNK
+Mauritania,2424468,20,61,18778516;2424468,http://en.wikipedia.org/wiki/Mauritania_Railway,Mauritania Railway,mauritania-railway,mauritania-railway,UNK
+Mauritania,56698,119,184,51592;18778516;56698;417283;68972,http://en.wikipedia.org/wiki/Geography_of_Mauritania,Geography of Mauritania,geography-of-mauritania,geography-of-mauritania,UNK
+Mauritania,10171867,5,30,18778516,http://en.wikipedia.org/wiki/Greater_Mauritania,Greater Mauritania,greater-mauritania,greater-mauritania,PER
+Mauritania,1234981,353,263,51592;1198472;18778516,http://en.wikipedia.org/wiki/Mauritania_national_football_team,Mauritania national football team,mauritania-national-football-team,mauritania-national-football-team,UNK
+North Africans,33936116,198,142,33936116;21714,http://en.wikipedia.org/wiki/North_Africans_in_the_United_States,North Africans in the United States,north-africans-in-the-united-states,north-africans-in-the-united-states,UNK
+North Africans,21714,4936,241,33936116;18778516,http://en.wikipedia.org/wiki/North_Africa,North Africa,north-africa,north-africa,UNK
+Benin,1198472,379,315,1234981;3459,http://en.wikipedia.org/wiki/Benin_national_football_team,Benin national football team,benin-national-football-team,benin-national-football-team,UNK
+Benin,3459,5648,470,25649488;2097268;51592;1198472;18778516;3459;317744;68972,http://en.wikipedia.org/wiki/Benin,Benin,benin,benin,GPE
+Benin,317744,349,110,2097268;25649488;1739575;3459;317744;9244485,http://en.wikipedia.org/wiki/Benin_City,Benin City,benin-city,benin-city,GPE
+Benin,2097268,1,10,3459;1739575;317744,http://en.wikipedia.org/wiki/University_of_Benin,University of Benin,university-of-benin,university-of-benin,ORG
+Benin,9854642,655,657,,http://en.wikipedia.org/wiki/Saint-Benin,Saint-Benin,saint-benin,saint-benin,ORG
+Benin,9244485,29,36,317744,http://en.wikipedia.org/wiki/Benin_Airport,Benin Airport,benin-airport,benin-airport,UNK
+Benin,25649488,347,215,3459;317744,http://en.wikipedia.org/wiki/Benin_Empire,Benin Empire,benin-empire,benin-empire,GPE
+Benin,1739575,61,23,2097268;317744,http://en.wikipedia.org/wiki/University_of_Benin_(Nigeria),University of Benin,university-of-benin,university-of-benin-nigeria,ORG
+Benin,68972,129,124,56698;3459,http://en.wikipedia.org/wiki/Geography_of_Benin,Geography of Benin,geography-of-benin,geography-of-benin,UNK

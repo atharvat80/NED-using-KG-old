@@ -1,0 +1,94 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Nasr,30702029,124,150,,http://en.wikipedia.org/wiki/An-Nasr,An-Nasr,an-nasr,an-nasr,UNK
+Nasr,17957501,250,270,,http://en.wikipedia.org/wiki/Nasr_(idol),Nasr,nasr,nasr-idol,UNK
+Nasr,15990585,89,81,,"http://en.wikipedia.org/wiki/Al_Nasr,_Dubai","Al Nasr, Dubai",al-nasr-dubai,al-nasr-dubai,UNK
+Nasr,5565272,111,71,5565272;4356495,http://en.wikipedia.org/wiki/Nasr_City,Nasr City,nasr-city,nasr-city,GPE
+Nasr,26905778,29,10,26905778,http://en.wikipedia.org/wiki/Al-Nasr_(Afghanistan),Al-Nasr,al-nasr,al-nasr-afghanistan,UNK
+Nasr,31548066,15,86,,http://en.wikipedia.org/wiki/Nasr_(missile),Nasr,nasr,nasr-missile,UNK
+Nasr,12535043,15,13,12535043,"http://en.wikipedia.org/wiki/Nasr,_Sultan_of_Granada","Nasr, Sultan of Granada",nasr-sultan-of-granada,nasr-sultan-of-granada,UNK
+Nasr,183442,177,321,,http://en.wikipedia.org/wiki/Hossein_Nasr,Hossein Nasr,hossein-nasr,hossein-nasr,PER
+Nasr,3299357,34,37,,http://en.wikipedia.org/wiki/Nasr_II,Nasr II,nasr-ii,nasr-ii,UNK
+Nasr,4356495,16,42,5565272,http://en.wikipedia.org/wiki/Nasr_(car_company),Nasr,nasr,nasr-car-company,UNK
+TRIPOLI,268796,552,126,5537884;256428;31232;17771;11321906;12181551;8615560,"http://en.wikipedia.org/wiki/Tripoli,_Lebanon","Tripoli, Lebanon",tripoli-lebanon,tripoli-lebanon,GPE
+TRIPOLI,483424,347,181,11964212;17771;19343476,"http://en.wikipedia.org/wiki/Tripoli,_Greece","Tripoli, Greece",tripoli-greece,tripoli-greece,UNK
+TRIPOLI,12181551,45,49,268796;17771;12181551;23699054,http://en.wikipedia.org/wiki/Tripoli_District,Tripoli District,tripoli-district,tripoli-district,GPE
+TRIPOLI,26117338,0,2,26127043,http://en.wikipedia.org/wiki/Tripoli_Lake,Tripoli Lake,tripoli-lake,tripoli-lake,UNK
+TRIPOLI,24182441,93,112,,"http://en.wikipedia.org/wiki/Tripoli,_Wisconsin","Tripoli, Wisconsin",tripoli-wisconsin,tripoli-wisconsin,GPE
+TRIPOLI,19343476,1,10,483424;11964212,http://en.wikipedia.org/wiki/Tripoli_Airport_(Greece),Tripoli Airport,tripoli-airport,tripoli-airport-greece,UNK
+TRIPOLI,26127043,3,21,26117338,http://en.wikipedia.org/wiki/Tripoli_Lake_(Algoma_District),Tripoli Lake,tripoli-lake,tripoli-lake-algoma-district,UNK
+TRIPOLI,588056,52,81,31232;554703,http://en.wikipedia.org/wiki/USS_Tripoli_(LPH-10),USS Tripoli,uss-tripoli,uss-tripoli-lph-10,UNK
+TRIPOLI,23699054,53,44,31232;12181551,"http://en.wikipedia.org/wiki/Tripoli_District,_Libya","Tripoli District, Libya",tripoli-district-libya,tripoli-district-libya,GPE
+TRIPOLI,31232,2439,493,268796;29292793;11964212;24751670;17771;17773;689;23699054;33923268;1024229;588056;349303;2940252;31232;8615560,http://en.wikipedia.org/wiki/Tripoli,Tripoli,tripoli,tripoli,GPE
+TRIPOLI,2940252,211,159,11964212;24751670;31232;8615560;349303;2940252,http://en.wikipedia.org/wiki/Tripoli_International_Airport,Tripoli International Airport,tripoli-international-airport,tripoli-international-airport,UNK
+TRIPOLI,256428,240,118,268796;17771,http://en.wikipedia.org/wiki/County_of_Tripoli,County of Tripoli,county-of-tripoli,county-of-tripoli,GPE
+TRIPOLI,11964212,5,7,19343476;31232;2940252;483424,http://en.wikipedia.org/wiki/Tripoli_Airport,Tripoli Airport,tripoli-airport,tripoli-airport,UNK
+TRIPOLI,26126762,0,15,,http://en.wikipedia.org/wiki/Tripoli_Lake_(Kenora_District),Tripoli Lake,tripoli-lake,tripoli-lake-kenora-district,UNK
+TRIPOLI,5537884,53,58,268796;17771,http://en.wikipedia.org/wiki/Tripoli_SC,Tripoli SC,tripoli-sc,tripoli-sc,UNK
+TRIPOLI,554703,3,7,554016;588056,http://en.wikipedia.org/wiki/USS_Tripoli,USS Tripoli,uss-tripoli,uss-tripoli,UNK
+TRIPOLI,29292793,22,156,31232,http://en.wikipedia.org/wiki/Tripoli_Province,Tripoli Province,tripoli-province,tripoli-province,UNK
+TRIPOLI,33923268,1,11,31232,http://en.wikipedia.org/wiki/Tripoli_Tower,Tripoli Tower,tripoli-tower,tripoli-tower,UNK
+TRIPOLI,554016,78,96,554703,http://en.wikipedia.org/wiki/USS_Tripoli_(CVE-64),USS Tripoli,uss-tripoli,uss-tripoli-cve-64,UNK
+TRIPOLI,24751670,241,223,31232;8615560;2940252,http://en.wikipedia.org/wiki/Siege_of_Tripoli_(1551),Siege of Tripoli,siege-of-tripoli,siege-of-tripoli-1551,UNK
+TRIPOLI,112785,39,60,,"http://en.wikipedia.org/wiki/Tripoli,_Iowa","Tripoli, Iowa",tripoli-iowa,tripoli-iowa,GPE
+TRIPOLI,8615560,76,85,268796;24751670;31232;8615560;2940252,http://en.wikipedia.org/wiki/University_of_Tripoli,University of Tripoli,university-of-tripoli,university-of-tripoli,ORG
+Lebanon,17771,15051,477,689;381121;12181551;349303;483424;132955;1032359;112138;294770;17771;17773;1024229;268796;256428;115332;11321906;5537884;3285435;18019911;16497130;31232,http://en.wikipedia.org/wiki/Lebanon,Lebanon,lebanon,lebanon,GPE
+Lebanon,134107,54,62,,"http://en.wikipedia.org/wiki/Lebanon_Township,_Wayne_County,_Pennsylvania","Lebanon Township, Wayne County, Pennsylvania",lebanon-township-wayne-county-pennsylvania,lebanon-township-wayne-county-pennsylvania,GPE
+Lebanon,27284785,35,39,,"http://en.wikipedia.org/wiki/Lebanon_Church,_Virginia","Lebanon Church, Virginia",lebanon-church-virginia,lebanon-church-virginia,GPE
+Lebanon,139981,75,89,141743,"http://en.wikipedia.org/wiki/Lebanon,_Waupaca_County,_Wisconsin","Lebanon, Waupaca County, Wisconsin",lebanon-waupaca-county-wisconsin,lebanon-waupaca-county-wisconsin,GPE
+Lebanon,4838578,8,6,,"http://en.wikipedia.org/wiki/Lebanon,_Georgia","Lebanon, Georgia",lebanon-georgia,lebanon-georgia,UNK
+Lebanon,137755,248,230,,"http://en.wikipedia.org/wiki/Lebanon,_Virginia","Lebanon, Virginia",lebanon-virginia,lebanon-virginia,GPE
+Lebanon,126612,43,21,689;108819,"http://en.wikipedia.org/wiki/Lebanon,_New_York","Lebanon, New York",lebanon-new-york,lebanon-new-york,GPE
+Lebanon,12573192,35,66,124691,http://en.wikipedia.org/wiki/Lebanon_College,Lebanon College,lebanon-college,lebanon-college,UNK
+Lebanon,1024229,247,170,381121;31232;17771,http://en.wikipedia.org/wiki/Greater_Lebanon,Greater Lebanon,greater-lebanon,greater-lebanon,GPE
+Lebanon,33571451,85,100,141743;138943;29899292,"http://en.wikipedia.org/wiki/Old_Lebanon,_Wisconsin","Old Lebanon, Wisconsin",old-lebanon-wisconsin,old-lebanon-wisconsin,GPE
+Lebanon,9552987,67,322,1290681;111925,"http://en.wikipedia.org/wiki/Lebanon_Township,_St._Clair_County,_Illinois","Lebanon Township, St. Clair County, Illinois",lebanon-township-st-clair-county-illinois,lebanon-township-st-clair-county-illinois,UNK
+Lebanon,1290681,0,8,9552987;22787430;13218530,http://en.wikipedia.org/wiki/Lebanon_Township,Lebanon Township,lebanon-township,lebanon-township,GPE
+Lebanon,124691,383,390,108819;12573192,"http://en.wikipedia.org/wiki/Lebanon,_New_Hampshire","Lebanon, New Hampshire",lebanon-new-hampshire,lebanon-new-hampshire,GPE
+Lebanon,11321906,423,260,268796;17771;17773;11321906;381121,http://en.wikipedia.org/wiki/2007_Lebanon_conflict,2007 Lebanon conflict,2007-lebanon-conflict,2007-lebanon-conflict,UNK
+Lebanon,381121,353,38,1024229;17771;17773;11321906,http://en.wikipedia.org/wiki/Mount_Lebanon,Mount Lebanon,mount-lebanon,mount-lebanon,UNK
+Lebanon,22787430,29,42,1290681,"http://en.wikipedia.org/wiki/Lebanon_Township,_Cooper_County,_Missouri","Lebanon Township, Cooper County, Missouri",lebanon-township-cooper-county-missouri,lebanon-township-cooper-county-missouri,GPE
+Lebanon,10306195,1,1,,"http://en.wikipedia.org/wiki/Lebanon,_MO_μSA","Lebanon, MO μSA",lebanon-mo-μsa,lebanon-mo-μsa,PER
+Lebanon,17773,129,170,381121;27270;31232;17771;17773;11321906,http://en.wikipedia.org/wiki/Geography_of_Lebanon,Geography of Lebanon,geography-of-lebanon,geography-of-lebanon,UNK
+Lebanon,141743,0,4,139981;29899292;138943;33571451,"http://en.wikipedia.org/wiki/Lebanon,_Wisconsin","Lebanon, Wisconsin",lebanon-wisconsin,lebanon-wisconsin,UNK
+Lebanon,125358,82,166,148898,"http://en.wikipedia.org/wiki/Lebanon,_New_Jersey","Lebanon, New Jersey",lebanon-new-jersey,lebanon-new-jersey,GPE
+Lebanon,111925,193,210,9552987,"http://en.wikipedia.org/wiki/Lebanon,_Illinois","Lebanon, Illinois",lebanon-illinois,lebanon-illinois,GPE
+Lebanon,135426,390,231,,"http://en.wikipedia.org/wiki/Lebanon,_Tennessee","Lebanon, Tennessee",lebanon-tennessee,lebanon-tennessee,GPE
+Lebanon,3251611,1,6,,"http://en.wikipedia.org/wiki/Lebanon,_Colorado","Lebanon, Colorado",lebanon-colorado,lebanon-colorado,GPE
+Lebanon,9852590,2,1,,"http://en.wikipedia.org/wiki/Lebanon,_NH-VT_μSA","Lebanon, NH-VT μSA",lebanon-nh-vt-μsa,lebanon-nh-vt-μsa,PER
+Lebanon,108819,159,183,124691;126612,"http://en.wikipedia.org/wiki/Lebanon,_Connecticut","Lebanon, Connecticut",lebanon-connecticut,lebanon-connecticut,GPE
+Lebanon,15525340,0,8,,http://en.wikipedia.org/wiki/Lebanon_Airport,Lebanon Airport,lebanon-airport,lebanon-airport,UNK
+Lebanon,18745785,0,1,,"http://en.wikipedia.org/wiki/Lebanon,_MO_µSA","Lebanon, MO µSA",lebanon-mo-µsa,lebanon-mo-µsa,PER
+Lebanon,13218530,22,31,1290681,"http://en.wikipedia.org/wiki/Lebanon_Township,_Durham_County,_North_Carolina","Lebanon Township, Durham County, North Carolina",lebanon-township-durham-county-north-carolina,lebanon-township-durham-county-north-carolina,GPE
+Lebanon,29899292,86,101,141743;138943;33571451,"http://en.wikipedia.org/wiki/Lebanon_(CDP),_Wisconsin","Lebanon (CDP), Wisconsin",lebanon-cdp-wisconsin,lebanon-cdp-wisconsin,GPE
+Lebanon,115500,24,41,,"http://en.wikipedia.org/wiki/Mount_Lebanon,_Louisiana","Mount Lebanon, Louisiana",mount-lebanon-louisiana,mount-lebanon-louisiana,GPE
+Lebanon,16497130,4,23,16491343;17771,http://en.wikipedia.org/wiki/USS_Lebanon_(AG-2),USS Lebanon,uss-lebanon,uss-lebanon-ag-2,UNK
+Lebanon,22971426,36,55,,"http://en.wikipedia.org/wiki/Lebanon,_Hardin_County,_Tennessee","Lebanon, Hardin County, Tennessee",lebanon-hardin-county-tennessee,lebanon-hardin-county-tennessee,GPE
+Lebanon,138943,95,103,141743;29899292;33571451,"http://en.wikipedia.org/wiki/Lebanon,_Dodge_County,_Wisconsin","Lebanon, Dodge County, Wisconsin",lebanon-dodge-county-wisconsin,lebanon-dodge-county-wisconsin,GPE
+Lebanon,18745788,0,1,,"http://en.wikipedia.org/wiki/Lebanon,_NH-VT_µSA","Lebanon, NH-VT µSA",lebanon-nh-vt-µsa,lebanon-nh-vt-µsa,PER
+Lebanon,115332,221,184,17771,"http://en.wikipedia.org/wiki/Lebanon,_Kentucky","Lebanon, Kentucky",lebanon-kentucky,lebanon-kentucky,GPE
+Lebanon,21126210,8,193,132955,http://en.wikipedia.org/wiki/Lebanon_Valley,Lebanon Valley,lebanon-valley,lebanon-valley,UNK
+Lebanon,16498018,79,82,16491343,http://en.wikipedia.org/wiki/USS_Lebanon_(AK-191),USS Lebanon,uss-lebanon,uss-lebanon-ak-191,UNK
+Lebanon,16491343,3,2,16497130;16498018,http://en.wikipedia.org/wiki/USS_Lebanon,USS Lebanon,uss-lebanon,uss-lebanon,UNK
+Lebanon,9669086,13,18,,"http://en.wikipedia.org/wiki/Lebanon,_Texas","Lebanon, Texas",lebanon-texas,lebanon-texas,UNK
+Lebanon,18019911,6,14,17771,http://en.wikipedia.org/wiki/Lebanon_(painting),Lebanon,lebanon,lebanon-painting,UNK
+Lebanon,112138,230,242,17771,"http://en.wikipedia.org/wiki/Lebanon,_Indiana","Lebanon, Indiana",lebanon-indiana,lebanon-indiana,GPE
+Lebanon,132955,753,415,21126210;17771,"http://en.wikipedia.org/wiki/Lebanon,_Pennsylvania","Lebanon, Pennsylvania",lebanon-pennsylvania,lebanon-pennsylvania,GPE
+Saudi Arabia,349303,14910,854,689;349303;1032359;294770;17771;2940252;3252108;27270;31232,http://en.wikipedia.org/wiki/Saudi_Arabia,Saudi Arabia,saudi-arabia,saudi-arabia,GPE
+Saudi Arabia,3252108,63,38,349303,http://en.wikipedia.org/wiki/Saudi_Arabian_Boy_Scouts_Association,Saudi Arabian Boy Scouts Association,saudi-arabian-boy-scouts-association,saudi-arabian-boy-scouts-association,ORG
+Saudi Arabia,1032359,1636,485,17771;689;349303,http://en.wikipedia.org/wiki/Saudi_Arabia_national_football_team,Saudi Arabia national football team,saudi-arabia-national-football-team,saudi-arabia-national-football-team,UNK
+Saudi Arabia,27270,305,227,27270;17773;349303,http://en.wikipedia.org/wiki/Geography_of_Saudi_Arabia,Geography of Saudi Arabia,geography-of-saudi-arabia,geography-of-saudi-arabia,UNK
+Asian,689,15995,576,689;349303;3095397;1032359;294770;17771;1791512;18855594;148898;126612;22707588;31232,http://en.wikipedia.org/wiki/Asia,Asia,asia,asia,UNK
+Asian,22707588,72,88,689,http://en.wikipedia.org/wiki/Asian_GAA,Asian GAA,asian-gaa,asian-gaa,ORG
+Asian,19889842,4,7,19889842,http://en.wikipedia.org/wiki/Asian_Culture_(journal),Asian Culture,asian-culture,asian-culture-journal,ORG
+Asian,1749326,388,437,148898;18855594,http://en.wikipedia.org/wiki/British_Asian,British Asian,british-asian,british-asian,UNK
+Asian,294770,883,538,294770;17771;18855594;689;349303,http://en.wikipedia.org/wiki/Asian_cuisine,Asian cuisine,asian-cuisine,asian-cuisine,UNK
+Asian,18855594,1196,452,294770;18855594;689;3095397;148898;1749326,http://en.wikipedia.org/wiki/Asian_people,Asian people,asian-people,asian-people,ORG
+Asian,11444751,0,4,,http://en.wikipedia.org/wiki/Asian_cat,Asian cat,asian-cat,asian-cat,UNK
+Asian,1002559,15,56,,http://en.wikipedia.org/wiki/Asian_giant_hornet,Asian giant hornet,asian-giant-hornet,asian-giant-hornet,UNK
+Asian,3095397,7,24,148898;689;18855594,http://en.wikipedia.org/wiki/Asian_pride,Asian pride,asian-pride,asian-pride,ORG
+Asian,1791512,86,44,689,http://en.wikipedia.org/wiki/Asian_witchcraft,Asian witchcraft,asian-witchcraft,asian-witchcraft,UNK
+Asian,39199296,2,22,,http://en.wikipedia.org/wiki/Asian_Institute,Asian Institute,asian-institute,asian-institute,UNK
+Asian,8016410,20,6,8016410,http://en.wikipedia.org/wiki/Asian_Airlines,Asian Airlines,asian-airlines,asian-airlines,ORG
+Asian,3621955,83,81,,http://en.wikipedia.org/wiki/Asian_University,Asian University,asian-university,asian-university,ORG
+Asian,3285435,1437,239,17771;3285435,http://en.wikipedia.org/wiki/2010_Asian_Games,2010 Asian Games,2010-asian-games,2010-asian-games,UNK
+Asian,148898,3610,502,18855594;689;148898;1749326;3095397;125358,http://en.wikipedia.org/wiki/Asian_American,Asian American,asian-american,asian-american,UNK

@@ -1,0 +1,385 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+EUROLEAGUE,540056,1141,463,4443;4920157;702389;5551651;4739242;3730799;3830347;769536;1396057;297809;7116249;14532;9282173;1969800;3227322;630298;4431555;630309;34244;27338;5843419;8617329;13615982;3343;25391;12108;11125639;26667;1973041;630196;630203;35608495,http://en.wikipedia.org/wiki/Euroleague_Basketball,Euroleague Basketball,euroleague-basketball,euroleague-basketball,ORG
+EUROLEAGUE,8617329,446,180,13058;4443;5843419;11867;8617329;34460948;25391;12108;11125639;26667;540056;297809;14532,http://en.wikipedia.org/wiki/EuroLeague_Women,EuroLeague Women,euroleague-women,euroleague-women,ORG
+LONDON,17867,92094,1769,11125639;5843419;3343;4443;33567266;27902154;5573;423106;11867;12249;12108;1679120;565613;14532;823473;17867;13190957;715240;25391;27338;26667;25127146;33166;177195;42374;11471837;1290035;35608495;679716;187448;3879356;2879398;2023355;630309;18952408;22437586;98370;238524;232269;609825;118409;1113158;362466;250197;23979191;743577,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,326248,1048,124,,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,187448,1900,216,823473;17867;508567;640154;3343;12108,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,2023355,27,32,17867;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,238524,118,60,17867,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,12249,3253,543,2193334;17867;25391;11125639;640154;5843419;11867;26667;118409;1113158;1679120;14532;98370;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,118409,547,127,17867;12249,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,7984054,3,37,,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,13190957,2,122,17867,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,1679120,12,181,17867;98370;12249,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+EuroLeague,540056,1141,463,4443;4920157;702389;5551651;4739242;3730799;3830347;769536;1396057;297809;7116249;14532;9282173;1969800;3227322;630298;4431555;630309;34244;27338;5843419;8617329;13615982;3343;25391;12108;11125639;26667;1973041;630196;630203;35608495,http://en.wikipedia.org/wiki/Euroleague_Basketball,Euroleague Basketball,euroleague-basketball,euroleague-basketball,ORG
+EuroLeague,8617329,446,180,13058;4443;5843419;11867;8617329;34460948;25391;12108;11125639;26667;540056;297809;14532,http://en.wikipedia.org/wiki/EuroLeague_Women,EuroLeague Women,euroleague-women,euroleague-women,ORG
+CSKA Moscow,4431555,587,289,19543180;4431552;966935;630309;861274;5573;27338;4920157;11867;702389;5551651;13615830;7740223;4739242;3343;3730799;25391;12108;11125639;1396057;540056;7116249;14532;34577245;9282173;1969800;630196;35608495,http://en.wikipedia.org/wiki/PBC_CSKA_Moscow,PBC CSKA Moscow,pbc-cska-moscow,pbc-cska-moscow,ORG
+CSKA Moscow,861274,1458,456,19543180;966935;68187;34460948;968856;715240;243500;14532;4431555;4431552;861274;5573;861284;11867;3343;25391;12108;25127146;11125639;26667;34577245,http://en.wikipedia.org/wiki/PFC_CSKA_Moscow,PFC CSKA Moscow,pfc-cska-moscow,pfc-cska-moscow,UNK
+CSKA Moscow,34577245,32,22,861274;19543180;34460948;25391;4431555;4431552;966935,http://en.wikipedia.org/wiki/MFK_CSKA_Moscow,MFK CSKA Moscow,mfk-cska-moscow,mfk-cska-moscow,UNK
+CSKA Moscow,966935,300,69,19543180;4431555;4431552;861274;34577245;34460948;25391,http://en.wikipedia.org/wiki/CSKA_Moscow,CSKA Moscow,cska-moscow,cska-moscow,UNK
+CSKA Moscow,19543180,19,37,861274;34577245;34460948;25391;968856;4431555;4431552;966935,http://en.wikipedia.org/wiki/CSKA_Moscow_Stadium,CSKA Moscow Stadium,cska-moscow-stadium,cska-moscow-stadium,UNK
+CSKA Moscow,34460948,40,7,861274;34577245;19543180;25391;4431552;966935;8617329,http://en.wikipedia.org/wiki/WBC_CSKA_Moscow,WBC CSKA Moscow,wbc-cska-moscow,wbc-cska-moscow,UNK
+CSKA Moscow,4431552,644,434,19543180;966935;34460948;1246931;4431555;4431552;861274;5573;27338;25391;34577245,http://en.wikipedia.org/wiki/HC_CSKA_Moscow,HC CSKA Moscow,hc-cska-moscow,hc-cska-moscow,UNK
+Russia,25391,96899,1757,11125639;5843419;3343;4443;1526308;1246931;5573;36357015;11867;12249;12108;13058;966935;1396057;968856;14532;17867;4739242;8617329;3227322;715240;575984;588941;12236643;25702;25391;9282173;27338;26667;25127146;13824333;12233108;4131857;7116249;525972;525971;7674863;13615830;42374;540056;46216;35608495;25034051;19543180;9384268;61406;679716;14038363;2424256;21805600;1338528;2879398;5688654;21493015;10892530;3730799;769536;630309;67302;67473;68187;4431555;4431552;479389;34460948;10761758;7160145;20611504;7873254;34577245;4127601;36638162;3821983;1008145;243500;7740223;597862;609825;1969800;362466;9804204;2818394;250197;861274;861284;18020135;4091317,http://en.wikipedia.org/wiki/Russia,Russia,russia,russia,GPE
+Russia,126524,53,68,,"http://en.wikipedia.org/wiki/Russia,_New_York","Russia, New York",russia-new-york,russia-new-york,GPE
+Russia,1526308,569,334,1526308;25391;20611504;588941;9282173,http://en.wikipedia.org/wiki/Russian_Air_Force,Russian Air Force,russian-air-force,russian-air-force,ORG
+Russia,10892530,33,74,10892530;18020135;25391;525972,http://en.wikipedia.org/wiki/Great_Russia_(political_party),Great Russia,great-russia,great-russia-political-party,UNK
+Russia,11471837,31,16,17867;525971,"http://en.wikipedia.org/wiki/Little_Russia,_London","Little Russia, London",little-russia-london,little-russia-london,GPE
+Russia,588941,130,294,610738;1526308;25391,http://en.wikipedia.org/wiki/Russia_and_weapons_of_mass_destruction,Russia and weapons of mass destruction,russia-and-weapons-of-mass-destruction,russia-and-weapons-of-mass-destruction,UNK
+Russia,25127146,1379,474,722668;17867;715240;769536;362466;25391;609825;968856;782786;1008145;243500;743577;14532;9282173;250204;250197;861274;5843419;11867;3343;26667;679716,http://en.wikipedia.org/wiki/Russia_national_football_team,Russia national football team,russia-national-football-team,russia-national-football-team,ORG
+Russia,9384268,7,195,644329;25391,http://en.wikipedia.org/wiki/Russia-1,Russia-1,russia-1,russia-1,UNK
+Russia,2818394,130,157,2818394;25391,http://en.wikipedia.org/wiki/Russia_Tower,Russia Tower,russia-tower,russia-tower,UNK
+Russia,7873254,176,179,25391,http://en.wikipedia.org/wiki/Russian_Chess_Championship,Russian Chess Championship,russian-chess-championship,russian-chess-championship,UNK
+Russia,18020135,97,115,20611504;10892530;18020135;803752;25391;1917091,http://en.wikipedia.org/wiki/Greater_Russia,Greater Russia,greater-russia,greater-russia,UNK
+Russia,4091317,202,519,4091317;25391;2326241;20611504;25702;1338528,http://en.wikipedia.org/wiki/LGBT_rights_in_Russia,LGBT rights in Russia,lgbt-rights-in-russia,lgbt-rights-in-russia,UNK
+Russia,25702,339,588,4091317;67302;21493015;5575;27340;22734452;25391;67472;20611504;30199;14699;14687;25702;1338528,http://en.wikipedia.org/wiki/Geography_of_Russia,Geography of Russia,geography-of-russia,geography-of-russia,UNK
+Russia,129821,48,76,,"http://en.wikipedia.org/wiki/Russia,_Ohio","Russia, Ohio",russia-ohio,russia-ohio,GPE
+Russia,121404,79,101,121335,"http://en.wikipedia.org/wiki/Russia_Township,_Polk_County,_Minnesota","Russia Township, Polk County, Minnesota",russia-township-polk-county-minnesota,russia-township-polk-county-minnesota,GPE
+Russia,20611504,12186,703,1338528;2879398;11125639;5843419;3343;1526308;525971;1639662;12108;565613;20611504;9804204;25702;25391;18020135;26667;4091317,http://en.wikipedia.org/wiki/Russian_Empire,Russian Empire,russian-empire,russian-empire,GPE
+Russia,21805600,0,70,25391,http://en.wikipedia.org/wiki/Russia-K,Russia-K,russia-k,russia-k,ORG
+Russia,1338528,556,124,4091317;25391;20611504;25702,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+Russia,3821983,291,173,3821983;25391,http://en.wikipedia.org/wiki/1998_Russian_financial_crisis,1998 Russian financial crisis,1998-russian-financial-crisis,1998-russian-financial-crisis,UNK
+Russia,21599323,3,24,,http://en.wikipedia.org/wiki/Mr_Russia,Mr Russia,mr-russia,mr-russia,UNK
+Russia,10761758,242,162,25391;10761758,http://en.wikipedia.org/wiki/Church_of_Scientology_Moscow_v._Russia,Church of Scientology Moscow v. Russia,church-of-scientology-moscow-v-russia,church-of-scientology-moscow-v-russia,UNK
+Russia,525972,31,17,10892530;25391;525971,http://en.wikipedia.org/wiki/Great_Russia,Great Russia,great-russia,great-russia,UNK
+Russia,525971,186,136,20611504;525972;11471837;25391,http://en.wikipedia.org/wiki/Little_Russia,Little Russia,little-russia,little-russia,UNK
+Italy,14532,127197,1418,5843419;3343;4443;5573;11809;11867;12249;12108;23623088;14701;14699;14532;17867;1942377;265585;6108533;25391;273633;9282173;27340;27338;26667;33166;34244;39237;1639662;42374;540056;3867414;297809;41381137;61406;2879398;630298;630309;67302;67473;67472;68187;1884591;1873263;897351;18952408;15391883;609825;362466;9804204;861274;861284;127616;11125639;411234;135842;8617329;7097184;715240;25127146;7116249;175228;7674863;35608495;679716;14038363;2424256;25036290;3730799;769536;4431555;2194994;15850865;4920157;758372;7160145;782786;1008145;243500;722668;232269;1969800;1484334;250204;250197;743577,http://en.wikipedia.org/wiki/Italy,Italy,italy,italy,GPE
+Italy,15540697,55,88,1171144;2170833;704114;35158464;23623088;4304258;1942377;1884591;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Clay_County,_West_Virginia","Little Italy, Clay County, West Virginia",little-italy-clay-county-west-virginia,little-italy-clay-county-west-virginia,GPE
+Italy,135842,51,56,14532,"http://en.wikipedia.org/wiki/Italy,_Texas","Italy, Texas",italy-texas,italy-texas,GPE
+Italy,127616,31,48,14532,"http://en.wikipedia.org/wiki/Italy,_New_York","Italy, New York",italy-new-york,italy-new-york,GPE
+Italy,6108533,54,53,14532;6122287;6108409,http://en.wikipedia.org/wiki/Italy_(Epcot),Italy,italy,italy-epcot,UNK
+Italy,1884591,256,167,2170833;704114;4304258;1484334;11805457;35158589;15391883;758372;11752595;411234;14532;20789349;1171144;15540697;23623088;1942377;8684049;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_San_Diego","Little Italy, San Diego",little-italy-san-diego,little-italy-san-diego,UNK
+Italy,1171144,179,81,2170833;704114;4304258;1484334;11805457;35158589;15391883;758372;11752595;411234;20789349;15540697;23623088;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Vancouver","Little Italy, Vancouver",little-italy-vancouver,little-italy-vancouver,UNK
+Italy,1639662,560,249,1873263;11867;20611504;26667;18952408;9804204;14532,http://en.wikipedia.org/wiki/Kingdom_of_Italy_(Napoleonic),Kingdom of Italy,kingdom-of-italy,kingdom-of-italy-napoleonic,GPE
+Italy,14169617,48,64,,http://en.wikipedia.org/wiki/Italy_Records,Italy Records,italy-records,italy-records,ORG
+Italy,265592,342,391,704114;4304258;1484334;758372;11752595;1171144;23623088;1884591;265592;265585;2170833;11805457;35158589;15391883;411234;20789349;15540697;1942377;8684049,http://en.wikipedia.org/wiki/Little_Italy,Little Italy,little-italy,little-italy,UNK
+Italy,704114,136,39,2170833;20789349;4304258;1484334;11805457;35158589;1171144;15540697;15391883;23623088;758372;1942377;8684049;1884591;11752595;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Ottawa","Little Italy, Ottawa",little-italy-ottawa,little-italy-ottawa,GPE
+Italy,11752595,7,27,704114;23623088;1171144;4304258;1942377;1884591;2170833;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Wilmington","Little Italy, Wilmington",little-italy-wilmington,little-italy-wilmington,UNK
+Italy,25036290,1434,275,362466;3867414;14532;24554128,http://en.wikipedia.org/wiki/Italy_national_under-19_football_team,Italy national under-19 football team,italy-national-under-19-football-team,italy-national-under-19-football-team,UNK
+Italy,11805457,20,107,2170833;704114;4304258;1484334;1171144;23623088;1942377;1884591;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Omaha","Little Italy, Omaha",little-italy-omaha,little-italy-omaha,UNK
+Italy,20789349,0,30,704114;23623088;4304258;1171144;1942377;1884591;2170833;411234;265592;265585;1484334,http://en.wikipedia.org/wiki/Little_Italy_(Bridgeport),Little Italy,little-italy,little-italy-bridgeport,UNK
+Italy,1942377,326,277,704114;4304258;1484334;758372;11752595;1171144;23623088;1884591;265592;265585;2170833;11805457;35158589;15391883;411234;14532;20789349;15540697;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Chicago","Little Italy, Chicago",little-italy-chicago,little-italy-chicago,UNK
+Italy,23623088,279,142,2170833;704114;4304258;1484334;11805457;35158589;15391883;362466;758372;11752595;411234;14532;20789349;1171144;15540697;23623088;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Melbourne","Little Italy, Melbourne",little-italy-melbourne,little-italy-melbourne,UNK
+Italy,16730206,14,20,,http://en.wikipedia.org/wiki/I.T.A.L.Y.,I.T.A.L.Y.,italy,italy,UNK
+Italy,35158464,0,2,35158589;15540697,"http://en.wikipedia.org/wiki/Little_Italy,_West_Virginia","Little Italy, West Virginia",little-italy-west-virginia,little-italy-west-virginia,UNK
+Italy,897351,708,300,13058;33166;897351;14701;14699;9804204;14532;2170833;26667,http://en.wikipedia.org/wiki/Southern_Italy,Southern Italy,southern-italy,southern-italy,UNK
+Italy,9804204,2281,660,897351;18952408;2687967;20599016;2879398;5573;1873263;232269;3190225;25391;11125639;1639662;14701;297809;14532;34244;27338;5843419;11867;15850865;3343;12108;20611504;42374,http://en.wikipedia.org/wiki/Kingdom_of_Italy,Kingdom of Italy,kingdom-of-italy,kingdom-of-italy,GPE
+Italy,4304258,128,26,2170833;20789349;704114;1484334;11805457;35158589;1171144;15540697;15391883;23623088;758372;1942377;8684049;1884591;11752595;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Winnipeg","Little Italy, Winnipeg",little-italy-winnipeg,little-italy-winnipeg,UNK
+Italy,758372,48,75,1171144;2170833;14532;704114;23623088;4304258;1942377;1884591;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Syracuse","Little Italy, Syracuse",little-italy-syracuse,little-italy-syracuse,UNK
+Italy,14699,202,305,30199;14701;14699;67302;21493015;5575;27340;27338;5843419;25702;22734452;14532;897351;67472,http://en.wikipedia.org/wiki/Geography_of_Italy,Geography of Italy,geography-of-italy,geography-of-italy,UNK
+Italy,265585,408,307,704114;4304258;1484334;362466;758372;11752595;883816;1171144;23623088;1884591;265592;2170833;11805457;35158589;15391883;411234;14532;20789349;15540697;1942377;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Manhattan","Little Italy, Manhattan",little-italy-manhattan,little-italy-manhattan,GPE
+Italy,8684049,9,28,704114;23623088;1171144;4304258;1942377;1884591;2170833;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Paterson","Little Italy, Paterson",little-italy-paterson,little-italy-paterson,UNK
+Italy,2170833,240,148,704114;4304258;1484334;11805457;35158589;15391883;758372;11752595;411234;20789349;1171144;15540697;23623088;1942377;8684049;1884591;897351;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Montreal","Little Italy, Montreal",little-italy-montreal,little-italy-montreal,GPE
+Italy,35158589,73,113,2170833;704114;35158464;4304258;1484334;1171144;23623088;1942377;1884591;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Randolph_County,_West_Virginia","Little Italy, Randolph County, West Virginia",little-italy-randolph-county-west-virginia,little-italy-randolph-county-west-virginia,GPE
+Italy,1873263,160,203,9804204;1639662;14532,http://en.wikipedia.org/wiki/Roman_Italy,Roman Italy,roman-italy,roman-italy,UNK
+Italy,15391883,1,42,704114;23623088;1171144;4304258;1942377;1884591;2170833;411234;265592;265585;14532;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Connellsville","Little Italy, Connellsville",little-italy-connellsville,little-italy-connellsville,UNK
+Italy,411234,496,398,704114;4304258;1484334;758372;11752595;1171144;23623088;1884591;265592;265585;2170833;11805457;35158589;15391883;14532;20789349;15540697;1942377;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Toronto","Little Italy, Toronto",little-italy-toronto,little-italy-toronto,GPE
+Italy,3867414,1771,347,362466;5536860;14532;25036290;5843419;11867;26667;3313708,http://en.wikipedia.org/wiki/Italy_national_under-21_football_team,Italy national under-21 football team,italy-national-under-21-football-team,italy-national-under-21-football-team,ORG
+Italy,1484334,345,214,2170833;704114;4304258;11805457;35158589;15391883;758372;11752595;411234;14532;20789349;1171144;15540697;23623088;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Baltimore","Little Italy, Baltimore",little-italy-baltimore,little-italy-baltimore,GPE
+Italy,41381137,11,73,14701;14532,http://en.wikipedia.org/wiki/For_Italy,For Italy,for-italy,for-italy,UNK
+Italy,362466,4391,862,722668;17867;25391;265585;3867414;33166;609825;1008145;297809;250204;250197;25036290;5843419;11867;3343;26667;679716;715240;769536;5573;362466;23623088;25127146;782786;743577;14532,http://en.wikipedia.org/wiki/Italy_national_football_team,Italy national football team,italy-national-football-team,italy-national-football-team,ORG
+Italy,14701,1074,423,41381137;897351;14701;14699;9804204;14532;11809;5843419;11867;12112,http://en.wikipedia.org/wiki/Politics_of_Italy,Politics of Italy,politics-of-italy,politics-of-italy,UNK
+Maccabi Tel Aviv,630196,564,242,4431555;630309;34244;5573;861284;5843419;11867;702389;5551651;13615830;4739242;3730799;12108;3830347;1396057;540056;7116249;9282173;1969800;630203;35608495,http://en.wikipedia.org/wiki/Maccabi_Tel_Aviv_B.C.,Maccabi Tel Aviv B.C.,maccabi-tel-aviv-bc,maccabi-tel-aviv-bc,ORG
+Maccabi Tel Aviv,630203,130,19,9282173;41230048;540056;861284;630196,http://en.wikipedia.org/wiki/Maccabi_Tel_Aviv,Maccabi Tel Aviv,maccabi-tel-aviv,maccabi-tel-aviv,UNK
+Maccabi Tel Aviv,861284,1077,623,68187;1053145;769536;243500;14532;9282173;861274;5573;5843419;11867;25391;12108;11125639;26667;630196;630203,http://en.wikipedia.org/wiki/Maccabi_Tel_Aviv_F.C.,Maccabi Tel Aviv F.C.,maccabi-tel-aviv-fc,maccabi-tel-aviv-fc,UNK
+Maccabi Tel Aviv,41230048,0,6,9282173;630203,http://en.wikipedia.org/wiki/MaccabI_Tel_Aviv_(handball),MaccabI Tel Aviv,maccabi-tel-aviv,maccabi-tel-aviv-handball,UNK
+Israel,9282173,39459,898,11125639;5843419;3343;2326241;4443;1526308;3730799;769536;630298;630309;5573;630196;630203;1340538;4431555;14083292;479389;11867;12108;4920157;14687;14532;17424;4739242;5741112;6104877;575984;12236643;25391;9282173;27338;26667;18952408;25127146;1515679;216248;41230048;1490969;7116249;8561774;1008145;7740223;39237;1433845;597862;803752;13615830;540056;13341685;46216;35608495;52949;610738;3313708;27989636;861284;679716;33610767;2424256,http://en.wikipedia.org/wiki/Israel,Israel,israel,israel,GPE
+Israel,2917172,76,86,,"http://en.wikipedia.org/wiki/Israel,_West_Virginia","Israel, West Virginia",israel-west-virginia,israel-west-virginia,GPE
+Israel,52949,1025,513,17424;33610767;9282173;52949;1515679,http://en.wikipedia.org/wiki/Israelites,Israelites,israelites,israelites,UNK
+Israel,1390338,17,18,,http://en.wikipedia.org/wiki/Israel_River,Israel River,israel-river,israel-river,UNK
+Israel,9424010,38,49,,"http://en.wikipedia.org/wiki/Israel_Township,_Preble_County,_Ohio","Israel Township, Preble County, Ohio",israel-township-preble-county-ohio,israel-township-preble-county-ohio,GPE
+Israel,6104877,144,24,9282173,http://en.wikipedia.org/wiki/Israel_Project,Israel Project,israel-project,israel-project,ORG
+Israel,1553519,28,37,,http://en.wikipedia.org/wiki/Israel_Cruz,Israel Cruz,israel-cruz,israel-cruz,PER
+Israel,610738,126,81,588941;9282173;39237,http://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction,Israel and weapons of mass destruction,israel-and-weapons-of-mass-destruction,israel-and-weapons-of-mass-destruction,UNK
+Israel,1340538,379,57,33610767;9282173,http://en.wikipedia.org/wiki/Israel_Museum,Israel Museum,israel-museum,israel-museum,UNK
+Israel,769536,1489,593,722668;715240;362466;25391;25127146;33166;609825;782786;1008145;297809;743577;14532;9282173;250204;250197;861284;5843419;11867;3343;12108;26667;540056;679716,http://en.wikipedia.org/wiki/Israel_national_football_team,Israel national football team,israel-national-football-team,israel-national-football-team,UNK
+Israel,39237,3012,544,8561774;479389;9282173;27338;5843419;11867;3343;2326241;26667;39237;33610767;610738;14687;14532;597862;46216,http://en.wikipedia.org/wiki/Israel_Defense_Forces,Israel Defense Forces,israel-defense-forces,israel-defense-forces,UNK
+Israel,12236643,1,25,9282173;5843419;25391;11867;27338,http://en.wikipedia.org/wiki/Israel_International,Israel International,israel-international,israel-international,UNK
+Israel,27989636,9,25,9282173;11867,http://en.wikipedia.org/wiki/Kingdom_of_Israel_(group),Kingdom of Israel,kingdom-of-israel,kingdom-of-israel-group,UNK
+Israel,27302272,89,91,26678792,http://en.wikipedia.org/wiki/Israel_of_Kashkar,Israel of Kashkar,israel-of-kashkar,israel-of-kashkar,UNK
+Israel,479389,506,401,597862;34244;25391;39237;46216;216248;479389;9282173,"http://en.wikipedia.org/wiki/Israel,_Palestine,_and_the_United_Nations","Israel, Palestine, and the United Nations",israel-palestine-and-the-united-nations,israel-palestine-and-the-united-nations,UNK
+Israel,1515679,398,217,17424;33610767;14687;9282173;52949,http://en.wikipedia.org/wiki/Kingdom_of_Israel_(united_monarchy),Kingdom of Israel,kingdom-of-israel,kingdom-of-israel-united-monarchy,GPE
+Israel,13341685,6,15,9282173,http://en.wikipedia.org/wiki/Israel_Singer,Israel Singer,israel-singer,israel-singer,PER
+Israel,216248,218,119,597862;46216;479389;9282173,http://en.wikipedia.org/wiki/Israel–Jordan_peace_treaty,Israel–Jordan peace treaty,israel–jordan-peace-treaty,israel–jordan-peace-treaty,UNK
+Israel,6333805,27,53,12108;26667,http://en.wikipedia.org/wiki/Israel_(footballer),Israel,israel,israel-footballer,PER
+Israel,46216,1550,831,39237;33610767;25391;11125639;479389;9282173;597862;5843419;2326241;12108;46216;216248,http://en.wikipedia.org/wiki/Israeli–Palestinian_conflict,Israeli–Palestinian conflict,israeli–palestinian-conflict,israeli–palestinian-conflict,UNK
+Israel,2326241,119,281,33610767;4091317;46216;14687;9282173;8561774;39237,http://en.wikipedia.org/wiki/LGBT_rights_in_Israel,LGBT rights in Israel,lgbt-rights-in-israel,lgbt-rights-in-israel,UNK
+Israel,958973,120,147,,http://en.wikipedia.org/wiki/USS_Israel_(DD-98),USS Israel,uss-israel,uss-israel-dd-98,UNK
+Israel,33610767,1377,404,17424;39237;52949;1340538;14687;9282173;1515679;2326241;46216;803752,http://en.wikipedia.org/wiki/Land_of_Israel,Land of Israel,land-of-israel,land-of-israel,UNK
+Israel,8404422,139,79,,http://en.wikipedia.org/wiki/Israel_Houghton,Israel Houghton,israel-houghton,israel-houghton,UNK
+Israel,597862,263,395,5843419;25391;39237;46216;216248;479389;9282173,http://en.wikipedia.org/wiki/Israeli_disengagement_from_Gaza,Israeli disengagement from Gaza,israeli-disengagement-from-gaza,israeli-disengagement-from-gaza,UNK
+Israel,14687,454,230,17424;1515679;2326241;39237;33610767;30199;14687;25702;9282173,http://en.wikipedia.org/wiki/Geography_of_Israel,Geography of Israel,geography-of-israel,geography-of-israel,UNK
+Israel,5531612,9,17,,http://en.wikipedia.org/wiki/Edward_Israel,Edward Israel,edward-israel,edward-israel,PER
+Israel,8561774,370,295,2326241;39237;9282173;8561774,http://en.wikipedia.org/wiki/Cinema_of_Israel,Cinema of Israel,cinema-of-israel,cinema-of-israel,UNK
+Israel,5741112,38,16,9282173;11867,http://en.wikipedia.org/wiki/Mikveh_Israel,Mikveh Israel,mikveh-israel,mikveh-israel,UNK
+Israel,14083292,70,45,9282173,http://en.wikipedia.org/wiki/Israel_Corporation,Israel Corporation,israel-corporation,israel-corporation,UNK
+Israel,17108939,11,20,,http://en.wikipedia.org/wiki/Al_Israel,Al Israel,al-israel,al-israel,PER
+Israel,26678792,93,87,27302272,http://en.wikipedia.org/wiki/Israel_(Nestorian_Patriarch),Israel,israel,israel-nestorian-patriarch,UNK
+Israel,803752,128,151,11125639;33610767;9282173;18020135;1917091,http://en.wikipedia.org/wiki/Greater_Israel,Greater Israel,greater-israel,greater-israel,UNK
+Israel,17424,408,214,1515679;33610767;14687;9282173;52949,http://en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria),Kingdom of Israel,kingdom-of-israel,kingdom-of-israel-samaria,GPE
+Turkey,9112329,237,88,9112329,http://en.wikipedia.org/wiki/Dustin_the_Turkey,Dustin the Turkey,dustin-the-turkey,dustin-the-turkey,UNK
+Turkey,11496730,59,107,11495681,http://en.wikipedia.org/wiki/USS_Turkey_(AM-13),USS Turkey,uss-turkey,uss-turkey-am-13,UNK
+Turkey,27291963,49,48,11125639,http://en.wikipedia.org/wiki/Turkey_Party,Turkey Party,turkey-party,turkey-party,UNK
+Turkey,11125639,51709,902,11125639;5843419;3343;4443;5573;11867;12249;12108;12112;1396057;14532;17867;4739242;8617329;12943731;25391;273633;9282173;27338;26667;30199;13824333;12233108;7116249;34244;1433845;803752;7674863;42374;540056;46216;35608495;296928;297809;2879398;72821;3730799;67302;68187;4431555;27291963;4920157;20611504;2730305;18952408;1490969;243500;7740223;722668;232269;609825;1969800;9804204;128233;22734452;861274;861284;743577,http://en.wikipedia.org/wiki/Turkey,Turkey,turkey,turkey,GPE
+Turkey,34786292,28,36,,"http://en.wikipedia.org/wiki/Turkey,_Kentucky","Turkey, Kentucky",turkey-kentucky,turkey-kentucky,GPE
+Turkey,16094744,4,4,16747837,http://en.wikipedia.org/wiki/Turkey_Mountain_(New_York),Turkey Mountain,turkey-mountain,turkey-mountain-new-york,UNK
+Turkey,4772844,179,211,4772844,http://en.wikipedia.org/wiki/Turkey_Hill_(company),Turkey Hill,turkey-hill,turkey-hill-company,UNK
+Turkey,11495681,4,4,11497678;11496730,http://en.wikipedia.org/wiki/USS_Turkey,USS Turkey,uss-turkey,uss-turkey,UNK
+Turkey,15444730,37,33,,http://en.wikipedia.org/wiki/The_Turkey,The Turkey,the-turkey,the-turkey,UNK
+Turkey,30199,342,394,67302;21493015;5575;27340;5843419;22734452;12108;67472;11125639;30199;14699;14687;25702,http://en.wikipedia.org/wiki/Geography_of_Turkey,Geography of Turkey,geography-of-turkey,geography-of-turkey,UNK
+Turkey,10267070,0,2,10267784;5448213,http://en.wikipedia.org/wiki/Turkey_River,Turkey River,turkey-river,turkey-river,UNK
+Turkey,20414892,2,41,,"http://en.wikipedia.org/wiki/Turkey_Hill_(Linthicum_Heights,_Maryland)",Turkey Hill,turkey-hill,turkey-hill-linthicum-heights-maryland,UNK
+Turkey,72821,410,138,128233;11125639;296928;24513964;11497678,http://en.wikipedia.org/wiki/Turkey_(bird),Turkey,turkey,turkey-bird,UNK
+Turkey,5448213,7,14,10267070,http://en.wikipedia.org/wiki/Turkey_River_(New_Hampshire),Turkey River,turkey-river,turkey-river-new-hampshire,UNK
+Turkey,743577,1890,521,722668;17867;715240;769536;362466;25127146;11125639;33166;609825;782786;1008145;297809;743577;14532;250204;250197;5843419;11867;3343;12108;26667;679716,http://en.wikipedia.org/wiki/Turkey_national_football_team,Turkey national football team,turkey-national-football-team,turkey-national-football-team,ORG
+Turkey,11497678,74,126,11495681;72821,http://en.wikipedia.org/wiki/USS_Turkey_(AMS-56),USS Turkey,uss-turkey,uss-turkey-ams-56,UNK
+Turkey,24513964,72,183,296928;72821,http://en.wikipedia.org/wiki/Turkey_meat,Turkey meat,turkey-meat,turkey-meat,UNK
+Turkey,3790633,15,10,,http://en.wikipedia.org/wiki/Little_Turkey,Little Turkey,little-turkey,little-turkey,PER
+Turkey,128233,24,48,11125639;72821,"http://en.wikipedia.org/wiki/Turkey,_North_Carolina","Turkey, North Carolina",turkey-north-carolina,turkey-north-carolina,GPE
+Turkey,27648807,0,19,,"http://en.wikipedia.org/wiki/Turkey_Beach,_Queensland","Turkey Beach, Queensland",turkey-beach-queensland,turkey-beach-queensland,UNK
+Turkey,2730305,91,11,11125639;2793759,http://en.wikipedia.org/wiki/Communist_Labour_Party_of_Turkey/Leninist,Communist Labour Party of Turkey/Leninist,communist-labour-party-of-turkey-leninist,communist-labour-party-of-turkey-leninist,UNK
+Turkey,135979,26,27,,"http://en.wikipedia.org/wiki/Turkey,_Texas","Turkey, Texas",turkey-texas,turkey-texas,GPE
+Turkey,37318848,38,53,,"http://en.wikipedia.org/wiki/Turkey,_Limpopo","Turkey, Limpopo",turkey-limpopo,turkey-limpopo,UNK
+Turkey,13824333,0,37,3343;11125639;25391;11867,http://en.wikipedia.org/wiki/Turkey_International,Turkey International,turkey-international,turkey-international,UNK
+Turkey,16747837,0,2,16094744,http://en.wikipedia.org/wiki/Turkey_Mountain,Turkey Mountain,turkey-mountain,turkey-mountain,UNK
+Turkey,10267784,20,24,10267070,http://en.wikipedia.org/wiki/Turkey_River_(Iowa),Turkey River,turkey-river,turkey-river-iowa,UNK
+Turkey,11554626,118,100,,http://en.wikipedia.org/wiki/Turkey_Point_Light,Turkey Point Light,turkey-point-light,turkey-point-light,UNK
+Turkey,296928,427,140,11867;11125639;24513964;72821,http://en.wikipedia.org/wiki/Domesticated_turkey,Domesticated turkey,domesticated-turkey,domesticated-turkey,UNK
+Limoges,1973041,144,75,7116249;3830347;177195;5551651;630309;1969800;540056;27338;4920157;5843419;3730799;12108;35608495,http://en.wikipedia.org/wiki/Limoges_CSP,Limoges CSP,limoges-csp,limoges-csp,ORG
+Limoges,7744075,88,35,177195;5843419,http://en.wikipedia.org/wiki/Limoges_FC,Limoges FC,limoges-fc,limoges-fc,UNK
+Limoges,177195,1024,519,6936785;17867;5263766;13468995;2567493;7744075;5843419;11867;1973041;35608495,http://en.wikipedia.org/wiki/Limoges,Limoges,limoges,limoges,UNK
+Limoges,6936785,90,97,177195;5843419,http://en.wikipedia.org/wiki/Limoges_porcelain,Limoges porcelain,limoges-porcelain,limoges-porcelain,ORG
+Limoges,13468995,192,167,177195;5843419,http://en.wikipedia.org/wiki/University_of_Limoges,University of Limoges,university-of-limoges,university-of-limoges,ORG
+Limoges,5263766,46,30,177195,"http://en.wikipedia.org/wiki/Limoges,_Ontario","Limoges, Ontario",limoges-ontario,limoges-ontario,UNK
+France,5843419,190787,1650,6122287;5843419;3343;4443;5573;11867;12249;12108;13058;14701;14699;14532;17867;5612901;575984;12943731;12236643;25391;273633;9282173;27338;26667;30199;4131857;33166;39237;1433845;42374;540056;46216;3867414;13468995;61406;2879398;21493015;2567493;630298;630309;67302;67473;67472;630196;68187;5551651;644329;23397185;597862;42474021;3830347;7744075;609825;362466;3313708;9804204;861284;11125639;8617329;23527303;715240;955656;25127146;7116249;175228;177195;7674863;13615982;35608495;679716;14038363;2424256;3730799;769536;3409591;4920157;24554128;20611504;9351658;11887947;782786;459319;1008145;243500;6936785;20599016;722668;232269;2687967;1973041;1969800;250204;250197;743577,http://en.wikipedia.org/wiki/France,France,france,france,GPE
+France,11809,513,287,14701;14532,http://en.wikipedia.org/wiki/Francesco_Cossiga,Francesco Cossiga,francesco-cossiga,francesco-cossiga,PER
+France,9116059,3,89,,http://en.wikipedia.org/wiki/France_Hotel,France Hotel,france-hotel,france-hotel,UNK
+France,2589960,11,10,,http://en.wikipedia.org/wiki/France_family,France family,france-family,france-family,UNK
+France,2687967,3313,297,9804204;2687967;23527303;5843419;26667;20599016;67473;67472,http://en.wikipedia.org/wiki/Kingdom_of_France,Kingdom of France,kingdom-of-france,kingdom-of-france,GPE
+France,67472,417,303,67302;21493015;5575;27340;5843419;11867;22734452;3343;67473;67472;30199;26667;14699;23527303;25702;14532;2687967;20599016,http://en.wikipedia.org/wiki/Geography_of_France,Geography of France,geography-of-france,geography-of-france,UNK
+France,9351658,5,36,5843419,http://en.wikipedia.org/wiki/France_II,France II,france-ii,france-ii,UNK
+France,6132809,173,168,,http://en.wikipedia.org/wiki/Little_France,Little France,little-france,little-france,UNK
+France,30770045,0,5,,http://en.wikipedia.org/wiki/Edward_France,Edward France,edward-france,edward-france,PER
+France,40175041,26,46,,"http://en.wikipedia.org/wiki/La_France,_South_Carolina","La France, South Carolina",la-france-south-carolina,la-france-south-carolina,GPE
+France,23527303,196,15,5843419;2687967;20599016;67473;67472,http://en.wikipedia.org/wiki/Kingdom_of_France_(1791–92),Kingdom of France,kingdom-of-france,kingdom-of-france-1791–92,GPE
+France,3776038,24,8,,http://en.wikipedia.org/wiki/University_of_France,University of France,university-of-france,university-of-france,ORG
+France,42474021,5,22,5843419,http://en.wikipedia.org/wiki/Little_France_(castle),Little France,little-france,little-france-castle,UNK
+France,20599016,2454,744,9804204;2687967;20599016;67473;67472;23527303;5843419,http://en.wikipedia.org/wiki/Vichy_France,Vichy France,vichy-france,vichy-france,GPE
+France,39251067,5,13,,http://en.wikipedia.org/wiki/La_France_(French_newspaper),La France,la-france,la-france-french-newspaper,UNK
+France,644329,374,225,9384268;5843419;955656;644329,http://en.wikipedia.org/wiki/France_Télévisions,France Télévisions,france-televisions,france-televisions,ORG
+France,4131857,209,198,5843419;4131857;31197040;25391;67473,http://en.wikipedia.org/wiki/Nuclear_power_in_France,Nuclear power in France,nuclear-power-in-france,nuclear-power-in-france,UNK
+France,5612901,146,75,2567493;5843419,http://en.wikipedia.org/wiki/France_Culture,France Culture,france-culture,france-culture,UNK
+France,12943731,411,384,5843419;955656;11125639;27663544;250197,http://en.wikipedia.org/wiki/France_national_youth_football_team,France national youth football team,france-national-youth-football-team,france-national-youth-football-team,ORG
+France,2567493,90,99,177195;5612901;5843419,http://en.wikipedia.org/wiki/France_Info,France Info,france-info,france-info,UNK
+France,955656,2298,525,644329;250197;5843419;12943731,http://en.wikipedia.org/wiki/France_national_rugby_union_team,France national rugby union team,france-national-rugby-union-team,france-national-rugby-union-team,UNK
+France,6122287,56,58,6108533;5843419;6108409,http://en.wikipedia.org/wiki/France_(Epcot),France,france,france-epcot,UNK
+France,250197,3412,873,722668;17867;955656;25391;33166;609825;1008145;297809;243500;250204;250197;5843419;11867;3343;26667;679716;1281701;715240;769536;362466;25127146;782786;743577;14532;12943731,http://en.wikipedia.org/wiki/France_national_football_team,France national football team,france-national-football-team,france-national-football-team,UNK
+France,67473,488,455,5573;27338;5843419;11867;4131857;25391;67473;67472;26667;23527303;14532;2687967;20599016,http://en.wikipedia.org/wiki/Economy_of_France,Economy of France,economy-of-france,economy-of-france,UNK
+France,19088931,16,6,,http://en.wikipedia.org/wiki/La_France_(airship),La France,la-france,la-france-airship,UNK
+Panionios,13615982,176,320,27338;5843419;14905263;12108;540056;7116249,http://en.wikipedia.org/wiki/Panionios_B.C.,Panionios B.C.,panionios-bc,panionios-bc,ORG
+Panionios,14905263,59,23,7116249;12108;13615982,http://en.wikipedia.org/wiki/Panionios,Panionios,panionios,panionios,UNK
+Greece,12108,43026,1020,42352918;2879398;11125639;702389;5843419;3343;4443;3730799;769536;630298;630309;67302;5573;630196;4431555;2194994;11867;12108;12112;4920157;1053145;1396057;968856;565613;14532;24554128;17867;4739242;8617329;20611504;715240;25391;273633;6333805;9282173;27338;26667;30199;18952408;12233108;7116249;1008145;243500;34244;14905263;7740223;1433845;722668;7674863;13615982;13615830;42374;540056;11650835;232269;46216;35608495;1973041;609825;297809;259885;1969800;9804204;22734452;861274;861284;679716;187448;2424256;743577,http://en.wikipedia.org/wiki/Greece,Greece,greece,greece,GPE
+Greece,722668,1691,522,722668;1053145;715240;769536;362466;25127146;11125639;33166;609825;782786;1008145;297809;743577;14532;250204;250197;5843419;11867;3343;12108;26667;679716,http://en.wikipedia.org/wiki/Greece_national_football_team,Greece national football team,greece-national-football-team,greece-national-football-team,UNK
+Greece,2879398,1367,433,17867;9804204;2879398;232269;25391;11125639;2194994;565613;14532;34244;5843419;3343;12108;12112;20611504,http://en.wikipedia.org/wiki/Kingdom_of_Greece,Kingdom of Greece,kingdom-of-greece,kingdom-of-greece,GPE
+Greece,22734452,233,272,11125639;30199;14699;67302;21493015;5575;27340;565613;25702;22734452;2194994;11650835;12108;67472;12112,http://en.wikipedia.org/wiki/Geography_of_Greece,Geography of Greece,geography-of-greece,geography-of-greece,UNK
+Greece,259885,93,76,259884;12108,"http://en.wikipedia.org/wiki/Greece_(town),_New_York","Greece (town), New York",greece-town-new-york,greece-town-new-york,GPE
+Greece,259884,45,57,259885,"http://en.wikipedia.org/wiki/Greece_(CDP),_New_York","Greece (CDP), New York",greece-cdp-new-york,greece-cdp-new-york,GPE
+Greece,2194994,493,405,2879398;22734452;12108;12112;565613;14532;11650835,http://en.wikipedia.org/wiki/Roman_Greece,Roman Greece,roman-greece,roman-greece,UNK
+Greece,565613,583,421,2879398;22734452;17867;2194994;12108;12112;20611504;565613;11650835,http://en.wikipedia.org/wiki/Ottoman_Greece,Ottoman Greece,ottoman-greece,ottoman-greece,UNK
+Greece,12233108,2,26,11125639;25391;11867;12108,http://en.wikipedia.org/wiki/Greece_International,Greece International,greece-international,greece-international,UNK
+Greece,11650835,286,216,565613;1490969;22734452;2194994;662640;11650835;12108;12112,http://en.wikipedia.org/wiki/Religion_in_Greece,Religion in Greece,religion-in-greece,religion-in-greece,UNK
+Greece,12112,947,388,22734452;2194994;14701;565613;42352918;11650835;2879398;12108;12112;11125639,http://en.wikipedia.org/wiki/Politics_of_Greece,Politics of Greece,politics-of-greece,politics-of-greece,UNK
+Teamsystem Bologna,630298,98,126,7116249;14532;9282173;630309;26667;540056;5573;27338;4920157;5843419;12108,http://en.wikipedia.org/wiki/Fortitudo_Pallacanestro_Bologna,Fortitudo Pallacanestro Bologna,fortitudo-pallacanestro-bologna,fortitudo-pallacanestro-bologna,ORG
+Olympiakos,2424256,489,403,27338;5843419;11867;3343;25391;12108;1053145;26667;14532;9282173,http://en.wikipedia.org/wiki/Olympiakos_Nicosia,Olympiakos Nicosia,olympiakos-nicosia,olympiakos-nicosia,ORG
+Cibona Zagreb,3730799,396,182,4431555;630309;5573;4920157;5843419;5551651;13615830;4739242;3343;25391;12108;11125639;1396057;26667;540056;297809;7116249;14532;1973041;9282173;1969800;630196;35608495,http://en.wikipedia.org/wiki/KK_Cibona,KK Cibona,kk-cibona,kk-cibona,UNK
+Croatia,5573,32159,1248,11125639;5843419;3343;2085716;1246931;3730799;630298;630309;67302;5575;5573;67473;630196;146972;4431555;4431552;11867;12108;4920157;1053145;1396057;6724307;968856;14532;24554128;17867;4739242;7160145;3227322;715240;11887947;12380394;2582233;5118739;31197040;25391;9282173;4444898;27340;27338;26667;18952408;7116249;1008145;243500;34244;7740223;1433845;3830347;7674863;42374;1917091;232269;35608495;297809;1969800;362466;9804204;861274;861284;679716;14038363,http://en.wikipedia.org/wiki/Croatia,Croatia,croatia,croatia,GPE
+Croatia,715240,1540,634,722668;17867;1053145;715240;769536;5573;362466;232269;25391;25127146;33166;609825;782786;1008145;297809;243500;743577;14532;24554128;250204;250197;861274;27338;5843419;11867;3343;12108;26667;679716,http://en.wikipedia.org/wiki/Croatia_national_football_team,Croatia national football team,croatia-national-football-team,croatia-national-football-team,ORG
+Croatia,24554128,349,229,5573;25036290;5843419;11867;12108;715240;26667,http://en.wikipedia.org/wiki/Croatia_national_under-19_football_team,Croatia national under-19 football team,croatia-national-under-19-football-team,croatia-national-under-19-football-team,UNK
+Croatia,146972,390,320,4444898;5573;11867;18952408,http://en.wikipedia.org/wiki/Croatia_Airlines,Croatia Airlines,croatia-airlines,croatia-airlines,ORG
+Croatia,2582233,119,256,11887947;2582233;5575;5573;232269,http://en.wikipedia.org/wiki/Kingdom_of_Croatia_(925–1102),Kingdom of Croatia,kingdom-of-croatia,kingdom-of-croatia-925–1102,GPE
+Croatia,11887947,315,187,2582233;6724307;34244;5575;5573;27338;5843419;232269;1917091,http://en.wikipedia.org/wiki/Kingdom_of_Croatia_(Habsburg),Kingdom of Croatia,kingdom-of-croatia,kingdom-of-croatia-habsburg,GPE
+Croatia,1917091,222,158,11887947;5573;232269;18020135;803752,http://en.wikipedia.org/wiki/Greater_Croatia,Greater Croatia,greater-croatia,greater-croatia,UNK
+Croatia,2085716,201,53,5573,http://en.wikipedia.org/wiki/Croatia_Records,Croatia Records,croatia-records,croatia-records,UNK
+Croatia,6724307,20,305,11887947;5575;5573,http://en.wikipedia.org/wiki/Croatia_proper,Croatia proper,croatia-proper,croatia-proper,UNK
+Croatia,5575,274,570,2582233;6724307;67302;34244;21493015;5575;5573;27340;27338;232269;22734452;67472;11887947;30199;14699;18952408;297809;25702,http://en.wikipedia.org/wiki/Geography_of_Croatia,Geography of Croatia,geography-of-croatia,geography-of-croatia,UNK
+Alba Berlin,4739242,234,182,11125639;1396057;4431555;26667;540056;5573;27338;11867;7116249;5551651;9282173;13615830;1969800;630196;3730799;25391;7097184;12108;35608495,http://en.wikipedia.org/wiki/Alba_Berlin,Alba Berlin,alba-berlin,alba-berlin,ORG
+Germany,11867,167535,1367,5843419;3343;4443;5573;11867;12249;12108;13058;14701;14532;17867;4739242;6108409;2793759;12236643;25391;273633;9282173;27338;26667;12233108;8113702;33166;39237;24763114;1639662;42374;3867414;296928;27138927;61406;5064191;21493015;67302;67473;67472;630196;68187;18952408;883816;609825;362466;3313708;9804204;131046;861274;861284;10293321;11125639;1246931;146972;968856;8617329;5741112;7097184;715240;25127146;13824333;7116249;175228;177195;7674863;35608495;27989636;679716;2424256;769536;4431555;4920157;24554128;7160145;1490969;1008145;243500;722668;232269;3190225;250204;250197;743577,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+Germany,3190225,341,109,13058;33166;11867;9804204,http://en.wikipedia.org/wiki/Kingdom_of_Germany,Kingdom of Germany,kingdom-of-germany,kingdom-of-germany,GPE
+Germany,26004346,1,6,,http://en.wikipedia.org/wiki/Germany_Foundation,Germany Foundation,germany-foundation,germany-foundation,UNK
+Germany,8113702,170,233,884716;11867,"http://en.wikipedia.org/wiki/Little_Germany,_Bradford","Little Germany, Bradford",little-germany-bradford,little-germany-bradford,UNK
+Germany,11159076,19,29,33166,"http://en.wikipedia.org/wiki/Germany,_Pale_Mother","Germany, Pale Mother",germany-pale-mother,germany-pale-mother,UNK
+Germany,40919574,2,12,40919574,"http://en.wikipedia.org/wiki/Germany,_Texas","Germany, Texas",germany-texas,germany-texas,UNK
+Germany,1490969,272,272,13058;33166;21493015;11867;1490969;662640;11125639;9282173;11650835,http://en.wikipedia.org/wiki/Religion_in_Germany,Religion in Germany,religion-in-germany,religion-in-germany,UNK
+Germany,2793759,83,197,273633;2730305;11867,http://en.wikipedia.org/wiki/Communist_Party_of_Germany_(1990),Communist Party of Germany,communist-party-of-germany,communist-party-of-germany-1990,UNK
+Germany,1271511,0,0,,"http://en.wikipedia.org/wiki/Little_Germany,_Ontario","Little Germany, Ontario",little-germany-ontario,little-germany-ontario,UNK
+Germany,884716,1,4,8113702,http://en.wikipedia.org/wiki/Little_Germany,Little Germany,little-germany,little-germany,UNK
+Germany,131046,77,98,11867,"http://en.wikipedia.org/wiki/Germany_Township,_Adams_County,_Pennsylvania","Germany Township, Adams County, Pennsylvania",germany-township-adams-county-pennsylvania,germany-township-adams-county-pennsylvania,GPE
+Germany,6108409,53,68,6108533;6122287;11867,http://en.wikipedia.org/wiki/Germany_(Epcot),Germany,germany,germany-epcot,UNK
+Germany,883816,158,187,11867;265585,"http://en.wikipedia.org/wiki/Little_Germany,_Manhattan","Little Germany, Manhattan",little-germany-manhattan,little-germany-manhattan,UNK
+Germany,33166,17376,488,1490969;243500;5843419;3343;4443;21493015;769536;722668;11867;13058;14532;11159076;17867;3190225;609825;297809;715240;362466;782786;250204;250197;27338;679716;897351;743577,http://en.wikipedia.org/wiki/West_Germany,West Germany,west-germany,west-germany,GPE
+Germany,27138927,71,105,26667;27138927;11867,http://en.wikipedia.org/wiki/The_Biggest_Loser_Germany,The Biggest Loser Germany,the-biggest-loser-germany,the-biggest-loser-germany,ORG
+Germany,11947058,137,165,,http://en.wikipedia.org/wiki/Germany_Valley,Germany Valley,germany-valley,germany-valley,UNK
+Germany,250204,3856,681,722668;33166;609825;1008145;297809;243500;250204;250197;5843419;11867;3343;26667;679716;13058;715240;769536;1433845;362466;25127146;782786;743577;14532,http://en.wikipedia.org/wiki/Germany_national_football_team,Germany national football team,germany-national-football-team,germany-national-football-team,UNK
+Germany,13058,10184,611,1490969;8617329;3190225;33166;297809;5843419;21493015;68187;25391;250204;11867;13058;897351,http://en.wikipedia.org/wiki/East_Germany,East Germany,east-germany,east-germany,GPE
+Germany,5064191,123,136,11867,"http://en.wikipedia.org/wiki/Germany,_Year_Zero","Germany, Year Zero",germany-year-zero,germany-year-zero,UNK
+Germany,21493015,248,403,13058;67302;33166;21493015;5575;27340;5843419;11867;1490969;22734452;3343;25391;67472;30199;14699;25702,http://en.wikipedia.org/wiki/Geography_of_Germany,Geography of Germany,geography-of-germany,geography-of-germany,UNK
+Germany,41476893,1,36,,http://en.wikipedia.org/wiki/Germany_Kent,Germany Kent,germany-kent,germany-kent,PER
+Estudiantes Madrid,3227322,324,258,5573;27338;7740223;25391;26667;540056;4127601;1969800;35608495,http://en.wikipedia.org/wiki/CB_Estudiantes,CB Estudiantes,cb-estudiantes,cb-estudiantes,ORG
+Spain,26667,100383,1235,5843419;3343;4443;5573;11867;12249;12108;14532;17867;4739242;575984;25391;273633;33571114;9282173;27338;26667;33877579;39237;1433845;24763114;1639662;42374;540056;3867414;25034051;27138927;61406;630298;630309;67302;67473;67472;68187;1053145;4127601;897351;36638162;23397185;33399611;609825;362466;3313708;861274;861284;10293321;11125639;143468;14288105;8617329;3227322;7097184;715240;6333805;25127146;1285750;7116249;7674863;13615830;35608495;1545170;679716;2424256;3730799;769536;3409591;4920157;24554128;20611504;782786;459319;1008145;243500;722668;2687967;4663484;1969800;250204;250197;743577,http://en.wikipedia.org/wiki/Spain,Spain,spain,spain,GPE
+Spain,273633,300,182,11125639;26667;2793759;5843419;11867;14532;3343;12108,http://en.wikipedia.org/wiki/Communist_Party_of_Spain,Communist Party of Spain,communist-party-of-spain,communist-party-of-spain,UNK
+Spain,27663544,87,8,3313708;609825;12943731,http://en.wikipedia.org/wiki/Spain_national_youth_football_team,Spain national youth football team,spain-national-youth-football-team,spain-national-youth-football-team,UNK
+Spain,10293321,265,185,26667;11867,http://en.wikipedia.org/wiki/Solar_power_in_Spain,Solar power in Spain,solar-power-in-spain,solar-power-in-spain,UNK
+Spain,459319,361,284,5843419;26667,http://en.wikipedia.org/wiki/Flag_of_Spain,Flag of Spain,flag-of-spain,flag-of-spain,UNK
+Spain,4663484,17,38,26667,http://en.wikipedia.org/wiki/Spain_(band),Spain,spain,spain-band,UNK
+Spain,33877579,5,33,26667,http://en.wikipedia.org/wiki/Spain..._on_the_Road_Again,Spain... on the Road Again,spain-on-the-road-again,spain-on-the-road-again,UNK
+Spain,484051,22,63,,http://en.wikipedia.org/wiki/Spain_(composition),Spain,spain,spain-composition,UNK
+Spain,8740160,51,50,,http://en.wikipedia.org/wiki/Spain_(Auden),Spain,spain,spain-auden,UNK
+Spain,3313708,922,317,609825;68187;27663544;243500;9282173;34244;5843419;11867;5536860;26667;3867414,http://en.wikipedia.org/wiki/Spain_national_under-21_football_team,Spain national under-21 football team,spain-national-under-21-football-team,spain-national-under-21-football-team,UNK
+Spain,609825,3430,790,722668;17867;25391;11125639;33166;609825;1008145;27663544;297809;243500;250204;250197;5843419;11867;3343;12108;26667;679716;4443;715240;769536;362466;25127146;68187;782786;743577;14532;3313708,http://en.wikipedia.org/wiki/Spain_national_football_team,Spain national football team,spain-national-football-team,spain-national-football-team,UNK
+Charleroi,13615830,210,122,1396057;4431555;26667;7116249;5551651;9282173;1969800;4739242;630196;3343;175228;3730799;25391;12108;35608495,http://en.wikipedia.org/wiki/Spirou_Charleroi,Spirou Charleroi,spirou-charleroi,spirou-charleroi,UNK
+Charleroi,23003352,3,10,3343;175228,http://en.wikipedia.org/wiki/FC_Charleroi,FC Charleroi,fc-charleroi,fc-charleroi,UNK
+Charleroi,134033,242,271,3343;175228,"http://en.wikipedia.org/wiki/Charleroi,_Pennsylvania","Charleroi, Pennsylvania",charleroi-pennsylvania,charleroi-pennsylvania,GPE
+Charleroi,175228,822,227,23003352;14532;1433845;67302;27338;5843419;11867;13615830;3343;679716;134033,http://en.wikipedia.org/wiki/Charleroi,Charleroi,charleroi,charleroi,UNK
+Charleroi,1433845,540,263,5573;5843419;3343;12108;11125639;26667;679716;9282173;175228;250204,http://en.wikipedia.org/wiki/R._Charleroi_S.C.,R. Charleroi S.C.,r-charleroi-sc,r-charleroi-sc,ORG
+Belgium,3343,55772,902,11125639;5843419;3343;4443;5573;11867;12108;134033;14532;17867;22885373;715240;23003352;25391;273633;9282173;27338;26667;25127146;13824333;175228;33166;39237;1433845;7674863;662640;13615830;42374;540056;61406;679716;187448;2424256;2879398;21493015;3730799;769536;67302;67472;33005082;68187;4431555;4920157;1053145;20611504;782786;1008145;243500;722668;609825;362466;9804204;250204;250197;861274;743577,http://en.wikipedia.org/wiki/Belgium,Belgium,belgium,belgium,GPE
+Belgium,260594,47,66,260593,"http://en.wikipedia.org/wiki/Belgium,_Wisconsin","Belgium, Wisconsin",belgium-wisconsin,belgium-wisconsin,GPE
+Belgium,2916721,43,53,,"http://en.wikipedia.org/wiki/Belgium,_West_Virginia","Belgium, West Virginia",belgium-west-virginia,belgium-west-virginia,GPE
+Belgium,22885373,1,102,3343,http://en.wikipedia.org/wiki/Belgium_Rugby_League,Belgium Rugby League,belgium-rugby-league,belgium-rugby-league,UNK
+Belgium,662640,224,217,67302;1490969;662640;11650835;3343,http://en.wikipedia.org/wiki/Religion_in_Belgium,Religion in Belgium,religion-in-belgium,religion-in-belgium,UNK
+Belgium,260593,34,43,260594,"http://en.wikipedia.org/wiki/Belgium_(town),_Wisconsin","Belgium (town), Wisconsin",belgium-town-wisconsin,belgium-town-wisconsin,GPE
+Belgium,111979,61,325,,"http://en.wikipedia.org/wiki/Belgium,_Illinois","Belgium, Illinois",belgium-illinois,belgium-illinois,GPE
+Belgium,121335,78,100,121404,"http://en.wikipedia.org/wiki/Belgium_Township,_Polk_County,_Minnesota","Belgium Township, Polk County, Minnesota",belgium-township-polk-county-minnesota,belgium-township-polk-county-minnesota,GPE
+Belgium,67302,137,293,11125639;30199;26667;14699;67302;21493015;5575;5573;27340;27338;5843419;11867;25702;22734452;662640;14532;3343;175228;25391;12108;67472,http://en.wikipedia.org/wiki/Geography_of_Belgium,Geography of Belgium,geography-of-belgium,geography-of-belgium,UNK
+Belgium,33005082,1,36,3343;33005082,http://en.wikipedia.org/wiki/Belgium_(1914–18),Belgium,belgium,belgium-1914–18,GPE
+Belgium,679716,2505,927,722668;17867;715240;769536;175228;1433845;5573;362466;25391;25127146;33166;609825;782786;1008145;297809;743577;14532;9282173;250204;250197;5843419;11867;3343;12108;26667;679716,http://en.wikipedia.org/wiki/Belgium_national_football_team,Belgium national football team,belgium-national-football-team,belgium-national-football-team,UNK
+Panathinaikos,7116249,353,324,630298;4431555;630309;4443;5573;27338;5843419;11867;13615982;702389;5551651;14905263;13615830;4739242;3730799;25391;12108;1053145;11125639;3830347;1396057;26667;540056;7116249;14532;1973041;7674863;9282173;1969800;630196;35608495,http://en.wikipedia.org/wiki/Panathinaikos_B.C.,Panathinaikos B.C.,panathinaikos-bc,panathinaikos-bc,ORG
+Panathinaikos,702389,42,101,7116249;7674863;4431555;4443;540056;630196;12108;35608495;1053145,http://en.wikipedia.org/wiki/Panathinaikos_A.O.,Panathinaikos A.O.,panathinaikos-ao,panathinaikos-ao,UNK
+Panathinaikos,7674863,55,89,7116249;702389;11125639;14532;26667;5573;27338;3343;14038363;5843419;25391;11867;12108;1053145,http://en.wikipedia.org/wiki/Panathinaikos_V.C.,Panathinaikos V.C.,panathinaikos-vc,panathinaikos-vc,UNK
+Panathinaikos,42352918,4,73,42352918;12108;12112,http://en.wikipedia.org/wiki/Panathinaikos_Movement,Panathinaikos Movement,panathinaikos-movement,panathinaikos-movement,UNK
+Panathinaikos,1053145,1093,375,722668;68187;702389;2424256;1053145;715240;7116249;243500;5573;861284;3343;12108;26667;7674863,http://en.wikipedia.org/wiki/Panathinaikos_F.C.,Panathinaikos F.C.,panathinaikos-fc,panathinaikos-fc,UNK
+Ljubljana,167422,777,342,297809;9445614;27127426;27338;232269;15850865;42374,http://en.wikipedia.org/wiki/University_of_Ljubljana,University of Ljubljana,university-of-ljubljana,university-of-ljubljana,ORG
+Ljubljana,7941916,25,25,42374;27338;1281701,http://en.wikipedia.org/wiki/FC_Ljubljana,FC Ljubljana,fc-ljubljana,fc-ljubljana,ORG
+Ljubljana,15850865,139,90,167422;34244;42374;27338;9804204;232269;14532,http://en.wikipedia.org/wiki/Province_of_Ljubljana,Province of Ljubljana,province-of-ljubljana,province-of-ljubljana,GPE
+Ljubljana,42374,4157,897,167422;17867;9804204;25391;11125639;7941916;1008145;297809;9445614;34244;27340;27338;5843419;11867;15850865;3343;12108;26667;42374;1281701;27127426;5573;232269;14532,http://en.wikipedia.org/wiki/Ljubljana,Ljubljana,ljubljana,ljubljana,GPE
+Ljubljana,9445614,227,234,167422;42374;27338;27127426,http://en.wikipedia.org/wiki/Ljubljana_Castle,Ljubljana Castle,ljubljana-castle,ljubljana-castle,UNK
+Ljubljana,27127426,416,426,167422;27338;42374;9445614,http://en.wikipedia.org/wiki/City_Municipality_of_Ljubljana,City Municipality of Ljubljana,city-municipality-of-ljubljana,city-municipality-of-ljubljana,GPE
+Slovenia,27338,27532,1175,11125639;9445614;5843419;3343;27127426;630298;630309;67302;5575;5573;67473;4431555;4431552;11867;15850865;12108;4920157;1396057;14699;14532;17867;4739242;7941916;3227322;715240;11887947;12380394;12236643;31197040;25391;9282173;27340;27338;26667;18952408;7116249;175228;33166;1008145;243500;34244;1281701;7740223;39237;5536860;167422;3830347;7674863;13615982;42374;540056;232269;35608495;1973041;297809;9804204;2424256,http://en.wikipedia.org/wiki/Slovenia,Slovenia,slovenia,slovenia,GPE
+Slovenia,1281701,611,150,7941916;27338;1008145;5536860;42374;250197,http://en.wikipedia.org/wiki/Football_Association_of_Slovenia,Football Association of Slovenia,football-association-of-slovenia,football-association-of-slovenia,GPE
+Slovenia,27340,147,192,30199;14699;67302;42374;21493015;5575;5573;27340;27338;25702;22734452;14532;67472,http://en.wikipedia.org/wiki/Geography_of_Slovenia,Geography of Slovenia,geography-of-slovenia,geography-of-slovenia,UNK
+Slovenia,1008145,989,421,722668;1281701;609825;782786;715240;769536;297809;743577;14532;9282173;250204;250197;5573;27338;362466;5843419;232269;11867;3343;25391;12108;25127146;5536860;26667;42374;679716,http://en.wikipedia.org/wiki/Slovenia_national_football_team,Slovenia national football team,slovenia-national-football-team,slovenia-national-football-team,UNK
+Slovenia,5536860,340,149,1008145;1281701;3867414;27338;3313708,http://en.wikipedia.org/wiki/Slovenia_national_under-21_football_team,Slovenia national under-21 football team,slovenia-national-under-21-football-team,slovenia-national-under-21-football-team,UNK
+Slovenia,31197040,67,27,4131857;5573;27338,http://en.wikipedia.org/wiki/Nuclear_energy_in_Slovenia,Nuclear energy in Slovenia,nuclear-energy-in-slovenia,nuclear-energy-in-slovenia,UNK
+Villeurbanne,1969800,261,123,3227322;3830347;11125639;1396057;4431555;575984;26667;540056;5573;4920157;5843419;4127601;7116249;14532;5551651;1973041;13615830;4739242;630196;3730799;25391;12108;35608495,http://en.wikipedia.org/wiki/ASVEL_Basket,ASVEL Basket,asvel-basket,asvel-basket,ORG
+Villeurbanne,575984,469,311,5843419;25391;26667;9282173;1969800,http://en.wikipedia.org/wiki/Villeurbanne,Villeurbanne,villeurbanne,villeurbanne,ORG
+Barcelona,35608495,641,423,4443;4920157;68187;702389;17867;5551651;4739242;3730799;3830347;177195;24763114;1396057;297809;4127601;7116249;14532;9282173;1969800;36638162;3227322;4431555;630309;5573;27338;5843419;11867;13615830;25391;12108;11125639;26667;540056;1973041;630196,http://en.wikipedia.org/wiki/FC_Barcelona_Bàsquet,FC Barcelona Bàsquet,fc-barcelona-basquet,fc-barcelona-basquet,ORG
+Barcelona,25569672,6,9,,"http://en.wikipedia.org/wiki/Barcelona,_Rio_Grande_do_Norte","Barcelona, Rio Grande do Norte",barcelona-rio-grande-do-norte,barcelona-rio-grande-do-norte,UNK
+Barcelona,18450352,10,29,18155959,http://en.wikipedia.org/wiki/Barcelona_(indie_rock_band),Barcelona,barcelona,barcelona-indie-rock-band,UNK
+Barcelona,3409591,438,85,4443;5843419;26667,http://en.wikipedia.org/wiki/County_of_Barcelona,County of Barcelona,county-of-barcelona,county-of-barcelona,GPE
+Barcelona,61406,583,336,4443;5843419;11867;3343;25391;26667;14532,http://en.wikipedia.org/wiki/University_of_Barcelona,University of Barcelona,university-of-barcelona,university-of-barcelona,ORG
+Barcelona,2098750,59,32,4443,"http://en.wikipedia.org/wiki/Barcelona,_Sorsogon","Barcelona, Sorsogon",barcelona-sorsogon,barcelona-sorsogon,UNK
+Barcelona,15507196,3,14,4443,http://en.wikipedia.org/wiki/Barcelona_Mass,Barcelona Mass,barcelona-mass,barcelona-mass,UNK
+Barcelona,68187,3993,675,24763114;36638162;25391;11125639;609825;297809;243500;861274;861284;5843419;11867;3343;26667;1167667;13058;4443;1053145;20443577;68187;14532;3313708;35608495,http://en.wikipedia.org/wiki/FC_Barcelona,FC Barcelona,fc-barcelona,fc-barcelona,ORG
+Barcelona,4443,14085,1081,15507196;7116249;11125639;33166;702389;243500;5843419;3343;4443;630309;143468;68187;14288105;24763114;11867;3409591;12108;540056;8520318;4920157;14532;20715108;35608495;17867;2098750;1545170;8617329;609825;61406;25391;33571114;9282173;26667;1167667;20443577,http://en.wikipedia.org/wiki/Barcelona,Barcelona,barcelona,barcelona,GPE
+Barcelona,21287947,1,1,28214781,http://en.wikipedia.org/wiki/Barcelona_Province,Barcelona Province,barcelona-province,barcelona-province,GPE
+Barcelona,1545170,99,82,4443;26667;28214781,"http://en.wikipedia.org/wiki/Barcelona,_Anzoátegui","Barcelona, Anzoátegui",barcelona-anzoategui,barcelona-anzoategui,UNK
+Barcelona,18155959,11,20,18450352,http://en.wikipedia.org/wiki/Barcelona_(band),Barcelona,barcelona,barcelona-band,UNK
+Barcelona,24763114,171,117,33399611;4443;26667;11867;68187;36638162;35608495,http://en.wikipedia.org/wiki/FC_Barcelona_(women),FC Barcelona,fc-barcelona,fc-barcelona-women,UNK
+Barcelona,20443577,5,108,4443;68187,"http://en.wikipedia.org/wiki/Barcelona,_Cornwall","Barcelona, Cornwall",barcelona-cornwall,barcelona-cornwall,GPE
+Barcelona,16223536,2,3,,"http://en.wikipedia.org/wiki/Barcelona,_Aruba","Barcelona, Aruba",barcelona-aruba,barcelona-aruba,GPE
+Barcelona,33571114,11,11,4443;26667,http://en.wikipedia.org/wiki/W_Barcelona,W Barcelona,w-barcelona,w-barcelona,UNK
+Barcelona,143468,756,376,4443;28214781;36859149;26667,http://en.wikipedia.org/wiki/Province_of_Barcelona,Province of Barcelona,province-of-barcelona,province-of-barcelona,UNK
+Barcelona,1167667,499,153,4443;68187,http://en.wikipedia.org/wiki/Barcelona_Sporting_Club,Barcelona Sporting Club,barcelona-sporting-club,barcelona-sporting-club,UNK
+Barcelona,28214781,5,15,1545170;143468;21287947,http://en.wikipedia.org/wiki/Barcelona_Province_(Venezuela),Barcelona Province,barcelona-province,barcelona-province-venezuela,UNK
+Barcelona,36638162,64,57,24763114;25391;35608495;68187;26667,http://en.wikipedia.org/wiki/FC_Barcelona_(beach_soccer),FC Barcelona,fc-barcelona,fc-barcelona-beach-soccer,ORG
+Barcelona,8520318,14,29,4443,http://en.wikipedia.org/wiki/Barcelona_(Tarrafal),Barcelona,barcelona,barcelona-tarrafal,UNK
+Barcelona,8584792,0,169,,http://en.wikipedia.org/wiki/Barcelona_Light,Barcelona Light,barcelona-light,barcelona-light,UNK
+Barcelona,20715108,2,10,4443,http://en.wikipedia.org/wiki/A_Barcelona,A Barcelona,a-barcelona,a-barcelona,UNK
+Barcelona,14288105,80,140,4443;26667,http://en.wikipedia.org/wiki/Barcelona_(Spanish_Congress_Electoral_District),Barcelona,barcelona,barcelona-spanish-congress-electoral-district,UNK
+Split,4920157,240,177,11125639;4444898;5118739;630298;4431555;630309;4443;26667;540056;18952408;5573;27338;4920157;297809;5843419;12380394;11867;14532;5551651;1973041;9282173;1969800;3343;3730799;7097184;12108;35608495,http://en.wikipedia.org/wiki/KK_Split,KK Split,kk-split,kk-split,UNK
+Split,293369,224,105,,http://en.wikipedia.org/wiki/Stock_split,Stock split,stock-split,stock-split,UNK
+Split,4537586,67,72,,http://en.wikipedia.org/wiki/California_Split,California Split,california-split,california-split,UNK
+Split,242649,506,211,242649,http://en.wikipedia.org/wiki/Split_Enz,Split Enz,split-enz,split-enz,PER
+Split,4444898,195,162,5118739;34244;18952408;5573;4920157;12380394;146972,http://en.wikipedia.org/wiki/Split_Airport,Split Airport,split-airport,split-airport,UNK
+Split,28000995,1,14,19219397,http://en.wikipedia.org/wiki/Split_Mountain_(Montana),Split Mountain,split-mountain,split-mountain-montana,UNK
+Split,5118739,76,55,4444898;18952408;5573;4920157;297809;12380394,http://en.wikipedia.org/wiki/University_of_Split,University of Split,university-of-split,university-of-split,ORG
+Split,14269020,4,128,6169646,"http://en.wikipedia.org/wiki/Split_Island,_Falkland_Islands","Split Island, Falkland Islands",split-island-falkland-islands,split-island-falkland-islands,UNK
+Split,35126166,20,10,6690796;23719773,http://en.wikipedia.org/wiki/Split_Lake_(Manitoba),Split Lake,split-lake,split-lake-manitoba,UNK
+Split,10177813,85,127,,http://en.wikipedia.org/wiki/Splitting_(psychology),Splitting,splitting,splitting-psychology,GPE
+Split,5083290,41,35,,http://en.wikipedia.org/wiki/The_Split,The Split,the-split,the-split,UNK
+Split,6690796,22,100,23719773;35126166,"http://en.wikipedia.org/wiki/Split_Lake,_Manitoba","Split Lake, Manitoba",split-lake-manitoba,split-lake-manitoba,UNK
+Split,23719773,3,10,6690796;35126166,http://en.wikipedia.org/wiki/Split_Lake,Split Lake,split-lake,split-lake,UNK
+Split,4811122,44,40,,http://en.wikipedia.org/wiki/Split_(bowling),Split,split,split-bowling,UNK
+Split,19219397,3,28,41307919;5563937;28000995,http://en.wikipedia.org/wiki/Split_Mountain,Split Mountain,split-mountain,split-mountain,UNK
+Split,26882,10,5,,http://en.wikipedia.org/wiki/Split_(poker),Split,split,split-poker,UNK
+Split,6169646,441,582,14269020,http://en.wikipedia.org/wiki/Split_Island,Split Island,split-island,split-island,UNK
+Split,19512443,20,51,34244;18952408;232269,http://en.wikipedia.org/wiki/Yugoslav_destroyer_Split,Yugoslav destroyer Split,yugoslav-destroyer-split,yugoslav-destroyer-split,UNK
+Split,5563937,34,48,19219397,http://en.wikipedia.org/wiki/Split_Mountain_(California),Split Mountain,split-mountain,split-mountain-california,UNK
+Split,8453583,12,18,4902477,http://en.wikipedia.org/wiki/Split_EP_(EP),Split EP,split-ep,split-ep-ep,UNK
+Split,18952408,1323,546,4920157;17867;5118739;18952408;9804204;630309;5575;5573;232269;12380394;11125639;1639662;19512443;146972;297809;14532;9282173;4444898;27338;11867;12108,"http://en.wikipedia.org/wiki/Split,_Croatia","Split, Croatia",split-croatia,split-croatia,GPE
+Split,41307919,4,21,19219397,http://en.wikipedia.org/wiki/Split_Mountain_(Wyoming),Split Mountain,split-mountain,split-mountain-wyoming,UNK
+Split,4902477,585,14,8453583,http://en.wikipedia.org/wiki/Split_album,Split album,split-album,split-album,UNK
+Split,31125821,5,11,,http://en.wikipedia.org/wiki/Split_estate,Split estate,split-estate,split-estate,ORG
+Split,12254717,12,24,,http://en.wikipedia.org/wiki/Split/EP,Split/EP,split-ep,split-ep,UNK
+Split,11512614,6,7,,http://en.wikipedia.org/wiki/Split_(phylogenetics),Split,split,split-phylogenetics,ORG
+Split,849358,189,141,,http://en.wikipedia.org/wiki/Split_(Unix),Split,split,split-unix,UNK
+Split,27487,179,177,,http://en.wikipedia.org/wiki/Split_screen_(filmmaking),Split screen,split-screen,split-screen-filmmaking,UNK
+Split,4416048,52,99,,http://en.wikipedia.org/wiki/Split_(gymnastics),Split,split,split-gymnastics,UNK
+Split,138378,17,20,,http://en.wikipedia.org/wiki/Splitting_lemma,Splitting lemma,splitting-lemma,splitting-lemma,PER
+Split,490258,34,23,,http://en.wikipedia.org/wiki/Split-brain,Split-brain,split-brain,split-brain,UNK
+Split,12380394,525,350,4444898;5573;27338;4920157;232269;5118739;18952408;297809,http://en.wikipedia.org/wiki/RNK_Split,RNK Split,rnk-split,rnk-split,UNK
+Split,36361857,3,9,,http://en.wikipedia.org/wiki/Split_EP!,Split EP!,split-ep,split-ep,UNK
+Bayer Leverkusen,7097184,87,44,14532;26667;4920157;4739242;11867,http://en.wikipedia.org/wiki/Bayer_Giants_Leverkusen,Bayer Giants Leverkusen,bayer-giants-leverkusen,bayer-giants-leverkusen,UNK
+Efes Pilsen,1396057,283,191,11125639;4431555;540056;5573;27338;7116249;5551651;13615830;1969800;4739242;630196;3730799;25391;12108;35608495,http://en.wikipedia.org/wiki/Anadolu_Efes_S.K.,Anadolu Efes S.K.,anadolu-efes-sk,anadolu-efes-sk,ORG
+Pau-Orthez,3830347,177,67,540056;5573;27338;5843419;7116249;1973041;1969800;630196;35608495,http://en.wikipedia.org/wiki/Élan_Béarnais_Pau-Orthez,Élan Béarnais Pau-Orthez,elan-bearnais-pau-orthez,elan-bearnais-pau-orthez,UNK
+Partizan Belgrade,5551651,577,274,4431555;630309;4920157;5843419;5551651;13615830;4739242;3730799;1396057;540056;297809;7116249;1973041;1969800;630196;35608495,http://en.wikipedia.org/wiki/KK_Partizan,KK Partizan,kk-partizan,kk-partizan,UNK
+Yugoslavia,34244,7977,306,2879398;11125639;297809;34244;11887947;5575;5573;630196;782786;3313708;9804204;19512443;479389;4444898;27338;15850865;12108;42374;540056;232269;14532,http://en.wikipedia.org/wiki/Yugoslavia,Yugoslavia,yugoslavia,yugoslavia,GPE
+Yugoslavia,232269,3171,378,167422;17867;9804204;2879398;11125639;19512443;1008145;297809;34244;27338;5843419;11867;15850865;12108;42374;1917091;715240;11887947;18952408;5575;5573;232269;12380394;782786;14532;2582233,http://en.wikipedia.org/wiki/Kingdom_of_Yugoslavia,Kingdom of Yugoslavia,kingdom-of-yugoslavia,kingdom-of-yugoslavia,GPE
+Yugoslavia,782786,1832,377,722668;715240;769536;362466;232269;25127146;33166;609825;1008145;297809;743577;14532;250204;250197;34244;5843419;3343;26667;679716,http://en.wikipedia.org/wiki/Yugoslavia_national_football_team,Yugoslavia national football team,yugoslavia-national-football-team,yugoslavia-national-football-team,UNK
+Yugoslavia,11632868,2,5,,http://en.wikipedia.org/wiki/For_Yugoslavia,For Yugoslavia,for-yugoslavia,for-yugoslavia,UNK
+Yugoslavia,297809,11798,604,8617329;11125639;33166;609825;1008145;297809;34244;5551651;3730799;715240;769536;630309;5575;5573;362466;12380394;68187;782786;167422;722668;5118739;9804204;250204;250197;27338;12108;42374;540056;679716;13058;4920157;18952408;232269;743577;14532;35608495,http://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia,Socialist Federal Republic of Yugoslavia,socialist-federal-republic-of-yugoslavia,socialist-federal-republic-of-yugoslavia,GPE
+Kinder Bologna,630309,206,185,630298;4431555;4443;26667;540056;18952408;5573;27338;4920157;297809;5843419;7116249;17867;14532;5551651;1973041;9282173;630196;3730799;25391;12108;35608495,http://en.wikipedia.org/wiki/Virtus_Pallacanestro_Bologna,Virtus Pallacanestro Bologna,virtus-pallacanestro-bologna,virtus-pallacanestro-bologna,ORG
+Sevilla,4127601,266,162,3227322;26667;1969800;7740223;25391;35608495,http://en.wikipedia.org/wiki/CB_Sevilla,CB Sevilla,cb-sevilla,cb-sevilla,ORG
+Sevilla,23397185,57,100,243500;33399611;26667;5843419,http://en.wikipedia.org/wiki/Sevilla_FC_(Superleague_Formula_team),Sevilla FC,sevilla-fc,sevilla-fc-superleague-formula-team,PER
+Sevilla,36859149,1,15,143468,http://en.wikipedia.org/wiki/El_Sevilla,El Sevilla,el-sevilla,el-sevilla,PER
+Sevilla,33399611,69,39,243500;24763114;23397185;26667,http://en.wikipedia.org/wiki/Sevilla_FC_(women),Sevilla FC,sevilla-fc,sevilla-fc-women,ORG
+Sevilla,243500,1972,735,4443;1053145;715240;5573;25391;25127146;11125639;33166;609825;68187;243500;14532;250204;250197;33399611;861274;861284;27338;5843419;11867;3343;12108;23397185;26667;3313708,http://en.wikipedia.org/wiki/Sevilla_FC,Sevilla FC,sevilla-fc,sevilla-fc,UNK
+Sevilla,1285750,44,49,26667,"http://en.wikipedia.org/wiki/Sevilla,_Valle_del_Cauca","Sevilla, Valle del Cauca",sevilla-valle-del-cauca,sevilla-valle-del-cauca,GPE
+Sevilla,2090290,126,68,,"http://en.wikipedia.org/wiki/Sevilla,_Bohol","Sevilla, Bohol",sevilla-bohol,sevilla-bohol,UNK
+Sevilla,35203847,5,8,,http://en.wikipedia.org/wiki/Sevilla_(Albéniz),Sevilla,sevilla,sevilla-albeniz,UNK
+Dynamo Moscow,7740223,85,98,3227322;11125639;9282173;4431555;5573;27338;4225160;25391;12108;4127601,http://en.wikipedia.org/wiki/BC_Dynamo_Moscow,BC Dynamo Moscow,bc-dynamo-moscow,bc-dynamo-moscow,ORG
+Dynamo Moscow,4225160,21,25,14038363;36357015;1246931;968856;7740223;7160145;5688654,http://en.wikipedia.org/wiki/Dynamo_Moscow,Dynamo Moscow,dynamo-moscow,dynamo-moscow,UNK
+Dynamo Moscow,5688654,21,13,25391;4225160,http://en.wikipedia.org/wiki/Dynamo_Moscow_Bandy_Club,Dynamo Moscow Bandy Club,dynamo-moscow-bandy-club,dynamo-moscow-bandy-club,UNK
+Dynamo Moscow,14038363,58,43,5573;14532;4225160;7674863;5843419;25391,http://en.wikipedia.org/wiki/VC_Dynamo_Moscow,VC Dynamo Moscow,vc-dynamo-moscow,vc-dynamo-moscow,UNK
+Dynamo Moscow,36357015,10,11,4225160;25391,http://en.wikipedia.org/wiki/Dynamo_Moscow_(water_polo),Dynamo Moscow,dynamo-moscow,dynamo-moscow-water-polo,UNK
+Dynamo Moscow,1246931,542,199,4431552;5573;11867;25391;4225160,http://en.wikipedia.org/wiki/HC_Dynamo_Moscow,HC Dynamo Moscow,hc-dynamo-moscow,hc-dynamo-moscow,UNK
+Dynamo Moscow,968856,1187,334,19543180;4225160;861274;5573;11867;25391;12108;25127146,http://en.wikipedia.org/wiki/FC_Dynamo_Moscow,FC Dynamo Moscow,fc-dynamo-moscow,fc-dynamo-moscow,UNK
+Dynamo Moscow,25034051,0,32,25391;26667,http://en.wikipedia.org/wiki/Dynamo_Moscow_(women's_basketball),Dynamo Moscow,dynamo-moscow,dynamo-moscow-womens-basketball,ORG
+Dynamo Moscow,7160145,38,34,5573;4225160;14532;25391;11867,http://en.wikipedia.org/wiki/WVC_Dynamo_Moscow,WVC Dynamo Moscow,wvc-dynamo-moscow,wvc-dynamo-moscow,UNK

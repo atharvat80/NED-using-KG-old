@@ -1,0 +1,114 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Indonesian,14579,33512,439,10573440;1044538;66906;18170761;33186126;11940012;15783711;353707;14647;14644;14579;16275;9148874;40722645;7786306;1632552;23440;217513;2383951;27019;10011631;7316314;1010736;37042;2780681;237564;25677653;2062473;8899178;170641;1226987;1086927;19468532;296889;24317092;2691678;55182;3957345;5717195;2821886,http://en.wikipedia.org/wiki/Indonesia,Indonesia,indonesia,indonesia,GPE
+Indonesian,37042,2555,219,7316314;217513;6572302;11940012;15783711;5717195;25677653;170641;10011631;7786306;353707;14647;14644;14579;10573440;16275;2383951;23440;2780681;2399593,http://en.wikipedia.org/wiki/Indonesian_language,Indonesian language,indonesian-language,indonesian-language,UNK
+Indonesian,2399593,107,115,16275;37042;23440;2399593,http://en.wikipedia.org/wiki/Indonesian_Wikipedia,Indonesian Wikipedia,indonesian-wikipedia,indonesian-wikipedia,UNK
+Indonesian,1632552,73,112,14579;16275,http://en.wikipedia.org/wiki/Indonesian_Airlines,Indonesian Airlines,indonesian-airlines,indonesian-airlines,ORG
+Indonesian,10573440,250,272,11940012;170641;217513;37042;14647;14644;14579;10011631,http://en.wikipedia.org/wiki/Indonesian_literature,Indonesian literature,indonesian-literature,indonesian-literature,UNK
+Indonesian,66906,1120,535,1044538;7316314;217513;14579;16275;15783711;18170761;10011631,http://en.wikipedia.org/wiki/Indonesian_National_Revolution,Indonesian National Revolution,indonesian-national-revolution,indonesian-national-revolution,UNK
+Indonesian,15783711,122,176,16275;217513;37042;14579;66906;271126;18170761;10011631,http://en.wikipedia.org/wiki/Indonesian_occupation_of_East_Timor,Indonesian occupation of East Timor,indonesian-occupation-of-east-timor,indonesian-occupation-of-east-timor,UNK
+Indonesian,7786306,128,105,14579;5717195;37042,http://en.wikipedia.org/wiki/Indonesian_Institute_of_Sciences,Indonesian Institute of Sciences,indonesian-institute-of-sciences,indonesian-institute-of-sciences,ORG
+Indonesian,18170761,62,173,16275;217513;15783711;14579;66906;10011631,http://en.wikipedia.org/wiki/Indonesian_killings_of_1965–66,Indonesian killings of 1965–66,indonesian-killings-of-1965–66,indonesian-killings-of-1965–66,UNK
+Indonesian,9148874,263,265,10977227;14579,http://en.wikipedia.org/wiki/Indonesian_passport,Indonesian passport,indonesian-passport,indonesian-passport,UNK
+Reuters,18998750,9093,418,23440;5717195;18998750;2171552;353844,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Jakarta,16275,5918,554,217513;6572302;5717195;25677653;296889;40722645;24317092;2383951;18170761;27019;2062473;1044538;11940012;15783711;170641;66906;10011631;1632552;37042;353707;14579;55182;1086927;9971445;23440;2780681;3957345;2399593,http://en.wikipedia.org/wiki/Jakarta,Jakarta,jakarta,jakarta,GPE
+Jakarta,16866266,39,63,,http://en.wikipedia.org/wiki/Jakarta_(band),Jakarta,jakarta,jakarta-band,UNK
+Jakarta,55182,142,126,14579;16275;55182,http://en.wikipedia.org/wiki/Jakarta_Project,Jakarta Project,jakarta-project,jakarta-project,UNK
+Jakarta,3957345,7,82,14579;16275;217513,http://en.wikipedia.org/wiki/Jakarta_Tower,Jakarta Tower,jakarta-tower,jakarta-tower,UNK
+Jakarta,29553338,75,60,,http://en.wikipedia.org/wiki/Jakarta_(mango),Jakarta,jakarta,jakarta-mango,UNK
+Jakarta,24317092,30,77,14579;16275;353707;23440;27019,http://en.wikipedia.org/wiki/Greater_Jakarta,Greater Jakarta,greater-jakarta,greater-jakarta,UNK
+Jakarta,6572302,51,10,37042;16275,http://en.wikipedia.org/wiki/Jakarta_Bay,Jakarta Bay,jakarta-bay,jakarta-bay,UNK
+Jakarta,24092727,3,13,,http://en.wikipedia.org/wiki/Jakarta_(DJ),Jakarta,jakarta,jakarta-dj,UNK
+KOMPAS,2383951,139,26,14579;16275;5717195;37042;2780681;2383951,http://en.wikipedia.org/wiki/Kompas,Kompas,kompas,kompas,UNK
+Suharto,217513,824,263,37042;7316314;237564;14647;14579;10573440;16275;15783711;5717195;1086927;1010736;18170761;66906;10011631;3957345;27019,http://en.wikipedia.org/wiki/Suharto,Suharto,suharto,suharto,UNK
+JAKARTA POST,5717195,455,42,16275;37042;2383951;7786306;217513;14579;18998750,http://en.wikipedia.org/wiki/The_Jakarta_Post,The Jakarta Post,the-jakarta-post,the-jakarta-post,UNK
+House of Representatives,19468532,40,156,217778;14579;155519;467207;4493312;17617021;3941312;3695977;3645403;4497460;19468510;23440;34503937;1912306;2953789;29739592;3613683;28334445;21055060;2707214;4232934;293605,http://en.wikipedia.org/wiki/House_of_Representatives,House of Representatives,house-of-representatives,house-of-representatives,UNK
+House of Representatives,61565,2744,194,,http://en.wikipedia.org/wiki/Australian_House_of_Representatives,Australian House of Representatives,australian-house-of-representatives,australian-house-of-representatives,ORG
+House of Representatives,3941312,55,46,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_of_Belarus,House of Representatives of Belarus,house-of-representatives-of-belarus,house-of-representatives-of-belarus,ORG
+House of Representatives,21055060,33,25,19468532,http://en.wikipedia.org/wiki/Prussian_House_of_Representatives,Prussian House of Representatives,prussian-house-of-representatives,prussian-house-of-representatives,UNK
+House of Representatives,3133173,158,70,,http://en.wikipedia.org/wiki/House_of_Representatives_of_Liberia,House of Representatives of Liberia,house-of-representatives-of-liberia,house-of-representatives-of-liberia,UNK
+House of Representatives,293605,2222,390,19468532;19468510;227672;271126;165100;23440,http://en.wikipedia.org/wiki/House_of_Representatives_of_the_Philippines,House of Representatives of the Philippines,house-of-representatives-of-the-philippines,house-of-representatives-of-the-philippines,ORG
+House of Representatives,155519,360,317,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Netherlands),House of Representatives,house-of-representatives,house-of-representatives-netherlands,UNK
+House of Representatives,353844,322,209,18998750,http://en.wikipedia.org/wiki/House_of_Representatives_of_New_Zealand,House of Representatives of New Zealand,house-of-representatives-of-new-zealand,house-of-representatives-of-new-zealand,ORG
+House of Representatives,20083165,2,116,764216,"http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,_127th_General_Assembly","Ohio House of Representatives, 127th General Assembly",ohio-house-of-representatives-127th-general-assembly,ohio-house-of-representatives-127th-general-assembly,PER
+House of Representatives,28334445,10,14,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_of_South_Africa,House of Representatives of South Africa,house-of-representatives-of-south-africa,house-of-representatives-of-south-africa,UNK
+House of Representatives,633627,1371,517,19468510;633627;764216,http://en.wikipedia.org/wiki/Florida_House_of_Representatives,Florida House of Representatives,florida-house-of-representatives,florida-house-of-representatives,UNK
+House of Representatives,1912306,116,82,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Egypt),House of Representatives,house-of-representatives,house-of-representatives-egypt,UNK
+House of Representatives,3645403,68,71,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Nigeria),House of Representatives,house-of-representatives,house-of-representatives-nigeria,UNK
+House of Representatives,11277304,2,8,764216,"http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,_82nd_District","Ohio House of Representatives, 82nd District",ohio-house-of-representatives-82nd-district,ohio-house-of-representatives-82nd-district,UNK
+House of Representatives,467207,314,191,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Fiji),House of Representatives,house-of-representatives,house-of-representatives-fiji,ORG
+House of Representatives,4493312,40,46,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Yemen),House of Representatives,house-of-representatives,house-of-representatives-yemen,UNK
+House of Representatives,4497460,31,89,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Cyprus),House of Representatives,house-of-representatives,house-of-representatives-cyprus,UNK
+House of Representatives,217778,320,308,19468532;217778,http://en.wikipedia.org/wiki/House_of_Representatives_(Japan),House of Representatives,house-of-representatives,house-of-representatives-japan,UNK
+House of Representatives,29739592,56,128,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Burma),House of Representatives,house-of-representatives,house-of-representatives-burma,ORG
+House of Representatives,11244548,4,12,,"http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,_80th_District","Ohio House of Representatives, 80th District",ohio-house-of-representatives-80th-district,ohio-house-of-representatives-80th-district,UNK
+House of Representatives,2953789,40,55,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Belize),House of Representatives,house-of-representatives,house-of-representatives-belize,ORG
+House of Representatives,3695977,80,94,19468532;3613683,http://en.wikipedia.org/wiki/Zanzibar_House_of_Representatives,Zanzibar House of Representatives,zanzibar-house-of-representatives,zanzibar-house-of-representatives,UNK
+House of Representatives,19468510,24027,789,764216;633627;293605;19468532,http://en.wikipedia.org/wiki/United_States_House_of_Representatives,United States House of Representatives,united-states-house-of-representatives,united-states-house-of-representatives,ORG
+House of Representatives,2707214,3,54,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Nepal),House of Representatives,house-of-representatives,house-of-representatives-nepal,UNK
+House of Representatives,13113923,2,15,,"http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,_58th_District","Ohio House of Representatives, 58th District",ohio-house-of-representatives-58th-district,ohio-house-of-representatives-58th-district,UNK
+House of Representatives,764216,1636,356,20083165;19468510;11277304;633627;764216,http://en.wikipedia.org/wiki/Ohio_House_of_Representatives,Ohio House of Representatives,ohio-house-of-representatives,ohio-house-of-representatives,UNK
+House of Representatives,4232934,44,106,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Thailand),House of Representatives,house-of-representatives,house-of-representatives-thailand,GPE
+House of Representatives,3613683,19,96,3695977;19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Somaliland),House of Representatives,house-of-representatives,house-of-representatives-somaliland,GPE
+House of Representatives,4503449,47,59,,http://en.wikipedia.org/wiki/House_of_Representatives_(Morocco),House of Representatives,house-of-representatives,house-of-representatives-morocco,UNK
+House of Representatives,17617021,7,72,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Ceylon),House of Representatives,house-of-representatives,house-of-representatives-ceylon,UNK
+House of Representatives,34503937,1,12,19468532,http://en.wikipedia.org/wiki/House_of_Representatives_(Kenya),House of Representatives,house-of-representatives,house-of-representatives-kenya,PER
+Philippines,23440,42214,1280,1044538;288322;912957;43006184;293605;14647;14644;14579;16275;227672;10977227;10459983;161855;23440;41432950;271126;27021;27019;12830378;1623672;5446333;11237948;37042;2399593;165100;18998750;1226987;19468532;296889;8511378;24317092;2821886;31538645,http://en.wikipedia.org/wiki/Philippines,Philippines,philippines,philippines,GPE
+Philippines,1226987,698,389,227672;1044538;14579;203912;10459983;23440;27019,http://en.wikipedia.org/wiki/Philippines_national_football_team,Philippines national football team,philippines-national-football-team,philippines-national-football-team,UNK
+Philippines,521224,1,2,,http://en.wikipedia.org/wiki/USS_Philippines,USS Philippines,uss-philippines,uss-philippines,UNK
+Philippines,271126,1947,281,11237948;31538645;15783711;10459983;293605;296889;9578539;10011631;227672;288322;165100;10977227;23440,http://en.wikipedia.org/wiki/President_of_the_Philippines,President of the Philippines,president-of-the-philippines,president-of-the-philippines,UNK
+Philippines,9578539,268,304,1623672;227672;10459983;271126,http://en.wikipedia.org/wiki/Philippines_at_the_2008_Summer_Olympics,Philippines at the 2008 Summer Olympics,philippines-at-the-2008-summer-olympics,philippines-at-the-2008-summer-olympics,UNK
+Philippines,31538645,58,91,271126;23440;31538645;7316314,http://en.wikipedia.org/wiki/Greater_Philippines,Greater Philippines,greater-philippines,greater-philippines,UNK
+Philippines,10459983,317,456,227672;271126;23440;1226987;9578539;27019,http://en.wikipedia.org/wiki/Philippines_at_the_Olympics,Philippines at the Olympics,philippines-at-the-olympics,philippines-at-the-olympics,UNK
+Philippine,23440,42214,1280,1044538;288322;912957;43006184;293605;14647;14644;14579;16275;227672;10977227;10459983;161855;23440;41432950;271126;27021;27019;12830378;1623672;5446333;11237948;37042;2399593;165100;18998750;1226987;19468532;296889;8511378;24317092;2821886;31538645,http://en.wikipedia.org/wiki/Philippines,Philippines,philippines,philippines,GPE
+Philippine,12830378,102,24,23440,http://en.wikipedia.org/wiki/Philippine_Institute_of_Volcanology_and_Seismology,Philippine Institute of Volcanology and Seismology,philippine-institute-of-volcanology-and-seismology,philippine-institute-of-volcanology-and-seismology,UNK
+Philippine,41432950,14,13,23440,http://en.wikipedia.org/wiki/Philippine_Stadium,Philippine Stadium,philippine-stadium,philippine-stadium,UNK
+Philippine,165100,2735,456,293605;227672;271126;165100;23440,http://en.wikipedia.org/wiki/Provinces_of_the_Philippines,Provinces of the Philippines,provinces-of-the-philippines,provinces-of-the-philippines,UNK
+Philippine,5446333,160,199,5446333;23440,http://en.wikipedia.org/wiki/Philippine_revolts_against_Spain,Philippine revolts against Spain,philippine-revolts-against-spain,philippine-revolts-against-spain,UNK
+Philippine,10977227,265,290,1623672;227672;23440;271126;9148874;8511378,http://en.wikipedia.org/wiki/Philippine_passport,Philippine passport,philippine-passport,philippine-passport,UNK
+Philippine,227672,1134,398,271126;165100;10977227;10459983;293605;298884;296889;23440;1226987;9578539,http://en.wikipedia.org/wiki/Philippine_peso,Philippine peso,philippine-peso,philippine-peso,UNK
+Philippine,11237948,12,31,23440;271126,http://en.wikipedia.org/wiki/Philippine_Center,Philippine Center,philippine-center,philippine-center,UNK
+Philippine,296889,732,606,227672;271126;1623672;14579;16275;23440,http://en.wikipedia.org/wiki/Philippine_Airlines,Philippine Airlines,philippine-airlines,philippine-airlines,ORG
+Philippine,8511378,204,123,10977227;2932451;23440,http://en.wikipedia.org/wiki/Philippine_nationality_law,Philippine nationality law,philippine-nationality-law,philippine-nationality-law,ORG
+Philippine,288322,605,239,271126;23440,http://en.wikipedia.org/wiki/Philippine_Independent_Church,Philippine Independent Church,philippine-independent-church,philippine-independent-church,UNK
+Philippine,1623672,1273,133,10977227;296889;23440;9578539,http://en.wikipedia.org/wiki/Philippine_Daily_Inquirer,Philippine Daily Inquirer,philippine-daily-inquirer,philippine-daily-inquirer,UNK
+Philippine,912957,1,17,23440,"http://en.wikipedia.org/wiki/Philippine,_Netherlands","Philippine, Netherlands",philippine-netherlands,philippine-netherlands,GPE
+Philippine,161855,43,143,23440,http://en.wikipedia.org/wiki/Philippine_Division,Philippine Division,philippine-division,philippine-division,ORG
+Moro National Liberation Front,2821886,208,139,2821886;23440;14579,http://en.wikipedia.org/wiki/Moro_National_Liberation_Front,Moro National Liberation Front,moro-national-liberation-front,moro-national-liberation-front,UNK
+MNLF,2821886,208,139,2821886;23440;14579,http://en.wikipedia.org/wiki/Moro_National_Liberation_Front,Moro National Liberation Front,moro-national-liberation-front,moro-national-liberation-front,UNK
+MEDIA INDONESIA,2780681,19,8,14579;37042;16275;2383951,http://en.wikipedia.org/wiki/Media_Indonesia,Media Indonesia,media-indonesia,media-indonesia,UNK
+Indonesia,14579,33512,439,10573440;1044538;66906;18170761;33186126;11940012;15783711;353707;14647;14644;14579;16275;9148874;40722645;7786306;1632552;23440;217513;2383951;27019;10011631;7316314;1010736;37042;2780681;237564;25677653;2062473;8899178;170641;1226987;1086927;19468532;296889;24317092;2691678;55182;3957345;5717195;2821886,http://en.wikipedia.org/wiki/Indonesia,Indonesia,indonesia,indonesia,GPE
+Indonesia,66906,1120,535,1044538;7316314;217513;14579;16275;15783711;18170761;10011631,http://en.wikipedia.org/wiki/Indonesian_National_Revolution,Indonesian National Revolution,indonesian-national-revolution,indonesian-national-revolution,UNK
+Indonesia,33186126,6,40,27019;14579,http://en.wikipedia.org/wiki/Indonesia_International,Indonesia International,indonesia-international,indonesia-international,PER
+Indonesia,25677653,8,29,14579;37042;16275,http://en.wikipedia.org/wiki/Indonesia_Museum,Indonesia Museum,indonesia-museum,indonesia-museum,UNK
+Indonesia,10011631,549,187,11940012;16275;15783711;37042;1010736;237564;271126;18170761;217513;170641;14647;14644;14579;66906;10573440,http://en.wikipedia.org/wiki/President_of_Indonesia,President of Indonesia,president-of-indonesia,president-of-indonesia,UNK
+Indonesia,14647,355,506,11940012;37042;217513;170641;23440;14647;14644;14579;10011631;27019;10573440,http://en.wikipedia.org/wiki/Economy_of_Indonesia,Economy of Indonesia,economy-of-indonesia,economy-of-indonesia,UNK
+Indonesia,11940012,117,167,14579;16275;170641;10011631;37042;14647;14644;10573440,http://en.wikipedia.org/wiki/Dance_in_Indonesia,Dance in Indonesia,dance-in-indonesia,dance-in-indonesia,UNK
+Indonesia,14644,205,238,11940012;170641;37042;23440;14647;14644;14579;10011631;27021;10573440,http://en.wikipedia.org/wiki/Geography_of_Indonesia,Geography of Indonesia,geography-of-indonesia,geography-of-indonesia,UNK
+Indonesia,2062473,84,145,14579;16275;40722645,http://en.wikipedia.org/wiki/Rail_transport_in_Indonesia,Rail transport in Indonesia,rail-transport-in-indonesia,rail-transport-in-indonesia,UNK
+Indonesia,353707,397,212,24317092;16275;37042;237564;14579,http://en.wikipedia.org/wiki/University_of_Indonesia,University of Indonesia,university-of-indonesia,university-of-indonesia,ORG
+Indonesia,35327175,5,13,,http://en.wikipedia.org/wiki/Indonesia_Project,Indonesia Project,indonesia-project,indonesia-project,ORG
+Indonesia,1044538,1290,637,66906;1226987;14579;16275;23440;27019,http://en.wikipedia.org/wiki/Indonesia_national_football_team,Indonesia national football team,indonesia-national-football-team,indonesia-national-football-team,UNK
+Indonesia,8899178,9,4,14579,http://en.wikipedia.org/wiki/Indonesia_(Lonely_Planet),Indonesia,indonesia,indonesia-lonely-planet,ORG
+Indonesia,170641,728,243,11940012;16275;37042;1010736;170641;14647;14644;14579;10011631;10573440,http://en.wikipedia.org/wiki/Provinces_of_Indonesia,Provinces of Indonesia,provinces-of-indonesia,provinces-of-indonesia,UNK
+Indonesia,7316314,64,86,14579;66906;217513;37042;31538645,http://en.wikipedia.org/wiki/Greater_Indonesia,Greater Indonesia,greater-indonesia,greater-indonesia,UNK
+Indonesia,2691678,0,7,14579,"http://en.wikipedia.org/wiki/Indonesia,_Go_Open_Source","Indonesia, Go Open Source",indonesia-go-open-source,indonesia-go-open-source,UNK
+South Korea,27019,38617,831,1804216;1044538;203912;33186126;2932451;14647;14579;16275;10459983;23440;217513;27021;27019;598720;1226987;24317092;298884,http://en.wikipedia.org/wiki/South_Korea,South Korea,south-korea,south-korea,GPE
+South Korea,298884,500,219,227672;27019,http://en.wikipedia.org/wiki/South_Korean_won,South Korean won,south-korean-won,south-korean-won,UNK
+South Korea,2932451,170,127,8511378;27019,http://en.wikipedia.org/wiki/South_Korean_nationality_law,South Korean nationality law,south-korean-nationality-law,south-korean-nationality-law,UNK
+South Korea,27021,294,126,23440;14644;27019,http://en.wikipedia.org/wiki/Geography_of_South_Korea,Geography of South Korea,geography-of-south-korea,geography-of-south-korea,UNK
+South Korea,598720,59,92,27019,"http://en.wikipedia.org/wiki/South_Korean_legislative_election,_2004","South Korean legislative election, 2004",south-korean-legislative-election-2004,south-korean-legislative-election-2004,UNK
+Tanjung Priok,1086927,128,65,14579;16275;217513,http://en.wikipedia.org/wiki/Tanjung_Priok,Tanjung Priok,tanjung-priok,tanjung-priok,GPE
+Tanjung Priok,40722645,48,64,14579;16275;2062473,http://en.wikipedia.org/wiki/Tanjung_Priok_Station,Tanjung Priok Station,tanjung-priok-station,tanjung-priok-station,UNK
+Kia,203912,746,310,1804216;203912;1226987;27019,http://en.wikipedia.org/wiki/Kia_Motors,Kia Motors,kia-motors,kia-motors,ORG
+Kia,43006184,1,40,23440,http://en.wikipedia.org/wiki/Kia_PBA_Team,Kia PBA Team,kia-pba-team,kia-pba-team,UNK
+Kia,1804216,81,91,203912;27019,http://en.wikipedia.org/wiki/Kia_Sorento,Kia Sorento,kia-sorento,kia-sorento,UNK
+REPUBLIKA,9971445,25,4,16275,http://en.wikipedia.org/wiki/Republika_(Indonesian_newspaper),Republika,republika,republika-indonesian-newspaper,UNK
+REPUBLIKA,27830738,2,5,,http://en.wikipedia.org/wiki/Republika_(Albanian_newspaper),Republika,republika,republika-albanian-newspaper,PER
+REPUBLIKA,6981240,2,7,6981240,http://en.wikipedia.org/wiki/Republika_(Serbian_magazine),Republika,republika,republika-serbian-magazine,ORG
+REPUBLIKA,19087867,5,13,19087867,http://en.wikipedia.org/wiki/Republika_(Croatian_magazine),Republika,republika,republika-croatian-magazine,ORG
+REPUBLIKA,1793029,16,3,,http://en.wikipedia.org/wiki/Republika_(band),Republika,republika,republika-band,UNK
+Indonesian Democratic Party,1010736,56,61,237564;14579;170641;217513;10011631,http://en.wikipedia.org/wiki/Indonesian_Democratic_Party,Indonesian Democratic Party,indonesian-democratic-party,indonesian-democratic-party,UNK
+PDI,1010736,56,61,237564;14579;170641;217513;10011631,http://en.wikipedia.org/wiki/Indonesian_Democratic_Party,Indonesian Democratic Party,indonesian-democratic-party,indonesian-democratic-party,UNK
+Megawati Sukarnoputri,237564,166,83,217513;1010736;14579;10011631;353707,http://en.wikipedia.org/wiki/Megawati_Sukarnoputri,Megawati Sukarnoputri,megawati-sukarnoputri,megawati-sukarnoputri,PER
+Megawati,237564,166,83,217513;1010736;14579;10011631;353707,http://en.wikipedia.org/wiki/Megawati_Sukarnoputri,Megawati Sukarnoputri,megawati-sukarnoputri,megawati-sukarnoputri,PER

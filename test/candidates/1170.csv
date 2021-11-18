@@ -1,0 +1,190 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+BLINKER,8243662,37,34,47707;177538;9647657;11049;149877;8243662,http://en.wikipedia.org/wiki/Regi_Blinker,Regi Blinker,regi-blinker,regi-blinker,PER
+LONDON,17867,92094,1769,4443;33567266;27902154;423106;12249;11370;1679120;14532;823473;17867;13190957;26748;1290035;13774915;2555166;1413783;187448;3879356;2023355;97027;22437586;98370;238524;1082412;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,823473,354,150,187448;17867;508567;18081,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,326248,1048,124,,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,2023355,27,32,17867;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,238524,118,60,17867,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,118409,547,127,17867;12249,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,7984054,3,37,,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,13190957,2,122,17867,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,187448,1900,216,823473;17867;508567;1477868;640154,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,1679120,12,181,17867;98370;12249,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,98370,828,279,17867;1679120;12249;2023355;97027;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,12249,3253,543,2193334;17867;640154;118409;1113158;1679120;14532;98370;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+LONDON,640154,265,252,97027;187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+Dutch,9647657,3010,688,11108427;719095;8243662;11049;9647657;1168189;26748;11370;19985174;47707;386195;68187;22681791;14532;168079,http://en.wikipedia.org/wiki/Netherlands_national_football_team,Netherlands national football team,netherlands-national-football-team,netherlands-national-football-team,UNK
+Dutch,1939537,294,295,2555166;1656551;19985174,http://en.wikipedia.org/wiki/Canadians_of_Dutch_descent,Canadians of Dutch descent,canadians-of-dutch-descent,canadians-of-dutch-descent,UNK
+Dutch,918733,479,678,1656551;23476997;19985174,http://en.wikipedia.org/wiki/Dutch_cuisine,Dutch cuisine,dutch-cuisine,dutch-cuisine,UNK
+Dutch,663444,40,12,663444,http://en.wikipedia.org/wiki/Dutch_auction,Dutch auction,dutch-auction,dutch-auction,UNK
+Dutch,4418525,316,270,42068978,http://en.wikipedia.org/wiki/Dutch_Clark,Dutch Clark,dutch-clark,dutch-clark,PER
+Dutch,42068978,1,17,4418525,http://en.wikipedia.org/wiki/Dutch_(nickname),Dutch,dutch,dutch-nickname,UNK
+Dutch,498036,295,172,,http://en.wikipedia.org/wiki/Dutch_Defence,Dutch Defence,dutch-defence,dutch-defence,UNK
+Dutch,1313683,134,101,1313726;19985174,http://en.wikipedia.org/wiki/Dutch_Wikipedia,Dutch Wikipedia,dutch-wikipedia,dutch-wikipedia,UNK
+Dutch,8397243,2,16,,http://en.wikipedia.org/wiki/Dutch_Lake,Dutch Lake,dutch-lake,dutch-lake,UNK
+Dutch,173098,341,114,14532,http://en.wikipedia.org/wiki/Dutch_elm_disease,Dutch elm disease,dutch-elm-disease,dutch-elm-disease,UNK
+Dutch,13165865,204,131,19985174,"http://en.wikipedia.org/wiki/Dutch_Church,_Austin_Friars","Dutch Church, Austin Friars",dutch-church-austin-friars,dutch-church-austin-friars,UNK
+Dutch,4628340,199,184,4590816;6762763;1656551;19985174;42737;23476997,http://en.wikipedia.org/wiki/Dutch_Brazil,Dutch Brazil,dutch-brazil,dutch-brazil,GPE
+Dutch,4590816,186,104,4628340;42737;23476997,http://en.wikipedia.org/wiki/Dutch_India,Dutch India,dutch-india,dutch-india,GPE
+Dutch,32520080,109,116,,"http://en.wikipedia.org/wiki/Dutch_Hill,_California","Dutch Hill, California",dutch-hill-california,dutch-hill-california,UNK
+Dutch,6762763,49,128,4628340;42737;23476997,http://en.wikipedia.org/wiki/Dutch_Island_(Rhode_Island),Dutch Island,dutch-island,dutch-island-rhode-island,UNK
+Dutch,36069697,23,112,,"http://en.wikipedia.org/wiki/Dutch_Town,_West_Virginia","Dutch Town, West Virginia",dutch-town-west-virginia,dutch-town-west-virginia,GPE
+Dutch,1656551,2697,305,23476997;6539290;918733;3916477;1939537;2555166;42737;26748;510990;4628340;19985174,http://en.wikipedia.org/wiki/Dutch_people,Dutch people,dutch-people,dutch-people,UNK
+Dutch,1043984,61,58,,http://en.wikipedia.org/wiki/Dutch_Gold,Dutch Gold,dutch-gold,dutch-gold,UNK
+Dutch,34115133,11,27,6539290,http://en.wikipedia.org/wiki/Old_Dutch_(restaurant),Old Dutch,old-dutch,old-dutch-restaurant,UNK
+Dutch,1542517,218,146,,"http://en.wikipedia.org/wiki/Dutch_European_Constitution_referendum,_2005","Dutch European Constitution referendum, 2005",dutch-european-constitution-referendum-2005,dutch-european-constitution-referendum-2005,UNK
+Dutch,42737,1463,296,1656551;23476997;4590816;6762763;2555166;510990;4628340;19985174,http://en.wikipedia.org/wiki/Dutch_East_India_Company,Dutch East India Company,dutch-east-india-company,dutch-east-india-company,ORG
+Dutch,510990,664,59,2555166;1656551;42737;19985174,http://en.wikipedia.org/wiki/Dutch_Reformed_Church,Dutch Reformed Church,dutch-reformed-church,dutch-reformed-church,UNK
+Dutch,2555166,234,339,17867;1656551;42737;1939537;510990;19985174;23476997,http://en.wikipedia.org/wiki/Dutch_American,Dutch American,dutch-american,dutch-american,UNK
+Dutch,337249,55,58,19985174,http://en.wikipedia.org/wiki/Dutch_oven,Dutch oven,dutch-oven,dutch-oven,UNK
+Dutch,316073,9,64,26748;14532,http://en.wikipedia.org/wiki/Going_Dutch,Going Dutch,going-dutch,going-dutch,UNK
+Dutch,13774915,24,32,17867,http://en.wikipedia.org/wiki/Dutch_School_(painting),Dutch School,dutch-school,dutch-school-painting,PER
+Dutch,23476997,2445,577,1656551;4590816;918733;6762763;2555166;42737;4628340;19985174,http://en.wikipedia.org/wiki/Dutch_East_Indies,Dutch East Indies,dutch-east-indies,dutch-east-indies,GPE
+Dutch,6539290,128,149,34115133;1656551;19985174,http://en.wikipedia.org/wiki/Old_Dutch,Old Dutch,old-dutch,old-dutch,UNK
+Dutch,19985174,8555,418,23476997;3916477;19985174;2555166;1656551;1313683;9647657;42737;26748;47707;6539290;13165865;918733;1939537;337249;510990;4628340,http://en.wikipedia.org/wiki/Dutch_language,Dutch language,dutch-language,dutch-language,UNK
+Dutch,3916477,146,126,1656551;19985174,http://en.wikipedia.org/wiki/Dutch_nationality_law,Dutch nationality law,dutch-nationality-law,dutch-nationality-law,UNK
+FIFA,11049,13148,603,3482503;68187;1248592;8454634;11049;9647657;11370;386243;386195;168079;719095;8243662;1168189;26748;1167667;20732255,http://en.wikipedia.org/wiki/FIFA,FIFA,fifa,fifa,UNK
+FIFA,20732255,54,159,386243;18119;719095;26748;14532;386195;1168189;11049;11370;68187,http://en.wikipedia.org/wiki/2008_FIFA_World_Player_of_the_Year,2008 FIFA World Player of the Year,2008-fifa-world-player-of-the-year,2008-fifa-world-player-of-the-year,UNK
+FIFA,719095,1505,212,3482503;386243;386195;11049;9647657;1248592;168079;1168189;20732255;11370,http://en.wikipedia.org/wiki/FIFA_World_Rankings,FIFA World Rankings,fifa-world-rankings,fifa-world-rankings,UNK
+FIFA,386243,25,96,1168189;719095;20732255;386195;11049;11370;68187,http://en.wikipedia.org/wiki/1999_FIFA_World_Player_of_the_Year,1999 FIFA World Player of the Year,1999-fifa-world-player-of-the-year,1999-fifa-world-player-of-the-year,UNK
+FIFA,3482503,493,544,168079;3482503;1168189;386195;11049;26748;719095;1248592;11370;14532;26814387,http://en.wikipedia.org/wiki/FIFA_World_Cup_awards,FIFA World Cup awards,fifa-world-cup-awards,fifa-world-cup-awards,ORG
+FIFA,11370,5586,616,17867;719095;149877;11049;9647657;1168189;26748;11370;386243;386195;20732255;3482503;1248592;14532;177538;168079;26814387,http://en.wikipedia.org/wiki/FIFA_World_Cup,FIFA World Cup,fifa-world-cup,fifa-world-cup,UNK
+FIFA,26172697,145,166,68187;11108427;5968710;22681791,http://en.wikipedia.org/wiki/FIFA_11,FIFA 11,fifa-11,fifa-11,UNK
+FIFA,386195,1719,259,386243;386195;18119;719095;20732255;3482503;68187;11049;9647657;1248592;14532;168079;1168189;11370,http://en.wikipedia.org/wiki/FIFA_World_Player_of_the_Year,FIFA World Player of the Year,fifa-world-player-of-the-year,fifa-world-player-of-the-year,UNK
+FIFA,5968710,105,125,26172697;11108427;22681791,http://en.wikipedia.org/wiki/FIFA_Football_2004,FIFA Football 2004,fifa-football-2004,fifa-football-2004,UNK
+FIFA,22681791,155,211,9647657;68187;26172697;14532;11108427;5968710,http://en.wikipedia.org/wiki/FIFA_10,FIFA 10,fifa-10,fifa-10,UNK
+FIFA,1248592,2093,398,4443;386195;18119;719095;3482503;68187;11049;14708;1248592;14532;8454634;1168189;11370,http://en.wikipedia.org/wiki/FIFA_Club_World_Cup,FIFA Club World Cup,fifa-club-world-cup,fifa-club-world-cup,ORG
+FIFA,11108427,155,285,26748;9647657;26172697;14532;5968710;22681791,http://en.wikipedia.org/wiki/FIFA_08,FIFA 08,fifa-08,fifa-08,UNK
+FIFA,8454634,135,136,1248592;68187;14532;11049,http://en.wikipedia.org/wiki/2007_FIFA_Club_World_Cup,2007 FIFA Club World Cup,2007-fifa-club-world-cup,2007-fifa-club-world-cup,UNK
+FIFA,168079,3921,505,719095;11049;9647657;1168189;11370;386195;3482503;68187;168079;26814387,http://en.wikipedia.org/wiki/2010_FIFA_World_Cup,2010 FIFA World Cup,2010-fifa-world-cup,2010-fifa-world-cup,UNK
+FIFA,1168189,1968,312,386243;386195;719095;20732255;3482503;11049;9647657;1248592;168079;1168189;11370,http://en.wikipedia.org/wiki/FIFA_U-20_World_Cup,FIFA U-20 World Cup,fifa-u-20-world-cup,fifa-u-20-world-cup,ORG
+FIFA,26814387,147,305,168079;14708;3482503;11370;14532,http://en.wikipedia.org/wiki/FIFA_World_Cup_official_songs,FIFA World Cup official songs,fifa-world-cup-official-songs,fifa-world-cup-official-songs,UNK
+Sheffield Wednesday,177538,3599,404,18119;8243662;26748;11370;68187;14532;177538,http://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C.,Sheffield Wednesday F.C.,sheffield-wednesday-fc,sheffield-wednesday-fc,UNK
+Liverpool,18119,6653,733,18119;18081;25902071;68187;1248592;177538;4790849;149877;23395723;47707;386195;20732255;14532,http://en.wikipedia.org/wiki/Liverpool_F.C.,Liverpool F.C.,liverpool-fc,liverpool-fc,ORG
+Liverpool,97027,1210,776,17867;98370;640154;97027,http://en.wikipedia.org/wiki/Liverpool_Street_station,Liverpool Street station,liverpool-street-station,liverpool-street-station,UNK
+Liverpool,133560,66,69,133561,"http://en.wikipedia.org/wiki/Liverpool,_Pennsylvania","Liverpool, Pennsylvania",liverpool-pennsylvania,liverpool-pennsylvania,GPE
+Liverpool,111207,80,92,10293974,"http://en.wikipedia.org/wiki/Liverpool,_Illinois","Liverpool, Illinois",liverpool-illinois,liverpool-illinois,GPE
+Liverpool,4047653,179,123,252268;2583501,http://en.wikipedia.org/wiki/Electoral_district_of_Liverpool,Electoral district of Liverpool,electoral-district-of-liverpool,electoral-district-of-liverpool,UNK
+Liverpool,4470985,69,121,18081,http://en.wikipedia.org/wiki/Liverpool_(store),Liverpool,liverpool,liverpool-store,UNK
+Liverpool,5790450,136,113,18081,http://en.wikipedia.org/wiki/Liverpool_College,Liverpool College,liverpool-college,liverpool-college,ORG
+Liverpool,3591504,31,9,18081,http://en.wikipedia.org/wiki/Liverpool_Stadium,Liverpool Stadium,liverpool-stadium,liverpool-stadium,UNK
+Liverpool,164508,591,458,32831571;26748;18081,http://en.wikipedia.org/wiki/Liverpool_John_Lennon_Airport,Liverpool John Lennon Airport,liverpool-john-lennon-airport,liverpool-john-lennon-airport,UNK
+Liverpool,13503485,0,2,5452882;9424718,"http://en.wikipedia.org/wiki/Liverpool_Township,_Ohio","Liverpool Township, Ohio",liverpool-township-ohio,liverpool-township-ohio,UNK
+Liverpool,4790849,166,123,18119;18081;1167667,http://en.wikipedia.org/wiki/Liverpool_F.C._(Montevideo),Liverpool F.C.,liverpool-fc,liverpool-fc-montevideo,ORG
+Liverpool,23395723,160,128,18119;14532,http://en.wikipedia.org/wiki/Liverpool_F.C._(Superleague_Formula_team),Liverpool F.C.,liverpool-fc,liverpool-fc-superleague-formula-team,UNK
+Liverpool,2583501,210,276,5378144;18081;14708;4047653;252268,http://en.wikipedia.org/wiki/City_of_Liverpool_(New_South_Wales),City of Liverpool,city-of-liverpool,city-of-liverpool-new-south-wales,UNK
+Liverpool,32932197,2,24,18081;6630771;32932197,http://en.wikipedia.org/wiki/Liverpool_City_(1906)_(rugby_league),Liverpool City (1906),liverpool-city-1906,liverpool-city-1906-rugby-league,UNK
+Liverpool,30073375,4,16,18081,http://en.wikipedia.org/wiki/Liverpool_Beach,Liverpool Beach,liverpool-beach,liverpool-beach,UNK
+Liverpool,251259,243,142,18081,"http://en.wikipedia.org/wiki/Liverpool,_Nova_Scotia","Liverpool, Nova Scotia",liverpool-nova-scotia,liverpool-nova-scotia,GPE
+Liverpool,6630771,200,88,18081;32932197;6630771,http://en.wikipedia.org/wiki/Liverpool_City_(rugby_league),Liverpool City,liverpool-city,liverpool-city-rugby-league,UNK
+Liverpool,19177244,9,30,18081,http://en.wikipedia.org/wiki/HM_Prison_Liverpool,HM Prison Liverpool,hm-prison-liverpool,hm-prison-liverpool,UNK
+Liverpool,5452882,47,61,9424718;13503485,"http://en.wikipedia.org/wiki/Liverpool_Township,_Medina_County,_Ohio","Liverpool Township, Medina County, Ohio",liverpool-township-medina-county-ohio,liverpool-township-medina-county-ohio,GPE
+Liverpool,1680751,116,27,18081;1477868,"http://en.wikipedia.org/wiki/Liverpool,_Southport_and_Preston_Junction_Railway","Liverpool, Southport and Preston Junction Railway",liverpool-southport-and-preston-junction-railway,liverpool-southport-and-preston-junction-railway,UNK
+Liverpool,1680734,32,32,18081,"http://en.wikipedia.org/wiki/Liverpool,_Ormskirk_and_Preston_Railway","Liverpool, Ormskirk and Preston Railway",liverpool-ormskirk-and-preston-railway,liverpool-ormskirk-and-preston-railway,UNK
+Liverpool,1082412,13,9,17867,http://en.wikipedia.org/wiki/Liverpool_Road,Liverpool Road,liverpool-road,liverpool-road,UNK
+Liverpool,18081,12350,1046,19177244;1680734;1680751;32932197;4790849;164508;6630771;135545;14532;823473;32831571;156512;18119;18081;30073375;3591504;2583501;252268;5790450;3460478;251259;338589;126887;4470985,http://en.wikipedia.org/wiki/Liverpool,Liverpool,liverpool,liverpool,GPE
+Liverpool,13703453,1,17,,"http://en.wikipedia.org/wiki/Liverpool,_New_York_&_Philadelphia_S._S._Co._v._Commissioners_of_Emigration","Liverpool, New York & Philadelphia S. S. Co. v. Commissioners of Emigration",liverpool-new-york-philadelphia-s-s-co-v-commissioners-of-emigration,liverpool-new-york-philadelphia-s-s-co-v-commissioners-of-emigration,UNK
+Liverpool,32831571,4,116,18081;164508,"http://en.wikipedia.org/wiki/Liverpool,_London_and_Globe_Building","Liverpool, London and Globe Building",liverpool-london-and-globe-building,liverpool-london-and-globe-building,UNK
+Liverpool,133561,43,57,133560,"http://en.wikipedia.org/wiki/Liverpool_Township,_Perry_County,_Pennsylvania","Liverpool Township, Perry County, Pennsylvania",liverpool-township-perry-county-pennsylvania,liverpool-township-perry-county-pennsylvania,GPE
+Liverpool,34866636,55,21,,"http://en.wikipedia.org/wiki/Liverpool,_Indiana","Liverpool, Indiana",liverpool-indiana,liverpool-indiana,UNK
+Liverpool,10293974,78,95,111207,"http://en.wikipedia.org/wiki/Liverpool_Township,_Fulton_County,_Illinois","Liverpool Township, Fulton County, Illinois",liverpool-township-fulton-county-illinois,liverpool-township-fulton-county-illinois,UNK
+Liverpool,10561040,48,58,,http://en.wikipedia.org/wiki/Liverpool_Victoria,Liverpool Victoria,liverpool-victoria,liverpool-victoria,UNK
+Liverpool,41986971,10,19,,"http://en.wikipedia.org/wiki/Liverpool_Street,_Hobart","Liverpool Street, Hobart",liverpool-street-hobart,liverpool-street-hobart,UNK
+Liverpool,2746448,97,75,,"http://en.wikipedia.org/wiki/Liverpool_Street,_Sydney","Liverpool Street, Sydney",liverpool-street-sydney,liverpool-street-sydney,UNK
+Liverpool,135545,57,71,18081,"http://en.wikipedia.org/wiki/Liverpool,_Texas","Liverpool, Texas",liverpool-texas,liverpool-texas,GPE
+Liverpool,252268,302,118,5378144;18081;4047653;2583501,"http://en.wikipedia.org/wiki/Liverpool,_New_South_Wales","Liverpool, New South Wales",liverpool-new-south-wales,liverpool-new-south-wales,UNK
+Liverpool,33392817,146,166,,"http://en.wikipedia.org/wiki/Liverpool,_West_Virginia","Liverpool, West Virginia",liverpool-west-virginia,liverpool-west-virginia,UNK
+Liverpool,9424718,56,73,5452882;13503485,"http://en.wikipedia.org/wiki/Liverpool_Township,_Columbiana_County,_Ohio","Liverpool Township, Columbiana County, Ohio",liverpool-township-columbiana-county-ohio,liverpool-township-columbiana-county-ohio,GPE
+Liverpool,1676943,7,21,,"http://en.wikipedia.org/wiki/Liverpool,_St_Helens_and_South_Lancashire_Railway","Liverpool, St Helens and South Lancashire Railway",liverpool-st-helens-and-south-lancashire-railway,liverpool-st-helens-and-south-lancashire-railway,UNK
+Liverpool,3460478,119,29,18081,http://en.wikipedia.org/wiki/Liverpool_Bay,Liverpool Bay,liverpool-bay,liverpool-bay,UNK
+Liverpool,156512,1405,468,156512;18081,http://en.wikipedia.org/wiki/University_of_Liverpool,University of Liverpool,university-of-liverpool,university-of-liverpool,ORG
+Liverpool,338589,36,35,18081,http://en.wikipedia.org/wiki/Liverpool_Castle,Liverpool Castle,liverpool-castle,liverpool-castle,UNK
+Liverpool,25902071,0,10,18119,http://en.wikipedia.org/wiki/Liverpool_(We're_Never_Gonna...),Liverpool,liverpool,liverpool-were-never-gonna,UNK
+Liverpool,126887,152,116,18081,"http://en.wikipedia.org/wiki/Liverpool,_New_York","Liverpool, New York",liverpool-new-york,liverpool-new-york,GPE
+Liverpool,5378144,11,19,2583501;252268,http://en.wikipedia.org/wiki/Liverpool_Hospital,Liverpool Hospital,liverpool-hospital,liverpool-hospital,ORG
+Liverpool,1477868,44,31,187448;1680751,"http://en.wikipedia.org/wiki/Liverpool,_Crosby_and_Southport_Railway","Liverpool, Crosby and Southport Railway",liverpool-crosby-and-southport-railway,liverpool-crosby-and-southport-railway,UNK
+Blinker,8243662,37,34,47707;177538;9647657;11049;149877;8243662,http://en.wikipedia.org/wiki/Regi_Blinker,Regi Blinker,regi-blinker,regi-blinker,PER
+Wednesday,177538,3599,404,18119;8243662;26748;11370;68187;14532;177538,http://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C.,Sheffield Wednesday F.C.,sheffield-wednesday-fc,sheffield-wednesday-fc,UNK
+Udinese,149877,2019,586,47707;18119;223464;68187;149877;8243662;14532;26748;11370,http://en.wikipedia.org/wiki/Udinese_Calcio,Udinese Calcio,udinese-calcio,udinese-calcio,UNK
+Udinese,223464,1023,228,223464;149877;14708;14532,http://en.wikipedia.org/wiki/Udine,Udine,udine,udine,UNK
+Feyenoord,47707,1857,929,47707;18119;68187;149877;8243662;9647657;14532;19985174,http://en.wikipedia.org/wiki/Feyenoord,Feyenoord,feyenoord,feyenoord,UNK
+Barcelona,4443,14085,1081,15507196;4443;143468;68187;1248592;14288105;24763114;3409591;8520318;14532;20715108;17867;2098750;1545170;61406;33571114;1167667;20443577,http://en.wikipedia.org/wiki/Barcelona,Barcelona,barcelona,barcelona,GPE
+Barcelona,25569672,6,9,,"http://en.wikipedia.org/wiki/Barcelona,_Rio_Grande_do_Norte","Barcelona, Rio Grande do Norte",barcelona-rio-grande-do-norte,barcelona-rio-grande-do-norte,UNK
+Barcelona,18450352,10,29,18155959,http://en.wikipedia.org/wiki/Barcelona_(indie_rock_band),Barcelona,barcelona,barcelona-indie-rock-band,UNK
+Barcelona,14288105,80,140,4443,http://en.wikipedia.org/wiki/Barcelona_(Spanish_Congress_Electoral_District),Barcelona,barcelona,barcelona-spanish-congress-electoral-district,UNK
+Barcelona,2098750,59,32,4443,"http://en.wikipedia.org/wiki/Barcelona,_Sorsogon","Barcelona, Sorsogon",barcelona-sorsogon,barcelona-sorsogon,UNK
+Barcelona,36638162,64,57,24763114;68187,http://en.wikipedia.org/wiki/FC_Barcelona_(beach_soccer),FC Barcelona,fc-barcelona,fc-barcelona-beach-soccer,ORG
+Barcelona,15507196,3,14,4443,http://en.wikipedia.org/wiki/Barcelona_Mass,Barcelona Mass,barcelona-mass,barcelona-mass,UNK
+Barcelona,24763114,171,117,26748;4443;68187;36638162,http://en.wikipedia.org/wiki/FC_Barcelona_(women),FC Barcelona,fc-barcelona,fc-barcelona-women,UNK
+Barcelona,21287947,1,1,28214781,http://en.wikipedia.org/wiki/Barcelona_Province,Barcelona Province,barcelona-province,barcelona-province,GPE
+Barcelona,18155959,11,20,18450352,http://en.wikipedia.org/wiki/Barcelona_(band),Barcelona,barcelona,barcelona-band,UNK
+Barcelona,20443577,5,108,4443;68187,"http://en.wikipedia.org/wiki/Barcelona,_Cornwall","Barcelona, Cornwall",barcelona-cornwall,barcelona-cornwall,GPE
+Barcelona,16223536,2,3,,"http://en.wikipedia.org/wiki/Barcelona,_Aruba","Barcelona, Aruba",barcelona-aruba,barcelona-aruba,GPE
+Barcelona,1545170,99,82,4443;28214781,"http://en.wikipedia.org/wiki/Barcelona,_Anzoátegui","Barcelona, Anzoátegui",barcelona-anzoategui,barcelona-anzoategui,UNK
+Barcelona,28214781,5,15,1545170;143468;21287947,http://en.wikipedia.org/wiki/Barcelona_Province_(Venezuela),Barcelona Province,barcelona-province,barcelona-province-venezuela,UNK
+Barcelona,61406,583,336,4443;26748;14532,http://en.wikipedia.org/wiki/University_of_Barcelona,University of Barcelona,university-of-barcelona,university-of-barcelona,ORG
+Barcelona,8520318,14,29,4443,http://en.wikipedia.org/wiki/Barcelona_(Tarrafal),Barcelona,barcelona,barcelona-tarrafal,UNK
+Barcelona,68187,3993,675,18119;24763114;36638162;149877;11049;9647657;1167667;26172697;4443;47707;386243;386195;20443577;20732255;68187;22681791;1248592;14532;8454634;177538;168079,http://en.wikipedia.org/wiki/FC_Barcelona,FC Barcelona,fc-barcelona,fc-barcelona,ORG
+Barcelona,8584792,0,169,,http://en.wikipedia.org/wiki/Barcelona_Light,Barcelona Light,barcelona-light,barcelona-light,UNK
+Barcelona,1167667,499,153,4443;68187;4790849;11049,http://en.wikipedia.org/wiki/Barcelona_Sporting_Club,Barcelona Sporting Club,barcelona-sporting-club,barcelona-sporting-club,UNK
+Barcelona,20715108,2,10,4443,http://en.wikipedia.org/wiki/A_Barcelona,A Barcelona,a-barcelona,a-barcelona,UNK
+Barcelona,143468,756,376,4443;28214781,http://en.wikipedia.org/wiki/Province_of_Barcelona,Province of Barcelona,province-of-barcelona,province-of-barcelona,UNK
+Barcelona,3409591,438,85,4443,http://en.wikipedia.org/wiki/County_of_Barcelona,County of Barcelona,county-of-barcelona,county-of-barcelona,GPE
+Barcelona,33571114,11,11,4443,http://en.wikipedia.org/wiki/W_Barcelona,W Barcelona,w-barcelona,w-barcelona,UNK
+Italian,14532,127197,1418,4443;8454634;18031041;12249;11370;14708;14532;17867;18119;18081;23395723;26748;316073;47707;61406;1413783;68187;22681791;378368;880179;386195;385155;361362;2611817;20732255;3482503;1248592;11108427;149877;173098;177538;427067;9647657;223464;12163320;26814387;7351032;6204349;493696,http://en.wikipedia.org/wiki/Italy,Italy,italy,italy,GPE
+Italian,1081834,172,129,,http://en.wikipedia.org/wiki/Italian_beef,Italian beef,italian-beef,italian-beef,UNK
+Italian,1313726,303,186,1313726;1313683;14708,http://en.wikipedia.org/wiki/Italian_Wikipedia,Italian Wikipedia,italian-wikipedia,italian-wikipedia,UNK
+Italian,12163320,2,52,26748;14532,http://en.wikipedia.org/wiki/Italian_International,Italian International,italian-international,italian-international,PER
+Italian,385155,3075,366,1413783;26748;7351032;378368;385155;14708;14532,http://en.wikipedia.org/wiki/Italians,Italians,italians,italians,UNK
+Italian,880179,350,513,14532,"http://en.wikipedia.org/wiki/Italian_Market,_Philadelphia","Italian Market, Philadelphia",italian-market-philadelphia,italian-market-philadelphia,UNK
+Italian,14708,17319,410,313833;378368;144626;1248592;26814387;16655646;385155;14708;14532;7351032;361362;2583501;223464;1413783;1313726;26748;6204349,http://en.wikipedia.org/wiki/Italian_language,Italian language,italian-language,italian-language,UNK
+Italian,18031041,4,9,14532,http://en.wikipedia.org/wiki/Italian_Church_(Bucharest),Italian Church,italian-church,italian-church-bucharest,UNK
+Italian,6204349,263,175,26748;14708;14532,http://en.wikipedia.org/wiki/Italian_Sign_Language,Italian Sign Language,italian-sign-language,italian-sign-language,UNK
+Italian,6493213,5,9,,http://en.wikipedia.org/wiki/Italian_Bridge,Italian Bridge,italian-bridge,italian-bridge,UNK
+Italian,16655646,77,23,14708,http://en.wikipedia.org/wiki/Italian_Spiderman,Italian Spiderman,italian-spiderman,italian-spiderman,UNK
+Italian,22847067,2,108,,http://en.wikipedia.org/wiki/Italian_Center,Italian Center,italian-center,italian-center,UNK
+Italian,6213646,132,3,,http://en.wikipedia.org/wiki/Italian_Village,Italian Village,italian-village,italian-village,UNK
+Italian,493696,1568,417,14532,http://en.wikipedia.org/wiki/Italian_Campaign_(World_War_II),Italian Campaign,italian-campaign,italian-campaign-world-war-ii,UNK
+Italian,2611817,244,240,14532,http://en.wikipedia.org/wiki/2005_Italian_Grand_Prix,2005 Italian Grand Prix,2005-italian-grand-prix,2005-italian-grand-prix,UNK
+Italian,378368,274,31,14708;385155;14532,http://en.wikipedia.org/wiki/Italian_Peninsula,Italian Peninsula,italian-peninsula,italian-peninsula,UNK
+Italian,30680118,26,98,,http://en.wikipedia.org/wiki/Italian_Lake_(Harrisburg),Italian Lake,italian-lake,italian-lake-harrisburg,UNK
+Italian,1413783,443,218,385155;17867;14708;14532,http://en.wikipedia.org/wiki/Italian_opera,Italian opera,italian-opera,italian-opera,UNK
+Swiss,26748,62648,1091,144626;3482503;11049;11370;14708;14532;17867;11108427;162873;149877;26748;313833;316073;177538;24763114;164508;61406;427067;1656551;9647657;12163320;19985174;385155;7351032;361362;20732255;6204349,http://en.wikipedia.org/wiki/Switzerland,Switzerland,switzerland,switzerland,GPE
+Swiss,162873,483,358,361362;26748,http://en.wikipedia.org/wiki/Swiss_International_Air_Lines,Swiss International Air Lines,swiss-international-air-lines,swiss-international-air-lines,ORG
+Swiss,15463860,8,5,,"http://en.wikipedia.org/wiki/Swiss,_North_Carolina","Swiss, North Carolina",swiss-north-carolina,swiss-north-carolina,UNK
+Swiss,27003,118,44,,http://en.wikipedia.org/wiki/Swiss_cheese,Swiss cheese,swiss-cheese,swiss-cheese,UNK
+Swiss,427067,135,76,26748;14532;7351032;144626,http://en.wikipedia.org/wiki/Swiss_mercenaries,Swiss mercenaries,swiss-mercenaries,swiss-mercenaries,UNK
+Swiss,144626,271,205,26748;14708;427067;144626,http://en.wikipedia.org/wiki/Swiss_Guard,Swiss Guard,swiss-guard,swiss-guard,ORG
+Swiss,7351032,640,284,361362;427067;14708;14532;385155;26748,http://en.wikipedia.org/wiki/Swiss_people,Swiss people,swiss-people,swiss-people,UNK
+Swiss,8475710,16,25,,http://en.wikipedia.org/wiki/Swiss_Movement,Swiss Movement,swiss-movement,swiss-movement,UNK
+Swiss,361362,852,263,14708;14532;26748;162873;7351032,http://en.wikipedia.org/wiki/Swiss_franc,Swiss franc,swiss-franc,swiss-franc,UNK
+Swiss,14353790,113,114,,http://en.wikipedia.org/wiki/Swiss_Tower,Swiss Tower,swiss-tower,swiss-tower,UNK
+Swiss,15471841,1,5,,"http://en.wikipedia.org/wiki/Swiss,_Missouri","Swiss, Missouri",swiss-missouri,swiss-missouri,GPE
+Swiss,15463848,51,65,,"http://en.wikipedia.org/wiki/Swiss,_West_Virginia","Swiss, West Virginia",swiss-west-virginia,swiss-west-virginia,GPE
+Swiss,138776,48,71,,"http://en.wikipedia.org/wiki/Swiss,_Wisconsin","Swiss, Wisconsin",swiss-wisconsin,swiss-wisconsin,GPE
+Swiss,313833,297,293,26748;14708,http://en.wikipedia.org/wiki/Swiss_Army_knife,Swiss Army knife,swiss-army-knife,swiss-army-knife,UNK

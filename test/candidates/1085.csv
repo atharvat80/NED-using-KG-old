@@ -1,0 +1,113 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+SWEDEN,578468,3430,805,711598;578468;2840429;18169707;4930626;5058739;3767091,http://en.wikipedia.org/wiki/Sweden_national_football_team,Sweden national football team,sweden-national-football-team,sweden-national-football-team,UNK
+SWEDEN,10791592,32,39,5058739;10791592,http://en.wikipedia.org/wiki/Sweden_Party,Sweden Party,sweden-party,sweden-party,UNK
+SWEDEN,26889,163,292,9239;217537;17514;5058739;26889;17763,http://en.wikipedia.org/wiki/Geography_of_Sweden,Geography of Sweden,geography-of-sweden,geography-of-sweden,UNK
+SWEDEN,38358054,40,54,133621,"http://en.wikipedia.org/wiki/Sweden_Valley,_Pennsylvania","Sweden Valley, Pennsylvania",sweden-valley-pennsylvania,sweden-valley-pennsylvania,GPE
+SWEDEN,37500323,20,41,,"http://en.wikipedia.org/wiki/Sweden,_Arkansas","Sweden, Arkansas",sweden-arkansas,sweden-arkansas,UNK
+SWEDEN,217537,459,295,5058739;217537;26889,http://en.wikipedia.org/wiki/Union_between_Sweden_and_Norway,Union between Sweden and Norway,union-between-sweden-and-norway,union-between-sweden-and-norway,GPE
+SWEDEN,30241072,11,21,,"http://en.wikipedia.org/wiki/Sweden,_Texas","Sweden, Texas",sweden-texas,sweden-texas,UNK
+SWEDEN,5058739,77359,853,976346;9239;9317;133621;17514;578468;18169707;711598;25508;26889;3767091;3402034;1168603;6430550;4930626;207792;217537;5058739;10791592;2840429;6766840,http://en.wikipedia.org/wiki/Sweden,Sweden,sweden,sweden,GPE
+SWEDEN,3767091,118,72,5058739;578468,http://en.wikipedia.org/wiki/Australian_rules_football_in_Sweden,Australian rules football in Sweden,australian-rules-football-in-sweden,australian-rules-football-in-sweden,PER
+SWEDEN,133621,43,54,5058739;38358054,"http://en.wikipedia.org/wiki/Sweden_Township,_Potter_County,_Pennsylvania","Sweden Township, Potter County, Pennsylvania",sweden-township-potter-county-pennsylvania,sweden-township-potter-county-pennsylvania,GPE
+SWEDEN,976346,30,39,5058739,http://en.wikipedia.org/wiki/Name_of_Sweden,Name of Sweden,name-of-sweden,name-of-sweden,UNK
+SWEDEN,126646,65,64,126640,"http://en.wikipedia.org/wiki/Sweden,_New_York","Sweden, New York",sweden-new-york,sweden-new-york,GPE
+SWEDEN,116094,60,85,,"http://en.wikipedia.org/wiki/Sweden,_Maine","Sweden, Maine",sweden-maine,sweden-maine,GPE
+SWEDEN,6430550,146,185,9317;5058739,http://en.wikipedia.org/wiki/Sweden_and_the_euro,Sweden and the euro,sweden-and-the-euro,sweden-and-the-euro,UNK
+LATVIA,711598,953,348,17514;5058739;25508;578468,http://en.wikipedia.org/wiki/Latvia_national_football_team,Latvia national football team,latvia-national-football-team,latvia-national-football-team,UNK
+LATVIA,17514,17600,915,806442;207792;9239;9317;17514;17763;711598;25508;20239156;586818;1979084;26889;126640;6766840;5058739,http://en.wikipedia.org/wiki/Latvia,Latvia,latvia,latvia,GPE
+LATVIA,586818,257,126,17514;25508,http://en.wikipedia.org/wiki/University_of_Latvia,University of Latvia,university-of-latvia,university-of-latvia,ORG
+LATVIA,17763,134,200,17514;26889;17763,http://en.wikipedia.org/wiki/Geography_of_Latvia,Geography of Latvia,geography-of-latvia,geography-of-latvia,UNK
+LATVIA,20239156,67,100,17514,http://en.wikipedia.org/wiki/Latvia_Rugby_League,Latvia Rugby League,latvia-rugby-league,latvia-rugby-league,UNK
+EUROPEAN,9239,51349,1032,9239;9317;17514;25508;26889;191684;1553658;1168603;1338528;25996692;5058739;8707335,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+EUROPEAN,1553658,68,12,9239,http://en.wikipedia.org/wiki/European_Netherlands,European Netherlands,european-netherlands,european-netherlands,UNK
+EUROPEAN,1739264,4,7,674507,"http://en.wikipedia.org/wiki/European_School,_Bergen","European School, Bergen",european-school-bergen,european-school-bergen,ORG
+EUROPEAN,9317,19822,836,8599208;8707335;1014388;7432187;9239;9317;36091903;17514;191684;616004;25508;15125201;2333629;25996692;1168603;6430550;5058739,http://en.wikipedia.org/wiki/European_Union,European Union,european-union,european-union,UNK
+EUROPEAN,1168603,28,107,9239;5058739;9317,http://en.wikipedia.org/wiki/European_Round_Table_of_Industrialists,European Round Table of Industrialists,european-round-table-of-industrialists,european-round-table-of-industrialists,UNK
+EUROPEAN,7432187,9,22,7432187;9317,http://en.wikipedia.org/wiki/European_Union_Public_Licence,European Union Public Licence,european-union-public-licence,european-union-public-licence,UNK
+EUROPEAN,23454667,3,4,674507,"http://en.wikipedia.org/wiki/European_School,_Luxembourg_II","European School, Luxembourg II",european-school-luxembourg-ii,european-school-luxembourg-ii,UNK
+EUROPEAN,8599208,322,346,9317;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Ireland)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-ireland,UNK
+EUROPEAN,3402034,1943,727,3402034;5058739,http://en.wikipedia.org/wiki/European_Figure_Skating_Championships,European Figure Skating Championships,european-figure-skating-championships,european-figure-skating-championships,UNK
+EUROPEAN,1338528,556,124,9239,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+EUROPEAN,2333629,3,14,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Varese","European School, Varese",european-school-varese,european-school-varese,ORG
+EUROPEAN,674507,33,58,1739264;1991050;2333629;23454667;36091903;1014388;25996692;191684,http://en.wikipedia.org/wiki/European_School,European School,european-school,european-school,UNK
+EUROPEAN,31465880,8,18,,http://en.wikipedia.org/wiki/The_European_(2009_magazine),The European,the-european,the-european-2009-magazine,UNK
+EUROPEAN,11696187,17,37,,http://en.wikipedia.org/wiki/European_Song,European Song,european-song,european-song,UNK
+EUROPEAN,36091903,3,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Brussels_III","European School, Brussels III",european-school-brussels-iii,european-school-brussels-iii,ORG
+EUROPEAN,22546545,14,61,,http://en.wikipedia.org/wiki/European_University,European University,european-university,european-university,ORG
+EUROPEAN,15125201,307,276,9317;8599208;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Portugal)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-portugal,UNK
+EUROPEAN,20919804,2,28,20919804,http://en.wikipedia.org/wiki/The_European_(1953_magazine),The European,the-european,the-european-1953-magazine,ORG
+EUROPEAN,1014388,7,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Munich","European School, Munich",european-school-munich,european-school-munich,ORG
+EUROPEAN,616004,129,58,9317;616004,http://en.wikipedia.org/wiki/European_Foundation_(think_tank),European Foundation,european-foundation,european-foundation-think-tank,ORG
+EUROPEAN,17428699,4,24,,http://en.wikipedia.org/wiki/European_Institute,European Institute,european-institute,european-institute,ORG
+EUROPEAN,191684,95,91,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Culham","European School, Culham",european-school-culham,european-school-culham,ORG
+EUROPEAN,41345734,1,9,41345734,http://en.wikipedia.org/wiki/European_Group,European Group,european-group,european-group,UNK
+EUROPEAN,4042903,39,29,,http://en.wikipedia.org/wiki/European_Party_(Cyprus),European Party,european-party,european-party-cyprus,UNK
+EUROPEAN,25996692,3,35,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Karlsruhe","European School, Karlsruhe",european-school-karlsruhe,european-school-karlsruhe,UNK
+EUROPEAN,1991050,8,12,674507,"http://en.wikipedia.org/wiki/European_School,_Mol","European School, Mol",european-school-mol,european-school-mol,UNK
+EUROPEAN,8707335,5,14,9317;9239,http://en.wikipedia.org/wiki/European_Journal,European Journal,european-journal,european-journal,UNK
+EUROPEAN,1338717,69,62,,http://en.wikipedia.org/wiki/The_European_(newspaper),The European,the-european,the-european-newspaper,UNK
+RIGA,25508,4828,907,17514;711598;25508;9239;9317;586818;1979084;28967263;806442;126640;6766840;5058739;207792,http://en.wikipedia.org/wiki/Riga,Riga,riga,riga,UNK
+RIGA,207792,56,61,17514;5058739;25508,http://en.wikipedia.org/wiki/Riga_District,Riga District,riga-district,riga-district,UNK
+RIGA,6766840,80,43,5058739;25508;17514,http://en.wikipedia.org/wiki/FK_Rīga,FK Rīga,fk-riga,fk-riga,UNK
+RIGA,42078602,0,7,,http://en.wikipedia.org/wiki/Riga_Bridge_(Velikaya_River),Riga Bridge,riga-bridge,riga-bridge-velikaya-river,UNK
+RIGA,38577904,122,135,37901602,"http://en.wikipedia.org/wiki/Rigak,_Chaharmahal_and_Bakhtiari","Rigak, Chaharmahal and Bakhtiari",rigak-chaharmahal-and-bakhtiari,rigak-chaharmahal-and-bakhtiari,UNK
+RIGA,26161554,4,6,,http://en.wikipedia.org/wiki/RIGA_Project,RIGA Project,riga-project,riga-project,UNK
+RIGA,29751563,130,142,29751563,http://en.wikipedia.org/wiki/Rig_(fishing),Rig,rig,rig-fishing,UNK
+RIGA,1979084,228,206,17514;25508,http://en.wikipedia.org/wiki/Riga_Castle,Riga Castle,riga-castle,riga-castle,UNK
+RIGA,28967263,1,2,25508,http://en.wikipedia.org/wiki/Riga_(moped),Riga,riga,riga-moped,ORG
+RIGA,39122056,310,323,37901602,"http://en.wikipedia.org/wiki/Rigak,_Kerman","Rigak, Kerman",rigak-kerman,rigak-kerman,UNK
+RIGA,126640,67,62,126646;17514;25508,"http://en.wikipedia.org/wiki/Riga,_New_York","Riga, New York",riga-new-york,riga-new-york,GPE
+RIGA,117958,44,60,,"http://en.wikipedia.org/wiki/Riga_Township,_Michigan","Riga Township, Michigan",riga-township-michigan,riga-township-michigan,GPE
+RIGA,37901602,0,3,38577904;39122056,http://en.wikipedia.org/wiki/Rigak,Rigak,rigak,rigak,GPE
+RIGA,806442,169,171,17514;25508,http://en.wikipedia.org/wiki/Riga_International_Airport,Riga International Airport,riga-international-airport,riga-international-airport,UNK
+Sweden,578468,3430,805,711598;578468;2840429;18169707;4930626;5058739;3767091,http://en.wikipedia.org/wiki/Sweden_national_football_team,Sweden national football team,sweden-national-football-team,sweden-national-football-team,UNK
+Sweden,10791592,32,39,5058739;10791592,http://en.wikipedia.org/wiki/Sweden_Party,Sweden Party,sweden-party,sweden-party,UNK
+Sweden,26889,163,292,9239;217537;17514;5058739;26889;17763,http://en.wikipedia.org/wiki/Geography_of_Sweden,Geography of Sweden,geography-of-sweden,geography-of-sweden,UNK
+Sweden,38358054,40,54,133621,"http://en.wikipedia.org/wiki/Sweden_Valley,_Pennsylvania","Sweden Valley, Pennsylvania",sweden-valley-pennsylvania,sweden-valley-pennsylvania,GPE
+Sweden,37500323,20,41,,"http://en.wikipedia.org/wiki/Sweden,_Arkansas","Sweden, Arkansas",sweden-arkansas,sweden-arkansas,UNK
+Sweden,217537,459,295,5058739;217537;26889,http://en.wikipedia.org/wiki/Union_between_Sweden_and_Norway,Union between Sweden and Norway,union-between-sweden-and-norway,union-between-sweden-and-norway,GPE
+Sweden,30241072,11,21,,"http://en.wikipedia.org/wiki/Sweden,_Texas","Sweden, Texas",sweden-texas,sweden-texas,UNK
+Sweden,5058739,77359,853,976346;9239;9317;133621;17514;578468;18169707;711598;25508;26889;3767091;3402034;1168603;6430550;4930626;207792;217537;5058739;10791592;2840429;6766840,http://en.wikipedia.org/wiki/Sweden,Sweden,sweden,sweden,GPE
+Sweden,3767091,118,72,5058739;578468,http://en.wikipedia.org/wiki/Australian_rules_football_in_Sweden,Australian rules football in Sweden,australian-rules-football-in-sweden,australian-rules-football-in-sweden,PER
+Sweden,133621,43,54,5058739;38358054,"http://en.wikipedia.org/wiki/Sweden_Township,_Potter_County,_Pennsylvania","Sweden Township, Potter County, Pennsylvania",sweden-township-potter-county-pennsylvania,sweden-township-potter-county-pennsylvania,GPE
+Sweden,976346,30,39,5058739,http://en.wikipedia.org/wiki/Name_of_Sweden,Name of Sweden,name-of-sweden,name-of-sweden,UNK
+Sweden,126646,65,64,126640,"http://en.wikipedia.org/wiki/Sweden,_New_York","Sweden, New York",sweden-new-york,sweden-new-york,GPE
+Sweden,116094,60,85,,"http://en.wikipedia.org/wiki/Sweden,_Maine","Sweden, Maine",sweden-maine,sweden-maine,GPE
+Sweden,6430550,146,185,9317;5058739,http://en.wikipedia.org/wiki/Sweden_and_the_euro,Sweden and the euro,sweden-and-the-euro,sweden-and-the-euro,UNK
+Latvia,711598,953,348,17514;5058739;25508;578468,http://en.wikipedia.org/wiki/Latvia_national_football_team,Latvia national football team,latvia-national-football-team,latvia-national-football-team,UNK
+Latvia,17514,17600,915,806442;207792;9239;9317;17514;17763;711598;25508;20239156;586818;1979084;26889;126640;6766840;5058739,http://en.wikipedia.org/wiki/Latvia,Latvia,latvia,latvia,GPE
+Latvia,586818,257,126,17514;25508,http://en.wikipedia.org/wiki/University_of_Latvia,University of Latvia,university-of-latvia,university-of-latvia,ORG
+Latvia,17763,134,200,17514;26889;17763,http://en.wikipedia.org/wiki/Geography_of_Latvia,Geography of Latvia,geography-of-latvia,geography-of-latvia,UNK
+Latvia,20239156,67,100,17514,http://en.wikipedia.org/wiki/Latvia_Rugby_League,Latvia Rugby League,latvia-rugby-league,latvia-rugby-league,UNK
+European,9239,51349,1032,9239;9317;17514;25508;26889;191684;1553658;1168603;1338528;25996692;5058739;8707335,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+European,1553658,68,12,9239,http://en.wikipedia.org/wiki/European_Netherlands,European Netherlands,european-netherlands,european-netherlands,UNK
+European,1739264,4,7,674507,"http://en.wikipedia.org/wiki/European_School,_Bergen","European School, Bergen",european-school-bergen,european-school-bergen,ORG
+European,9317,19822,836,8599208;8707335;1014388;7432187;9239;9317;36091903;17514;191684;616004;25508;15125201;2333629;25996692;1168603;6430550;5058739,http://en.wikipedia.org/wiki/European_Union,European Union,european-union,european-union,UNK
+European,1168603,28,107,9239;5058739;9317,http://en.wikipedia.org/wiki/European_Round_Table_of_Industrialists,European Round Table of Industrialists,european-round-table-of-industrialists,european-round-table-of-industrialists,UNK
+European,7432187,9,22,7432187;9317,http://en.wikipedia.org/wiki/European_Union_Public_Licence,European Union Public Licence,european-union-public-licence,european-union-public-licence,UNK
+European,23454667,3,4,674507,"http://en.wikipedia.org/wiki/European_School,_Luxembourg_II","European School, Luxembourg II",european-school-luxembourg-ii,european-school-luxembourg-ii,UNK
+European,8599208,322,346,9317;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Ireland)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-ireland,UNK
+European,3402034,1943,727,3402034;5058739,http://en.wikipedia.org/wiki/European_Figure_Skating_Championships,European Figure Skating Championships,european-figure-skating-championships,european-figure-skating-championships,UNK
+European,1338528,556,124,9239,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+European,2333629,3,14,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Varese","European School, Varese",european-school-varese,european-school-varese,ORG
+European,674507,33,58,1739264;1991050;2333629;23454667;36091903;1014388;25996692;191684,http://en.wikipedia.org/wiki/European_School,European School,european-school,european-school,UNK
+European,31465880,8,18,,http://en.wikipedia.org/wiki/The_European_(2009_magazine),The European,the-european,the-european-2009-magazine,UNK
+European,11696187,17,37,,http://en.wikipedia.org/wiki/European_Song,European Song,european-song,european-song,UNK
+European,36091903,3,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Brussels_III","European School, Brussels III",european-school-brussels-iii,european-school-brussels-iii,ORG
+European,22546545,14,61,,http://en.wikipedia.org/wiki/European_University,European University,european-university,european-university,ORG
+European,15125201,307,276,9317;8599208;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Portugal)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-portugal,UNK
+European,20919804,2,28,20919804,http://en.wikipedia.org/wiki/The_European_(1953_magazine),The European,the-european,the-european-1953-magazine,ORG
+European,1014388,7,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Munich","European School, Munich",european-school-munich,european-school-munich,ORG
+European,616004,129,58,9317;616004,http://en.wikipedia.org/wiki/European_Foundation_(think_tank),European Foundation,european-foundation,european-foundation-think-tank,ORG
+European,17428699,4,24,,http://en.wikipedia.org/wiki/European_Institute,European Institute,european-institute,european-institute,ORG
+European,191684,95,91,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Culham","European School, Culham",european-school-culham,european-school-culham,ORG
+European,41345734,1,9,41345734,http://en.wikipedia.org/wiki/European_Group,European Group,european-group,european-group,UNK
+European,4042903,39,29,,http://en.wikipedia.org/wiki/European_Party_(Cyprus),European Party,european-party,european-party-cyprus,UNK
+European,25996692,3,35,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Karlsruhe","European School, Karlsruhe",european-school-karlsruhe,european-school-karlsruhe,UNK
+European,1991050,8,12,674507,"http://en.wikipedia.org/wiki/European_School,_Mol","European School, Mol",european-school-mol,european-school-mol,UNK
+European,8707335,5,14,9317;9239,http://en.wikipedia.org/wiki/European_Journal,European Journal,european-journal,european-journal,UNK
+European,1338717,69,62,,http://en.wikipedia.org/wiki/The_European_(newspaper),The European,the-european,the-european-newspaper,UNK
+Joakim Persson,18169707,29,41,578468;5058739,http://en.wikipedia.org/wiki/Joakim_Persson,Joakim Persson,joakim-persson,joakim-persson,PER
+Daniel Andersson,2840429,123,102,5058739;578468;15178719,http://en.wikipedia.org/wiki/Daniel_Andersson_(footballer_born_1977),Daniel Andersson,daniel-andersson,daniel-andersson-footballer-born-1977,PER
+Daniel Andersson,4930626,19,35,578468;5058739;15178719,http://en.wikipedia.org/wiki/Daniel_Andersson_(footballer_born_1972),Daniel Andersson,daniel-andersson,daniel-andersson-footballer-born-1972,PER
+Daniel Andersson,15178719,1,4,4930626;2840429,http://en.wikipedia.org/wiki/Daniel_Andersson,Daniel Andersson,daniel-andersson,daniel-andersson,PER

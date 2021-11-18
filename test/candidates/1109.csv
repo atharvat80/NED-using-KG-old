@@ -1,0 +1,124 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+MILLER,6647379,17,52,3434750;8504;28148156,http://en.wikipedia.org/wiki/Nate_Miller,Nate Miller,nate-miller,nate-miller,PER
+DUBLIN,8504,17483,818,382598;36238232;145190;6514;28148156;41537643;8504;1858148;293794;110212;107333;20042225;31280585;137735;7946104;302560;147849;2759665;3071799;1450475;7298170;6647379;31746013,http://en.wikipedia.org/wiki/Dublin,Dublin,dublin,dublin,GPE
+DUBLIN,41537643,1406,467,145190;8504;3434750;6514;41537643,http://en.wikipedia.org/wiki/University_College_Dublin,University College Dublin,university-college-dublin,university-college-dublin,UNK
+DUBLIN,135851,71,84,3434750,"http://en.wikipedia.org/wiki/Dublin,_Texas","Dublin, Texas",dublin-texas,dublin-texas,GPE
+DUBLIN,127678,33,42,3434750,"http://en.wikipedia.org/wiki/Dublin,_North_Carolina","Dublin, North Carolina",dublin-north-carolina,dublin-north-carolina,GPE
+DUBLIN,112683,52,66,3434750,"http://en.wikipedia.org/wiki/Dublin,_Indiana","Dublin, Indiana",dublin-indiana,dublin-indiana,GPE
+DUBLIN,36238232,11,40,6514;8504,http://en.wikipedia.org/wiki/Dublin_(barony),Dublin,dublin,dublin-barony,UNK
+DUBLIN,302560,165,18,8504;6514,http://en.wikipedia.org/wiki/Dublin_Corporation,Dublin Corporation,dublin-corporation,dublin-corporation,GPE
+DUBLIN,6514,1652,309,145190;147849;8504;293794;6514;41537643;2759665;302560;36238232;3071799;1450475,http://en.wikipedia.org/wiki/County_Dublin,County Dublin,county-dublin,county-dublin,GPE
+DUBLIN,147849,616,232,6514;8504,http://en.wikipedia.org/wiki/Dublin_Castle,Dublin Castle,dublin-castle,dublin-castle,UNK
+DUBLIN,40750205,3,14,,"http://en.wikipedia.org/wiki/Dublin,_Banana_Islands","Dublin, Banana Islands",dublin-banana-islands,dublin-banana-islands,GPE
+DUBLIN,131518,146,151,3434750,"http://en.wikipedia.org/wiki/Dublin,_Pennsylvania","Dublin, Pennsylvania",dublin-pennsylvania,dublin-pennsylvania,GPE
+DUBLIN,7946104,9,21,8504,http://en.wikipedia.org/wiki/Dublin:_Foundation,Dublin: Foundation,dublin-foundation,dublin-foundation,UNK
+DUBLIN,6203627,38,51,6690080;3434750,"http://en.wikipedia.org/wiki/Dublin_Township,_Mercer_County,_Ohio","Dublin Township, Mercer County, Ohio",dublin-township-mercer-county-ohio,dublin-township-mercer-county-ohio,GPE
+DUBLIN,137735,291,474,3434750;8504,"http://en.wikipedia.org/wiki/Dublin,_Virginia","Dublin, Virginia",dublin-virginia,dublin-virginia,GPE
+DUBLIN,1858148,14,27,8504,"http://en.wikipedia.org/wiki/Dublin,_South_Australia","Dublin, South Australia",dublin-south-australia,dublin-south-australia,GPE
+DUBLIN,6690080,0,6,121903;132660;6203627;132608,http://en.wikipedia.org/wiki/Dublin_Township,Dublin Township,dublin-township,dublin-township,GPE
+DUBLIN,1450475,73,49,8504;6514,http://en.wikipedia.org/wiki/Kingdom_of_Dublin,Kingdom of Dublin,kingdom-of-dublin,kingdom-of-dublin,GPE
+DUBLIN,31746013,31,44,3434750;8504,"http://en.wikipedia.org/wiki/Dublin,_Kentucky","Dublin, Kentucky",dublin-kentucky,dublin-kentucky,UNK
+DUBLIN,21462534,34,42,,"http://en.wikipedia.org/wiki/Dublin,_Mississippi","Dublin, Mississippi",dublin-mississippi,dublin-mississippi,GPE
+DUBLIN,132608,31,40,6690080;3434750;141442,"http://en.wikipedia.org/wiki/Dublin_Township,_Fulton_County,_Pennsylvania","Dublin Township, Fulton County, Pennsylvania",dublin-township-fulton-county-pennsylvania,dublin-township-fulton-county-pennsylvania,GPE
+DUBLIN,3071799,190,42,293794;6514;2759665;8504,http://en.wikipedia.org/wiki/Dublin_Region,Dublin Region,dublin-region,dublin-region,UNK
+DUBLIN,145190,511,189,6514;41537643;8504,http://en.wikipedia.org/wiki/University_of_Dublin,University of Dublin,university-of-dublin,university-of-dublin,ORG
+DUBLIN,132660,70,79,6690080;3434750;141442,"http://en.wikipedia.org/wiki/Dublin_Township,_Huntingdon_County,_Pennsylvania","Dublin Township, Huntingdon County, Pennsylvania",dublin-township-huntingdon-county-pennsylvania,dublin-township-huntingdon-county-pennsylvania,GPE
+DUBLIN,124537,251,91,7298170;3434750,"http://en.wikipedia.org/wiki/Dublin,_New_Hampshire","Dublin, New Hampshire",dublin-new-hampshire,dublin-new-hampshire,GPE
+DUBLIN,20042225,51,75,3434750;8504,"http://en.wikipedia.org/wiki/Dublin,_Maryland","Dublin, Maryland",dublin-maryland,dublin-maryland,GPE
+DUBLIN,121903,31,49,6690080;3434750,"http://en.wikipedia.org/wiki/Dublin_Township,_Swift_County,_Minnesota","Dublin Township, Swift County, Minnesota",dublin-township-swift-county-minnesota,dublin-township-swift-county-minnesota,GPE
+DUBLIN,7298170,9,29,124537;8504,http://en.wikipedia.org/wiki/Dublin_School,Dublin School,dublin-school,dublin-school,ORG
+DUBLIN,107333,540,276,150896;3434750;8504,"http://en.wikipedia.org/wiki/Dublin,_California","Dublin, California",dublin-california,dublin-california,GPE
+DUBLIN,141442,1,4,132660;132608,"http://en.wikipedia.org/wiki/Dublin_Township,_Pennsylvania","Dublin Township, Pennsylvania",dublin-township-pennsylvania,dublin-township-pennsylvania,GPE
+DUBLIN,20542401,4,233,110212,"http://en.wikipedia.org/wiki/Dublin,_Georgia,_micropolitan_area","Dublin, Georgia, micropolitan area",dublin-georgia-micropolitan-area,dublin-georgia-micropolitan-area,GPE
+DUBLIN,110212,179,56,20542401;8504;3434750,"http://en.wikipedia.org/wiki/Dublin,_Georgia","Dublin, Georgia",dublin-georgia,dublin-georgia,GPE
+DUBLIN,8684391,9,12,,"http://en.wikipedia.org/wiki/Dublin,_Paterson","Dublin, Paterson",dublin-paterson,dublin-paterson,UNK
+DUBLIN,31280585,29,42,8504,"http://en.wikipedia.org/wiki/Dublin,_Missouri","Dublin, Missouri",dublin-missouri,dublin-missouri,UNK
+DUBLIN,382598,122,48,8504,http://en.wikipedia.org/wiki/Dublin_Bay,Dublin Bay,dublin-bay,dublin-bay,GPE
+DUBLIN,2759665,1886,253,8504;6514;3071799,http://en.wikipedia.org/wiki/Dublin_GAA,Dublin GAA,dublin-gaa,dublin-gaa,GPE
+DUBLIN,293794,612,414,6514;8504;3071799,http://en.wikipedia.org/wiki/Dublin_Airport,Dublin Airport,dublin-airport,dublin-airport,UNK
+DUBLIN,150896,463,238,107333,"http://en.wikipedia.org/wiki/Dublin,_Ohio","Dublin, Ohio",dublin-ohio,dublin-ohio,GPE
+Nate Miller,6647379,17,52,3434750;8504;28148156,http://en.wikipedia.org/wiki/Nate_Miller,Nate Miller,nate-miller,nate-miller,PER
+American,3434750,529967,1252,863;1241;1890;1973;2154;20042225;52269;23455173;11181079;104600;103973;14546728;112683;110212;107333;121903;117005;116773;129519;127678;124537;132608;132660;132765;131518;136532;135851;137735;5727912;199154;6647379;28148156;290327;312898;2546683;376996;386555;3434750;565915;526477;28355249;11739201;31746013;8634235;41537643;37515198;6203627;974923;19792942,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+American,10490364,5,3,10467654,http://en.wikipedia.org/wiki/USS_American,USS American,uss-american,uss-american,UNK
+American,11181079,12,22,23455173;3434750,http://en.wikipedia.org/wiki/American_River_(Washington),American River,american-river,american-river-washington,UNK
+American,19792942,3526,706,290327;863;312898;1241;3434750;1890;1973;2154;386555;974923;199154,http://en.wikipedia.org/wiki/Americans,Americans,americans,americans,UNK
+American,376996,185,213,5280104;5727912;863;3434750,http://en.wikipedia.org/wiki/American_School_(economics),American School,american-school,american-school-economics,UNK
+American,290327,1463,698,863;974923;3434750;1890;1973;2154;19792942,http://en.wikipedia.org/wiki/German_American,German American,german-american,german-american,UNK
+American,28355249,17,6,3434750,http://en.wikipedia.org/wiki/American_Institute,American Institute,american-institute,american-institute,ORG
+American,312898,491,371,386555;3434750;1890;199154;863;19792942;1973,http://en.wikipedia.org/wiki/American_exceptionalism,American exceptionalism,american-exceptionalism,american-exceptionalism,UNK
+American,10467654,4,15,10490364,http://en.wikipedia.org/wiki/USS_American_(1861),USS American,uss-american,uss-american-1861,UNK
+American,103973,364,232,103973;3434750;1890,http://en.wikipedia.org/wiki/General_American,General American,general-american,general-american,UNK
+American,5727912,39,43,3434750;376996,http://en.wikipedia.org/wiki/American_System_(economic_plan),American System,american-system,american-system-economic-plan,UNK
+American,974923,179,286,290327;2154;1890;19792942;3434750,http://en.wikipedia.org/wiki/British_American,British American,british-american,british-american,UNK
+American,4007691,45,63,,"http://en.wikipedia.org/wiki/American_River,_South_Australia","American River, South Australia",american-river-south-australia,american-river-south-australia,UNK
+American,37515198,94,98,3434750;7426580,http://en.wikipedia.org/wiki/American_Party_(1924),American Party,american-party,american-party-1924,ORG
+American,9364258,58,66,,http://en.wikipedia.org/wiki/AmericanEP,AmericanEP,americanep,americanep,UNK
+American,2154,10623,597,863;3434750;1890;1973;2154;974923;290327;19792942,http://en.wikipedia.org/wiki/African_American,African American,african-american,african-american,UNK
+American,2302636,2,23,,http://en.wikipedia.org/wiki/The_American_(statue),The American,the-american,the-american-statue,UNK
+American,1973,5125,668,290327;863;312898;3434750;1890;1973;2154;19792942;386555;116773;199154,http://en.wikipedia.org/wiki/American_Revolution,American Revolution,american-revolution,american-revolution,UNK
+American,7426580,511,119,37515198,http://en.wikipedia.org/wiki/American_Party_(1969),American Party,american-party,american-party-1969,UNK
+American,5280104,3,7,376996,http://en.wikipedia.org/wiki/American_School,American School,american-school,american-school,ORG
+American,5245708,95,90,,http://en.wikipedia.org/wiki/Grand_American,Grand American,grand-american,grand-american,ORG
+American,1890,3485,773,290327;863;312898;1241;3434750;1890;1973;2154;19792942;103973;386555;974923;199154,http://en.wikipedia.org/wiki/American_English,American English,american-english,american-english,UNK
+American,23455173,280,111,11181079;3434750,http://en.wikipedia.org/wiki/American_River,American River,american-river,american-river,UNK
+American,4985225,43,65,,http://en.wikipedia.org/wiki/Mr_American,Mr American,mr-american,mr-american,UNK
+American,386555,1059,630,386555;863;19792942;312898;3434750;1890;199154;1973,http://en.wikipedia.org/wiki/American_Indian_Wars,American Indian Wars,american-indian-wars,american-indian-wars,UNK
+American,23243585,10,25,,http://en.wikipedia.org/wiki/American_Party_(1914),American Party,american-party,american-party-1914,ORG
+American,1241,20,100,1890;19792942;1241;3434750,http://en.wikipedia.org/wiki/American_(word),American,american,american-word,UNK
+American,863,32421,849,863;1890;1973;2154;290327;199154;3434750;312898;376996;19792942;386555,http://en.wikipedia.org/wiki/American_Civil_War,American Civil War,american-civil-war,american-civil-war,UNK
+American,24473004,0,12,,http://en.wikipedia.org/wiki/American_cattle,American cattle,american-cattle,american-cattle,PER
+American,12676486,46,31,,http://en.wikipedia.org/wiki/The_American_(magazine),The American,the-american,the-american-magazine,ORG
+American,191890,3857,578,191890,http://en.wikipedia.org/wiki/American_Idol,American Idol,american-idol,american-idol,UNK
+American,199154,1462,935,386555;863;312898;3434750;1890;1973;19792942,http://en.wikipedia.org/wiki/American_literature,American literature,american-literature,american-literature,UNK
+American,29827906,12,17,,http://en.wikipedia.org/wiki/American_Party_(Utah),American Party,american-party,american-party-utah,ORG
+James Heath,28148156,6,26,8319886;6647379;3434750;8504,http://en.wikipedia.org/wiki/James_Heath_(boxer),James Heath,james-heath,james-heath-boxer,PER
+James Heath,11250781,25,40,8319886,http://en.wikipedia.org/wiki/James_Heath_(engraver),James Heath,james-heath,james-heath-engraver,PER
+James Heath,21685605,7,18,8319886,http://en.wikipedia.org/wiki/James_Heath_(historian),James Heath,james-heath,james-heath-historian,PER
+James Heath,8319865,12,33,8319886;20835749,"http://en.wikipedia.org/wiki/Sir_James_Heath,_1st_Baronet","Sir James Heath, 1st Baronet",sir-james-heath-1st-baronet,sir-james-heath-1st-baronet,PER
+James Heath,8319886,1,12,21685605;11250781;12362202;8319865;28148156,http://en.wikipedia.org/wiki/James_Heath,James Heath,james-heath,james-heath,PER
+James Heath,12362202,8,23,8319886,http://en.wikipedia.org/wiki/James_Heath_(golfer),James Heath,james-heath,james-heath-golfer,UNK
+WBA,11739201,45,93,3434750,http://en.wikipedia.org/wiki/WBAK,WBAK,wbak,wbak,ORG
+Miller,6647379,17,52,3434750;8504;28148156,http://en.wikipedia.org/wiki/Nate_Miller,Nate Miller,nate-miller,nate-miller,PER
+Heath,3600238,17,46,,"http://en.wikipedia.org/wiki/Heath,_Derbyshire","Heath, Derbyshire",heath-derbyshire,heath-derbyshire,GPE
+Heath,997525,73,83,,http://en.wikipedia.org/wiki/Heather_Whitestone,Heather Whitestone,heather-whitestone,heather-whitestone,PER
+Heath,31867035,4,9,26184535,http://en.wikipedia.org/wiki/Heath_Park_(Brisbane),Heath Park,heath-park,heath-park-brisbane,UNK
+Heath,117005,47,67,15195075;3434750,"http://en.wikipedia.org/wiki/Heath_Township,_Michigan","Heath Township, Michigan",heath-township-michigan,heath-township-michigan,GPE
+Heath,24532926,1,44,,"http://en.wikipedia.org/wiki/Heath,_Alberta","Heath, Alberta",heath-alberta,heath-alberta,GPE
+Heath,1770381,300,210,,http://en.wikipedia.org/wiki/Heath_Bell,Heath Bell,heath-bell,heath-bell,PER
+Heath,14546728,100,80,3434750,http://en.wikipedia.org/wiki/Heather_Kuzmich,Heather Kuzmich,heather-kuzmich,heather-kuzmich,PER
+Heath,26184535,0,1,31867035,http://en.wikipedia.org/wiki/Heath_Park,Heath Park,heath-park,heath-park,GPE
+Heath,2546683,31,46,3434750,http://en.wikipedia.org/wiki/Heather_Hunter,Heather Hunter,heather-hunter,heather-hunter,UNK
+Heath,13955,48,45,,http://en.wikipedia.org/wiki/W._Heath_Robinson,W. Heath Robinson,w-heath-robinson,w-heath-robinson,UNK
+Heath,25481578,16,126,38093962;461082,http://en.wikipedia.org/wiki/The_Heath,The Heath,the-heath,the-heath,ORG
+Heath,13355448,165,192,,"http://en.wikipedia.org/wiki/Little_Heath,_Berkshire","Little Heath, Berkshire",little-heath-berkshire,little-heath-berkshire,GPE
+Heath,461082,294,52,25481578,http://en.wikipedia.org/wiki/Heath,Heath,heath,heath,UNK
+Heath,565915,68,63,3434750,http://en.wikipedia.org/wiki/Heath_bar,Heath bar,heath-bar,heath-bar,UNK
+Heath,38093962,8,47,25481578,"http://en.wikipedia.org/wiki/Heath,_Herefordshire","Heath, Herefordshire",heath-herefordshire,heath-herefordshire,GPE
+Heath,20835749,10,53,8319865,http://en.wikipedia.org/wiki/Arthur_Heath,Arthur Heath,arthur-heath,arthur-heath,PER
+Heath,5595305,249,227,,http://en.wikipedia.org/wiki/Heath_Scotland,Heath Scotland,heath-scotland,heath-scotland,UNK
+Heath,23128769,28,38,,http://en.wikipedia.org/wiki/Heath_Railway,Heath Railway,heath-railway,heath-railway,UNK
+Heath,132765,46,56,15195075;3434750,"http://en.wikipedia.org/wiki/Heath_Township,_Jefferson_County,_Pennsylvania","Heath Township, Jefferson County, Pennsylvania",heath-township-jefferson-county-pennsylvania,heath-township-jefferson-county-pennsylvania,GPE
+Heath,15195075,0,2,117005;132765,http://en.wikipedia.org/wiki/Heath_Township,Heath Township,heath-township,heath-township,GPE
+Heath,136532,52,148,3434750,"http://en.wikipedia.org/wiki/Heath,_Texas","Heath, Texas",heath-texas,heath-texas,GPE
+Heath,8634235,3,21,3434750,http://en.wikipedia.org/wiki/Heath_School,Heath School,heath-school,heath-school,ORG
+Heath,16091004,39,60,,"http://en.wikipedia.org/wiki/Little_Heath,_London","Little Heath, London",little-heath-london,little-heath-london,UNK
+Heath,17489833,4,9,,"http://en.wikipedia.org/wiki/Little_Heath,_Coventry","Little Heath, Coventry",little-heath-coventry,little-heath-coventry,UNK
+Heath,34367732,2,5,,"http://en.wikipedia.org/wiki/Little_Heath,_Cheshire_East","Little Heath, Cheshire East",little-heath-cheshire-east,little-heath-cheshire-east,GPE
+Heath,116773,73,135,1973;3434750,"http://en.wikipedia.org/wiki/Heath,_Massachusetts","Heath, Massachusetts",heath-massachusetts,heath-massachusetts,GPE
+Heath,2712446,74,79,,http://en.wikipedia.org/wiki/Heath_(musician),Heath,heath,heath-musician,UNK
+Heath,31532610,25,26,,http://en.wikipedia.org/wiki/Old_Heath,Old Heath,old-heath,old-heath,UNK
+Heath,104600,22,33,3434750,"http://en.wikipedia.org/wiki/Heath,_Alabama","Heath, Alabama",heath-alabama,heath-alabama,GPE
+Heath,27954183,63,54,,"http://en.wikipedia.org/wiki/Heath_Hill,_Victoria","Heath Hill, Victoria",heath-hill-victoria,heath-hill-victoria,UNK
+Heath,1573001,48,41,,http://en.wikipedia.org/wiki/Heath_Town,Heath Town,heath-town,heath-town,UNK
+Heath,847255,125,134,,"http://en.wikipedia.org/wiki/Heath,_Cardiff","Heath, Cardiff",heath-cardiff,heath-cardiff,GPE
+Heath,2890066,61,61,,http://en.wikipedia.org/wiki/Edward_Heath_(New_Orleans),Edward Heath,edward-heath,edward-heath-new-orleans,UNK
+Heath,28371037,2,18,,http://en.wikipedia.org/wiki/Heath_Road,Heath Road,heath-road,heath-road,UNK
+Heath,34639719,8,38,,"http://en.wikipedia.org/wiki/Heath,_Shropshire","Heath, Shropshire",heath-shropshire,heath-shropshire,GPE
+Heath,7345729,43,7,,"http://en.wikipedia.org/wiki/Heath,_Indiana","Heath, Indiana",heath-indiana,heath-indiana,GPE
+Heath,526477,245,163,526477;3434750,http://en.wikipedia.org/wiki/Heather_Headley,Heather Headley,heather-headley,heather-headley,PER
+Heath,17173785,791,647,,http://en.wikipedia.org/wiki/Heath_Ledger,Heath Ledger,heath-ledger,heath-ledger,PER
+Heath,129519,79,84,3434750,"http://en.wikipedia.org/wiki/Heath,_Ohio","Heath, Ohio",heath-ohio,heath-ohio,GPE
+Heath,52269,1214,955,52269;3434750,http://en.wikipedia.org/wiki/Edward_Heath,Edward Heath,edward-heath,edward-heath,PER
+Heath,245977,678,514,245977,http://en.wikipedia.org/wiki/Hampstead_Heath,Hampstead Heath,hampstead-heath,hampstead-heath,UNK
+Heath,12281490,7,20,,http://en.wikipedia.org/wiki/Don_Heath,Don Heath,don-heath,don-heath,PER
+Heath,1892564,12,12,,http://en.wikipedia.org/wiki/Heath_River,Heath River,heath-river,heath-river,UNK

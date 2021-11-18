@@ -1,0 +1,79 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Stagecoach,1040592,958,494,17867;13928055;214764;31717;232036;1194188,http://en.wikipedia.org/wiki/Stagecoach_Group,Stagecoach Group,stagecoach-group,stagecoach-group,UNK
+Stagecoach,30227135,6,36,17867,http://en.wikipedia.org/wiki/Stagecoach_(band),Stagecoach,stagecoach,stagecoach-band,UNK
+Stagecoach,136401,34,51,,"http://en.wikipedia.org/wiki/Stagecoach,_Texas","Stagecoach, Texas",stagecoach-texas,stagecoach-texas,GPE
+Stagecoach,214764,1020,79,17867;1040592;31717;25647068,http://en.wikipedia.org/wiki/Stagecoach,Stagecoach,stagecoach,stagecoach,UNK
+Stagecoach,19688463,17,65,31717,http://en.wikipedia.org/wiki/Stagecoach_Theatre_Arts,Stagecoach Theatre Arts,stagecoach-theatre-arts,stagecoach-theatre-arts,ORG
+Stagecoach,11790744,4,17,23997646,"http://en.wikipedia.org/wiki/Stagecoach,_Colorado","Stagecoach, Colorado",stagecoach-colorado,stagecoach-colorado,UNK
+Stagecoach,23997646,202,153,11790744,http://en.wikipedia.org/wiki/Stagecoach_State_Park,Stagecoach State Park,stagecoach-state-park,stagecoach-state-park,UNK
+Stagecoach,25647068,22,46,214764,"http://en.wikipedia.org/wiki/Stagecoach,_Nevada","Stagecoach, Nevada",stagecoach-nevada,stagecoach-nevada,GPE
+Stagecoach,13928055,77,71,1194188;1040592,http://en.wikipedia.org/wiki/Stagecoach_Cambridgeshire,Stagecoach Cambridgeshire,stagecoach-cambridgeshire,stagecoach-cambridgeshire,UNK
+Stagecoach,1194188,600,102,2193334;17867;1040592;13928055;1113158,http://en.wikipedia.org/wiki/Stagecoach_London,Stagecoach London,stagecoach-london,stagecoach-london,UNK
+Swebus,232036,3,6,5058739;1040592,http://en.wikipedia.org/wiki/Nobina_Sverige,Nobina Sverige,nobina-sverige,nobina-sverige,UNK
+LONDON,17867,92094,1769,3736;4179;33567266;4721;27902154;423106;12249;1679120;823473;17867;13190957;26689;30227135;31717;1290035;187448;3879356;1040592;2023355;1194188;5188309;214764;5058739;22437586;98370;238524;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,2023355,27,32,17867;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,12249,3253,543,2193334;17867;640154;3736;118409;1113158;4721;1679120;98370;31717;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,187448,1900,216,823473;17867;508567;4721;640154;31717,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,1679120,12,181,17867;98370;12249;31717,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,118409,547,127,17867;12249,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,238524,118,60,17867;4721,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,2193334,214,159,1194188;1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,1113158,173,161,1194188;2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,326248,1048,124,31717,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,13190957,2,122,17867;31717,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,7984054,3,37,31717,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+British,31717,184306,1536,3736;4179;4721;12249;1679120;17867;13190957;26689;31717;2528948;4208015;326248;19688463;5058739;3574003;9200791;1513051;7984054;187448;1040592;19097669;201013;5188309;214764;460615;752921;21308184,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+British,22315902,2,16,,http://en.wikipedia.org/wiki/British_school,British school,british-school,british-school,ORG
+British,4721,7762,934,17867;19097669;3574003;3736;4179;4721;238524;12249;4208015;187448;31717;5058739,http://en.wikipedia.org/wiki/British_Empire,British Empire,british-empire,british-empire,UNK
+British,377070,55,22,3736,http://en.wikipedia.org/wiki/British_Islands,British Islands,british-islands,british-islands,UNK
+British,21308184,2,10,31717,"http://en.wikipedia.org/wiki/British_School,_Kuala_Lumpur","British School, Kuala Lumpur",british-school-kuala-lumpur,british-school-kuala-lumpur,ORG
+British,19097669,5651,715,3736;4179;4721;4208015;31717,http://en.wikipedia.org/wiki/British_people,British people,british-people,british-people,UNK
+British,4179,1639,331,17867;4179;4721;19097669;31717;3736,http://en.wikipedia.org/wiki/British_English,British English,british-english,british-english,UNK
+British,460615,608,224,31717,http://en.wikipedia.org/wiki/British_undergraduate_degree_classification,British undergraduate degree classification,british-undergraduate-degree-classification,british-undergraduate-degree-classification,UNK
+British,12068557,33,45,3574003;12068557,http://en.wikipedia.org/wiki/British_India_(band),British India,british-india,british-india-band,UNK
+British,5188309,390,398,31717;17867;5058739;5188309,http://en.wikipedia.org/wiki/Energy_efficiency_in_British_housing,Energy efficiency in British housing,energy-efficiency-in-british-housing,energy-efficiency-in-british-housing,UNK
+British,9200791,227,281,9200791;31717;5058739,http://en.wikipedia.org/wiki/British_Figure_Skating_Championships,British Figure Skating Championships,british-figure-skating-championships,british-figure-skating-championships,UNK
+British,3736,2695,375,17867;4179;4721;377070;19097669;31717;12249;3736,http://en.wikipedia.org/wiki/British_Isles,British Isles,british-isles,british-isles,UNK
+British,752921,36,197,752921;31717,http://en.wikipedia.org/wiki/British_humour,British humour,british-humour,british-humour,UNK
+British,2528948,87,128,1347221;31717,http://en.wikipedia.org/wiki/British_Airways_Flight_9,British Airways Flight 9,british-airways-flight-9,british-airways-flight-9,UNK
+British,1347221,57,98,2528948,http://en.wikipedia.org/wiki/British_Airways_Flight_5390,British Airways Flight 5390,british-airways-flight-5390,british-airways-flight-5390,UNK
+British,4208015,6322,788,19097669;3574003;4721;31717,http://en.wikipedia.org/wiki/British_Raj,British Raj,british-raj,british-raj,GPE
+British,9467811,242,263,,http://en.wikipedia.org/wiki/British_baseball,British baseball,british-baseball,british-baseball,UNK
+British,13353120,113,130,,http://en.wikipedia.org/wiki/British_Band,British Band,british-band,british-band,UNK
+British,201013,43,50,31717,http://en.wikipedia.org/wiki/Lord_British,Lord British,lord-british,lord-british,UNK
+British,3574003,155,303,31717;4208015;4721;12068557,http://en.wikipedia.org/wiki/Presidencies_and_provinces_of_British_India,Presidencies and provinces of British India,presidencies-and-provinces-of-british-india,presidencies-and-provinces-of-british-india,GPE
+British,1513051,536,241,31717;5058739,http://en.wikipedia.org/wiki/British_Formula_Three_Championship,British Formula Three Championship,british-formula-three-championship,british-formula-three-championship,UNK
+Swedish,5058739,77359,853,4721;1515224;17867;1513051;162977;26689;31717;5188309;5058739;9200791;232036,http://en.wikipedia.org/wiki/Sweden,Sweden,sweden,sweden,GPE
+Swedish,162977,406,88,1738964;5058739;26689,http://en.wikipedia.org/wiki/Finland_Swedish,Finland Swedish,finland-swedish,finland-swedish,UNK
+Swedish,26689,7581,370,1515224;17867;4863289;7822176;1738964;162977;26689;18935003;31717;5058739,http://en.wikipedia.org/wiki/Swedish_language,Swedish language,swedish-language,swedish-language,UNK
+Swedish,7822176,26,26,26689;4863289,http://en.wikipedia.org/wiki/Swedish_Theatre_(Stockholm),Swedish Theatre,swedish-theatre,swedish-theatre-stockholm,UNK
+Swedish,1738964,155,188,26689;162977,http://en.wikipedia.org/wiki/Old_Swedish,Old Swedish,old-swedish,old-swedish,UNK
+Swedish,4863289,28,19,26689;7822176,http://en.wikipedia.org/wiki/Swedish_Theatre,Swedish Theatre,swedish-theatre,swedish-theatre,UNK
+Swedish,1515224,79,48,26689;5058739,http://en.wikipedia.org/wiki/Swedish_Institute,Swedish Institute,swedish-institute,swedish-institute,UNK
+Swedish,18935003,120,108,26689;18935003,http://en.wikipedia.org/wiki/Swedish_Wikipedia,Swedish Wikipedia,swedish-wikipedia,swedish-wikipedia,UNK

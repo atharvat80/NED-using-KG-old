@@ -1,0 +1,47 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Singapore,27318,26169,802,350660;2872959;16940961;161591;2670504;1015816;27318;30128;18952243;651583;1866255;1649325;320211;1545225;24471003;3748742;860940;2205844,http://en.wikipedia.org/wiki/Singapore,Singapore,singapore,singapore,GPE
+Singapore,1545225,374,124,1866255;27318;320211;2872959;1545225;1649325;1015816,http://en.wikipedia.org/wiki/Singapore_River,Singapore River,singapore-river,singapore-river,UNK
+Singapore,860940,221,123,2872959;27318;2205844;320211,http://en.wikipedia.org/wiki/Singapore_Management_University,Singapore Management University,singapore-management-university,singapore-management-university,ORG
+Singapore,320211,122,131,1545225;1866255;860940;27318,http://en.wikipedia.org/wiki/Singapore_Botanic_Gardens,Singapore Botanic Gardens,singapore-botanic-gardens,singapore-botanic-gardens,UNK
+Singapore,1866255,177,78,27318;1545225;320211,http://en.wikipedia.org/wiki/Singapore_Tourism_Board,Singapore Tourism Board,singapore-tourism-board,singapore-tourism-board,ORG
+Singapore,16940961,5,19,27318;16940961,http://en.wikipedia.org/wiki/Singapore_International_Water_Week,Singapore International Water Week,singapore-international-water-week,singapore-international-water-week,UNK
+Singapore,161591,800,530,303449;18952243;161591;27318,http://en.wikipedia.org/wiki/Singapore_Airlines,Singapore Airlines,singapore-airlines,singapore-airlines,ORG
+Singapore,2872959,203,227,350660;27318;1545225;860940,http://en.wikipedia.org/wiki/Supreme_Court_of_Singapore,Supreme Court of Singapore,supreme-court-of-singapore,supreme-court-of-singapore,UNK
+Singapore,1015816,172,422,27318;350660;1545225;1649325;1015816,http://en.wikipedia.org/wiki/Geography_of_Singapore,Geography of Singapore,geography-of-singapore,geography-of-singapore,ORG
+Singapore,1649325,221,206,27318;1545225;1015816,"http://en.wikipedia.org/wiki/Esplanade,_Singapore","Esplanade, Singapore",esplanade-singapore,esplanade-singapore,UNK
+Singapore,2205844,205,143,27318;860940,http://en.wikipedia.org/wiki/Singapore_Polytechnic,Singapore Polytechnic,singapore-polytechnic,singapore-polytechnic,ORG
+Singapore,18952243,556,411,161591;27318;303449;18952243,http://en.wikipedia.org/wiki/Singapore_Changi_Airport,Singapore Changi Airport,singapore-changi-airport,singapore-changi-airport,UNK
+Singapore,31607674,2,8,,"http://en.wikipedia.org/wiki/Singapore_Township,_Hyderabad","Singapore Township, Hyderabad",singapore-township-hyderabad,singapore-township-hyderabad,GPE
+Singapore,24471003,2,60,27318,http://en.wikipedia.org/wiki/Singapore_International_Energy_Week,Singapore International Energy Week,singapore-international-energy-week,singapore-international-energy-week,UNK
+Singapore,5679304,5,16,,"http://en.wikipedia.org/wiki/Singapore,_Michigan","Singapore, Michigan",singapore-michigan,singapore-michigan,UNK
+Singapore,350660,494,275,27318;2872959;1015816,http://en.wikipedia.org/wiki/President_of_Singapore,President of Singapore,president-of-singapore,president-of-singapore,UNK
+Thai,30128,32096,645,2722553;2670504;27318;30529;30128;12150640;48647;883010;303449;63731;14590436,http://en.wikipedia.org/wiki/Thailand,Thailand,thailand,thailand,GPE
+Thai,63731,858,479,30529;30128;38921956;48647,http://en.wikipedia.org/wiki/Thai_alphabet,Thai alphabet,thai-alphabet,thai-alphabet,UNK
+Thai,48647,6104,209,2722553;303449;2670504;30529;30128;883010;63731;14590436,http://en.wikipedia.org/wiki/Thai_language,Thai language,thai-language,thai-language,UNK
+Thai,27125998,108,6,883010,"http://en.wikipedia.org/wiki/Thai_Town,_Sydney","Thai Town, Sydney",thai-town-sydney,thai-town-sydney,UNK
+Thai,14590436,58,64,30128;48647,http://en.wikipedia.org/wiki/Thai_Sa,Thai Sa,thai-sa,thai-sa,PER
+Thai,303449,439,442,161591;48647;30529;30128;18952243,http://en.wikipedia.org/wiki/Thai_Airways,Thai Airways,thai-airways,thai-airways,ORG
+Thai,2722553,103,116,30128;48647;2722553,http://en.wikipedia.org/wiki/Thai_Wikipedia,Thai Wikipedia,thai-wikipedia,thai-wikipedia,UNK
+Thai,30529,853,692,30529;30128;303449;48647;883010;63731;2670504,http://en.wikipedia.org/wiki/Thai_cuisine,Thai cuisine,thai-cuisine,thai-cuisine,GPE
+Thai,2670504,1330,352,30529;30128;48647;27318,http://en.wikipedia.org/wiki/Thai_people,Thai people,thai-people,thai-people,UNK
+Thai,883010,137,382,48647;30529;27125998;30128,"http://en.wikipedia.org/wiki/Thai_Town,_Los_Angeles","Thai Town, Los Angeles",thai-town-los-angeles,thai-town-los-angeles,UNK
+Thai,38921956,7,4,63731,http://en.wikipedia.org/wiki/Thai_(Unicode_block),Thai,thai,thai-unicode-block,UNK
+Thai,12150640,0,112,30128,http://en.wikipedia.org/wiki/Thai_cat,Thai cat,thai-cat,thai-cat,UNK
+SINGAPORE,27318,26169,802,350660;2872959;16940961;161591;2670504;1015816;27318;30128;18952243;651583;1866255;1649325;320211;1545225;24471003;3748742;860940;2205844,http://en.wikipedia.org/wiki/Singapore,Singapore,singapore,singapore,GPE
+SINGAPORE,1545225,374,124,1866255;27318;320211;2872959;1545225;1649325;1015816,http://en.wikipedia.org/wiki/Singapore_River,Singapore River,singapore-river,singapore-river,UNK
+SINGAPORE,860940,221,123,2872959;27318;2205844;320211,http://en.wikipedia.org/wiki/Singapore_Management_University,Singapore Management University,singapore-management-university,singapore-management-university,ORG
+SINGAPORE,320211,122,131,1545225;1866255;860940;27318,http://en.wikipedia.org/wiki/Singapore_Botanic_Gardens,Singapore Botanic Gardens,singapore-botanic-gardens,singapore-botanic-gardens,UNK
+SINGAPORE,1866255,177,78,27318;1545225;320211,http://en.wikipedia.org/wiki/Singapore_Tourism_Board,Singapore Tourism Board,singapore-tourism-board,singapore-tourism-board,ORG
+SINGAPORE,16940961,5,19,27318;16940961,http://en.wikipedia.org/wiki/Singapore_International_Water_Week,Singapore International Water Week,singapore-international-water-week,singapore-international-water-week,UNK
+SINGAPORE,161591,800,530,303449;18952243;161591;27318,http://en.wikipedia.org/wiki/Singapore_Airlines,Singapore Airlines,singapore-airlines,singapore-airlines,ORG
+SINGAPORE,2872959,203,227,350660;27318;1545225;860940,http://en.wikipedia.org/wiki/Supreme_Court_of_Singapore,Supreme Court of Singapore,supreme-court-of-singapore,supreme-court-of-singapore,UNK
+SINGAPORE,1015816,172,422,27318;350660;1545225;1649325;1015816,http://en.wikipedia.org/wiki/Geography_of_Singapore,Geography of Singapore,geography-of-singapore,geography-of-singapore,ORG
+SINGAPORE,1649325,221,206,27318;1545225;1015816,"http://en.wikipedia.org/wiki/Esplanade,_Singapore","Esplanade, Singapore",esplanade-singapore,esplanade-singapore,UNK
+SINGAPORE,2205844,205,143,27318;860940,http://en.wikipedia.org/wiki/Singapore_Polytechnic,Singapore Polytechnic,singapore-polytechnic,singapore-polytechnic,ORG
+SINGAPORE,18952243,556,411,161591;27318;303449;18952243,http://en.wikipedia.org/wiki/Singapore_Changi_Airport,Singapore Changi Airport,singapore-changi-airport,singapore-changi-airport,UNK
+SINGAPORE,31607674,2,8,,"http://en.wikipedia.org/wiki/Singapore_Township,_Hyderabad","Singapore Township, Hyderabad",singapore-township-hyderabad,singapore-township-hyderabad,GPE
+SINGAPORE,24471003,2,60,27318,http://en.wikipedia.org/wiki/Singapore_International_Energy_Week,Singapore International Energy Week,singapore-international-energy-week,singapore-international-energy-week,UNK
+SINGAPORE,5679304,5,16,,"http://en.wikipedia.org/wiki/Singapore,_Michigan","Singapore, Michigan",singapore-michigan,singapore-michigan,UNK
+SINGAPORE,350660,494,275,27318;2872959;1015816,http://en.wikipedia.org/wiki/President_of_Singapore,President of Singapore,president-of-singapore,president-of-singapore,UNK
+Changi Prison,651583,143,75,27318,http://en.wikipedia.org/wiki/Changi_Prison,Changi Prison,changi-prison,changi-prison,UNK
+Central Narcotics Bureau,3748742,30,16,27318;3748742,http://en.wikipedia.org/wiki/Central_Narcotics_Bureau,Central Narcotics Bureau,central-narcotics-bureau,central-narcotics-bureau,UNK

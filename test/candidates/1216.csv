@@ -1,0 +1,239 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+POLAND,22936,115021,1647,290327;11884;11867;13083;28878684;4244153;21212;3074893;22975;22936;26748;1131183;32908;32927;10339758;635098;636823;10082478;40620438;112404;1107413;13094692;11555574;152735;10396793;42187354;4329310;15335256;11075690;681862;9387653;3967014;1028194;771860;776028;31045316;260198;25955086,http://en.wikipedia.org/wiki/Poland,Poland,poland,poland,GPE
+POLAND,126523,58,56,126255;141360,"http://en.wikipedia.org/wiki/Poland,_Herkimer_County,_New_York","Poland, Herkimer County, New York",poland-herkimer-county-new-york,poland-herkimer-county-new-york,GPE
+POLAND,28878684,182,266,28878684;22975;22936;11867;32908,http://en.wikipedia.org/wiki/Geography_of_Poland,Geography of Poland,geography-of-poland,geography-of-poland,UNK
+POLAND,635098,9,135,636823;635098;32908;22975;22936;11884;3074893,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1916–18),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1916–18,GPE
+POLAND,37910099,204,218,,http://en.wikipedia.org/wiki/Poland_(sculpture),Poland,poland,poland-sculpture,UNK
+POLAND,3074893,567,26,635098;22975;22936;3074893;636823,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1385–1569),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1385–1569,GPE
+POLAND,115861,87,98,32927,"http://en.wikipedia.org/wiki/Poland,_Maine","Poland, Maine",poland-maine,poland-maine,GPE
+POLAND,13083,591,81,22975;22936;11884;11867;21212;10082478,http://en.wikipedia.org/wiki/Greater_Poland,Greater Poland,greater-poland,greater-poland,GPE
+POLAND,10339758,3,14,22975;22936,"http://en.wikipedia.org/wiki/Poland,_Kiribati","Poland, Kiribati",poland-kiribati,poland-kiribati,GPE
+POLAND,2521075,49,66,65865,"http://en.wikipedia.org/wiki/Poland_Township,_Mahoning_County,_Ohio","Poland Township, Mahoning County, Ohio",poland-township-mahoning-county-ohio,poland-township-mahoning-county-ohio,GPE
+POLAND,17716699,63,83,,"http://en.wikipedia.org/wiki/Poland,_Indiana","Poland, Indiana",poland-indiana,poland-indiana,GPE
+POLAND,141360,0,2,126255;126523,"http://en.wikipedia.org/wiki/Poland,_New_York","Poland, New York",poland-new-york,poland-new-york,UNK
+POLAND,14616196,30,41,,"http://en.wikipedia.org/wiki/Poland_Township,_Buena_Vista_County,_Iowa","Poland Township, Buena Vista County, Iowa",poland-township-buena-vista-county-iowa,poland-township-buena-vista-county-iowa,GPE
+POLAND,3965238,1,6,,http://en.wikipedia.org/wiki/Little_Poland,Little Poland,little-poland,little-poland,GPE
+POLAND,65865,89,70,2521075,"http://en.wikipedia.org/wiki/Poland,_Ohio","Poland, Ohio",poland-ohio,poland-ohio,GPE
+POLAND,12552161,8,9,,http://en.wikipedia.org/wiki/Poland_China,Poland China,poland-china,poland-china,ORG
+POLAND,636823,306,32,635098;22975;22936;3074893,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1025–1385),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1025–1385,GPE
+POLAND,771860,2358,602,681862;21212;32908;32927;22975;22936;11867;26748,http://en.wikipedia.org/wiki/Poland_national_football_team,Poland national football team,poland-national-football-team,poland-national-football-team,UNK
+POLAND,27482253,66,80,,"http://en.wikipedia.org/wiki/Poland,_Wisconsin","Poland, Wisconsin",poland-wisconsin,poland-wisconsin,GPE
+POLAND,10082478,464,208,13083;22936;11884;32927;25955086;21212;10082478,http://en.wikipedia.org/wiki/Flight_and_expulsion_of_Germans_from_Poland_during_and_after_World_War_II,Flight and expulsion of Germans from Poland during and after World War II,flight-and-expulsion-of-germans-from-poland-during-and-after-world-war-ii,flight-and-expulsion-of-germans-from-poland-during-and-after-world-war-ii,GPE
+POLAND,126255,72,81,126523;141360,"http://en.wikipedia.org/wiki/Poland,_Chautauqua_County,_New_York","Poland, Chautauqua County, New York",poland-chautauqua-county-new-york,poland-chautauqua-county-new-york,GPE
+SWISS,26748,62648,1091,144626;1120468;10612;11884;11867;21736;22936;162873;26748;152735;32908;32927;313833;15335256;681862;427067;476441;96065;771860;239855;7351032;361362;369001,http://en.wikipedia.org/wiki/Switzerland,Switzerland,switzerland,switzerland,GPE
+SWISS,15463860,8,5,,"http://en.wikipedia.org/wiki/Swiss,_North_Carolina","Swiss, North Carolina",swiss-north-carolina,swiss-north-carolina,UNK
+SWISS,27003,118,44,,http://en.wikipedia.org/wiki/Swiss_cheese,Swiss cheese,swiss-cheese,swiss-cheese,UNK
+SWISS,8475710,16,25,,http://en.wikipedia.org/wiki/Swiss_Movement,Swiss Movement,swiss-movement,swiss-movement,UNK
+SWISS,144626,271,205,26748;11884;427067;144626,http://en.wikipedia.org/wiki/Swiss_Guard,Swiss Guard,swiss-guard,swiss-guard,ORG
+SWISS,7351032,640,284,361362;427067;1120468;11884;11867;152735;26748,http://en.wikipedia.org/wiki/Swiss_people,Swiss people,swiss-people,swiss-people,UNK
+SWISS,427067,135,76,26748;7351032;144626,http://en.wikipedia.org/wiki/Swiss_mercenaries,Swiss mercenaries,swiss-mercenaries,swiss-mercenaries,UNK
+SWISS,313833,297,293,11884;32927;26748,http://en.wikipedia.org/wiki/Swiss_Army_knife,Swiss Army knife,swiss-army-knife,swiss-army-knife,UNK
+SWISS,14353790,113,114,,http://en.wikipedia.org/wiki/Swiss_Tower,Swiss Tower,swiss-tower,swiss-tower,UNK
+SWISS,15471841,1,5,,"http://en.wikipedia.org/wiki/Swiss,_Missouri","Swiss, Missouri",swiss-missouri,swiss-missouri,GPE
+SWISS,15463848,51,65,,"http://en.wikipedia.org/wiki/Swiss,_West_Virginia","Swiss, West Virginia",swiss-west-virginia,swiss-west-virginia,GPE
+SWISS,138776,48,71,,"http://en.wikipedia.org/wiki/Swiss,_Wisconsin","Swiss, Wisconsin",swiss-wisconsin,swiss-wisconsin,GPE
+SWISS,361362,852,263,1120468;11884;11867;26748;162873;7351032,http://en.wikipedia.org/wiki/Swiss_franc,Swiss franc,swiss-franc,swiss-franc,UNK
+SWISS,162873,483,358,11884;11867;361362;26748,http://en.wikipedia.org/wiki/Swiss_International_Air_Lines,Swiss International Air Lines,swiss-international-air-lines,swiss-international-air-lines,ORG
+WARSAW,32908,16012,776,31045316;32908;32927;11867;112404;4329310;13094692;635098;3967014;11157563;11555574;15335256;260198;260197;122528;3901931;28878684;11075690;25955086;1028194;22975;22936;129059;771860;26748;867865;4776201;776028,http://en.wikipedia.org/wiki/Warsaw,Warsaw,warsaw,warsaw,GPE
+WARSAW,115116,159,237,137739,"http://en.wikipedia.org/wiki/Warsaw,_Kentucky","Warsaw, Kentucky",warsaw-kentucky,warsaw-kentucky,GPE
+WARSAW,41212449,1,11,129059,http://en.wikipedia.org/wiki/Warsaw_Hotel,Warsaw Hotel,warsaw-hotel,warsaw-hotel,UNK
+WARSAW,120103,57,74,141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Goodhue_County,_Minnesota","Warsaw Township, Goodhue County, Minnesota",warsaw-township-goodhue-county-minnesota,warsaw-township-goodhue-county-minnesota,GPE
+WARSAW,8285297,1,5,,http://en.wikipedia.org/wiki/Warsaw_Bridge,Warsaw Bridge,warsaw-bridge,warsaw-bridge,UNK
+WARSAW,3495456,1,4,,http://en.wikipedia.org/wiki/Little_Warsaw,Little Warsaw,little-warsaw,little-warsaw,PER
+WARSAW,10389748,59,74,141311;111265,"http://en.wikipedia.org/wiki/Warsaw_Township,_Hancock_County,_Illinois","Warsaw Township, Hancock County, Illinois",warsaw-township-hancock-county-illinois,warsaw-township-hancock-county-illinois,UNK
+WARSAW,141311,0,4,120103;10389748;132787;121578,http://en.wikipedia.org/wiki/Warsaw_Township,Warsaw Township,warsaw-township,warsaw-township,GPE
+WARSAW,25139728,35,60,121578,"http://en.wikipedia.org/wiki/Warsaw,_Minnesota","Warsaw, Minnesota",warsaw-minnesota,warsaw-minnesota,UNK
+WARSAW,111265,98,81,10389748,"http://en.wikipedia.org/wiki/Warsaw,_Illinois","Warsaw, Illinois",warsaw-illinois,warsaw-illinois,GPE
+WARSAW,122528,199,188,32908,"http://en.wikipedia.org/wiki/Warsaw,_Missouri","Warsaw, Missouri",warsaw-missouri,warsaw-missouri,GPE
+WARSAW,11157563,624,221,22975;32908,http://en.wikipedia.org/wiki/University_of_Warsaw,University of Warsaw,university-of-warsaw,university-of-warsaw,ORG
+WARSAW,260197,63,57,32908;260198,"http://en.wikipedia.org/wiki/Warsaw_(village),_New_York","Warsaw (village), New York",warsaw-village-new-york,warsaw-village-new-york,GPE
+WARSAW,3967014,139,60,32908;22975;32927;22936,http://en.wikipedia.org/wiki/Warsaw_Philharmonic_Orchestra,Warsaw Philharmonic Orchestra,warsaw-philharmonic-orchestra,warsaw-philharmonic-orchestra,UNK
+WARSAW,4091374,1,1,,http://en.wikipedia.org/wiki/Warsaw_Airport,Warsaw Airport,warsaw-airport,warsaw-airport,UNK
+WARSAW,22858084,238,243,,"http://en.wikipedia.org/wiki/Warsaw,_California","Warsaw, California",warsaw-california,warsaw-california,UNK
+WARSAW,18746673,0,1,,"http://en.wikipedia.org/wiki/Warsaw,_IN_µSA","Warsaw, IN µSA",warsaw-in-µsa,warsaw-in-µsa,PER
+WARSAW,127877,48,42,,"http://en.wikipedia.org/wiki/Warsaw,_North_Carolina","Warsaw, North Carolina",warsaw-north-carolina,warsaw-north-carolina,GPE
+WARSAW,867865,785,470,11075690;514725;307916;32908;32927;10396793;1001104;22975;11884;7139292;21212;4329310,http://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising,Warsaw Ghetto Uprising,warsaw-ghetto-uprising,warsaw-ghetto-uprising,UNK
+WARSAW,129059,62,71,32908;41212449,"http://en.wikipedia.org/wiki/Warsaw,_Ohio","Warsaw, Ohio",warsaw-ohio,warsaw-ohio,GPE
+WARSAW,1028194,1,31,32908;22936,http://en.wikipedia.org/wiki/Warsaw_School_(mathematics),Warsaw School,warsaw-school,warsaw-school-mathematics,UNK
+WARSAW,260198,31,68,32908;260197;22936,"http://en.wikipedia.org/wiki/Warsaw,_New_York","Warsaw, New York",warsaw-new-york,warsaw-new-york,GPE
+WARSAW,137739,326,277,115116,"http://en.wikipedia.org/wiki/Warsaw,_Virginia","Warsaw, Virginia",warsaw-virginia,warsaw-virginia,GPE
+WARSAW,121578,38,58,25139728;141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Rice_County,_Minnesota","Warsaw Township, Rice County, Minnesota",warsaw-township-rice-county-minnesota,warsaw-township-rice-county-minnesota,GPE
+WARSAW,112404,282,310,22936;32908;96065,"http://en.wikipedia.org/wiki/Warsaw,_Indiana","Warsaw, Indiana",warsaw-indiana,warsaw-indiana,GPE
+WARSAW,4244153,30,36,22975;22936,"http://en.wikipedia.org/wiki/Warsaw,_North_Dakota","Warsaw, North Dakota",warsaw-north-dakota,warsaw-north-dakota,GPE
+WARSAW,132787,45,56,141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Jefferson_County,_Pennsylvania","Warsaw Township, Jefferson County, Pennsylvania",warsaw-township-jefferson-county-pennsylvania,warsaw-township-jefferson-county-pennsylvania,GPE
+WARSAW,10280546,1,1,,"http://en.wikipedia.org/wiki/Warsaw,_IN_μSA","Warsaw, IN μSA",warsaw-in-μsa,warsaw-in-μsa,PER
+Poland,22936,115021,1647,290327;11884;11867;13083;28878684;4244153;21212;3074893;22975;22936;26748;1131183;32908;32927;10339758;635098;636823;10082478;40620438;112404;1107413;13094692;11555574;152735;10396793;42187354;4329310;15335256;11075690;681862;9387653;3967014;1028194;771860;776028;31045316;260198;25955086,http://en.wikipedia.org/wiki/Poland,Poland,poland,poland,GPE
+Poland,126523,58,56,126255;141360,"http://en.wikipedia.org/wiki/Poland,_Herkimer_County,_New_York","Poland, Herkimer County, New York",poland-herkimer-county-new-york,poland-herkimer-county-new-york,GPE
+Poland,28878684,182,266,28878684;22975;22936;11867;32908,http://en.wikipedia.org/wiki/Geography_of_Poland,Geography of Poland,geography-of-poland,geography-of-poland,UNK
+Poland,635098,9,135,636823;635098;32908;22975;22936;11884;3074893,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1916–18),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1916–18,GPE
+Poland,37910099,204,218,,http://en.wikipedia.org/wiki/Poland_(sculpture),Poland,poland,poland-sculpture,UNK
+Poland,3074893,567,26,635098;22975;22936;3074893;636823,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1385–1569),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1385–1569,GPE
+Poland,115861,87,98,32927,"http://en.wikipedia.org/wiki/Poland,_Maine","Poland, Maine",poland-maine,poland-maine,GPE
+Poland,13083,591,81,22975;22936;11884;11867;21212;10082478,http://en.wikipedia.org/wiki/Greater_Poland,Greater Poland,greater-poland,greater-poland,GPE
+Poland,10339758,3,14,22975;22936,"http://en.wikipedia.org/wiki/Poland,_Kiribati","Poland, Kiribati",poland-kiribati,poland-kiribati,GPE
+Poland,2521075,49,66,65865,"http://en.wikipedia.org/wiki/Poland_Township,_Mahoning_County,_Ohio","Poland Township, Mahoning County, Ohio",poland-township-mahoning-county-ohio,poland-township-mahoning-county-ohio,GPE
+Poland,17716699,63,83,,"http://en.wikipedia.org/wiki/Poland,_Indiana","Poland, Indiana",poland-indiana,poland-indiana,GPE
+Poland,141360,0,2,126255;126523,"http://en.wikipedia.org/wiki/Poland,_New_York","Poland, New York",poland-new-york,poland-new-york,UNK
+Poland,14616196,30,41,,"http://en.wikipedia.org/wiki/Poland_Township,_Buena_Vista_County,_Iowa","Poland Township, Buena Vista County, Iowa",poland-township-buena-vista-county-iowa,poland-township-buena-vista-county-iowa,GPE
+Poland,3965238,1,6,,http://en.wikipedia.org/wiki/Little_Poland,Little Poland,little-poland,little-poland,GPE
+Poland,65865,89,70,2521075,"http://en.wikipedia.org/wiki/Poland,_Ohio","Poland, Ohio",poland-ohio,poland-ohio,GPE
+Poland,12552161,8,9,,http://en.wikipedia.org/wiki/Poland_China,Poland China,poland-china,poland-china,ORG
+Poland,636823,306,32,635098;22975;22936;3074893,http://en.wikipedia.org/wiki/Kingdom_of_Poland_(1025–1385),Kingdom of Poland,kingdom-of-poland,kingdom-of-poland-1025–1385,GPE
+Poland,771860,2358,602,681862;21212;32908;32927;22975;22936;11867;26748,http://en.wikipedia.org/wiki/Poland_national_football_team,Poland national football team,poland-national-football-team,poland-national-football-team,UNK
+Poland,27482253,66,80,,"http://en.wikipedia.org/wiki/Poland,_Wisconsin","Poland, Wisconsin",poland-wisconsin,poland-wisconsin,GPE
+Poland,10082478,464,208,13083;22936;11884;32927;25955086;21212;10082478,http://en.wikipedia.org/wiki/Flight_and_expulsion_of_Germans_from_Poland_during_and_after_World_War_II,Flight and expulsion of Germans from Poland during and after World War II,flight-and-expulsion-of-germans-from-poland-during-and-after-world-war-ii,flight-and-expulsion-of-germans-from-poland-during-and-after-world-war-ii,GPE
+Poland,126255,72,81,126523;141360,"http://en.wikipedia.org/wiki/Poland,_Chautauqua_County,_New_York","Poland, Chautauqua County, New York",poland-chautauqua-county-new-york,poland-chautauqua-county-new-york,GPE
+Swiss,26748,62648,1091,144626;1120468;10612;11884;11867;21736;22936;162873;26748;152735;32908;32927;313833;15335256;681862;427067;476441;96065;771860;239855;7351032;361362;369001,http://en.wikipedia.org/wiki/Switzerland,Switzerland,switzerland,switzerland,GPE
+Swiss,15463860,8,5,,"http://en.wikipedia.org/wiki/Swiss,_North_Carolina","Swiss, North Carolina",swiss-north-carolina,swiss-north-carolina,UNK
+Swiss,27003,118,44,,http://en.wikipedia.org/wiki/Swiss_cheese,Swiss cheese,swiss-cheese,swiss-cheese,UNK
+Swiss,8475710,16,25,,http://en.wikipedia.org/wiki/Swiss_Movement,Swiss Movement,swiss-movement,swiss-movement,UNK
+Swiss,144626,271,205,26748;11884;427067;144626,http://en.wikipedia.org/wiki/Swiss_Guard,Swiss Guard,swiss-guard,swiss-guard,ORG
+Swiss,7351032,640,284,361362;427067;1120468;11884;11867;152735;26748,http://en.wikipedia.org/wiki/Swiss_people,Swiss people,swiss-people,swiss-people,UNK
+Swiss,427067,135,76,26748;7351032;144626,http://en.wikipedia.org/wiki/Swiss_mercenaries,Swiss mercenaries,swiss-mercenaries,swiss-mercenaries,UNK
+Swiss,313833,297,293,11884;32927;26748,http://en.wikipedia.org/wiki/Swiss_Army_knife,Swiss Army knife,swiss-army-knife,swiss-army-knife,UNK
+Swiss,14353790,113,114,,http://en.wikipedia.org/wiki/Swiss_Tower,Swiss Tower,swiss-tower,swiss-tower,UNK
+Swiss,15471841,1,5,,"http://en.wikipedia.org/wiki/Swiss,_Missouri","Swiss, Missouri",swiss-missouri,swiss-missouri,GPE
+Swiss,15463848,51,65,,"http://en.wikipedia.org/wiki/Swiss,_West_Virginia","Swiss, West Virginia",swiss-west-virginia,swiss-west-virginia,GPE
+Swiss,138776,48,71,,"http://en.wikipedia.org/wiki/Swiss,_Wisconsin","Swiss, Wisconsin",swiss-wisconsin,swiss-wisconsin,GPE
+Swiss,361362,852,263,1120468;11884;11867;26748;162873;7351032,http://en.wikipedia.org/wiki/Swiss_franc,Swiss franc,swiss-franc,swiss-franc,UNK
+Swiss,162873,483,358,11884;11867;361362;26748,http://en.wikipedia.org/wiki/Swiss_International_Air_Lines,Swiss International Air Lines,swiss-international-air-lines,swiss-international-air-lines,ORG
+Polish,22936,115021,1647,290327;11884;11867;13083;28878684;4244153;21212;3074893;22975;22936;26748;1131183;32908;32927;10339758;635098;636823;10082478;40620438;112404;1107413;13094692;11555574;152735;10396793;42187354;4329310;15335256;11075690;681862;9387653;3967014;1028194;771860;776028;31045316;260198;25955086,http://en.wikipedia.org/wiki/Poland,Poland,poland,poland,GPE
+Polish,8338304,6,8,,http://en.wikipedia.org/wiki/Polish_Mountain,Polish Mountain,polish-mountain,polish-mountain,UNK
+Polish,42187354,20,81,22936;11884;1263999;11867,http://en.wikipedia.org/wiki/Polish_Party,Polish Party,polish-party,polish-party,UNK
+Polish,4776201,153,140,4776201;32908;11867,http://en.wikipedia.org/wiki/Polish_nationality_law,Polish nationality law,polish-nationality-law,polish-nationality-law,UNK
+Polish,40620438,4,12,22936,http://en.wikipedia.org/wiki/Polish_International,Polish International,polish-international,polish-international,PER
+Polish,2447796,35,22,,http://en.wikipedia.org/wiki/Maxwell_Street_Polish,Maxwell Street Polish,maxwell-street-polish,maxwell-street-polish,UNK
+Polish,22975,9904,454,3901931;28878684;32908;32927;4244153;2966446;3074893;22975;22936;1313740;10339758;771860;11884;11867;13083;13094692;867865;635098;10396793;3967014;11157563;11555574;636823;476441,http://en.wikipedia.org/wiki/Polish_language,Polish language,polish-language,polish-language,UNK
+Polish,1313740,128,107,1245772;22975,http://en.wikipedia.org/wiki/Polish_Wikipedia,Polish Wikipedia,polish-wikipedia,polish-wikipedia,UNK
+Polish,220464,118,15,5757742,http://en.wikipedia.org/wiki/Polishing,Polishing,polishing,polishing,ORG
+Polish,9387653,8,12,22936,http://en.wikipedia.org/wiki/Polish_chicken,Polish chicken,polish-chicken,polish-chicken,UNK
+Polish,2966446,220,292,22975;32927,http://en.wikipedia.org/wiki/Polish_Hill,Polish Hill,polish-hill,polish-hill,UNK
+Polish,11555574,12,225,22975;22936;32908,http://en.wikipedia.org/wiki/Polish_opera,Polish opera,polish-opera,polish-opera,GPE
+Polish,4329310,803,549,11075690;32908;32927;10396793;25955086;1001104;22936;21212;867865,http://en.wikipedia.org/wiki/Polish_resistance_movement_in_World_War_II,Polish resistance movement in World War II,polish-resistance-movement-in-world-war-ii,polish-resistance-movement-in-world-war-ii,UNK
+Polish,15335256,26,41,32908;32927;26748;22936;11867,"http://en.wikipedia.org/wiki/Polish_Museum,_Rapperswil","Polish Museum, Rapperswil",polish-museum-rapperswil,polish-museum-rapperswil,UNK
+Polish,5757742,200,24,220464,http://en.wikipedia.org/wiki/Polishing_(metalworking),Polishing,polishing,polishing-metalworking,UNK
+Polish,1107413,479,531,22936,http://en.wikipedia.org/wiki/Polish_Club,Polish Club,polish-club,polish-club,PER
+Jews,25955086,5372,656,31045316;94795;14240977;11075690;514725;32908;32927;11884;11867;2845897;4329310;307916;21736;1262063;18987286;7978072;152735;15362598;21212;438636;5380456;10396793;22936;7139292;10082478,http://en.wikipedia.org/wiki/Jews,Jews,jews,jews,UNK
+Jews,15362598,1,7,25955086,"http://en.wikipedia.org/wiki/Jews,_Christians,_War_and_Peace_in_Egyptian_School_Textbooks","Jews, Christians, War and Peace in Egyptian School Textbooks",jews-christians-war-and-peace-in-egyptian-school-textbooks,jews-christians-war-and-peace-in-egyptian-school-textbooks,UNK
+Jews,1131183,866,615,290327;514725;32927;10396793;1262063;22936;11867;1131183;21212,http://en.wikipedia.org/wiki/American_Jews,American Jews,american-jews,american-jews,UNK
+Jews,18987286,0,14,25955086,"http://en.wikipedia.org/wiki/Jews,_Israel_and_Peace_in_Palestinian_School_Textbooks","Jews, Israel and Peace in Palestinian School Textbooks",jews-israel-and-peace-in-palestinian-school-textbooks,jews-israel-and-peace-in-palestinian-school-textbooks,UNK
+Jews,299468,146,56,299468,http://en.wikipedia.org/wiki/Silver_Jews,Silver Jews,silver-jews,silver-jews,UNK
+Jews,5441920,6,93,,http://en.wikipedia.org/wiki/Jews_of_Bilad_el-Sudan,Jews of Bilad el-Sudan,jews-of-bilad-el-sudan,jews-of-bilad-el-sudan,UNK
+Jews,5380456,152,328,10396793;1262063;25955086;94795,http://en.wikipedia.org/wiki/British_Jews,British Jews,british-jews,british-jews,UNK
+Jews,3078844,164,209,10396793;2845897;11075690;31045316;307916;11884;11867;21736;7978072;21212,http://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies,On the Jews and Their Lies,on-the-jews-and-their-lies,on-the-jews-and-their-lies,GPE
+Jews,94795,345,414,5380456;10396793;1262063;25955086,http://en.wikipedia.org/wiki/Lists_of_Jews,Lists of Jews,lists-of-jews,lists-of-jews,PER
+Jews,438636,22,24,25955086,http://en.wikipedia.org/wiki/Jews_for_Judaism,Jews for Judaism,jews-for-judaism,jews-for-judaism,UNK
+Holocaust,10396793,4624,1936,546560;31045316;94795;11075690;514725;32927;3078844;25955086;938680;1001104;11884;11867;2845897;4329310;307916;21736;1262063;7978072;1131183;152735;1932173;21212;867865;5380456;10396793;22975;22936;7139292,http://en.wikipedia.org/wiki/The_Holocaust,The Holocaust,the-holocaust,the-holocaust,UNK
+Holocaust,11075690,233,756,11075690;514725;21736;32908;32927;10396793;3078844;25955086;1001104;22936;21212;867865;4329310,http://en.wikipedia.org/wiki/Responsibility_for_the_Holocaust,Responsibility for the Holocaust,responsibility-for-the-holocaust,responsibility-for-the-holocaust,UNK
+Holocaust,855441,24,13,,http://en.wikipedia.org/wiki/Holocaust_(band),Holocaust,holocaust,holocaust-band,UNK
+Holocaust,1001104,225,563,11075690;514725;21736;32927;10396793;21212;867865;4329310,http://en.wikipedia.org/wiki/Bibliography_of_The_Holocaust,Bibliography of The Holocaust,bibliography-of-the-holocaust,bibliography-of-the-holocaust,UNK
+Holocaust,1932173,25,17,10396793,http://en.wikipedia.org/wiki/Holocaust_(sacrifice),Holocaust,holocaust,holocaust-sacrifice,UNK
+World War Two,32927,116768,1132,290327;1120468;10612;11884;11867;3901931;21736;21212;22975;22936;26748;1131183;32908;32927;313833;546560;10082478;2845897;115861;867865;2066085;152735;10396793;1559449;938680;4329310;15335256;11075690;3967014;475014;771860;31045316;514725;1001104;25955086;2966446,http://en.wikipedia.org/wiki/World_War_II,World War II,world-war-ii,world-war-ii,UNK
+Dariusz Rosati,776028,837,843,32908;22936,http://en.wikipedia.org/wiki/Dariusz_Rosati,Dariusz Rosati,dariusz-rosati,dariusz-rosati,PER
+Switzerland,26748,62648,1091,144626;1120468;10612;11884;11867;21736;22936;162873;26748;152735;32908;32927;313833;15335256;681862;427067;476441;96065;771860;239855;7351032;361362;369001,http://en.wikipedia.org/wiki/Switzerland,Switzerland,switzerland,switzerland,GPE
+Switzerland,96065,357,261,290327;152735;26748;96065;112404,"http://en.wikipedia.org/wiki/Switzerland_County,_Indiana","Switzerland County, Indiana",switzerland-county-indiana,switzerland-county-indiana,GPE
+Switzerland,1841220,35,44,,http://en.wikipedia.org/wiki/Gun_politics_in_Switzerland,Gun politics in Switzerland,gun-politics-in-switzerland,gun-politics-in-switzerland,ORG
+Switzerland,15578904,19,27,,"http://en.wikipedia.org/wiki/Switzerland,_South_Carolina","Switzerland, South Carolina",switzerland-south-carolina,switzerland-south-carolina,GPE
+Switzerland,18695033,4,15,,http://en.wikipedia.org/wiki/Switzerland_(software),Switzerland,switzerland,switzerland-software,UNK
+Switzerland,1120468,261,279,26748;31045316;11867;361362;21736;21212;7351032;32927,http://en.wikipedia.org/wiki/Switzerland_during_the_World_Wars,Switzerland during the World Wars,switzerland-during-the-world-wars,switzerland-during-the-world-wars,UNK
+Switzerland,681862,2053,388,771860;22936;11867;26748,http://en.wikipedia.org/wiki/Switzerland_national_football_team,Switzerland national football team,switzerland-national-football-team,switzerland-national-football-team,UNK
+Switzerland,9294418,41,57,,"http://en.wikipedia.org/wiki/Switzerland_Township,_Monroe_County,_Ohio","Switzerland Township, Monroe County, Ohio",switzerland-township-monroe-county-ohio,switzerland-township-monroe-county-ohio,GPE
+Switzerland,5788337,29,40,,"http://en.wikipedia.org/wiki/Switzerland,_Florida","Switzerland, Florida",switzerland-florida,switzerland-florida,GPE
+Rosati,776028,837,843,32908;22936,http://en.wikipedia.org/wiki/Dariusz_Rosati,Dariusz Rosati,dariusz-rosati,dariusz-rosati,PER
+Nazi,21736,2822,715,546560;31045316;11075690;514725;32927;3078844;1120468;25955086;34977979;28552142;1001104;11884;11867;26748;2845897;1262063;21212;10396793;1263999,http://en.wikipedia.org/wiki/Nazi_Party,Nazi Party,nazi-party,nazi-party,UNK
+Nazi,31045316,5359,801,546560;31045316;514725;32908;32927;3078844;1120468;25955086;34977989;11884;11867;2845897;307916;21736;7978072;152735;21212;10396793;22936;11369455,http://en.wikipedia.org/wiki/Nazism,Nazism,nazism,nazism,UNK
+Nazi,21212,18535,1346,31045316;32927;2845897;1559449;514725;1120468;10612;1001104;11884;11867;4329310;13083;546560;3901931;11075690;3078844;25955086;21736;7978072;21212;1263999;22936;11398393;771860;28552142;1131183;152735;867865;10396793;11369455;7139292;10082478,http://en.wikipedia.org/wiki/Nazi_Germany,Nazi Germany,nazi-germany,nazi-germany,GPE
+Nazi,38005478,174,187,38005492,"http://en.wikipedia.org/wiki/Nazi,_Markazi","Nazi, Markazi",nazi-markazi,nazi-markazi,UNK
+Nazi,2066085,79,110,32927,http://en.wikipedia.org/wiki/Captain_Nazi,Captain Nazi,captain-nazi,captain-nazi,UNK
+Nazi,28552142,19,116,21736;2845897;21212,http://en.wikipedia.org/wiki/Mass_suicides_in_1945_Nazi_Germany,Mass suicides in 1945 Nazi Germany,mass-suicides-in-1945-nazi-germany,mass-suicides-in-1945-nazi-germany,UNK
+Nazi,38005492,0,3,38598663;38005478,"http://en.wikipedia.org/wiki/Nazi,_Iran","Nazi, Iran",nazi-iran,nazi-iran,GPE
+Nazi,38598663,216,229,38005492,"http://en.wikipedia.org/wiki/Nazi,_Chaharmahal_and_Bakhtiari","Nazi, Chaharmahal and Bakhtiari",nazi-chaharmahal-and-bakhtiari,nazi-chaharmahal-and-bakhtiari,UNK
+Nazi,546560,482,630,11867;21736;152735;32927;10396793;2845897;31045316;21212,http://en.wikipedia.org/wiki/Nazi_architecture,Nazi architecture,nazi-architecture,nazi-architecture,UNK
+Nazi,514725,1088,260,11075690;21736;32927;10396793;31045316;25955086;1001104;11884;11867;1131183;7139292;21212;867865,http://en.wikipedia.org/wiki/Nazi_concentration_camps,Nazi concentration camps,nazi-concentration-camps,nazi-concentration-camps,UNK
+Nazi,2845897,469,356,28552142;307916;21736;152735;32927;10396793;3078844;546560;31045316;25955086;7978072;21212,http://en.wikipedia.org/wiki/Nazi_propaganda,Nazi propaganda,nazi-propaganda,nazi-propaganda,UNK
+German,21212,18535,1346,31045316;32927;2845897;1559449;514725;1120468;10612;1001104;11884;11867;4329310;13083;546560;3901931;11075690;3078844;25955086;21736;7978072;21212;1263999;22936;11398393;771860;28552142;1131183;152735;867865;10396793;11369455;7139292;10082478,http://en.wikipedia.org/wiki/Nazi_Germany,Nazi Germany,nazi-germany,nazi-germany,GPE
+German,11867,167535,1367,290327;1120468;10612;11884;11867;13083;28878684;3078844;21736;21212;22975;22936;26748;1131183;32908;32927;546560;307916;4776201;41289039;361362;1263999;162873;11398393;152735;10396793;1559449;42187354;15335256;681862;476441;475014;771860;31045316;514725;25955086;7351032,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+German,15082689,0,4,,"http://en.wikipedia.org/wiki/German_Township,_Indiana","German Township, Indiana",german-township-indiana,german-township-indiana,UNK
+German,13314138,20,25,11884;152735,http://en.wikipedia.org/wiki/German_Party_(Yugoslavia),German Party,german-party,german-party-yugoslavia,UNK
+German,12453352,0,5,9269386;2241658;6046607,"http://en.wikipedia.org/wiki/German_Township,_Ohio","German Township, Ohio",german-township-ohio,german-township-ohio,UNK
+German,152735,7195,672,13314138;546560;475014;31045316;32927;25955086;2845897;7351032;21212;1559449;1263999;22936;290327;96065;10612;11884;11867;26748;152735;10396793;7139292,http://en.wikipedia.org/wiki/Germans,Germans,germans,germans,UNK
+German,36286602,5,23,,http://en.wikipedia.org/wiki/Germán,Germán,german,german,UNK
+German,36687858,164,170,,"http://en.wikipedia.org/wiki/German,_Iran","German, Iran",german-iran,german-iran,UNK
+German,239855,56,80,26748;11884,http://en.wikipedia.org/wiki/German_alphabet,German alphabet,german-alphabet,german-alphabet,UNK
+German,11884,43032,653,13314138;2318626;144626;1245772;290327;10612;11867;13083;635098;476441;475014;3901931;3078844;21736;1262063;21212;1263999;22975;22936;162873;26748;152735;10396793;10082478;31045316;32927;313833;239855;1559449;514725;42187354;25955086;7351032;361362;34978004;369001;867865;11369455,http://en.wikipedia.org/wiki/German_language,German language,german-language,german-language,UNK
+German,11204290,5,18,30138606,"http://en.wikipedia.org/wiki/German,_Bulgaria","German, Bulgaria",german-bulgaria,german-bulgaria,GPE
+German,34378156,2,26,,http://en.wikipedia.org/wiki/Arthur_German,Arthur German,arthur-german,arthur-german,UNK
+German,1559449,163,120,1263999;11884;11867;21212;152735;32927;10612,http://en.wikipedia.org/wiki/German_model,German model,german-model,german-model,UNK
+German,2318626,324,65,11884,http://en.wikipedia.org/wiki/German_studies,German studies,german-studies,german-studies,PER
+German,10612,1073,518,32927;1559449;1263999;10612;11884;11867;152735;26748;21212,http://en.wikipedia.org/wiki/Cinema_of_Germany,Cinema of Germany,cinema-of-germany,cinema-of-germany,UNK
+German,22184642,4,12,,http://en.wikipedia.org/wiki/German_River,German River,german-river,german-river,UNK
+German,42060415,46,52,15082701,"http://en.wikipedia.org/wiki/German_Township,_Kossuth_County,_Iowa","German Township, Kossuth County, Iowa",german-township-kossuth-county-iowa,german-township-kossuth-county-iowa,GPE
+German,18512402,18,11,,http://en.wikipedia.org/wiki/Les_German,Les German,les-german,les-german,PER
+German,34977989,3,7,31045316;34977979,http://en.wikipedia.org/wiki/German_Party_(1961),German Party,german-party,german-party-1961,UNK
+German,126281,41,50,,"http://en.wikipedia.org/wiki/German,_New_York","German, New York",german-new-york,german-new-york,GPE
+German,476441,101,169,26748;22975;11884;11867,http://en.wikipedia.org/wiki/German_name,German name,german-name,german-name,UNK
+German,132530,92,177,15082701,"http://en.wikipedia.org/wiki/German_Township,_Fayette_County,_Pennsylvania","German Township, Fayette County, Pennsylvania",german-township-fayette-county-pennsylvania,german-township-fayette-county-pennsylvania,GPE
+German,30138606,9,13,11204290,http://en.wikipedia.org/wiki/German_Peninsula,German Peninsula,german-peninsula,german-peninsula,UNK
+German,1245772,609,182,11884;1313740,http://en.wikipedia.org/wiki/German_Wikipedia,German Wikipedia,german-wikipedia,german-wikipedia,UNK
+German,34978004,4,32,11884;1263999;34977979,http://en.wikipedia.org/wiki/German_Party_(1993),German Party,german-party,german-party-1993,UNK
+German,241920,127,87,,http://en.wikipedia.org/wiki/Edward_German,Edward German,edward-german,edward-german,UNK
+German,12050833,24,279,15082701,"http://en.wikipedia.org/wiki/German_Township,_Richland_County,_Illinois","German Township, Richland County, Illinois",german-township-richland-county-illinois,german-township-richland-county-illinois,UNK
+German,6046607,34,48,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Fulton_County,_Ohio","German Township, Fulton County, Ohio",german-township-fulton-county-ohio,german-township-fulton-county-ohio,GPE
+German,34977979,51,25,34978004;21736;34977989,http://en.wikipedia.org/wiki/German_Party_(1947),German Party,german-party,german-party-1947,UNK
+German,475014,250,170,290327;11884;11867;152735;32927,http://en.wikipedia.org/wiki/German-speaking_Community_of_Belgium,German-speaking Community of Belgium,german-speaking-community-of-belgium,german-speaking-community-of-belgium,UNK
+German,24233458,2,4,,http://en.wikipedia.org/wiki/The_German,The German,the-german,the-german,UNK
+German,11369455,41,54,11398393;31045316;21212;11884,http://en.wikipedia.org/wiki/German_Party_(Romania),German Party,german-party,german-party-romania,UNK
+German,15082701,0,14,132530;9269386;6046607;42060415;2241658;12050833,http://en.wikipedia.org/wiki/German_Township,German Township,german-township,german-township,GPE
+German,9269386,44,55,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Clark_County,_Ohio","German Township, Clark County, Ohio",german-township-clark-county-ohio,german-township-clark-county-ohio,GPE
+German,3901931,32,37,32908;22975;32927;21212;11884,http://en.wikipedia.org/wiki/German–Polish_Non-Aggression_Pact,German–Polish Non-Aggression Pact,german–polish-non-aggression-pact,german–polish-non-aggression-pact,UNK
+German,290327,1463,698,475014;96065;1131183;152735;32927;22936;11884;11867,http://en.wikipedia.org/wiki/German_American,German American,german-american,german-american,UNK
+German,1263999,412,329,42187354;11884;11867;21736;152735;1559449;1263999;34978004;21212;10612,http://en.wikipedia.org/wiki/Elections_in_Germany,Elections in Germany,elections-in-germany,elections-in-germany,UNK
+German,4356261,77,64,,http://en.wikipedia.org/wiki/German_(parish),German,german,german-parish,UNK
+German,2241658,45,60,15082701;12453352,"http://en.wikipedia.org/wiki/German_Township,_Auglaize_County,_Ohio","German Township, Auglaize County, Ohio",german-township-auglaize-county-ohio,german-township-auglaize-county-ohio,GPE
+Warsaw,32908,16012,776,31045316;32908;32927;11867;112404;4329310;13094692;635098;3967014;11157563;11555574;15335256;260198;260197;122528;3901931;28878684;11075690;25955086;1028194;22975;22936;129059;771860;26748;867865;4776201;776028,http://en.wikipedia.org/wiki/Warsaw,Warsaw,warsaw,warsaw,GPE
+Warsaw,115116,159,237,137739,"http://en.wikipedia.org/wiki/Warsaw,_Kentucky","Warsaw, Kentucky",warsaw-kentucky,warsaw-kentucky,GPE
+Warsaw,41212449,1,11,129059,http://en.wikipedia.org/wiki/Warsaw_Hotel,Warsaw Hotel,warsaw-hotel,warsaw-hotel,UNK
+Warsaw,120103,57,74,141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Goodhue_County,_Minnesota","Warsaw Township, Goodhue County, Minnesota",warsaw-township-goodhue-county-minnesota,warsaw-township-goodhue-county-minnesota,GPE
+Warsaw,8285297,1,5,,http://en.wikipedia.org/wiki/Warsaw_Bridge,Warsaw Bridge,warsaw-bridge,warsaw-bridge,UNK
+Warsaw,3495456,1,4,,http://en.wikipedia.org/wiki/Little_Warsaw,Little Warsaw,little-warsaw,little-warsaw,PER
+Warsaw,10389748,59,74,141311;111265,"http://en.wikipedia.org/wiki/Warsaw_Township,_Hancock_County,_Illinois","Warsaw Township, Hancock County, Illinois",warsaw-township-hancock-county-illinois,warsaw-township-hancock-county-illinois,UNK
+Warsaw,141311,0,4,120103;10389748;132787;121578,http://en.wikipedia.org/wiki/Warsaw_Township,Warsaw Township,warsaw-township,warsaw-township,GPE
+Warsaw,25139728,35,60,121578,"http://en.wikipedia.org/wiki/Warsaw,_Minnesota","Warsaw, Minnesota",warsaw-minnesota,warsaw-minnesota,UNK
+Warsaw,111265,98,81,10389748,"http://en.wikipedia.org/wiki/Warsaw,_Illinois","Warsaw, Illinois",warsaw-illinois,warsaw-illinois,GPE
+Warsaw,122528,199,188,32908,"http://en.wikipedia.org/wiki/Warsaw,_Missouri","Warsaw, Missouri",warsaw-missouri,warsaw-missouri,GPE
+Warsaw,11157563,624,221,22975;32908,http://en.wikipedia.org/wiki/University_of_Warsaw,University of Warsaw,university-of-warsaw,university-of-warsaw,ORG
+Warsaw,260197,63,57,32908;260198,"http://en.wikipedia.org/wiki/Warsaw_(village),_New_York","Warsaw (village), New York",warsaw-village-new-york,warsaw-village-new-york,GPE
+Warsaw,3967014,139,60,32908;22975;32927;22936,http://en.wikipedia.org/wiki/Warsaw_Philharmonic_Orchestra,Warsaw Philharmonic Orchestra,warsaw-philharmonic-orchestra,warsaw-philharmonic-orchestra,UNK
+Warsaw,4091374,1,1,,http://en.wikipedia.org/wiki/Warsaw_Airport,Warsaw Airport,warsaw-airport,warsaw-airport,UNK
+Warsaw,22858084,238,243,,"http://en.wikipedia.org/wiki/Warsaw,_California","Warsaw, California",warsaw-california,warsaw-california,UNK
+Warsaw,18746673,0,1,,"http://en.wikipedia.org/wiki/Warsaw,_IN_µSA","Warsaw, IN µSA",warsaw-in-µsa,warsaw-in-µsa,PER
+Warsaw,127877,48,42,,"http://en.wikipedia.org/wiki/Warsaw,_North_Carolina","Warsaw, North Carolina",warsaw-north-carolina,warsaw-north-carolina,GPE
+Warsaw,867865,785,470,11075690;514725;307916;32908;32927;10396793;1001104;22975;11884;7139292;21212;4329310,http://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising,Warsaw Ghetto Uprising,warsaw-ghetto-uprising,warsaw-ghetto-uprising,UNK
+Warsaw,129059,62,71,32908;41212449,"http://en.wikipedia.org/wiki/Warsaw,_Ohio","Warsaw, Ohio",warsaw-ohio,warsaw-ohio,GPE
+Warsaw,1028194,1,31,32908;22936,http://en.wikipedia.org/wiki/Warsaw_School_(mathematics),Warsaw School,warsaw-school,warsaw-school-mathematics,UNK
+Warsaw,260198,31,68,32908;260197;22936,"http://en.wikipedia.org/wiki/Warsaw,_New_York","Warsaw, New York",warsaw-new-york,warsaw-new-york,GPE
+Warsaw,137739,326,277,115116,"http://en.wikipedia.org/wiki/Warsaw,_Virginia","Warsaw, Virginia",warsaw-virginia,warsaw-virginia,GPE
+Warsaw,121578,38,58,25139728;141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Rice_County,_Minnesota","Warsaw Township, Rice County, Minnesota",warsaw-township-rice-county-minnesota,warsaw-township-rice-county-minnesota,GPE
+Warsaw,112404,282,310,22936;32908;96065,"http://en.wikipedia.org/wiki/Warsaw,_Indiana","Warsaw, Indiana",warsaw-indiana,warsaw-indiana,GPE
+Warsaw,4244153,30,36,22975;22936,"http://en.wikipedia.org/wiki/Warsaw,_North_Dakota","Warsaw, North Dakota",warsaw-north-dakota,warsaw-north-dakota,GPE
+Warsaw,132787,45,56,141311,"http://en.wikipedia.org/wiki/Warsaw_Township,_Jefferson_County,_Pennsylvania","Warsaw Township, Jefferson County, Pennsylvania",warsaw-township-jefferson-county-pennsylvania,warsaw-township-jefferson-county-pennsylvania,GPE
+Warsaw,10280546,1,1,,"http://en.wikipedia.org/wiki/Warsaw,_IN_μSA","Warsaw, IN μSA",warsaw-in-μsa,warsaw-in-μsa,PER
+Jewish,25955086,5372,656,31045316;94795;14240977;11075690;514725;32908;32927;11884;11867;2845897;4329310;307916;21736;1262063;18987286;7978072;152735;15362598;21212;438636;5380456;10396793;22936;7139292;10082478,http://en.wikipedia.org/wiki/Jews,Jews,jews,jews,UNK
+Jewish,7978072,239,224,10396793;3078844;2845897;31045316;307916;25955086;21212,http://en.wikipedia.org/wiki/Jewish_Bolshevism,Jewish Bolshevism,jewish-bolshevism,jewish-bolshevism,ORG
+Jewish,580849,16,40,41289039,"http://en.wikipedia.org/wiki/Jewish_Museum,_Berlin","Jewish Museum, Berlin",jewish-museum-berlin,jewish-museum-berlin,UNK
+Jewish,1453127,111,141,,http://en.wikipedia.org/wiki/Jewish_Museum_(Manhattan),Jewish Museum,jewish-museum,jewish-museum-manhattan,UNK
+Jewish,13094692,17,12,32908;22975;22936,"http://en.wikipedia.org/wiki/Jewish_Theatre,_Warsaw","Jewish Theatre, Warsaw",jewish-theatre-warsaw,jewish-theatre-warsaw,UNK
+Jewish,7139292,203,241,10396793;514725;25955086;21212;152735;867865,http://en.wikipedia.org/wiki/Jewish_Ghetto_Police,Jewish Ghetto Police,jewish-ghetto-police,jewish-ghetto-police,GPE
+Jewish,1262063,813,790,307916;21736;5380456;10396793;1262063;25955086;546314;11884;1131183;94795;14240977,http://en.wikipedia.org/wiki/Jewish_culture,Jewish culture,jewish-culture,jewish-culture,UNK
+Jewish,25842589,0,18,23323129,http://en.wikipedia.org/wiki/Jewish_Center,Jewish Center,jewish-center,jewish-center,UNK
+Jewish,5290396,1,6,10628856,http://en.wikipedia.org/wiki/Jewish_Hospital,Jewish Hospital,jewish-hospital,jewish-hospital,UNK
+Jewish,14240977,148,182,1262063;25955086,http://en.wikipedia.org/wiki/Jewish_state,Jewish state,jewish-state,jewish-state,UNK
+Jewish,32827282,20,36,,http://en.wikipedia.org/wiki/Jewish_Party_(Czechoslovakia),Jewish Party,jewish-party,jewish-party-czechoslovakia,UNK
+Jewish,41289039,3,7,11867;580849,"http://en.wikipedia.org/wiki/Jewish_Museum,_Emmendingen","Jewish Museum, Emmendingen",jewish-museum-emmendingen,jewish-museum-emmendingen,UNK
+Jewish,11398393,37,37,11369455;21212;11867,http://en.wikipedia.org/wiki/Jewish_Party_(Romania),Jewish Party,jewish-party,jewish-party-romania,UNK
+Jewish,23323129,2,18,25842589,http://en.wikipedia.org/wiki/Jewish_Center_(Manhattan),Jewish Center,jewish-center,jewish-center-manhattan,UNK
+Jewish,546314,32,123,1262063,http://en.wikipedia.org/wiki/Jewish_humour,Jewish humour,jewish-humour,jewish-humour,UNK
+Jewish,307916,219,435,307916;11867;10396793;3078844;2845897;1262063;31045316;25955086;7978072;867865,http://en.wikipedia.org/wiki/Jewish_refugees,Jewish refugees,jewish-refugees,jewish-refugees,UNK
+Jewish,938680,4,16,10396793;32927,http://en.wikipedia.org/wiki/Jewish_Museum_(Bucharest),Jewish Museum,jewish-museum,jewish-museum-bucharest,UNK
+Jewish,10628856,1,5,5290396,"http://en.wikipedia.org/wiki/Jewish_Hospital_(Cincinnati,_Ohio)",Jewish Hospital,jewish-hospital,jewish-hospital-cincinnati-ohio,ORG
+FDP,369001,1153,186,11884;26748,http://en.wikipedia.org/wiki/Free_Democratic_Party_of_Switzerland,Free Democratic Party of Switzerland,free-democratic-party-of-switzerland,free-democratic-party-of-switzerland,UNK

@@ -1,0 +1,74 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+ROMANIAN,25445,52892,1099,3612475;7083475;3415;3668;4149;25534;25445;151876;274597;14200218;322831;193500;16432916;57644;4439786;632673;8154308;384458;12154722;8581901;1351047,http://en.wikipedia.org/wiki/Romania,Romania,romania,romania,GPE
+ROMANIAN,8581901,34,38,25534;25445,http://en.wikipedia.org/wiki/BBC_Romanian,BBC Romanian,bbc-romanian,bbc-romanian,ORG
+ROMANIAN,8154308,5,15,25445,http://en.wikipedia.org/wiki/The_Romanian:_Story_of_an_Obsession,The Romanian: Story of an Obsession,the-romanian-story-of-an-obsession,the-romanian-story-of-an-obsession,UNK
+ROMANIAN,322831,2017,430,151876;25534;25445;14200218;274597;384458;3415,http://en.wikipedia.org/wiki/Romanians,Romanians,romanians,romanians,UNK
+ROMANIAN,1351047,103,110,25534;25445;2036573,http://en.wikipedia.org/wiki/Romanian_Wikipedia,Romanian Wikipedia,romanian-wikipedia,romanian-wikipedia,UNK
+ROMANIAN,384458,749,173,7083475;322831;14200218;25534;25445,http://en.wikipedia.org/wiki/Romanian_Orthodox_Church,Romanian Orthodox Church,romanian-orthodox-church,romanian-orthodox-church,UNK
+ROMANIAN,25534,4623,522,25534;25445;322831;384458;151876;4149;8581901;14200218;1351047,http://en.wikipedia.org/wiki/Romanian_language,Romanian language,romanian-language,romanian-language,UNK
+ROMANIAN,14200218,171,227,322831;25534;25445;384458,http://en.wikipedia.org/wiki/Romanian_architecture,Romanian architecture,romanian-architecture,romanian-architecture,UNK
+ROMANIAN,12154722,3,52,25445;3415,http://en.wikipedia.org/wiki/Romanian_International,Romanian International,romanian-international,romanian-international,UNK
+BULGARIA,3415,30092,671,3612475;4439786;7083475;3415;3668;31513643;4149;30367797;4512354;632673;16091490;963400;589031;25445;23016396;3708309;151876;274597;6872188;20848235;12154617;3889179;3516963;12154722;6085013;322831;30688712;193500;679770;57644,http://en.wikipedia.org/wiki/Bulgaria,Bulgaria,bulgaria,bulgaria,GPE
+BULGARIA,679770,1694,639,4149;6872188;3415;57644,http://en.wikipedia.org/wiki/Bulgaria_national_football_team,Bulgaria national football team,bulgaria-national-football-team,bulgaria-national-football-team,ORG
+BULGARIA,6872188,377,280,4149;3415;679770,http://en.wikipedia.org/wiki/Bulgaria_national_under-21_football_team,Bulgaria national under-21 football team,bulgaria-national-under-21-football-team,bulgaria-national-under-21-football-team,UNK
+BULGARIA,3668,277,345,151876;4149;25445;3415;7083475;589031;3668;632673;57644;274597;3612475,http://en.wikipedia.org/wiki/Geography_of_Bulgaria,Geography of Bulgaria,geography-of-bulgaria,geography-of-bulgaria,UNK
+BULGARIA,7083475,313,216,7083475;589031;3668;632673;151876;57644;4149;25445;3415;3612475;384458,http://en.wikipedia.org/wiki/Religion_in_Bulgaria,Religion in Bulgaria,religion-in-bulgaria,religion-in-bulgaria,PER
+BULGARIA,31513643,2,10,3415,http://en.wikipedia.org/wiki/Bulgária_SC_(East_Timor),Bulgária SC,bulgaria-sc,bulgaria-sc-east-timor,ORG
+BULGARIA,4439786,102,81,25445;3415,http://en.wikipedia.org/wiki/Greater_Bulgaria,Greater Bulgaria,greater-bulgaria,greater-bulgaria,UNK
+BULGARIA,30367797,11,14,57644;3415,http://en.wikipedia.org/wiki/Bulgaria_Mall,Bulgaria Mall,bulgaria-mall,bulgaria-mall,UNK
+BULGARIA,3612475,758,189,151876;4149;193500;7083475;589031;25445;3415;3668;632673;57644,http://en.wikipedia.org/wiki/Kingdom_of_Bulgaria,Kingdom of Bulgaria,kingdom-of-bulgaria,kingdom-of-bulgaria,GPE
+BULGARIA,16091490,14,34,3415,http://en.wikipedia.org/wiki/Bulgaria_(theme),Bulgaria,bulgaria,bulgaria-theme,UNK
+BULGARIA,26713159,1,9,,http://en.wikipedia.org/wiki/Bulgaria_(fungus),Bulgaria,bulgaria,bulgaria-fungus,PER
+BULGARIA,16432916,16,17,25445,"http://en.wikipedia.org/wiki/Bulgaria,_Cluj-Napoca","Bulgaria, Cluj-Napoca",bulgaria-cluj-napoca,bulgaria-cluj-napoca,UNK
+SOFIA,57644,5420,760,589031;3612475;25445;963400;6085013;7083475;23016396;3415;3708309;3668;679770;632673;57644;151876;4149;30688712;30367797;3516963;193500;4512354;274597,http://en.wikipedia.org/wiki/Sofia,Sofia,sofia,sofia,GPE
+SOFIA,23016396,10,30,151876;3415;193500;57644,"http://en.wikipedia.org/wiki/Sofia,_New_Mexico","Sofia, New Mexico",sofia-new-mexico,sofia-new-mexico,GPE
+SOFIA,20848235,1,27,151876;4149;3415,http://en.wikipedia.org/wiki/Little_Sofia,Little Sofia,little-sofia,little-sofia,UNK
+SOFIA,28293222,0,6,,http://en.wikipedia.org/wiki/SOFIA_(band),SOFIA,sofia,sofia-band,ORG
+SOFIA,2893436,7,14,3516963,http://en.wikipedia.org/wiki/Sofia_University_(California),Sofia University,sofia-university,sofia-university-california,ORG
+SOFIA,6085013,2,7,57644;3415,http://en.wikipedia.org/wiki/Sofia_(car),Sofia,sofia,sofia-car,ORG
+SOFIA,590932,342,126,38171535;589031;590932,http://en.wikipedia.org/wiki/Sofia_Region,Sofia Region,sofia-region,sofia-region,UNK
+SOFIA,3411131,3,6,,http://en.wikipedia.org/wiki/Sofia_Church,Sofia Church,sofia-church,sofia-church,UNK
+SOFIA,589031,206,147,7083475;4512354;590932;3668;632673;151876;57644;4149;3415;3612475,http://en.wikipedia.org/wiki/Sofia_Province,Sofia Province,sofia-province,sofia-province,UNK
+SOFIA,23537554,5,9,,"http://en.wikipedia.org/wiki/Sofia,_Drochia","Sofia, Drochia",sofia-drochia,sofia-drochia,UNK
+SOFIA,5134679,3,26,,http://en.wikipedia.org/wiki/Sofía_(Echinades),Sofía,sofia,sofia-echinades,UNK
+SOFIA,23501649,2,2,,"http://en.wikipedia.org/wiki/Sofia,_Hînceşti","Sofia, Hînceşti",sofia-hincesti,sofia-hincesti,UNK
+SOFIA,38171535,46,21,590932,http://en.wikipedia.org/wiki/Sofia_River,Sofia River,sofia-river,sofia-river,GPE
+SOFIA,21746300,7,23,,http://en.wikipedia.org/wiki/Sofia_(Swedish_singer),Sofia,sofia,sofia-swedish-singer,UNK
+SOFIA,963400,195,188,3516963;57644;4149;3415,http://en.wikipedia.org/wiki/Sofia_Airport,Sofia Airport,sofia-airport,sofia-airport,UNK
+SOFIA,105587,72,78,,http://en.wikipedia.org/wiki/Sofia_Kovalevskaya,Sofia Kovalevskaya,sofia-kovalevskaya,sofia-kovalevskaya,UNK
+SOFIA,3516963,381,170,4149;3415;963400;3708309;2893436;57644,http://en.wikipedia.org/wiki/Sofia_University,Sofia University,sofia-university,sofia-university,ORG
+SOFIA,869744,369,313,,http://en.wikipedia.org/wiki/Queen_Sofía_of_Spain,Queen Sofía of Spain,queen-sofia-of-spain,queen-sofia-of-spain,PER
+SOFIA,7786346,3,18,,http://en.wikipedia.org/wiki/Sofia_(Filipino_singer),Sofia,sofia,sofia-filipino-singer,PER
+SOFIA,4512354,15,12,589031;4149;3415;57644,http://en.wikipedia.org/wiki/Sofia_Valley,Sofia Valley,sofia-valley,sofia-valley,UNK
+Romanian,25445,52892,1099,3612475;7083475;3415;3668;4149;25534;25445;151876;274597;14200218;322831;193500;16432916;57644;4439786;632673;8154308;384458;12154722;8581901;1351047,http://en.wikipedia.org/wiki/Romania,Romania,romania,romania,GPE
+Romanian,8581901,34,38,25534;25445,http://en.wikipedia.org/wiki/BBC_Romanian,BBC Romanian,bbc-romanian,bbc-romanian,ORG
+Romanian,8154308,5,15,25445,http://en.wikipedia.org/wiki/The_Romanian:_Story_of_an_Obsession,The Romanian: Story of an Obsession,the-romanian-story-of-an-obsession,the-romanian-story-of-an-obsession,UNK
+Romanian,322831,2017,430,151876;25534;25445;14200218;274597;384458;3415,http://en.wikipedia.org/wiki/Romanians,Romanians,romanians,romanians,UNK
+Romanian,1351047,103,110,25534;25445;2036573,http://en.wikipedia.org/wiki/Romanian_Wikipedia,Romanian Wikipedia,romanian-wikipedia,romanian-wikipedia,UNK
+Romanian,384458,749,173,7083475;322831;14200218;25534;25445,http://en.wikipedia.org/wiki/Romanian_Orthodox_Church,Romanian Orthodox Church,romanian-orthodox-church,romanian-orthodox-church,UNK
+Romanian,25534,4623,522,25534;25445;322831;384458;151876;4149;8581901;14200218;1351047,http://en.wikipedia.org/wiki/Romanian_language,Romanian language,romanian-language,romanian-language,UNK
+Romanian,14200218,171,227,322831;25534;25445;384458,http://en.wikipedia.org/wiki/Romanian_architecture,Romanian architecture,romanian-architecture,romanian-architecture,UNK
+Romanian,12154722,3,52,25445;3415,http://en.wikipedia.org/wiki/Romanian_International,Romanian International,romanian-international,romanian-international,UNK
+Bulgarian,3415,30092,671,3612475;4439786;7083475;3415;3668;31513643;4149;30367797;4512354;632673;16091490;963400;589031;25445;23016396;3708309;151876;274597;6872188;20848235;12154617;3889179;3516963;12154722;6085013;322831;30688712;193500;679770;57644,http://en.wikipedia.org/wiki/Bulgaria,Bulgaria,bulgaria,bulgaria,GPE
+Bulgarian,3889179,19,25,3415,http://en.wikipedia.org/wiki/Bulgarian_Beach,Bulgarian Beach,bulgarian-beach,bulgarian-beach,UNK
+Bulgarian,12154617,0,63,3415,http://en.wikipedia.org/wiki/Bulgarian_International,Bulgarian International,bulgarian-international,bulgarian-international,UNK
+Bulgarian,2036573,103,102,4149;1351047;2036573,http://en.wikipedia.org/wiki/Bulgarian_Wikipedia,Bulgarian Wikipedia,bulgarian-wikipedia,bulgarian-wikipedia,UNK
+Bulgarian,4149,7413,318,3612475;963400;6872188;7083475;3415;3668;4149;20848235;3516963;193500;4512354;2036573;589031;25534;25445;3708309;679770;632673;57644;151876;30688712;274597,http://en.wikipedia.org/wiki/Bulgarian_language,Bulgarian language,bulgarian-language,bulgarian-language,UNK
+Bulgarian,151876,1595,370,151876;4149;20848235;589031;3612475;25534;25445;30688712;193500;7083475;23016396;322831;274597;3415;3668;632673;57644,http://en.wikipedia.org/wiki/Bulgarians,Bulgarians,bulgarians,bulgarians,UNK
+Bulgaria,3415,30092,671,3612475;4439786;7083475;3415;3668;31513643;4149;30367797;4512354;632673;16091490;963400;589031;25445;23016396;3708309;151876;274597;6872188;20848235;12154617;3889179;3516963;12154722;6085013;322831;30688712;193500;679770;57644,http://en.wikipedia.org/wiki/Bulgaria,Bulgaria,bulgaria,bulgaria,GPE
+Bulgaria,679770,1694,639,4149;6872188;3415;57644,http://en.wikipedia.org/wiki/Bulgaria_national_football_team,Bulgaria national football team,bulgaria-national-football-team,bulgaria-national-football-team,ORG
+Bulgaria,6872188,377,280,4149;3415;679770,http://en.wikipedia.org/wiki/Bulgaria_national_under-21_football_team,Bulgaria national under-21 football team,bulgaria-national-under-21-football-team,bulgaria-national-under-21-football-team,UNK
+Bulgaria,3668,277,345,151876;4149;25445;3415;7083475;589031;3668;632673;57644;274597;3612475,http://en.wikipedia.org/wiki/Geography_of_Bulgaria,Geography of Bulgaria,geography-of-bulgaria,geography-of-bulgaria,UNK
+Bulgaria,7083475,313,216,7083475;589031;3668;632673;151876;57644;4149;25445;3415;3612475;384458,http://en.wikipedia.org/wiki/Religion_in_Bulgaria,Religion in Bulgaria,religion-in-bulgaria,religion-in-bulgaria,PER
+Bulgaria,31513643,2,10,3415,http://en.wikipedia.org/wiki/Bulgária_SC_(East_Timor),Bulgária SC,bulgaria-sc,bulgaria-sc-east-timor,ORG
+Bulgaria,4439786,102,81,25445;3415,http://en.wikipedia.org/wiki/Greater_Bulgaria,Greater Bulgaria,greater-bulgaria,greater-bulgaria,UNK
+Bulgaria,30367797,11,14,57644;3415,http://en.wikipedia.org/wiki/Bulgaria_Mall,Bulgaria Mall,bulgaria-mall,bulgaria-mall,UNK
+Bulgaria,3612475,758,189,151876;4149;193500;7083475;589031;25445;3415;3668;632673;57644,http://en.wikipedia.org/wiki/Kingdom_of_Bulgaria,Kingdom of Bulgaria,kingdom-of-bulgaria,kingdom-of-bulgaria,GPE
+Bulgaria,16091490,14,34,3415,http://en.wikipedia.org/wiki/Bulgaria_(theme),Bulgaria,bulgaria,bulgaria-theme,UNK
+Bulgaria,26713159,1,9,,http://en.wikipedia.org/wiki/Bulgaria_(fungus),Bulgaria,bulgaria,bulgaria-fungus,PER
+Bulgaria,16432916,16,17,25445,"http://en.wikipedia.org/wiki/Bulgaria,_Cluj-Napoca","Bulgaria, Cluj-Napoca",bulgaria-cluj-napoca,bulgaria-cluj-napoca,UNK
+Rousse,274597,577,515,151876;4149;193500;25445;3415;30688712;322831;3668;57644;274597,"http://en.wikipedia.org/wiki/Ruse,_Bulgaria","Ruse, Bulgaria",ruse-bulgaria,ruse-bulgaria,UNK
+Veliko Tarnovo,193500,627,393,151876;4149;193500;25445;3415;30688712;23016396;3708309;632673;57644;274597;3612475,http://en.wikipedia.org/wiki/Veliko_Tarnovo,Veliko Tarnovo,veliko-tarnovo,veliko-tarnovo,UNK
+Veliko Tarnovo,3708309,87,116,4149;193500;3415;30688712;3516963;57644,http://en.wikipedia.org/wiki/Veliko_Tarnovo_University,Veliko Tarnovo University,veliko-tarnovo-university,veliko-tarnovo-university,ORG
+Veliko Tarnovo,632673,155,137,7083475;4149;193500;589031;25445;3415;30688712;3668;3612475;151876;57644,http://en.wikipedia.org/wiki/Veliko_Tarnovo_Province,Veliko Tarnovo Province,veliko-tarnovo-province,veliko-tarnovo-province,UNK
+Veliko Tarnovo,30688712,75,51,274597;4149;3415;193500;632673;3708309;151876;57644,http://en.wikipedia.org/wiki/Veliko_Tarnovo_Municipality,Veliko Tarnovo Municipality,veliko-tarnovo-municipality,veliko-tarnovo-municipality,UNK

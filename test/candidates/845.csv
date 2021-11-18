@@ -1,0 +1,29 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Romania,25445,52892,1099,979061;25637;25445;36877;39834541;297151;553982;679755;8150650;392816;495612,http://en.wikipedia.org/wiki/Romania,Romania,romania,romania,GPE
+Romania,297151,1394,246,36877;495612;297151;392816;25637;25445,http://en.wikipedia.org/wiki/Kingdom_of_Romania,Kingdom of Romania,kingdom-of-romania,kingdom-of-romania,GPE
+Romania,392816,477,279,36877;297151;25445;392816;25637,http://en.wikipedia.org/wiki/Greater_Romania,Greater Romania,greater-romania,greater-romania,UNK
+Romania,39834541,27,36,25445,http://en.wikipedia.org/wiki/F.C._Romania,F.C. Romania,fc-romania,fc-romania,ORG
+Romania,25637,831,266,297151;392816;25637;25445,http://en.wikipedia.org/wiki/Geography_of_Romania,Geography of Romania,geography-of-romania,geography-of-romania,ORG
+Romania,979061,881,345,36877;25445;17416221;679755,http://en.wikipedia.org/wiki/Romania_national_rugby_union_team,Romania national rugby union team,romania-national-rugby-union-team,romania-national-rugby-union-team,UNK
+Romania,679755,2112,718,715265;979061;25445;36877;17416221,http://en.wikipedia.org/wiki/Romania_national_football_team,Romania national football team,romania-national-football-team,romania-national-football-team,UNK
+BUCHAREST,36877,6804,606,979061;297151;36877;17416221;553982;25445;392816;679755;495612,http://en.wikipedia.org/wiki/Bucharest,Bucharest,bucharest,bucharest,UNK
+BUCHAREST,553982,661,234,36877;25445,http://en.wikipedia.org/wiki/University_of_Bucharest,University of Bucharest,university-of-bucharest,university-of-bucharest,ORG
+Bucharest,36877,6804,606,979061;297151;36877;17416221;553982;25445;392816;679755;495612,http://en.wikipedia.org/wiki/Bucharest,Bucharest,bucharest,bucharest,UNK
+Bucharest,553982,661,234,36877;25445,http://en.wikipedia.org/wiki/University_of_Bucharest,University of Bucharest,university-of-bucharest,university-of-bucharest,ORG
+Victor Babes,495612,13,53,25445;36877;297151,http://en.wikipedia.org/wiki/Victor_Babeș,Victor Babeș,victor-babes,victor-babes,PER
+Africa,5334607,18375,769,22437592;38109008;1854;17599440;8580547;715265;5334607;468634;17416221;8150650;27067;31661144,http://en.wikipedia.org/wiki/Africa,Africa,africa,africa,GPE
+Africa,22437592,76,80,5334607,http://en.wikipedia.org/wiki/.africa,.africa,africa,africa,UNK
+Africa,715265,3921,776,1854;679755;5334607;17416221,http://en.wikipedia.org/wiki/Confederation_of_African_Football,Confederation of African Football,confederation-of-african-football,confederation-of-african-football,ORG
+Africa,5312529,11,14,,http://en.wikipedia.org/wiki/Africa_University,Africa University,africa-university,africa-university,UNK
+Africa,957705,6,6,,http://en.wikipedia.org/wiki/Africa_(William_Billings),Africa,africa,africa-william-billings,GPE
+Africa,32015460,11,73,,http://en.wikipedia.org/wiki/Kingdom_of_Africa,Kingdom of Africa,kingdom-of-africa,kingdom-of-africa,UNK
+Africa,17599440,16,23,5334607,http://en.wikipedia.org/wiki/Africa_(journal),Africa,africa,africa-journal,ORG
+Africa,17416221,57523,1123,979061;1854;715265;27067;36877;5334607;679755;17416221,http://en.wikipedia.org/wiki/South_Africa,South Africa,south-africa,south-africa,GPE
+Africa,27067,1428,786,1854;5334607;17416221,http://en.wikipedia.org/wiki/Sub-Saharan_Africa,Sub-Saharan Africa,sub-saharan-africa,sub-saharan-africa,UNK
+Africa,1854,295,264,17416221;1854;5334607;715265;27067,http://en.wikipedia.org/wiki/Geography_of_Africa,Geography of Africa,geography-of-africa,geography-of-africa,UNK
+Africa,11310891,37,48,,"http://en.wikipedia.org/wiki/Africa,_Ohio","Africa, Ohio",africa-ohio,africa-ohio,GPE
+Africa,468634,461,335,468634;5334607,http://en.wikipedia.org/wiki/Africa_(Roman_province),Africa,africa,africa-roman-province,UNK
+Africa,8150650,8,41,25445;5334607,http://en.wikipedia.org/wiki/King_África,King África,king-africa,king-africa,PER
+Africa,8580547,37,82,5334607,http://en.wikipedia.org/wiki/Africa_(Petrarch),Africa,africa,africa-petrarch,UNK
+Africa,31661144,1,7,31661144;5334607,http://en.wikipedia.org/wiki/Western_influence_on_Africa,Western influence on Africa,western-influence-on-africa,western-influence-on-africa,UNK
+Africa,38109008,57,101,5334607,http://en.wikipedia.org/wiki/Africa_(BBC_documentary_series),Africa,africa,africa-bbc-documentary-series,UNK

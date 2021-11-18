@@ -1,0 +1,168 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Iraq,7515928,18884,662,25692425;30920463;11125639;19869863;4492;1652138;6212702;2088822;2322115;766841;201936;5043324;18998750;200519;14665;1038799;200154;33264850;993503;4562459;39303294;162172;4184636;2900620;1767662;25391;24761;7515928;7203072;220950;26793252;30199;29992;29490;246612;5148100;9166102,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+Iraq,26793252,147,159,5043324;24761;14665;4492;2900620;246612;29490;2322115;1038799;200154;201936;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_Republic_(1958–68),Iraqi Republic,iraqi-republic,iraqi-republic-1958–68,GPE
+Iraq,2900620,479,199,4492;2900620;246612;29490;2322115;1958295;26793252;5043324;24761;14665;1038799;200154;201936;7515928;4184636,http://en.wikipedia.org/wiki/Kingdom_of_Iraq,Kingdom of Iraq,kingdom-of-iraq,kingdom-of-iraq,GPE
+Iraq,5043324,6133,1280,11125639;34846420;4492;4184636;2900620;2322115;1767662;201936;25391;5043324;24761;7515928;26793252;29490;246612;200519;14665;1038799;200154;10013089;9166102,http://en.wikipedia.org/wiki/Iraq_War,Iraq War,iraq-war,iraq-war,UNK
+Iraq,10013089,0,8,5043324,http://en.wikipedia.org/wiki/Iraq_the_model,Iraq the model,iraq-the-model,iraq-the-model,UNK
+Iraq,201936,2386,848,4492;26793252;201936;29490;1652138;11125639;5043324;24761;7515928;246612;34846420;162172;14665;1038799;200154;4184636;2900620;2322115;9166102;766841,http://en.wikipedia.org/wiki/2003_invasion_of_Iraq,2003 invasion of Iraq,2003-invasion-of-iraq,2003-invasion-of-iraq,UNK
+Iraq,14665,219,271,11125639;30199;5043324;24761;14665;4492;2900620;246612;29490;2322115;1038799;200154;201936;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Geography_of_Iraq,Geography of Iraq,geography-of-iraq,geography-of-iraq,UNK
+Iraq,1038799,151,365,4492;2900620;246612;29490;2322115;26793252;11125639;5043324;24761;14665;1038799;200154;201936;7515928;4184636,http://en.wikipedia.org/wiki/Mandatory_Iraq,Mandatory Iraq,mandatory-iraq,mandatory-iraq,GPE
+Iraq,30920463,349,324,4492;18998750;7515928,http://en.wikipedia.org/wiki/2011_Iraqi_protests,2011 Iraqi protests,2011-iraqi-protests,2011-iraqi-protests,UNK
+Iraq,246612,247,253,5043324;233596;24761;14665;2900620;29490;2322115;1038799;200154;201936;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_dinar,Iraqi dinar,iraqi-dinar,iraqi-dinar,UNK
+BAGHDAD,4492,5332,473,30920463;201936;39898616;33264850;1958295;25391;11125639;5043324;24761;7515928;4562459;7203072;39303294;19869863;3296361;26793252;30199;29490;1652138;200519;162172;14665;1038799;200154;24871444;4184636;5148100;2900620;2088822;2322115;766841,http://en.wikipedia.org/wiki/Baghdad,Baghdad,baghdad,baghdad,GPE
+BAGHDAD,5148100,117,37,4492;7515928,http://en.wikipedia.org/wiki/University_of_Baghdad,University of Baghdad,university-of-baghdad,university-of-baghdad,UNK
+BAGHDAD,11402383,3,6,,http://en.wikipedia.org/wiki/Baghdad_Street_(Singapore),Baghdad Street,baghdad-street,baghdad-street-singapore,UNK
+BAGHDAD,4562459,13,25,29490;7515928;4492,http://en.wikipedia.org/wiki/Baghdad_College,Baghdad College,baghdad-college,baghdad-college,UNK
+BAGHDAD,162172,242,100,167925;4492;29490;1767662;201936;200519;7515928,http://en.wikipedia.org/wiki/Baghdad_International_Airport,Baghdad International Airport,baghdad-international-airport,baghdad-international-airport,UNK
+BAGHDAD,200519,272,42,162172;5043324;4492;7515928,http://en.wikipedia.org/wiki/Baghdad_Governorate,Baghdad Governorate,baghdad-governorate,baghdad-governorate,GPE
+BAGHDAD,11029341,3,6,,http://en.wikipedia.org/wiki/Lake_Baghdad,Lake Baghdad,lake-baghdad,lake-baghdad,UNK
+BAGHDAD,21863514,110,127,,http://en.wikipedia.org/wiki/Baghdad_Street_(Damascus),Baghdad Street,baghdad-street,baghdad-street-damascus,UNK
+BAGHDAD,3296361,29,23,4492,http://en.wikipedia.org/wiki/Al-Khatib_al-Baghdadi,Al-Khatib al-Baghdadi,al-khatib-al-baghdadi,al-khatib-al-baghdadi,UNK
+BAGHDAD,19869863,57,46,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_FC,Baghdad FC,baghdad-fc,baghdad-fc,UNK
+BAGHDAD,28164876,2,6,,http://en.wikipedia.org/wiki/Baghdad_Texas,Baghdad Texas,baghdad-texas,baghdad-texas,UNK
+BAGHDAD,39303294,0,10,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_School,Baghdad School,baghdad-school,baghdad-school,UNK
+BAGHDAD,39898616,1,7,4492,"http://en.wikipedia.org/wiki/Baghdād,_Afghanistan","Baghdād, Afghanistan",baghdad-afghanistan,baghdad-afghanistan,GPE
+BAGHDAD,1652138,7,9,7515928;201936;4492,http://en.wikipedia.org/wiki/Baghdad_Tower,Baghdad Tower,baghdad-tower,baghdad-tower,UNK
+BAGHDAD,1958295,196,101,11125639;24761;29992;4492;2900620,http://en.wikipedia.org/wiki/Baghdad_Railway,Baghdad Railway,baghdad-railway,baghdad-railway,UNK
+BAGHDAD,766841,7,9,201936;7515928;4492,http://en.wikipedia.org/wiki/Baghdad_Hotel,Baghdad Hotel,baghdad-hotel,baghdad-hotel,UNK
+BAGHDAD,6683213,13,10,,http://en.wikipedia.org/wiki/Baghdad_Stadium,Baghdad Stadium,baghdad-stadium,baghdad-stadium,UNK
+BAGHDAD,993503,68,90,7515928,http://en.wikipedia.org/wiki/Baghdad_(EP),Baghdad,baghdad,baghdad-ep,UNK
+BAGHDAD,7203072,7,7,29490;7515928;4492,http://en.wikipedia.org/wiki/About_Baghdad,About Baghdad,about-baghdad,about-baghdad,UNK
+BAGHDAD,34719584,15,16,,http://en.wikipedia.org/wiki/Baghdad_(West_Syrian_Diocese),Baghdad,baghdad,baghdad-west-syrian-diocese,UNK
+Iraqi,7515928,18884,662,25692425;30920463;11125639;19869863;4492;1652138;6212702;2088822;2322115;766841;201936;5043324;18998750;200519;14665;1038799;200154;33264850;993503;4562459;39303294;162172;4184636;2900620;1767662;25391;24761;7515928;7203072;220950;26793252;30199;29992;29490;246612;5148100;9166102,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+Iraqi,4184636,513,263,4492;6212702;2900620;246612;29490;2322115;26793252;11125639;5043324;24761;29992;14665;1038799;200154;201936;7515928,http://en.wikipedia.org/wiki/Iraqi_people,Iraqi people,iraqi-people,iraqi-people,UNK
+Iraqi,2322115,544,632,4492;246612;26793252;14665;1038799;200154;201936;4184636;2900620;29490;11125639;5043324;24761;7515928,http://en.wikipedia.org/wiki/Iraqi_cuisine,Iraqi cuisine,iraqi-cuisine,iraqi-cuisine,UNK
+Iraqi,33264850,3,6,4492;7515928,http://en.wikipedia.org/wiki/Iraqi_University,Iraqi University,iraqi-university,iraqi-university,UNK
+Iraqi,6212702,363,290,7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_biradri,Iraqi biradri,iraqi-biradri,iraqi-biradri,UNK
+Reuters,18998750,9093,418,30920463;1767662;25431;7515928;18998750;2171552;37252162,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+THAWRA,34846420,10,41,201936;39643616;5043324;29490,http://en.wikipedia.org/wiki/Al-Thawra_(newspaper),Al-Thawra,al-thawra,al-thawra-newspaper,UNK
+THAWRA,24871444,11,16,4492,http://en.wikipedia.org/wiki/Al-Thawra,Al-Thawra,al-thawra,al-thawra,UNK
+THAWRA,39643616,3,9,34846420,http://en.wikipedia.org/wiki/Al-Thawra_(Yemen),Al-Thawra,al-thawra,al-thawra-yemen,UNK
+Saddam Hussein,29490,3012,433,4492;26793252;1767662;201936;29490;11125639;5043324;24761;7515928;4562459;246612;34846420;162172;14665;7203072;1038799;200154;4184636;2900620;2322115,http://en.wikipedia.org/wiki/Saddam_Hussein,Saddam Hussein,saddam-hussein,saddam-hussein,PER
+Saddam Hussein,1767662,22,144,1767662;162172;18998750;5043324;29490;7515928,http://en.wikipedia.org/wiki/Saddam_Hussein_and_al-Qaeda_link_allegations,Saddam Hussein and al-Qaeda link allegations,saddam-hussein-and-al-qaeda-link-allegations,saddam-hussein-and-al-qaeda-link-allegations,UNK
+Russian,25391,96899,1757,11125639;4492;2088822;6840469;13311485;2495469;406573;2794281;25431;25391;13824333;316936;5043324;1297520;59510;12556065;2437139;1024058;2012490;7515928;106409;5237926;21322882;392566;233596;737701;1489122,http://en.wikipedia.org/wiki/Russia,Russia,russia,russia,GPE
+Russian,8280942,11,6,,http://en.wikipedia.org/wiki/Russian_Mountains,Russian Mountains,russian-mountains,russian-mountains,UNK
+Russian,2495469,84,246,737701;25431;25391,http://en.wikipedia.org/wiki/Russian_National_Unity,Russian National Unity,russian-national-unity,russian-national-unity,UNK
+Russian,1489122,180,35,2012490;25391,http://en.wikipedia.org/wiki/Russian_Museum,Russian Museum,russian-museum,russian-museum,UNK
+Russian,481569,36,34,,http://en.wikipedia.org/wiki/Russian_dressing,Russian dressing,russian-dressing,russian-dressing,UNK
+Russian,6840469,492,91,25391,http://en.wikipedia.org/wiki/Russian_River_(California),Russian River,russian-river,russian-river-california,UNK
+Russian,233596,820,442,246612;5237926;2012490;316936;2437139;406573;106409;1024058;25431;25391;59510,http://en.wikipedia.org/wiki/Russian_ruble,Russian ruble,russian-ruble,russian-ruble,UNK
+Russian,2437139,295,395,5237926;106409;25431;25391;233596;4652128;2012490;59510,http://en.wikipedia.org/wiki/Russian_architecture,Russian architecture,russian-architecture,russian-architecture,UNK
+Russian,59510,4384,502,2012490;106409;1024058;25431;25391;11125639;392566;5237926;2437139;233596,http://en.wikipedia.org/wiki/Russians,Russians,russians,russians,UNK
+Russian,2012490,439,923,5237926;2437139;406573;106409;1024058;25431;25391;233596;2794281;59510;1489122,http://en.wikipedia.org/wiki/Russian_culture,Russian culture,russian-culture,russian-culture,UNK
+Russian,1297520,101,114,25391,"http://en.wikipedia.org/wiki/Russian_Hill,_San_Francisco","Russian Hill, San Francisco",russian-hill-san-francisco,russian-hill-san-francisco,UNK
+Russian,5237926,240,330,106409;25431;25391;233596;2012490;2437139;59510,http://en.wikipedia.org/wiki/Russian_opera,Russian opera,russian-opera,russian-opera,GPE
+Russian,106409,642,438,5237926;2012490;316936;2437139;25431;25391;838610;233596;59510,http://en.wikipedia.org/wiki/Russian_literature,Russian literature,russian-literature,russian-literature,UNK
+Russian,13311485,3,78,25391,http://en.wikipedia.org/wiki/Russian_Rugby_League,Russian Rugby League,russian-rugby-league,russian-rugby-league,UNK
+Russian,25431,47755,624,11125639;2088822;838610;2437139;2495469;1024058;406573;2012490;25431;25391;29992;106409;5237926;316936;21322882;392566;18998750;233596;2036528;59510,http://en.wikipedia.org/wiki/Russian_language,Russian language,russian-language,russian-language,UNK
+Russian,42612382,2,5,,"http://en.wikipedia.org/wiki/Russian_Church,_Geneva","Russian Church, Geneva",russian-church-geneva,russian-church-geneva,UNK
+Russian,12556065,3,11,25391,"http://en.wikipedia.org/wiki/Russian_White,_Black_and_Tabby","Russian White, Black and Tabby",russian-white-black-and-tabby,russian-white-black-and-tabby,UNK
+Russian,2036528,144,149,3503008;25431;2036528,http://en.wikipedia.org/wiki/Russian_Wikipedia,Russian Wikipedia,russian-wikipedia,russian-wikipedia,UNK
+Russian,1024058,32,224,233596;2012490;59510;1024058;25431;25391,http://en.wikipedia.org/wiki/Russian_jokes,Russian jokes,russian-jokes,russian-jokes,UNK
+Russian,316936,160,119,838610;233596;316936;106409;25431;25391,http://en.wikipedia.org/wiki/Russian_alphabet,Russian alphabet,russian-alphabet,russian-alphabet,UNK
+Russian,38545714,1,6,,http://en.wikipedia.org/wiki/Russian_Mountains_(Alaska),Russian Mountains,russian-mountains,russian-mountains-alaska,UNK
+Russian,2794281,91,98,2012490;25391,http://en.wikipedia.org/wiki/Russian_icons,Russian icons,russian-icons,russian-icons,UNK
+Russian,737701,250,230,2495469;392566;25391,http://en.wikipedia.org/wiki/1993_Russian_constitutional_crisis,1993 Russian constitutional crisis,1993-russian-constitutional-crisis,1993-russian-constitutional-crisis,UNK
+Russian,4652128,10,11,2437139,"http://en.wikipedia.org/wiki/Russian_Church,_Sofia","Russian Church, Sofia",russian-church-sofia,russian-church-sofia,UNK
+Russian,838610,69,75,106409;316936;25431,http://en.wikipedia.org/wiki/Russian_orthography,Russian orthography,russian-orthography,russian-orthography,UNK
+Russian,966902,23,30,,http://en.wikipedia.org/wiki/Russian_River_(Alaska),Russian River,russian-river,russian-river-alaska,UNK
+Russian,406573,799,364,2012490;25431;25391;11125639;233596,http://en.wikipedia.org/wiki/Russian_Federal_Space_Agency,Russian Federal Space Agency,russian-federal-space-agency,russian-federal-space-agency,UNK
+Russian,7104363,12,59,,http://en.wikipedia.org/wiki/Russian_Party,Russian Party,russian-party,russian-party,UNK
+Russian,37252162,0,29,18998750,http://en.wikipedia.org/wiki/Russian_Market,Russian Market,russian-market,russian-market,UNK
+Russian,21322882,11,4,25431;25391,http://en.wikipedia.org/wiki/Russian_Journal_(website),Russian Journal,russian-journal,russian-journal-website,UNK
+Vladimir Zhirinovsky,392566,111,169,11125639;24761;2088822;59510;737701;25431;25391,http://en.wikipedia.org/wiki/Vladimir_Zhirinovsky,Vladimir Zhirinovsky,vladimir-zhirinovsky,vladimir-zhirinovsky,UNK
+Turkish,167925,893,474,162172;29992;11125639,http://en.wikipedia.org/wiki/Turkish_Airlines,Turkish Airlines,turkish-airlines,turkish-airlines,ORG
+Turkish,4337893,216,94,11125639;30199;29992,http://en.wikipedia.org/wiki/Turkish_Riviera,Turkish Riviera,turkish-riviera,turkish-riviera,UNK
+Turkish,29992,8623,383,1958295;11125639;3503008;4337893;4184636;2088822;2730305;167925;25431;7515928;30199;29992;743577,http://en.wikipedia.org/wiki/Turkish_language,Turkish language,turkish-language,turkish-language,UNK
+Turkish,3503008,112,101,29992;2036528,http://en.wikipedia.org/wiki/Turkish_Wikipedia,Turkish Wikipedia,turkish-wikipedia,turkish-wikipedia,UNK
+Turkish,38637407,11,40,,http://en.wikipedia.org/wiki/Turkish_Croatia,Turkish Croatia,turkish-croatia,turkish-croatia,UNK
+Turkish,2088822,3503,519,25431;25391;11125639;7515928;392566;4492;30199;29992;2088822,http://en.wikipedia.org/wiki/Turkish_people,Turkish people,turkish-people,turkish-people,UNK
+Turkey,9112329,237,88,9112329,http://en.wikipedia.org/wiki/Dustin_the_Turkey,Dustin the Turkey,dustin-the-turkey,dustin-the-turkey,UNK
+Turkey,11496730,59,107,11495681,http://en.wikipedia.org/wiki/USS_Turkey_(AM-13),USS Turkey,uss-turkey,uss-turkey-am-13,UNK
+Turkey,27291963,49,48,11125639,http://en.wikipedia.org/wiki/Turkey_Party,Turkey Party,turkey-party,turkey-party,UNK
+Turkey,296928,427,140,11125639;24513964;72821,http://en.wikipedia.org/wiki/Domesticated_turkey,Domesticated turkey,domesticated-turkey,domesticated-turkey,UNK
+Turkey,34786292,28,36,,"http://en.wikipedia.org/wiki/Turkey,_Kentucky","Turkey, Kentucky",turkey-kentucky,turkey-kentucky,GPE
+Turkey,16094744,4,4,16747837,http://en.wikipedia.org/wiki/Turkey_Mountain_(New_York),Turkey Mountain,turkey-mountain,turkey-mountain-new-york,UNK
+Turkey,4772844,179,211,4772844,http://en.wikipedia.org/wiki/Turkey_Hill_(company),Turkey Hill,turkey-hill,turkey-hill-company,UNK
+Turkey,11495681,4,4,11497678;11496730,http://en.wikipedia.org/wiki/USS_Turkey,USS Turkey,uss-turkey,uss-turkey,UNK
+Turkey,15444730,37,33,,http://en.wikipedia.org/wiki/The_Turkey,The Turkey,the-turkey,the-turkey,UNK
+Turkey,10267070,0,2,10267784;5448213,http://en.wikipedia.org/wiki/Turkey_River,Turkey River,turkey-river,turkey-river,UNK
+Turkey,20414892,2,41,,"http://en.wikipedia.org/wiki/Turkey_Hill_(Linthicum_Heights,_Maryland)",Turkey Hill,turkey-hill,turkey-hill-linthicum-heights-maryland,UNK
+Turkey,72821,410,138,128233;11125639;296928;24513964;11497678,http://en.wikipedia.org/wiki/Turkey_(bird),Turkey,turkey,turkey-bird,UNK
+Turkey,30199,342,394,4492;2088822;11125639;30199;24761;29992;14665;7515928;4337893,http://en.wikipedia.org/wiki/Geography_of_Turkey,Geography of Turkey,geography-of-turkey,geography-of-turkey,UNK
+Turkey,5448213,7,14,10267070,http://en.wikipedia.org/wiki/Turkey_River_(New_Hampshire),Turkey River,turkey-river,turkey-river-new-hampshire,UNK
+Turkey,11125639,51709,902,1958295;11125639;4492;2088822;14665;406573;4184636;25431;25391;24761;30199;29992;29490;13824333;4337893;167925;5043324;296928;59510;72821;2322115;201936;27291963;1038799;2730305;7515928;392566;128233;743577,http://en.wikipedia.org/wiki/Turkey,Turkey,turkey,turkey,GPE
+Turkey,11497678,74,126,11495681;72821,http://en.wikipedia.org/wiki/USS_Turkey_(AMS-56),USS Turkey,uss-turkey,uss-turkey-ams-56,UNK
+Turkey,24513964,72,183,296928;72821,http://en.wikipedia.org/wiki/Turkey_meat,Turkey meat,turkey-meat,turkey-meat,UNK
+Turkey,3790633,15,10,,http://en.wikipedia.org/wiki/Little_Turkey,Little Turkey,little-turkey,little-turkey,PER
+Turkey,128233,24,48,11125639;72821,"http://en.wikipedia.org/wiki/Turkey,_North_Carolina","Turkey, North Carolina",turkey-north-carolina,turkey-north-carolina,GPE
+Turkey,27648807,0,19,,"http://en.wikipedia.org/wiki/Turkey_Beach,_Queensland","Turkey Beach, Queensland",turkey-beach-queensland,turkey-beach-queensland,UNK
+Turkey,135979,26,27,,"http://en.wikipedia.org/wiki/Turkey,_Texas","Turkey, Texas",turkey-texas,turkey-texas,GPE
+Turkey,37318848,38,53,,"http://en.wikipedia.org/wiki/Turkey,_Limpopo","Turkey, Limpopo",turkey-limpopo,turkey-limpopo,UNK
+Turkey,743577,1890,521,29992;11125639;743577,http://en.wikipedia.org/wiki/Turkey_national_football_team,Turkey national football team,turkey-national-football-team,turkey-national-football-team,ORG
+Turkey,13824333,0,37,11125639;25391,http://en.wikipedia.org/wiki/Turkey_International,Turkey International,turkey-international,turkey-international,UNK
+Turkey,2730305,91,11,11125639;29992,http://en.wikipedia.org/wiki/Communist_Labour_Party_of_Turkey/Leninist,Communist Labour Party of Turkey/Leninist,communist-labour-party-of-turkey-leninist,communist-labour-party-of-turkey-leninist,UNK
+Turkey,16747837,0,2,16094744,http://en.wikipedia.org/wiki/Turkey_Mountain,Turkey Mountain,turkey-mountain,turkey-mountain,UNK
+Turkey,10267784,20,24,10267070,http://en.wikipedia.org/wiki/Turkey_River_(Iowa),Turkey River,turkey-river,turkey-river-iowa,UNK
+Turkey,11554626,118,100,,http://en.wikipedia.org/wiki/Turkey_Point_Light,Turkey Point Light,turkey-point-light,turkey-point-light,UNK
+Baghdad,4492,5332,473,30920463;201936;39898616;33264850;1958295;25391;11125639;5043324;24761;7515928;4562459;7203072;39303294;19869863;3296361;26793252;30199;29490;1652138;200519;162172;14665;1038799;200154;24871444;4184636;5148100;2900620;2088822;2322115;766841,http://en.wikipedia.org/wiki/Baghdad,Baghdad,baghdad,baghdad,GPE
+Baghdad,5148100,117,37,4492;7515928,http://en.wikipedia.org/wiki/University_of_Baghdad,University of Baghdad,university-of-baghdad,university-of-baghdad,UNK
+Baghdad,11402383,3,6,,http://en.wikipedia.org/wiki/Baghdad_Street_(Singapore),Baghdad Street,baghdad-street,baghdad-street-singapore,UNK
+Baghdad,4562459,13,25,29490;7515928;4492,http://en.wikipedia.org/wiki/Baghdad_College,Baghdad College,baghdad-college,baghdad-college,UNK
+Baghdad,162172,242,100,167925;4492;29490;1767662;201936;200519;7515928,http://en.wikipedia.org/wiki/Baghdad_International_Airport,Baghdad International Airport,baghdad-international-airport,baghdad-international-airport,UNK
+Baghdad,200519,272,42,162172;5043324;4492;7515928,http://en.wikipedia.org/wiki/Baghdad_Governorate,Baghdad Governorate,baghdad-governorate,baghdad-governorate,GPE
+Baghdad,11029341,3,6,,http://en.wikipedia.org/wiki/Lake_Baghdad,Lake Baghdad,lake-baghdad,lake-baghdad,UNK
+Baghdad,21863514,110,127,,http://en.wikipedia.org/wiki/Baghdad_Street_(Damascus),Baghdad Street,baghdad-street,baghdad-street-damascus,UNK
+Baghdad,3296361,29,23,4492,http://en.wikipedia.org/wiki/Al-Khatib_al-Baghdadi,Al-Khatib al-Baghdadi,al-khatib-al-baghdadi,al-khatib-al-baghdadi,UNK
+Baghdad,19869863,57,46,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_FC,Baghdad FC,baghdad-fc,baghdad-fc,UNK
+Baghdad,28164876,2,6,,http://en.wikipedia.org/wiki/Baghdad_Texas,Baghdad Texas,baghdad-texas,baghdad-texas,UNK
+Baghdad,39303294,0,10,4492;7515928,http://en.wikipedia.org/wiki/Baghdad_School,Baghdad School,baghdad-school,baghdad-school,UNK
+Baghdad,39898616,1,7,4492,"http://en.wikipedia.org/wiki/Baghdād,_Afghanistan","Baghdād, Afghanistan",baghdad-afghanistan,baghdad-afghanistan,GPE
+Baghdad,1652138,7,9,7515928;201936;4492,http://en.wikipedia.org/wiki/Baghdad_Tower,Baghdad Tower,baghdad-tower,baghdad-tower,UNK
+Baghdad,1958295,196,101,11125639;24761;29992;4492;2900620,http://en.wikipedia.org/wiki/Baghdad_Railway,Baghdad Railway,baghdad-railway,baghdad-railway,UNK
+Baghdad,766841,7,9,201936;7515928;4492,http://en.wikipedia.org/wiki/Baghdad_Hotel,Baghdad Hotel,baghdad-hotel,baghdad-hotel,UNK
+Baghdad,6683213,13,10,,http://en.wikipedia.org/wiki/Baghdad_Stadium,Baghdad Stadium,baghdad-stadium,baghdad-stadium,UNK
+Baghdad,993503,68,90,7515928,http://en.wikipedia.org/wiki/Baghdad_(EP),Baghdad,baghdad,baghdad-ep,UNK
+Baghdad,7203072,7,7,29490;7515928;4492,http://en.wikipedia.org/wiki/About_Baghdad,About Baghdad,about-baghdad,about-baghdad,UNK
+Baghdad,34719584,15,16,,http://en.wikipedia.org/wiki/Baghdad_(West_Syrian_Diocese),Baghdad,baghdad,baghdad-west-syrian-diocese,UNK
+IRAQ,7515928,18884,662,25692425;30920463;11125639;19869863;4492;1652138;6212702;2088822;2322115;766841;201936;5043324;18998750;200519;14665;1038799;200154;33264850;993503;4562459;39303294;162172;4184636;2900620;1767662;25391;24761;7515928;7203072;220950;26793252;30199;29992;29490;246612;5148100;9166102,http://en.wikipedia.org/wiki/Iraq,Iraq,iraq,iraq,GPE
+IRAQ,26793252,147,159,5043324;24761;14665;4492;2900620;246612;29490;2322115;1038799;200154;201936;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_Republic_(1958–68),Iraqi Republic,iraqi-republic,iraqi-republic-1958–68,GPE
+IRAQ,2900620,479,199,4492;2900620;246612;29490;2322115;1958295;26793252;5043324;24761;14665;1038799;200154;201936;7515928;4184636,http://en.wikipedia.org/wiki/Kingdom_of_Iraq,Kingdom of Iraq,kingdom-of-iraq,kingdom-of-iraq,GPE
+IRAQ,5043324,6133,1280,11125639;34846420;4492;4184636;2900620;2322115;1767662;201936;25391;5043324;24761;7515928;26793252;29490;246612;200519;14665;1038799;200154;10013089;9166102,http://en.wikipedia.org/wiki/Iraq_War,Iraq War,iraq-war,iraq-war,UNK
+IRAQ,10013089,0,8,5043324,http://en.wikipedia.org/wiki/Iraq_the_model,Iraq the model,iraq-the-model,iraq-the-model,UNK
+IRAQ,201936,2386,848,4492;26793252;201936;29490;1652138;11125639;5043324;24761;7515928;246612;34846420;162172;14665;1038799;200154;4184636;2900620;2322115;9166102;766841,http://en.wikipedia.org/wiki/2003_invasion_of_Iraq,2003 invasion of Iraq,2003-invasion-of-iraq,2003-invasion-of-iraq,UNK
+IRAQ,14665,219,271,11125639;30199;5043324;24761;14665;4492;2900620;246612;29490;2322115;1038799;200154;201936;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Geography_of_Iraq,Geography of Iraq,geography-of-iraq,geography-of-iraq,UNK
+IRAQ,1038799,151,365,4492;2900620;246612;29490;2322115;26793252;11125639;5043324;24761;14665;1038799;200154;201936;7515928;4184636,http://en.wikipedia.org/wiki/Mandatory_Iraq,Mandatory Iraq,mandatory-iraq,mandatory-iraq,GPE
+IRAQ,30920463,349,324,4492;18998750;7515928,http://en.wikipedia.org/wiki/2011_Iraqi_protests,2011 Iraqi protests,2011-iraqi-protests,2011-iraqi-protests,UNK
+IRAQ,246612,247,253,5043324;233596;24761;14665;2900620;29490;2322115;1038799;200154;201936;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Iraqi_dinar,Iraqi dinar,iraqi-dinar,iraqi-dinar,UNK
+Umm Qasr,200154,191,154,5043324;24761;14665;4492;2900620;246612;29490;2322115;1038799;9166102;201936;26793252;7515928;4184636,http://en.wikipedia.org/wiki/Umm_Qasr,Umm Qasr,umm-qasr,umm-qasr,GPE
+Umm Qasr,9166102,125,180,5043324;200154;201936;7515928,http://en.wikipedia.org/wiki/Battle_of_Umm_Qasr,Battle of Umm Qasr,battle-of-umm-qasr,battle-of-umm-qasr,UNK
+Gulf,24761,3877,508,25692425;201936;1958295;11125639;5043324;7515928;392566;220950;4492;26793252;30199;29490;187810;21076367;246612;14665;1038799;200154;4184636;2900620;2322115,http://en.wikipedia.org/wiki/Persian_Gulf,Persian Gulf,persian-gulf,persian-gulf,UNK
+Gulf,6378694,381,283,37035457;4840959;1477474,"http://en.wikipedia.org/wiki/Gulf,_Colorado_and_Santa_Fe_Railway","Gulf, Colorado and Santa Fe Railway",gulf-colorado-and-santa-fe-railway,gulf-colorado-and-santa-fe-railway,UNK
+Gulf,29142856,3,10,,"http://en.wikipedia.org/wiki/Gulf_University,_Bahrain","Gulf University, Bahrain",gulf-university-bahrain,gulf-university-bahrain,UNK
+Gulf,187810,439,206,21076367;24761,http://en.wikipedia.org/wiki/Gulf_of_Bothnia,Gulf of Bothnia,gulf-of-bothnia,gulf-of-bothnia,UNK
+Gulf,72369,591,175,72369;20931483;21076367,"http://en.wikipedia.org/wiki/Gulf_County,_Florida","Gulf County, Florida",gulf-county-florida,gulf-county-florida,GPE
+Gulf,508353,234,153,,http://en.wikipedia.org/wiki/Gulf_Islands,Gulf Islands,gulf-islands,gulf-islands,UNK
+Gulf,18628446,113,267,1477474,"http://en.wikipedia.org/wiki/Gulf,_Mobile,_and_Ohio_Passenger_Terminal","Gulf, Mobile, and Ohio Passenger Terminal",gulf-mobile-and-ohio-passenger-terminal,gulf-mobile-and-ohio-passenger-terminal,UNK
+Gulf,23475629,75,108,23475629,http://en.wikipedia.org/wiki/Gulf_War_syndrome,Gulf War syndrome,gulf-war-syndrome,gulf-war-syndrome,UNK
+Gulf,25692425,6,12,7515928;220950;24761,http://en.wikipedia.org/wiki/Gulf_Railway,Gulf Railway,gulf-railway,gulf-railway,UNK
+Gulf,22672327,0,8,,http://en.wikipedia.org/wiki/Gulf_Road_(Saudi_Arabia),Gulf Road,gulf-road,gulf-road-saudi-arabia,UNK
+Gulf,2578297,32,380,59218,http://en.wikipedia.org/wiki/Gulf_Tower,Gulf Tower,gulf-tower,gulf-tower,UNK
+Gulf,220950,535,280,25692425;24761;7515928,http://en.wikipedia.org/wiki/Cooperation_Council_for_the_Arab_States_of_the_Gulf,Cooperation Council for the Arab States of the Gulf,cooperation-council-for-the-arab-states-of-the-gulf,cooperation-council-for-the-arab-states-of-the-gulf,UNK
+Gulf,6574404,2,7,,http://en.wikipedia.org/wiki/Gulf_Road,Gulf Road,gulf-road,gulf-road,UNK
+Gulf,7085205,16,15,,http://en.wikipedia.org/wiki/Great_Gulf,Great Gulf,great-gulf,great-gulf,UNK
+Gulf,37035457,2,90,6378694,"http://en.wikipedia.org/wiki/Gulf,_Colorado_and_Santa_Fe_Railroad_Passenger_Station","Gulf, Colorado and Santa Fe Railroad Passenger Station",gulf-colorado-and-santa-fe-railroad-passenger-station,gulf-colorado-and-santa-fe-railroad-passenger-station,UNK
+Gulf,4840959,246,249,6378694;1477474,"http://en.wikipedia.org/wiki/Gulf,_Mobile,_and_Northern_Railroad","Gulf, Mobile, and Northern Railroad",gulf-mobile-and-northern-railroad,gulf-mobile-and-northern-railroad,UNK
+Gulf,871358,3,26,,http://en.wikipedia.org/wiki/Gulf_(novella),Gulf,gulf,gulf-novella,UNK
+Gulf,20931483,551,99,72369,"http://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Gulf_County,_Florida","National Register of Historic Places listings in Gulf County, Florida",national-register-of-historic-places-listings-in-gulf-county-florida,national-register-of-historic-places-listings-in-gulf-county-florida,UNK
+Gulf,40308103,1,97,,http://en.wikipedia.org/wiki/Gulf_Airport,Gulf Airport,gulf-airport,gulf-airport,UNK
+Gulf,8625342,35,34,,"http://en.wikipedia.org/wiki/Gulf,_North_Carolina","Gulf, North Carolina",gulf-north-carolina,gulf-north-carolina,GPE
+Gulf,7134158,1,10,,http://en.wikipedia.org/wiki/Gulf_FM_(Australia),Gulf FM,gulf-fm,gulf-fm-australia,UNK
+Gulf,241519,64,78,241519,"http://en.wikipedia.org/wiki/Gulf_City,_Florida","Gulf City, Florida",gulf-city-florida,gulf-city-florida,UNK
+Gulf,22902497,332,337,,"http://en.wikipedia.org/wiki/Gulf,_California","Gulf, California",gulf-california,gulf-california,GPE
+Gulf,59218,1363,115,21076367;2578297,http://en.wikipedia.org/wiki/Gulf_Oil,Gulf Oil,gulf-oil,gulf-oil,UNK
+Gulf,6484231,38,49,,"http://en.wikipedia.org/wiki/Gulf,_Colorado_and_San_Saba_Railway","Gulf, Colorado and San Saba Railway",gulf-colorado-and-san-saba-railway,gulf-colorado-and-san-saba-railway,UNK
+Gulf,1857663,93,39,,http://en.wikipedia.org/wiki/Gulf_Province,Gulf Province,gulf-province,gulf-province,UNK
+Gulf,21076367,5353,517,24761;59218;72369;1477474;187810,http://en.wikipedia.org/wiki/Gulf_of_Mexico,Gulf of Mexico,gulf-of-mexico,gulf-of-mexico,UNK
+Gulf,1477474,248,307,18628446;21076367;4840959;6378694,"http://en.wikipedia.org/wiki/Gulf,_Mobile,_and_Ohio_Railroad","Gulf, Mobile, and Ohio Railroad",gulf-mobile-and-ohio-railroad,gulf-mobile-and-ohio-railroad,UNK

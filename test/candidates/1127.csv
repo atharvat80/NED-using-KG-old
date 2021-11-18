@@ -1,0 +1,90 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+NATO,21133,7923,733,3463;21133;11996549;7556805;3216133;1613333;59045;18998750;29265;3812445;31769,http://en.wikipedia.org/wiki/NATO,NATO,nato,nato,ORG
+NATO,3812445,99,55,21133;3812445,http://en.wikipedia.org/wiki/Major_non-NATO_ally,Major non-NATO ally,major-non-nato-ally,major-non-nato-ally,ORG
+NATO,1613333,75,82,21133,http://en.wikipedia.org/wiki/.nato,.nato,nato,nato,UNK
+NATO,11996549,11,13,21133,http://en.wikipedia.org/wiki/NATO_School,NATO School,nato-school,nato-school,UNK
+NATO,17247005,122,136,,"http://en.wikipedia.org/wiki/Nato,_Madagascar","Nato, Madagascar",nato-madagascar,nato-madagascar,GPE
+NATO,240709,5,44,,http://en.wikipedia.org/wiki/Nato.0+55+3d,Nato.0+55+3d,nato0-55-3d,nato0-55-3d,UNK
+NATO,9117496,5,9,,http://en.wikipedia.org/wiki/N.A.T.o._(singer),N.A.T.o.,nato,nato-singer,UNK
+NATO,7556805,267,241,21133,http://en.wikipedia.org/wiki/United_States_Permanent_Representative_to_NATO,United States Permanent Representative to NATO,united-states-permanent-representative-to-nato,united-states-permanent-representative-to-nato,UNK
+NATO,59045,109,93,21133;59045,http://en.wikipedia.org/wiki/NATO_phonetic_alphabet,NATO phonetic alphabet,nato-phonetic-alphabet,nato-phonetic-alphabet,UNK
+NATO,27152117,2,3,,http://en.wikipedia.org/wiki/Natok,Natok,natok,natok,UNK
+NATO,17502363,3,3,,http://en.wikipedia.org/wiki/Nato_wood,Nato wood,nato-wood,nato-wood,PER
+Moslem,6037917,20084,792,3463;481215;30872924;6037917;59512;26994994;31899,http://en.wikipedia.org/wiki/Islam,Islam,islam,islam,UNK
+MAHALA,15608060,71,27,177772,http://en.wikipedia.org/wiki/Mahala,Mahala,mahala,mahala,UNK
+MAHALA,28381097,2,11,3463,http://en.wikipedia.org/wiki/Mahala_(Breza),Mahala,mahala,mahala-breza,UNK
+MAHALA,3231528,31,45,,http://en.wikipedia.org/wiki/Mahal_(Israel),Mahal,mahal,mahal-israel,UNK
+MAHALA,28904653,1,12,3463,http://en.wikipedia.org/wiki/Mahala_(Rogatica),Mahala,mahala,mahala-rogatica,UNK
+MAHALA,28493791,2,10,3463,http://en.wikipedia.org/wiki/Mahala_(Kalesija),Mahala,mahala,mahala-kalesija,UNK
+MAHALA,42277940,31,42,,"http://en.wikipedia.org/wiki/Mahala,_Novoselytsia_Raion","Mahala, Novoselytsia Raion",mahala-novoselytsia-raion,mahala-novoselytsia-raion,GPE
+MAHALA,27831484,0,8,,"http://en.wikipedia.org/wiki/Mahala,_Podgorica","Mahala, Podgorica",mahala-podgorica,mahala-podgorica,GPE
+MAHALA,1654868,94,255,,http://en.wikipedia.org/wiki/Mahalakshmi_Vrata,Mahalakshmi Vrata,mahalakshmi-vrata,mahalakshmi-vrata,UNK
+Bosnia,3463,17939,989,3463;524638;28493791;7431544;177772;3114713;18998750;481215;689493;1471933;1352753;858363;30872924;21133;2002160;2582228;6037917;59512;28381097;25025399;5791054;26786;28904653;29265;31769;4193718,http://en.wikipedia.org/wiki/Bosnia_and_Herzegovina,Bosnia and Herzegovina,bosnia-and-herzegovina,bosnia-and-herzegovina,GPE
+Bosnia,25025399,186,148,481215;177772;30872924;689493;26786;3463;3114713;29265;524638,http://en.wikipedia.org/wiki/Kingdom_of_Bosnia,Kingdom of Bosnia,kingdom-of-bosnia,kingdom-of-bosnia,GPE
+Bosnia,3114713,496,53,481215;2582228;177772;3463;29265;30872924;26786;59512;1471933;25025399,http://en.wikipedia.org/wiki/Bosnia_(region),Bosnia,bosnia,bosnia-region,UNK
+Bosnia,1592722,0,1,,http://en.wikipedia.org/wiki/Province_of_Bosnia,Province of Bosnia,province-of-bosnia,province-of-bosnia,GPE
+Bosnia,1471933,278,88,18998750;3463;3114713;29265;31957,http://en.wikipedia.org/wiki/Bosnian_Genocide,Bosnian Genocide,bosnian-genocide,bosnian-genocide,UNK
+Mahala,15608060,71,27,177772,http://en.wikipedia.org/wiki/Mahala,Mahala,mahala,mahala,UNK
+Mahala,28381097,2,11,3463,http://en.wikipedia.org/wiki/Mahala_(Breza),Mahala,mahala,mahala-breza,UNK
+Mahala,3231528,31,45,,http://en.wikipedia.org/wiki/Mahal_(Israel),Mahal,mahal,mahal-israel,UNK
+Mahala,28904653,1,12,3463,http://en.wikipedia.org/wiki/Mahala_(Rogatica),Mahala,mahala,mahala-rogatica,UNK
+Mahala,28493791,2,10,3463,http://en.wikipedia.org/wiki/Mahala_(Kalesija),Mahala,mahala,mahala-kalesija,UNK
+Mahala,42277940,31,42,,"http://en.wikipedia.org/wiki/Mahala,_Novoselytsia_Raion","Mahala, Novoselytsia Raion",mahala-novoselytsia-raion,mahala-novoselytsia-raion,GPE
+Mahala,27831484,0,8,,"http://en.wikipedia.org/wiki/Mahala,_Podgorica","Mahala, Podgorica",mahala-podgorica,mahala-podgorica,GPE
+Mahala,1654868,94,255,,http://en.wikipedia.org/wiki/Mahalakshmi_Vrata,Mahalakshmi Vrata,mahalakshmi-vrata,mahalakshmi-vrata,UNK
+Serb,29265,33224,1190,3463;3114713;481215;689493;1471933;21133;2582228;26786;29265;31769;31957;524638;177772;30872924;59512;25025399,http://en.wikipedia.org/wiki/Serbia,Serbia,serbia,serbia,GPE
+Serb,2582228,1195,188,31769;3114713;3463;29265;26786;59512,http://en.wikipedia.org/wiki/Kingdom_of_Serbia,Kingdom of Serbia,kingdom-of-serbia,kingdom-of-serbia,GPE
+Serb,59512,4097,481,3114713;3463;29265;177772;2582228;6037917,http://en.wikipedia.org/wiki/Serbs,Serbs,serbs,serbs,UNK
+Serbs,59512,4097,481,3114713;3463;29265;177772;2582228;6037917,http://en.wikipedia.org/wiki/Serbs,Serbs,serbs,serbs,UNK
+Serbs,13002627,40,71,7774887;13002904;13002196,"http://en.wikipedia.org/wiki/Kingdom_of_Serbs,_Croats_and_Slovenes_parliamentary_election,_1925","Kingdom of Serbs, Croats and Slovenes parliamentary election, 1925",kingdom-of-serbs-croats-and-slovenes-parliamentary-election-1925,kingdom-of-serbs-croats-and-slovenes-parliamentary-election-1925,PER
+Serbs,7774887,44,92,13002904;13002627;13002196,"http://en.wikipedia.org/wiki/Kingdom_of_Serbs,_Croats_and_Slovenes_parliamentary_election,_1923","Kingdom of Serbs, Croats and Slovenes parliamentary election, 1923",kingdom-of-serbs-croats-and-slovenes-parliamentary-election-1923,kingdom-of-serbs-croats-and-slovenes-parliamentary-election-1923,PER
+Serbs,13002196,43,67,13002627;7774887;13002904,"http://en.wikipedia.org/wiki/Kingdom_of_Serbs,_Croats_and_Slovenes_Constitutional_Assembly_election,_1920","Kingdom of Serbs, Croats and Slovenes Constitutional Assembly election, 1920",kingdom-of-serbs-croats-and-slovenes-constitutional-assembly-election-1920,kingdom-of-serbs-croats-and-slovenes-constitutional-assembly-election-1920,UNK
+Serbs,13002904,41,77,13002627;7774887;13002196,"http://en.wikipedia.org/wiki/Kingdom_of_Serbs,_Croats_and_Slovenes_parliamentary_election,_1927","Kingdom of Serbs, Croats and Slovenes parliamentary election, 1927",kingdom-of-serbs-croats-and-slovenes-parliamentary-election-1927,kingdom-of-serbs-croats-and-slovenes-parliamentary-election-1927,PER
+Sarajevo,26786,3983,737,3114713;25025399;3463;26786;6171515;524638;858363;29265;177772;689493;2582228;4193718,http://en.wikipedia.org/wiki/Sarajevo,Sarajevo,sarajevo,sarajevo,GPE
+Sarajevo,858363,195,169,4193718;689493;26786;3463;5791054,http://en.wikipedia.org/wiki/Sarajevo_International_Airport,Sarajevo International Airport,sarajevo-international-airport,sarajevo-international-airport,UNK
+Sarajevo,4193718,354,227,177772;689493;3463;7431544;26786;858363,http://en.wikipedia.org/wiki/University_of_Sarajevo,University of Sarajevo,university-of-sarajevo,university-of-sarajevo,ORG
+Sarajevo,689493,937,562,177772;858363;25025399;3463;29265;4193718;30872924;26786,http://en.wikipedia.org/wiki/FK_Sarajevo,FK Sarajevo,fk-sarajevo,fk-sarajevo,UNK
+Tuzla,524638,654,267,177772;2002160;3463;29265;5791054;7431544;26786;25025399,http://en.wikipedia.org/wiki/Tuzla,Tuzla,tuzla,tuzla,UNK
+Tuzla,7431544,93,94,3463;177772;4193718;524638,http://en.wikipedia.org/wiki/University_of_Tuzla,University of Tuzla,university-of-tuzla,university-of-tuzla,ORG
+Tuzla,33174103,1,10,,"http://en.wikipedia.org/wiki/Tuzla,_Karataş","Tuzla, Karataş",tuzla-karatas,tuzla-karatas,UNK
+Tuzla,1809986,29,160,,"http://en.wikipedia.org/wiki/Tuzla,_Istanbul","Tuzla, Istanbul",tuzla-istanbul,tuzla-istanbul,UNK
+Tuzla,5791054,29,39,858363;524638;3463;177772,http://en.wikipedia.org/wiki/Tuzla_International_Airport,Tuzla International Airport,tuzla-international-airport,tuzla-international-airport,UNK
+Tuzla,9695340,102,119,9695340,http://en.wikipedia.org/wiki/Tuzla_Island,Tuzla Island,tuzla-island,tuzla-island,UNK
+Tuzla,9538866,77,92,,"http://en.wikipedia.org/wiki/Tuzla,_Constanța","Tuzla, Constanța",tuzla-constanta,tuzla-constanta,UNK
+Moslems,6037917,20084,792,3463;481215;30872924;6037917;59512;26994994;31899,http://en.wikipedia.org/wiki/Islam,Islam,islam,islam,UNK
+Bosnian,3463,17939,989,3463;524638;28493791;7431544;177772;3114713;18998750;481215;689493;1471933;1352753;858363;30872924;21133;2002160;2582228;6037917;59512;28381097;25025399;5791054;26786;28904653;29265;31769;4193718,http://en.wikipedia.org/wiki/Bosnia_and_Herzegovina,Bosnia and Herzegovina,bosnia-and-herzegovina,bosnia-and-herzegovina,GPE
+Bosnian,177772,1101,279,6171515;15608060;689493;524638;31769;3114713;25025399;481215;3463;29265;5791054;4193718;7431544;30872924;26786;59512,http://en.wikipedia.org/wiki/Bosnian_language,Bosnian language,bosnian-language,bosnian-language,UNK
+Bosnian,1352753,13,7,3463,http://en.wikipedia.org/wiki/Bosnian_Institute,Bosnian Institute,bosnian-institute,bosnian-institute,ORG
+Bosnian,1471933,278,88,18998750;3463;3114713;29265;31957,http://en.wikipedia.org/wiki/Bosnian_Genocide,Bosnian Genocide,bosnian-genocide,bosnian-genocide,UNK
+Bosnian,2002160,60,24,524638;3463,http://en.wikipedia.org/wiki/Bosnian_Party,Bosnian Party,bosnian-party,bosnian-party,UNK
+Bosnian,30872924,679,134,481215;177772;689493;3463;29265;6037917;3114713;25025399,http://en.wikipedia.org/wiki/Bosnians,Bosnians,bosnians,bosnians,UNK
+Bosnian,481215,76,38,3463;177772;6037917;3114713;29265;30872924;25025399,http://en.wikipedia.org/wiki/Bosnian_Church,Bosnian Church,bosnian-church,bosnian-church,UNK
+Bosnian,6171515,98,99,177772;26786,http://en.wikipedia.org/wiki/Bosnian_Wikipedia,Bosnian Wikipedia,bosnian-wikipedia,bosnian-wikipedia,UNK
+Reuters,18998750,9093,418,3463;21133;18998750;2171552;18589346;1471933,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+U.N.,31769,20072,584,3463;177772;1437212;2151507;40979641;18589346;11865969;21133;2582228;3216133;29265;26994994;31769;31899;31957,http://en.wikipedia.org/wiki/United_Nations,United Nations,united-nations,united-nations,UNK
+U.N.,7332924,1,13,,"http://en.wikipedia.org/wiki/Un,_Surat","Un, Surat",un-surat,un-surat,UNK
+U.N.,26994994,3,25,6037917;31769,http://en.wikipedia.org/wiki/U.N._Me,U.N. Me,un-me,un-me,UNK
+U.N.,20412552,16,49,,"http://en.wikipedia.org/wiki/Un,_dos,_tres..._responda_otra_vez","Un, dos, tres... responda otra vez",un-dos-tres-responda-otra-vez,un-dos-tres-responda-otra-vez,UNK
+U.N.,31899,1098,266,1437212;31769;31957;6037917,http://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights,Universal Declaration of Human Rights,universal-declaration-of-human-rights,universal-declaration-of-human-rights,UNK
+U.N.,6079172,104,59,,"http://en.wikipedia.org/wiki/Un,_deux,_trois","Un, deux, trois",un-deux-trois,un-deux-trois,UNK
+U.N.,23758960,612,113,,http://en.wikipedia.org/wiki/House_Un-American_Activities_Committee,House Un-American Activities Committee,house-un-american-activities-committee,house-un-american-activities-committee,UNK
+U.N.,40979641,5,20,31769,http://en.wikipedia.org/wiki/UN_City,UN City,un-city,un-city,UNK
+U.N.,4253834,20,41,,http://en.wikipedia.org/wiki/Un-United_Kingdom,Un-United Kingdom,un-united-kingdom,un-united-kingdom,UNK
+U.N.,28899268,595,142,,http://en.wikipedia.org/wiki/A-un,A-un,a-un,a-un,UNK
+U.N.,31957,2205,356,3216133;29265;1437212;2151507;31769;31899;31957;1471933,http://en.wikipedia.org/wiki/United_Nations_General_Assembly,United Nations General Assembly,united-nations-general-assembly,united-nations-general-assembly,UNK
+U.N.,100000160,0,0,,"http://en.wikipedia.org/wiki/Un,_Gujarat","Un, Gujarat",un-gujarat,un-gujarat,UKN
+U.N.,23214659,0,1,,http://en.wikipedia.org/wiki/Un_(prefix),Un,un,un-prefix,GPE
+U.N.,3216133,151,186,21133;31769;3216133;31957,http://en.wikipedia.org/wiki/Reform_of_the_United_Nations_Security_Council,Reform of the United Nations Security Council,reform-of-the-united-nations-security-council,reform-of-the-united-nations-security-council,UNK
+U.N.,1437212,2353,126,612085;2151507;31769;31899;31957,http://en.wikipedia.org/wiki/United_Nations_resolution,United Nations resolution,united-nations-resolution,united-nations-resolution,UNK
+U.N.,18589346,148,276,18589346;31769;18998750,http://en.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement,Anti-Counterfeiting Trade Agreement,anti-counterfeiting-trade-agreement,anti-counterfeiting-trade-agreement,UNK
+U.N.,5812261,9,88,,"http://en.wikipedia.org/wiki/Un,_Uttar_Pradesh","Un, Uttar Pradesh",un-uttar-pradesh,un-uttar-pradesh,UNK
+U.N.,2151507,232,21,1437212;31769;31957,http://en.wikipedia.org/wiki/United_Nations_Volunteers,United Nations Volunteers,united-nations-volunteers,united-nations-volunteers,UNK
+U.N.,11865969,26,63,31769,http://en.wikipedia.org/wiki/United_Nations_(gang),United Nations,united-nations,united-nations-gang,UNK
+U.N.,100007348,0,0,,"http://en.wikipedia.org/wiki/Un,_India","Un, India",un-india,un-india,UKN
+U.N.,612085,175,118,1437212,http://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_446,United Nations Security Council Resolution 446,united-nations-security-council-resolution-446,united-nations-security-council-resolution-446,UNK
+U.N.,25287144,9,49,,http://en.wikipedia.org/wiki/U.N._(group),U.N.,un,un-group,UNK
+U.N.,5509095,22,34,,http://en.wikipedia.org/wiki/Un_Lun_Dun,Un Lun Dun,un-lun-dun,un-lun-dun,UNK
+U.N.,3191302,84,23,3191302,http://en.wikipedia.org/wiki/Unconference,Unconference,unconference,unconference,UNK
+U.N.,7214790,59,31,,http://en.wikipedia.org/wiki/Unk,Unk,unk,unk,PER
+U.N.,6922580,5,11,,http://en.wikipedia.org/wiki/UN_(band),UN,un,un-band,PER

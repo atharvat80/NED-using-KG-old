@@ -1,0 +1,151 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+HK,290241,281,319,5405;27413692;13404,http://en.wikipedia.org/wiki/.hk,.hk,hk,hk,UNK
+HK,1589886,260,586,13404,http://en.wikipedia.org/wiki/ISO_3166-2:HK,ISO 3166-2:HK,iso-3166-2-hk,iso-3166-2-hk,UNK
+China,5405,76886,1206,4721;5405;2259195;26207532;290241;13404;29031717;18603746;1513051;409543;33167689;6108359;268075;23237;393288;31717;32919758;4463189;180697;3733255;19097669;40710796;27413692;332456;217487;3574003;601694;9200791;18775842;1231558;367843;11641871;21308184;248457;1244783;124485,http://en.wikipedia.org/wiki/China,China,china,china,GPE
+China,36907282,1,7,,http://en.wikipedia.org/wiki/BBC_China,BBC China,bbc-china,bbc-china,UNK
+China,601694,143,45,5405;13404;23237,http://en.wikipedia.org/wiki/Greater_China,Greater China,greater-china,greater-china,UNK
+China,30809009,1,14,,http://en.wikipedia.org/wiki/China_(footballer_born_1964),China,china,china-footballer-born-1964,PER
+China,3676975,33,38,,http://en.wikipedia.org/wiki/China_Kantner,China Kantner,china-kantner,china-kantner,PER
+China,32215636,132,153,,"http://en.wikipedia.org/wiki/China,_IL","China, IL",china-il,china-il,UNK
+China,11641871,21,20,5405,http://en.wikipedia.org/wiki/China_Team,China Team,china-team,china-team,ORG
+China,23237,408,328,18603746;5405;917647;217487;367843;601694;33167689;13406;13404,http://en.wikipedia.org/wiki/Geography_of_China,Geography of China,geography-of-china,geography-of-china,UNK
+China,6108359,52,54,5405,http://en.wikipedia.org/wiki/China_(Epcot),China,china,china-epcot,UNK
+China,124485,570,414,5405;248457;184224;13404;1449735;124485,http://en.wikipedia.org/wiki/China_Airlines,China Airlines,china-airlines,china-airlines,UNK
+China,689521,269,153,,http://en.wikipedia.org/wiki/China_Beach,China Beach,china-beach,china-beach,UNK
+China,5865836,201,77,,http://en.wikipedia.org/wiki/Chin,Chin,chin,chin,UNK
+China,29668485,209,261,,http://en.wikipedia.org/wiki/China_(The_Office),China,china,china-the-office,UNK
+China,1231558,12,53,5405,http://en.wikipedia.org/wiki/China_Poblana,China Poblana,china-poblana,china-poblana,UNK
+China,1002769,48,20,,http://en.wikipedia.org/wiki/China_Records,China Records,china-records,china-records,UNK
+China,20500198,0,22,,http://en.wikipedia.org/wiki/China_(footballer_born_1980),China,china,china-footballer-born-1980,PER
+China,40710796,6,16,5405;13404,http://en.wikipedia.org/wiki/China_Association,China Association,china-association,china-association,ORG
+China,6421885,57,48,,"http://en.wikipedia.org/wiki/China,_Nuevo_León","China, Nuevo León",china-nuevo-leon,china-nuevo-leon,GPE
+China,29031717,42,83,5405,http://en.wikipedia.org/wiki/China_(Superleague_Formula_team),China,china,china-superleague-formula-team,UNK
+China,33089020,4,14,,http://en.wikipedia.org/wiki/On_China,On China,on-china,on-china,UNK
+China,367843,339,506,5405;217487;367843;33167689;23237,http://en.wikipedia.org/wiki/Religion_in_China,Religion in China,religion-in-china,religion-in-china,UNK
+China,33167689,655,414,217487;18603746;5405;367843;184224;23237,http://en.wikipedia.org/wiki/Republic_of_China_(1912–49),Republic of China,republic-of-china,republic-of-china-1912–49,GPE
+China,332456,4,14,5405;13404,http://en.wikipedia.org/wiki/China_Hotel,China Hotel,china-hotel,china-hotel,UNK
+China,217487,320,734,217487;33167689;18603746;5405;367843;23237,http://en.wikipedia.org/wiki/Human_rights_in_China,Human rights in China,human-rights-in-china,human-rights-in-china,ORG
+China,184224,201,253,18603746;33167689;31717;13404;124485,http://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China,Flag of the Republic of China,flag-of-the-republic-of-china,flag-of-the-republic-of-china,UNK
+China,3733255,99,95,5405,http://en.wikipedia.org/wiki/China_Institute,China Institute,china-institute,china-institute,UNK
+China,32919758,2,19,5405,http://en.wikipedia.org/wiki/China_Information,China Information,china-information,china-information,ORG
+China,2259195,63,130,18603746;5405;13404,http://en.wikipedia.org/wiki/Recognition_of_same-sex_unions_in_China,Recognition of same-sex unions in China,recognition-of-same-sex-unions-in-china,recognition-of-same-sex-unions-in-china,GPE
+China,9041110,9,11,13404,http://en.wikipedia.org/wiki/China_Club,China Club,china-club,china-club,UNK
+China,21265151,4,9,,http://en.wikipedia.org/wiki/China_Beach_(Canada),China Beach,china-beach,china-beach-canada,UNK
+HONG KONG,13404,29087,1384,19097669;4179;4721;5405;2259195;40710796;290241;18593210;22962474;19339340;27413692;13411;13406;13404;18603746;332456;1389893;13371128;1449735;2305442;268075;23237;393288;393307;9041110;31717;601694;4913027;33617951;184224;180697;248457;1244783;1589886;124485;33918128,http://en.wikipedia.org/wiki/Hong_Kong,Hong Kong,hong-kong,hong-kong,GPE
+HONG KONG,33918128,1,10,13404;248457,http://en.wikipedia.org/wiki/Hong_Kong_(Area_Control_Centre),Hong Kong,hong-kong,hong-kong-area-control-centre,UNK
+HONG KONG,180697,1125,122,248457;13371128;4721;5405;31717;1389893;1244783;268075;27413692;13411;13406;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Island,Hong Kong Island,hong-kong-island,hong-kong-island,UNK
+HONG KONG,393307,62,30,13404,http://en.wikipedia.org/wiki/Hong_Kong_Park,Hong Kong Park,hong-kong-park,hong-kong-park,UNK
+HONG KONG,393288,131,230,18603746;5405;31717;27413692;13411;13406;13404;248457,http://en.wikipedia.org/wiki/Tourism_in_Hong_Kong,Tourism in Hong Kong,tourism-in-hong-kong,tourism-in-hong-kong,UNK
+HONG KONG,32837949,110,121,33617951;36855089;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2000_Summer_Paralympics","Hong Kong, China at the 2000 Summer Paralympics",hong-kong-china-at-the-2000-summer-paralympics,hong-kong-china-at-the-2000-summer-paralympics,UNK
+HONG KONG,22962474,40,50,13371128;180697;13404,http://en.wikipedia.org/wiki/W_Hong_Kong,W Hong Kong,w-hong-kong,w-hong-kong,UNK
+HONG KONG,268075,918,410,180697;5405;19339340;268075;27413692;13404,http://en.wikipedia.org/wiki/University_of_Hong_Kong,University of Hong Kong,university-of-hong-kong,university-of-hong-kong,UNK
+HONG KONG,2152406,18,13,,http://en.wikipedia.org/wiki/Hong_Kong_Club,Hong Kong Club,hong-kong-club,hong-kong-club,ORG
+HONG KONG,18775842,161,179,33617951;18603746;36855089;5405;32837949,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2008_Summer_Paralympics","Hong Kong, China at the 2008 Summer Paralympics",hong-kong-china-at-the-2008-summer-paralympics,hong-kong-china-at-the-2008-summer-paralympics,UNK
+HONG KONG,18593210,15,14,13404,http://en.wikipedia.org/wiki/Mr._Hong_Kong,Mr. Hong Kong,mr-hong-kong,mr-hong-kong,UNK
+HONG KONG,13411,475,349,393288;180697;1389893;248457;13411;13406;13404;1449735,http://en.wikipedia.org/wiki/Transport_in_Hong_Kong,Transport in Hong Kong,transport-in-hong-kong,transport-in-hong-kong,ORG
+HONG KONG,36855089,173,199,33617951;32837949;31717;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2012_Summer_Paralympics","Hong Kong, China at the 2012 Summer Paralympics",hong-kong-china-at-the-2012-summer-paralympics,hong-kong-china-at-the-2012-summer-paralympics,UNK
+HONG KONG,1244783,601,156,5405;180697;13404,http://en.wikipedia.org/wiki/Hong_Kong_Stadium,Hong Kong Stadium,hong-kong-stadium,hong-kong-stadium,UNK
+HONG KONG,10157228,5,14,,http://en.wikipedia.org/wiki/The_Hong_Kong,The Hong Kong,the-hong-kong,the-hong-kong,UNK
+HONG KONG,27413692,563,306,18603746;393288;5405;180697;31717;268075;3574003;4208015;19097669;13406;13404;4721;290241,http://en.wikipedia.org/wiki/British_Hong_Kong,British Hong Kong,british-hong-kong,british-hong-kong,GPE
+HONG KONG,13406,276,257,393288;180697;248457;27413692;13411;13406;13404;23237,http://en.wikipedia.org/wiki/Geography_of_Hong_Kong,Geography of Hong Kong,geography-of-hong-kong,geography-of-hong-kong,UNK
+HONG KONG,1389893,376,293,180697;1389893;248457;13411;13404,http://en.wikipedia.org/wiki/Hong_Kong_Station,Hong Kong Station,hong-kong-station,hong-kong-station,UNK
+HONG KONG,13371128,52,51,180697;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Hotel,Hong Kong Hotel,hong-kong-hotel,hong-kong-hotel,UNK
+HONG KONG,19339340,52,31,268075;13404,http://en.wikipedia.org/wiki/2009_flu_pandemic_in_Hong_Kong,2009 flu pandemic in Hong Kong,2009-flu-pandemic-in-hong-kong,2009-flu-pandemic-in-hong-kong,UNK
+HONG KONG,248457,1212,534,180697;1449735;124485;393288;5405;1389893;33918128;13411;13406;13404,http://en.wikipedia.org/wiki/Hong_Kong_International_Airport,Hong Kong International Airport,hong-kong-international-airport,hong-kong-international-airport,UNK
+HONG KONG,1449735,450,319,248457;13411;13404;124485,http://en.wikipedia.org/wiki/Hong_Kong_Airlines,Hong Kong Airlines,hong-kong-airlines,hong-kong-airlines,ORG
+HONG KONG,33617951,142,153,36855089;13404;32837949;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2004_Summer_Paralympics","Hong Kong, China at the 2004 Summer Paralympics",hong-kong-china-at-the-2004-summer-paralympics,hong-kong-china-at-the-2004-summer-paralympics,UNK
+Hong Kong,13404,29087,1384,19097669;4179;4721;5405;2259195;40710796;290241;18593210;22962474;19339340;27413692;13411;13406;13404;18603746;332456;1389893;13371128;1449735;2305442;268075;23237;393288;393307;9041110;31717;601694;4913027;33617951;184224;180697;248457;1244783;1589886;124485;33918128,http://en.wikipedia.org/wiki/Hong_Kong,Hong Kong,hong-kong,hong-kong,GPE
+Hong Kong,33918128,1,10,13404;248457,http://en.wikipedia.org/wiki/Hong_Kong_(Area_Control_Centre),Hong Kong,hong-kong,hong-kong-area-control-centre,UNK
+Hong Kong,180697,1125,122,248457;13371128;4721;5405;31717;1389893;1244783;268075;27413692;13411;13406;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Island,Hong Kong Island,hong-kong-island,hong-kong-island,UNK
+Hong Kong,393307,62,30,13404,http://en.wikipedia.org/wiki/Hong_Kong_Park,Hong Kong Park,hong-kong-park,hong-kong-park,UNK
+Hong Kong,393288,131,230,18603746;5405;31717;27413692;13411;13406;13404;248457,http://en.wikipedia.org/wiki/Tourism_in_Hong_Kong,Tourism in Hong Kong,tourism-in-hong-kong,tourism-in-hong-kong,UNK
+Hong Kong,32837949,110,121,33617951;36855089;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2000_Summer_Paralympics","Hong Kong, China at the 2000 Summer Paralympics",hong-kong-china-at-the-2000-summer-paralympics,hong-kong-china-at-the-2000-summer-paralympics,UNK
+Hong Kong,22962474,40,50,13371128;180697;13404,http://en.wikipedia.org/wiki/W_Hong_Kong,W Hong Kong,w-hong-kong,w-hong-kong,UNK
+Hong Kong,268075,918,410,180697;5405;19339340;268075;27413692;13404,http://en.wikipedia.org/wiki/University_of_Hong_Kong,University of Hong Kong,university-of-hong-kong,university-of-hong-kong,UNK
+Hong Kong,2152406,18,13,,http://en.wikipedia.org/wiki/Hong_Kong_Club,Hong Kong Club,hong-kong-club,hong-kong-club,ORG
+Hong Kong,18775842,161,179,33617951;18603746;36855089;5405;32837949,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2008_Summer_Paralympics","Hong Kong, China at the 2008 Summer Paralympics",hong-kong-china-at-the-2008-summer-paralympics,hong-kong-china-at-the-2008-summer-paralympics,UNK
+Hong Kong,18593210,15,14,13404,http://en.wikipedia.org/wiki/Mr._Hong_Kong,Mr. Hong Kong,mr-hong-kong,mr-hong-kong,UNK
+Hong Kong,13411,475,349,393288;180697;1389893;248457;13411;13406;13404;1449735,http://en.wikipedia.org/wiki/Transport_in_Hong_Kong,Transport in Hong Kong,transport-in-hong-kong,transport-in-hong-kong,ORG
+Hong Kong,36855089,173,199,33617951;32837949;31717;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2012_Summer_Paralympics","Hong Kong, China at the 2012 Summer Paralympics",hong-kong-china-at-the-2012-summer-paralympics,hong-kong-china-at-the-2012-summer-paralympics,UNK
+Hong Kong,1244783,601,156,5405;180697;13404,http://en.wikipedia.org/wiki/Hong_Kong_Stadium,Hong Kong Stadium,hong-kong-stadium,hong-kong-stadium,UNK
+Hong Kong,10157228,5,14,,http://en.wikipedia.org/wiki/The_Hong_Kong,The Hong Kong,the-hong-kong,the-hong-kong,UNK
+Hong Kong,27413692,563,306,18603746;393288;5405;180697;31717;268075;3574003;4208015;19097669;13406;13404;4721;290241,http://en.wikipedia.org/wiki/British_Hong_Kong,British Hong Kong,british-hong-kong,british-hong-kong,GPE
+Hong Kong,13406,276,257,393288;180697;248457;27413692;13411;13406;13404;23237,http://en.wikipedia.org/wiki/Geography_of_Hong_Kong,Geography of Hong Kong,geography-of-hong-kong,geography-of-hong-kong,UNK
+Hong Kong,1389893,376,293,180697;1389893;248457;13411;13404,http://en.wikipedia.org/wiki/Hong_Kong_Station,Hong Kong Station,hong-kong-station,hong-kong-station,UNK
+Hong Kong,13371128,52,51,180697;13404;22962474,http://en.wikipedia.org/wiki/Hong_Kong_Hotel,Hong Kong Hotel,hong-kong-hotel,hong-kong-hotel,UNK
+Hong Kong,19339340,52,31,268075;13404,http://en.wikipedia.org/wiki/2009_flu_pandemic_in_Hong_Kong,2009 flu pandemic in Hong Kong,2009-flu-pandemic-in-hong-kong,2009-flu-pandemic-in-hong-kong,UNK
+Hong Kong,248457,1212,534,180697;1449735;124485;393288;5405;1389893;33918128;13411;13406;13404,http://en.wikipedia.org/wiki/Hong_Kong_International_Airport,Hong Kong International Airport,hong-kong-international-airport,hong-kong-international-airport,UNK
+Hong Kong,1449735,450,319,248457;13411;13404;124485,http://en.wikipedia.org/wiki/Hong_Kong_Airlines,Hong Kong Airlines,hong-kong-airlines,hong-kong-airlines,ORG
+Hong Kong,33617951,142,153,36855089;13404;32837949;18775842,"http://en.wikipedia.org/wiki/Hong_Kong,_China_at_the_2004_Summer_Paralympics","Hong Kong, China at the 2004 Summer Paralympics",hong-kong-china-at-the-2004-summer-paralympics,hong-kong-china-at-the-2004-summer-paralympics,UNK
+Supreme Court,7097642,22,64,395852;3187153;1666510;843857;4913027,http://en.wikipedia.org/wiki/Supreme_Court_of_the_Republic_of_China,Supreme Court of the Republic of China,supreme-court-of-the-republic-of-china,supreme-court-of-the-republic-of-china,UNK
+Supreme Court,1727595,901,281,1187265;3187153;4243475;4913027;8327853;1727595;31717;667839,http://en.wikipedia.org/wiki/Supreme_Court_of_the_United_Kingdom,Supreme Court of the United Kingdom,supreme-court-of-the-united-kingdom,supreme-court-of-the-united-kingdom,UNK
+Supreme Court,8327853,196,103,1727595;1187265;667839;3187153;4243475;4913027,http://en.wikipedia.org/wiki/Supreme_Court_of_Spain,Supreme Court of Spain,supreme-court-of-spain,supreme-court-of-spain,ORG
+Supreme Court,31737,8662,788,265108;809976;4913027;532376;1112079;2476388;31737;123468,http://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States,Supreme Court of the United States,supreme-court-of-the-united-states,supreme-court-of-the-united-states,ORG
+Supreme Court,395852,1300,323,1666510;3187153;4913027;4208015;2305442;843857;7097642,http://en.wikipedia.org/wiki/Supreme_Court_of_India,Supreme Court of India,supreme-court-of-india,supreme-court-of-india,UNK
+Supreme Court,809976,381,125,31737;4913027;532376;1112079,http://en.wikipedia.org/wiki/Supreme_Court_of_Pennsylvania,Supreme Court of Pennsylvania,supreme-court-of-pennsylvania,supreme-court-of-pennsylvania,ORG
+Supreme Court,32861477,40,34,,http://en.wikipedia.org/wiki/Supreme_Court_(Sudan),Supreme Court,supreme-court,supreme-court-sudan,ORG
+Supreme Court,28337828,3,79,,http://en.wikipedia.org/wiki/Supreme_Court_Building_(Puerto_Rico),Supreme Court Building,supreme-court-building,supreme-court-building-puerto-rico,UNK
+Supreme Court,1112079,371,133,31737;4913027;809976;532376,http://en.wikipedia.org/wiki/North_Carolina_Supreme_Court,North Carolina Supreme Court,north-carolina-supreme-court,north-carolina-supreme-court,ORG
+Supreme Court,265108,717,44,31737;4913027;223896,http://en.wikipedia.org/wiki/New_York_Supreme_Court,New York Supreme Court,new-york-supreme-court,new-york-supreme-court,UNK
+Supreme Court,2305442,10,45,395852;31717;3187153;1666510;843857;13404,http://en.wikipedia.org/wiki/Supreme_Court_(Hong_Kong),Supreme Court,supreme-court,supreme-court-hong-kong,UNK
+Supreme Court,667839,214,138,8327853;1727595;31717;1187265;3187153;4243475;4913027,http://en.wikipedia.org/wiki/Supreme_Court_of_Ireland,Supreme Court of Ireland,supreme-court-of-ireland,supreme-court-of-ireland,GPE
+Supreme Court,4239953,163,119,9323435,http://en.wikipedia.org/wiki/Supreme_Court_of_Nigeria,Supreme Court of Nigeria,supreme-court-of-nigeria,supreme-court-of-nigeria,ORG
+Supreme Court,3187153,115,75,1187265;8327853;2305442;1666510;843857;667839;395852;1727595;7097642;4243475,http://en.wikipedia.org/wiki/Supreme_Court_of_Georgia_(country),Supreme Court of Georgia,supreme-court-of-georgia,supreme-court-of-georgia-country,UNK
+Supreme Court,4243475,136,76,1187265;8327853;667839;1727595;3187153,http://en.wikipedia.org/wiki/Supreme_Court_of_Finland,Supreme Court of Finland,supreme-court-of-finland,supreme-court-of-finland,ORG
+Supreme Court,4501845,2,14,31717,http://en.wikipedia.org/wiki/Supreme_Court_of_the_Pitcairn_Islands,Supreme Court of the Pitcairn Islands,supreme-court-of-the-pitcairn-islands,supreme-court-of-the-pitcairn-islands,UNK
+Supreme Court,3507937,45,18,31717,http://en.wikipedia.org/wiki/Supreme_Court_(Fiji),Supreme Court,supreme-court,supreme-court-fiji,ORG
+Supreme Court,843857,649,103,1666510;3187153;4913027;395852;2305442;7097642,http://en.wikipedia.org/wiki/Supreme_Court_of_Pakistan,Supreme Court of Pakistan,supreme-court-of-pakistan,supreme-court-of-pakistan,UNK
+Supreme Court,2476388,306,215,2476388;31737;123468,http://en.wikipedia.org/wiki/Supreme_Court_of_Justice_of_the_Nation,Supreme Court of Justice of the Nation,supreme-court-of-justice-of-the-nation,supreme-court-of-justice-of-the-nation,UNK
+Supreme Court,532376,607,214,31737;4913027;809976;1112079,http://en.wikipedia.org/wiki/Supreme_Court_of_California,Supreme Court of California,supreme-court-of-california,supreme-court-of-california,UNK
+Supreme Court,2181063,211,109,,http://en.wikipedia.org/wiki/Supreme_Court_of_Chile,Supreme Court of Chile,supreme-court-of-chile,supreme-court-of-chile,UNK
+Supreme Court,1187265,417,94,1727595;1187265;3187153;4243475;8327853;667839,http://en.wikipedia.org/wiki/Supreme_Court_of_Norway,Supreme Court of Norway,supreme-court-of-norway,supreme-court-of-norway,ORG
+Supreme Court,4913027,420,174,1666510;1727595;31717;31737;4913027;8327853;809976;395852;223896;532376;843857;1112079;13404;4721;667839;265108;123468;7097642,http://en.wikipedia.org/wiki/Supreme_court,Supreme court,supreme-court,supreme-court,UNK
+Supreme Court,1666510,537,128,3187153;4913027;395852;2305442;843857;7097642,http://en.wikipedia.org/wiki/Supreme_Court_of_Israel,Supreme Court of Israel,supreme-court-of-israel,supreme-court-of-israel,UNK
+Supreme Court,223896,255,88,265108;4913027,"http://en.wikipedia.org/wiki/New_York_Supreme_Court,_Appellate_Division","New York Supreme Court, Appellate Division",new-york-supreme-court-appellate-division,new-york-supreme-court-appellate-division,UNK
+Supreme Court,123468,2304,517,4913027;2476388;31737;123468,http://en.wikipedia.org/wiki/Supreme_Court_of_Canada,Supreme Court of Canada,supreme-court-of-canada,supreme-court-of-canada,UNK
+Supreme Court,9323435,22,25,4239953,http://en.wikipedia.org/wiki/Supreme_Court_of_Cameroon,Supreme Court of Cameroon,supreme-court-of-cameroon,supreme-court-of-cameroon,ORG
+Selection Committee,39223217,17,7,,http://en.wikipedia.org/wiki/Selection_Committee,Selection Committee,selection-committee,selection-committee,UNK
+British,31717,184306,1536,3736;4179;4721;5405;13404;13525;18603746;4501845;31717;2528948;4208015;36855089;2305442;3574003;9200791;17271126;412419;1513051;158019;409543;393288;152256;667839;3507937;4913027;184224;180697;13530298;19097669;201013;480153;27413692;5188309;460615;1727595;752921;21308184,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+British,4179,1639,331,4179;13530298;152256;4721;13404;19097669;31717;3736,http://en.wikipedia.org/wiki/British_English,British English,british-english,british-english,UNK
+British,1513051,536,241,5405;31717,http://en.wikipedia.org/wiki/British_Formula_Three_Championship,British Formula Three Championship,british-formula-three-championship,british-formula-three-championship,UNK
+British,3574003,155,303,5405;31717;4208015;27413692;4721;12068557,http://en.wikipedia.org/wiki/Presidencies_and_provinces_of_British_India,Presidencies and provinces of British India,presidencies-and-provinces-of-british-india,presidencies-and-provinces-of-british-india,GPE
+British,22315902,2,16,,http://en.wikipedia.org/wiki/British_school,British school,british-school,british-school,ORG
+British,21308184,2,10,5405;31717,"http://en.wikipedia.org/wiki/British_School,_Kuala_Lumpur","British School, Kuala Lumpur",british-school-kuala-lumpur,british-school-kuala-lumpur,ORG
+British,460615,608,224,31717,http://en.wikipedia.org/wiki/British_undergraduate_degree_classification,British undergraduate degree classification,british-undergraduate-degree-classification,british-undergraduate-degree-classification,UNK
+British,12068557,33,45,3574003;12068557,http://en.wikipedia.org/wiki/British_India_(band),British India,british-india,british-india-band,UNK
+British,752921,36,197,480153;752921;31717,http://en.wikipedia.org/wiki/British_humour,British humour,british-humour,british-humour,UNK
+British,19097669,5651,715,13530298;158019;3736;4179;4721;5405;17271126;4208015;152256;27413692;13404;13525;31717,http://en.wikipedia.org/wiki/British_people,British people,british-people,british-people,UNK
+British,3736,2695,375,4179;13530298;152256;4721;377070;158019;19097669;31717;3736;17271126,http://en.wikipedia.org/wiki/British_Isles,British Isles,british-isles,british-isles,UNK
+British,377070,55,22,3736;152256,http://en.wikipedia.org/wiki/British_Islands,British Islands,british-islands,british-islands,UNK
+British,2528948,87,128,1347221;31717,http://en.wikipedia.org/wiki/British_Airways_Flight_9,British Airways Flight 9,british-airways-flight-9,british-airways-flight-9,UNK
+British,9200791,227,281,9200791;5405;31717,http://en.wikipedia.org/wiki/British_Figure_Skating_Championships,British Figure Skating Championships,british-figure-skating-championships,british-figure-skating-championships,UNK
+British,1347221,57,98,2528948,http://en.wikipedia.org/wiki/British_Airways_Flight_5390,British Airways Flight 5390,british-airways-flight-5390,british-airways-flight-5390,UNK
+British,5188309,390,398,31717;5188309;13530298,http://en.wikipedia.org/wiki/Energy_efficiency_in_British_housing,Energy efficiency in British housing,energy-efficiency-in-british-housing,energy-efficiency-in-british-housing,UNK
+British,9467811,242,263,,http://en.wikipedia.org/wiki/British_baseball,British baseball,british-baseball,british-baseball,UNK
+British,13353120,113,130,,http://en.wikipedia.org/wiki/British_Band,British Band,british-band,british-band,UNK
+British,201013,43,50,31717,http://en.wikipedia.org/wiki/Lord_British,Lord British,lord-british,lord-british,UNK
+British,4208015,6322,788,19097669;3574003;4721;395852;152256;27413692;31717,http://en.wikipedia.org/wiki/British_Raj,British Raj,british-raj,british-raj,GPE
+British,4721,7762,934,13530298;4913027;158019;19097669;3574003;3736;4179;4721;5405;180697;4208015;152256;27413692;13404;31717,http://en.wikipedia.org/wiki/British_Empire,British Empire,british-empire,british-empire,UNK
+Beijing,18603746,17387,1124,5405;2259195;1216759;26207532;34423576;18775842;27413692;13404;18603746;33167689;4463189;13371938;23237;217487;184224;393288;917647;31717,http://en.wikipedia.org/wiki/Beijing,Beijing,beijing,beijing,GPE
+Beijing,917647,38,156,34423576;18603746;23237,http://en.wikipedia.org/wiki/Geography_of_Beijing,Geography of Beijing,geography-of-beijing,geography-of-beijing,UNK
+Beijing,34423576,36,125,18603746;917647,http://en.wikipedia.org/wiki/Names_of_Beijing,Names of Beijing,names-of-beijing,names-of-beijing,ORG
+Beijing,13371938,36,44,18603746,http://en.wikipedia.org/wiki/Beijing_(locomotive),Beijing,beijing,beijing-locomotive,UNK
+Beijing,4463189,80,121,18603746;5405,http://en.wikipedia.org/wiki/Beijing_Ancient_Observatory,Beijing Ancient Observatory,beijing-ancient-observatory,beijing-ancient-observatory,UNK
+Beijing,1216759,19,28,18603746,http://en.wikipedia.org/wiki/Beijing_Hotel,Beijing Hotel,beijing-hotel,beijing-hotel,UNK
+Beijing,26207532,507,339,18603746;5405,http://en.wikipedia.org/wiki/Beijing_National_Stadium,Beijing National Stadium,beijing-national-stadium,beijing-national-stadium,UNK
+Britain,31717,184306,1536,3736;4179;4721;5405;13404;13525;18603746;4501845;31717;2528948;4208015;36855089;2305442;3574003;9200791;17271126;412419;1513051;158019;409543;393288;152256;667839;3507937;4913027;184224;180697;13530298;19097669;201013;480153;27413692;5188309;460615;1727595;752921;21308184,http://en.wikipedia.org/wiki/United_Kingdom,United Kingdom,united-kingdom,united-kingdom,GPE
+Britain,38279445,148,154,,"http://en.wikipedia.org/wiki/Little_Britain,_Pennsylvania","Little Britain, Pennsylvania",little-britain-pennsylvania,little-britain-pennsylvania,GPE
+Britain,3365792,82,95,,"http://en.wikipedia.org/wiki/Britain,_Virginia","Britain, Virginia",britain-virginia,britain-virginia,GPE
+Britain,25191544,6,11,,http://en.wikipedia.org/wiki/Mr._Britain,Mr. Britain,mr-britain,mr-britain,UNK
+Britain,12386536,24,23,,"http://en.wikipedia.org/wiki/Little_Britain,_London","Little Britain, London",little-britain-london,little-britain-london,GPE
+Britain,17271126,68,172,158019;13530298;19097669;3736;152256;31717;13525,http://en.wikipedia.org/wiki/Britain_(placename),Britain,britain,britain-placename,UNK
+Britain,412419,404,297,31717;412419,http://en.wikipedia.org/wiki/Captain_Britain,Captain Britain,captain-britain,captain-britain,UNK
+Britain,480153,370,113,752921;31717,http://en.wikipedia.org/wiki/Little_Britain,Little Britain,little-britain,little-britain,UNK
+Britain,409543,134,241,5405;31717,http://en.wikipedia.org/wiki/New_Communist_Party_of_Britain,New Communist Party of Britain,new-communist-party-of-britain,new-communist-party-of-britain,UNK
+Britain,1185144,86,82,,"http://en.wikipedia.org/wiki/Little_Britain,_New_York","Little Britain, New York",little-britain-new-york,little-britain-new-york,UNK
+Britain,20823802,57,65,,"http://en.wikipedia.org/wiki/Britain,_Australia_and_the_Bomb","Britain, Australia and the Bomb",britain-australia-and-the-bomb,britain-australia-and-the-bomb,UNK
+Britain,7954202,68,60,,"http://en.wikipedia.org/wiki/Little_Britain,_Ontario","Little Britain, Ontario",little-britain-ontario,little-britain-ontario,UNK
+Britain,158019,6631,401,13530298;158019;19097669;3736;4721;17271126;152256;13525;31717,http://en.wikipedia.org/wiki/Kingdom_of_Great_Britain,Kingdom of Great Britain,kingdom-of-great-britain,kingdom-of-great-britain,GPE
+Britain,13525,2496,556,13530298;152256;13525;158019;19097669;31717;17271126,http://en.wikipedia.org/wiki/Roman_Britain,Roman Britain,roman-britain,roman-britain,ORG
+Britain,152256,8595,755,13530298;158019;19097669;3736;4179;4721;377070;17271126;4208015;152256;13525;31717,http://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland,United Kingdom of Great Britain and Ireland,united-kingdom-of-great-britain-and-ireland,united-kingdom-of-great-britain-and-ireland,GPE
+Britain,13530298,15528,510,19097669;3736;4179;4721;13525;5188309;158019;17271126;152256;31717,http://en.wikipedia.org/wiki/Great_Britain,Great Britain,great-britain,great-britain,UNK

@@ -1,0 +1,156 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+OPEC,166346,1139,303,3542988;32374;358;14579;2594620;349303;69328;166346;27270;21383,http://en.wikipedia.org/wiki/OPEC,OPEC,opec,opec,UNK
+LONDON,17867,92094,1769,33567266;27902154;423106;12249;1679120;14647;14579;823473;17867;13190957;18987;21383;808402;1290035;187448;3879356;2023355;3966054;22437586;98370;238524;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,326248,1048,124,,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,12249,3253,543,2193334;17867;640154;118409;1113158;1679120;21383;98370;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,2023355,27,32,17867;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,238524,118,60,17867,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,187448,1900,216,823473;17867;508567;640154,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,118409,547,127,17867;12249,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,7984054,3,37,,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,13190957,2,122,17867,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,1679120,12,181,17867;98370;12249,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,33567266,19,43,17867;211583;69328,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+Algeria,358,17332,718,358;349303;24176735;40229;14903046;69328;166346;413616;3966054;14579;1029528;21383;32374,http://en.wikipedia.org/wiki/Algeria,Algeria,algeria,algeria,GPE
+Algeria,1029528,1384,719,1044538;1029528;358;1006061;1032359;21383;3966054;808402;349303;69328,http://en.wikipedia.org/wiki/Algeria_national_football_team,Algeria national football team,algeria-national-football-team,algeria-national-football-team,UNK
+Algeria,14903046,0,6,358,http://en.wikipedia.org/wiki/Algeria_International,Algeria International,algeria-international,algeria-international,UNK
+Algeria,24176735,199,224,2628928;358,http://en.wikipedia.org/wiki/French_conquest_of_Algeria,French conquest of Algeria,french-conquest-of-algeria,french-conquest-of-algeria,UNK
+Algeria,413616,187,99,358,http://en.wikipedia.org/wiki/Flag_of_Algeria,Flag of Algeria,flag-of-algeria,flag-of-algeria,UNK
+Algeria,35791232,32,46,,"http://en.wikipedia.org/wiki/Algeria,_West_Virginia","Algeria, West Virginia",algeria-west-virginia,algeria-west-virginia,GPE
+Algeria,40229,125,132,21385;358,http://en.wikipedia.org/wiki/Geography_of_Algeria,Geography of Algeria,geography-of-algeria,geography-of-algeria,UNK
+Indonesia,14579,33512,439,358;349303;1044538;66906;69328;1032359;33186126;11940012;353707;14647;14644;14579;17867;18987;21383;10011631;32374;32454;7316314;166346;25677653;2062473;8899178;170641;2691678,http://en.wikipedia.org/wiki/Indonesia,Indonesia,indonesia,indonesia,GPE
+Indonesia,1044538,1290,637,1029528;1006061;1032359;3966054;66906;14579;349303;69328,http://en.wikipedia.org/wiki/Indonesia_national_football_team,Indonesia national football team,indonesia-national-football-team,indonesia-national-football-team,UNK
+Indonesia,170641,728,243,11940012;170641;14647;14644;14579;10011631,http://en.wikipedia.org/wiki/Provinces_of_Indonesia,Provinces of Indonesia,provinces-of-indonesia,provinces-of-indonesia,UNK
+Indonesia,353707,397,212,14579,http://en.wikipedia.org/wiki/University_of_Indonesia,University of Indonesia,university-of-indonesia,university-of-indonesia,ORG
+Indonesia,25677653,8,29,14579,http://en.wikipedia.org/wiki/Indonesia_Museum,Indonesia Museum,indonesia-museum,indonesia-museum,UNK
+Indonesia,33186126,6,40,14579,http://en.wikipedia.org/wiki/Indonesia_International,Indonesia International,indonesia-international,indonesia-international,PER
+Indonesia,14647,355,506,11940012;17867;21383;170641;14647;14644;3966054;14579;10011631;349303,http://en.wikipedia.org/wiki/Economy_of_Indonesia,Economy of Indonesia,economy-of-indonesia,economy-of-indonesia,UNK
+Indonesia,35327175,5,13,,http://en.wikipedia.org/wiki/Indonesia_Project,Indonesia Project,indonesia-project,indonesia-project,ORG
+Indonesia,11940012,117,167,14579;170641;10011631;14647;14644,http://en.wikipedia.org/wiki/Dance_in_Indonesia,Dance in Indonesia,dance-in-indonesia,dance-in-indonesia,UNK
+Indonesia,7316314,64,86,14579;66906,http://en.wikipedia.org/wiki/Greater_Indonesia,Greater Indonesia,greater-indonesia,greater-indonesia,UNK
+Indonesia,66906,1120,535,1044538;7316314;14579;10011631,http://en.wikipedia.org/wiki/Indonesian_National_Revolution,Indonesian National Revolution,indonesian-national-revolution,indonesian-national-revolution,UNK
+Indonesia,14644,205,238,11940012;170641;14647;14644;27270;14579;10011631,http://en.wikipedia.org/wiki/Geography_of_Indonesia,Geography of Indonesia,geography-of-indonesia,geography-of-indonesia,UNK
+Indonesia,8899178,9,4,14579,http://en.wikipedia.org/wiki/Indonesia_(Lonely_Planet),Indonesia,indonesia,indonesia-lonely-planet,ORG
+Indonesia,2062473,84,145,14579,http://en.wikipedia.org/wiki/Rail_transport_in_Indonesia,Rail transport in Indonesia,rail-transport-in-indonesia,rail-transport-in-indonesia,UNK
+Indonesia,10011631,549,187,11940012;170641;14647;14644;14579;66906,http://en.wikipedia.org/wiki/President_of_Indonesia,President of Indonesia,president-of-indonesia,president-of-indonesia,UNK
+Indonesia,2691678,0,7,14579,"http://en.wikipedia.org/wiki/Indonesia,_Go_Open_Source","Indonesia, Go Open Source",indonesia-go-open-source,indonesia-go-open-source,UNK
+Minas,34655097,0,14,,http://en.wikipedia.org/wiki/MINAS,MINAS,minas,minas,UNK
+Minas,40821093,169,181,,"http://en.wikipedia.org/wiki/Minas,_Iran","Minas, Iran",minas-iran,minas-iran,UNK
+Minas,222651,3263,465,3081796,http://en.wikipedia.org/wiki/Minas_Gerais,Minas Gerais,minas-gerais,minas-gerais,UNK
+Minas,1787483,55,18,,http://en.wikipedia.org/wiki/Mina_(unit),Mina,mina,mina-unit,UNK
+Minas,4884150,4,2,,http://en.wikipedia.org/wiki/Minas_(bishop),Minas,minas,minas-bishop,UNK
+Minas,3081796,16,25,222651,http://en.wikipedia.org/wiki/Minas_cheese,Minas cheese,minas-cheese,minas-cheese,UNK
+Minas,2227811,57,32,32374,"http://en.wikipedia.org/wiki/Minas,_Uruguay","Minas, Uruguay",minas-uruguay,minas-uruguay,UNK
+Minas,13585250,18,23,,"http://en.wikipedia.org/wiki/Minas,_Cuba","Minas, Cuba",minas-cuba,minas-cuba,GPE
+Nigeria,21383,24464,860,3542988;358;349303;69328;2594620;166346;12249;39901366;1006061;3966054;14647;14579;17867;1029528;21385;21383;32374,http://en.wikipedia.org/wiki/Nigeria,Nigeria,nigeria,nigeria,GPE
+Nigeria,13220894,65,71,,http://en.wikipedia.org/wiki/HMS_Nigeria_(60),HMS Nigeria,hms-nigeria,hms-nigeria-60,UNK
+Nigeria,3542988,8,207,21385;21383;166346;3542988,http://en.wikipedia.org/wiki/Petroleum_industry_in_Nigeria,Petroleum industry in Nigeria,petroleum-industry-in-nigeria,petroleum-industry-in-nigeria,ORG
+Nigeria,635562,56,36,,"http://en.wikipedia.org/wiki/University_of_Nigeria,_Nsukka","University of Nigeria, Nsukka",university-of-nigeria-nsukka,university-of-nigeria-nsukka,UNK
+Nigeria,1006061,1682,504,1044538;1029528;1016971;21383;3966054;808402;349303,http://en.wikipedia.org/wiki/Nigeria_national_football_team,Nigeria national football team,nigeria-national-football-team,nigeria-national-football-team,ORG
+Nigeria,39901366,2,7,21383,"http://en.wikipedia.org/wiki/Nigeria,_We_Hail_Thee","Nigeria, We Hail Thee",nigeria-we-hail-thee,nigeria-we-hail-thee,UNK
+Nigeria,21385,172,215,21385;21383;3542988;40229,http://en.wikipedia.org/wiki/Geography_of_Nigeria,Geography of Nigeria,geography-of-nigeria,geography-of-nigeria,UNK
+Nigeria,3873905,23,12,,http://en.wikipedia.org/wiki/Nigeria_Regiment,Nigeria Regiment,nigeria-regiment,nigeria-regiment,ORG
+Bonny Light,2594620,236,200,21383;166346,http://en.wikipedia.org/wiki/Bonny_Light_oil,Bonny Light oil,bonny-light-oil,bonny-light-oil,UNK
+Saudi Arabia,349303,14910,854,358;808402;349303;211583;1044538;69328;1032359;166346;1006061;3966054;14647;14579;1029528;21383;3252108;27270;32374,http://en.wikipedia.org/wiki/Saudi_Arabia,Saudi Arabia,saudi-arabia,saudi-arabia,GPE
+Saudi Arabia,3252108,63,38,349303,http://en.wikipedia.org/wiki/Saudi_Arabian_Boy_Scouts_Association,Saudi Arabian Boy Scouts Association,saudi-arabian-boy-scouts-association,saudi-arabian-boy-scouts-association,ORG
+Saudi Arabia,1032359,1636,485,1044538;1029528;3966054;808402;14579;349303;69328,http://en.wikipedia.org/wiki/Saudi_Arabia_national_football_team,Saudi Arabia national football team,saudi-arabia-national-football-team,saudi-arabia-national-football-team,UNK
+Saudi Arabia,27270,305,227,69328;166346;27270;14644;349303,http://en.wikipedia.org/wiki/Geography_of_Saudi_Arabia,Geography of Saudi Arabia,geography-of-saudi-arabia,geography-of-saudi-arabia,UNK
+Dubai,211583,6258,516,34371004;23570555;2783993;349303;211583;33567266;28562847;9225400;14322461;69328;29272862;3195918;25715113;7969872;13395826;3966054;15795436;32374;2061417;154742,http://en.wikipedia.org/wiki/Dubai,Dubai,dubai,dubai,GPE
+Dubai,2061417,188,214,69328;29272862;34371004;154742;15795436;211583;13395826,http://en.wikipedia.org/wiki/Dubai_Metro,Dubai Metro,dubai-metro,dubai-metro,UNK
+Dubai,3195918,44,54,211583;69328,http://en.wikipedia.org/wiki/Dubai_Airshow,Dubai Airshow,dubai-airshow,dubai-airshow,UNK
+Dubai,2783993,12,44,211583;69328,http://en.wikipedia.org/wiki/Dubai_College,Dubai College,dubai-college,dubai-college,ORG
+Dubai,23570555,1,26,211583;34371004,http://en.wikipedia.org/wiki/W_Dubai,W Dubai,w-dubai,w-dubai,UNK
+Dubai,154742,772,583,15795436;2061417;69328;13395826;29272862;211583,http://en.wikipedia.org/wiki/Dubai_International_Airport,Dubai International Airport,dubai-international-airport,dubai-international-airport,UNK
+Dubai,9225400,3,9,69328;211583,http://en.wikipedia.org/wiki/Dubai_Hospital,Dubai Hospital,dubai-hospital,dubai-hospital,UNK
+Dubai,7969872,26,47,211583;69328,http://en.wikipedia.org/wiki/Dubai_CSC,Dubai CSC,dubai-csc,dubai-csc,UNK
+Dubai,18999018,43,45,,http://en.wikipedia.org/wiki/Dubai_(yacht),Dubai,dubai,dubai-yacht,UNK
+Dubai,25715113,2,10,69328;211583,http://en.wikipedia.org/wiki/University_of_Dubai,University of Dubai,university-of-dubai,university-of-dubai,UNK
+Dubai,28562847,1,7,69328;211583;28562847,http://en.wikipedia.org/wiki/Dubai_Inc.,Dubai Inc.,dubai-inc,dubai-inc,UNK
+Dubai,13395826,123,171,2061417;69328;29272862;34371004;154742;15795436;211583,http://en.wikipedia.org/wiki/Dubai_Creek,Dubai Creek,dubai-creek,dubai-creek,UNK
+Dubai,29272862,69,26,211583;2061417;154742;69328;13395826,http://en.wikipedia.org/wiki/Geography_of_Dubai,Geography of Dubai,geography-of-dubai,geography-of-dubai,UNK
+Dubai,14322461,114,112,69328;211583,http://en.wikipedia.org/wiki/Dubai_Tower,Dubai Tower,dubai-tower,dubai-tower,UNK
+Dubai,15795436,93,11,2061417;154742;69328;211583;13395826,http://en.wikipedia.org/wiki/Dubai_Municipality,Dubai Municipality,dubai-municipality,dubai-municipality,UNK
+Dubai,16215987,7,9,69328,http://en.wikipedia.org/wiki/Dubai_Group,Dubai Group,dubai-group,dubai-group,UNK
+Dubai,34371004,66,22,23570555;211583;2061417;69328;13395826,http://en.wikipedia.org/wiki/Dubai_Museum,Dubai Museum,dubai-museum,dubai-museum,UNK
+UAE,69328,12491,660,358;34371004;2783993;349303;211583;1044538;33567266;28562847;9225400;14322461;69328;1032359;166346;29272862;3195918;13395826;14579;2061417;1029528;21383;27270;25715113;7969872;16215987;15795436;32374;154742,http://en.wikipedia.org/wiki/United_Arab_Emirates,United Arab Emirates,united-arab-emirates,united-arab-emirates,GPE
+UAE,80312,110,107,,http://en.wikipedia.org/wiki/UAE_(emulator),UAE,uae,uae-emulator,UNK
+Venezuela,32374,25839,719,358;349303;211583;69328;3966054;14579;3229791;18987;21383;1016971;32374;32454;28173700;459362;808402;2227811;166346;2474817,http://en.wikipedia.org/wiki/Venezuela,Venezuela,venezuela,venezuela,GPE
+Venezuela,3229791,65,96,459362;32374;2474817,http://en.wikipedia.org/wiki/First_Republic_of_Venezuela,First Republic of Venezuela,first-republic-of-venezuela,first-republic-of-venezuela,GPE
+Venezuela,459362,181,76,2474817;3229791;32374;32454,http://en.wikipedia.org/wiki/Flag_of_Venezuela,Flag of Venezuela,flag-of-venezuela,flag-of-venezuela,UNK
+Venezuela,2474817,48,71,459362;3229791;32374,http://en.wikipedia.org/wiki/Second_Republic_of_Venezuela,Second Republic of Venezuela,second-republic-of-venezuela,second-republic-of-venezuela,GPE
+Venezuela,32454,107,140,14579;459362;32374;32454,http://en.wikipedia.org/wiki/Geography_of_Venezuela,Geography of Venezuela,geography-of-venezuela,geography-of-venezuela,UNK
+Venezuela,7875797,16,20,,"http://en.wikipedia.org/wiki/Venezuela,_Cuba","Venezuela, Cuba",venezuela-cuba,venezuela-cuba,GPE
+Venezuela,28866106,3,13,,http://en.wikipedia.org/wiki/Venezuela_(Pueblo),Venezuela,venezuela,venezuela-pueblo,UNK
+Venezuela,1016971,1078,333,32374;1006061;3966054,http://en.wikipedia.org/wiki/Venezuela_national_football_team,Venezuela national football team,venezuela-national-football-team,venezuela-national-football-team,UNK
+Venezuela,28173700,33,28,32374,http://en.wikipedia.org/wiki/Venezuela_Province,Venezuela Province,venezuela-province,venezuela-province,UNK
+Mexico,3966054,62316,818,358;6122421;9298547;14647;17867;18987;21383;32374;3490848;808402;32231716;2628928;56695;2137099;349303;211583;1044538;3127822;1032359;3966054;1029528;31025972;222243;24562807;1016971;17158888;724212;1006061;259270;248045,http://en.wikipedia.org/wiki/Mexico,Mexico,mexico,mexico,GPE
+Mexico,15951028,11,16,,http://en.wikipedia.org/wiki/Mexico_(barque),Mexico,mexico,mexico-barque,UNK
+Mexico,259974,19,78,,"http://en.wikipedia.org/wiki/Mexico,_New_York","Mexico, New York",mexico-new-york,mexico-new-york,GPE
+Mexico,17392310,27,45,17392268,"http://en.wikipedia.org/wiki/Mexico,_Wyandot_County,_Ohio","Mexico, Wyandot County, Ohio",mexico-wyandot-county-ohio,mexico-wyandot-county-ohio,UNK
+Mexico,17392235,20,27,,"http://en.wikipedia.org/wiki/Mexico,_Texas","Mexico, Texas",mexico-texas,mexico-texas,UNK
+Mexico,248045,493,402,56695;2628928;18987;3966054,http://en.wikipedia.org/wiki/Music_of_Mexico,Music of Mexico,music-of-mexico,music-of-mexico,UNK
+Mexico,6122421,56,51,18987;3966054,http://en.wikipedia.org/wiki/Mexico_(Epcot),Mexico,mexico,mexico-epcot,UNK
+Mexico,17392176,41,48,17392268,"http://en.wikipedia.org/wiki/Mexico,_Crawford_County,_Ohio","Mexico, Crawford County, Ohio",mexico-crawford-county-ohio,mexico-crawford-county-ohio,UNK
+Mexico,9298547,8,65,18987;222243;3966054,http://en.wikipedia.org/wiki/Name_of_Mexico,Name of Mexico,name-of-mexico,name-of-mexico,UNK
+Mexico,33750806,4,11,,"http://en.wikipedia.org/wiki/Mexico,_South_Carolina","Mexico, South Carolina",mexico-south-carolina,mexico-south-carolina,UNK
+Mexico,10308968,0,1,,"http://en.wikipedia.org/wiki/Mexico,_MO_μSA","Mexico, MO μSA",mexico-mo-μsa,mexico-mo-μsa,PER
+Mexico,259270,77,93,259269;3966054,"http://en.wikipedia.org/wiki/Mexico,_Maine","Mexico, Maine",mexico-maine,mexico-maine,GPE
+Mexico,808402,2853,649,17867;1029528;1006061;1032359;3966054;32374;349303;18987,http://en.wikipedia.org/wiki/Mexico_national_football_team,Mexico national football team,mexico-national-football-team,mexico-national-football-team,UNK
+Mexico,3490848,62,149,18987;3966054,http://en.wikipedia.org/wiki/Popular_Socialist_Party_of_Mexico,Popular Socialist Party of Mexico,popular-socialist-party-of-mexico,popular-socialist-party-of-mexico,UNK
+Mexico,17392268,0,2,17392310;17392176,"http://en.wikipedia.org/wiki/Mexico,_Ohio","Mexico, Ohio",mexico-ohio,mexico-ohio,UNK
+Mexico,2137099,81,146,3966054,"http://en.wikipedia.org/wiki/Mexico,_Pampanga","Mexico, Pampanga",mexico-pampanga,mexico-pampanga,UNK
+Mexico,32231716,2,9,3966054,http://en.wikipedia.org/wiki/Mexico_(genus),Mexico,mexico,mexico-genus,PER
+Mexico,259269,51,74,259270,"http://en.wikipedia.org/wiki/Mexico_(CDP),_Maine","Mexico (CDP), Maine",mexico-cdp-maine,mexico-cdp-maine,GPE
+Mexico,222243,1191,290,222243;18987;3966054;9298547,http://en.wikipedia.org/wiki/State_of_Mexico,State of Mexico,state-of-mexico,state-of-mexico,GPE
+Mexico,18987,11953,992,6122421;808402;724212;9298547;3966054;14579;17867;2628928;18987;56695;222243;248045;32374;3490848,http://en.wikipedia.org/wiki/Mexico_City,Mexico City,mexico-city,mexico-city,GPE
+Mexico,122496,253,358,,"http://en.wikipedia.org/wiki/Mexico,_Missouri","Mexico, Missouri",mexico-missouri,mexico-missouri,GPE
+Mexico,56695,189,231,2628928;18987;724212;3966054;56695;248045,http://en.wikipedia.org/wiki/Geography_of_Mexico,Geography of Mexico,geography-of-mexico,geography-of-mexico,UNK
+Mexico,37995472,2,10,,http://en.wikipedia.org/wiki/A_México,A México,a-mexico,a-mexico,UNK
+Mexico,17391954,63,73,17391890,"http://en.wikipedia.org/wiki/Mexico,_Allegany_County,_Maryland","Mexico, Allegany County, Maryland",mexico-allegany-county-maryland,mexico-allegany-county-maryland,GPE
+Mexico,9997826,1,6,,"http://en.wikipedia.org/wiki/México,_la_revolución_congelada","México, la revolución congelada",mexico-la-revolucion-congelada,mexico-la-revolucion-congelada,UNK
+Mexico,407223,1,2,17392347,"http://en.wikipedia.org/wiki/Mexico,_Pennsylvania","Mexico, Pennsylvania",mexico-pennsylvania,mexico-pennsylvania,UNK
+Mexico,3127822,30,85,3966054,http://en.wikipedia.org/wiki/1959_Mexico_hurricane,1959 Mexico hurricane,1959-mexico-hurricane,1959-mexico-hurricane,UNK
+Mexico,18745941,0,1,,"http://en.wikipedia.org/wiki/Mexico,_MO_µSA","Mexico, MO µSA",mexico-mo-µsa,mexico-mo-µsa,PER
+Mexico,31025972,1,6,3966054,"http://en.wikipedia.org/wiki/México,_México,_ra,_ra,_ra","México, México, ra, ra, ra",mexico-mexico-ra-ra-ra,mexico-mexico-ra-ra-ra,UNK
+Mexico,18242643,11,31,,http://en.wikipedia.org/wiki/Mexico_(instrumental),Mexico,mexico,mexico-instrumental,UNK
+Mexico,17391999,55,53,17391890,"http://en.wikipedia.org/wiki/Mexico,_Carroll_County,_Maryland","Mexico, Carroll County, Maryland",mexico-carroll-county-maryland,mexico-carroll-county-maryland,GPE
+Mexico,17391890,0,4,17391999;17391954,"http://en.wikipedia.org/wiki/Mexico,_Maryland","Mexico, Maryland",mexico-maryland,mexico-maryland,UNK
+Mexico,2628928,441,301,56695;24176735;18987;3966054;248045,http://en.wikipedia.org/wiki/French_intervention_in_Mexico,French intervention in Mexico,french-intervention-in-mexico,french-intervention-in-mexico,UNK
+Mexico,17392347,20,28,407223,"http://en.wikipedia.org/wiki/Mexico,_Montour_County,_Pennsylvania","Mexico, Montour County, Pennsylvania",mexico-montour-county-pennsylvania,mexico-montour-county-pennsylvania,GPE
+Mexico,17158888,1,12,3966054,http://en.wikipedia.org/wiki/Mexico_City_(former_administrative_division),Mexico City,mexico-city,mexico-city-former-administrative-division,UNK
+Mexico,17391812,14,20,,"http://en.wikipedia.org/wiki/Mexico,_Kentucky","Mexico, Kentucky",mexico-kentucky,mexico-kentucky,UNK
+Mexico,27915165,111,333,,http://en.wikipedia.org/wiki/Little_Mexico,Little Mexico,little-mexico,little-mexico,UNK
+Mexico,24562807,26,8,3966054,http://en.wikipedia.org/wiki/México_FC,México FC,mexico-fc,mexico-fc,ORG
+Isthmus,724212,200,70,18987;3966054;56695,http://en.wikipedia.org/wiki/Isthmus_of_Tehuantepec,Isthmus of Tehuantepec,isthmus-of-tehuantepec,isthmus-of-tehuantepec,UNK
+Isthmus,16436551,56,10,,http://en.wikipedia.org/wiki/Isthmus_(newspaper),Isthmus,isthmus,isthmus-newspaper,ORG
+Isthmus,10650059,4,8,,http://en.wikipedia.org/wiki/Madison_Isthmus,Madison Isthmus,madison-isthmus,madison-isthmus,UNK
+Isthmus,7964836,105,87,,http://en.wikipedia.org/wiki/Isthmus_of_uterine_tube,Isthmus of uterine tube,isthmus-of-uterine-tube,isthmus-of-uterine-tube,UNK
+Isthmus,33819660,0,7,,http://en.wikipedia.org/wiki/Isthmus_Bay,Isthmus Bay,isthmus-bay,isthmus-bay,UNK
+Isthmus,623776,121,32,,http://en.wikipedia.org/wiki/Isthmus_of_Corinth,Isthmus of Corinth,isthmus-of-corinth,isthmus-of-corinth,UNK

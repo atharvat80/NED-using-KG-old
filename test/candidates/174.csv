@@ -1,0 +1,249 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Colombia,5222,32640,736,6976458;487878;488193;6979246;211271;38686644;5222;10710785;3056298;5836;3299732;20810797;3434750;7941778;82195;13064314;680175;53846;1594232;5029525;124974;34235937,http://en.wikipedia.org/wiki/Colombia,Colombia,colombia,colombia,GPE
+Colombia,680175,1637,408,680175;5222;3434750;211271;20810797,http://en.wikipedia.org/wiki/Colombia_national_football_team,Colombia national football team,colombia-national-football-team,colombia-national-football-team,UNK
+Colombia,34235937,90,62,5222,http://en.wikipedia.org/wiki/Colombia_(cycling_team),Colombia,colombia,colombia-cycling-team,UNK
+Colombia,5836,161,207,211271;488193;5222;5836;7941778;13064314,http://en.wikipedia.org/wiki/Geography_of_Colombia,Geography of Colombia,geography-of-colombia,geography-of-colombia,UNK
+Colombia,13064314,131,446,211271;5222;7941778;2386;5836,http://en.wikipedia.org/wiki/Timeline_of_Colombian_history,Timeline of Colombian history,timeline-of-colombian-history,timeline-of-colombian-history,UNK
+Colombia,10710785,37,43,5222,"http://en.wikipedia.org/wiki/Colombia,_Huila","Colombia, Huila",colombia-huila,colombia-huila,UNK
+Colombia,6976458,2,11,5222,http://en.wikipedia.org/wiki/Colombia_(cocktail),Colombia,colombia,colombia-cocktail,UNK
+Colombia,41935657,0,3,645042,http://en.wikipedia.org/wiki/Ms._Colombia,Ms. Colombia,ms-colombia,ms-colombia,PER
+Colombia,13604395,14,17,,"http://en.wikipedia.org/wiki/Colombia,_Cuba","Colombia, Cuba",colombia-cuba,colombia-cuba,GPE
+Colombia,11200119,13,14,,"http://en.wikipedia.org/wiki/Colombia,_Nuevo_León","Colombia, Nuevo León",colombia-nuevo-leon,colombia-nuevo-leon,GPE
+Colombia,3056298,13,17,5222,http://en.wikipedia.org/wiki/Colômbia,Colômbia,colombia,colombia,GPE
+U.S.,3434750,529967,1252,9013054;2386;5222;11186;22033;1134236;39529;40570;53846;58235;65508;72850;82195;101664;130491;128968;124974;211271;1192892;238192;233474;2221609;21310853;3663136;10328578;7422188;435793;436898;431669;7402167;3434750;461232;13288448;1688720;3868301;5029525;3880857;1612222;645042;605077;606772;1594232;8210131;7112349;680175;27420762;6174697;735834;2719448;38521579;8748735;15921513;20838657;4096888;14863992;891699;895667;26723573;13800259;7941778;27746113;40721400;14707616;993845,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+U.S.,3868301,350,531,3434750;2440624;79717;70780;7710,http://en.wikipedia.org/wiki/U.S._Route_101_in_California,U.S. Route 101 in California,us-route-101-in-california,us-route-101-in-california,UNK
+U.S.,238192,394,239,889461;888778;435793;447879;436898;10328648;3434750;10328620;75235;10328575;887108;441501;79717;428913;53846;70780;903385;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_27,U.S. Route 27,us-route-27,us-route-27,UNK
+U.S.,16304842,112,175,8675595;447879,http://en.wikipedia.org/wiki/U.S._Route_41_in_Michigan,U.S. Route 41 in Michigan,us-route-41-in-michigan,us-route-41-in-michigan,UNK
+U.S.,887108,283,260,889461;903062;888778;435793;447879;436898;10328590;10328578;75235;441501;6737193;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_29,U.S. Route 29,us-route-29,us-route-29,UNK
+U.S.,428913,269,293,889461;903062;888778;435793;447879;436898;75235;887108;441501;79717;70780;903385;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_80,U.S. Route 80,us-route-80,us-route-80,UNK
+U.S.,429750,276,240,887108;441501;79717;889461;428913;888778;70780;435793;447879;238192;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_75,U.S. Route 75,us-route-75,us-route-75,UNK
+U.S.,18001101,2,1,,http://en.wikipedia.org/wiki/US-IL,US-IL,us-il,us-il,UNK
+U.S.,21559355,95,143,,http://en.wikipedia.org/wiki/U.S._Route_95_in_Idaho,U.S. Route 95 in Idaho,us-route-95-in-idaho,us-route-95-in-idaho,UNK
+U.S.,902392,245,190,22398962;436898;10328620;75235;10328575;7261326;1305538,http://en.wikipedia.org/wiki/U.S._Route_301,U.S. Route 301,us-route-301,us-route-301,UNK
+U.S.,13949871,158,165,75235,http://en.wikipedia.org/wiki/U.S._Route_1_in_Massachusetts,U.S. Route 1 in Massachusetts,us-route-1-in-massachusetts,us-route-1-in-massachusetts,UNK
+U.S.,444113,128,143,,http://en.wikipedia.org/wiki/U.S._Route_281,U.S. Route 281,us-route-281,us-route-281,UNK
+U.S.,10328590,233,357,10328648;10328578;10328620;10328575;887108;6310196;1305538,http://en.wikipedia.org/wiki/U.S._Route_98_in_Florida,U.S. Route 98 in Florida,us-route-98-in-florida,us-route-98-in-florida,UNK
+U.S.,6737193,115,173,887108,http://en.wikipedia.org/wiki/U.S._Route_29_in_Virginia,U.S. Route 29 in Virginia,us-route-29-in-virginia,us-route-29-in-virginia,UNK
+U.S.,79717,694,442,889461;435793;130491;645042;887108;9180009;441501;889284;429750;3868301;888778;447879;436898;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_66,U.S. Route 66,us-route-66,us-route-66,UNK
+U.S.,441501,524,288,889461;888778;5430296;435793;447879;436898;75235;645042;887108;10540092;79717;428913;70780;238192;429750;889284,http://en.wikipedia.org/wiki/U.S._Route_60,U.S. Route 60,us-route-60,us-route-60,UNK
+U.S.,10328648,378,412,646813;903062;10328590;10328578;10328620;10328575;53846;238192;128968;6310196;8748735;1305538,http://en.wikipedia.org/wiki/U.S._Route_441_in_Florida,U.S. Route 441 in Florida,us-route-441-in-florida,us-route-441-in-florida,UNK
+U.S.,7261326,105,136,902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Maryland,U.S. Route 301 in Maryland,us-route-301-in-maryland,us-route-301-in-maryland,UNK
+U.S.,22398962,54,109,75235;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_South_Carolina,U.S. Route 301 in South Carolina,us-route-301-in-south-carolina,us-route-301-in-south-carolina,UNK
+U.S.,889284,455,321,889461;888778;435793;447879;436898;75235;887108;441501;10540092;79717;428913;70780;238192;429750,http://en.wikipedia.org/wiki/U.S._Route_70,U.S. Route 70,us-route-70,us-route-70,UNK
+U.S.,903062,82,123,10328575;903385;887108;447879;10328648;428913,http://en.wikipedia.org/wiki/U.S._Route_441,U.S. Route 441,us-route-441,us-route-441,UNK
+U.S.,18001106,3,1,,http://en.wikipedia.org/wiki/US-IN,US-IN,us-in,us-in,UNK
+U.S.,435793,251,290,889461;498188;888778;447879;436898;10328578;3434750;75235;887108;441501;79717;428913;70780;238192;429750;889284;6310196,http://en.wikipedia.org/wiki/U.S._Route_90,U.S. Route 90,us-route-90,us-route-90,UNK
+U.S.,10328620,138,207,10328575;238192;6310196;10328648;1305538;10328590;10328578;902392,http://en.wikipedia.org/wiki/U.S._Route_301_in_Florida,U.S. Route 301 in Florida,us-route-301-in-florida,us-route-301-in-florida,UNK
+U.S.,888778,214,271,887108;441501;79717;889461;428913;70780;435793;447879;238192;429750;889284;436898;899439;75235;5585716,http://en.wikipedia.org/wiki/U.S._Route_35,U.S. Route 35,us-route-35,us-route-35,UNK
+U.S.,8675595,89,159,447879;9180009;16304842,http://en.wikipedia.org/wiki/U.S._Route_41_in_Wisconsin,U.S. Route 41 in Wisconsin,us-route-41-in-wisconsin,us-route-41-in-wisconsin,UNK
+U.S.,10328578,210,402,435793;10328648;10328590;3434750;10328620;75235;10328575;887108;6310196;1305538,http://en.wikipedia.org/wiki/U.S._Route_90_in_Florida,U.S. Route 90 in Florida,us-route-90-in-florida,us-route-90-in-florida,UNK
+U.S.,10328575,231,291,903062;53846;447879;238192;128968;6310196;10328648;1305538;10328590;10328578;10328620;902392,http://en.wikipedia.org/wiki/U.S._Route_41_in_Florida,U.S. Route 41 in Florida,us-route-41-in-florida,us-route-41-in-florida,UNK
+U.S.,4394669,0,167,,"http://en.wikipedia.org/wiki/Us,_Val-d'Oise","Us, Val-d'Oise",us-val-doise,us-val-doise,UNK
+U.S.,498188,102,154,435793,http://en.wikipedia.org/wiki/U.S._Route_190,U.S. Route 190,us-route-190,us-route-190,UNK
+U.S.,70780,396,232,889461;888778;435793;447879;436898;75235;887108;441501;2440624;79717;428913;238192;429750;889284;3868301;7710,http://en.wikipedia.org/wiki/U.S._Route_101,U.S. Route 101,us-route-101,us-route-101,UNK
+U.S.,889461,178,203,887108;441501;79717;428913;888778;70780;435793;447879;238192;429750;889284;436898;75235,http://en.wikipedia.org/wiki/U.S._Route_85,U.S. Route 85,us-route-85,us-route-85,UNK
+U.S.,903385,68,230,903062;428913;238192,http://en.wikipedia.org/wiki/U.S._Route_280,U.S. Route 280,us-route-280,us-route-280,UNK
+U.S.,233474,102,93,3434750;1688720,http://en.wikipedia.org/wiki/U.S._Route_395,U.S. Route 395,us-route-395,us-route-395,UNK
+U.S.,75235,531,306,22398962;646813;889461;888778;435793;447879;436898;10328578;645042;887108;13949871;441501;79717;428913;53846;70780;238192;429750;889284;6310196;8210131;902392,http://en.wikipedia.org/wiki/U.S._Route_1,U.S. Route 1,us-route-1,us-route-1,UNK
+U.S.,10540092,68,122,889284;441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Arizona,U.S. Route 60 in Arizona,us-route-60-in-arizona,us-route-60-in-arizona,UNK
+U.S.,2440624,133,162,70780;735834;3868301,http://en.wikipedia.org/wiki/U.S._Route_101_in_Oregon,U.S. Route 101 in Oregon,us-route-101-in-oregon,us-route-101-in-oregon,UNK
+U.S.,605077,301,341,8210131;3434750,http://en.wikipedia.org/wiki/.us,.us,us,us,UNK
+U.S.,9180009,81,51,8675595;447879;79717,http://en.wikipedia.org/wiki/U.S._Route_41_in_Illinois,U.S. Route 41 in Illinois,us-route-41-in-illinois,us-route-41-in-illinois,UNK
+U.S.,436898,769,483,889461;435793;887108;441501;889284;429750;902392;888778;447879;3434750;75235;79717;428913;70780;238192,http://en.wikipedia.org/wiki/U.S._Route_40,U.S. Route 40,us-route-40,us-route-40,UNK
+U.S.,447879,394,337,16304842;889461;903062;888778;435793;436898;75235;10328575;887108;9180009;441501;79717;428913;53846;70780;8675595;238192;429750;889284;6310196;1305538,http://en.wikipedia.org/wiki/U.S._Route_41,U.S. Route 41,us-route-41,us-route-41,UNK
+U.S.,6310196,592,545,646813;435793;10328648;10328590;10328578;10328620;10328575;128968;6310196;8748735;1305538;447879;75235;53846;238192,http://en.wikipedia.org/wiki/U.S._Route_1_in_Florida,U.S. Route 1 in Florida,us-route-1-in-florida,us-route-1-in-florida,UNK
+U.S.,5430296,83,224,441501,http://en.wikipedia.org/wiki/U.S._Route_60_in_Kentucky,U.S. Route 60 in Kentucky,us-route-60-in-kentucky,us-route-60-in-kentucky,UNK
+MIAMI,53846,9010,856,210339;2517648;1491778;9013054;3434750;18394424;487878;2386;6310196;211271;72850;646813;5222;82195;557375;667548;53846;238192;6720421;5029525;128968;8748735;1121725;10328648;10328575;9078644;1305538;447879;75235;844211;461232;2221609,http://en.wikipedia.org/wiki/Miami,Miami,miami,miami,GPE
+MIAMI,1571240,49,38,101664,http://en.wikipedia.org/wiki/Miami-Illinois_language,Miami-Illinois language,miami-illinois-language,miami-illinois-language,UNK
+MIAMI,1121725,81,108,550494;53846,http://en.wikipedia.org/wiki/USS_Miami_(SSN-755),USS Miami,uss-miami,uss-miami-ssn-755,UNK
+MIAMI,2221609,138,158,9013054;3434750;53846,http://en.wikipedia.org/wiki/Miami_Tower,Miami Tower,miami-tower,miami-tower,UNK
+MIAMI,72850,2276,472,9078644;3434750;53846;72850,http://en.wikipedia.org/wiki/Miami_Heat,Miami Heat,miami-heat,miami-heat,UNK
+MIAMI,844211,4,31,53846,http://en.wikipedia.org/wiki/Miami_model,Miami model,miami-model,miami-model,UNK
+MIAMI,540157,0,4,,http://en.wikipedia.org/wiki/Miami_County,Miami County,miami-county,miami-county,UNK
+MIAMI,11606277,1,7,,"http://en.wikipedia.org/wiki/Miami,_Nea_Krini","Miami, Nea Krini",miami-nea-krini,miami-nea-krini,UNK
+MIAMI,8188731,246,219,8188731;6512082,http://en.wikipedia.org/wiki/Miami_RedHawks,Miami RedHawks,miami-redhawks,miami-redhawks,UNK
+MIAMI,9013054,64,80,2221609;3434750;53846,http://en.wikipedia.org/wiki/Miami_Center,Miami Center,miami-center,miami-center,UNK
+MIAMI,550494,4,3,1192892;1121725;557375,http://en.wikipedia.org/wiki/USS_Miami,USS Miami,uss-miami,uss-miami,UNK
+MIAMI,4935113,210,208,,http://en.wikipedia.org/wiki/Miami_Stadium,Miami Stadium,miami-stadium,miami-stadium,UNK
+MIAMI,1491778,64,63,9078644;2517648;53846,http://en.wikipedia.org/wiki/1926_Miami_hurricane,1926 Miami hurricane,1926-miami-hurricane,1926-miami-hurricane,UNK
+MIAMI,27420762,185,200,3434750,"http://en.wikipedia.org/wiki/Miami,_West_Virginia","Miami, West Virginia",miami-west-virginia,miami-west-virginia,GPE
+MIAMI,130491,288,169,79717;101664;3434750,"http://en.wikipedia.org/wiki/Miami,_Oklahoma","Miami, Oklahoma",miami-oklahoma,miami-oklahoma,GPE
+MIAMI,14707616,17,30,3434750,"http://en.wikipedia.org/wiki/Miami,_New_Mexico","Miami, New Mexico",miami-new-mexico,miami-new-mexico,GPE
+MIAMI,4077247,0,9,,"http://en.wikipedia.org/wiki/Miami_Township,_Ohio","Miami Township, Ohio",miami-township-ohio,miami-township-ohio,UNK
+MIAMI,646813,214,329,10328648;75235;53846;101664;553028;128968;6310196,http://en.wikipedia.org/wiki/Miami_River_(Florida),Miami River,miami-river,miami-river-florida,UNK
+MIAMI,23151155,100,5,,"http://en.wikipedia.org/wiki/Miami,_California","Miami, California",miami-california,miami-california,UNK
+MIAMI,10064153,3,14,58240,http://en.wikipedia.org/wiki/Miami_Bridge,Miami Bridge,miami-bridge,miami-bridge,UNK
+MIAMI,128968,1078,554,646813;11186;10328648;2386;10328575;6310196;8748735;58235;3434750;53846;38521579;82195,http://en.wikipedia.org/wiki/Miami_International_Airport,Miami International Airport,miami-international-airport,miami-international-airport,UNK
+MIAMI,735834,13,27,3434750;2440624;553028,http://en.wikipedia.org/wiki/Miami_River_(Oregon),Miami River,miami-river,miami-river-oregon,UNK
+MIAMI,1027397,5,7,8210131;553028,http://en.wikipedia.org/wiki/Miami_River_(New_York),Miami River,miami-river,miami-river-new-york,UNK
+MIAMI,210339,127,71,53846,http://en.wikipedia.org/wiki/Miami_bass,Miami bass,miami-bass,miami-bass,UNK
+MIAMI,31446014,24,32,,"http://en.wikipedia.org/wiki/Miami,_My_Amy","Miami, My Amy",miami-my-amy,miami-my-amy,UNK
+MIAMI,9078644,524,266,2517648;53846;72850;1491778,http://en.wikipedia.org/wiki/Miami_Hurricanes,Miami Hurricanes,miami-hurricanes,miami-hurricanes,UNK
+MIAMI,6720421,162,225,2517648;53846,http://en.wikipedia.org/wiki/2001_Miami_Hurricanes_football_team,2001 Miami Hurricanes football team,2001-miami-hurricanes-football-team,2001-miami-hurricanes-football-team,UNK
+MIAMI,10303384,0,1,,"http://en.wikipedia.org/wiki/Miami,_OK_μSA","Miami, OK μSA",miami-ok-μsa,miami-ok-μsa,PER
+MIAMI,9482493,1,8,,http://en.wikipedia.org/wiki/Miami_Township,Miami Township,miami-township,miami-township,GPE
+MIAMI,2517648,1133,519,6720421;9078644;1491778;53846,http://en.wikipedia.org/wiki/Miami_Hurricanes_football,Miami Hurricanes football,miami-hurricanes-football,miami-hurricanes-football,UNK
+MIAMI,1192892,17,62,3434750;550494,http://en.wikipedia.org/wiki/USS_Miami_(1861),USS Miami,uss-miami,uss-miami-1861,UNK
+MIAMI,6512082,343,178,8188731,http://en.wikipedia.org/wiki/Miami_RedHawks_football,Miami RedHawks football,miami-redhawks-football,miami-redhawks-football,UNK
+MIAMI,2900532,119,106,,"http://en.wikipedia.org/wiki/Miami,_Queensland","Miami, Queensland",miami-queensland,miami-queensland,UNK
+MIAMI,557375,44,81,53846;550494,http://en.wikipedia.org/wiki/USS_Miami_(CL-89),USS Miami,uss-miami,uss-miami-cl-89,UNK
+MIAMI,8748735,18,194,53846;128968;6310196;10328648;3434750,http://en.wikipedia.org/wiki/Miami_Marine_Stadium,Miami Marine Stadium,miami-marine-stadium,miami-marine-stadium,UNK
+MIAMI,553028,0,6,735834;646813;1027397,http://en.wikipedia.org/wiki/Miami_River,Miami River,miami-river,miami-river,UNK
+MIAMI,101664,126,124,646813;1571240;899439;130491;8210131;3434750,http://en.wikipedia.org/wiki/Miami_people,Miami people,miami-people,miami-people,UNK
+MIAMI,18745945,1,1,,"http://en.wikipedia.org/wiki/Miami,_OK_µSA","Miami, OK µSA",miami-ok-µsa,miami-ok-µsa,PER
+MIAMI,3788825,119,41,,http://en.wikipedia.org/wiki/M.I.A.M.I.,M.I.A.M.I.,miami,miami,UNK
+MIAMI,18394424,10,43,53846;645042,http://en.wikipedia.org/wiki/City_of_Miami_(train),City of Miami,city-of-miami,city-of-miami-train,UNK
+MIAMI,5806138,6,32,,http://en.wikipedia.org/wiki/Miami_(soil),Miami,miami,miami-soil,UNK
+MIAMI,899439,334,206,888778;101664;5585716,http://en.wikipedia.org/wiki/Miami_Valley,Miami Valley,miami-valley,miami-valley,UNK
+MIAMI,32252639,51,56,,http://en.wikipedia.org/wiki/Miami_(neighborhood),Miami,miami,miami-neighborhood,UNK
+MIAMI,3479274,23,32,,"http://en.wikipedia.org/wiki/Miami,_Manitoba","Miami, Manitoba",miami-manitoba,miami-manitoba,UNK
+Colombian,5222,32640,736,6976458;487878;488193;6979246;211271;38686644;5222;10710785;3056298;5836;3299732;20810797;3434750;7941778;82195;13064314;680175;53846;1594232;5029525;124974;34235937,http://en.wikipedia.org/wiki/Colombia,Colombia,colombia,colombia,GPE
+Colombian,7941778,1049,231,7941778;5222;3434750;5836;13064314,http://en.wikipedia.org/wiki/Colombian_people,Colombian people,colombian-people,colombian-people,UNK
+Colombian,488193,30,237,211271;5222;5836,http://en.wikipedia.org/wiki/Colombian_culture,Colombian culture,colombian-culture,colombian-culture,UNK
+AMR Corp,1042296,82,71,38521579;2386,http://en.wikipedia.org/wiki/AMR_Corporation,AMR Corporation,amr-corporation,amr-corporation,UNK
+American Airlines,2386,2865,534,2073935;3434750;1042296;1902;38521579;1594232;82195;3663136;17655420;128968;23168873;6979246;58235;53846;13064314,http://en.wikipedia.org/wiki/American_Airlines,American Airlines,american-airlines,american-airlines,ORG
+American Airlines,1902,215,250,17655420;11186;2386;645042,http://en.wikipedia.org/wiki/American_Airlines_Flight_77,American Airlines Flight 77,american-airlines-flight-77,american-airlines-flight-77,UNK
+American Airlines,17655420,247,209,1902;11186;8210131;2386;645042,http://en.wikipedia.org/wiki/American_Airlines_Flight_11,American Airlines Flight 11,american-airlines-flight-11,american-airlines-flight-11,UNK
+American Airlines,23168873,16,34,2386,http://en.wikipedia.org/wiki/American_Airlines_Flight_910,American Airlines Flight 910,american-airlines-flight-910,american-airlines-flight-910,UNK
+American Airlines,38521579,57,89,1042296;128968;2386;3434750,http://en.wikipedia.org/wiki/American_Airlines_Group,American Airlines Group,american-airlines-group,american-airlines-group,UNK
+New York,645042,77367,1542,4162678;1902;2499282;11186;8210131;27746113;26035579;667548;816554;41935657;441501;58235;3880857;431669;3663136;351876;18394424;211271;7402167;79717;75235;3434750;2585447;82195;645042;461232;13141861;598652;17292183;17655420;606772;124974;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+New York,39062092,3,8,,http://en.wikipedia.org/wiki/New_York_EP,New York EP,new-york-ep,new-york-ep,UNK
+New York,5710132,2,12,,"http://en.wikipedia.org/wiki/New_York,_Auburn_and_Lansing_Railroad","New York, Auburn and Lansing Railroad",new-york-auburn-and-lansing-railroad,new-york-auburn-and-lansing-railroad,UNK
+New York,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+New York,2001239,3,3,,"http://en.wikipedia.org/wiki/New_York,_Newfoundland_and_London_Telegraph_Company","New York, Newfoundland and London Telegraph Company",new-york-newfoundland-and-london-telegraph-company,new-york-newfoundland-and-london-telegraph-company,UNK
+New York,3880857,301,536,3434750;645042;8210131,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+New York,816554,492,446,891699;351876;645042;431669;2499282;8210131;26723573,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_and_Western_Railway","New York, Susquehanna and Western Railway",new-york-susquehanna-and-western-railway,new-york-susquehanna-and-western-railway,UNK
+New York,1159194,10,261,,"http://en.wikipedia.org/wiki/New_York,_Lincolnshire","New York, Lincolnshire",new-york-lincolnshire,new-york-lincolnshire,UNK
+New York,13288448,14,23,3434750,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+New York,7402167,6,16,8210131;645042;3434750,"http://en.wikipedia.org/wiki/New_York,_New_York_(So_Good_They_Named_It_Twice)","New York, New York",new-york-new-york,new-york-new-york-so-good-they-named-it-twice,UNK
+New York,17292183,104,126,645042,"http://en.wikipedia.org/wiki/New_York,_I_Love_You","New York, I Love You",new-york-i-love-you,new-york-i-love-you,UNK
+New York,27746113,5,109,13141861;3434750;645042,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railroad_Administration_Building","New York, Westchester and Boston Railroad Administration Building",new-york-westchester-and-boston-railroad-administration-building,new-york-westchester-and-boston-railroad-administration-building,UNK
+New York,21310853,2,74,351876;3434750,"http://en.wikipedia.org/wiki/New_York,_New_Haven_&_Hartford_Passenger_Depot","New York, New Haven & Hartford Passenger Depot",new-york-new-haven-hartford-passenger-depot,new-york-new-haven-hartford-passenger-depot,UNK
+New York,26723573,3,85,816554;3434750,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_&_Western_Railroad_ALCO_Type_S-2_Locomotive","New York, Susquehanna & Western Railroad ALCO Type S-2 Locomotive",new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,UNK
+New York,26035579,0,1,645042,"http://en.wikipedia.org/wiki/New_York,_US-NY","New York, US-NY",new-york-us-ny,new-york-us-ny,UNK
+New York,606772,30,81,8210131;3434750;645042,http://en.wikipedia.org/wiki/New_York:_A_Documentary_Film,New York: A Documentary Film,new-york-a-documentary-film,new-york-a-documentary-film,UNK
+New York,1470149,50,16,,http://en.wikipedia.org/wiki/New_York_&_Company,New York & Company,new-york-company,new-york-company,UNK
+New York,891699,493,307,351876;3434750;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_Chicago_and_St._Louis_Railroad","New York, Chicago and St. Louis Railroad",new-york-chicago-and-st-louis-railroad,new-york-chicago-and-st-louis-railroad,UNK
+New York,8210131,70636,932,4162678;2499282;8210131;39529;40570;667548;816554;3880857;431669;3663136;351876;4096888;7402167;14863992;75235;3434750;1027397;891699;645042;6174697;13141861;101664;598652;605077;17655420;606772,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+New York,1555877,17,13,31747730,"http://en.wikipedia.org/wiki/New_York,_New_York_(On_the_Town)","New York, New York",new-york-new-york,new-york-new-york-on-the-town,UNK
+New York,351876,647,399,21310853;2585447;891699;645042;13141861;6049641;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_New_Haven_and_Hartford_Railroad","New York, New Haven and Hartford Railroad",new-york-new-haven-and-hartford-railroad,new-york-new-haven-and-hartford-railroad,UNK
+New York,598652,483,197,645042;598652;8210131,http://en.wikipedia.org/wiki/New_York_School,New York School,new-york-school,new-york-school,UNK
+New York,31747730,135,373,1555877;645042,http://en.wikipedia.org/wiki/New_York_(Glee),New York,new-york,new-york-glee,UNK
+New York,493759,93,39,,"http://en.wikipedia.org/wiki/New_York,_Tyne_and_Wear","New York, Tyne and Wear",new-york-tyne-and-wear,new-york-tyne-and-wear,GPE
+New York,2499282,360,314,891699;351876;645042;816554;8210131,"http://en.wikipedia.org/wiki/New_York,_Ontario_and_Western_Railway","New York, Ontario and Western Railway",new-york-ontario-and-western-railway,new-york-ontario-and-western-railway,UNK
+New York,667548,10,36,8210131;53846;645042,"http://en.wikipedia.org/wiki/New_York,_Rio,_and_Buenos_Aires_Line","New York, Rio, and Buenos Aires Line",new-york-rio-and-buenos-aires-line,new-york-rio-and-buenos-aires-line,ORG
+New York,2585447,38,55,351876;645042,"http://en.wikipedia.org/wiki/New_York,_Providence_and_Boston_Railroad","New York, Providence and Boston Railroad",new-york-providence-and-boston-railroad,new-york-providence-and-boston-railroad,UNK
+New York,13141861,113,149,351876;8210131;645042;27746113,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railway","New York, Westchester and Boston Railway",new-york-westchester-and-boston-railway,new-york-westchester-and-boston-railway,UNK
+New York,7112349,30,43,3434750,"http://en.wikipedia.org/wiki/New_York,_Texas","New York, Texas",new-york-texas,new-york-texas,GPE
+Bogota,211271,3477,357,3434750;487878;488193;6979246;13064314;38686644;680175;5222;124974;5836;82195;645042;3299732;20810797;53846,http://en.wikipedia.org/wiki/Bogotá,Bogotá,bogota,bogota,GPE
+Bogota,2428202,15,27,,"http://en.wikipedia.org/wiki/Bogota,_Tennessee","Bogota, Tennessee",bogota-tennessee,bogota-tennessee,UNK
+Bogota,20838657,24,36,3434750,"http://en.wikipedia.org/wiki/Bogota,_Illinois","Bogota, Illinois",bogota-illinois,bogota-illinois,GPE
+Bogota,20810797,52,53,5222;680175;211271,http://en.wikipedia.org/wiki/Bogotá_F.C.,Bogotá F.C.,bogota-fc,bogota-fc,ORG
+Bogota,40721400,3,150,3434750,"http://en.wikipedia.org/wiki/Bogota_(Port_Republic,_Virginia)",Bogota,bogota,bogota-port-republic-virginia,UNK
+Bogota,3299732,20,12,5222;211271,http://en.wikipedia.org/wiki/Bogotá_River,Bogotá River,bogota-river,bogota-river,UNK
+Bogota,30419701,5,11,,http://en.wikipedia.org/wiki/Bogotá_Province,Bogotá Province,bogota-province,bogota-province,UNK
+Bogota,124974,145,224,211271;5222;3434750;645042,"http://en.wikipedia.org/wiki/Bogota,_New_Jersey","Bogota, New Jersey",bogota-new-jersey,bogota-new-jersey,GPE
+Department of Transportation,4162678,244,128,58240;8210131;645042,http://en.wikipedia.org/wiki/New_York_City_Department_of_Transportation,New York City Department of Transportation,new-york-city-department-of-transportation,new-york-city-department-of-transportation,UNK
+Department of Transportation,5585716,734,266,899439;1688720;1305538;15921513;58240;888778;6049641;7710;3663136,http://en.wikipedia.org/wiki/Ohio_Department_of_Transportation,Ohio Department of Transportation,ohio-department-of-transportation,ohio-department-of-transportation,ORG
+Department of Transportation,7710,504,100,15921513;58240;6049641;1688720;70780;3868301;1305538;5585716,http://en.wikipedia.org/wiki/California_Department_of_Transportation,California Department of Transportation,california-department-of-transportation,california-department-of-transportation,ORG
+Department of Transportation,15921513,340,98,58240;6049641;1688720;1305538;7710;3434750;5585716,http://en.wikipedia.org/wiki/Utah_Department_of_Transportation,Utah Department of Transportation,utah-department-of-transportation,utah-department-of-transportation,ORG
+Department of Transportation,6049641,452,95,15921513;58240;351876;1688720;1305538;7710;5585716,http://en.wikipedia.org/wiki/Connecticut_Department_of_Transportation,Connecticut Department of Transportation,connecticut-department-of-transportation,connecticut-department-of-transportation,ORG
+Department of Transportation,58235,1054,86,11186;2386;645042;128968;58240;58235;3434750;3663136,http://en.wikipedia.org/wiki/United_States_Department_of_Transportation,United States Department of Transportation,united-states-department-of-transportation,united-states-department-of-transportation,ORG
+Department of Transportation,58240,225,65,10064153;4108780;15921513;58235;6049641;1688720;4162678;11186;1305538;7710;5585716,http://en.wikipedia.org/wiki/Department_of_Transportation,Department of Transportation,department-of-transportation,department-of-transportation,ORG
+Department of Transportation,1305538,542,99,15921513;58240;447879;10328648;10328590;10328578;10328620;10328575;6049641;1688720;53846;6310196;1305538;7710;902392;5585716,http://en.wikipedia.org/wiki/Florida_Department_of_Transportation,Florida Department of Transportation,florida-department-of-transportation,florida-department-of-transportation,ORG
+Department of Transportation,4108780,214,27,58240,http://en.wikipedia.org/wiki/Department_of_Transportation_(New_Brunswick),Department of Transportation,department-of-transportation,department-of-transportation-new-brunswick,PER
+Department of Transportation,1688720,454,199,15921513;58240;3434750;233474;6049641;1305538;7710;3663136;5585716,http://en.wikipedia.org/wiki/Washington_State_Department_of_Transportation,Washington State Department of Transportation,washington-state-department-of-transportation,washington-state-department-of-transportation,ORG
+Miami,53846,9010,856,210339;2517648;1491778;9013054;3434750;18394424;487878;2386;6310196;211271;72850;646813;5222;82195;557375;667548;53846;238192;6720421;5029525;128968;8748735;1121725;10328648;10328575;9078644;1305538;447879;75235;844211;461232;2221609,http://en.wikipedia.org/wiki/Miami,Miami,miami,miami,GPE
+Miami,1571240,49,38,101664,http://en.wikipedia.org/wiki/Miami-Illinois_language,Miami-Illinois language,miami-illinois-language,miami-illinois-language,UNK
+Miami,1121725,81,108,550494;53846,http://en.wikipedia.org/wiki/USS_Miami_(SSN-755),USS Miami,uss-miami,uss-miami-ssn-755,UNK
+Miami,2221609,138,158,9013054;3434750;53846,http://en.wikipedia.org/wiki/Miami_Tower,Miami Tower,miami-tower,miami-tower,UNK
+Miami,72850,2276,472,9078644;3434750;53846;72850,http://en.wikipedia.org/wiki/Miami_Heat,Miami Heat,miami-heat,miami-heat,UNK
+Miami,844211,4,31,53846,http://en.wikipedia.org/wiki/Miami_model,Miami model,miami-model,miami-model,UNK
+Miami,540157,0,4,,http://en.wikipedia.org/wiki/Miami_County,Miami County,miami-county,miami-county,UNK
+Miami,11606277,1,7,,"http://en.wikipedia.org/wiki/Miami,_Nea_Krini","Miami, Nea Krini",miami-nea-krini,miami-nea-krini,UNK
+Miami,8188731,246,219,8188731;6512082,http://en.wikipedia.org/wiki/Miami_RedHawks,Miami RedHawks,miami-redhawks,miami-redhawks,UNK
+Miami,9013054,64,80,2221609;3434750;53846,http://en.wikipedia.org/wiki/Miami_Center,Miami Center,miami-center,miami-center,UNK
+Miami,550494,4,3,1192892;1121725;557375,http://en.wikipedia.org/wiki/USS_Miami,USS Miami,uss-miami,uss-miami,UNK
+Miami,4935113,210,208,,http://en.wikipedia.org/wiki/Miami_Stadium,Miami Stadium,miami-stadium,miami-stadium,UNK
+Miami,1491778,64,63,9078644;2517648;53846,http://en.wikipedia.org/wiki/1926_Miami_hurricane,1926 Miami hurricane,1926-miami-hurricane,1926-miami-hurricane,UNK
+Miami,27420762,185,200,3434750,"http://en.wikipedia.org/wiki/Miami,_West_Virginia","Miami, West Virginia",miami-west-virginia,miami-west-virginia,GPE
+Miami,130491,288,169,79717;101664;3434750,"http://en.wikipedia.org/wiki/Miami,_Oklahoma","Miami, Oklahoma",miami-oklahoma,miami-oklahoma,GPE
+Miami,14707616,17,30,3434750,"http://en.wikipedia.org/wiki/Miami,_New_Mexico","Miami, New Mexico",miami-new-mexico,miami-new-mexico,GPE
+Miami,4077247,0,9,,"http://en.wikipedia.org/wiki/Miami_Township,_Ohio","Miami Township, Ohio",miami-township-ohio,miami-township-ohio,UNK
+Miami,646813,214,329,10328648;75235;53846;101664;553028;128968;6310196,http://en.wikipedia.org/wiki/Miami_River_(Florida),Miami River,miami-river,miami-river-florida,UNK
+Miami,23151155,100,5,,"http://en.wikipedia.org/wiki/Miami,_California","Miami, California",miami-california,miami-california,UNK
+Miami,10064153,3,14,58240,http://en.wikipedia.org/wiki/Miami_Bridge,Miami Bridge,miami-bridge,miami-bridge,UNK
+Miami,128968,1078,554,646813;11186;10328648;2386;10328575;6310196;8748735;58235;3434750;53846;38521579;82195,http://en.wikipedia.org/wiki/Miami_International_Airport,Miami International Airport,miami-international-airport,miami-international-airport,UNK
+Miami,735834,13,27,3434750;2440624;553028,http://en.wikipedia.org/wiki/Miami_River_(Oregon),Miami River,miami-river,miami-river-oregon,UNK
+Miami,1027397,5,7,8210131;553028,http://en.wikipedia.org/wiki/Miami_River_(New_York),Miami River,miami-river,miami-river-new-york,UNK
+Miami,210339,127,71,53846,http://en.wikipedia.org/wiki/Miami_bass,Miami bass,miami-bass,miami-bass,UNK
+Miami,31446014,24,32,,"http://en.wikipedia.org/wiki/Miami,_My_Amy","Miami, My Amy",miami-my-amy,miami-my-amy,UNK
+Miami,9078644,524,266,2517648;53846;72850;1491778,http://en.wikipedia.org/wiki/Miami_Hurricanes,Miami Hurricanes,miami-hurricanes,miami-hurricanes,UNK
+Miami,6720421,162,225,2517648;53846,http://en.wikipedia.org/wiki/2001_Miami_Hurricanes_football_team,2001 Miami Hurricanes football team,2001-miami-hurricanes-football-team,2001-miami-hurricanes-football-team,UNK
+Miami,10303384,0,1,,"http://en.wikipedia.org/wiki/Miami,_OK_μSA","Miami, OK μSA",miami-ok-μsa,miami-ok-μsa,PER
+Miami,9482493,1,8,,http://en.wikipedia.org/wiki/Miami_Township,Miami Township,miami-township,miami-township,GPE
+Miami,2517648,1133,519,6720421;9078644;1491778;53846,http://en.wikipedia.org/wiki/Miami_Hurricanes_football,Miami Hurricanes football,miami-hurricanes-football,miami-hurricanes-football,UNK
+Miami,1192892,17,62,3434750;550494,http://en.wikipedia.org/wiki/USS_Miami_(1861),USS Miami,uss-miami,uss-miami-1861,UNK
+Miami,6512082,343,178,8188731,http://en.wikipedia.org/wiki/Miami_RedHawks_football,Miami RedHawks football,miami-redhawks-football,miami-redhawks-football,UNK
+Miami,2900532,119,106,,"http://en.wikipedia.org/wiki/Miami,_Queensland","Miami, Queensland",miami-queensland,miami-queensland,UNK
+Miami,557375,44,81,53846;550494,http://en.wikipedia.org/wiki/USS_Miami_(CL-89),USS Miami,uss-miami,uss-miami-cl-89,UNK
+Miami,8748735,18,194,53846;128968;6310196;10328648;3434750,http://en.wikipedia.org/wiki/Miami_Marine_Stadium,Miami Marine Stadium,miami-marine-stadium,miami-marine-stadium,UNK
+Miami,553028,0,6,735834;646813;1027397,http://en.wikipedia.org/wiki/Miami_River,Miami River,miami-river,miami-river,UNK
+Miami,101664,126,124,646813;1571240;899439;130491;8210131;3434750,http://en.wikipedia.org/wiki/Miami_people,Miami people,miami-people,miami-people,UNK
+Miami,18745945,1,1,,"http://en.wikipedia.org/wiki/Miami,_OK_µSA","Miami, OK µSA",miami-ok-µsa,miami-ok-µsa,PER
+Miami,3788825,119,41,,http://en.wikipedia.org/wiki/M.I.A.M.I.,M.I.A.M.I.,miami,miami,UNK
+Miami,18394424,10,43,53846;645042,http://en.wikipedia.org/wiki/City_of_Miami_(train),City of Miami,city-of-miami,city-of-miami-train,UNK
+Miami,5806138,6,32,,http://en.wikipedia.org/wiki/Miami_(soil),Miami,miami,miami-soil,UNK
+Miami,899439,334,206,888778;101664;5585716,http://en.wikipedia.org/wiki/Miami_Valley,Miami Valley,miami-valley,miami-valley,UNK
+Miami,32252639,51,56,,http://en.wikipedia.org/wiki/Miami_(neighborhood),Miami,miami,miami-neighborhood,UNK
+Miami,3479274,23,32,,"http://en.wikipedia.org/wiki/Miami,_Manitoba","Miami, Manitoba",miami-manitoba,miami-manitoba,UNK
+AMR,1042296,82,71,38521579;2386,http://en.wikipedia.org/wiki/AMR_Corporation,AMR Corporation,amr-corporation,amr-corporation,UNK
+United States,3434750,529967,1252,9013054;2386;5222;11186;22033;1134236;39529;40570;53846;58235;65508;72850;82195;101664;130491;128968;124974;211271;1192892;238192;233474;2221609;21310853;3663136;10328578;7422188;435793;436898;431669;7402167;3434750;461232;13288448;1688720;3868301;5029525;3880857;1612222;645042;605077;606772;1594232;8210131;7112349;680175;27420762;6174697;735834;2719448;38521579;8748735;15921513;20838657;4096888;14863992;891699;895667;26723573;13800259;7941778;27746113;40721400;14707616;993845,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+United States,195550,101,127,195515,http://en.wikipedia.org/wiki/USS_United_States_(1797),USS United States,uss-united-states,uss-united-states-1797,UNK
+United States,2719448,16,46,3434750,http://en.wikipedia.org/wiki/United_States_Live,United States Live,united-states-live,united-states-live,UNK
+United States,195515,9,7,195637;461232;195550,http://en.wikipedia.org/wiki/USS_United_States,USS United States,uss-united-states,uss-united-states,UNK
+United States,431669,2237,285,431669;39529;3434750;40570;645042;816554;6174697;8210131,http://en.wikipedia.org/wiki/Northeastern_United_States,Northeastern United States,northeastern-united-states,northeastern-united-states,UNK
+United States,22033,135,97,3434750,http://en.wikipedia.org/wiki/Nicaragua_v._United_States,Nicaragua v. United States,nicaragua-v-united-states,nicaragua-v-united-states,PER
+United States,993845,746,312,3434750;993845,http://en.wikipedia.org/wiki/United_States_nationality_law,United States nationality law,united-states-nationality-law,united-states-nationality-law,UNK
+United States,7422188,509,575,1134236;3434750,"http://en.wikipedia.org/wiki/United_States_Senate_elections,_2012","United States Senate elections, 2012",united-states-senate-elections-2012,united-states-senate-elections-2012,UNK
+United States,40570,857,545,431669;39529;3434750;40570;8210131,"http://en.wikipedia.org/wiki/United_States_presidential_election,_1980","United States presidential election, 1980",united-states-presidential-election-1980,united-states-presidential-election-1980,UNK
+United States,3663136,242,335,58235;2386;3434750;645042;1688720;8210131;3663136;5585716,http://en.wikipedia.org/wiki/High-speed_rail_in_the_United_States,High-speed rail in the United States,high-speed-rail-in-the-united-states,high-speed-rail-in-the-united-states,UNK
+United States,6174697,566,530,431669;6174697;3434750;8210131,http://en.wikipedia.org/wiki/Territorial_evolution_of_the_United_States,Territorial evolution of the United States,territorial-evolution-of-the-united-states,territorial-evolution-of-the-united-states,UNK
+United States,195637,31,45,195515,http://en.wikipedia.org/wiki/USS_United_States_(CVA-58),USS United States,uss-united-states,uss-united-states-cva-58,UNK
+United States,636847,221,42,65508,http://en.wikipedia.org/wiki/United_States_Customs_Service,United States Customs Service,united-states-customs-service,united-states-customs-service,ORG
+United States,5029525,27,254,53846;5222;3434750,http://en.wikipedia.org/wiki/Ethanol_fuel_in_the_United_States,Ethanol fuel in the United States,ethanol-fuel-in-the-united-states,ethanol-fuel-in-the-united-states,UNK
+United States,14863992,10,221,8210131;3434750;14863992,http://en.wikipedia.org/wiki/United_States_withdrawal_from_the_United_Nations,United States withdrawal from the United Nations,united-states-withdrawal-from-the-united-nations,united-states-withdrawal-from-the-united-nations,UNK
+United States,4096888,712,458,4096888;3434750;39529;8210131,"http://en.wikipedia.org/wiki/United_States_elections,_2006","United States elections, 2006",united-states-elections-2006,united-states-elections-2006,UNK
+United States,2111551,11,25,,http://en.wikipedia.org/wiki/Cramer_v._United_States,Cramer v. United States,cramer-v-united-states,cramer-v-united-states,UNK
+United States,39529,1083,393,431669;4096888;3434750;40570;8210131,"http://en.wikipedia.org/wiki/United_States_presidential_election,_1992","United States presidential election, 1992",united-states-presidential-election-1992,united-states-presidential-election-1992,UNK
+United States,65508,277,275,3434750;636847,http://en.wikipedia.org/wiki/Great_Seal_of_the_United_States,Great Seal of the United States,great-seal-of-the-united-states,great-seal-of-the-united-states,UNK
+United States,1380075,391,371,,http://en.wikipedia.org/wiki/Reynolds_v._United_States,Reynolds v. United States,reynolds-v-united-states,reynolds-v-united-states,UNK
+United States,10341263,6,88,10341263,http://en.wikipedia.org/wiki/United_States_raw_milk_debate,United States raw milk debate,united-states-raw-milk-debate,united-states-raw-milk-debate,GPE
+United States,461232,241,384,3434750;195515;645042;53846,http://en.wikipedia.org/wiki/SS_United_States,SS United States,ss-united-states,ss-united-states,UNK
+United States,1134236,415,587,7422188;3434750,"http://en.wikipedia.org/wiki/United_States_Senate_elections,_2010","United States Senate elections, 2010",united-states-senate-elections-2010,united-states-senate-elections-2010,UNK
+United States,895667,46,133,3434750,http://en.wikipedia.org/wiki/United_States_Olympic_Hall_of_Fame,United States Olympic Hall of Fame,united-states-olympic-hall-of-fame,united-states-olympic-hall-of-fame,UNK
+United States,244351,94,228,,http://en.wikipedia.org/wiki/Korematsu_v._United_States,Korematsu v. United States,korematsu-v-united-states,korematsu-v-united-states,UNK
+Federal Aviation Administration,11186,6607,96,3434750;1902;6979246;645042;128968;58240;58235;17655420,http://en.wikipedia.org/wiki/Federal_Aviation_Administration,Federal Aviation Administration,federal-aviation-administration,federal-aviation-administration,ORG
+American,3434750,529967,1252,9013054;2386;5222;11186;22033;1134236;39529;40570;53846;58235;65508;72850;82195;101664;130491;128968;124974;211271;1192892;238192;233474;2221609;21310853;3663136;10328578;7422188;435793;436898;431669;7402167;3434750;461232;13288448;1688720;3868301;5029525;3880857;1612222;645042;605077;606772;1594232;8210131;7112349;680175;27420762;6174697;735834;2719448;38521579;8748735;15921513;20838657;4096888;14863992;891699;895667;26723573;13800259;7941778;27746113;40721400;14707616;993845,http://en.wikipedia.org/wiki/United_States,United States,united-states,united-states,GPE
+American,1902,215,250,17655420;11186;2386;645042,http://en.wikipedia.org/wiki/American_Airlines_Flight_77,American Airlines Flight 77,american-airlines-flight-77,american-airlines-flight-77,UNK
+American,2386,2865,534,2073935;3434750;1042296;1902;38521579;1594232;82195;3663136;17655420;128968;23168873;6979246;58235;53846;13064314,http://en.wikipedia.org/wiki/American_Airlines,American Airlines,american-airlines,american-airlines,ORG
+American,17655420,247,209,1902;11186;8210131;2386;645042,http://en.wikipedia.org/wiki/American_Airlines_Flight_11,American Airlines Flight 11,american-airlines-flight-11,american-airlines-flight-11,UNK
+American,23168873,16,34,2386,http://en.wikipedia.org/wiki/American_Airlines_Flight_910,American Airlines Flight 910,american-airlines-flight-910,american-airlines-flight-910,UNK
+American,38521579,57,89,1042296;128968;2386;3434750,http://en.wikipedia.org/wiki/American_Airlines_Group,American Airlines Group,american-airlines-group,american-airlines-group,UNK
+Colombians,5222,32640,736,6976458;487878;488193;6979246;211271;38686644;5222;10710785;3056298;5836;3299732;20810797;3434750;7941778;82195;13064314;680175;53846;1594232;5029525;124974;34235937,http://en.wikipedia.org/wiki/Colombia,Colombia,colombia,colombia,GPE
+Avianca,82195,595,539,487878;211271;5222;38686644;2073935;2386;3434750;645042;53846;128968;1594232;6979246;82195,http://en.wikipedia.org/wiki/Avianca,Avianca,avianca,avianca,ORG
+Avianca,1594232,445,452,487878;5222;2073935;2386;3434750;6979246;82195,http://en.wikipedia.org/wiki/Avianca_Brazil,Avianca Brazil,avianca-brazil,avianca-brazil,ORG
+Avianca,2073935,85,280,487878;1594232;6979246;82195;2386,http://en.wikipedia.org/wiki/Avianca_Peru,Avianca Peru,avianca-peru,avianca-peru,ORG
+Avianca,6979246,26,50,5222;211271;82195;2073935;487878;2386;11186;1594232,http://en.wikipedia.org/wiki/Avianca_Services,Avianca Services,avianca-services,avianca-services,ORG
+Avianca,38686644,4,10,5222;211271;82195;38686644,http://en.wikipedia.org/wiki/Avianca_Building,Avianca Building,avianca-building,avianca-building,UNK
+ACES,487878,45,113,5222;1594232;6979246;211271;82195;2073935;53846,http://en.wikipedia.org/wiki/ACES_Colombia,ACES Colombia,aces-colombia,aces-colombia,ORG
+ACES,22098904,13,20,,http://en.wikipedia.org/wiki/Aces_(parish),Aces,aces,aces-parish,UNK
+ACES,961605,3,117,,http://en.wikipedia.org/wiki/ACES_(computational_chemistry),ACES,aces,aces-computational-chemistry,UNK
+ACES,2637617,12,24,,http://en.wikipedia.org/wiki/ACeS,ACeS,aces,aces,ORG
+ACES,22467606,1,9,,http://en.wikipedia.org/wiki/The_Aces_(band),The Aces,the-aces,the-aces-band,UNK
+ACES,4574815,2,18,,http://en.wikipedia.org/wiki/ACES_(buffer),ACES,aces,aces-buffer,UNK
+ACES,31971712,4,5,,http://en.wikipedia.org/wiki/ACES_II,ACES II,aces-ii,aces-ii,UNK
+ACES,13800259,21,25,3434750,http://en.wikipedia.org/wiki/The_Aces_(blues_band),The Aces,the-aces,the-aces-blues-band,UNK
+ACES,1612222,74,158,3434750,http://en.wikipedia.org/wiki/Ace_(tennis),Ace,ace,ace-tennis,UNK
+ACES,1308001,281,325,,http://en.wikipedia.org/wiki/Ace_(Doctor_Who),Ace,ace,ace-doctor-who,UNK
+ACES,7613504,3,10,,http://en.wikipedia.org/wiki/ACES_(nutritional_supplement),ACES,aces,aces-nutritional-supplement,UNK

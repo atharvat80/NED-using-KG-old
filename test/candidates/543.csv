@@ -1,0 +1,156 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+FINLAND,950383,0,330,264865;13696;11299099;3078614;10577,http://en.wikipedia.org/wiki/Finland_men's_national_ice_hockey_team,Finland men's national ice hockey team,finland-mens-national-ice-hockey-team,finland-mens-national-ice-hockey-team,UNK
+FINLAND,296977,45,25,10577;10481756;5058739;296977,http://en.wikipedia.org/wiki/Old_Finland,Old Finland,old-finland,old-finland,UNK
+FINLAND,5421455,43,63,5421455;10577;13696;10481756;5058739;11867,http://en.wikipedia.org/wiki/Kingdom_of_Finland_(1918),Kingdom of Finland,kingdom-of-finland,kingdom-of-finland-1918,GPE
+FINLAND,11685701,462,156,11685701;1490969;10709;10577,http://en.wikipedia.org/wiki/Religion_in_Finland,Religion in Finland,religion-in-finland,religion-in-finland,UNK
+FINLAND,17312218,14,157,10577,http://en.wikipedia.org/wiki/USS_Finland_(ID-4543),USS Finland,uss-finland,uss-finland-id-4543,UNK
+FINLAND,10059249,43,60,10577,"http://en.wikipedia.org/wiki/Finland,_Minnesota","Finland, Minnesota",finland-minnesota,finland-minnesota,GPE
+FINLAND,32327908,127,141,,"http://en.wikipedia.org/wiki/Finland,_Pennsylvania","Finland, Pennsylvania",finland-pennsylvania,finland-pennsylvania,GPE
+FINLAND,41437317,3,14,,http://en.wikipedia.org/wiki/Little_Finland,Little Finland,little-finland,little-finland,UNK
+FINLAND,10709,160,220,9239;11685701;21493015;13696;11867;10709;5058739;26889;10577,http://en.wikipedia.org/wiki/Geography_of_Finland,Geography of Finland,geography-of-finland,geography-of-finland,UNK
+FINLAND,10577,44494,840,11685701;141541;1182657;206554;5321;9239;9317;10709;10577;11867;1190033;5421455;13696;10481756;264865;3078614;578468;217537;220548;26889;4570035;950383;5058739;6277048;871024;729739;2706303;3197752;17312218;723233;3402034;296977;1727522;10059249;3526569;11299099,http://en.wikipedia.org/wiki/Finland,Finland,finland,finland,GPE
+FINLAND,723233,1522,501,52622;126460;147793;656933;157233;9239;729739;13696;33166;10577;250204;168079;11867;5058739;11370;1190033;578468,http://en.wikipedia.org/wiki/Finland_national_football_team,Finland national football team,finland-national-football-team,finland-national-football-team,UNK
+FINLAND,1727522,85,93,10577,http://en.wikipedia.org/wiki/Greater_Finland,Greater Finland,greater-finland,greater-finland,UNK
+FINLAND,3197752,72,116,10577;13696;11867,http://en.wikipedia.org/wiki/Finland_Station,Finland Station,finland-station,finland-station,UNK
+FINLAND,10481756,10,35,296977;5421455;10577,http://en.wikipedia.org/wiki/Kingdom_of_Finland_(1742),Kingdom of Finland,kingdom-of-finland,kingdom-of-finland-1742,GPE
+CZECH REPUBLIC,949898,0,188,5058739;729739;5321;11867,http://en.wikipedia.org/wiki/Czech_Republic_men's_national_ice_hockey_team,Czech Republic men's national ice hockey team,czech-republic-mens-national-ice-hockey-team,czech-republic-mens-national-ice-hockey-team,UNK
+CZECH REPUBLIC,729739,1240,491,52622;126460;147793;656933;10577;250204;168079;157233;11867;949898;5321;729739;13696;11370;723233;1190033;578468,http://en.wikipedia.org/wiki/Czech_Republic_national_football_team,Czech Republic national football team,czech-republic-national-football-team,czech-republic-national-football-team,ORG
+CZECH REPUBLIC,5321,46127,800,21493015;5321;9239;9317;569462;10577;11867;13696;157233;5058739;949898;729739;2706303;22309191;4077824;3651889;3402034,http://en.wikipedia.org/wiki/Czech_Republic,Czech Republic,czech-republic,czech-republic,GPE
+WORLD CUP,157233,3239,557,52622;147793;157233;729739;33166;250204;11867;11370;723233;578468;126460;656933;5321;168079;5058739,http://en.wikipedia.org/wiki/2006_FIFA_World_Cup,2006 FIFA World Cup,2006-fifa-world-cup,2006-fifa-world-cup,UNK
+WORLD CUP,10301463,108,177,951198;263861;11370;22309191;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/World_Cup_(snooker),World Cup,world-cup,world-cup-snooker,UNK
+WORLD CUP,2900585,596,210,2900585;7239;266217,http://en.wikipedia.org/wiki/2011_Cricket_World_Cup,2011 Cricket World Cup,2011-cricket-world-cup,2011-cricket-world-cup,UNK
+WORLD CUP,147793,1790,463,13058;52622;126460;147793;656933;157233;729739;250204;168079;11867;5058739;11370;723233;578468,http://en.wikipedia.org/wiki/1994_FIFA_World_Cup,1994 FIFA World Cup,1994-fifa-world-cup,1994-fifa-world-cup,UNK
+WORLD CUP,126460,2360,526,52622;126460;147793;656933;157233;729739;250204;168079;11867;11370;723233;578468,http://en.wikipedia.org/wiki/1998_FIFA_World_Cup,1998 FIFA World Cup,1998-fifa-world-cup,1998-fifa-world-cup,UNK
+WORLD CUP,951198,797,254,10301463;1543977;22309191;11867;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Hockey_World_Cup,Hockey World Cup,hockey-world-cup,hockey-world-cup,ORG
+WORLD CUP,17269063,107,125,,http://en.wikipedia.org/wiki/Chess_World_Cup,Chess World Cup,chess-world-cup,chess-world-cup,PER
+WORLD CUP,2706303,281,186,10301463;951198;263861;11867;11370;22309191;5058739;10577;1543977;5321;12312312;7239;2706303,http://en.wikipedia.org/wiki/UCI_Mountain_Bike_World_Cup,UCI Mountain Bike World Cup,uci-mountain-bike-world-cup,uci-mountain-bike-world-cup,ORG
+WORLD CUP,1543977,0,470,10301463;11867;5058739;7239;951198;263861;11370;22309191;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_(men's_golf),World Cup,world-cup,world-cup-mens-golf,UNK
+WORLD CUP,7239,828,277,10301463;1543977;22309191;2900585;7239;951198;263861;11370;266217;12312312;2706303,http://en.wikipedia.org/wiki/Cricket_World_Cup,Cricket World Cup,cricket-world-cup,cricket-world-cup,UNK
+WORLD CUP,22309191,286,125,10301463;951198;263861;11867;11370;22309191;1543977;5321;12312312;7239;2706303,http://en.wikipedia.org/wiki/UCI_Cyclo-cross_World_Cup,UCI Cyclo-cross World Cup,uci-cyclo-cross-world-cup,uci-cyclo-cross-world-cup,UNK
+WORLD CUP,12312312,874,369,10301463;1543977;22309191;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Rugby_League_World_Cup,Rugby League World Cup,rugby-league-world-cup,rugby-league-world-cup,ORG
+WORLD CUP,41038712,1,16,52622,http://en.wikipedia.org/wiki/World_Cup_Park,World Cup Park,world-cup-park,world-cup-park,UNK
+WORLD CUP,263861,503,173,10301463;3078614;1543977;7239;951198;264865;569462;3651889;11370;22309191;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_of_Hockey,World Cup of Hockey,world-cup-of-hockey,world-cup-of-hockey,ORG
+WORLD CUP,11370,5586,616,52622;147793;157233;729739;33166;250204;11867;263861;11370;723233;578468;2706303;10301463;126460;656933;22309191;951198;1543977;168079;5058739;7239;12312312,http://en.wikipedia.org/wiki/FIFA_World_Cup,FIFA World Cup,fifa-world-cup,fifa-world-cup,UNK
+WORLD CUP,52622,2464,534,52622;126460;41038712;147793;656933;157233;729739;250204;168079;11867;5058739;11370;723233;578468,http://en.wikipedia.org/wiki/2002_FIFA_World_Cup,2002 FIFA World Cup,2002-fifa-world-cup,2002-fifa-world-cup,UNK
+WORLD CUP,168079,3921,505,52622;147793;157233;729739;250204;11867;11370;723233;578468;126460;656933;168079,http://en.wikipedia.org/wiki/2010_FIFA_World_Cup,2010 FIFA World Cup,2010-fifa-world-cup,2010-fifa-world-cup,UNK
+WORLD CUP,656933,3267,404,52622;147793;157233;729739;250204;11370;723233;578468;126460;656933;168079,http://en.wikipedia.org/wiki/2014_FIFA_World_Cup,2014 FIFA World Cup,2014-fifa-world-cup,2014-fifa-world-cup,UNK
+WORLD CUP,266217,683,220,2900585;7239;266217,http://en.wikipedia.org/wiki/2007_Cricket_World_Cup,2007 Cricket World Cup,2007-cricket-world-cup,2007-cricket-world-cup,UNK
+HELSINKI,13696,9845,920,6277048;264865;871024;729739;33166;141541;578468;1079094;206554;5321;377307;3197752;9239;9317;10709;10577;11867;220548;723233;1190033;5421455;3402034;950383;13696;3526569;5058739,http://en.wikipedia.org/wiki/Helsinki,Helsinki,helsinki,helsinki,GPE
+HELSINKI,1190033,648,371,10577;729739;13696;723233,http://en.wikipedia.org/wiki/Helsinki_Olympic_Stadium,Helsinki Olympic Stadium,helsinki-olympic-stadium,helsinki-olympic-stadium,UNK
+HELSINKI,206554,17,19,10577;871024;13696,http://en.wikipedia.org/wiki/Helsinki_Metropolitan_Area_Council,Helsinki Metropolitan Area Council,helsinki-metropolitan-area-council,helsinki-metropolitan-area-council,UNK
+HELSINKI,220548,805,237,10577;13696;220548,http://en.wikipedia.org/wiki/University_of_Helsinki,University of Helsinki,university-of-helsinki,university-of-helsinki,ORG
+HELSINKI,871024,108,35,141541;10577;3526569;13696;206554,http://en.wikipedia.org/wiki/Greater_Helsinki,Greater Helsinki,greater-helsinki,greater-helsinki,UNK
+HELSINKI,1079094,15,22,13696,http://en.wikipedia.org/wiki/Politics_of_Helsinki,Politics of Helsinki,politics-of-helsinki,politics-of-helsinki,UNK
+HELSINKI,377307,5,75,13696,http://en.wikipedia.org/wiki/Geography_of_Helsinki,Geography of Helsinki,geography-of-helsinki,geography-of-helsinki,UNK
+HELSINKI,141541,284,319,871024;13696;10577,http://en.wikipedia.org/wiki/Helsinki_Airport,Helsinki Airport,helsinki-airport,helsinki-airport,UNK
+HELSINKI,3526569,11,27,10577;871024;13696,http://en.wikipedia.org/wiki/Helsinki_(electoral_district),Helsinki,helsinki,helsinki-electoral-district,UNK
+Finland,950383,0,330,264865;13696;11299099;3078614;10577,http://en.wikipedia.org/wiki/Finland_men's_national_ice_hockey_team,Finland men's national ice hockey team,finland-mens-national-ice-hockey-team,finland-mens-national-ice-hockey-team,UNK
+Finland,296977,45,25,10577;10481756;5058739;296977,http://en.wikipedia.org/wiki/Old_Finland,Old Finland,old-finland,old-finland,UNK
+Finland,5421455,43,63,5421455;10577;13696;10481756;5058739;11867,http://en.wikipedia.org/wiki/Kingdom_of_Finland_(1918),Kingdom of Finland,kingdom-of-finland,kingdom-of-finland-1918,GPE
+Finland,11685701,462,156,11685701;1490969;10709;10577,http://en.wikipedia.org/wiki/Religion_in_Finland,Religion in Finland,religion-in-finland,religion-in-finland,UNK
+Finland,17312218,14,157,10577,http://en.wikipedia.org/wiki/USS_Finland_(ID-4543),USS Finland,uss-finland,uss-finland-id-4543,UNK
+Finland,10059249,43,60,10577,"http://en.wikipedia.org/wiki/Finland,_Minnesota","Finland, Minnesota",finland-minnesota,finland-minnesota,GPE
+Finland,32327908,127,141,,"http://en.wikipedia.org/wiki/Finland,_Pennsylvania","Finland, Pennsylvania",finland-pennsylvania,finland-pennsylvania,GPE
+Finland,41437317,3,14,,http://en.wikipedia.org/wiki/Little_Finland,Little Finland,little-finland,little-finland,UNK
+Finland,10709,160,220,9239;11685701;21493015;13696;11867;10709;5058739;26889;10577,http://en.wikipedia.org/wiki/Geography_of_Finland,Geography of Finland,geography-of-finland,geography-of-finland,UNK
+Finland,10577,44494,840,11685701;141541;1182657;206554;5321;9239;9317;10709;10577;11867;1190033;5421455;13696;10481756;264865;3078614;578468;217537;220548;26889;4570035;950383;5058739;6277048;871024;729739;2706303;3197752;17312218;723233;3402034;296977;1727522;10059249;3526569;11299099,http://en.wikipedia.org/wiki/Finland,Finland,finland,finland,GPE
+Finland,723233,1522,501,52622;126460;147793;656933;157233;9239;729739;13696;33166;10577;250204;168079;11867;5058739;11370;1190033;578468,http://en.wikipedia.org/wiki/Finland_national_football_team,Finland national football team,finland-national-football-team,finland-national-football-team,UNK
+Finland,1727522,85,93,10577,http://en.wikipedia.org/wiki/Greater_Finland,Greater Finland,greater-finland,greater-finland,UNK
+Finland,3197752,72,116,10577;13696;11867,http://en.wikipedia.org/wiki/Finland_Station,Finland Station,finland-station,finland-station,UNK
+Finland,10481756,10,35,296977;5421455;10577,http://en.wikipedia.org/wiki/Kingdom_of_Finland_(1742),Kingdom of Finland,kingdom-of-finland,kingdom-of-finland-1742,GPE
+Czech Republic,949898,0,188,5058739;729739;5321;11867,http://en.wikipedia.org/wiki/Czech_Republic_men's_national_ice_hockey_team,Czech Republic men's national ice hockey team,czech-republic-mens-national-ice-hockey-team,czech-republic-mens-national-ice-hockey-team,UNK
+Czech Republic,729739,1240,491,52622;126460;147793;656933;10577;250204;168079;157233;11867;949898;5321;729739;13696;11370;723233;1190033;578468,http://en.wikipedia.org/wiki/Czech_Republic_national_football_team,Czech Republic national football team,czech-republic-national-football-team,czech-republic-national-football-team,ORG
+Czech Republic,5321,46127,800,21493015;5321;9239;9317;569462;10577;11867;13696;157233;5058739;949898;729739;2706303;22309191;4077824;3651889;3402034,http://en.wikipedia.org/wiki/Czech_Republic,Czech Republic,czech-republic,czech-republic,GPE
+World Cup,263861,503,173,10301463;3078614;1543977;7239;951198;264865;569462;3651889;11370;22309191;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_of_Hockey,World Cup of Hockey,world-cup-of-hockey,world-cup-of-hockey,ORG
+World Cup,157233,3239,557,52622;147793;157233;729739;33166;250204;11867;11370;723233;578468;126460;656933;5321;168079;5058739,http://en.wikipedia.org/wiki/2006_FIFA_World_Cup,2006 FIFA World Cup,2006-fifa-world-cup,2006-fifa-world-cup,UNK
+World Cup,10301463,108,177,951198;263861;11370;22309191;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/World_Cup_(snooker),World Cup,world-cup,world-cup-snooker,UNK
+World Cup,2900585,596,210,2900585;7239;266217,http://en.wikipedia.org/wiki/2011_Cricket_World_Cup,2011 Cricket World Cup,2011-cricket-world-cup,2011-cricket-world-cup,UNK
+World Cup,147793,1790,463,13058;52622;126460;147793;656933;157233;729739;250204;168079;11867;5058739;11370;723233;578468,http://en.wikipedia.org/wiki/1994_FIFA_World_Cup,1994 FIFA World Cup,1994-fifa-world-cup,1994-fifa-world-cup,UNK
+World Cup,126460,2360,526,52622;126460;147793;656933;157233;729739;250204;168079;11867;11370;723233;578468,http://en.wikipedia.org/wiki/1998_FIFA_World_Cup,1998 FIFA World Cup,1998-fifa-world-cup,1998-fifa-world-cup,UNK
+World Cup,951198,797,254,10301463;1543977;22309191;11867;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Hockey_World_Cup,Hockey World Cup,hockey-world-cup,hockey-world-cup,ORG
+World Cup,17269063,107,125,,http://en.wikipedia.org/wiki/Chess_World_Cup,Chess World Cup,chess-world-cup,chess-world-cup,PER
+World Cup,2706303,281,186,10301463;951198;263861;11867;11370;22309191;5058739;10577;1543977;5321;12312312;7239;2706303,http://en.wikipedia.org/wiki/UCI_Mountain_Bike_World_Cup,UCI Mountain Bike World Cup,uci-mountain-bike-world-cup,uci-mountain-bike-world-cup,ORG
+World Cup,1543977,0,470,10301463;11867;5058739;7239;951198;263861;11370;22309191;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_(men's_golf),World Cup,world-cup,world-cup-mens-golf,UNK
+World Cup,7239,828,277,10301463;1543977;22309191;2900585;7239;951198;263861;11370;266217;12312312;2706303,http://en.wikipedia.org/wiki/Cricket_World_Cup,Cricket World Cup,cricket-world-cup,cricket-world-cup,UNK
+World Cup,22309191,286,125,10301463;951198;263861;11867;11370;22309191;1543977;5321;12312312;7239;2706303,http://en.wikipedia.org/wiki/UCI_Cyclo-cross_World_Cup,UCI Cyclo-cross World Cup,uci-cyclo-cross-world-cup,uci-cyclo-cross-world-cup,UNK
+World Cup,12312312,874,369,10301463;1543977;22309191;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Rugby_League_World_Cup,Rugby League World Cup,rugby-league-world-cup,rugby-league-world-cup,ORG
+World Cup,41038712,1,16,52622,http://en.wikipedia.org/wiki/World_Cup_Park,World Cup Park,world-cup-park,world-cup-park,UNK
+World Cup,11370,5586,616,52622;147793;157233;729739;33166;250204;11867;263861;11370;723233;578468;2706303;10301463;126460;656933;22309191;951198;1543977;168079;5058739;7239;12312312,http://en.wikipedia.org/wiki/FIFA_World_Cup,FIFA World Cup,fifa-world-cup,fifa-world-cup,UNK
+World Cup,52622,2464,534,52622;126460;41038712;147793;656933;157233;729739;250204;168079;11867;5058739;11370;723233;578468,http://en.wikipedia.org/wiki/2002_FIFA_World_Cup,2002 FIFA World Cup,2002-fifa-world-cup,2002-fifa-world-cup,UNK
+World Cup,168079,3921,505,52622;147793;157233;729739;250204;11867;11370;723233;578468;126460;656933;168079,http://en.wikipedia.org/wiki/2010_FIFA_World_Cup,2010 FIFA World Cup,2010-fifa-world-cup,2010-fifa-world-cup,UNK
+World Cup,656933,3267,404,52622;147793;157233;729739;250204;11370;723233;578468;126460;656933;168079,http://en.wikipedia.org/wiki/2014_FIFA_World_Cup,2014 FIFA World Cup,2014-fifa-world-cup,2014-fifa-world-cup,UNK
+World Cup,266217,683,220,2900585;7239;266217,http://en.wikipedia.org/wiki/2007_Cricket_World_Cup,2007 Cricket World Cup,2007-cricket-world-cup,2007-cricket-world-cup,UNK
+European,9239,51349,1032,5321;9239;9317;10709;10577;11867;13058;13696;3078614;26889;8113702;191684;1553658;1168603;1338528;21493015;25996692;5058739;8707335;723233;250204,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+European,1553658,68,12,9239,http://en.wikipedia.org/wiki/European_Netherlands,European Netherlands,european-netherlands,european-netherlands,UNK
+European,1739264,4,7,674507,"http://en.wikipedia.org/wiki/European_School,_Bergen","European School, Bergen",european-school-bergen,european-school-bergen,ORG
+European,25996692,3,35,9239;674507;11867;9317,"http://en.wikipedia.org/wiki/European_School,_Karlsruhe","European School, Karlsruhe",european-school-karlsruhe,european-school-karlsruhe,UNK
+European,7432187,9,22,7432187;9317,http://en.wikipedia.org/wiki/European_Union_Public_Licence,European Union Public Licence,european-union-public-licence,european-union-public-licence,UNK
+European,23454667,3,4,674507,"http://en.wikipedia.org/wiki/European_School,_Luxembourg_II","European School, Luxembourg II",european-school-luxembourg-ii,european-school-luxembourg-ii,UNK
+European,41345734,1,9,11867;41345734,http://en.wikipedia.org/wiki/European_Group,European Group,european-group,european-group,UNK
+European,8599208,322,346,9317;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Ireland)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-ireland,UNK
+European,3402034,1943,727,13058;3402034;5321;13696;33166;10577;11867;5058739,http://en.wikipedia.org/wiki/European_Figure_Skating_Championships,European Figure Skating Championships,european-figure-skating-championships,european-figure-skating-championships,UNK
+European,9317,19822,836,1490969;33166;8599208;21493015;8707335;1014388;7432187;5321;9239;9317;10577;11867;13058;36091903;13696;191684;616004;15125201;2333629;25996692;1168603;6430550;5058739,http://en.wikipedia.org/wiki/European_Union,European Union,european-union,european-union,UNK
+European,1014388,7,9,11867;9317;674507,"http://en.wikipedia.org/wiki/European_School,_Munich","European School, Munich",european-school-munich,european-school-munich,ORG
+European,1338528,556,124,9239,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+European,2333629,3,14,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Varese","European School, Varese",european-school-varese,european-school-varese,ORG
+European,674507,33,58,1739264;1991050;2333629;23454667;36091903;1014388;25996692;191684,http://en.wikipedia.org/wiki/European_School,European School,european-school,european-school,UNK
+European,31465880,8,18,,http://en.wikipedia.org/wiki/The_European_(2009_magazine),The European,the-european,the-european-2009-magazine,UNK
+European,11696187,17,37,,http://en.wikipedia.org/wiki/European_Song,European Song,european-song,european-song,UNK
+European,36091903,3,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Brussels_III","European School, Brussels III",european-school-brussels-iii,european-school-brussels-iii,ORG
+European,15125201,307,276,9317;8599208;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Portugal)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-portugal,UNK
+European,20919804,2,28,20919804,http://en.wikipedia.org/wiki/The_European_(1953_magazine),The European,the-european,the-european-1953-magazine,ORG
+European,1168603,28,107,9239;5058739;9317;11867,http://en.wikipedia.org/wiki/European_Round_Table_of_Industrialists,European Round Table of Industrialists,european-round-table-of-industrialists,european-round-table-of-industrialists,UNK
+European,8707335,5,14,11867;9317;9239,http://en.wikipedia.org/wiki/European_Journal,European Journal,european-journal,european-journal,UNK
+European,616004,129,58,9317;616004,http://en.wikipedia.org/wiki/European_Foundation_(think_tank),European Foundation,european-foundation,european-foundation-think-tank,ORG
+European,17428699,4,24,,http://en.wikipedia.org/wiki/European_Institute,European Institute,european-institute,european-institute,ORG
+European,191684,95,91,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Culham","European School, Culham",european-school-culham,european-school-culham,ORG
+European,4042903,39,29,,http://en.wikipedia.org/wiki/European_Party_(Cyprus),European Party,european-party,european-party-cyprus,UNK
+European,22546545,14,61,11867,http://en.wikipedia.org/wiki/European_University,European University,european-university,european-university,ORG
+European,1991050,8,12,674507,"http://en.wikipedia.org/wiki/European_School,_Mol","European School, Mol",european-school-mol,european-school-mol,UNK
+European,1338717,69,62,,http://en.wikipedia.org/wiki/The_European_(newspaper),The European,the-european,the-european-newspaper,UNK
+Ville Peltonen,3078614,112,93,9239;5058739;264865;950383;10577;263861,http://en.wikipedia.org/wiki/Ville_Peltonen,Ville Peltonen,ville-peltonen,ville-peltonen,PER
+Juha Ylonen,6277048,25,25,10577;13696,http://en.wikipedia.org/wiki/Juha_Ylönen,Juha Ylönen,juha-ylonen,juha-ylonen,PER
+Teemu Selanne,264865,228,171,263861;13696;3078614;950383;10577,http://en.wikipedia.org/wiki/Teemu_Selänne,Teemu Selänne,teemu-selanne,teemu-selanne,PER
+Jyrki Lumme,1182657,53,72,10577,http://en.wikipedia.org/wiki/Jyrki_Lumme,Jyrki Lumme,jyrki-lumme,jyrki-lumme,PER
+Janne Ojanen,11299099,43,43,950383;10577;5058739,http://en.wikipedia.org/wiki/Janne_Ojanen,Janne Ojanen,janne-ojanen,janne-ojanen,PER
+Christian Ruuttu,4570035,30,35,10577,http://en.wikipedia.org/wiki/Christian_Ruuttu,Christian Ruuttu,christian-ruuttu,christian-ruuttu,PER
+Radek Bonk,569462,60,68,263861;5321,http://en.wikipedia.org/wiki/Radek_Bonk,Radek Bonk,radek-bonk,radek-bonk,PER
+Robert Reichel,3651889,72,79,263861;5321,http://en.wikipedia.org/wiki/Robert_Reichel,Robert Reichel,robert-reichel,robert-reichel,PER
+Jiri Dopita,4077824,31,29,5321,http://en.wikipedia.org/wiki/Jiří_Dopita,Jiří Dopita,jiri-dopita,jiri-dopita,PER
+Sweden,747522,0,253,5058739;578468;3767091,http://en.wikipedia.org/wiki/Sweden_men's_national_ice_hockey_team,Sweden men's national ice hockey team,sweden-mens-national-ice-hockey-team,sweden-mens-national-ice-hockey-team,UNK
+Sweden,10791592,32,39,5058739;10791592,http://en.wikipedia.org/wiki/Sweden_Party,Sweden Party,sweden-party,sweden-party,UNK
+Sweden,38358054,40,54,133621,"http://en.wikipedia.org/wiki/Sweden_Valley,_Pennsylvania","Sweden Valley, Pennsylvania",sweden-valley-pennsylvania,sweden-valley-pennsylvania,GPE
+Sweden,37500323,20,41,,"http://en.wikipedia.org/wiki/Sweden,_Arkansas","Sweden, Arkansas",sweden-arkansas,sweden-arkansas,UNK
+Sweden,26889,163,292,9239;217537;21493015;11867;10709;5058739;26889;10577,http://en.wikipedia.org/wiki/Geography_of_Sweden,Geography of Sweden,geography-of-sweden,geography-of-sweden,UNK
+Sweden,3767091,118,72,5058739;578468;747522,http://en.wikipedia.org/wiki/Australian_rules_football_in_Sweden,Australian rules football in Sweden,australian-rules-football-in-sweden,australian-rules-football-in-sweden,PER
+Sweden,5058739,77359,853,5321;976346;9239;9317;10709;10577;11867;133621;11370;13696;157233;3078614;578468;147793;26889;949898;3767091;3402034;52622;296977;1543977;1168603;6430550;5421455;217537;5058739;2706303;10791592;723233;747522;250204;11299099,http://en.wikipedia.org/wiki/Sweden,Sweden,sweden,sweden,GPE
+Sweden,30241072,11,21,,"http://en.wikipedia.org/wiki/Sweden,_Texas","Sweden, Texas",sweden-texas,sweden-texas,UNK
+Sweden,126646,65,64,,"http://en.wikipedia.org/wiki/Sweden,_New_York","Sweden, New York",sweden-new-york,sweden-new-york,GPE
+Sweden,133621,43,54,5058739;38358054,"http://en.wikipedia.org/wiki/Sweden_Township,_Potter_County,_Pennsylvania","Sweden Township, Potter County, Pennsylvania",sweden-township-potter-county-pennsylvania,sweden-township-potter-county-pennsylvania,GPE
+Sweden,976346,30,39,5058739,http://en.wikipedia.org/wiki/Name_of_Sweden,Name of Sweden,name-of-sweden,name-of-sweden,UNK
+Sweden,578468,3430,805,52622;147793;157233;729739;33166;747522;10577;250204;11867;11370;723233;578468;126460;656933;13696;168079;5058739;3767091,http://en.wikipedia.org/wiki/Sweden_national_football_team,Sweden national football team,sweden-national-football-team,sweden-national-football-team,UNK
+Sweden,116094,60,85,,"http://en.wikipedia.org/wiki/Sweden,_Maine","Sweden, Maine",sweden-maine,sweden-maine,GPE
+Sweden,217537,459,295,5058739;217537;26889;10577,http://en.wikipedia.org/wiki/Union_between_Sweden_and_Norway,Union between Sweden and Norway,union-between-sweden-and-norway,union-between-sweden-and-norway,GPE
+Sweden,6430550,146,185,9317;5058739,http://en.wikipedia.org/wiki/Sweden_and_the_euro,Sweden and the euro,sweden-and-the-euro,sweden-and-the-euro,UNK
+Germany,952624,0,150,250204;11867,http://en.wikipedia.org/wiki/Germany_men's_national_ice_hockey_team,Germany men's national ice hockey team,germany-mens-national-ice-hockey-team,germany-mens-national-ice-hockey-team,UNK
+Germany,26004346,1,6,,http://en.wikipedia.org/wiki/Germany_Foundation,Germany Foundation,germany-foundation,germany-foundation,UNK
+Germany,11159076,19,29,33166,"http://en.wikipedia.org/wiki/Germany,_Pale_Mother","Germany, Pale Mother",germany-pale-mother,germany-pale-mother,UNK
+Germany,40919574,2,12,40919574,"http://en.wikipedia.org/wiki/Germany,_Texas","Germany, Texas",germany-texas,germany-texas,UNK
+Germany,11867,167535,1367,5321;9239;9317;10709;10577;11867;11370;13058;13696;578468;6108409;2793759;26889;8113702;33166;3402034;52622;27138927;1168603;5064191;21493015;41345734;5058739;8707335;883816;131046;126460;157233;147793;951198;952624;949898;168079;1543977;22546545;5421455;25996692;1490969;729739;2706303;22309191;1014388;3197752;723233;3190225;250204,http://en.wikipedia.org/wiki/Germany,Germany,germany,germany,GPE
+Germany,2793759,83,197,11867,http://en.wikipedia.org/wiki/Communist_Party_of_Germany_(1990),Communist Party of Germany,communist-party-of-germany,communist-party-of-germany-1990,UNK
+Germany,6108409,53,68,11867,http://en.wikipedia.org/wiki/Germany_(Epcot),Germany,germany,germany-epcot,UNK
+Germany,1271511,0,0,,"http://en.wikipedia.org/wiki/Little_Germany,_Ontario","Little Germany, Ontario",little-germany-ontario,little-germany-ontario,UNK
+Germany,884716,1,4,8113702,http://en.wikipedia.org/wiki/Little_Germany,Little Germany,little-germany,little-germany,UNK
+Germany,131046,77,98,11867,"http://en.wikipedia.org/wiki/Germany_Township,_Adams_County,_Pennsylvania","Germany Township, Adams County, Pennsylvania",germany-township-adams-county-pennsylvania,germany-township-adams-county-pennsylvania,GPE
+Germany,21493015,248,403,13058;33166;21493015;11867;1490969;5321;9239;9317;10709;26889,http://en.wikipedia.org/wiki/Geography_of_Germany,Geography of Germany,geography-of-germany,geography-of-germany,UNK
+Germany,27138927,71,105,27138927;11867,http://en.wikipedia.org/wiki/The_Biggest_Loser_Germany,The Biggest Loser Germany,the-biggest-loser-germany,the-biggest-loser-germany,ORG
+Germany,8113702,170,233,9239;884716;11867,"http://en.wikipedia.org/wiki/Little_Germany,_Bradford","Little Germany, Bradford",little-germany-bradford,little-germany-bradford,UNK
+Germany,33166,17376,488,1490969;21493015;9317;11867;11370;723233;13058;3402034;13696;11159076;157233;3190225;578468;250204,http://en.wikipedia.org/wiki/West_Germany,West Germany,west-germany,west-germany,GPE
+Germany,11947058,137,165,,http://en.wikipedia.org/wiki/Germany_Valley,Germany Valley,germany-valley,germany-valley,UNK
+Germany,883816,158,187,11867,"http://en.wikipedia.org/wiki/Little_Germany,_Manhattan","Little Germany, Manhattan",little-germany-manhattan,little-germany-manhattan,UNK
+Germany,3190225,341,109,13058;33166;11867,http://en.wikipedia.org/wiki/Kingdom_of_Germany,Kingdom of Germany,kingdom-of-germany,kingdom-of-germany,GPE
+Germany,250204,3856,681,52622;147793;157233;9239;729739;33166;250204;11867;11370;723233;578468;13058;126460;656933;952624;168079;5058739,http://en.wikipedia.org/wiki/Germany_national_football_team,Germany national football team,germany-national-football-team,germany-national-football-team,UNK
+Germany,1490969,272,272,13058;33166;11685701;21493015;11867;1490969;9317,http://en.wikipedia.org/wiki/Religion_in_Germany,Religion in Germany,religion-in-germany,religion-in-germany,UNK
+Germany,5064191,123,136,11867,"http://en.wikipedia.org/wiki/Germany,_Year_Zero","Germany, Year Zero",germany-year-zero,germany-year-zero,UNK
+Germany,13058,10184,611,1490969;3190225;33166;21493015;147793;9239;9317;250204;11867;13058;3402034,http://en.wikipedia.org/wiki/East_Germany,East Germany,east-germany,east-germany,GPE
+Germany,41476893,1,36,,http://en.wikipedia.org/wiki/Germany_Kent,Germany Kent,germany-kent,germany-kent,PER

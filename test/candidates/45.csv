@@ -1,0 +1,60 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+GOTHENBURG,475370,1267,507,13275;2918991;475370;861261;11861;5058739;44220;578468,http://en.wikipedia.org/wiki/IFK_Göteborg,IFK Göteborg,ifk-goteborg,ifk-goteborg,UNK
+GOTHENBURG,123853,48,62,5058739;11861,"http://en.wikipedia.org/wiki/Gothenburg,_Nebraska","Gothenburg, Nebraska",gothenburg-nebraska,gothenburg-nebraska,GPE
+GOTHENBURG,11861,5874,754,5858941;1019554;11861;12218;26889;578468;18858593;475370;5058739;3767091;123853,http://en.wikipedia.org/wiki/Gothenburg,Gothenburg,gothenburg,gothenburg,GPE
+GOTHENBURG,18858593,0,4,5058739;11861,http://en.wikipedia.org/wiki/Gothenburg_Airport,Gothenburg Airport,gothenburg-airport,gothenburg-airport,UNK
+GOTHENBURG,5858941,108,145,1019554;11861,http://en.wikipedia.org/wiki/Gothenburg_discothèque_fire,Gothenburg discothèque fire,gothenburg-discotheque-fire,gothenburg-discotheque-fire,UNK
+GOTHENBURG,12218,345,128,11861;12218;5058739,http://en.wikipedia.org/wiki/University_of_Gothenburg,University of Gothenburg,university-of-gothenburg,university-of-gothenburg,ORG
+GOTHENBURG,1019554,252,268,11861;5858941;5058739,http://en.wikipedia.org/wiki/Gothenburg_Municipality,Gothenburg Municipality,gothenburg-municipality,gothenburg-municipality,GPE
+FERENCVAROS,861261,1135,742,13275;1395649;36787;44220;475370;6810641;5058739;679739,http://en.wikipedia.org/wiki/Ferencvárosi_TC,Ferencvárosi TC,ferencvarosi-tc,ferencvarosi-tc,UNK
+FERENCVAROS,1395649,64,62,36787;13275;861261;1395649,http://en.wikipedia.org/wiki/Ferencváros,Ferencváros,ferencvaros,ferencvaros,UNK
+EURO CUP,249510,1682,492,13275;44220;5058739;679739;578468,http://en.wikipedia.org/wiki/UEFA_European_Championship,UEFA European Championship,uefa-european-championship,uefa-european-championship,UNK
+EURO CUP,14789589,2,24,,http://en.wikipedia.org/wiki/Euro-Cup,Euro-Cup,euro-cup,euro-cup,UNK
+BUDAPEST,36787,11402,907,1849465;11668053;36787;1864538;578468;1598647;38163771;6810641;27544196;879716;861261;679739;13275;1395649;13425;5058739,http://en.wikipedia.org/wiki/Budapest,Budapest,budapest,budapest,GPE
+BUDAPEST,1849465,12,31,13275;36787,"http://en.wikipedia.org/wiki/Budapest,_Georgia","Budapest, Georgia",budapest-georgia,budapest-georgia,UNK
+BUDAPEST,12751433,3,6,13275;37103142,http://en.wikipedia.org/wiki/Budapest_school,Budapest school,budapest-school,budapest-school,PER
+BUDAPEST,1116786,2,9,,http://en.wikipedia.org/wiki/Budapest_(band),Budapest,budapest,budapest-band,UNK
+BUDAPEST,37103142,12,140,13275;12751433,http://en.wikipedia.org/wiki/Budapest_School_(Lukács),Budapest School,budapest-school,budapest-school-lukacs,UNK
+BUDAPEST,27544196,1,13,13275;1864538;36787,http://en.wikipedia.org/wiki/Little_Budapest,Little Budapest,little-budapest,little-budapest,GPE
+BUDAPEST,38163771,19,27,36787,http://en.wikipedia.org/wiki/Budapest_(film_series),Budapest,budapest,budapest-film-series,UNK
+BUDAPEST,1849441,14,3,,"http://en.wikipedia.org/wiki/Budapest,_Missouri","Budapest, Missouri",budapest-missouri,budapest-missouri,GPE
+BUDAPEST,1864538,12,6,13275;27544196;36787,http://en.wikipedia.org/wiki/Greater_Budapest,Greater Budapest,greater-budapest,greater-budapest,UNK
+IFK Gothenburg,475370,1267,507,13275;2918991;475370;861261;11861;5058739;44220;578468,http://en.wikipedia.org/wiki/IFK_Göteborg,IFK Göteborg,ifk-goteborg,ifk-goteborg,UNK
+Sweden,5058739,77359,853,18858593;976346;2918991;11861;12218;133621;13275;19712546;578468;26889;36787;3767091;44220;679739;3663961;6430550;475370;217537;1019554;5058739;10791592;861261;249510;123853,http://en.wikipedia.org/wiki/Sweden,Sweden,sweden,sweden,GPE
+Sweden,10791592,32,39,5058739;10791592,http://en.wikipedia.org/wiki/Sweden_Party,Sweden Party,sweden-party,sweden-party,UNK
+Sweden,38358054,40,54,133621,"http://en.wikipedia.org/wiki/Sweden_Valley,_Pennsylvania","Sweden Valley, Pennsylvania",sweden-valley-pennsylvania,sweden-valley-pennsylvania,GPE
+Sweden,578468,3430,805,36787;11861;679739;578468;13275;249510;2918991;475370;5058739;3767091,http://en.wikipedia.org/wiki/Sweden_national_football_team,Sweden national football team,sweden-national-football-team,sweden-national-football-team,UNK
+Sweden,37500323,20,41,,"http://en.wikipedia.org/wiki/Sweden,_Arkansas","Sweden, Arkansas",sweden-arkansas,sweden-arkansas,UNK
+Sweden,217537,459,295,5058739;217537;26889,http://en.wikipedia.org/wiki/Union_between_Sweden_and_Norway,Union between Sweden and Norway,union-between-sweden-and-norway,union-between-sweden-and-norway,GPE
+Sweden,30241072,11,21,,"http://en.wikipedia.org/wiki/Sweden,_Texas","Sweden, Texas",sweden-texas,sweden-texas,UNK
+Sweden,126646,65,64,,"http://en.wikipedia.org/wiki/Sweden,_New_York","Sweden, New York",sweden-new-york,sweden-new-york,GPE
+Sweden,133621,43,54,5058739;38358054,"http://en.wikipedia.org/wiki/Sweden_Township,_Potter_County,_Pennsylvania","Sweden Township, Potter County, Pennsylvania",sweden-township-potter-county-pennsylvania,sweden-township-potter-county-pennsylvania,GPE
+Sweden,976346,30,39,5058739,http://en.wikipedia.org/wiki/Name_of_Sweden,Name of Sweden,name-of-sweden,name-of-sweden,UNK
+Sweden,3767091,118,72,5058739;578468;11861,http://en.wikipedia.org/wiki/Australian_rules_football_in_Sweden,Australian rules football in Sweden,australian-rules-football-in-sweden,australian-rules-football-in-sweden,PER
+Sweden,26889,163,292,217537;11861;5058739;26889;13425,http://en.wikipedia.org/wiki/Geography_of_Sweden,Geography of Sweden,geography-of-sweden,geography-of-sweden,UNK
+Sweden,116094,60,85,,"http://en.wikipedia.org/wiki/Sweden,_Maine","Sweden, Maine",sweden-maine,sweden-maine,GPE
+Sweden,6430550,146,185,5058739,http://en.wikipedia.org/wiki/Sweden_and_the_euro,Sweden and the euro,sweden-and-the-euro,sweden-and-the-euro,UNK
+Ferencvaros,861261,1135,742,13275;1395649;36787;44220;475370;6810641;5058739;679739,http://en.wikipedia.org/wiki/Ferencvárosi_TC,Ferencvárosi TC,ferencvarosi-tc,ferencvarosi-tc,UNK
+Ferencvaros,1395649,64,62,36787;13275;861261;1395649,http://en.wikipedia.org/wiki/Ferencváros,Ferencváros,ferencvaros,ferencvaros,UNK
+Hungary,13275,41515,1160,37103142;13275;12751433;1395649;13425;475370;11668053;578468;6810641;27544196;5058739;36787;1864538;879716;41235379;41235373;1849465;1598647;38391788;861261;679739;249510,http://en.wikipedia.org/wiki/Hungary,Hungary,hungary,hungary,GPE
+Hungary,13425,428,325,13275;879716;11668053;36787;26889;13425;41235379;1598647;41235373,http://en.wikipedia.org/wiki/Geography_of_Hungary,Geography of Hungary,geography-of-hungary,geography-of-hungary,UNK
+Hungary,679739,2201,810,13275;249510;36787;6810641;861261;5058739;578468,http://en.wikipedia.org/wiki/Hungary_national_football_team,Hungary national football team,hungary-national-football-team,hungary-national-football-team,UNK
+Hungary,1745221,135,156,879716;1745221,http://en.wikipedia.org/wiki/Greater_Hungary_(political_concept),Greater Hungary,greater-hungary,greater-hungary-political-concept,UNK
+Hungary,41235379,187,368,13275;879716;11668053;13425;1598647;41235373,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1301–1526),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1301–1526,UNK
+Hungary,11668053,295,214,13275;879716;36787;13425;41235379;1598647;41235373,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1920–46),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1920–46,GPE
+Hungary,879716,3332,324,11668053;36787;41235379;41235373;13275;1598647;13425;1745221,http://en.wikipedia.org/wiki/Kingdom_of_Hungary,Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary,GPE
+Hungary,1598647,125,179,36787;13275;879716;13425;11668053;41235379;1598647;41235373,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1526–1867),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1526–1867,GPE
+Hungary,41235373,187,393,13275;879716;11668053;13425;41235379;1598647,http://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1000–1301),Kingdom of Hungary,kingdom-of-hungary,kingdom-of-hungary-1000–1301,UNK
+European Champions Cup,44220,8761,538,44220;861261;249510;475370;3663961;5058739,http://en.wikipedia.org/wiki/UEFA_Champions_League,UEFA Champions League,uefa-champions-league,uefa-champions-league,UNK
+European Champions Cup,3663961,1346,231,3663961;5058739;44220,http://en.wikipedia.org/wiki/IIHF_European_Champions_Cup,IIHF European Champions Cup,iihf-european-champions-cup,iihf-european-champions-cup,ORG
+Gothenburg,475370,1267,507,13275;2918991;475370;861261;11861;5058739;44220;578468,http://en.wikipedia.org/wiki/IFK_Göteborg,IFK Göteborg,ifk-goteborg,ifk-goteborg,UNK
+Gothenburg,123853,48,62,5058739;11861,"http://en.wikipedia.org/wiki/Gothenburg,_Nebraska","Gothenburg, Nebraska",gothenburg-nebraska,gothenburg-nebraska,GPE
+Gothenburg,11861,5874,754,5858941;1019554;11861;12218;26889;578468;18858593;475370;5058739;3767091;123853,http://en.wikipedia.org/wiki/Gothenburg,Gothenburg,gothenburg,gothenburg,GPE
+Gothenburg,18858593,0,4,5058739;11861,http://en.wikipedia.org/wiki/Gothenburg_Airport,Gothenburg Airport,gothenburg-airport,gothenburg-airport,UNK
+Gothenburg,5858941,108,145,1019554;11861,http://en.wikipedia.org/wiki/Gothenburg_discothèque_fire,Gothenburg discothèque fire,gothenburg-discotheque-fire,gothenburg-discotheque-fire,UNK
+Gothenburg,12218,345,128,11861;12218;5058739,http://en.wikipedia.org/wiki/University_of_Gothenburg,University of Gothenburg,university-of-gothenburg,university-of-gothenburg,ORG
+Gothenburg,1019554,252,268,11861;5858941;5058739,http://en.wikipedia.org/wiki/Gothenburg_Municipality,Gothenburg Municipality,gothenburg-municipality,gothenburg-municipality,GPE
+Ferenc Horvath,6810641,128,83,38391788;36787;13275;861261;679739,http://en.wikipedia.org/wiki/Ferenc_Horváth,Ferenc Horváth,ferenc-horvath,ferenc-horvath,PER
+Ferenc Horvath,38391788,1,4,13275;6810641,http://en.wikipedia.org/wiki/Ferenc_Horváth_(cyclist),Ferenc Horváth,ferenc-horvath,ferenc-horvath-cyclist,PER
+Andreas Andersson,2918991,133,107,475370;5058739;578468;19712546,http://en.wikipedia.org/wiki/Andreas_Andersson,Andreas Andersson,andreas-andersson,andreas-andersson,PER
+Andreas Andersson,19712546,12,19,5058739;2918991,http://en.wikipedia.org/wiki/Andreas_Andersson_(ice_hockey),Andreas Andersson,andreas-andersson,andreas-andersson-ice-hockey,PER

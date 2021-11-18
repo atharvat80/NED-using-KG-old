@@ -1,0 +1,65 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+LONDON,17867,92094,1769,33567266;27902154;423106;12249;1679120;823473;17867;13190957;7726184;22496127;1290035;12917769;187448;3879356;2023355;3866427;22437586;98370;238524;118409;1113158;23979191,http://en.wikipedia.org/wiki/London,London,london,london,GPE
+LONDON,12249,3253,543,2193334;17867;640154;118409;1113158;1679120;98370;423106,http://en.wikipedia.org/wiki/Greater_London,Greater London,greater-london,greater-london,UNK
+LONDON,2193334,214,159,1113158;12249,http://en.wikipedia.org/wiki/First_London,First London,first-london,first-london,UNK
+LONDON,98370,828,279,17867;1679120;12249;2023355;423106,http://en.wikipedia.org/wiki/London_Bridge,London Bridge,london-bridge,london-bridge,UNK
+LONDON,326248,1048,124,,http://en.wikipedia.org/wiki/London_Records,London Records,london-records,london-records,UNK
+LONDON,10288172,0,1,,"http://en.wikipedia.org/wiki/London,_KY_μSA","London, KY μSA",london-ky-μsa,london-ky-μsa,PER
+LONDON,2023355,27,32,17867;98370,http://en.wikipedia.org/wiki/London_Bridge_(Lake_Havasu_City),London Bridge,london-bridge,london-bridge-lake-havasu-city,UNK
+LONDON,33567266,19,43,17867,"http://en.wikipedia.org/wiki/London,_Paris,_New_York","London, Paris, New York",london-paris-new-york,london-paris-new-york,UNK
+LONDON,19068853,184,199,,"http://en.wikipedia.org/wiki/London,_West_Virginia","London, West Virginia",london-west-virginia,london-west-virginia,GPE
+LONDON,1113158,173,161,2193334;17867;12249,http://en.wikipedia.org/wiki/London_General,London General,london-general,london-general,UNK
+LONDON,23979191,20,18,17867,http://en.wikipedia.org/wiki/London_(Mortal_Engines_Quartet),London,london,london-mortal-engines-quartet,UNK
+LONDON,238524,118,60,17867,http://en.wikipedia.org/wiki/London_Company,London Company,london-company,london-company,ORG
+LONDON,32520400,182,200,,"http://en.wikipedia.org/wiki/London,_Wisconsin","London, Wisconsin",london-wisconsin,london-wisconsin,UNK
+LONDON,1848281,0,20,264093,http://en.wikipedia.org/wiki/London_Airport,London Airport,london-airport,london-airport,UNK
+LONDON,6725314,45,44,3879356,http://en.wikipedia.org/wiki/London_(heavy_metal_band),London,london,london-heavy-metal-band,UNK
+LONDON,3879356,3,27,6725314;17867,http://en.wikipedia.org/wiki/London_(punk_band),London,london,london-punk-band,UNK
+LONDON,187448,1900,216,823473;17867;508567;640154,"http://en.wikipedia.org/wiki/London,_Midland_and_Scottish_Railway","London, Midland and Scottish Railway",london-midland-and-scottish-railway,london-midland-and-scottish-railway,UNK
+LONDON,27648871,110,284,18745841,"http://en.wikipedia.org/wiki/London,_KY_Micropolitan_Statistical_Area","London, KY Micropolitan Statistical Area",london-ky-micropolitan-statistical-area,london-ky-micropolitan-statistical-area,ORG
+LONDON,423106,380,196,17867;12249;98370,http://en.wikipedia.org/wiki/BBC_London,BBC London,bbc-london,bbc-london,UNK
+LONDON,118409,547,127,17867;12249,http://en.wikipedia.org/wiki/London_postal_district,London postal district,london-postal-district,london-postal-district,GPE
+LONDON,9037218,5,13,,http://en.wikipedia.org/wiki/London_(Belgrade),London,london,london-belgrade,UNK
+LONDON,7984054,3,37,,"http://en.wikipedia.org/wiki/London,_Quo_Warranto_Judgment_Reversed_Act_1689","London, Quo Warranto Judgment Reversed Act 1689",london-quo-warranto-judgment-reversed-act-1689,london-quo-warranto-judgment-reversed-act-1689,UNK
+LONDON,27902154,0,7,17867,http://en.wikipedia.org/wiki/Dickens'_London,Dickens' London,dickens-london,dickens-london,ORG
+LONDON,13190957,2,122,17867,"http://en.wikipedia.org/wiki/London,_Jazz_Café,_England_–_December_4,_1997","London, Jazz Café, England – December 4, 1997",london-jazz-cafe-england-–-december-4-1997,london-jazz-cafe-england-–-december-4-1997,UNK
+LONDON,18745841,0,1,27648871,"http://en.wikipedia.org/wiki/London,_KY_µSA","London, KY µSA",london-ky-µsa,london-ky-µsa,PER
+LONDON,1787620,113,93,,http://en.wikipedia.org/wiki/London_(electoral_district),London,london,london-electoral-district,PER
+LONDON,22437586,76,82,17867,http://en.wikipedia.org/wiki/.london,.london,london,london,UNK
+LONDON,823473,354,150,187448;17867;508567,"http://en.wikipedia.org/wiki/London,_Chatham_and_Dover_Railway","London, Chatham and Dover Railway",london-chatham-and-dover-railway,london-chatham-and-dover-railway,UNK
+LONDON,8591270,5,9,,"http://en.wikipedia.org/wiki/London,_Kiribati","London, Kiribati",london-kiribati,london-kiribati,UNK
+LONDON,508567,484,369,823473;187448,"http://en.wikipedia.org/wiki/London,_Brighton_and_South_Coast_Railway","London, Brighton and South Coast Railway",london-brighton-and-south-coast-railway,london-brighton-and-south-coast-railway,UNK
+LONDON,1290035,16,9,17867,http://en.wikipedia.org/wiki/London_Journal,London Journal,london-journal,london-journal,UNK
+LONDON,264093,1797,198,1848281,http://en.wikipedia.org/wiki/London_International_Airport,London International Airport,london-international-airport,london-international-airport,UNK
+LONDON,10820591,39,38,,"http://en.wikipedia.org/wiki/London,_1802","London, 1802",london-1802,london-1802,UNK
+LONDON,37888115,2,8,,"http://en.wikipedia.org/wiki/London,_Burgundy","London, Burgundy",london-burgundy,london-burgundy,UNK
+LONDON,1679120,12,181,17867;98370;12249,http://en.wikipedia.org/wiki/Geography_of_London,Geography of London,geography-of-london,geography-of-london,UNK
+LONDON,40493,18,33,,"http://en.wikipedia.org/wiki/London,_Texas","London, Texas",london-texas,london-texas,UNK
+LONDON,640154,265,252,187448;12249,"http://en.wikipedia.org/wiki/London,_Tilbury_and_Southend_Railway","London, Tilbury and Southend Railway",london-tilbury-and-southend-railway,london-tilbury-and-southend-railway,UNK
+LONDON,2498654,12,24,,"http://en.wikipedia.org/wiki/London,_Ontario_railway_station","London, Ontario railway station",london-ontario-railway-station,london-ontario-railway-station,UNK
+John Lewis,386085,171,76,3866427;12917769;386085;386090,http://en.wikipedia.org/wiki/John_Lewis_Partnership,John Lewis Partnership,john-lewis-partnership,john-lewis-partnership,UNK
+John Lewis,37963649,16,27,,http://en.wikipedia.org/wiki/John_Lewis_(Arizona_politician),John Lewis,john-lewis,john-lewis-arizona-politician,PER
+John Lewis,36548582,0,13,,http://en.wikipedia.org/wiki/John_Lewis_(footballer_born_1954),John Lewis,john-lewis,john-lewis-footballer-born-1954,PER
+John Lewis,31628432,11,41,,http://en.wikipedia.org/wiki/John_Lewis_(antiquarian),John Lewis,john-lewis,john-lewis-antiquarian,PER
+John Lewis,3866427,272,162,17867;12917769;386085;386090,http://en.wikipedia.org/wiki/John_Lewis_(department_store),John Lewis,john-lewis,john-lewis-department-store,ORG
+John Lewis,9442702,54,60,,http://en.wikipedia.org/wiki/John_Lewis_(footballer_born_1955),John Lewis,john-lewis,john-lewis-footballer-born-1955,PER
+John Lewis,40879020,1,10,,http://en.wikipedia.org/wiki/John_Lewis_(Montana_politician),John Lewis,john-lewis,john-lewis-montana-politician,PER
+John Lewis,17445613,20,44,17445613,http://en.wikipedia.org/wiki/John_Lewis_(fighter),John Lewis,john-lewis,john-lewis-fighter,UNK
+John Lewis,16077908,8,9,,http://en.wikipedia.org/wiki/John_Lewis_(Canadian_politician),John Lewis,john-lewis,john-lewis-canadian-politician,PER
+John Lewis,24912030,9,18,,http://en.wikipedia.org/wiki/John_Lewis_(headmaster),John Lewis,john-lewis,john-lewis-headmaster,PER
+John Lewis,411737,131,827,,http://en.wikipedia.org/wiki/John_Lewis_(politician),John Lewis,john-lewis,john-lewis-politician,PER
+John Lewis,7726184,23,33,17867,http://en.wikipedia.org/wiki/John_Lewis_(referee),John Lewis,john-lewis,john-lewis-referee,UNK
+John Lewis,37680077,5,24,,http://en.wikipedia.org/wiki/John_Lewis_(typographer),John Lewis,john-lewis,john-lewis-typographer,PER
+John Lewis,38646911,22,33,,http://en.wikipedia.org/wiki/John_Lewis_(philosopher),John Lewis,john-lewis,john-lewis-philosopher,PER
+John Lewis,24218192,7,17,,http://en.wikipedia.org/wiki/Arthur_John_Lewis,Arthur John Lewis,arthur-john-lewis,arthur-john-lewis,PER
+John Lewis,22154956,14,18,,http://en.wikipedia.org/wiki/John_Lewis_(California_politician),John Lewis,john-lewis,john-lewis-california-politician,PER
+John Lewis,10905698,9,21,,http://en.wikipedia.org/wiki/John_Lewis_(footballer_born_1881),John Lewis,john-lewis,john-lewis-footballer-born-1881,PER
+John Lewis,6154653,11,27,,http://en.wikipedia.org/wiki/John_Lewis_(UK_politician),John Lewis,john-lewis,john-lewis-uk-politician,PER
+John Lewis,25165187,3,12,,http://en.wikipedia.org/wiki/John_Lewis_(Newfoundland_politician),John Lewis,john-lewis,john-lewis-newfoundland-politician,PER
+John Lewis,16285308,1,7,,http://en.wikipedia.org/wiki/John_Lewis_(educator),John Lewis,john-lewis,john-lewis-educator,PER
+John Lewis,37486561,0,5,,http://en.wikipedia.org/wiki/John_Lewis_(musician),John Lewis,john-lewis,john-lewis-musician,UNK
+John Lewis,12917769,10,27,17867;3866427;386085,http://en.wikipedia.org/wiki/John_Lewis_(department_store_founder),John Lewis,john-lewis,john-lewis-department-store-founder,PER
+John Lewis,22496127,8,28,17867,http://en.wikipedia.org/wiki/Edward_John_Lewis,Edward John Lewis,edward-john-lewis,edward-john-lewis,PER
+John Lewis,310810,250,97,,http://en.wikipedia.org/wiki/John_Lewis_(pianist),John Lewis,john-lewis,john-lewis-pianist,PER
+John Lewis,23855647,4,12,,http://en.wikipedia.org/wiki/John_Lewis_(Canadian_senator),John Lewis,john-lewis,john-lewis-canadian-senator,PER
+Waitrose,386090,469,278,386085;3866427,http://en.wikipedia.org/wiki/Waitrose,Waitrose,waitrose,waitrose,UNK

@@ -1,0 +1,260 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Wall Street,21560,3655,411,43505;157649;1488;1470149;538722;173070;8210131;21559;47361;170992;37274;645042,http://en.wikipedia.org/wiki/New_York_Stock_Exchange,New York Stock Exchange,new-york-stock-exchange,new-york-stock-exchange,UNK
+Wall Street,173070,6225,286,157649;1488;33057;3356;21560;37274;645042;22637915;164386;8210131;47361;46638;31747730,http://en.wikipedia.org/wiki/The_Wall_Street_Journal,The Wall Street Journal,the-wall-street-journal,the-wall-street-journal,UNK
+Wall Street,538722,45,36,37274;21560;645042,http://en.wikipedia.org/wiki/Wall_Street_bombing,Wall Street bombing,wall-street-bombing,wall-street-bombing,UNK
+Wall Street,28015003,9,33,,"http://en.wikipedia.org/wiki/Wall_Street_Historic_District_(Norwalk,_Connecticut)",Wall Street Historic District,wall-street-historic-district,wall-street-historic-district-norwalk-connecticut,UNK
+Wall Street,2766979,81,197,,http://en.wikipedia.org/wiki/Wall_Street_Institute,Wall Street Institute,wall-street-institute,wall-street-institute,ORG
+Wall Street,22637915,136,166,173070;37274;21559,http://en.wikipedia.org/wiki/Wall_Street:_Money_Never_Sleeps,Wall Street: Money Never Sleeps,wall-street-money-never-sleeps,wall-street-money-never-sleeps,UNK
+Wall Street,37274,2278,668,108956;21560;21559;13015878;729331;157649;1488;5043544;10819;645042;2194942;538722;173070;22637915;1498884;8210131,http://en.wikipedia.org/wiki/Wall_Street,Wall Street,wall-street,wall-street,UNK
+Wall Street,1498884,24,23,729331;37274,http://en.wikipedia.org/wiki/Wall_Street_(IRT_Broadway_–_Seventh_Avenue_Line),Wall Street,wall-street,wall-street-irt-broadway-–-seventh-avenue-line,UNK
+Wall Street,157649,724,137,37274;21560;173070;47361,http://en.wikipedia.org/wiki/Wall_Street_Crash_of_1929,Wall Street Crash of 1929,wall-street-crash-of-1929,wall-street-crash-of-1929,ORG
+Wall Street,37845530,0,14,,http://en.wikipedia.org/wiki/Wall_Street_(1915_photograph),Wall Street,wall-street,wall-street-1915-photograph,UNK
+Wall Street,729331,20,119,1498884;8210131;37274,http://en.wikipedia.org/wiki/Wall_Street_(IRT_Lexington_Avenue_Line),Wall Street,wall-street,wall-street-irt-lexington-avenue-line,UNK
+Wall Street,3355611,33,38,,http://en.wikipedia.org/wiki/Erin_Street_&_Wall_Street,Erin Street & Wall Street,erin-street-wall-street,erin-street-wall-street,UNK
+NEW YORK,645042,77367,1542,1488;2499282;6115598;21560;21559;21769969;25433;8210131;27746113;173070;26035579;667548;37274;5043544;816554;538722;164386;46638;3880857;351876;7402167;2194942;2585447;645042;20232735;13141861;598652;1857066;108956;17292183;606772;115760;31747730,http://en.wikipedia.org/wiki/New_York_City,New York City,new-york-city,new-york-city,GPE
+NEW YORK,39062092,3,8,,http://en.wikipedia.org/wiki/New_York_EP,New York EP,new-york-ep,new-york-ep,UNK
+NEW YORK,5710132,2,12,,"http://en.wikipedia.org/wiki/New_York,_Auburn_and_Lansing_Railroad","New York, Auburn and Lansing Railroad",new-york-auburn-and-lansing-railroad,new-york-auburn-and-lansing-railroad,UNK
+NEW YORK,7783835,0,46,,http://en.wikipedia.org/wiki/New_York_City_(You're_a_Woman),New York City,new-york-city,new-york-city-youre-a-woman,UNK
+NEW YORK,2001239,3,3,,"http://en.wikipedia.org/wiki/New_York,_Newfoundland_and_London_Telegraph_Company","New York, Newfoundland and London Telegraph Company",new-york-newfoundland-and-london-telegraph-company,new-york-newfoundland-and-london-telegraph-company,UNK
+NEW YORK,8210131,70636,932,1488;3356;2499282;10819;6115598;21560;21559;16258552;8210131;173070;667548;37274;5043544;816554;42172;13498874;7986044;16973787;1178330;14889289;3880857;351876;7402167;2194942;781322;891699;645042;13015878;729331;13141861;598652;111084;108956;14261610;606772;259248;115566,http://en.wikipedia.org/wiki/New_York,New York,new-york,new-york,UNK
+NEW YORK,1159194,10,261,,"http://en.wikipedia.org/wiki/New_York,_Lincolnshire","New York, Lincolnshire",new-york-lincolnshire,new-york-lincolnshire,UNK
+NEW YORK,17292183,104,126,645042,"http://en.wikipedia.org/wiki/New_York,_I_Love_You","New York, I Love You",new-york-i-love-you,new-york-i-love-you,UNK
+NEW YORK,7402167,6,16,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_New_York_(So_Good_They_Named_It_Twice)","New York, New York",new-york-new-york,new-york-new-york-so-good-they-named-it-twice,UNK
+NEW YORK,816554,492,446,891699;351876;645042;2499282;8210131;26723573,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_and_Western_Railway","New York, Susquehanna and Western Railway",new-york-susquehanna-and-western-railway,new-york-susquehanna-and-western-railway,UNK
+NEW YORK,891699,493,307,351876;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_Chicago_and_St._Louis_Railroad","New York, Chicago and St. Louis Railroad",new-york-chicago-and-st-louis-railroad,new-york-chicago-and-st-louis-railroad,UNK
+NEW YORK,3880857,301,536,645042;8210131,http://en.wikipedia.org/wiki/Sports_in_New_York_City,Sports in New York City,sports-in-new-york-city,sports-in-new-york-city,UNK
+NEW YORK,26035579,0,1,645042,"http://en.wikipedia.org/wiki/New_York,_US-NY","New York, US-NY",new-york-us-ny,new-york-us-ny,UNK
+NEW YORK,21310853,2,74,351876,"http://en.wikipedia.org/wiki/New_York,_New_Haven_&_Hartford_Passenger_Depot","New York, New Haven & Hartford Passenger Depot",new-york-new-haven-hartford-passenger-depot,new-york-new-haven-hartford-passenger-depot,UNK
+NEW YORK,31747730,135,373,1555877;173070;645042,http://en.wikipedia.org/wiki/New_York_(Glee),New York,new-york,new-york-glee,UNK
+NEW YORK,606772,30,81,8210131;645042,http://en.wikipedia.org/wiki/New_York:_A_Documentary_Film,New York: A Documentary Film,new-york-a-documentary-film,new-york-a-documentary-film,UNK
+NEW YORK,1555877,17,13,31747730,"http://en.wikipedia.org/wiki/New_York,_New_York_(On_the_Town)","New York, New York",new-york-new-york,new-york-new-york-on-the-town,UNK
+NEW YORK,667548,10,36,8210131;645042,"http://en.wikipedia.org/wiki/New_York,_Rio,_and_Buenos_Aires_Line","New York, Rio, and Buenos Aires Line",new-york-rio-and-buenos-aires-line,new-york-rio-and-buenos-aires-line,ORG
+NEW YORK,351876,647,399,21310853;108956;2585447;891699;645042;13141861;816554;2499282;8210131,"http://en.wikipedia.org/wiki/New_York,_New_Haven_and_Hartford_Railroad","New York, New Haven and Hartford Railroad",new-york-new-haven-and-hartford-railroad,new-york-new-haven-and-hartford-railroad,UNK
+NEW YORK,27746113,5,109,13141861;645042,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railroad_Administration_Building","New York, Westchester and Boston Railroad Administration Building",new-york-westchester-and-boston-railroad-administration-building,new-york-westchester-and-boston-railroad-administration-building,UNK
+NEW YORK,598652,483,197,645042;598652;8210131,http://en.wikipedia.org/wiki/New_York_School,New York School,new-york-school,new-york-school,UNK
+NEW YORK,1470149,50,16,21560,http://en.wikipedia.org/wiki/New_York_&_Company,New York & Company,new-york-company,new-york-company,UNK
+NEW YORK,493759,93,39,,"http://en.wikipedia.org/wiki/New_York,_Tyne_and_Wear","New York, Tyne and Wear",new-york-tyne-and-wear,new-york-tyne-and-wear,GPE
+NEW YORK,2499282,360,314,891699;351876;645042;816554;8210131,"http://en.wikipedia.org/wiki/New_York,_Ontario_and_Western_Railway","New York, Ontario and Western Railway",new-york-ontario-and-western-railway,new-york-ontario-and-western-railway,UNK
+NEW YORK,2585447,38,55,351876;645042,"http://en.wikipedia.org/wiki/New_York,_Providence_and_Boston_Railroad","New York, Providence and Boston Railroad",new-york-providence-and-boston-railroad,new-york-providence-and-boston-railroad,UNK
+NEW YORK,13141861,113,149,351876;8210131;645042;27746113,"http://en.wikipedia.org/wiki/New_York,_Westchester_and_Boston_Railway","New York, Westchester and Boston Railway",new-york-westchester-and-boston-railway,new-york-westchester-and-boston-railway,UNK
+NEW YORK,7112349,30,43,,"http://en.wikipedia.org/wiki/New_York,_Texas","New York, Texas",new-york-texas,new-york-texas,GPE
+NEW YORK,26723573,3,85,816554,"http://en.wikipedia.org/wiki/New_York,_Susquehanna_&_Western_Railroad_ALCO_Type_S-2_Locomotive","New York, Susquehanna & Western Railroad ALCO Type S-2 Locomotive",new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,new-york-susquehanna-western-railroad-alco-type-s-2-locomotive,UNK
+NEW YORK,13288448,14,23,,http://en.wikipedia.org/wiki/New_York_City_(band),New York City,new-york-city,new-york-city-band,UNK
+Clinton,3356,9511,1120,781322;174376;33057;212934;173070;3356;55846;284101;43505;25433;5043544;1306667;58762;11955;134086;8210131;42172;4566164;6115598,http://en.wikipedia.org/wiki/Bill_Clinton,Bill Clinton,bill-clinton,bill-clinton,PER
+Clinton,15430859,14,36,,http://en.wikipedia.org/wiki/Clinton_Group,Clinton Group,clinton-group,clinton-group,UNK
+Clinton,16258552,67,322,8210131,http://en.wikipedia.org/wiki/Clinton_(grape),Clinton,clinton,clinton-grape,UNK
+Clinton,26813354,4,13,26812946;26839183,http://en.wikipedia.org/wiki/Clinton_College_(Kentucky),Clinton College,clinton-college,clinton-college-kentucky,UNK
+Clinton,1599517,2,47,,http://en.wikipedia.org/wiki/Clinton_Road_(New_Jersey),Clinton Road,clinton-road,clinton-road-new-jersey,UNK
+Clinton,39115658,0,2,15501685;35790663,"http://en.wikipedia.org/wiki/Clinton,_West_Virginia","Clinton, West Virginia",clinton-west-virginia,clinton-west-virginia,UNK
+Clinton,10289396,1,1,,"http://en.wikipedia.org/wiki/Clinton,_IA_μSA","Clinton, IA μSA",clinton-ia-μsa,clinton-ia-μsa,PER
+Clinton,4739955,11,11,111084,http://en.wikipedia.org/wiki/Clinton_Lake_(Illinois),Clinton Lake,clinton-lake,clinton-lake-illinois,UNK
+Clinton,259248,61,63,8210131;23131702,"http://en.wikipedia.org/wiki/Clinton,_Maine","Clinton, Maine",clinton-maine,clinton-maine,GPE
+Clinton,456723,157,79,58762,http://en.wikipedia.org/wiki/Baron_Clinton,Baron Clinton,baron-clinton,baron-clinton,PER
+Clinton,28019151,2,11,,http://en.wikipedia.org/wiki/Clinton_Hill_(artist),Clinton Hill,clinton-hill,clinton-hill-artist,PER
+Clinton,783373,83,38,,"http://en.wikipedia.org/wiki/Clinton,_Ontario","Clinton, Ontario",clinton-ontario,clinton-ontario,UNK
+Clinton,141092,9,5,,"http://en.wikipedia.org/wiki/Clinton,_Michigan","Clinton, Michigan",clinton-michigan,clinton-michigan,UNK
+Clinton,26839183,0,3,26813354;26812946,http://en.wikipedia.org/wiki/Clinton_College,Clinton College,clinton-college,clinton-college,ORG
+Clinton,260652,73,87,260653,"http://en.wikipedia.org/wiki/Clinton_(town),_Rock_County,_Wisconsin","Clinton (town), Rock County, Wisconsin",clinton-town-rock-county-wisconsin,clinton-town-rock-county-wisconsin,GPE
+Clinton,30130281,26,33,,"http://en.wikipedia.org/wiki/Clinton,_Virginia","Clinton, Virginia",clinton-virginia,clinton-virginia,GPE
+Clinton,4734389,18,28,,http://en.wikipedia.org/wiki/Clinton_Lake_(Kansas),Clinton Lake,clinton-lake,clinton-lake-kansas,UNK
+Clinton,115566,71,47,8210131,"http://en.wikipedia.org/wiki/Clinton,_Louisiana","Clinton, Louisiana",clinton-louisiana,clinton-louisiana,GPE
+Clinton,31845910,157,170,,http://en.wikipedia.org/wiki/City_of_Clinton_(steam_ferry),City of Clinton,city-of-clinton,city-of-clinton-steam-ferry,UNK
+Clinton,111084,122,77,4739955;8210131,"http://en.wikipedia.org/wiki/Clinton,_Illinois","Clinton, Illinois",clinton-illinois,clinton-illinois,UNK
+Clinton,9999509,126,135,10027457,http://en.wikipedia.org/wiki/USS_Clinton_(APA-144),USS Clinton,uss-clinton,uss-clinton-apa-144,UNK
+Clinton,141341,4,4,,"http://en.wikipedia.org/wiki/Clinton,_New_York","Clinton, New York",clinton-new-york,clinton-new-york,UNK
+Clinton,26812946,7,6,26813354;26839183,http://en.wikipedia.org/wiki/Clinton_College_(Tennessee),Clinton College,clinton-college,clinton-college-tennessee,ORG
+Clinton,35790663,88,101,39115658,"http://en.wikipedia.org/wiki/Clinton,_Boone_County,_West_Virginia","Clinton, Boone County, West Virginia",clinton-boone-county-west-virginia,clinton-boone-county-west-virginia,GPE
+Clinton,2592259,44,36,,http://en.wikipedia.org/wiki/Clinton_Hill_(athlete),Clinton Hill,clinton-hill,clinton-hill-athlete,UNK
+Clinton,13498874,2,9,8210131;10027457,http://en.wikipedia.org/wiki/USS_Clinton_(1864),USS Clinton,uss-clinton,uss-clinton-1864,UNK
+Clinton,15501685,21,32,39115658,"http://en.wikipedia.org/wiki/Clinton,_Ohio_County,_Virginia","Clinton, Ohio County, Virginia",clinton-ohio-county-virginia,clinton-ohio-county-virginia,GPE
+Clinton,22495993,88,95,22503586;23131702,"http://en.wikipedia.org/wiki/Clinton,_California","Clinton, California",clinton-california,clinton-california,GPE
+Clinton,1248206,0,30,,http://en.wikipedia.org/wiki/Clinton_Township,Clinton Township,clinton-township,clinton-township,GPE
+Clinton,6115598,189,226,11955;174376;8210131;3356;1306667;645042,http://en.wikipedia.org/wiki/Clinton_Foundation,Clinton Foundation,clinton-foundation,clinton-foundation,ORG
+Clinton,1178330,163,118,17760216;8210131,http://en.wikipedia.org/wiki/Clinton_River_(Michigan),Clinton River,clinton-river,clinton-river-michigan,UNK
+Clinton,4566164,51,50,3356,"http://en.wikipedia.org/wiki/Clinton,_New_Zealand","Clinton, New Zealand",clinton-new-zealand,clinton-new-zealand,UNK
+Clinton,38393304,0,2,,"http://en.wikipedia.org/wiki/Clinton,_Iowa_Riverfront","Clinton, Iowa Riverfront",clinton-iowa-riverfront,clinton-iowa-riverfront,ORG
+Clinton,58762,10,43,456723;3356,http://en.wikipedia.org/wiki/Clinton,Clinton,clinton,clinton,UNK
+Clinton,2634300,287,247,,"http://en.wikipedia.org/wiki/Clinton,_Pennsylvania","Clinton, Pennsylvania",clinton-pennsylvania,clinton-pennsylvania,GPE
+Clinton,17760216,3,9,1178330,http://en.wikipedia.org/wiki/Clinton_River_(New_Zealand),Clinton River,clinton-river,clinton-river-new-zealand,UNK
+Clinton,10027457,3,4,13498874;9999509,http://en.wikipedia.org/wiki/USS_Clinton,USS Clinton,uss-clinton,uss-clinton,UNK
+Clinton,55466,0,11,,http://en.wikipedia.org/wiki/Clinton_County,Clinton County,clinton-county,clinton-county,UNK
+Clinton,22503586,6,7,22495993,"http://en.wikipedia.org/wiki/Clinton,_Oakland,_California","Clinton, Oakland, California",clinton-oakland-california,clinton-oakland-california,GPE
+Clinton,260653,85,92,260652,"http://en.wikipedia.org/wiki/Clinton_(village),_Rock_County,_Wisconsin","Clinton (village), Rock County, Wisconsin",clinton-village-rock-county-wisconsin,clinton-village-rock-county-wisconsin,GPE
+Clinton,16861366,4,23,,http://en.wikipedia.org/wiki/Clinton_Airport,Clinton Airport,clinton-airport,clinton-airport,UNK
+Clinton,23131702,111,117,259248;22495993,"http://en.wikipedia.org/wiki/Clinton,_Lassen_County,_California","Clinton, Lassen County, California",clinton-lassen-county-california,clinton-lassen-county-california,UNK
+Clinton,18745023,0,1,,"http://en.wikipedia.org/wiki/Clinton,_IA_µSA","Clinton, IA µSA",clinton-ia-µsa,clinton-ia-µsa,PER
+Clinton,39582799,14,32,,"http://en.wikipedia.org/wiki/Clinton,_Alabama","Clinton, Alabama",clinton-alabama,clinton-alabama,GPE
+Bob Dole,55846,1268,719,33057;1306667;43505;11955;25433;3356;5043544;42172,http://en.wikipedia.org/wiki/Bob_Dole,Bob Dole,bob-dole,bob-dole,UNK
+Ross Perot,43505,547,196,11955;108956;2330028;25433;21560;3356;55846;5043544,http://en.wikipedia.org/wiki/Ross_Perot,Ross Perot,ross-perot,ross-perot,PER
+Ross Perot,2330028,18,27,43505,"http://en.wikipedia.org/wiki/Ross_Perot,_Jr.","Ross Perot, Jr.",ross-perot-jr,ross-perot-jr,PER
+Federal Reserve,10819,1565,765,108956;13015878;47361;55742;5043544;10819;37274;2194942;180846;53667;8210131,http://en.wikipedia.org/wiki/Federal_Reserve_System,Federal Reserve System,federal-reserve-system,federal-reserve-system,UNK
+Federal Reserve,55742,207,112,10819;2194942;5043544;180846,http://en.wikipedia.org/wiki/Federal_Reserve_Act,Federal Reserve Act,federal-reserve-act,federal-reserve-act,UNK
+Federal Reserve,180846,182,186,33057;10819;2194942;53667;17369751;55742;180846,http://en.wikipedia.org/wiki/Federal_Reserve_Note,Federal Reserve Note,federal-reserve-note,federal-reserve-note,UNK
+Federal Reserve,2194942,324,121,10819;8210131;55742;37274;180846;645042,http://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_New_York,Federal Reserve Bank of New York,federal-reserve-bank-of-new-york,federal-reserve-bank-of-new-york,UNK
+Dole,55846,1268,719,33057;1306667;43505;11955;25433;3356;5043544;42172,http://en.wikipedia.org/wiki/Bob_Dole,Bob Dole,bob-dole,bob-dole,UNK
+Hugh Johnson,4931687,28,14,2317533,http://en.wikipedia.org/wiki/Hugh_Johnson_(wine_writer),Hugh Johnson,hugh-johnson,hugh-johnson-wine-writer,UNK
+Hugh Johnson,5713594,15,29,2317533,http://en.wikipedia.org/wiki/Hugh_Johnson_(cinematographer),Hugh Johnson,hugh-johnson,hugh-johnson-cinematographer,UNK
+Hugh Johnson,2317533,0,5,4931687;5713594,http://en.wikipedia.org/wiki/Hugh_Johnson,Hugh Johnson,hugh-johnson,hugh-johnson,PER
+White House,33057,6702,371,174376;14751127;33057;173070;608864;3356;14905524;55846;284101;17369751;21769969;25433;180846;11955;6736104;108956;9523019;14261610,http://en.wikipedia.org/wiki/White_House,White House,white-house,white-house,UNK
+White House,23606937,2,7,,"http://en.wikipedia.org/wiki/White_House,_County_Down","White House, County Down",white-house-county-down,white-house-county-down,UNK
+White House,608864,77,68,33057,http://en.wikipedia.org/wiki/White_House_Plumbers,White House Plumbers,white-house-plumbers,white-house-plumbers,UNK
+White House,41941161,1,143,,"http://en.wikipedia.org/wiki/The_White_House_(Luray,_Virginia)",The White House,the-white-house,the-white-house-luray-virginia,UNK
+White House,14261610,3,50,8210131;33057,http://en.wikipedia.org/wiki/White_House_Visitors_Office,White House Visitors Office,white-house-visitors-office,white-house-visitors-office,UNK
+White House,32966631,4,7,,http://en.wikipedia.org/wiki/White_House_(Herm),White House,white-house,white-house-herm,UNK
+White House,1643331,3,13,,"http://en.wikipedia.org/wiki/White_House,_Bishkek","White House, Bishkek",white-house-bishkek,white-house-bishkek,UNK
+White House,9523019,88,79,33057,http://en.wikipedia.org/wiki/White_House_Chief_Usher,White House Chief Usher,white-house-chief-usher,white-house-chief-usher,PER
+White House,21769969,25,60,33057;10532836;108956;5043544;645042,http://en.wikipedia.org/wiki/White_House_(plantation),White House,white-house,white-house-plantation,UNK
+White House,151099,61,73,,"http://en.wikipedia.org/wiki/White_House,_Tennessee","White House, Tennessee",white-house-tennessee,white-house-tennessee,GPE
+White House,284101,470,122,11955;33057;53667;25433;3356;212934,http://en.wikipedia.org/wiki/White_House_Press_Secretary,White House Press Secretary,white-house-press-secretary,white-house-press-secretary,ORG
+White House,212934,821,107,284101;1306667;11955;25433;3356;5043544;42172,http://en.wikipedia.org/wiki/White_House_Chief_of_Staff,White House Chief of Staff,white-house-chief-of-staff,white-house-chief-of-staff,UNK
+White House,25508668,170,161,,"http://en.wikipedia.org/wiki/White_House,_Jamaica","White House, Jamaica",white-house-jamaica,white-house-jamaica,UNK
+White House,28834731,6,69,,"http://en.wikipedia.org/wiki/White_House_(Rock_Hill,_South_Carolina)",White House,white-house,white-house-rock-hill-south-carolina,UNK
+White House,1177149,105,65,108956,http://en.wikipedia.org/wiki/White_House_Office_of_Faith-Based_and_Neighborhood_Partnerships,White House Office of Faith-Based and Neighborhood Partnerships,white-house-office-of-faith-based-and-neighborhood-partnerships,white-house-office-of-faith-based-and-neighborhood-partnerships,UNK
+White House,869841,158,160,,http://en.wikipedia.org/wiki/Little_White_House,Little White House,little-white-house,little-white-house,UNK
+White House,28834628,3,81,,"http://en.wikipedia.org/wiki/White_House_(Helena,_Arkansas)",White House,white-house,white-house-helena-arkansas,UNK
+White House,14751127,4,6,33057,http://en.wikipedia.org/wiki/White_House_Chief_Calligrapher,White House Chief Calligrapher,white-house-chief-calligrapher,white-house-chief-calligrapher,UNK
+White House,30107795,50,56,10532836,"http://en.wikipedia.org/wiki/White_House,_Page_County,_Virginia","White House, Page County, Virginia",white-house-page-county-virginia,white-house-page-county-virginia,GPE
+White House,14889289,4,97,8210131,"http://en.wikipedia.org/wiki/White_House_(Syracuse,_New_York)",White House,white-house,white-house-syracuse-new-york,UNK
+White House,14905524,15,36,11955;33057,http://en.wikipedia.org/wiki/White_House_china,White House china,white-house-china,white-house-china,UNK
+White House,27436282,2,11,,"http://en.wikipedia.org/wiki/White_House,_Kyshtym","White House, Kyshtym",white-house-kyshtym,white-house-kyshtym,UNK
+White House,193143,13,17,,http://en.wikipedia.org/wiki/White_House_(Moscow),White House,white-house,white-house-moscow,UNK
+White House,40445008,4,10,,"http://en.wikipedia.org/wiki/The_White_House,_Aston_Munslow","The White House, Aston Munslow",the-white-house-aston-munslow,the-white-house-aston-munslow,UNK
+White House,4124067,4,24,,http://en.wikipedia.org/wiki/Florida_White_House,Florida White House,florida-white-house,florida-white-house,UNK
+White House,28834693,2,81,,"http://en.wikipedia.org/wiki/White_House_(Christianburg,_Kentucky)",White House,white-house,white-house-christianburg-kentucky,UNK
+White House,28834709,2,80,,"http://en.wikipedia.org/wiki/White_House_(Huntsville,_North_Carolina)",White House,white-house,white-house-huntsville-north-carolina,UNK
+White House,1306667,53,86,6115598;55846;5043544;212934;174376;3356,http://en.wikipedia.org/wiki/White_House_travel_office_controversy,White House travel office controversy,white-house-travel-office-controversy,white-house-travel-office-controversy,UNK
+White House,10532836,48,51,30107795;21769969,"http://en.wikipedia.org/wiki/White_House,_Virginia","White House, Virginia",white-house-virginia,white-house-virginia,GPE
+White House,28834666,2,81,,"http://en.wikipedia.org/wiki/White_House_(Casa_Grande,_Arizona)",White House,white-house,white-house-casa-grande-arizona,UNK
+White House,28834750,2,80,,"http://en.wikipedia.org/wiki/White_House_(Bastrop,_Texas)",White House,white-house,white-house-bastrop-texas,UNK
+White House,28826163,3,143,,"http://en.wikipedia.org/wiki/White_House_(Brentsville,_Virginia)",White House,white-house,white-house-brentsville-virginia,UNK
+White House,19408595,1,9,,http://en.wikipedia.org/wiki/White_House_Bridge,White House Bridge,white-house-bridge,white-house-bridge,UNK
+Washington,108956,32028,1189,351876;21921258;27293846;10819;11955;637985;645042;38852264;21769969;22808822;8210131;6736104;13015878;33057;6867764;17369751;37274;43505;5043544;3832041;42172;108956;1421794;1177149;20862995;53667;19537757,"http://en.wikipedia.org/wiki/Washington,_D.C.","Washington, D.C.",washington-dc,washington-dc,GPE
+Washington,115760,56,66,5043544;645042,"http://en.wikipedia.org/wiki/Washington,_Louisiana","Washington, Louisiana",washington-louisiana,washington-louisiana,GPE
+Washington,2039933,6,116,13015878,"http://en.wikipedia.org/wiki/Washington,_My_Home","Washington, My Home",washington-my-home,washington-my-home,UNK
+Washington,13015878,8843,1031,37274;5043544;10819;2039933;8210131;108956;13015878,http://en.wikipedia.org/wiki/Washington_(state),Washington,washington,washington-state,UNK
+Washington,1446321,0,2,,"http://en.wikipedia.org/wiki/Washington,_England","Washington, England",washington-england,washington-england,GPE
+Washington,18746675,0,1,,"http://en.wikipedia.org/wiki/Washington,_IN_µSA","Washington, IN µSA",washington-in-µsa,washington-in-µsa,PER
+Washington,5757618,147,192,,http://en.wikipedia.org/wiki/Washington_(footballer),Washington,washington,washington-footballer,PER
+Washington,111971,1213,92,,"http://en.wikipedia.org/wiki/Washington,_Illinois","Washington, Illinois",washington-illinois,washington-illinois,UNK
+Washington,10308149,1,1,,"http://en.wikipedia.org/wiki/Washington,_IN_μSA","Washington, IN μSA",washington-in-μsa,washington-in-μsa,PER
+Washington,6736104,364,371,33057;108956,"http://en.wikipedia.org/wiki/Washington,_D.C.,_in_the_American_Civil_War","Washington, D.C., in the American Civil War",washington-dc-in-the-american-civil-war,washington-dc-in-the-american-civil-war,UNK
+Washington,6867764,223,206,108956;19537757;8589494;38852264;5043544;20862995;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2006","Washington, D.C. mayoral election, 2006",washington-dc-mayoral-election-2006,washington-dc-mayoral-election-2006,PER
+Washington,10289871,1,1,,"http://en.wikipedia.org/wiki/Washington,_NC_μSA","Washington, NC μSA",washington-nc-μsa,washington-nc-μsa,PER
+Washington,24921974,108,89,,http://en.wikipedia.org/wiki/Washington_(steamboat_1851),Washington,washington,washington-steamboat-1851,UNK
+Washington,637985,4,26,108956,"http://en.wikipedia.org/wiki/Washington,_DC_Metropolitan_Area_Special_Flight_Rules_Area","Washington, DC Metropolitan Area Special Flight Rules Area",washington-dc-metropolitan-area-special-flight-rules-area,washington-dc-metropolitan-area-special-flight-rules-area,UNK
+Washington,134086,890,469,3356;134086,"http://en.wikipedia.org/wiki/Washington,_Pennsylvania","Washington, Pennsylvania",washington-pennsylvania,washington-pennsylvania,GPE
+Washington,2508003,139,108,,"http://en.wikipedia.org/wiki/Washington,_D.C._International_Stakes","Washington, D.C. International Stakes",washington-dc-international-stakes,washington-dc-international-stakes,UNK
+Washington,38852264,222,242,108956;6867764;19537757;8589494;5043544;20862995;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2014","Washington, D.C. mayoral election, 2014",washington-dc-mayoral-election-2014,washington-dc-mayoral-election-2014,PER
+Washington,19537757,130,166,8589494;108956;38852264;5043544;20862995;19537810;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2002","Washington, D.C. mayoral election, 2002",washington-dc-mayoral-election-2002,washington-dc-mayoral-election-2002,UNK
+Washington,2010233,51,39,,"http://en.wikipedia.org/wiki/Washington,_Mississippi","Washington, Mississippi",washington-mississippi,washington-mississippi,GPE
+Washington,3832041,24,38,22808822;108956,"http://en.wikipedia.org/wiki/Washington,_Baltimore_and_Annapolis_Trail","Washington, Baltimore and Annapolis Trail",washington-baltimore-and-annapolis-trail,washington-baltimore-and-annapolis-trail,UNK
+Washington,1923182,178,200,32196168,"http://en.wikipedia.org/wiki/Washington,_California","Washington, California",washington-california,washington-california,GPE
+Washington,8589494,39,50,19537757;20862995;38852264;19537810;5043544;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1974","Washington, D.C. mayoral election, 1974",washington-dc-mayoral-election-1974,washington-dc-mayoral-election-1974,PER
+Washington,20232735,3,11,645042,http://en.wikipedia.org/wiki/Washington_(SP-1241),Washington,washington,washington-sp-1241,UNK
+Washington,18746683,0,1,,"http://en.wikipedia.org/wiki/Washington,_NC_µSA","Washington, NC µSA",washington-nc-µsa,washington-nc-µsa,PER
+Washington,141810,0,13,,"http://en.wikipedia.org/wiki/Washington,_Wisconsin","Washington, Wisconsin",washington-wisconsin,washington-wisconsin,UNK
+Washington,19537810,40,86,19537757;8589494;20862995;38852264;5043544;19537795;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1978","Washington, D.C. mayoral election, 1978",washington-dc-mayoral-election-1978,washington-dc-mayoral-election-1978,UNK
+Washington,20862995,264,254,108956;6867764;19537757;8589494;38852264;5043544;19537810;19537795,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_2010","Washington, D.C. mayoral election, 2010",washington-dc-mayoral-election-2010,washington-dc-mayoral-election-2010,UNK
+Washington,1421794,67,104,108956;1421794,"http://en.wikipedia.org/wiki/Washington,_D.C._hardcore","Washington, D.C. hardcore",washington-dc-hardcore,washington-dc-hardcore,UNK
+Washington,7986044,0,9,8210131,http://en.wikipedia.org/wiki/Ulmus_americana_'Washington',Ulmus americana 'Washington',ulmus-americana-washington,ulmus-americana-washington,UNK
+Washington,27293846,15,184,108956,"http://en.wikipedia.org/wiki/Washington,_D.C._Jewish_Community_Center","Washington, D.C. Jewish Community Center",washington-dc-jewish-community-center,washington-dc-jewish-community-center,UNK
+Washington,1489525,24,20,,http://en.wikipedia.org/wiki/Washington_(tree),Washington,washington,washington-tree,UNK
+Washington,19537795,106,153,19537757;8589494;38852264;5043544;20862995;19537810;6867764,"http://en.wikipedia.org/wiki/Washington,_D.C._mayoral_election,_1994","Washington, D.C. mayoral election, 1994",washington-dc-mayoral-election-1994,washington-dc-mayoral-election-1994,PER
+Washington,21921258,2,230,108956,"http://en.wikipedia.org/wiki/Washington,_Village_and_Capital,_1800-1878","Washington, Village and Capital, 1800-1878",washington-village-and-capital-1800-1878,washington-village-and-capital-1800-1878,UNK
+Washington,22808822,35,95,3832041;108956,"http://en.wikipedia.org/wiki/Washington,_Baltimore_and_Annapolis_Electric_Railway","Washington, Baltimore and Annapolis Electric Railway",washington-baltimore-and-annapolis-electric-railway,washington-baltimore-and-annapolis-electric-railway,UNK
+Washington,7073789,6,91,,"http://en.wikipedia.org/wiki/Washington,_Brandywine_and_Point_Lookout_Railroad","Washington, Brandywine and Point Lookout Railroad",washington-brandywine-and-point-lookout-railroad,washington-brandywine-and-point-lookout-railroad,UNK
+Washington,26677390,15,24,,http://en.wikipedia.org/wiki/Washington_Railroad_Station,Washington Railroad Station,washington-railroad-station,washington-railroad-station,UNK
+Washington,14698019,20,26,,"http://en.wikipedia.org/wiki/Washington,_Kentucky","Washington, Kentucky",washington-kentucky,washington-kentucky,UNK
+Washington,10308504,0,1,,"http://en.wikipedia.org/wiki/Washington,_OH_μSA","Washington, OH μSA",washington-oh-μsa,washington-oh-μsa,PER
+Washington,24782674,99,91,,http://en.wikipedia.org/wiki/Megan_Washington,Megan Washington,megan-washington,megan-washington,UNK
+Washington,38467156,24,29,,"http://en.wikipedia.org/wiki/Washington,_Rhode_Island","Washington, Rhode Island",washington-rhode-island,washington-rhode-island,GPE
+Washington,40415474,2,3,,http://en.wikipedia.org/wiki/Washington_Motor_Company,Washington Motor Company,washington-motor-company,washington-motor-company,ORG
+Washington,18514024,3,20,,http://en.wikipedia.org/wiki/USS_Washington_(1775),USS Washington,uss-washington,uss-washington-1775,UNK
+Ronald Reagan,25433,8636,1694,70310;33057;212934;3356;6901638;55846;284101;645042;43505;25433;5043544;39719009;11955;42172,http://en.wikipedia.org/wiki/Ronald_Reagan,Ronald Reagan,ronald-reagan,ronald-reagan,PER
+Ronald Reagan,70310,143,113,25433,http://en.wikipedia.org/wiki/USS_Ronald_Reagan_(CVN-76),USS Ronald Reagan,uss-ronald-reagan,uss-ronald-reagan-cvn-76,ORG
+Ronald Reagan,39719009,36,9,25433,"http://en.wikipedia.org/wiki/Ronald_Reagan_Park,_Gdańsk","Ronald Reagan Park, Gdańsk",ronald-reagan-park-gdansk,ronald-reagan-park-gdansk,UNK
+Ronald Reagan,6901638,56,75,25433,http://en.wikipedia.org/wiki/Why_I_Want_to_Fuck_Ronald_Reagan,Why I Want to Fuck Ronald Reagan,why-i-want-to-fuck-ronald-reagan,why-i-want-to-fuck-ronald-reagan,UNK
+Democrat,5043544,35912,1060,212934;3356;10819;11955;8589494;781322;645042;38852264;21769969;25433;8210131;13015878;6867764;37274;43505;5043544;42172;108956;20862995;55742;55846;115760;1306667;19537757;19537810;19537795,http://en.wikipedia.org/wiki/Democratic_Party_(United_States),Democratic Party,democratic-party,democratic-party-united-states,UNK
+Democrat,32196168,165,171,1923182,"http://en.wikipedia.org/wiki/Democrat,_California","Democrat, California",democrat-california,democrat-california,UNK
+Democrat,866140,271,108,,http://en.wikipedia.org/wiki/Democrat_Party_(Thailand),Democrat Party,democrat-party,democrat-party-thailand,GPE
+Democrat,781322,6,75,8210131;3356;5043544,http://en.wikipedia.org/wiki/Democrat_Party_(epithet),Democrat Party,democrat-party,democrat-party-epithet,UNK
+Democrat,1855143,1,47,1855143,http://en.wikipedia.org/wiki/Democrat_Party_(Peru)_(Nicolini),Democrat Party (Peru),democrat-party-peru,democrat-party-peru-nicolini,UNK
+Democrat,42363729,21,32,42363729,http://en.wikipedia.org/wiki/Democrat_Party_(Chile),Democrat Party,democrat-party,democrat-party-chile,UNK
+Democrat,6760089,59,232,,http://en.wikipedia.org/wiki/Mount_Democrat,Mount Democrat,mount-democrat,mount-democrat,UNK
+Democrat,13712519,42,56,,"http://en.wikipedia.org/wiki/Democrat_Township,_Carroll_County,_Indiana","Democrat Township, Carroll County, Indiana",democrat-township-carroll-county-indiana,democrat-township-carroll-county-indiana,GPE
+Democrat,39651783,0,4,,http://en.wikipedia.org/wiki/The_Democrat,The Democrat,the-democrat,the-democrat,UNK
+Democrat,28065226,51,278,,http://en.wikipedia.org/wiki/Democrat_Building,Democrat Building,democrat-building,democrat-building,UNK
+Democrat,1846388,3,45,,http://en.wikipedia.org/wiki/Democrat_Party_(Peru),Democrat Party,democrat-party,democrat-party-peru,UNK
+Walter Mondale,42172,1095,714,108956;212934;11955;25433;3356;55846;5043544;8210131;42172,http://en.wikipedia.org/wiki/Walter_Mondale,Walter Mondale,walter-mondale,walter-mondale,UNK
+George Bush,11955,4471,1579,43505;25433;5043544;33057;149577;212934;11955;3356;14905524;42172;108956;19597073;55846;284101;3391587;6115598,http://en.wikipedia.org/wiki/George_H._W._Bush,George H. W. Bush,george-h-w-bush,george-h-w-bush,PER
+George Bush,4990539,130,30,,http://en.wikipedia.org/wiki/George_Bush_High_School,George Bush High School,george-bush-high-school,george-bush-high-school,ORG
+George Bush,16973787,1,11,8210131,http://en.wikipedia.org/wiki/George_Bush_(racing_driver),George Bush,george-bush,george-bush-racing-driver,PER
+George Bush,19597073,3,12,11955;18047454;149577,http://en.wikipedia.org/wiki/George_Bush,George Bush,george-bush,george-bush,PER
+George Bush,18047454,4,20,19597073,http://en.wikipedia.org/wiki/George_Bush_(biblical_scholar),George Bush,george-bush,george-bush-biblical-scholar,UNK
+George Bush,149577,472,339,11955;19597073,http://en.wikipedia.org/wiki/George_Bush_Intercontinental_Airport,George Bush Intercontinental Airport,george-bush-intercontinental-airport,george-bush-intercontinental-airport,UNK
+George Bush,3391587,7,19,11955,http://en.wikipedia.org/wiki/George_Bush_Park,George Bush Park,george-bush-park,george-bush-park,UNK
+Treasury,53667,1431,107,108956;284101;10819;17369751;180846;47361;53667;247095;164386,http://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury,United States Department of the Treasury,united-states-department-of-the-treasury,united-states-department-of-the-treasury,ORG
+Treasury,37004509,44,69,,http://en.wikipedia.org/wiki/The_Treasury_(New_South_Wales),The Treasury,the-treasury,the-treasury-new-south-wales,UNK
+Treasury,1235068,4,5,1235068,http://en.wikipedia.org/wiki/Treasury_services,Treasury services,treasury-services,treasury-services,UNK
+Treasury,2652657,70,91,,"http://en.wikipedia.org/wiki/Treasury_Building,_Brisbane","Treasury Building, Brisbane",treasury-building-brisbane,treasury-building-brisbane,UNK
+Treasury,4658610,130,96,,http://en.wikipedia.org/wiki/National_Treasury_(South_Africa),National Treasury,national-treasury,national-treasury-south-africa,UNK
+Treasury,5429563,116,50,247095,http://en.wikipedia.org/wiki/Department_of_the_Treasury_(Australia),Department of the Treasury,department-of-the-treasury,department-of-the-treasury-australia,UNK
+Treasury,3333017,188,135,,http://en.wikipedia.org/wiki/Treasury_Islands,Treasury Islands,treasury-islands,treasury-islands,UNK
+Treasury,176736,1007,349,176736;247095,http://en.wikipedia.org/wiki/HM_Treasury,HM Treasury,hm-treasury,hm-treasury,UNK
+Treasury,5185976,13,35,,http://en.wikipedia.org/wiki/The_Treasury_(store),The Treasury,the-treasury,the-treasury-store,UNK
+Treasury,12297251,0,6,,http://en.wikipedia.org/wiki/Treasury_company,Treasury company,treasury-company,treasury-company,UNK
+Treasury,247095,335,53,176736;5429563;53667,http://en.wikipedia.org/wiki/Treasury,Treasury,treasury,treasury,UNK
+Treasury,18060850,18,33,,http://en.wikipedia.org/wiki/A_Treasury,A Treasury,a-treasury,a-treasury,UNK
+Treasury,17369751,82,120,53667;33057;108956;180846,"http://en.wikipedia.org/wiki/Treasury_Building_(Washington,_D.C.)",Treasury Building,treasury-building,treasury-building-washington-dc,UNK
+Treasury,4999724,93,41,,http://en.wikipedia.org/wiki/New_Zealand_Treasury,New Zealand Treasury,new-zealand-treasury,new-zealand-treasury,ORG
+Johnson,4931687,28,14,2317533,http://en.wikipedia.org/wiki/Hugh_Johnson_(wine_writer),Hugh Johnson,hugh-johnson,hugh-johnson-wine-writer,UNK
+Johnson,5713594,15,29,2317533,http://en.wikipedia.org/wiki/Hugh_Johnson_(cinematographer),Hugh Johnson,hugh-johnson,hugh-johnson-cinematographer,UNK
+Johnson,2317533,0,5,4931687;5713594,http://en.wikipedia.org/wiki/Hugh_Johnson,Hugh Johnson,hugh-johnson,hugh-johnson,PER
+Dow Jones,47361,425,319,46638;10819;53667;157649;1488;21560;21559;173070;170992,http://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average,Dow Jones Industrial Average,dow-jones-industrial-average,dow-jones-industrial-average,UNK
+Dow Jones,46638,524,126,645042;173070;47361,http://en.wikipedia.org/wiki/Dow_Jones_&_Company,Dow Jones & Company,dow-jones-company,dow-jones-company,UNK
+Dow Jones,23151272,29,24,23151272,http://en.wikipedia.org/wiki/Dow_Jones_Sustainability_Index,Dow Jones Sustainability Index,dow-jones-sustainability-index,dow-jones-sustainability-index,ORG
+Whitewater,174376,98,116,33057;6115598;172078;3356;1306667,http://en.wikipedia.org/wiki/Whitewater_controversy,Whitewater controversy,whitewater-controversy,whitewater-controversy,UNK
+Whitewater,172078,319,181,624989;174376;172078;41848693,http://en.wikipedia.org/wiki/Whitewater,Whitewater,whitewater,whitewater,UNK
+Whitewater,12225862,16,15,,http://en.wikipedia.org/wiki/Whitewater_River_(Minnesota),Whitewater River,whitewater-river,whitewater-river-minnesota,UNK
+Whitewater,13813684,60,77,18997270,"http://en.wikipedia.org/wiki/Whitewater_Township,_Franklin_County,_Indiana","Whitewater Township, Franklin County, Indiana",whitewater-township-franklin-county-indiana,whitewater-township-franklin-county-indiana,GPE
+Whitewater,8737324,29,49,,"http://en.wikipedia.org/wiki/Whitewater,_Colorado","Whitewater, Colorado",whitewater-colorado,whitewater-colorado,GPE
+Whitewater,18997270,0,7,15443528;15179587;234400;122143;13813684,http://en.wikipedia.org/wiki/Whitewater_Township,Whitewater Township,whitewater-township,whitewater-township,GPE
+Whitewater,2226109,26,17,,http://en.wikipedia.org/wiki/Whitewater_River_(Indiana),Whitewater River,whitewater-river,whitewater-river-indiana,UNK
+Whitewater,12836181,52,50,,http://en.wikipedia.org/wiki/River_Whitewater,River Whitewater,river-whitewater,river-whitewater,UNK
+Whitewater,15443528,37,47,122570;34576286;18997270,"http://en.wikipedia.org/wiki/Whitewater_Township,_Cape_Girardeau_County,_Missouri","Whitewater Township, Cape Girardeau County, Missouri",whitewater-township-cape-girardeau-county-missouri,whitewater-township-cape-girardeau-county-missouri,GPE
+Whitewater,3438689,10,21,114451,http://en.wikipedia.org/wiki/Whitewater_River_(Kansas),Whitewater River,whitewater-river,whitewater-river-kansas,UNK
+Whitewater,6531759,13,11,,http://en.wikipedia.org/wiki/Whitewater_River_(Keowee_River),Whitewater River,whitewater-river,whitewater-river-keowee-river,UNK
+Whitewater,18659750,0,1,,"http://en.wikipedia.org/wiki/Whitewater,_WI_µSA","Whitewater, WI µSA",whitewater-wi-µsa,whitewater-wi-µsa,PER
+Whitewater,36814107,25,34,,http://en.wikipedia.org/wiki/WhiteWater_West,WhiteWater West,whitewater-west,whitewater-west,UNK
+Whitewater,32443664,2,7,,http://en.wikipedia.org/wiki/Whitewater_Brewery,Whitewater Brewery,whitewater-brewery,whitewater-brewery,UNK
+Whitewater,624989,27,76,172078,http://en.wikipedia.org/wiki/Whitewater_Region,Whitewater Region,whitewater-region,whitewater-region,GPE
+Whitewater,152242,286,187,139913;26401563,"http://en.wikipedia.org/wiki/Whitewater,_Wisconsin","Whitewater, Wisconsin",whitewater-wisconsin,whitewater-wisconsin,GPE
+Whitewater,5836928,4,11,,http://en.wikipedia.org/wiki/Whitewater_Lake,Whitewater Lake,whitewater-lake,whitewater-lake,UNK
+Whitewater,15179587,45,59,34576286;18997270,"http://en.wikipedia.org/wiki/Whitewater_Township,_Bollinger_County,_Missouri","Whitewater Township, Bollinger County, Missouri",whitewater-township-bollinger-county-missouri,whitewater-township-bollinger-county-missouri,GPE
+Whitewater,3652862,37,45,,http://en.wikipedia.org/wiki/Whitewater_Bay,Whitewater Bay,whitewater-bay,whitewater-bay,UNK
+Whitewater,40127365,17,35,,"http://en.wikipedia.org/wiki/Whitewater,_Montana","Whitewater, Montana",whitewater-montana,whitewater-montana,GPE
+Whitewater,112692,46,65,,"http://en.wikipedia.org/wiki/Whitewater,_Indiana","Whitewater, Indiana",whitewater-indiana,whitewater-indiana,GPE
+Whitewater,117543,23,43,,"http://en.wikipedia.org/wiki/Whitewater_Township,_Michigan","Whitewater Township, Michigan",whitewater-township-michigan,whitewater-township-michigan,GPE
+Whitewater,26401563,2,78,152242,http://en.wikipedia.org/wiki/Whitewater_Hotel,Whitewater Hotel,whitewater-hotel,whitewater-hotel,UNK
+Whitewater,19155325,1,14,,http://en.wikipedia.org/wiki/Whitewater_Lake_(Wisconsin),Whitewater Lake,whitewater-lake,whitewater-lake-wisconsin,UNK
+Whitewater,234400,116,123,18997270,"http://en.wikipedia.org/wiki/Whitewater_Township,_Hamilton_County,_Ohio","Whitewater Township, Hamilton County, Ohio",whitewater-township-hamilton-county-ohio,whitewater-township-hamilton-county-ohio,GPE
+Whitewater,16952471,74,86,,http://en.wikipedia.org/wiki/Whitewater_Group,Whitewater Group,whitewater-group,whitewater-group,ORG
+Whitewater,4913705,14,43,12731942,http://en.wikipedia.org/wiki/Whitewater_River_(California),Whitewater River,whitewater-river,whitewater-river-california,UNK
+Whitewater,32626179,2,15,,http://en.wikipedia.org/wiki/Whitewater_River_(Oregon),Whitewater River,whitewater-river,whitewater-river-oregon,UNK
+Whitewater,114451,77,116,3438689,"http://en.wikipedia.org/wiki/Whitewater,_Kansas","Whitewater, Kansas",whitewater-kansas,whitewater-kansas,GPE
+Whitewater,41848693,14,26,172078,http://en.wikipedia.org/wiki/American_Whitewater,American Whitewater,american-whitewater,american-whitewater,ORG
+Whitewater,34576286,0,3,15443528;15179587,"http://en.wikipedia.org/wiki/Whitewater_Township,_Missouri","Whitewater Township, Missouri",whitewater-township-missouri,whitewater-township-missouri,UNK
+Whitewater,23584033,1,6,,http://en.wikipedia.org/wiki/Whitewater_River_(New_Zealand),Whitewater River,whitewater-river,whitewater-river-new-zealand,UNK
+Whitewater,139913,74,83,152242,"http://en.wikipedia.org/wiki/Whitewater_(town),_Wisconsin","Whitewater (town), Wisconsin",whitewater-town-wisconsin,whitewater-town-wisconsin,GPE
+Whitewater,12731942,153,169,4913705,"http://en.wikipedia.org/wiki/Whitewater,_California","Whitewater, California",whitewater-california,whitewater-california,GPE
+Whitewater,10032533,1,1,,"http://en.wikipedia.org/wiki/Whitewater,_WI_μSA","Whitewater, WI μSA",whitewater-wi-μsa,whitewater-wi-μsa,PER
+Whitewater,122570,38,58,15443528,"http://en.wikipedia.org/wiki/Whitewater,_Missouri","Whitewater, Missouri",whitewater-missouri,whitewater-missouri,GPE
+Whitewater,122143,55,78,18997270,"http://en.wikipedia.org/wiki/Whitewater_Township,_Winona_County,_Minnesota","Whitewater Township, Winona County, Minnesota",whitewater-township-winona-county-minnesota,whitewater-township-winona-county-minnesota,GPE
+Whitewater,36294338,1,8,,http://en.wikipedia.org/wiki/Whitewater_(POW_camp),Whitewater,whitewater,whitewater-pow-camp,UNK
+Clintons,58762,10,43,456723;3356,http://en.wikipedia.org/wiki/Clinton,Clinton,clinton,clinton,UNK
+Clintons,8386892,5,20,,http://en.wikipedia.org/wiki/Clintons,Clintons,clintons,clintons,UNK
+Nasdaq,21559,2660,163,21560;21559;47361;170992;37274;645042;1857066;22637915;8210131,http://en.wikipedia.org/wiki/NASDAQ,NASDAQ,nasdaq,nasdaq,UNK
+Nasdaq,1857066,1,9,645042;21559,http://en.wikipedia.org/wiki/NASDAQ_Canada,NASDAQ Canada,nasdaq-canada,nasdaq-canada,UNK
+Standard & Poor,170992,775,72,21560;21559;47361;1488;164386,http://en.wikipedia.org/wiki/S&P_500,S&P 500,s-p-500,s-p-500,UNK
+Standard & Poor,164386,0,89,53667;173070;170992;645042,http://en.wikipedia.org/wiki/Standard_&_Poor's,Standard & Poor's,standard-poors,standard-poors,ORG
+American Stock Exchange,1488,113,150,173070;170992;1488;8210131;37274;21560;47361;645042,http://en.wikipedia.org/wiki/NYSE_MKT,NYSE MKT,nyse-mkt,nyse-mkt,UNK

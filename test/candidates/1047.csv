@@ -1,0 +1,159 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+REAL,26413,3137,877,26413;3286721;32079701;200764;149286;609825;12345223;11049;4781788;3287319;3383;26667;454123;26825;26172697;386195;665012;18842471;20732255;22681791;1248592;1148506;3313708,http://en.wikipedia.org/wiki/Real_Madrid_C.F.,Real Madrid C.F.,real-madrid-cf,real-madrid-cf,ORG
+REAL,32079701,6,91,26413,http://en.wikipedia.org/wiki/Real_Madrid_(South_Africa),Real Madrid,real-madrid,real-madrid-south-africa,UNK
+REAL,3286721,799,583,26413;3287319;3383;26667,http://en.wikipedia.org/wiki/Real_Madrid_Baloncesto,Real Madrid Baloncesto,real-madrid-baloncesto,real-madrid-baloncesto,ORG
+REAL,22264493,1,11,22264493,http://en.wikipedia.org/wiki/Real_Madrid_(Puerto_Rico),Real Madrid,real-madrid,real-madrid-puerto-rico,UNK
+REAL,3287319,653,215,609825;26413;3383;26667;200764;3286721,http://en.wikipedia.org/wiki/Real_Madrid_Castilla,Real Madrid Castilla,real-madrid-castilla,real-madrid-castilla,UNK
+LA CORUNA,500409,1011,371,2553956;609825;6384006;18842471;4781788;9239;26667;26825;200764,http://en.wikipedia.org/wiki/A_Coruña,A Coruña,a-coruna,a-coruna,UNK
+LA CORUNA,200764,1212,475,2553956;26413;6384006;3142043;1148506;18842471;3287319;36664400;3383;26667;3313708;200764;500409;16074396,http://en.wikipedia.org/wiki/Deportivo_de_La_Coruña,Deportivo de La Coruña,deportivo-de-la-coruna,deportivo-de-la-coruna,UNK
+Spain,26667,100383,1235,3383;9239;11370;17473275;18842471;26413;273633;26667;26825;33877579;18935041;1148506;13659804;11982053;4781788;1168189;5888447;22681791;358518;87187;88459;3286721;3287319;24947598;11787932;386195;30868004;855087;609825;3313708;10293321;20732255;124847;36664400;3482503;1248592;1523829;11108427;963152;5980301;149286;5991438;2050142;665012;168079;12345223;1187515;200764;8794264;19906671;459319;26814387;2716954;17167993;6384006;4663484;500409;990753,http://en.wikipedia.org/wiki/Spain,Spain,spain,spain,GPE
+Spain,3313708,922,317,609825;26413;12345223;27663544;168079;4781788;1168189;9239;26667;200764,http://en.wikipedia.org/wiki/Spain_national_under-21_football_team,Spain national under-21 football team,spain-national-under-21-football-team,spain-national-under-21-football-team,UNK
+Spain,459319,361,284,18842471;963152;5991438;2716954;26667;26825,http://en.wikipedia.org/wiki/Flag_of_Spain,Flag of Spain,flag-of-spain,flag-of-spain,UNK
+Spain,27663544,87,8,3313708;12345223;609825,http://en.wikipedia.org/wiki/Spain_national_youth_football_team,Spain national youth football team,spain-national-youth-football-team,spain-national-youth-football-team,UNK
+Spain,273633,300,182,26667;18842471;26825;88459,http://en.wikipedia.org/wiki/Communist_Party_of_Spain,Communist Party of Spain,communist-party-of-spain,communist-party-of-spain,UNK
+Spain,4663484,17,38,26667,http://en.wikipedia.org/wiki/Spain_(band),Spain,spain,spain-band,UNK
+Spain,33877579,5,33,26667,http://en.wikipedia.org/wiki/Spain..._on_the_Road_Again,Spain... on the Road Again,spain-on-the-road-again,spain-on-the-road-again,UNK
+Spain,8740160,51,50,18842471,http://en.wikipedia.org/wiki/Spain_(Auden),Spain,spain,spain-auden,UNK
+Spain,10293321,265,185,26667,http://en.wikipedia.org/wiki/Solar_power_in_Spain,Solar power in Spain,solar-power-in-spain,solar-power-in-spain,UNK
+Spain,484051,22,63,,http://en.wikipedia.org/wiki/Spain_(composition),Spain,spain,spain-composition,UNK
+Spain,609825,3430,790,11108427;26413;719095;149286;609825;12345223;11049;27663544;4781788;1168189;3287319;3383;26667;26825;11370;386195;665012;18842471;681926;500409;3482503;6384006;168079;36664400;3313708,http://en.wikipedia.org/wiki/Spain_national_football_team,Spain national football team,spain-national-football-team,spain-national-football-team,UNK
+Roberto Carlos,454123,584,495,168079;3482503;386195;26413;11049;3383;419988;24947598;11370;665012;3142043;149286,http://en.wikipedia.org/wiki/Roberto_Carlos_(footballer),Roberto Carlos,roberto-carlos,roberto-carlos-footballer,PER
+Roberto Carlos,502049,213,64,24947598;3383,http://en.wikipedia.org/wiki/Roberto_Carlos_(singer),Roberto Carlos,roberto-carlos,roberto-carlos-singer,UNK
+Roberto Carlos,24947598,2,15,454123;502049;26667,http://en.wikipedia.org/wiki/Roberto_Carlos_(Spanish_footballer),Roberto Carlos,roberto-carlos,roberto-carlos-spanish-footballer,PER
+Real Madrid,26413,3137,877,26413;3286721;32079701;200764;149286;609825;12345223;11049;4781788;3287319;3383;26667;454123;26825;26172697;386195;665012;18842471;20732255;22681791;1248592;1148506;3313708,http://en.wikipedia.org/wiki/Real_Madrid_C.F.,Real Madrid C.F.,real-madrid-cf,real-madrid-cf,ORG
+Real Madrid,32079701,6,91,26413,http://en.wikipedia.org/wiki/Real_Madrid_(South_Africa),Real Madrid,real-madrid,real-madrid-south-africa,UNK
+Real Madrid,3286721,799,583,26413;3287319;3383;26667,http://en.wikipedia.org/wiki/Real_Madrid_Baloncesto,Real Madrid Baloncesto,real-madrid-baloncesto,real-madrid-baloncesto,ORG
+Real Madrid,22264493,1,11,22264493,http://en.wikipedia.org/wiki/Real_Madrid_(Puerto_Rico),Real Madrid,real-madrid,real-madrid-puerto-rico,UNK
+Real Madrid,3287319,653,215,609825;26413;3383;26667;200764;3286721,http://en.wikipedia.org/wiki/Real_Madrid_Castilla,Real Madrid Castilla,real-madrid-castilla,real-madrid-castilla,UNK
+Fabio Capello,665012,1024,494,609825;26413;11049;1148506;168079;26667;454123;149286,http://en.wikipedia.org/wiki/Fabio_Capello,Fabio Capello,fabio-capello,fabio-capello,PER
+Spanish,26667,100383,1235,3383;9239;11370;17473275;18842471;26413;273633;26667;26825;33877579;18935041;1148506;13659804;11982053;4781788;1168189;5888447;22681791;358518;87187;88459;3286721;3287319;24947598;11787932;386195;30868004;855087;609825;3313708;10293321;20732255;124847;36664400;3482503;1248592;1523829;11108427;963152;5980301;149286;5991438;2050142;665012;168079;12345223;1187515;200764;8794264;19906671;459319;26814387;2716954;17167993;6384006;4663484;500409;990753,http://en.wikipedia.org/wiki/Spain,Spain,spain,spain,GPE
+Spanish,879298,30,25,9627139,http://en.wikipedia.org/wiki/Spanish_River_(Ontario),Spanish River,spanish-river,spanish-river-ontario,UNK
+Spanish,5980301,756,505,18842471;26667,http://en.wikipedia.org/wiki/Spanish_Inquisition,Spanish Inquisition,spanish-inquisition,spanish-inquisition,UNK
+Spanish,504969,331,206,,http://en.wikipedia.org/wiki/Spanish_Town,Spanish Town,spanish-town,spanish-town,GPE
+Spanish,26811567,1,5,,http://en.wikipedia.org/wiki/Spanish_River_(Florida),Spanish River,spanish-river,spanish-river-florida,UNK
+Spanish,28214057,1,3,,"http://en.wikipedia.org/wiki/Spanish_Island,_Bermuda","Spanish Island, Bermuda",spanish-island-bermuda,spanish-island-bermuda,UNK
+Spanish,13073546,1,4,,http://en.wikipedia.org/wiki/Spanish_Island,Spanish Island,spanish-island,spanish-island,GPE
+Spanish,3639393,141,107,5888447;26825;16320787;1523829,http://en.wikipedia.org/wiki/Chilean_Spanish,Chilean Spanish,chilean-spanish,chilean-spanish,UNK
+Spanish,23544474,79,62,,http://en.wikipedia.org/wiki/Spanish_River_(Jamaica),Spanish River,spanish-river,spanish-river-jamaica,UNK
+Spanish,963152,2706,243,18842471;963152;9239;357590;5991438;459319;3383;26667;26825;11982053,http://en.wikipedia.org/wiki/Spanish_people,Spanish people,spanish-people,spanish-people,UNK
+Spanish,5888447,179,71,9239;26667;26825;3639393;16320787;1523829;2050142,http://en.wikipedia.org/wiki/Castilian_Spanish,Castilian Spanish,castilian-spanish,castilian-spanish,PER
+Spanish,35370862,5,26,,http://en.wikipedia.org/wiki/Spanish_Bay_(Nova_Scotia),Spanish Bay,spanish-bay,spanish-bay-nova-scotia,UNK
+Spanish,2999390,22,26,,http://en.wikipedia.org/wiki/Spanish_Road,Spanish Road,spanish-road,spanish-road,UNK
+Spanish,5991438,222,421,459319;18842471;963152;5991438;26667,http://en.wikipedia.org/wiki/Spanish_architecture,Spanish architecture,spanish-architecture,spanish-architecture,UNK
+Spanish,16320787,165,50,5888447;26825;1523829;3639393,http://en.wikipedia.org/wiki/Peninsular_Spanish,Peninsular Spanish,peninsular-spanish,peninsular-spanish,UNK
+Spanish,1537897,606,104,26825,http://en.wikipedia.org/wiki/Spanish_Netherlands,Spanish Netherlands,spanish-netherlands,spanish-netherlands,GPE
+Spanish,9627139,71,80,879298,"http://en.wikipedia.org/wiki/Spanish,_Ontario","Spanish, Ontario",spanish-ontario,spanish-ontario,GPE
+Spanish,2898367,5,28,,http://en.wikipedia.org/wiki/Spanish_City,Spanish City,spanish-city,spanish-city,UNK
+Spanish,88459,663,373,18842471;273633;26667,http://en.wikipedia.org/wiki/Spanish_Revolution,Spanish Revolution,spanish-revolution,spanish-revolution,UNK
+Spanish,124847,206,189,26667,"http://en.wikipedia.org/wiki/Spanish_Lake,_Missouri","Spanish Lake, Missouri",spanish-lake-missouri,spanish-lake-missouri,GPE
+Spanish,35761480,10,112,,http://en.wikipedia.org/wiki/Spanish_River_(Alabama),Spanish River,spanish-river,spanish-river-alabama,UNK
+Spanish,137086,25,39,,"http://en.wikipedia.org/wiki/Spanish_Valley,_Utah","Spanish Valley, Utah",spanish-valley-utah,spanish-valley-utah,GPE
+Spanish,4186526,0,8,,http://en.wikipedia.org/wiki/Spanish_Lake_(Ascension_Parish),Spanish Lake,spanish-lake,spanish-lake-ascension-parish,UNK
+Spanish,29503878,1,6,,"http://en.wikipedia.org/wiki/Spanish_Town,_United_States_Virgin_Islands","Spanish Town, United States Virgin Islands",spanish-town-united-states-virgin-islands,spanish-town-united-states-virgin-islands,GPE
+Spanish,17473275,0,6,26667,http://en.wikipedia.org/wiki/White-faced_Black_Spanish_chicken,White-faced Black Spanish chicken,white-faced-black-spanish-chicken,white-faced-black-spanish-chicken,UNK
+Spanish,5082805,6,99,,"http://en.wikipedia.org/wiki/Spanish_Town,_Baton_Rouge,_Louisiana","Spanish Town, Baton Rouge, Louisiana",spanish-town-baton-rouge-louisiana,spanish-town-baton-rouge-louisiana,UNK
+Spanish,26825,30522,647,1043873;8079600;3383;1248592;1523829;9239;1537897;963152;18842471;26413;16320787;273633;26667;26825;19906671;459319;2050142;3639393;26814387;18935041;2716954;609825;500409;5888447;16074396,http://en.wikipedia.org/wiki/Spanish_language,Spanish language,spanish-language,spanish-language,UNK
+Spanish,18842471,5299,694,26413;963152;9239;273633;200764;5980301;609825;5991438;8740160;26667;26825;88459;19906671;18842471;500409;459319,http://en.wikipedia.org/wiki/Spanish_Civil_War,Spanish Civil War,spanish-civil-war,spanish-civil-war,UNK
+Spanish,19906671,23,64,18842471;26825;26667,http://en.wikipedia.org/wiki/Spanish_opera,Spanish opera,spanish-opera,spanish-opera,UNK
+Spanish,22942647,1,7,,http://en.wikipedia.org/wiki/Spanish_Lake_(Iberia_Parish),Spanish Lake,spanish-lake,spanish-lake-iberia-parish,UNK
+Spanish,10918718,9,8,,"http://en.wikipedia.org/wiki/Spanish_Town,_British_Virgin_Islands","Spanish Town, British Virgin Islands",spanish-town-british-virgin-islands,spanish-town-british-virgin-islands,UNK
+Spanish,18935041,241,135,26667;26825;18935041,http://en.wikipedia.org/wiki/Spanish_Wikipedia,Spanish Wikipedia,spanish-wikipedia,spanish-wikipedia,UNK
+Spanish,1523829,237,229,5888447;26667;26825;3639393;16320787,http://en.wikipedia.org/wiki/Mexican_Spanish,Mexican Spanish,mexican-spanish,mexican-spanish,UNK
+Spanish,2050142,280,188,5888447;26667;26825,http://en.wikipedia.org/wiki/Spanish_Texas,Spanish Texas,spanish-texas,spanish-texas,UNK
+Spanish,2716954,431,155,459319;26667;26825,http://en.wikipedia.org/wiki/Spanish_Florida,Spanish Florida,spanish-florida,spanish-florida,UNK
+Brazilian,3383,84101,1038,419988;8079600;3383;3631;3482503;1248592;8454634;9239;11370;30863678;11108427;719095;13688885;963152;26413;149286;26667;26825;4628340;454123;168079;681926;11982053;4781788;1168189;1043873;22681791;200764;357590;3142043;8794264;3286721;3287319;26814387;112165;386195;6384006;30868004;27301828;855087;609825;19886337;502049;20732255,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Brazilian,11982053,1714,305,963152;8794264;1043873;3383;26667;3631;30863678;4628340;38411413,http://en.wikipedia.org/wiki/Brazilian_people,Brazilian people,brazilian-people,brazilian-people,UNK
+Brazilian,30863678,354,347,1043873;3383;3631;8794264;30863678;11982053,http://en.wikipedia.org/wiki/Italian_Brazilian,Italian Brazilian,italian-brazilian,italian-brazilian,UNK
+Brazilian,1043873,372,442,3383;26825;3631;8794264;30863678;11982053,http://en.wikipedia.org/wiki/German_Brazilian,German Brazilian,german-brazilian,german-brazilian,UNK
+Brazilian,8079600,11,28,26825;3383,http://en.wikipedia.org/wiki/Brazilian_Island,Brazilian Island,brazilian-island,brazilian-island,UNK
+Brazilian,8691009,13,27,,http://en.wikipedia.org/wiki/The_Brazilian,The Brazilian,the-brazilian,the-brazilian,UNK
+Real,26413,3137,877,26413;3286721;32079701;200764;149286;609825;12345223;11049;4781788;3287319;3383;26667;454123;26825;26172697;386195;665012;18842471;20732255;22681791;1248592;1148506;3313708,http://en.wikipedia.org/wiki/Real_Madrid_C.F.,Real Madrid C.F.,real-madrid-cf,real-madrid-cf,ORG
+Real,32079701,6,91,26413,http://en.wikipedia.org/wiki/Real_Madrid_(South_Africa),Real Madrid,real-madrid,real-madrid-south-africa,UNK
+Real,3286721,799,583,26413;3287319;3383;26667,http://en.wikipedia.org/wiki/Real_Madrid_Baloncesto,Real Madrid Baloncesto,real-madrid-baloncesto,real-madrid-baloncesto,ORG
+Real,22264493,1,11,22264493,http://en.wikipedia.org/wiki/Real_Madrid_(Puerto_Rico),Real Madrid,real-madrid,real-madrid-puerto-rico,UNK
+Real,3287319,653,215,609825;26413;3383;26667;200764;3286721,http://en.wikipedia.org/wiki/Real_Madrid_Castilla,Real Madrid Castilla,real-madrid-castilla,real-madrid-castilla,UNK
+Deportivo,200764,1212,475,2553956;26413;6384006;3142043;1148506;18842471;3287319;36664400;3383;26667;3313708;200764;500409;16074396,http://en.wikipedia.org/wiki/Deportivo_de_La_Coruña,Deportivo de La Coruña,deportivo-de-la-coruna,deportivo-de-la-coruna,UNK
+Deportivo,16074396,6,14,16074396;200764;26825,http://en.wikipedia.org/wiki/Déportivo,Déportivo,deportivo,deportivo,PER
+Deportivo,40286695,1,11,,http://en.wikipedia.org/wiki/Deportivo_FC,Deportivo FC,deportivo-fc,deportivo-fc,UNK
+Auxerre,990753,1134,331,524642;26667,http://en.wikipedia.org/wiki/AJ_Auxerre,AJ Auxerre,aj-auxerre,aj-auxerre,UNK
+Auxerre,1120237,45,23,524642,http://en.wikipedia.org/wiki/County_of_Auxerre,County of Auxerre,county-of-auxerre,county-of-auxerre,UNK
+Auxerre,524642,935,701,990753;1120237;304821,http://en.wikipedia.org/wiki/Auxerre,Auxerre,auxerre,auxerre,UNK
+Brazilian-born,3383,84101,1038,419988;8079600;3383;3631;3482503;1248592;8454634;9239;11370;30863678;11108427;719095;13688885;963152;26413;149286;26667;26825;4628340;454123;168079;681926;11982053;4781788;1168189;1043873;22681791;200764;357590;3142043;8794264;3286721;3287319;26814387;112165;386195;6384006;30868004;27301828;855087;609825;19886337;502049;20732255,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Donato,6384006,61,73,200764;26667;500409;419988;3142043;609825;3383,http://en.wikipedia.org/wiki/Donato_Gama_da_Silva,Donato Gama da Silva,donato-gama-da-silva,donato-gama-da-silva,PER
+Donato,6825122,85,99,,"http://en.wikipedia.org/wiki/Donato,_Piedmont","Donato, Piedmont",donato-piedmont,donato-piedmont,UNK
+Luis Milla,12345223,79,94,3313708;26667;26413;27663544;609825,http://en.wikipedia.org/wiki/Luis_Milla,Luis Milla,luis-milla,luis-milla,PER
+Armando Alvarez,36664400,6,18,36664400;609825;200764;11049;26667,http://en.wikipedia.org/wiki/Armando_Álvarez,Armando Álvarez,armando-alvarez,armando-alvarez,PER
+Jacques Songo'o,2553956,0,144,200764;168079;500409;11370,http://en.wikipedia.org/wiki/Jacques_Songo'o,Jacques Songo'o,jacques-songoo,jacques-songoo,PER
+FIFA,11049,13148,603,454123;2986103;665012;3482503;1248592;8454634;11049;11370;386243;386195;168079;719095;609825;681926;26413;149286;4781788;1168189;20732255;36664400,http://en.wikipedia.org/wiki/FIFA,FIFA,fifa,fifa,UNK
+FIFA,386195,1719,259,386243;386195;26413;719095;681926;20732255;149286;3482503;609825;11049;1248592;168079;1168189;3383;26667;454123;11370,http://en.wikipedia.org/wiki/FIFA_World_Player_of_the_Year,FIFA World Player of the Year,fifa-world-player-of-the-year,fifa-world-player-of-the-year,UNK
+FIFA,168079,3921,505,719095;149286;609825;11049;4781788;1168189;3383;26667;454123;11370;386195;665012;681926;2553956;3482503;168079;3313708;26814387,http://en.wikipedia.org/wiki/2010_FIFA_World_Cup,2010 FIFA World Cup,2010-fifa-world-cup,2010-fifa-world-cup,UNK
+FIFA,11108427,155,285,9239;26667;609825;26172697;5968710;22681791;149286;3383,http://en.wikipedia.org/wiki/FIFA_08,FIFA 08,fifa-08,fifa-08,UNK
+FIFA,1248592,2093,398,386195;26413;719095;681926;149286;3482503;11049;1248592;8454634;1168189;3383;26667;26825;11370,http://en.wikipedia.org/wiki/FIFA_Club_World_Cup,FIFA Club World Cup,fifa-club-world-cup,fifa-club-world-cup,ORG
+FIFA,719095,1505,212,3482503;609825;386243;386195;11049;1248592;168079;1168189;681926;3383;20732255;11370;149286,http://en.wikipedia.org/wiki/FIFA_World_Rankings,FIFA World Rankings,fifa-world-rankings,fifa-world-rankings,UNK
+FIFA,5968710,105,125,26172697;11108427;22681791;149286,http://en.wikipedia.org/wiki/FIFA_Football_2004,FIFA Football 2004,fifa-football-2004,fifa-football-2004,UNK
+FIFA,26814387,147,305,26667;168079;26825;3482503;11370;3383,http://en.wikipedia.org/wiki/FIFA_World_Cup_official_songs,FIFA World Cup official songs,fifa-world-cup-official-songs,fifa-world-cup-official-songs,UNK
+FIFA,22681791,155,211,9239;26667;26172697;11108427;26413;5968710;3383,http://en.wikipedia.org/wiki/FIFA_10,FIFA 10,fifa-10,fifa-10,UNK
+FIFA,8454634,135,136,1248592;11049;3383,http://en.wikipedia.org/wiki/2007_FIFA_Club_World_Cup,2007 FIFA Club World Cup,2007-fifa-club-world-cup,2007-fifa-club-world-cup,UNK
+FIFA,3482503,493,544,168079;3482503;1168189;609825;386195;11049;3383;719095;26667;454123;1248592;11370;26814387;149286,http://en.wikipedia.org/wiki/FIFA_World_Cup_awards,FIFA World Cup awards,fifa-world-cup-awards,fifa-world-cup-awards,ORG
+FIFA,11370,5586,616,719095;149286;609825;11049;4781788;1168189;3383;26667;454123;11370;386243;386195;3142043;681926;20732255;2553956;3482503;1248592;168079;26814387,http://en.wikipedia.org/wiki/FIFA_World_Cup,FIFA World Cup,fifa-world-cup,fifa-world-cup,UNK
+FIFA,386243,25,96,1168189;719095;20732255;386195;11049;11370,http://en.wikipedia.org/wiki/1999_FIFA_World_Player_of_the_Year,1999 FIFA World Player of the Year,1999-fifa-world-player-of-the-year,1999-fifa-world-player-of-the-year,UNK
+FIFA,20732255,54,159,386243;719095;386195;26667;26413;1168189;11049;11370;3383,http://en.wikipedia.org/wiki/2008_FIFA_World_Player_of_the_Year,2008 FIFA World Player of the Year,2008-fifa-world-player-of-the-year,2008-fifa-world-player-of-the-year,UNK
+FIFA,1168189,1968,312,386243;386195;719095;681926;20732255;149286;3482503;609825;11049;1248592;168079;1168189;3383;26667;11370;3313708,http://en.wikipedia.org/wiki/FIFA_U-20_World_Cup,FIFA U-20 World Cup,fifa-u-20-world-cup,fifa-u-20-world-cup,ORG
+FIFA,26172697,145,166,9239;11108427;26413;5968710;22681791,http://en.wikipedia.org/wiki/FIFA_11,FIFA 11,fifa-11,fifa-11,UNK
+Mauro Silva,3142043,126,132,200764;454123;419988;6384006;11370;149286;3383,http://en.wikipedia.org/wiki/Mauro_Silva,Mauro Silva,mauro-silva,mauro-silva,PER
+Europe,9239,51349,1032,3383;17891966;9239;23620443;11108427;963152;18842471;3499945;26667;26825;20272716;26172697;5888447;628999;22681791;1187515;358518;755102;87187;8794264;13562519;500409;3313708,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+Europe,17891966,192,242,9239,http://en.wikipedia.org/wiki/Europe_(anthem),Europe,europe,europe-anthem,UNK
+Europe,1659361,12,34,,http://en.wikipedia.org/wiki/European_Patent_Litigation_Agreement,European Patent Litigation Agreement,european-patent-litigation-agreement,european-patent-litigation-agreement,UNK
+Europe,15132000,13,28,,"http://en.wikipedia.org/wiki/Old_Europe,_New_Europe,_Core_Europe","Old Europe, New Europe, Core Europe",old-europe-new-europe-core-europe,old-europe-new-europe-core-europe,UNK
+Europe,2826281,77,84,,http://en.wikipedia.org/wiki/Europe_GAA,Europe GAA,europe-gaa,europe-gaa,GPE
+Europe,7514548,108,319,,http://en.wikipedia.org/wiki/Europe_Street,Europe Street,europe-street,europe-street,GPE
+Europe,5805422,293,153,87187,http://en.wikipedia.org/wiki/European_Union_Microsoft_competition_case,European Union Microsoft competition case,european-union-microsoft-competition-case,european-union-microsoft-competition-case,ORG
+Europe,1187515,306,383,13562519;9239;1187515;26667,http://en.wikipedia.org/wiki/Geography_of_Europe,Geography of Europe,geography-of-europe,geography-of-europe,UNK
+Europe,358518,602,118,358518;9239;26667,http://en.wikipedia.org/wiki/Europe_(band),Europe,europe,europe-band,UNK
+Europe,755102,85,158,9239,http://en.wikipedia.org/wiki/Old_Europe_(archaeology),Old Europe,old-europe,old-europe-archaeology,UNK
+Europe,14051635,1,6,,http://en.wikipedia.org/wiki/DJ_Europe,DJ Europe,dj-europe,dj-europe,UNK
+Europe,628999,133,18,9239;20272716,"http://en.wikipedia.org/wiki/Europe,_the_Middle_East_and_Africa","Europe, the Middle East and Africa",europe-the-middle-east-and-africa,europe-the-middle-east-and-africa,UNK
+Europe,406269,18,53,,http://en.wikipedia.org/wiki/Old_Europe_(politics),Old Europe,old-europe,old-europe-politics,ORG
+Europe,304821,111,138,304821;524642,http://en.wikipedia.org/wiki/2003_European_heat_wave,2003 European heat wave,2003-european-heat-wave,2003-european-heat-wave,UNK
+Europe,26450398,2,11,,http://en.wikipedia.org/wiki/Europe/London,Europe/London,europe-london,europe-london,PER
+Europe,13562519,17,304,9239;1187515,http://en.wikipedia.org/wiki/Greater_Europe,Greater Europe,greater-europe,greater-europe,ORG
+Europe,12586001,1,13,,http://en.wikipedia.org/wiki/Europe_Lake,Europe Lake,europe-lake,europe-lake,UNK
+Europe,503907,29,46,,http://en.wikipedia.org/wiki/Europe_(Paris_Métro),Europe,europe,europe-paris-metro,UNK
+Europe,11787932,277,273,26667,http://en.wikipedia.org/wiki/European_driving_licence,European driving licence,european-driving-licence,european-driving-licence,UNK
+Europe,20272716,1,11,20272716;628999;9239,"http://en.wikipedia.org/wiki/Europe,_Middle_East,_Africa_and_Latin_America","Europe, Middle East, Africa and Latin America",europe-middle-east-africa-and-latin-america,europe-middle-east-africa-and-latin-america,UNK
+Europe,855087,344,374,3383;26667,http://en.wikipedia.org/wiki/Europe_(dinghy),Europe,europe,europe-dinghy,UNK
+Europe,13659804,72,126,26667,http://en.wikipedia.org/wiki/European_Youth_Chess_Championship,European Youth Chess Championship,european-youth-chess-championship,european-youth-chess-championship,PER
+Europe,3499945,3,21,9239,http://en.wikipedia.org/wiki/Europe_(story),Europe,europe,europe-story,UNK
+Europe,23620443,13,20,9239,http://en.wikipedia.org/wiki/Europe_(magazine),Europe,europe,europe-magazine,UNK
+Europe,87187,825,370,5805422;87187;9239;26667,http://en.wikipedia.org/wiki/European_Court_of_Justice,European Court of Justice,european-court-of-justice,european-court-of-justice,ORG
+John Toshack,1148506,594,456,26413;26667;665012;200764,http://en.wikipedia.org/wiki/John_Toshack,John Toshack,john-toshack,john-toshack,PER
+Silva,4655980,20,35,,"http://en.wikipedia.org/wiki/Silva,_Missouri","Silva, Missouri",silva-missouri,silva-missouri,GPE
+Silva,2986103,138,149,419988;11049,http://en.wikipedia.org/wiki/Darío_Silva,Darío Silva,dario-silva,dario-silva,PER
+Silva,5921853,92,95,,http://en.wikipedia.org/wiki/Silva_(Barcelos),Silva,silva,silva-barcelos,ORG
+Silva,4781788,319,275,168079;609825;26413;11049;3383;26667;419988;11370;3313708;500409,http://en.wikipedia.org/wiki/David_Silva,David Silva,david-silva,david-silva,PER
+Silva,3651665,3,6,,http://en.wikipedia.org/wiki/Silva_(Spanish_strophe),Silva,silva,silva-spanish-strophe,UNK
+Silva,17167993,51,91,26667,http://en.wikipedia.org/wiki/Germán_Silva,Germán Silva,german-silva,german-silva,PER
+Silva,5812296,1,2,,http://en.wikipedia.org/wiki/Silva_Project,Silva Project,silva-project,silva-project,ORG
+Silva,419988,18,233,454123;4781788;2986103;6384006;3142043;3383,http://en.wikipedia.org/wiki/Silva,Silva,silva,silva,UNK
+Brazil,149286,3969,1115,11108427;26413;719095;149286;609825;11049;1168189;3383;26667;454123;11370;386195;5968710;665012;3142043;681926;3482503;1248592;168079,http://en.wikipedia.org/wiki/Brazil_national_football_team,Brazil national football team,brazil-national-football-team,brazil-national-football-team,ORG
+Brazil,681926,1338,314,609825;386195;11049;719095;1248592;168079;1168189;3383;11370;149286,http://en.wikipedia.org/wiki/Brazilian_Football_Confederation,Brazilian Football Confederation,brazilian-football-confederation,brazilian-football-confederation,UNK
+Brazil,8794264,635,458,27301828;1043873;3383;9239;26667;3631;30863678;11982053,http://en.wikipedia.org/wiki/Tourism_in_Brazil,Tourism in Brazil,tourism-in-brazil,tourism-in-brazil,ORG
+Brazil,16052160,4,59,,"http://en.wikipedia.org/wiki/Brazil,_Northern_Cape","Brazil, Northern Cape",brazil-northern-cape,brazil-northern-cape,UNK
+Brazil,13707513,57,75,112165,"http://en.wikipedia.org/wiki/Brazil_Township,_Clay_County,_Indiana","Brazil Township, Clay County, Indiana",brazil-township-clay-county-indiana,brazil-township-clay-county-indiana,GPE
+Brazil,13688885,76,71,3383,http://en.wikipedia.org/wiki/Kingdom_of_Brazil,Kingdom of Brazil,kingdom-of-brazil,kingdom-of-brazil,GPE
+Brazil,36002865,24,50,,http://en.wikipedia.org/wiki/Brazil_with_Michael_Palin,Brazil with Michael Palin,brazil-with-michael-palin,brazil-with-michael-palin,UNK
+Brazil,22575394,2,6,,"http://en.wikipedia.org/wiki/Brazil_Lake,_Nova_Scotia","Brazil Lake, Nova Scotia",brazil-lake-nova-scotia,brazil-lake-nova-scotia,GPE
+Brazil,38154757,13,29,,"http://en.wikipedia.org/wiki/Brazil,_Kentucky","Brazil, Kentucky",brazil-kentucky,brazil-kentucky,UNK
+Brazil,3383,84101,1038,419988;8079600;3383;3631;3482503;1248592;8454634;9239;11370;30863678;11108427;719095;13688885;963152;26413;149286;26667;26825;4628340;454123;168079;681926;11982053;4781788;1168189;1043873;22681791;200764;357590;3142043;8794264;3286721;3287319;26814387;112165;386195;6384006;30868004;27301828;855087;609825;19886337;502049;20732255,http://en.wikipedia.org/wiki/Brazil,Brazil,brazil,brazil,GPE
+Brazil,112165,193,213,13707513;3383,"http://en.wikipedia.org/wiki/Brazil,_Indiana","Brazil, Indiana",brazil-indiana,brazil-indiana,GPE
+Brazil,29333456,0,11,,http://en.wikipedia.org/wiki/Mount_Brazil,Mount Brazil,mount-brazil,mount-brazil,UNK
+Brazil,30868004,2,61,3383;26667,http://en.wikipedia.org/wiki/Brazil_International,Brazil International,brazil-international,brazil-international,UNK
+Brazil,27301828,209,230,8794264;3383,http://en.wikipedia.org/wiki/Coffee_production_in_Brazil,Coffee production in Brazil,coffee-production-in-brazil,coffee-production-in-brazil,UNK
+Brazil,3631,653,292,1043873;3383;3631;8794264;30863678;11982053,http://en.wikipedia.org/wiki/Geography_of_Brazil,Geography of Brazil,geography-of-brazil,geography-of-brazil,UNK
+Brazil,27565426,23,40,,"http://en.wikipedia.org/wiki/Brazil,_Mississippi","Brazil, Mississippi",brazil-mississippi,brazil-mississippi,GPE
+Brazil,38411413,57,77,11982053,"http://en.wikipedia.org/wiki/Little_Brazil,_Manhattan","Little Brazil, Manhattan",little-brazil-manhattan,little-brazil-manhattan,UNK
+Brazil,357590,167,107,963152;3383,http://en.wikipedia.org/wiki/Communist_Party_of_Brazil,Communist Party of Brazil,communist-party-of-brazil,communist-party-of-brazil,ORG
+Brazil,7519411,23,26,,http://en.wikipedia.org/wiki/Brazil_(band),Brazil,brazil,brazil-band,UNK
+Brazil,4497173,48,14,,http://en.wikipedia.org/wiki/Little_Brazil,Little Brazil,little-brazil,little-brazil,UNK
+Brazil,4628340,199,184,11982053;3383,http://en.wikipedia.org/wiki/Dutch_Brazil,Dutch Brazil,dutch-brazil,dutch-brazil,GPE
+Brazil,19886337,4,48,3383,http://en.wikipedia.org/wiki/Brazil_(public_relations_agency),Brazil,brazil,brazil-public-relations-agency,UNK

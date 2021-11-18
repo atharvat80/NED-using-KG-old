@@ -1,0 +1,12 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+CALGARY,15895358,8050,978,1725874;1058251;15895358;791923;1361044;7969847;293781,http://en.wikipedia.org/wiki/Calgary,Calgary,calgary,calgary,GPE
+CALGARY,27616499,3,10,1058251,http://en.wikipedia.org/wiki/Calgary_Castle,Calgary Castle,calgary-castle,calgary-castle,UNK
+CALGARY,1361044,251,157,293781;1058251;15895358,http://en.wikipedia.org/wiki/Calgary_Region,Calgary Region,calgary-region,calgary-region,GPE
+CALGARY,293781,1951,252,1361044;15895358;791923,http://en.wikipedia.org/wiki/Calgary_International_Airport,Calgary International Airport,calgary-international-airport,calgary-international-airport,UNK
+CALGARY,16235915,5,5,,http://en.wikipedia.org/wiki/Calgary_Foundation,Calgary Foundation,calgary-foundation,calgary-foundation,ORG
+CALGARY,791923,144,81,7969847;15895358;293781,http://en.wikipedia.org/wiki/Calgary_Tower,Calgary Tower,calgary-tower,calgary-tower,UNK
+CALGARY,1787994,19,19,6313152,http://en.wikipedia.org/wiki/Calgary_(electoral_district),Calgary,calgary,calgary-electoral-district,UNK
+CALGARY,1725874,40,69,15895358,http://en.wikipedia.org/wiki/Calgary_School,Calgary School,calgary-school,calgary-school,UNK
+CALGARY,7969847,37,111,15895358;791923,http://en.wikipedia.org/wiki/Calgary_Opera,Calgary Opera,calgary-opera,calgary-opera,GPE
+CALGARY,6313152,14,38,1787994,http://en.wikipedia.org/wiki/Calgary_(N.W.T._electoral_district),Calgary,calgary,calgary-nwt-electoral-district,UNK
+CALGARY,1058251,57,88,1361044;15895358;27616499,"http://en.wikipedia.org/wiki/Calgary,_Mull","Calgary, Mull",calgary-mull,calgary-mull,GPE

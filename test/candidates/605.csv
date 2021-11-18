@@ -1,0 +1,22 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+HELIBOR,21112335,2,7,850543,http://en.wikipedia.org/wiki/Helibor,Helibor,helibor,helibor,PER
+HELSINKI,13696,9845,920,871024;141541;1079094;206554;377307;850543;220548;1190033;13696;3526569,http://en.wikipedia.org/wiki/Helsinki,Helsinki,helsinki,helsinki,GPE
+HELSINKI,3526569,11,27,871024;13696,http://en.wikipedia.org/wiki/Helsinki_(electoral_district),Helsinki,helsinki,helsinki-electoral-district,UNK
+HELSINKI,206554,17,19,871024;13696,http://en.wikipedia.org/wiki/Helsinki_Metropolitan_Area_Council,Helsinki Metropolitan Area Council,helsinki-metropolitan-area-council,helsinki-metropolitan-area-council,UNK
+HELSINKI,141541,284,319,871024;13696,http://en.wikipedia.org/wiki/Helsinki_Airport,Helsinki Airport,helsinki-airport,helsinki-airport,UNK
+HELSINKI,1079094,15,22,13696,http://en.wikipedia.org/wiki/Politics_of_Helsinki,Politics of Helsinki,politics-of-helsinki,politics-of-helsinki,UNK
+HELSINKI,377307,5,75,13696,http://en.wikipedia.org/wiki/Geography_of_Helsinki,Geography of Helsinki,geography-of-helsinki,geography-of-helsinki,UNK
+HELSINKI,220548,805,237,13696;220548,http://en.wikipedia.org/wiki/University_of_Helsinki,University of Helsinki,university-of-helsinki,university-of-helsinki,ORG
+HELSINKI,1190033,648,371,13696,http://en.wikipedia.org/wiki/Helsinki_Olympic_Stadium,Helsinki Olympic Stadium,helsinki-olympic-stadium,helsinki-olympic-stadium,UNK
+HELSINKI,871024,108,35,141541;3526569;13696;206554,http://en.wikipedia.org/wiki/Greater_Helsinki,Greater Helsinki,greater-helsinki,greater-helsinki,UNK
+Helibor,21112335,2,7,850543,http://en.wikipedia.org/wiki/Helibor,Helibor,helibor,helibor,PER
+Bank of Finland,850543,172,285,13696;21112335,http://en.wikipedia.org/wiki/Bank_of_Finland,Bank of Finland,bank-of-finland,bank-of-finland,UNK
+Helsinki,13696,9845,920,871024;141541;1079094;206554;377307;850543;220548;1190033;13696;3526569,http://en.wikipedia.org/wiki/Helsinki,Helsinki,helsinki,helsinki,GPE
+Helsinki,3526569,11,27,871024;13696,http://en.wikipedia.org/wiki/Helsinki_(electoral_district),Helsinki,helsinki,helsinki-electoral-district,UNK
+Helsinki,206554,17,19,871024;13696,http://en.wikipedia.org/wiki/Helsinki_Metropolitan_Area_Council,Helsinki Metropolitan Area Council,helsinki-metropolitan-area-council,helsinki-metropolitan-area-council,UNK
+Helsinki,141541,284,319,871024;13696,http://en.wikipedia.org/wiki/Helsinki_Airport,Helsinki Airport,helsinki-airport,helsinki-airport,UNK
+Helsinki,1079094,15,22,13696,http://en.wikipedia.org/wiki/Politics_of_Helsinki,Politics of Helsinki,politics-of-helsinki,politics-of-helsinki,UNK
+Helsinki,377307,5,75,13696,http://en.wikipedia.org/wiki/Geography_of_Helsinki,Geography of Helsinki,geography-of-helsinki,geography-of-helsinki,UNK
+Helsinki,220548,805,237,13696;220548,http://en.wikipedia.org/wiki/University_of_Helsinki,University of Helsinki,university-of-helsinki,university-of-helsinki,ORG
+Helsinki,1190033,648,371,13696,http://en.wikipedia.org/wiki/Helsinki_Olympic_Stadium,Helsinki Olympic Stadium,helsinki-olympic-stadium,helsinki-olympic-stadium,UNK
+Helsinki,871024,108,35,141541;3526569;13696;206554,http://en.wikipedia.org/wiki/Greater_Helsinki,Greater Helsinki,greater-helsinki,greater-helsinki,UNK

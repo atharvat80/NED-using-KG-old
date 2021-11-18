@@ -1,0 +1,27 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Surinam,26828,4868,523,684373;475061;2418398;35987447;18949613;105961;9647657;30709512;471914;26828;57370;21332;21148;28607414;38895692,http://en.wikipedia.org/wiki/Suriname,Suriname,suriname,suriname,GPE
+Surinam,35987447,202,153,35987447;471914;28607414;26828;21332;18949613;2418398;21148,http://en.wikipedia.org/wiki/Surinam_(Dutch_colony),Surinam,surinam,surinam-dutch-colony,GPE
+Surinam,471914,179,164,35987447;28607414;26828,http://en.wikipedia.org/wiki/Surinamese_dollar,Surinamese dollar,surinamese-dollar,surinamese-dollar,UNK
+Surinam,24825171,3,13,,"http://en.wikipedia.org/wiki/Surinam,_Mauritius","Surinam, Mauritius",surinam-mauritius,surinam-mauritius,UNK
+PARAMARIBO,57370,644,104,28607414;38895692;684373;26828;9647657;18949613;2418398;105961;21148,http://en.wikipedia.org/wiki/Paramaribo,Paramaribo,paramaribo,paramaribo,GPE
+PARAMARIBO,684373,88,87,2418398;21148;38895692;26828;57370,http://en.wikipedia.org/wiki/Paramaribo_District,Paramaribo District,paramaribo-district,paramaribo-district,GPE
+Surinamese,26828,4868,523,684373;475061;2418398;35987447;18949613;105961;9647657;30709512;471914;26828;57370;21332;21148;28607414;38895692,http://en.wikipedia.org/wiki/Suriname,Suriname,suriname,suriname,GPE
+Surinamese,28607414,52,108,105961;21148;35987447;471914;26828;57370;30709512,http://en.wikipedia.org/wiki/Surinamese_people,Surinamese people,surinamese-people,surinamese-people,UNK
+Surinamese,30709512,34,55,21148;26828;28607414;18949613,http://en.wikipedia.org/wiki/Surinamese_people_in_the_Netherlands,Surinamese people in the Netherlands,surinamese-people-in-the-netherlands,surinamese-people-in-the-netherlands,UNK
+Netherlands,21148,78333,1147,27483885;21332;21148;21161;30709512;26828;28607414;169683;684373;1553658;57370;35987447;9647657;475061;2164343;5434703;18949613,http://en.wikipedia.org/wiki/Netherlands,Netherlands,netherlands,netherlands,GPE
+Netherlands,21161,153,222,21332;18949613;21148;21161;5434703,http://en.wikipedia.org/wiki/Transport_in_the_Netherlands,Transport in the Netherlands,transport-in-the-netherlands,transport-in-the-netherlands,UNK
+Netherlands,169683,33,39,21148,http://en.wikipedia.org/wiki/Capital_of_the_Netherlands,Capital of the Netherlands,capital-of-the-netherlands,capital-of-the-netherlands,GPE
+Netherlands,5434703,71,174,21148;21161;475061;9647657;18949613,http://en.wikipedia.org/wiki/Netherlands_(toponymy),Netherlands,netherlands,netherlands-toponymy,UNK
+Netherlands,18949613,1365,341,1553658;5434703;30709512;35987447;26828;21332;21148;21161;57370,http://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands,Kingdom of the Netherlands,kingdom-of-the-netherlands,kingdom-of-the-netherlands,GPE
+Netherlands,9647657,3010,688,5434703;9647657;26828;57370;27483885;2164343;21148,http://en.wikipedia.org/wiki/Netherlands_national_football_team,Netherlands national football team,netherlands-national-football-team,netherlands-national-football-team,UNK
+Netherlands,475061,100,133,21148;5434703;26828,http://en.wikipedia.org/wiki/Greater_Netherlands,Greater Netherlands,greater-netherlands,greater-netherlands,UNK
+Netherlands,21332,1952,394,35987447;18949613;21148;21161;26828,http://en.wikipedia.org/wiki/Netherlands_Antilles,Netherlands Antilles,netherlands-antilles,netherlands-antilles,GPE
+Netherlands,27483885,513,309,9647657;21148,http://en.wikipedia.org/wiki/Netherlands_national_under-19_football_team,Netherlands national under-19 football team,netherlands-national-under-19-football-team,netherlands-national-under-19-football-team,UNK
+Netherlands,2164343,701,337,9647657;21148,http://en.wikipedia.org/wiki/Netherlands_national_cricket_team,Netherlands national cricket team,netherlands-national-cricket-team,netherlands-national-cricket-team,UNK
+Netherlands,1553658,68,12,21148;18949613,http://en.wikipedia.org/wiki/European_Netherlands,European Netherlands,european-netherlands,european-netherlands,UNK
+Netherlands,10477250,25,56,,http://en.wikipedia.org/wiki/Great_Depression_in_the_Netherlands,Great Depression in the Netherlands,great-depression-in-the-netherlands,great-depression-in-the-netherlands,UNK
+Moengo,2418398,103,88,684373;35987447;38895692;26828;57370,http://en.wikipedia.org/wiki/Moengo,Moengo,moengo,moengo,GPE
+Moengo,38895692,2,88,684373;2418398;26828;57370,"http://en.wikipedia.org/wiki/Moengo,_Suriname","Moengo, Suriname",moengo-suriname,moengo-suriname,GPE
+Paramaribo,57370,644,104,28607414;38895692;684373;26828;9647657;18949613;2418398;105961;21148,http://en.wikipedia.org/wiki/Paramaribo,Paramaribo,paramaribo,paramaribo,GPE
+Paramaribo,684373,88,87,2418398;21148;38895692;26828;57370,http://en.wikipedia.org/wiki/Paramaribo_District,Paramaribo District,paramaribo-district,paramaribo-district,GPE
+Desi Bouterse,105961,136,106,28607414;26828;105961;57370,http://en.wikipedia.org/wiki/Dési_Bouterse,Dési Bouterse,desi-bouterse,desi-bouterse,PER

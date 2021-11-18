@@ -1,0 +1,123 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+N. Korea,21255,8616,751,106424;16749;19159283;298883;298884;4894490;21255;21257;4251353;16697268;23143408;27021;27019;1565499;5023832;15487,http://en.wikipedia.org/wiki/North_Korea,North Korea,north-korea,north-korea,GPE
+S. Korea,27019,38617,831,905855;2932451;1056336;15487;16749;19159283;21255;21257;4251353;27021;27019;106424;174467;4196610;4894490;598720;4607874;1565499;30807616;298883;298884;16697268;23143408;5023832,http://en.wikipedia.org/wiki/South_Korea,South Korea,south-korea,south-korea,GPE
+SEOUL,19159283,10914,801,16749;174467;19159283;30807616;4196610;298884;905855;21255;16697268;598720;4607874;27021;27019;1056336,http://en.wikipedia.org/wiki/Seoul,Seoul,seoul,seoul,GPE
+SEOUL,1056336,815,370,1056336;19159283;27019,http://en.wikipedia.org/wiki/FC_Seoul,FC Seoul,fc-seoul,fc-seoul,UNK
+SEOUL,4975108,0,2,,http://en.wikipedia.org/wiki/Seoul_Airport,Seoul Airport,seoul-airport,seoul-airport,UNK
+SEOUL,4196610,94,63,19159283;27019;16749,http://en.wikipedia.org/wiki/Seoul_Institute_of_the_Arts,Seoul Institute of the Arts,seoul-institute-of-the-arts,seoul-institute-of-the-arts,UNK
+SEOUL,2178409,106,299,2178409,http://en.wikipedia.org/wiki/Little_Seoul,Little Seoul,little-seoul,little-seoul,UNK
+SEOUL,4607874,41,47,19159283;27019,http://en.wikipedia.org/wiki/University_of_Seoul,University of Seoul,university-of-seoul,university-of-seoul,UNK
+SEOUL,905855,376,310,19159283;27019,http://en.wikipedia.org/wiki/Seoul_Station,Seoul Station,seoul-station,seoul-station,UNK
+North Korea,21255,8616,751,106424;16749;19159283;298883;298884;4894490;21255;21257;4251353;16697268;23143408;27021;27019;1565499;5023832;15487,http://en.wikipedia.org/wiki/North_Korea,North Korea,north-korea,north-korea,GPE
+North Korea,23143408,49,98,174467;106424;21255;27019,http://en.wikipedia.org/wiki/2009_imprisonment_of_American_journalists_by_North_Korea,2009 imprisonment of American journalists by North Korea,2009-imprisonment-of-american-journalists-by-north-korea,2009-imprisonment-of-american-journalists-by-north-korea,ORG
+North Korea,298883,159,145,298884;174467;21255;106424;27019;16749,http://en.wikipedia.org/wiki/North_Korean_won,North Korean won,north-korean-won,north-korean-won,UNK
+North Korea,21257,257,143,21255;106424;27021;27019;16749,http://en.wikipedia.org/wiki/Geography_of_North_Korea,Geography of North Korea,geography-of-north-korea,geography-of-north-korea,UNK
+North Korea,4251353,212,112,21255;4251353;106424;1565499;27019;16749,http://en.wikipedia.org/wiki/Religion_in_North_Korea,Religion in North Korea,religion-in-north-korea,religion-in-north-korea,UNK
+North Korea,4894490,99,66,4894490;106424;21255;1565499;27019;16749,http://en.wikipedia.org/wiki/North_Korean_famine,North Korean famine,north-korean-famine,north-korean-famine,UNK
+North Korea,106424,238,288,4894490;23143408;16749;298883;298884;21255;21257;4251353;1565499;27021;27019,http://en.wikipedia.org/wiki/North_Korea_and_weapons_of_mass_destruction,North Korea and weapons of mass destruction,north-korea-and-weapons-of-mass-destruction,north-korea-and-weapons-of-mass-destruction,UNK
+North Korea,1565499,294,227,4894490;106424;16749;21255;4251353;5023832;27019,http://en.wikipedia.org/wiki/Human_rights_in_North_Korea,Human rights in North Korea,human-rights-in-north-korea,human-rights-in-north-korea,UNK
+South Korea,27019,38617,831,905855;2932451;1056336;15487;16749;19159283;21255;21257;4251353;27021;27019;106424;174467;4196610;4894490;598720;4607874;1565499;30807616;298883;298884;16697268;23143408;5023832,http://en.wikipedia.org/wiki/South_Korea,South Korea,south-korea,south-korea,GPE
+South Korea,598720,59,92,19159283;27019,"http://en.wikipedia.org/wiki/South_Korean_legislative_election,_2004","South Korean legislative election, 2004",south-korean-legislative-election-2004,south-korean-legislative-election-2004,UNK
+South Korea,27021,294,126,21255;21257;19159283;106424;27019;16749,http://en.wikipedia.org/wiki/Geography_of_South_Korea,Geography of South Korea,geography-of-south-korea,geography-of-south-korea,UNK
+South Korea,298884,500,219,106424;16749;298883;21255;19159283;27019,http://en.wikipedia.org/wiki/South_Korean_won,South Korean won,south-korean-won,south-korean-won,UNK
+South Korea,2932451,170,127,27019;16749,http://en.wikipedia.org/wiki/South_Korean_nationality_law,South Korean nationality law,south-korean-nationality-law,south-korean-nationality-law,UNK
+South,27019,38617,831,905855;2932451;1056336;15487;16749;19159283;21255;21257;4251353;27021;27019;106424;174467;4196610;4894490;598720;4607874;1565499;30807616;298883;298884;16697268;23143408;5023832,http://en.wikipedia.org/wiki/South_Korea,South Korea,south-korea,south-korea,GPE
+South,1350838,37,39,,http://en.wikipedia.org/wiki/South_Tower_(Brussels),South Tower,south-tower,south-tower-brussels,UNK
+South,26716,9326,372,26716,http://en.wikipedia.org/wiki/South_Australia,South Australia,south-australia,south-australia,UNK
+South,449149,236,203,440802,http://en.wikipedia.org/wiki/South_Northamptonshire,South Northamptonshire,south-northamptonshire,south-northamptonshire,UNK
+South,9021998,63,103,,http://en.wikipedia.org/wiki/South_(Luton_ward),South,south,south-luton-ward,GPE
+South,2663338,83,95,,http://en.wikipedia.org/wiki/South_Lake_(Jiaxing),South Lake,south-lake,south-lake-jiaxing,UNK
+South,22899721,8,8,,http://en.wikipedia.org/wiki/South_(composition),South,south,south-composition,UNK
+South,22318270,14,85,,http://en.wikipedia.org/wiki/I_South,I South,i-south,i-south,UNK
+South,77173,435,46,56478;179553,http://en.wikipedia.org/wiki/South,South,south,south,PER
+South,216788,82,92,449174,http://en.wikipedia.org/wiki/South_Shropshire,South Shropshire,south-shropshire,south-shropshire,UNK
+South,1597301,27,83,,http://en.wikipedia.org/wiki/South_Hampshire,South Hampshire,south-hampshire,south-hampshire,UNK
+South,944685,104,21,1829173;179553,http://en.wikipedia.org/wiki/Old_South,Old South,old-south,old-south,UNK
+South,587062,10,22,587090;589425,http://en.wikipedia.org/wiki/South_River,South River,south-river,south-river,UNK
+South,373622,1150,84,380308,http://en.wikipedia.org/wiki/South_London,South London,south-london,south-london,UNK
+South,963515,328,222,968589,http://en.wikipedia.org/wiki/South_Station,South Station,south-station,south-station,UNK
+South,128405,924,395,128405;158001;832809,http://en.wikipedia.org/wiki/South_Gloucestershire,South Gloucestershire,south-gloucestershire,south-gloucestershire,GPE
+South,448967,232,211,,http://en.wikipedia.org/wiki/South_Cambridgeshire,South Cambridgeshire,south-cambridgeshire,south-cambridgeshire,GPE
+South,242033,70,62,27977;1685102,"http://en.wikipedia.org/wiki/South_Park_(Park_County,_Colorado)",South Park,south-park,south-park-park-county-colorado,UNK
+South,62049,2853,494,62046,http://en.wikipedia.org/wiki/South_Island,South Island,south-island,south-island,UNK
+South,996451,1030,139,568483,http://en.wikipedia.org/wiki/South_Florida,South Florida,south-florida,south-florida,UNK
+South,832809,1786,181,686069;128405,http://en.wikipedia.org/wiki/South_Wales,South Wales,south-wales,south-wales,UNK
+South,179553,4331,756,3052573;944685;179553;77173,http://en.wikipedia.org/wiki/Southern_United_States,Southern United States,southern-united-states,southern-united-states,ORG
+South,27977,2839,468,27977;242033,http://en.wikipedia.org/wiki/South_Park,South Park,south-park,south-park,UNK
+South,31777432,1,17,,http://en.wikipedia.org/wiki/South_(EP),South,south,south-ep,UNK
+South,4267110,71,54,4267190,"http://en.wikipedia.org/wiki/South_Province,_New_Caledonia","South Province, New Caledonia",south-province-new-caledonia,south-province-new-caledonia,UNK
+South,1353816,0,22,1353925,http://en.wikipedia.org/wiki/South_Mountain,South Mountain,south-mountain,south-mountain,UNK
+South,1490661,8,35,,http://en.wikipedia.org/wiki/South_(band),South,south,south-band,UNK
+South,449168,670,262,449168,http://en.wikipedia.org/wiki/South_Oxfordshire,South Oxfordshire,south-oxfordshire,south-oxfordshire,GPE
+South,674966,7,14,,http://en.wikipedia.org/wiki/South_Bay,South Bay,south-bay,south-bay,UNK
+South,901895,81,169,1971404,http://en.wikipedia.org/wiki/South_Region_(Cameroon),South Region,south-region,south-region-cameroon,UNK
+South,1745916,37,132,,http://en.wikipedia.org/wiki/South_Division_(AFL),South Division,south-division,south-division-afl,UNK
+South,449192,289,145,,http://en.wikipedia.org/wiki/South_Staffordshire,South Staffordshire,south-staffordshire,south-staffordshire,UNK
+South,587090,9,14,587062;589425,http://en.wikipedia.org/wiki/South_River_(North_Carolina),South River,south-river,south-river-north-carolina,UNK
+South,1829173,1,8,944685,http://en.wikipedia.org/wiki/Old_South_(orange_juice),Old South,old-south,old-south-orange-juice,UNK
+South,440802,252,163,449149,http://en.wikipedia.org/wiki/South_Derbyshire,South Derbyshire,south-derbyshire,south-derbyshire,UNK
+South,1353925,32,23,1353816,http://en.wikipedia.org/wiki/South_Mountains_(Arizona),South Mountains,south-mountains,south-mountains-arizona,UNK
+South,2321001,406,413,,http://en.wikipedia.org/wiki/South_Street_(Philadelphia),South Street,south-street,south-street-philadelphia,UNK
+South,2630353,229,173,,http://en.wikipedia.org/wiki/South_Arkansas,South Arkansas,south-arkansas,south-arkansas,UNK
+South,589425,5,8,587062;587090,http://en.wikipedia.org/wiki/South_River_(Neuse_River_estuary),South River,south-river,south-river-neuse-river-estuary,UNK
+South,3041572,183,128,2109618,http://en.wikipedia.org/wiki/South_Alabama,South Alabama,south-alabama,south-alabama,UNK
+South,678583,3936,449,1552939;678583,http://en.wikipedia.org/wiki/South_India,South India,south-india,south-india,GPE
+South,1054022,1364,360,415912,http://en.wikipedia.org/wiki/South_Texas,South Texas,south-texas,south-texas,UNK
+South,568483,420,426,996451,http://en.wikipedia.org/wiki/South_Beach,South Beach,south-beach,south-beach,UNK
+Seoul,19159283,10914,801,16749;174467;19159283;30807616;4196610;298884;905855;21255;16697268;598720;4607874;27021;27019;1056336,http://en.wikipedia.org/wiki/Seoul,Seoul,seoul,seoul,GPE
+Seoul,1056336,815,370,1056336;19159283;27019,http://en.wikipedia.org/wiki/FC_Seoul,FC Seoul,fc-seoul,fc-seoul,UNK
+Seoul,4975108,0,2,,http://en.wikipedia.org/wiki/Seoul_Airport,Seoul Airport,seoul-airport,seoul-airport,UNK
+Seoul,4196610,94,63,19159283;27019;16749,http://en.wikipedia.org/wiki/Seoul_Institute_of_the_Arts,Seoul Institute of the Arts,seoul-institute-of-the-arts,seoul-institute-of-the-arts,UNK
+Seoul,2178409,106,299,2178409,http://en.wikipedia.org/wiki/Little_Seoul,Little Seoul,little-seoul,little-seoul,UNK
+Seoul,4607874,41,47,19159283;27019,http://en.wikipedia.org/wiki/University_of_Seoul,University of Seoul,university-of-seoul,university-of-seoul,UNK
+Seoul,905855,376,310,19159283;27019,http://en.wikipedia.org/wiki/Seoul_Station,Seoul Station,seoul-station,seoul-station,UNK
+Kang Young-hoon,16697268,34,55,21255;19159283;27019,http://en.wikipedia.org/wiki/Kang_Young-hoon,Kang Young-hoon,kang-young-hoon,kang-young-hoon,UNK
+South Korean,27019,38617,831,905855;2932451;1056336;15487;16749;19159283;21255;21257;4251353;27021;27019;106424;174467;4196610;4894490;598720;4607874;1565499;30807616;298883;298884;16697268;23143408;5023832,http://en.wikipedia.org/wiki/South_Korea,South Korea,south-korea,south-korea,GPE
+South Korean,16749,11146,390,106424;16749;19159283;4196610;298883;298884;4894490;21255;21257;4251353;2932451;27021;27019;1565499,http://en.wikipedia.org/wiki/Korea,Korea,korea,korea,GPE
+Korean,16749,11146,390,106424;16749;19159283;4196610;298883;298884;4894490;21255;21257;4251353;2932451;27021;27019;1565499,http://en.wikipedia.org/wiki/Korea,Korea,korea,korea,GPE
+Korean,27019,38617,831,905855;2932451;1056336;15487;16749;19159283;21255;21257;4251353;27021;27019;106424;174467;4196610;4894490;598720;4607874;1565499;30807616;298883;298884;16697268;23143408;5023832,http://en.wikipedia.org/wiki/South_Korea,South Korea,south-korea,south-korea,GPE
+International Red Cross,5023832,1046,569,1565499;21255;15487;27019,http://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross,International Committee of the Red Cross,international-committee-of-the-red-cross,international-committee-of-the-red-cross,UNK
+International Red Cross,15487,878,441,21255;5023832;27019,http://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement,International Red Cross and Red Crescent Movement,international-red-cross-and-red-crescent-movement,international-red-cross-and-red-crescent-movement,UNK
+Yonhap,174467,253,13,298883;19159283;23143408;27019,http://en.wikipedia.org/wiki/Yonhap,Yonhap,yonhap,yonhap,PER
+North,21255,8616,751,106424;16749;19159283;298883;298884;4894490;21255;21257;4251353;16697268;23143408;27021;27019;1565499;5023832;15487,http://en.wikipedia.org/wiki/North_Korea,North Korea,north-korea,north-korea,GPE
+North,449174,73,87,216788,http://en.wikipedia.org/wiki/North_Shropshire,North Shropshire,north-shropshire,north-shropshire,UNK
+North,62046,2932,92,62049,http://en.wikipedia.org/wiki/North_Island,North Island,north-island,north-island,UNK
+North,686069,1325,162,832809,http://en.wikipedia.org/wiki/North_Wales,North Wales,north-wales,north-wales,UNK
+North,381678,167,153,480411,http://en.wikipedia.org/wiki/North_River_(Hudson_River),North River,north-river,north-river-hudson-river,UNK
+North,686061,0,3,,http://en.wikipedia.org/wiki/North_Washington,North Washington,north-washington,north-washington,GPE
+North,383384,468,310,1525987,http://en.wikipedia.org/wiki/North_County_(San_Diego_area),North County,north-county,north-county-san-diego-area,UNK
+North,922286,304,133,,http://en.wikipedia.org/wiki/North_Louisiana,North Louisiana,north-louisiana,north-louisiana,UNK
+North,8411180,27,44,,http://en.wikipedia.org/wiki/North_(poetry),North,north,north-poetry,UNK
+North,38648395,83,295,,"http://en.wikipedia.org/wiki/North,_Central_American_and_Caribbean_nations_at_the_FIFA_World_Cup","North, Central American and Caribbean nations at the FIFA World Cup",north-central-american-and-caribbean-nations-at-the-fifa-world-cup,north-central-american-and-caribbean-nations-at-the-fifa-world-cup,PER
+North,560507,288,216,,http://en.wikipedia.org/wiki/North_Toronto,North Toronto,north-toronto,north-toronto,UNK
+North,686099,2,1,,http://en.wikipedia.org/wiki/North_Valley,North Valley,north-valley,north-valley,UNK
+North,3052573,490,91,179553,http://en.wikipedia.org/wiki/North_Georgia,North Georgia,north-georgia,north-georgia,UNK
+North,4267190,58,48,4267110,"http://en.wikipedia.org/wiki/North_Province,_New_Caledonia","North Province, New Caledonia",north-province-new-caledonia,north-province-new-caledonia,UNK
+North,26774251,9,11,,http://en.wikipedia.org/wiki/North_(band),North,north,north-band,UNK
+North,288551,10,11,1525987,http://en.wikipedia.org/wiki/North_Bay,North Bay,north-bay,north-bay,UNK
+North,3372955,12,9,,http://en.wikipedia.org/wiki/North_Victoria,North Victoria,north-victoria,north-victoria,UNK
+North,923364,834,138,,http://en.wikipedia.org/wiki/North_China,North China,north-china,north-china,UNK
+North,643197,1,6,,http://en.wikipedia.org/wiki/North_River_(New_Zealand),North River,north-river,north-river-new-zealand,UNK
+North,158001,1291,312,128405;158001,http://en.wikipedia.org/wiki/North_Lincolnshire,North Lincolnshire,north-lincolnshire,north-lincolnshire,UNK
+North,3766287,32,23,,http://en.wikipedia.org/wiki/Baron_North,Baron North,baron-north,baron-north,PER
+North,3943805,54,106,,http://en.wikipedia.org/wiki/BBC_North,BBC North,bbc-north,bbc-north,UNK
+North,415912,1220,207,1054022,http://en.wikipedia.org/wiki/North_Texas,North Texas,north-texas,north-texas,UNK
+North,968589,507,241,963515,http://en.wikipedia.org/wiki/North_Station,North Station,north-station,north-station,UNK
+North,268916,14,76,268916,http://en.wikipedia.org/wiki/North_District_(Hong_Kong),North District,north-district,north-district-hong-kong,UNK
+North,1552939,1453,292,678583,http://en.wikipedia.org/wiki/North_India,North India,north-india,north-india,UNK
+North,2612643,7,22,4379876,http://en.wikipedia.org/wiki/North_Mountain_(Catskills),North Mountain,north-mountain,north-mountain-catskills,UNK
+North,25020063,4,40,,"http://en.wikipedia.org/wiki/North,_South,_East,_West...Anthology","North, South, East, West...Anthology",north-south-east-westanthology,north-south-east-westanthology,UNK
+North,31777452,1,16,,http://en.wikipedia.org/wiki/North_(EP),North,north,north-ep,UNK
+North,380308,1098,74,373622,http://en.wikipedia.org/wiki/North_London,North London,north-london,north-london,UNK
+North,859621,4,12,480411,http://en.wikipedia.org/wiki/North_River_(Tennessee),North River,north-river,north-river-tennessee,UNK
+North,56478,357,52,77173,http://en.wikipedia.org/wiki/North,North,north,north,UNK
+North,30807616,311,514,19159283;27019,"http://en.wikipedia.org/wiki/North,_Central_American_and_Caribbean_junior_records_in_athletics","North, Central American and Caribbean junior records in athletics",north-central-american-and-caribbean-junior-records-in-athletics,north-central-american-and-caribbean-junior-records-in-athletics,PER
+North,480411,1,23,859621;381678,http://en.wikipedia.org/wiki/North_River,North River,north-river,north-river,UNK
+North,4379876,0,7,2612643,http://en.wikipedia.org/wiki/North_Mountain,North Mountain,north-mountain,north-mountain,UNK
+North,1685102,39,38,242033,http://en.wikipedia.org/wiki/North_Park_(Colorado_basin),North Park,north-park,north-park-colorado-basin,UNK
+North,2109618,284,184,3041572,http://en.wikipedia.org/wiki/North_Alabama,North Alabama,north-alabama,north-alabama,UNK
+North,3802436,130,182,,http://en.wikipedia.org/wiki/North_Market,North Market,north-market,north-market,UNK
+North,1525987,854,349,288551;383384,http://en.wikipedia.org/wiki/North_Bay_(San_Francisco_Bay_Area),North Bay,north-bay,north-bay-san-francisco-bay-area,UNK
+North,1971404,87,182,901895,http://en.wikipedia.org/wiki/North_Region_(Cameroon),North Region,north-region,north-region-cameroon,UNK
+North,4916311,565,125,4916311,http://en.wikipedia.org/wiki/North_Queensland,North Queensland,north-queensland,north-queensland,UNK
+North,36783294,42,63,,"http://en.wikipedia.org/wiki/North,_Virginia","North, Virginia",north-virginia,north-virginia,GPE

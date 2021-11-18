@@ -1,0 +1,274 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+JORGE,35515981,7,6,,http://en.wikipedia.org/wiki/Jorge_&_Mateus,Jorge & Mateus,jorge-mateus,jorge-mateus,UNK
+JORGE,5753703,18,56,,http://en.wikipedia.org/wiki/Jorge_Velásquez,Jorge Velásquez,jorge-velasquez,jorge-velasquez,PER
+JORGE,9443825,7,50,670891;1505582,http://en.wikipedia.org/wiki/Jorge,Jorge,jorge,jorge,UNK
+JORGE,28285425,187,210,,http://en.wikipedia.org/wiki/Jorge_Island,Jorge Island,jorge-island,jorge-island,UNK
+JORGE,1505582,126,49,23915;9443825,http://en.wikipedia.org/wiki/Seu_Jorge,Seu Jorge,seu-jorge,seu-jorge,UNK
+JORGE,3020365,21,16,,http://en.wikipedia.org/wiki/Jorge_Santana,Jorge Santana,jorge-santana,jorge-santana,PER
+JORGE,11841800,1,91,,http://en.wikipedia.org/wiki/Don_Jorge,Don Jorge,don-jorge,don-jorge,UNK
+JORGE,2695399,471,461,555876;157233;40069286;362466;23033;1965301;172589;3526090;585749;10752326;576328;100715;670891,http://en.wikipedia.org/wiki/Artur_Jorge_(footballer),Artur Jorge,artur-jorge,artur-jorge-footballer,PER
+PORTO,172589,2298,801,42816739;772771;26449847;2695399;100715;16415;24085988;331715;1254376;576328;6991387;3381791;7595668;1965301;9390856;7611575;670993;14532;670891;7024162;23033;5571094;6996521;172589;3304564;23397176;42821726;3933665;612521,http://en.wikipedia.org/wiki/F.C._Porto,F.C. Porto,fc-porto,fc-porto,ORG
+PORTO,172237,2192,958,18091;656933;100715;1818294;14532;230578;23033;970642,http://en.wikipedia.org/wiki/Porto_Alegre,Porto Alegre,porto-alegre,porto-alegre,GPE
+PORTO,25887442,5,11,25887442;14532,http://en.wikipedia.org/wiki/Porto_family,Porto family,porto-family,porto-family,UNK
+PORTO,39886390,223,195,585749;40069286;23033;100715,http://en.wikipedia.org/wiki/University_of_Porto,University of Porto,university-of-porto,university-of-porto,ORG
+PORTO,100715,2368,532,42816739;772771;2695399;18091;39886390;100715;30873580;25317363;9239;1254376;576328;6991387;23915;1965301;7611575;9352542;14532;670891;7024162;24757665;23033;6996521;172589;42821726;3933665;172237,http://en.wikipedia.org/wiki/Porto,Porto,porto,porto,GPE
+PORTO,11107526,60,50,,http://en.wikipedia.org/wiki/Clube_Atlético_do_Porto,Clube Atlético do Porto,clube-atletico-do-porto,clube-atletico-do-porto,UNK
+PORTO,6996521,104,99,23397176;42816739;42821726;7024162;172589;6991387;23033;100715,http://en.wikipedia.org/wiki/F.C._Porto_(handball),F.C. Porto,fc-porto,fc-porto-handball,ORG
+PORTO,42821726,37,41,23397176;42816739;6996521;7024162;23033;172589;6991387;100715,http://en.wikipedia.org/wiki/F.C._Porto_(billiards),F.C. Porto,fc-porto,fc-porto-billiards,ORG
+PORTO,31104112,5,9,,http://en.wikipedia.org/wiki/Al_Porto,Al Porto,al-porto,al-porto,PER
+PORTO,57395,334,299,23915,http://en.wikipedia.org/wiki/Porto-Novo,Porto-Novo,porto-novo,porto-novo,GPE
+PORTO,6991387,71,62,23397176;42816739;42821726;6996521;7024162;172589;23033;100715,http://en.wikipedia.org/wiki/F.C._Porto_(basketball),F.C. Porto,fc-porto,fc-porto-basketball,ORG
+PORTO,24232724,1,16,14532,http://en.wikipedia.org/wiki/Porto_(Castiglione_del_Lago),Porto,porto,porto-castiglione-del-lago,UNK
+PORTO,2576659,6,23,23915;7835326,"http://en.wikipedia.org/wiki/El_Porto,_Manhattan_Beach,_California","El Porto, Manhattan Beach, California",el-porto-manhattan-beach-california,el-porto-manhattan-beach-california,UNK
+PORTO,41227154,251,276,23033,http://en.wikipedia.org/wiki/Porto_de_Sanabria,Porto de Sanabria,porto-de-sanabria,porto-de-sanabria,UNK
+PORTO,7868988,1,44,14532,"http://en.wikipedia.org/wiki/Porto,_Naples","Porto, Naples",porto-naples,porto-naples,UNK
+PORTO,25561000,205,225,,"http://en.wikipedia.org/wiki/Porto,_Piauí","Porto, Piauí",porto-piaui,porto-piaui,GPE
+PORTO,42816739,37,35,6996521;23397176;7024162;23033;172589;42821726;6991387;100715,http://en.wikipedia.org/wiki/F.C._Porto_(swimming),F.C. Porto,fc-porto,fc-porto-swimming,ORG
+PORTO,23397176,95,110,42816739;42821726;23397124;6996521;7024162;172589;6991387;23033,http://en.wikipedia.org/wiki/F.C._Porto_(Superleague_Formula_team),F.C. Porto,fc-porto,fc-porto-superleague-formula-team,UNK
+PORTO,30873580,199,66,23915;670993;1449162;13517988;23033;100715;7611575,http://en.wikipedia.org/wiki/Porto_District,Porto District,porto-district,porto-district,GPE
+PORTO,7024162,38,114,23397176;42816739;42821726;6996521;172589;6991387;23033;100715,http://en.wikipedia.org/wiki/F.C._Porto_(roller_hockey),F.C. Porto,fc-porto,fc-porto-roller-hockey,UNK
+PORTO,7835326,3,18,2576659,http://en.wikipedia.org/wiki/El_Porto_Beach,El Porto Beach,el-porto-beach,el-porto-beach,UNK
+WORLD CUP,126460,2360,526,52622;126460;147793;656933;157233;362466;3867414;10918072;576328;3381791;695292;14532;168079;555876;25036290;23033;11370,http://en.wikipedia.org/wiki/1998_FIFA_World_Cup,1998 FIFA World Cup,1998-fifa-world-cup,1998-fifa-world-cup,UNK
+WORLD CUP,157233,3239,557,52622;147793;2695399;16415;157233;265585;3867414;695292;25036290;11370;126460;656933;362466;331715;23623088;10918072;576328;353781;14532;168079;23033,http://en.wikipedia.org/wiki/2006_FIFA_World_Cup,2006 FIFA World Cup,2006-fifa-world-cup,2006-fifa-world-cup,UNK
+WORLD CUP,2706303,281,186,10301463;951198;263861;11370;22309191;14532;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/UCI_Mountain_Bike_World_Cup,UCI Mountain Bike World Cup,uci-mountain-bike-world-cup,uci-mountain-bike-world-cup,ORG
+WORLD CUP,10301463,108,177,951198;263861;11370;22309191;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/World_Cup_(snooker),World Cup,world-cup,world-cup-snooker,UNK
+WORLD CUP,2900585,596,210,2900585;7239;266217,http://en.wikipedia.org/wiki/2011_Cricket_World_Cup,2011 Cricket World Cup,2011-cricket-world-cup,2011-cricket-world-cup,UNK
+WORLD CUP,656933,3267,404,52622;147793;157233;695292;639342;11370;172237;126460;656933;362466;576328;168079,http://en.wikipedia.org/wiki/2014_FIFA_World_Cup,2014 FIFA World Cup,2014-fifa-world-cup,2014-fifa-world-cup,UNK
+WORLD CUP,263861,503,173,10301463;1543977;7239;951198;11370;22309191;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_of_Hockey,World Cup of Hockey,world-cup-of-hockey,world-cup-of-hockey,ORG
+WORLD CUP,17269063,107,125,10918072,http://en.wikipedia.org/wiki/Chess_World_Cup,Chess World Cup,chess-world-cup,chess-world-cup,PER
+WORLD CUP,147793,1790,463,52622;126460;147793;656933;157233;362466;3867414;1254376;14532;168079;555876;25036290;11370,http://en.wikipedia.org/wiki/1994_FIFA_World_Cup,1994 FIFA World Cup,1994-fifa-world-cup,1994-fifa-world-cup,UNK
+WORLD CUP,22309191,286,125,10301463;951198;263861;11370;22309191;14532;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/UCI_Cyclo-cross_World_Cup,UCI Cyclo-cross World Cup,uci-cyclo-cross-world-cup,uci-cyclo-cross-world-cup,UNK
+WORLD CUP,7239,828,277,10301463;1543977;22309191;2900585;7239;951198;263861;11370;266217;12312312;2706303,http://en.wikipedia.org/wiki/Cricket_World_Cup,Cricket World Cup,cricket-world-cup,cricket-world-cup,UNK
+WORLD CUP,951198,797,254,10301463;1543977;22309191;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Hockey_World_Cup,Hockey World Cup,hockey-world-cup,hockey-world-cup,ORG
+WORLD CUP,52622,2464,534,1469201;52622;126460;41038712;772771;147793;656933;157233;362466;3867414;1254376;576328;695292;1965301;353781;670993;14532;670891;168079;25036290;23033;3933665;11370;612521,http://en.wikipedia.org/wiki/2002_FIFA_World_Cup,2002 FIFA World Cup,2002-fifa-world-cup,2002-fifa-world-cup,UNK
+WORLD CUP,1543977,0,470,10301463;23033;7239;951198;263861;11370;22309191;14532;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_(men's_golf),World Cup,world-cup,world-cup-mens-golf,UNK
+WORLD CUP,12312312,874,369,10301463;1543977;22309191;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Rugby_League_World_Cup,Rugby League World Cup,rugby-league-world-cup,rugby-league-world-cup,ORG
+WORLD CUP,168079,3921,505,52622;147793;157233;3867414;695292;25036290;11370;126460;656933;362466;576328;168079,http://en.wikipedia.org/wiki/2010_FIFA_World_Cup,2010 FIFA World Cup,2010-fifa-world-cup,2010-fifa-world-cup,UNK
+WORLD CUP,41038712,1,16,52622,http://en.wikipedia.org/wiki/World_Cup_Park,World Cup Park,world-cup-park,world-cup-park,UNK
+WORLD CUP,11370,5586,616,1469201;52622;147793;16415;157233;695292;670891;555876;263861;11370;2706303;10301463;126460;656933;22309191;362466;951198;1254376;576328;1965301;1543977;14532;168079;7239;612521;12312312,http://en.wikipedia.org/wiki/FIFA_World_Cup,FIFA World Cup,fifa-world-cup,fifa-world-cup,UNK
+WORLD CUP,266217,683,220,2900585;7239;266217,http://en.wikipedia.org/wiki/2007_Cricket_World_Cup,2007 Cricket World Cup,2007-cricket-world-cup,2007-cricket-world-cup,UNK
+LISBON,18091,8365,721,18091;3734474;3381791;9352542;172237;1449162;100715;576328;23915;23033;2135282;1469201;129048;9239;9317;556249;555876;3304564;585749;1818294;25317363;1254376;10918072;353781;495343;3526090;14532;230578;40069286;3933665,http://en.wikipedia.org/wiki/Lisbon,Lisbon,lisbon,lisbon,GPE
+LISBON,129048,145,101,18091;42384351,"http://en.wikipedia.org/wiki/Lisbon,_Ohio","Lisbon, Ohio",lisbon-ohio,lisbon-ohio,GPE
+LISBON,40069286,2,191,23915;2695399;18091;585749;23033;39886390,http://en.wikipedia.org/wiki/University_of_Lisbon_(1911–2013),University of Lisbon,university-of-lisbon,university-of-lisbon-1911–2013,UNK
+LISBON,115539,23,29,,"http://en.wikipedia.org/wiki/Lisbon,_Louisiana","Lisbon, Louisiana",lisbon-louisiana,lisbon-louisiana,UNK
+LISBON,1449162,172,51,23915;30873580;18091;23033,http://en.wikipedia.org/wiki/Lisbon_District,Lisbon District,lisbon-district,lisbon-district,GPE
+LISBON,111402,36,123,9411713,"http://en.wikipedia.org/wiki/Lisbon,_Illinois","Lisbon, Illinois",lisbon-illinois,lisbon-illinois,UNK
+LISBON,128685,224,175,127189;36326730,"http://en.wikipedia.org/wiki/Lisbon,_North_Dakota","Lisbon, North Dakota",lisbon-north-dakota,lisbon-north-dakota,GPE
+LISBON,31717975,6,7,,"http://en.wikipedia.org/wiki/Lisbon,_Arkansas","Lisbon, Arkansas",lisbon-arkansas,lisbon-arkansas,UNK
+LISBON,115857,148,63,23033,"http://en.wikipedia.org/wiki/Lisbon,_Maine","Lisbon, Maine",lisbon-maine,lisbon-maine,GPE
+LISBON,141748,1,3,139207;139955,"http://en.wikipedia.org/wiki/Lisbon,_Wisconsin","Lisbon, Wisconsin",lisbon-wisconsin,lisbon-wisconsin,UNK
+LISBON,42384351,38,42,129048,"http://en.wikipedia.org/wiki/Lisbon,_Clark_County,_Ohio","Lisbon, Clark County, Ohio",lisbon-clark-county-ohio,lisbon-clark-county-ohio,UNK
+LISBON,3039903,61,57,,"http://en.wikipedia.org/wiki/Lisbon,_Maryland","Lisbon, Maryland",lisbon-maryland,lisbon-maryland,GPE
+LISBON,9411713,33,121,111402;34305032,"http://en.wikipedia.org/wiki/Lisbon_Township,_Kendall_County,_Illinois","Lisbon Township, Kendall County, Illinois",lisbon-township-kendall-county-illinois,lisbon-township-kendall-county-illinois,GPE
+LISBON,139955,75,120,141748,"http://en.wikipedia.org/wiki/Lisbon,_Waukesha_County,_Wisconsin","Lisbon, Waukesha County, Wisconsin",lisbon-waukesha-county-wisconsin,lisbon-waukesha-county-wisconsin,GPE
+LISBON,113995,41,82,,"http://en.wikipedia.org/wiki/Lisbon,_Iowa","Lisbon, Iowa",lisbon-iowa,lisbon-iowa,GPE
+LISBON,122188,32,52,34305032,"http://en.wikipedia.org/wiki/Lisbon_Township,_Yellow_Medicine_County,_Minnesota","Lisbon Township, Yellow Medicine County, Minnesota",lisbon-township-yellow-medicine-county-minnesota,lisbon-township-yellow-medicine-county-minnesota,GPE
+LISBON,109302,39,57,,"http://en.wikipedia.org/wiki/Lisbon,_Florida","Lisbon, Florida",lisbon-florida,lisbon-florida,GPE
+LISBON,127189,81,86,128685;23033,"http://en.wikipedia.org/wiki/Lisbon,_New_York","Lisbon, New York",lisbon-new-york,lisbon-new-york,GPE
+LISBON,585749,480,207,23915;40069286;23033;2695399;18091;39886390,http://en.wikipedia.org/wiki/University_of_Lisbon,University of Lisbon,university-of-lisbon,university-of-lisbon,ORG
+LISBON,36326730,5,78,128685,"http://en.wikipedia.org/wiki/Lisbon_Bridge_(Lisbon,_North_Dakota)",Lisbon Bridge,lisbon-bridge,lisbon-bridge-lisbon-north-dakota,UNK
+LISBON,259571,177,97,23033,"http://en.wikipedia.org/wiki/Lisbon,_New_Hampshire","Lisbon, New Hampshire",lisbon-new-hampshire,lisbon-new-hampshire,GPE
+LISBON,108821,88,133,,"http://en.wikipedia.org/wiki/Lisbon,_Connecticut","Lisbon, Connecticut",lisbon-connecticut,lisbon-connecticut,GPE
+LISBON,139207,46,63,141748;139193,"http://en.wikipedia.org/wiki/Lisbon,_Juneau_County,_Wisconsin","Lisbon, Juneau County, Wisconsin",lisbon-juneau-county-wisconsin,lisbon-juneau-county-wisconsin,GPE
+LISBON,22442693,0,2,,"http://en.wikipedia.org/wiki/Lisbon,_California","Lisbon, California",lisbon-california,lisbon-california,GPE
+LISBON,34305032,0,4,122188;9411713,http://en.wikipedia.org/wiki/Lisbon_Township,Lisbon Township,lisbon-township,lisbon-township,GPE
+LISBON,33236787,2,14,,http://en.wikipedia.org/wiki/Don_Lisbon,Don Lisbon,don-lisbon,don-lisbon,UNK
+Portugal,576328,2684,673,1469201;52622;126460;772771;26449847;2695399;18091;656933;100715;157233;362466;24085988;9239;4935997;1254376;10918072;576328;3381791;695292;23915;7595668;1965301;353781;9390856;7611575;3526090;670993;14532;670891;168079;555876;23033;5571094;172589;3304564;3933665;2135282;11370;612521,http://en.wikipedia.org/wiki/Portugal_national_football_team,Portugal national football team,portugal-national-football-team,portugal-national-football-team,UNK
+Portugal,11694560,112,62,970642;24586056;23033;265592,"http://en.wikipedia.org/wiki/Little_Portugal,_London","Little Portugal, London",little-portugal-london,little-portugal-london,GPE
+Portugal,6834333,213,107,2170833;24586056;265592,"http://en.wikipedia.org/wiki/Little_Portugal,_Montreal","Little Portugal, Montreal",little-portugal-montreal,little-portugal-montreal,GPE
+Portugal,24061093,146,50,14532;23033,http://en.wikipedia.org/wiki/Drug_policy_of_Portugal,Drug policy of Portugal,drug-policy-of-portugal,drug-policy-of-portugal,ORG
+Portugal,24085988,470,253,25036290;23033;172589;9239;576328,http://en.wikipedia.org/wiki/Portugal_national_under-19_football_team,Portugal national under-19 football team,portugal-national-under-19-football-team,portugal-national-under-19-football-team,UNK
+Portugal,17342097,325,198,23915;411234;24586056;265592,"http://en.wikipedia.org/wiki/Little_Portugal,_Toronto","Little Portugal, Toronto",little-portugal-toronto,little-portugal-toronto,GPE
+Portugal,24586056,0,14,6834333;23033;17342097;11694560;970642,http://en.wikipedia.org/wiki/Little_Portugal,Little Portugal,little-portugal,little-portugal,UNK
+Portugal,9352542,2014,280,18091;9804204;100715;23915;495343;230578;24757665;23033,http://en.wikipedia.org/wiki/Kingdom_of_Portugal,Kingdom of Portugal,kingdom-of-portugal,kingdom-of-portugal,GPE
+Portugal,30584507,46,31,23033,http://en.wikipedia.org/wiki/Portugal_Tem_Talento,Portugal Tem Talento,portugal-tem-talento,portugal-tem-talento,UNK
+Portugal,19686537,69,76,23915;23033;19686537,http://en.wikipedia.org/wiki/Greater_Portugal,Greater Portugal,greater-portugal,greater-portugal,UNK
+Portugal,12218968,3,103,23033,http://en.wikipedia.org/wiki/Portugal_International,Portugal International,portugal-international,portugal-international,ORG
+Portugal,556249,65,60,23915;56959;18091;23033,"http://en.wikipedia.org/wiki/Óbidos,_Portugal","Óbidos, Portugal",obidos-portugal,obidos-portugal,GPE
+Portugal,56959,193,258,1091;970642;9239;56959;9317;14699;24757665;23033;556249;230578,http://en.wikipedia.org/wiki/Geography_of_Portugal,Geography of Portugal,geography-of-portugal,geography-of-portugal,UNK
+Portugal,39041920,6,10,23915,http://en.wikipedia.org/wiki/Portugal_S.A.,Portugal S.A.,portugal-sa,portugal-sa,UNK
+Portugal,24757665,404,182,23915;23033;970642;56959;100715;9352542;230578,http://en.wikipedia.org/wiki/County_of_Portugal,County of Portugal,county-of-portugal,county-of-portugal,GPE
+Portugal,23033,41738,1491,3734474;13174579;1965301;24061093;1469201;9239;9317;695292;3304564;13517988;1818294;1254376;7595668;353781;11694560;14532;30584507;970642;18091;16415;157233;9352542;7024162;639342;1449162;331715;576328;23915;19497973;23033;772771;15125201;649827;585749;39886390;25317363;4935997;7611575;670993;670891;172589;41227154;23397176;42821726;172237;26449847;100715;9390856;12218968;24586056;42816739;24085988;10918072;230578;24757665;40069286;6996521;3933665;52622;3867414;3381791;259571;56959;30873580;362466;6991387;1543977;115857;2135282;612521;2695399;1240488;19686537;556249;127189;555876;126460;3952254;495343;3526090;5571094,http://en.wikipedia.org/wiki/Portugal,Portugal,portugal,portugal,GPE
+Artur Jorge,2695399,471,461,555876;157233;40069286;362466;23033;1965301;172589;3526090;585749;10752326;576328;100715;670891,http://en.wikipedia.org/wiki/Artur_Jorge_(footballer),Artur Jorge,artur-jorge,artur-jorge-footballer,PER
+Artur Jorge,10752326,0,3,2695399,http://en.wikipedia.org/wiki/Artur_Jorge,Artur Jorge,artur-jorge,artur-jorge,PER
+Porto,172589,2298,801,42816739;772771;26449847;2695399;100715;16415;24085988;331715;1254376;576328;6991387;3381791;7595668;1965301;9390856;7611575;670993;14532;670891;7024162;23033;5571094;6996521;172589;3304564;23397176;42821726;3933665;612521,http://en.wikipedia.org/wiki/F.C._Porto,F.C. Porto,fc-porto,fc-porto,ORG
+Porto,172237,2192,958,18091;656933;100715;1818294;14532;230578;23033;970642,http://en.wikipedia.org/wiki/Porto_Alegre,Porto Alegre,porto-alegre,porto-alegre,GPE
+Porto,25887442,5,11,25887442;14532,http://en.wikipedia.org/wiki/Porto_family,Porto family,porto-family,porto-family,UNK
+Porto,39886390,223,195,585749;40069286;23033;100715,http://en.wikipedia.org/wiki/University_of_Porto,University of Porto,university-of-porto,university-of-porto,ORG
+Porto,100715,2368,532,42816739;772771;2695399;18091;39886390;100715;30873580;25317363;9239;1254376;576328;6991387;23915;1965301;7611575;9352542;14532;670891;7024162;24757665;23033;6996521;172589;42821726;3933665;172237,http://en.wikipedia.org/wiki/Porto,Porto,porto,porto,GPE
+Porto,11107526,60,50,,http://en.wikipedia.org/wiki/Clube_Atlético_do_Porto,Clube Atlético do Porto,clube-atletico-do-porto,clube-atletico-do-porto,UNK
+Porto,6996521,104,99,23397176;42816739;42821726;7024162;172589;6991387;23033;100715,http://en.wikipedia.org/wiki/F.C._Porto_(handball),F.C. Porto,fc-porto,fc-porto-handball,ORG
+Porto,42821726,37,41,23397176;42816739;6996521;7024162;23033;172589;6991387;100715,http://en.wikipedia.org/wiki/F.C._Porto_(billiards),F.C. Porto,fc-porto,fc-porto-billiards,ORG
+Porto,31104112,5,9,,http://en.wikipedia.org/wiki/Al_Porto,Al Porto,al-porto,al-porto,PER
+Porto,57395,334,299,23915,http://en.wikipedia.org/wiki/Porto-Novo,Porto-Novo,porto-novo,porto-novo,GPE
+Porto,6991387,71,62,23397176;42816739;42821726;6996521;7024162;172589;23033;100715,http://en.wikipedia.org/wiki/F.C._Porto_(basketball),F.C. Porto,fc-porto,fc-porto-basketball,ORG
+Porto,24232724,1,16,14532,http://en.wikipedia.org/wiki/Porto_(Castiglione_del_Lago),Porto,porto,porto-castiglione-del-lago,UNK
+Porto,2576659,6,23,23915;7835326,"http://en.wikipedia.org/wiki/El_Porto,_Manhattan_Beach,_California","El Porto, Manhattan Beach, California",el-porto-manhattan-beach-california,el-porto-manhattan-beach-california,UNK
+Porto,41227154,251,276,23033,http://en.wikipedia.org/wiki/Porto_de_Sanabria,Porto de Sanabria,porto-de-sanabria,porto-de-sanabria,UNK
+Porto,7868988,1,44,14532,"http://en.wikipedia.org/wiki/Porto,_Naples","Porto, Naples",porto-naples,porto-naples,UNK
+Porto,25561000,205,225,,"http://en.wikipedia.org/wiki/Porto,_Piauí","Porto, Piauí",porto-piaui,porto-piaui,GPE
+Porto,42816739,37,35,6996521;23397176;7024162;23033;172589;42821726;6991387;100715,http://en.wikipedia.org/wiki/F.C._Porto_(swimming),F.C. Porto,fc-porto,fc-porto-swimming,ORG
+Porto,23397176,95,110,42816739;42821726;23397124;6996521;7024162;172589;6991387;23033,http://en.wikipedia.org/wiki/F.C._Porto_(Superleague_Formula_team),F.C. Porto,fc-porto,fc-porto-superleague-formula-team,UNK
+Porto,30873580,199,66,23915;670993;1449162;13517988;23033;100715;7611575,http://en.wikipedia.org/wiki/Porto_District,Porto District,porto-district,porto-district,GPE
+Porto,7024162,38,114,23397176;42816739;42821726;6996521;172589;6991387;23033;100715,http://en.wikipedia.org/wiki/F.C._Porto_(roller_hockey),F.C. Porto,fc-porto,fc-porto-roller-hockey,UNK
+Porto,7835326,3,18,2576659,http://en.wikipedia.org/wiki/El_Porto_Beach,El Porto Beach,el-porto-beach,el-porto-beach,UNK
+World Cup,126460,2360,526,52622;126460;147793;656933;157233;362466;3867414;10918072;576328;3381791;695292;14532;168079;555876;25036290;23033;11370,http://en.wikipedia.org/wiki/1998_FIFA_World_Cup,1998 FIFA World Cup,1998-fifa-world-cup,1998-fifa-world-cup,UNK
+World Cup,157233,3239,557,52622;147793;2695399;16415;157233;265585;3867414;695292;25036290;11370;126460;656933;362466;331715;23623088;10918072;576328;353781;14532;168079;23033,http://en.wikipedia.org/wiki/2006_FIFA_World_Cup,2006 FIFA World Cup,2006-fifa-world-cup,2006-fifa-world-cup,UNK
+World Cup,2706303,281,186,10301463;951198;263861;11370;22309191;14532;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/UCI_Mountain_Bike_World_Cup,UCI Mountain Bike World Cup,uci-mountain-bike-world-cup,uci-mountain-bike-world-cup,ORG
+World Cup,10301463,108,177,951198;263861;11370;22309191;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/World_Cup_(snooker),World Cup,world-cup,world-cup-snooker,UNK
+World Cup,2900585,596,210,2900585;7239;266217,http://en.wikipedia.org/wiki/2011_Cricket_World_Cup,2011 Cricket World Cup,2011-cricket-world-cup,2011-cricket-world-cup,UNK
+World Cup,656933,3267,404,52622;147793;157233;695292;639342;11370;172237;126460;656933;362466;576328;168079,http://en.wikipedia.org/wiki/2014_FIFA_World_Cup,2014 FIFA World Cup,2014-fifa-world-cup,2014-fifa-world-cup,UNK
+World Cup,263861,503,173,10301463;1543977;7239;951198;11370;22309191;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_of_Hockey,World Cup of Hockey,world-cup-of-hockey,world-cup-of-hockey,ORG
+World Cup,17269063,107,125,10918072,http://en.wikipedia.org/wiki/Chess_World_Cup,Chess World Cup,chess-world-cup,chess-world-cup,PER
+World Cup,147793,1790,463,52622;126460;147793;656933;157233;362466;3867414;1254376;14532;168079;555876;25036290;11370,http://en.wikipedia.org/wiki/1994_FIFA_World_Cup,1994 FIFA World Cup,1994-fifa-world-cup,1994-fifa-world-cup,UNK
+World Cup,22309191,286,125,10301463;951198;263861;11370;22309191;14532;1543977;12312312;7239;2706303,http://en.wikipedia.org/wiki/UCI_Cyclo-cross_World_Cup,UCI Cyclo-cross World Cup,uci-cyclo-cross-world-cup,uci-cyclo-cross-world-cup,UNK
+World Cup,7239,828,277,10301463;1543977;22309191;2900585;7239;951198;263861;11370;266217;12312312;2706303,http://en.wikipedia.org/wiki/Cricket_World_Cup,Cricket World Cup,cricket-world-cup,cricket-world-cup,UNK
+World Cup,951198,797,254,10301463;1543977;22309191;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Hockey_World_Cup,Hockey World Cup,hockey-world-cup,hockey-world-cup,ORG
+World Cup,52622,2464,534,1469201;52622;126460;41038712;772771;147793;656933;157233;362466;3867414;1254376;576328;695292;1965301;353781;670993;14532;670891;168079;25036290;23033;3933665;11370;612521,http://en.wikipedia.org/wiki/2002_FIFA_World_Cup,2002 FIFA World Cup,2002-fifa-world-cup,2002-fifa-world-cup,UNK
+World Cup,1543977,0,470,10301463;23033;7239;951198;263861;11370;22309191;14532;12312312;2706303,http://en.wikipedia.org/wiki/World_Cup_(men's_golf),World Cup,world-cup,world-cup-mens-golf,UNK
+World Cup,12312312,874,369,10301463;1543977;22309191;7239;951198;263861;11370;12312312;2706303,http://en.wikipedia.org/wiki/Rugby_League_World_Cup,Rugby League World Cup,rugby-league-world-cup,rugby-league-world-cup,ORG
+World Cup,168079,3921,505,52622;147793;157233;3867414;695292;25036290;11370;126460;656933;362466;576328;168079,http://en.wikipedia.org/wiki/2010_FIFA_World_Cup,2010 FIFA World Cup,2010-fifa-world-cup,2010-fifa-world-cup,UNK
+World Cup,41038712,1,16,52622,http://en.wikipedia.org/wiki/World_Cup_Park,World Cup Park,world-cup-park,world-cup-park,UNK
+World Cup,11370,5586,616,1469201;52622;147793;16415;157233;695292;670891;555876;263861;11370;2706303;10301463;126460;656933;22309191;362466;951198;1254376;576328;1965301;1543977;14532;168079;7239;612521;12312312,http://en.wikipedia.org/wiki/FIFA_World_Cup,FIFA World Cup,fifa-world-cup,fifa-world-cup,UNK
+World Cup,266217,683,220,2900585;7239;266217,http://en.wikipedia.org/wiki/2007_Cricket_World_Cup,2007 Cricket World Cup,2007-cricket-world-cup,2007-cricket-world-cup,UNK
+Armenia,695292,719,398,52622;126460;353781;656933;14532;168079;555876;157233;362466;23033;331715;10918072;576328;11370,http://en.wikipedia.org/wiki/Armenia_national_football_team,Armenia national football team,armenia-national-football-team,armenia-national-football-team,ORG
+Armenia,2343789,34,169,1091;9239;999948;229447;13489945;2343789;8432029;10918072;1145772,http://en.wikipedia.org/wiki/Armenian_Highlands,Armenian Highlands,armenian-highlands,armenian-highlands,GPE
+Armenia,28166619,2,5,,"http://en.wikipedia.org/wiki/Armenia,_Ecuador","Armenia, Ecuador",armenia-ecuador,armenia-ecuador,GPE
+Armenia,27058106,37,40,10918072,http://en.wikipedia.org/wiki/Armenia_(East_Syrian_Diocese),Armenia,armenia,armenia-east-syrian-diocese,UNK
+Armenia,8432029,196,245,1091;999948;2343789;10918072;229447;13489945;1145772,http://en.wikipedia.org/wiki/Name_of_Armenia,Name of Armenia,name-of-armenia,name-of-armenia,UNK
+Armenia,2388464,23,25,,"http://en.wikipedia.org/wiki/Armenia,_Sonsonate","Armenia, Sonsonate",armenia-sonsonate,armenia-sonsonate,GPE
+Armenia,1174923,139,180,,"http://en.wikipedia.org/wiki/Armenia,_Colombia","Armenia, Colombia",armenia-colombia,armenia-colombia,GPE
+Armenia,229447,1460,527,1091;1403333;10918072;999948;2343789;8432029;14532;13489945;229447,http://en.wikipedia.org/wiki/Armenian_Apostolic_Church,Armenian Apostolic Church,armenian-apostolic-church,armenian-apostolic-church,UNK
+Armenia,2495075,145,139,,"http://en.wikipedia.org/wiki/Armenia,_Antioquia","Armenia, Antioquia",armenia-antioquia,armenia-antioquia,GPE
+Armenia,1091,361,280,1091;56959;999948;9317;14699;2343789;8432029;10918072;229447;13489945,http://en.wikipedia.org/wiki/Geography_of_Armenia,Geography of Armenia,geography-of-armenia,geography-of-armenia,UNK
+Armenia,9447791,2,16,14532,http://en.wikipedia.org/wiki/Gruppo_Editoriale_Armenia,Gruppo Editoriale Armenia,gruppo-editoriale-armenia,gruppo-editoriale-armenia,UNK
+Armenia,999948,802,411,2343789;8432029;1091;13489945;10918072;229447;1145772,http://en.wikipedia.org/wiki/Kingdom_of_Armenia_(antiquity),Kingdom of Armenia,kingdom-of-armenia,kingdom-of-armenia-antiquity,GPE
+Armenia,1145772,179,290,999948;1873263;2343789;8432029;10918072;13489945,http://en.wikipedia.org/wiki/Lesser_Armenia,Lesser Armenia,lesser-armenia,lesser-armenia,UNK
+Armenia,131453,63,77,,"http://en.wikipedia.org/wiki/Armenia_Township,_Bradford_County,_Pennsylvania","Armenia Township, Bradford County, Pennsylvania",armenia-township-bradford-county-pennsylvania,armenia-township-bradford-county-pennsylvania,GPE
+Armenia,10918072,13804,1193,1091;1403333;13489945;9239;9317;695292;999948;8432029;27058106;10918072;2343789;14532;229447;18091;157233;1145772;331715;576328;23033;17269063;126460,http://en.wikipedia.org/wiki/Armenia,Armenia,armenia,armenia,GPE
+Armenia,16966707,4,7,,"http://en.wikipedia.org/wiki/Armenia,_Belize","Armenia, Belize",armenia-belize,armenia-belize,UNK
+Armenia,139193,46,64,139207,"http://en.wikipedia.org/wiki/Armenia,_Wisconsin","Armenia, Wisconsin",armenia-wisconsin,armenia-wisconsin,GPE
+Armenia,13489945,388,320,1091;999948;1873263;2343789;8432029;10918072;229447;1145772,http://en.wikipedia.org/wiki/Roman_Armenia,Roman Armenia,roman-armenia,roman-armenia,ORG
+Armenia,1403333,42,97,229447;10918072,"http://en.wikipedia.org/wiki/Little_Armenia,_Los_Angeles","Little Armenia, Los Angeles",little-armenia-los-angeles,little-armenia-los-angeles,UNK
+Paulo Sousa,1469201,322,334,13517988;7595668;16415;555876;52622;23033;1965301;772771;353781;5571094;9390856;331715;3304564;7611575;3526090;670993;18091;3933665;4935997;1254376;2135282;576328;11370;612521;670891,http://en.wikipedia.org/wiki/Paulo_Sousa,Paulo Sousa,paulo-sousa,paulo-sousa,PER
+Paulo Sousa,13517988,7,15,1469201;23033;30873580,http://en.wikipedia.org/wiki/José_Paulo_Sousa_da_Silva,José Paulo Sousa da Silva,jose-paulo-sousa-da-silva,jose-paulo-sousa-da-silva,PER
+Borussia Dortmund,331715,2086,591,1469201;13674039;16415;157233;331715;10918072;695292;14532;23033;172589;23397124,http://en.wikipedia.org/wiki/Borussia_Dortmund,Borussia Dortmund,borussia-dortmund,borussia-dortmund,UNK
+Borussia Dortmund,13674039,287,84,23397124;331715,http://en.wikipedia.org/wiki/Borussia_Dortmund_II,Borussia Dortmund II,borussia-dortmund-ii,borussia-dortmund-ii,UNK
+Borussia Dortmund,23397124,60,56,23397176;14532;13674039;331715,http://en.wikipedia.org/wiki/Borussia_Dortmund_(Superleague_Formula_team),Borussia Dortmund,borussia-dortmund,borussia-dortmund-superleague-formula-team,UNK
+Italy,14532,127197,1418,9447791;9239;9317;24232724;11370;23623088;14701;14699;14532;18091;1942377;16415;265585;576328;6108533;23033;1639662;3402034;25887442;52622;3867414;3381791;41381137;555876;1884591;353781;639342;331715;19497973;1873263;897351;23397124;100715;15391883;10918072;362466;9804204;2333629;127616;126460;695292;411234;135842;157233;147793;172589;172237;1543977;25036290;24061093;758372;31275067;7868988;2706303;22309191;229447;1484334,http://en.wikipedia.org/wiki/Italy,Italy,italy,italy,GPE
+Italy,15540697,55,88,1171144;2170833;704114;35158464;23623088;4304258;1942377;1884591;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Clay_County,_West_Virginia","Little Italy, Clay County, West Virginia",little-italy-clay-county-west-virginia,little-italy-clay-county-west-virginia,GPE
+Italy,14701,1074,423,41381137;897351;14701;14699;9804204;14532,http://en.wikipedia.org/wiki/Politics_of_Italy,Politics of Italy,politics-of-italy,politics-of-italy,UNK
+Italy,265592,342,391,704114;4304258;1484334;758372;11752595;11694560;1171144;23623088;1884591;265592;265585;2170833;6834333;11805457;35158589;15391883;411234;20789349;15540697;1942377;8684049;17342097,http://en.wikipedia.org/wiki/Little_Italy,Little Italy,little-italy,little-italy,UNK
+Italy,135842,51,56,14532,"http://en.wikipedia.org/wiki/Italy,_Texas","Italy, Texas",italy-texas,italy-texas,GPE
+Italy,127616,31,48,14532,"http://en.wikipedia.org/wiki/Italy,_New_York","Italy, New York",italy-new-york,italy-new-york,GPE
+Italy,1873263,160,203,9804204;1639662;14532;13489945;1145772,http://en.wikipedia.org/wiki/Roman_Italy,Roman Italy,roman-italy,roman-italy,UNK
+Italy,1639662,560,249,1873263;9804204;14532,http://en.wikipedia.org/wiki/Kingdom_of_Italy_(Napoleonic),Kingdom of Italy,kingdom-of-italy,kingdom-of-italy-napoleonic,GPE
+Italy,1884591,256,167,2170833;704114;4304258;1484334;11805457;35158589;15391883;758372;11752595;411234;14532;20789349;1171144;15540697;23623088;1942377;8684049;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_San_Diego","Little Italy, San Diego",little-italy-san-diego,little-italy-san-diego,UNK
+Italy,1171144,179,81,2170833;704114;4304258;1484334;11805457;35158589;15391883;758372;11752595;411234;20789349;15540697;23623088;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Vancouver","Little Italy, Vancouver",little-italy-vancouver,little-italy-vancouver,UNK
+Italy,411234,496,398,704114;4304258;1484334;758372;11752595;1171144;23623088;1884591;265592;265585;2170833;11805457;35158589;15391883;14532;20789349;15540697;1942377;8684049;17342097,"http://en.wikipedia.org/wiki/Little_Italy,_Toronto","Little Italy, Toronto",little-italy-toronto,little-italy-toronto,GPE
+Italy,25036290,1434,275,52622;126460;147793;16415;157233;362466;24085988;3867414;14532;168079;555876;3719650,http://en.wikipedia.org/wiki/Italy_national_under-19_football_team,Italy national under-19 football team,italy-national-under-19-football-team,italy-national-under-19-football-team,UNK
+Italy,23623088,279,142,2170833;704114;4304258;1484334;11805457;35158589;15391883;157233;362466;758372;11752595;411234;14532;20789349;1171144;15540697;23623088;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Melbourne","Little Italy, Melbourne",little-italy-melbourne,little-italy-melbourne,UNK
+Italy,14699,202,305,1091;9239;56959;14701;14699;14532;897351,http://en.wikipedia.org/wiki/Geography_of_Italy,Geography of Italy,geography-of-italy,geography-of-italy,UNK
+Italy,14169617,48,64,,http://en.wikipedia.org/wiki/Italy_Records,Italy Records,italy-records,italy-records,ORG
+Italy,9804204,2281,660,897351;1873263;9239;1639662;14701;9352542;14532;230578,http://en.wikipedia.org/wiki/Kingdom_of_Italy,Kingdom of Italy,kingdom-of-italy,kingdom-of-italy,GPE
+Italy,704114,136,39,2170833;20789349;4304258;1484334;11805457;35158589;1171144;15540697;15391883;23623088;758372;1942377;8684049;1884591;11752595;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Ottawa","Little Italy, Ottawa",little-italy-ottawa,little-italy-ottawa,GPE
+Italy,11752595,7,27,704114;23623088;1171144;4304258;1942377;1884591;2170833;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Wilmington","Little Italy, Wilmington",little-italy-wilmington,little-italy-wilmington,UNK
+Italy,20789349,0,30,704114;23623088;4304258;1171144;970642;1942377;1884591;2170833;411234;265592;265585;1484334,http://en.wikipedia.org/wiki/Little_Italy_(Bridgeport),Little Italy,little-italy,little-italy-bridgeport,UNK
+Italy,11805457,20,107,2170833;704114;4304258;1484334;1171144;23623088;1942377;1884591;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Omaha","Little Italy, Omaha",little-italy-omaha,little-italy-omaha,UNK
+Italy,1942377,326,277,704114;4304258;1484334;758372;11752595;1171144;23623088;1884591;265592;265585;2170833;11805457;35158589;15391883;411234;14532;20789349;15540697;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Chicago","Little Italy, Chicago",little-italy-chicago,little-italy-chicago,UNK
+Italy,16730206,14,20,,http://en.wikipedia.org/wiki/I.T.A.L.Y.,I.T.A.L.Y.,italy,italy,UNK
+Italy,35158464,0,2,35158589;15540697,"http://en.wikipedia.org/wiki/Little_Italy,_West_Virginia","Little Italy, West Virginia",little-italy-west-virginia,little-italy-west-virginia,UNK
+Italy,265585,408,307,704114;4304258;1484334;157233;362466;758372;11752595;1171144;23623088;1884591;265592;2170833;11805457;35158589;15391883;411234;14532;20789349;15540697;1942377;8684049,"http://en.wikipedia.org/wiki/Little_Italy,_Manhattan","Little Italy, Manhattan",little-italy-manhattan,little-italy-manhattan,GPE
+Italy,4304258,128,26,2170833;20789349;704114;1484334;11805457;35158589;1171144;15540697;15391883;23623088;758372;1942377;8684049;1884591;11752595;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Winnipeg","Little Italy, Winnipeg",little-italy-winnipeg,little-italy-winnipeg,UNK
+Italy,362466,4391,862,52622;772771;147793;2695399;16415;157233;265585;3867414;695292;555876;25036290;11370;126460;656933;362466;23623088;576328;14532;168079;23033;3719650,http://en.wikipedia.org/wiki/Italy_national_football_team,Italy national football team,italy-national-football-team,italy-national-football-team,ORG
+Italy,758372,48,75,1171144;2170833;14532;704114;23623088;4304258;1942377;1884591;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Syracuse","Little Italy, Syracuse",little-italy-syracuse,little-italy-syracuse,UNK
+Italy,6108533,54,53,14532,http://en.wikipedia.org/wiki/Italy_(Epcot),Italy,italy,italy-epcot,UNK
+Italy,3867414,1771,347,52622;126460;147793;16415;157233;362466;14532;168079;555876;25036290;23033;3719650,http://en.wikipedia.org/wiki/Italy_national_under-21_football_team,Italy national under-21 football team,italy-national-under-21-football-team,italy-national-under-21-football-team,ORG
+Italy,8684049,9,28,704114;23623088;1171144;4304258;1942377;1884591;2170833;411234;265592;265585;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Paterson","Little Italy, Paterson",little-italy-paterson,little-italy-paterson,UNK
+Italy,35158589,73,113,2170833;704114;35158464;4304258;1484334;1171144;23623088;1942377;1884591;411234;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Randolph_County,_West_Virginia","Little Italy, Randolph County, West Virginia",little-italy-randolph-county-west-virginia,little-italy-randolph-county-west-virginia,GPE
+Italy,15391883,1,42,704114;23623088;1171144;4304258;1942377;1884591;2170833;411234;265592;265585;14532;1484334,"http://en.wikipedia.org/wiki/Little_Italy,_Connellsville","Little Italy, Connellsville",little-italy-connellsville,little-italy-connellsville,UNK
+Italy,2170833,240,148,704114;4304258;6834333;1484334;11805457;35158589;15391883;758372;11752595;411234;20789349;1171144;15540697;23623088;1942377;8684049;1884591;897351;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Montreal","Little Italy, Montreal",little-italy-montreal,little-italy-montreal,GPE
+Italy,897351,708,300,897351;14701;14699;9804204;14532;16415;2170833;9317,http://en.wikipedia.org/wiki/Southern_Italy,Southern Italy,southern-italy,southern-italy,UNK
+Italy,1484334,345,214,2170833;704114;4304258;11805457;35158589;15391883;758372;11752595;411234;14532;20789349;1171144;15540697;23623088;1942377;8684049;1884591;265592;265585,"http://en.wikipedia.org/wiki/Little_Italy,_Baltimore","Little Italy, Baltimore",little-italy-baltimore,little-italy-baltimore,GPE
+Italy,41381137,11,73,14701;14532,http://en.wikipedia.org/wiki/For_Italy,For Italy,for-italy,for-italy,UNK
+Juventus,16415,3461,1162,1469201;772771;16415;157233;3867414;3381791;25036290;172589;11788173;11370;897351;362466;331715;353781;14532;23033;2135282;3719650,http://en.wikipedia.org/wiki/Juventus_F.C.,Juventus F.C.,juventus-fc,juventus-fc,ORG
+Juventus,6701703,55,36,,http://en.wikipedia.org/wiki/Juventus_(Belize),Juventus,juventus,juventus-belize,UNK
+Juventus,11788173,42,35,16415;3719650,http://en.wikipedia.org/wiki/Juventus_Center,Juventus Center,juventus-center,juventus-center,UNK
+Juventus,3719650,167,193,11788173;16415;3867414;25036290;362466,http://en.wikipedia.org/wiki/Juventus_Stadium,Juventus Stadium,juventus-stadium,juventus-stadium,UNK
+Juventus,31275067,43,62,14532,http://en.wikipedia.org/wiki/BC_Juventus,BC Juventus,bc-juventus,bc-juventus,ORG
+Portuguese,23033,41738,1491,3734474;13174579;1965301;24061093;1469201;9239;9317;695292;3304564;13517988;1818294;1254376;7595668;353781;11694560;14532;30584507;970642;18091;16415;157233;9352542;7024162;639342;1449162;331715;576328;23915;19497973;23033;772771;15125201;649827;585749;39886390;25317363;4935997;7611575;670993;670891;172589;41227154;23397176;42821726;172237;26449847;100715;9390856;12218968;24586056;42816739;24085988;10918072;230578;24757665;40069286;6996521;3933665;52622;3867414;3381791;259571;56959;30873580;362466;6991387;1543977;115857;2135282;612521;2695399;1240488;19686537;556249;127189;555876;126460;3952254;495343;3526090;5571094,http://en.wikipedia.org/wiki/Portugal,Portugal,portugal,portugal,GPE
+Portuguese,1246304,135,108,23915;1246304;639342;1818294,http://en.wikipedia.org/wiki/Portuguese_Wikipedia,Portuguese Wikipedia,portuguese-wikipedia,portuguese-wikipedia,UNK
+Portuguese,970642,2268,412,3952254;56959;20789349;1818294;9239;3734474;1240488;23915;495343;11694560;230578;24757665;23033;24586056;2135282;612521;172237,http://en.wikipedia.org/wiki/Portuguese_people,Portuguese people,portuguese-people,portuguese-people,UNK
+Portuguese,1818294,251,55,23915;970642;25317363;18091;639342;23033;1246304;172237,http://en.wikipedia.org/wiki/European_Portuguese,European Portuguese,european-portuguese,european-portuguese,UNK
+Portuguese,649827,111,118,23033,http://en.wikipedia.org/wiki/Portuguese_Water_Dog,Portuguese Water Dog,portuguese-water-dog,portuguese-water-dog,UNK
+Portuguese,511961,30,71,23915;639342,http://en.wikipedia.org/wiki/Portuguese_alphabet,Portuguese alphabet,portuguese-alphabet,portuguese-alphabet,UNK
+Portuguese,9687933,1,6,9687933,http://en.wikipedia.org/wiki/Portuguese_Club,Portuguese Club,portuguese-club,portuguese-club,UNK
+Portuguese,230578,2159,797,3952254;56959;18091;9804204;23915;495343;9352542;24757665;23033;970642;172237,http://en.wikipedia.org/wiki/Portuguese_Empire,Portuguese Empire,portuguese-empire,portuguese-empire,GPE
+Portuguese,25317363,32,83,23915;1818294;25317363;18091;23033;100715,http://en.wikipedia.org/wiki/Portuguese_profanity,Portuguese profanity,portuguese-profanity,portuguese-profanity,UNK
+Portuguese,495343,1349,414,23915;3952254;18091;9352542;230578;23033;970642,http://en.wikipedia.org/wiki/Portuguese_India,Portuguese India,portuguese-india,portuguese-india,GPE
+Portuguese,23915,10339,592,39041920;18091;9352542;639342;1449162;100715;1246304;30873580;576328;17342097;23033;9317;25996692;1240488;2576659;19686537;556249;585749;57395;1818294;25317363;495343;1505582;230578;24757665;511961;40069286;970642,http://en.wikipedia.org/wiki/Portuguese_language,Portuguese language,portuguese-language,portuguese-language,UNK
+Portuguese,3952254,164,144,970642;23033;495343;230578,http://en.wikipedia.org/wiki/Portuguese_nationality_law,Portuguese nationality law,portuguese-nationality-law,portuguese-nationality-law,UNK
+Portuguese,639342,652,187,23915;656933;1246304;14532;1818294;511961;23033;9239,http://en.wikipedia.org/wiki/Brazilian_Portuguese,Brazilian Portuguese,brazilian-portuguese,brazilian-portuguese,UNK
+Portuguese,152952,0,50,,http://en.wikipedia.org/wiki/Portuguese_man_o'_war,Portuguese man o' war,portuguese-man-o-war,portuguese-man-o-war,UNK
+Portuguese,1240488,35,67,23915;1240488;970642;23033,http://en.wikipedia.org/wiki/Portuguese_Guyanese,Portuguese Guyanese,portuguese-guyanese,portuguese-guyanese,UNK
+Portuguese,20934591,0,183,,http://en.wikipedia.org/wiki/Portuguese_Church_(Mumbai),Portuguese Church,portuguese-church,portuguese-church-mumbai,UNK
+European,9239,51349,1032,9239;9317;14699;14532;970642;18091;576328;23033;191684;56959;1553658;1168603;1338528;639342;25996692;8707335;100715;24085988;10918072;2343789;9804204,http://en.wikipedia.org/wiki/Europe,Europe,europe,europe,UNK
+European,1553658,68,12,9239,http://en.wikipedia.org/wiki/European_Netherlands,European Netherlands,european-netherlands,european-netherlands,UNK
+European,2333629,3,14,9317;14532;674507,"http://en.wikipedia.org/wiki/European_School,_Varese","European School, Varese",european-school-varese,european-school-varese,ORG
+European,1739264,4,7,674507,"http://en.wikipedia.org/wiki/European_School,_Bergen","European School, Bergen",european-school-bergen,european-school-bergen,ORG
+European,15125201,307,276,9317;23033;8599208;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Portugal)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-portugal,UNK
+European,7432187,9,22,7432187;9317,http://en.wikipedia.org/wiki/European_Union_Public_Licence,European Union Public Licence,european-union-public-licence,european-union-public-licence,UNK
+European,23454667,3,4,674507,"http://en.wikipedia.org/wiki/European_School,_Luxembourg_II","European School, Luxembourg II",european-school-luxembourg-ii,european-school-luxembourg-ii,UNK
+European,8599208,322,346,9317;15125201,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Ireland)","European Parliament election, 2009",european-parliament-election-2009,european-parliament-election-2009-ireland,UNK
+European,1338528,556,124,9239,http://en.wikipedia.org/wiki/European_Russia,European Russia,european-russia,european-russia,UNK
+European,674507,33,58,1739264;1991050;2333629;23454667;36091903;1014388;25996692;191684,http://en.wikipedia.org/wiki/European_School,European School,european-school,european-school,UNK
+European,9317,19822,836,1091;8599208;8707335;1014388;7432187;9239;9317;36091903;10918072;14532;18091;191684;56959;23915;23033;616004;15125201;2333629;25996692;1168603;897351,http://en.wikipedia.org/wiki/European_Union,European Union,european-union,european-union,UNK
+European,31465880,8,18,,http://en.wikipedia.org/wiki/The_European_(2009_magazine),The European,the-european,the-european-2009-magazine,UNK
+European,11696187,17,37,,http://en.wikipedia.org/wiki/European_Song,European Song,european-song,european-song,UNK
+European,36091903,3,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Brussels_III","European School, Brussels III",european-school-brussels-iii,european-school-brussels-iii,ORG
+European,22546545,14,61,,http://en.wikipedia.org/wiki/European_University,European University,european-university,european-university,ORG
+European,20919804,2,28,20919804,http://en.wikipedia.org/wiki/The_European_(1953_magazine),The European,the-european,the-european-1953-magazine,ORG
+European,25996692,3,35,23915;9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Karlsruhe","European School, Karlsruhe",european-school-karlsruhe,european-school-karlsruhe,UNK
+European,1014388,7,9,9317;674507,"http://en.wikipedia.org/wiki/European_School,_Munich","European School, Munich",european-school-munich,european-school-munich,ORG
+European,616004,129,58,9317;616004,http://en.wikipedia.org/wiki/European_Foundation_(think_tank),European Foundation,european-foundation,european-foundation-think-tank,ORG
+European,1168603,28,107,9239;9317,http://en.wikipedia.org/wiki/European_Round_Table_of_Industrialists,European Round Table of Industrialists,european-round-table-of-industrialists,european-round-table-of-industrialists,UNK
+European,17428699,4,24,,http://en.wikipedia.org/wiki/European_Institute,European Institute,european-institute,european-institute,ORG
+European,191684,95,91,9239;674507;9317,"http://en.wikipedia.org/wiki/European_School,_Culham","European School, Culham",european-school-culham,european-school-culham,ORG
+European,41345734,1,9,41345734,http://en.wikipedia.org/wiki/European_Group,European Group,european-group,european-group,UNK
+European,4042903,39,29,,http://en.wikipedia.org/wiki/European_Party_(Cyprus),European Party,european-party,european-party-cyprus,UNK
+European,3402034,1943,727,3402034;14532,http://en.wikipedia.org/wiki/European_Figure_Skating_Championships,European Figure Skating Championships,european-figure-skating-championships,european-figure-skating-championships,UNK
+European,1991050,8,12,674507,"http://en.wikipedia.org/wiki/European_School,_Mol","European School, Mol",european-school-mol,european-school-mol,UNK
+European,8707335,5,14,9317;9239,http://en.wikipedia.org/wiki/European_Journal,European Journal,european-journal,european-journal,UNK
+European,1338717,69,62,,http://en.wikipedia.org/wiki/The_European_(newspaper),The European,the-european,the-european-newspaper,UNK
+Jorge,35515981,7,6,,http://en.wikipedia.org/wiki/Jorge_&_Mateus,Jorge & Mateus,jorge-mateus,jorge-mateus,UNK
+Jorge,5753703,18,56,,http://en.wikipedia.org/wiki/Jorge_Velásquez,Jorge Velásquez,jorge-velasquez,jorge-velasquez,PER
+Jorge,9443825,7,50,670891;1505582,http://en.wikipedia.org/wiki/Jorge,Jorge,jorge,jorge,UNK
+Jorge,28285425,187,210,,http://en.wikipedia.org/wiki/Jorge_Island,Jorge Island,jorge-island,jorge-island,UNK
+Jorge,1505582,126,49,23915;9443825,http://en.wikipedia.org/wiki/Seu_Jorge,Seu Jorge,seu-jorge,seu-jorge,UNK
+Jorge,3020365,21,16,,http://en.wikipedia.org/wiki/Jorge_Santana,Jorge Santana,jorge-santana,jorge-santana,PER
+Jorge,11841800,1,91,,http://en.wikipedia.org/wiki/Don_Jorge,Don Jorge,don-jorge,don-jorge,UNK
+Jorge,2695399,471,461,555876;157233;40069286;362466;23033;1965301;172589;3526090;585749;10752326;576328;100715;670891,http://en.wikipedia.org/wiki/Artur_Jorge_(footballer),Artur Jorge,artur-jorge,artur-jorge-footballer,PER
+Antonio Oliveira,1965301,288,307,1469201;670993;2695399;3933665;7595668;4935997;555876;1254376;2135282;6615161;52622;23033;576328;11370;100715;612521;772771;353781;5571094;9390856;172589;3304564;3381791;7611575;670891;3526090,http://en.wikipedia.org/wiki/António_Luís_Alves_Ribeiro_Oliveira,António Luís Alves Ribeiro Oliveira,antonio-luis-alves-ribeiro-oliveira,antonio-luis-alves-ribeiro-oliveira,PER
+Antonio Oliveira,6615161,0,4,1965301,http://en.wikipedia.org/wiki/António_Oliveira,António Oliveira,antonio-oliveira,antonio-oliveira,PER
+Euro 96,555876,1012,462,1469201;7595668;126460;1965301;772771;353781;9390856;7611575;147793;3526090;670993;2695399;18091;14532;670891;555876;25036290;362466;23033;5571094;3304564;3933665;4935997;3867414;1254376;2135282;576328;11370;612521;3381791;695292,http://en.wikipedia.org/wiki/UEFA_Euro_1996,UEFA Euro 1996,uefa-euro-1996,uefa-euro-1996,UNK
+Vitor Baia,670993,149,145,1469201;30873580;3933665;7595668;4935997;555876;1254376;2135282;52622;23033;576328;1965301;612521;772771;353781;5571094;9390856;172589;3304564;3381791;7611575;670891;3526090,http://en.wikipedia.org/wiki/Vítor_Baía,Vítor Baía,vitor-baia,vitor-baia,PER
+Rui Correia,9390856,33,44,1965301;1469201;7611575;612521;670993;772771;555876;353781;1254376;5571094;2135282;3933665;23033;3526090;172589;576328;7595668;3304564;4935997,http://en.wikipedia.org/wiki/Rui_Correia,Rui Correia,rui-correia,rui-correia,PER
+Jorge Costa,670891,238,225,1469201;670993;2695399;3933665;555876;1254376;2135282;52622;23033;576328;11370;100715;1965301;612521;772771;353781;5571094;172589;9443825,http://en.wikipedia.org/wiki/Jorge_Costa,Jorge Costa,jorge-costa,jorge-costa,PER
+Jorge Costa,13174579,20,24,23033,http://en.wikipedia.org/wiki/Jorge_Costa_(athlete),Jorge Costa,jorge-costa,jorge-costa-athlete,PER
+Paulinho Santos,7595668,49,58,1965301;1469201;7611575;612521;670993;555876;772771;353781;1254376;5571094;2135282;3933665;9390856;23033;3526090;172589;576328;3304564;4935997,http://en.wikipedia.org/wiki/Paulinho_Santos,Paulinho Santos,paulinho-santos,paulinho-santos,PER
+Helder Cristovao,4935997,87,89,1965301;1469201;612521;670993;772771;353781;5571094;9390856;3933665;7595668;3304564;7611575;555876;1254376;2135282;23033;3526090;576328,http://en.wikipedia.org/wiki/Hélder_Cristóvão,Hélder Cristóvão,helder-cristovao,helder-cristovao,PER
+Carlos Secretario,5571094,73,80,1965301;1469201;612521;670993;772771;353781;9390856;3933665;172589;7595668;3304564;4935997;7611575;555876;670891;1254376;2135282;23033;3526090;576328,http://en.wikipedia.org/wiki/Carlos_Secretário,Carlos Secretário,carlos-secretario,carlos-secretario,PER
+Dimas Teixeira,2135282,77,74,1965301;1469201;612521;670993;970642;772771;353781;5571094;18091;9390856;3933665;7595668;3304564;4935997;7611575;16415;555876;670891;1254376;23033;3526090;576328,http://en.wikipedia.org/wiki/Dimas_Teixeira,Dimas Teixeira,dimas-teixeira,dimas-teixeira,PER
+Fernando Couto,772771,151,161,1469201;670993;3933665;7595668;4935997;16415;555876;1254376;2135282;52622;362466;23033;576328;100715;1965301;612521;353781;5571094;9390856;172589;3304564;7611575;670891;3526090,http://en.wikipedia.org/wiki/Fernando_Couto,Fernando Couto,fernando-couto,fernando-couto,PER
+Jose Barroso,26449847,1,17,172589;576328;23033,http://en.wikipedia.org/wiki/José_Barroso_(footballer),José Barroso,jose-barroso,jose-barroso-footballer,PER
+Luis Figo,353781,646,494,1469201;7595668;52622;1965301;772771;9390856;7611575;3526090;670993;18091;14532;670891;16415;555876;157233;23033;5571094;3304564;3933665;4935997;1254376;2135282;576328;612521;3381791;695292,http://en.wikipedia.org/wiki/Luís_Figo,Luís Figo,luis-figo,luis-figo,PER
+Rui Barros,3381791,78,84,1965301;670993;353781;14532;18091;172589;16415;555876;1254376;23033;126460;576328,http://en.wikipedia.org/wiki/Rui_Barros,Rui Barros,rui-barros,rui-barros,PER
+Rui Costa,612521,350,336,1469201;7595668;555876;52622;23033;1965301;772771;353781;5571094;9390856;172589;3304564;7611575;3526090;670993;970642;3933665;4935997;1254376;2135282;576328;11370;19497973;670891,http://en.wikipedia.org/wiki/Rui_Costa,Rui Costa,rui-costa,rui-costa,PER
+Rui Costa,17115937,3,4,,http://en.wikipedia.org/wiki/Rui_Costa_(Silence_4),Rui Costa,rui-costa,rui-costa-silence-4,UNK
+Rui Costa,19497973,204,165,23033;612521;14532,http://en.wikipedia.org/wiki/Rui_Costa_(cyclist),Rui Costa,rui-costa,rui-costa-cyclist,UNK
+Oceano Cruz,3304564,126,142,1965301;1469201;612521;670993;772771;353781;5571094;18091;9390856;3933665;172589;7595668;4935997;7611575;555876;1254376;2135282;23033;3526090;576328,http://en.wikipedia.org/wiki/Oceano_da_Cruz,Oceano da Cruz,oceano-da-cruz,oceano-da-cruz,PER
+Ricardo Sa Pinto,3933665,224,212,1469201;670993;18091;7595668;4935997;555876;1254376;2135282;52622;23033;576328;100715;1965301;612521;772771;353781;5571094;9390856;172589;3304564;7611575;670891;3526090,http://en.wikipedia.org/wiki/Ricardo_Sá_Pinto,Ricardo Sá Pinto,ricardo-sa-pinto,ricardo-sa-pinto,PER
+Domingos Oliveira,3734474,67,68,970642;18091;23033,http://en.wikipedia.org/wiki/Domingos_Oliveira,Domingos Oliveira,domingos-oliveira,domingos-oliveira,PER
+Joao Vieira Pinto,1254376,235,243,1469201;670993;18091;3933665;7595668;4935997;555876;2135282;52622;23033;576328;11370;100715;1965301;612521;772771;353781;5571094;9390856;172589;3304564;3381791;7611575;670891;147793;3526090,http://en.wikipedia.org/wiki/João_Vieira_Pinto,João Vieira Pinto,joao-vieira-pinto,joao-vieira-pinto,PER
+Jorge Cadete,3526090,235,259,1469201;670993;2695399;18091;3933665;7595668;4935997;555876;1254376;2135282;23033;576328;1965301;612521;772771;353781;5571094;9390856;3304564;7611575,http://en.wikipedia.org/wiki/Jorge_Cadete,Jorge Cadete,jorge-cadete,jorge-cadete,PER
+Antonio Folha,7611575,47,66,1965301;1469201;612521;670993;555876;772771;353781;1254376;5571094;2135282;30873580;3933665;9390856;23033;3526090;172589;576328;7595668;100715;3304564;4935997,http://en.wikipedia.org/wiki/António_Folha,António Folha,antonio-folha,antonio-folha,PER

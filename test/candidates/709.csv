@@ -1,0 +1,65 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Sudan,27421,10079,761,1897;8459626;21482;27421;27423;136275;385081;16285712;4689264,http://en.wikipedia.org/wiki/Sudan,Sudan,sudan,sudan,GPE
+Sudan,3293217,45,57,3527278;3192206;1688734;2924484,http://en.wikipedia.org/wiki/Sudan_stain,Sudan stain,sudan-stain,sudan-stain,UNK
+Sudan,36876843,294,237,,"http://en.wikipedia.org/wiki/Sudan,_Iran","Sudan, Iran",sudan-iran,sudan-iran,UNK
+Sudan,27423,122,195,16285712;27421;27423,http://en.wikipedia.org/wiki/Geography_of_Sudan,Geography of Sudan,geography-of-sudan,geography-of-sudan,UNK
+Sudan,29436698,0,12,,http://en.wikipedia.org/wiki/Sudan_Beach,Sudan Beach,sudan-beach,sudan-beach,UNK
+Sudan,27554702,1,17,27554702,http://en.wikipedia.org/wiki/Sudan_(beverage),Sudan,sudan,sudan-beverage,UNK
+Sudan,385081,90,33,27421,http://en.wikipedia.org/wiki/Sudan_(region),Sudan,sudan,sudan-region,GPE
+Sudan,3925287,5,13,,http://en.wikipedia.org/wiki/Sudan_function,Sudan function,sudan-function,sudan-function,UNK
+Sudan,1688734,49,70,3192206;3293217;2924484,http://en.wikipedia.org/wiki/Sudan_IV,Sudan IV,sudan-iv,sudan-iv,UNK
+Sudan,10154975,2,2,,http://en.wikipedia.org/wiki/Sūdan,Sūdan,sudan,sudan,UNK
+Sudan,136275,18,52,27421,"http://en.wikipedia.org/wiki/Sudan,_Texas","Sudan, Texas",sudan-texas,sudan-texas,GPE
+Sudan,2924484,48,77,3192206;3293217;1688734,http://en.wikipedia.org/wiki/Sudan_III,Sudan III,sudan-iii,sudan-iii,UNK
+Sudan,3527278,4,21,3293217,http://en.wikipedia.org/wiki/Sudan_Red_G,Sudan Red G,sudan-red-g,sudan-red-g,UNK
+Sudan,16285712,50,240,27421;27423,http://en.wikipedia.org/wiki/Outline_of_Sudan,Outline of Sudan,outline-of-sudan,outline-of-sudan,GPE
+Sudan,10451423,11,13,,http://en.wikipedia.org/wiki/Sudan_Village,Sudan Village,sudan-village,sudan-village,UNK
+Sudan,3192206,46,61,3293217;1688734;2924484,http://en.wikipedia.org/wiki/Sudan_II,Sudan II,sudan-ii,sudan-ii,UNK
+Sudan,23929170,1,20,,"http://en.wikipedia.org/wiki/Sudan,_Yemen","Sudan, Yemen",sudan-yemen,sudan-yemen,UNK
+NAIROBI,21482,3796,534,4335382;2775921;27421;8459626;26035803;21482;6963656;31683907;12494809,http://en.wikipedia.org/wiki/Nairobi,Nairobi,nairobi,nairobi,UNK
+NAIROBI,4335382,27,28,21482,http://en.wikipedia.org/wiki/Nairobi_River,Nairobi River,nairobi-river,nairobi-river,UNK
+NAIROBI,26035803,0,1,21482,"http://en.wikipedia.org/wiki/Nairobi,_KE-110","Nairobi, KE-110",nairobi-ke-110,nairobi-ke-110,UNK
+NAIROBI,6963656,16,6,21482,http://en.wikipedia.org/wiki/Nairobi_School,Nairobi School,nairobi-school,nairobi-school,UNK
+NAIROBI,31683907,185,160,21482,http://en.wikipedia.org/wiki/Nairobi_County,Nairobi County,nairobi-county,nairobi-county,UNK
+NAIROBI,12494809,13,7,21482,http://en.wikipedia.org/wiki/Nairobi_Hospital,Nairobi Hospital,nairobi-hospital,nairobi-hospital,ORG
+NAIROBI,8459626,219,129,21482;27421,http://en.wikipedia.org/wiki/United_Nations_Office_at_Nairobi,United Nations Office at Nairobi,united-nations-office-at-nairobi,united-nations-office-at-nairobi,UNK
+NAIROBI,2775921,278,64,21482,http://en.wikipedia.org/wiki/University_of_Nairobi,University of Nairobi,university-of-nairobi,university-of-nairobi,ORG
+NAIROBI,7145649,0,2,,http://en.wikipedia.org/wiki/Nairobi_Airport,Nairobi Airport,nairobi-airport,nairobi-airport,UNK
+Roman Catholic,606848,16975,1064,7467844;24002394;606848;335721,http://en.wikipedia.org/wiki/Catholic_Church,Catholic Church,catholic-church,catholic-church,ORG
+Roman Catholic,335721,267,168,606848,http://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Los_Angeles,Roman Catholic Archdiocese of Los Angeles,roman-catholic-archdiocese-of-los-angeles,roman-catholic-archdiocese-of-los-angeles,ORG
+Roman Catholic,8620630,210,85,,http://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Cashel_and_Emly,Roman Catholic Archdiocese of Cashel and Emly,roman-catholic-archdiocese-of-cashel-and-emly,roman-catholic-archdiocese-of-cashel-and-emly,GPE
+Roman Catholic,7467844,9,20,606848,http://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Lucera–Troia,Roman Catholic Diocese of Lucera–Troia,roman-catholic-diocese-of-lucera–troia,roman-catholic-diocese-of-lucera–troia,ORG
+Roman Catholic,24002394,96,274,606848,http://en.wikipedia.org/wiki/Roman_Catholic_(term),Roman Catholic,roman-catholic,roman-catholic-term,UNK
+Roman Catholic,10591765,17,52,,http://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Le_Puy-en-Velay,Roman Catholic Diocese of Le Puy-en-Velay,roman-catholic-diocese-of-le-puy-en-velay,roman-catholic-diocese-of-le-puy-en-velay,ORG
+Australian,4689264,136194,1016,1495;1897;840646;2403;3079;4732785;27421;911650;11197621;396952;2048074;165705;445359;3265305;171629;7122809;189907;1189447;4689264;521158;514816,http://en.wikipedia.org/wiki/Australia,Australia,australia,australia,GPE
+Australian,1189447,125,110,1495;4689264;171629,http://en.wikipedia.org/wiki/Australian_Conservation_Foundation,Australian Conservation Foundation,australian-conservation-foundation,australian-conservation-foundation,ORG
+Australian,3079,6230,535,1495;1897;2048074;3079;4732785;171629;4689264,http://en.wikipedia.org/wiki/Australian_Broadcasting_Corporation,Australian Broadcasting Corporation,australian-broadcasting-corporation,australian-broadcasting-corporation,UNK
+Australian,189907,50,110,4689264,http://en.wikipedia.org/wiki/Australian_Airlines,Australian Airlines,australian-airlines,australian-airlines,UNK
+Australian,396952,3151,159,2048074;911650;39943361;171629;4689264,http://en.wikipedia.org/wiki/The_Australian,The Australian,the-australian,the-australian,UNK
+Australian,521158,1015,284,4689264,http://en.wikipedia.org/wiki/Australian_Rugby_League,Australian Rugby League,australian-rugby-league,australian-rugby-league,PER
+Australian,39185064,2,5,,"http://en.wikipedia.org/wiki/Australian,_Windsor,_Richmond,_and_Hawkesbury_Advertiser","Australian, Windsor, Richmond, and Hawkesbury Advertiser",australian-windsor-richmond-and-hawkesbury-advertiser,australian-windsor-richmond-and-hawkesbury-advertiser,UNK
+Australian,17856651,6,15,,"http://en.wikipedia.org/wiki/Australian,_British_Columbia","Australian, British Columbia",australian-british-columbia,australian-british-columbia,GPE
+Australian,165705,1861,377,171629;1495;165705;2048074;4689264,http://en.wikipedia.org/wiki/Australian_Senate,Australian Senate,australian-senate,australian-senate,ORG
+Australian,1897,945,509,2403;7122809;3079;27421;1495;4689264;3265305;11197621;1897,http://en.wikipedia.org/wiki/Australian_English,Australian English,australian-english,australian-english,UNK
+Australian,2403,11032,495,1897;2403;4732785;4689264,http://en.wikipedia.org/wiki/Australian_rules_football,Australian rules football,australian-rules-football,australian-rules-football,UNK
+Australian,3265305,267,285,7122809;4689264;11197621;1897,http://en.wikipedia.org/wiki/German_Australian,German Australian,german-australian,german-australian,UNK
+Australian,1495,8801,426,1495;1897;2048074;3079;1189447;165705;171629;7122809;4689264,http://en.wikipedia.org/wiki/Australian_Labor_Party,Australian Labor Party,australian-labor-party,australian-labor-party,UNK
+Australian,911650,958,182,396952;4689264,http://en.wikipedia.org/wiki/Australian_Associated_Press,Australian Associated Press,australian-associated-press,australian-associated-press,ORG
+Australian,445359,156,205,4689264;514816,http://en.wikipedia.org/wiki/Australian_Cattle_Dog,Australian Cattle Dog,australian-cattle-dog,australian-cattle-dog,UNK
+Australian,171629,2637,472,1189447;396952;1495;165705;2048074;3079;4689264,http://en.wikipedia.org/wiki/Australian_Greens,Australian Greens,australian-greens,australian-greens,UNK
+Australian,5204925,35,29,,http://en.wikipedia.org/wiki/Australian_Club,Australian Club,australian-club,australian-club,ORG
+Australian,2048074,28,109,396952;165705;1495;4689264;171629;3079,http://en.wikipedia.org/wiki/Australian_Party,Australian Party,australian-party,australian-party,ORG
+Australian,8574469,7,11,,http://en.wikipedia.org/wiki/Australian_Church,Australian Church,australian-church,australian-church,UNK
+Australian,840646,504,170,4689264,http://en.wikipedia.org/wiki/Australian_Museum,Australian Museum,australian-museum,australian-museum,UNK
+Australian,7122809,188,252,4689264;3265305;11197621;1897;1495,http://en.wikipedia.org/wiki/American_Australian,American Australian,american-australian,american-australian,UNK
+Australian,11197621,837,316,7122809;4689264;3265305;1897,http://en.wikipedia.org/wiki/Australians,Australians,australians,australians,UNK
+Australian,39943361,6,3,396952,http://en.wikipedia.org/wiki/The_Australian_(1824_newspaper),The Australian,the-australian,the-australian-1824-newspaper,UNK
+Australian,4732785,8927,643,2403;3079;4732785;4689264,http://en.wikipedia.org/wiki/Australian_Football_League,Australian Football League,australian-football-league,australian-football-league,ORG
+Australian,14859750,15,14,,http://en.wikipedia.org/wiki/Australian_Musician,Australian Musician,australian-musician,australian-musician,ORG
+Australian,514816,205,185,4689264;445359,http://en.wikipedia.org/wiki/Australian_Shepherd,Australian Shepherd,australian-shepherd,australian-shepherd,UNK
+Catholic,606848,16975,1064,7467844;24002394;606848;335721,http://en.wikipedia.org/wiki/Catholic_Church,Catholic Church,catholic-church,catholic-church,ORG
+Catholic,335721,267,168,606848,http://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Los_Angeles,Roman Catholic Archdiocese of Los Angeles,roman-catholic-archdiocese-of-los-angeles,roman-catholic-archdiocese-of-los-angeles,ORG
+Catholic,8620630,210,85,,http://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Cashel_and_Emly,Roman Catholic Archdiocese of Cashel and Emly,roman-catholic-archdiocese-of-cashel-and-emly,roman-catholic-archdiocese-of-cashel-and-emly,GPE
+Catholic,7467844,9,20,606848,http://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Lucera–Troia,Roman Catholic Diocese of Lucera–Troia,roman-catholic-diocese-of-lucera–troia,roman-catholic-diocese-of-lucera–troia,ORG
+Catholic,24002394,96,274,606848,http://en.wikipedia.org/wiki/Roman_Catholic_(term),Roman Catholic,roman-catholic,roman-catholic-term,UNK
+Catholic,10591765,17,52,,http://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Le_Puy-en-Velay,Roman Catholic Diocese of Le Puy-en-Velay,roman-catholic-diocese-of-le-puy-en-velay,roman-catholic-diocese-of-le-puy-en-velay,ORG

@@ -1,0 +1,34 @@
+forMention,id,inCount,outCount,links,url,name,normalName,normalWikiTitle,predictedType
+Rwanda,25645,6174,590,420869;31772796;73008;34421;1863662;56690;56738;24794446;1200745;14687290;67050;676659;25645;59537;1811631;18998750;1210483;76762;511846;4239626,http://en.wikipedia.org/wiki/Rwanda,Rwanda,rwanda,rwanda,GPE
+Rwanda,73008,382,117,1811631;56690;676659;25645,http://en.wikipedia.org/wiki/International_Criminal_Tribunal_for_Rwanda,International Criminal Tribunal for Rwanda,international-criminal-tribunal-for-rwanda,international-criminal-tribunal-for-rwanda,UNK
+Rwanda,1811631,248,75,676659;25645;73008;67050;56738,http://en.wikipedia.org/wiki/Kingdom_of_Rwanda,Kingdom of Rwanda,kingdom-of-rwanda,kingdom-of-rwanda,GPE
+Rwanda,56738,128,183,676659;1811631;511846;25645;56690;76762;56738,http://en.wikipedia.org/wiki/Geography_of_Rwanda,Geography of Rwanda,geography-of-rwanda,geography-of-rwanda,UNK
+Rwanda,676659,781,303,1811631;1863662;56690;56738;676659;1210483;25645;76762;14687290;18998750;511846;73008;34421;4239626;67050;59537,http://en.wikipedia.org/wiki/Rwandan_Genocide,Rwandan Genocide,rwandan-genocide,rwandan-genocide,UNK
+Zaire,76762,10070,610,420869;367550;36421984;31772796;34421;1863662;56690;56738;1200745;14687290;67050;12174423;676659;25645;59537;1210483;76762;511846;9202552,http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo,Democratic Republic of the Congo,democratic-republic-of-the-congo,democratic-republic-of-the-congo,GPE
+Zaire,22218737,34,67,34421,http://en.wikipedia.org/wiki/Zaïre_(play),Zaïre,zaire,zaire-play,UNK
+Zaire,34421,1811,160,676659;25645;14687290;22218737;420869;59537;367550;1210483;76762,http://en.wikipedia.org/wiki/Zaire,Zaire,zaire,zaire,GPE
+Zaire,367550,207,39,34421;76762,http://en.wikipedia.org/wiki/Zaire_Province,Zaire Province,zaire-province,zaire-province,GPE
+Rwandan,25645,6174,590,420869;31772796;73008;34421;1863662;56690;56738;24794446;1200745;14687290;67050;676659;25645;59537;1811631;18998750;1210483;76762;511846;4239626,http://en.wikipedia.org/wiki/Rwanda,Rwanda,rwanda,rwanda,GPE
+Rwandan,676659,781,303,1811631;1863662;56690;56738;676659;1210483;25645;76762;14687290;18998750;511846;73008;34421;4239626;67050;59537,http://en.wikipedia.org/wiki/Rwandan_Genocide,Rwandan Genocide,rwandan-genocide,rwandan-genocide,UNK
+KIGALI,56690,733,195,1863662;56738;676659;25645;76762;73008;4239626;67050;59537,http://en.wikipedia.org/wiki/Kigali,Kigali,kigali,kigali,GPE
+KIGALI,4239626,73,47,676659;56690;1210483;31772796;25645,http://en.wikipedia.org/wiki/Kigali_International_Airport,Kigali International Airport,kigali-international-airport,kigali-international-airport,UNK
+Hutu,59537,375,69,511846;56690;676659;25645;34421;76762;67050,http://en.wikipedia.org/wiki/Hutu,Hutu,hutu,hutu,UNK
+Reuters,18998750,9093,418,14687290;676659;25645;18998750;2171552,http://en.wikipedia.org/wiki/Reuters,Reuters,reuters,reuters,UNK
+Reuters,2171552,66,99,18998750,http://en.wikipedia.org/wiki/Reuters_Group,Reuters Group,reuters-group,reuters-group,UNK
+Kigali,56690,733,195,1863662;56738;676659;25645;76762;73008;4239626;67050;59537,http://en.wikipedia.org/wiki/Kigali,Kigali,kigali,kigali,GPE
+Kigali,4239626,73,47,676659;56690;1210483;31772796;25645,http://en.wikipedia.org/wiki/Kigali_International_Airport,Kigali International Airport,kigali-international-airport,kigali-international-airport,UNK
+Zairean,34421,1811,160,676659;25645;14687290;22218737;420869;59537;367550;1210483;76762,http://en.wikipedia.org/wiki/Zaire,Zaire,zaire,zaire,GPE
+Goma,1210483,228,83,36421984;676659;1863662;511846;25645;12174423;1200745;34421;76762;14687290;4239626;9202552;31772796;67050,http://en.wikipedia.org/wiki/Goma,Goma,goma,goma,UNK
+Goma,9202552,50,33,76762;1210483,http://en.wikipedia.org/wiki/Goma_International_Airport,Goma International Airport,goma-international-airport,goma-international-airport,UNK
+Goma,12174423,4,6,1210483;76762;511846,http://en.wikipedia.org/wiki/University_of_Goma,University of Goma,university-of-goma,university-of-goma,ORG
+Goma,13642292,28,33,,http://en.wikipedia.org/wiki/Goma_Station,Goma Station,goma-station,goma-station,UNK
+Goma,36421984,26,35,76762;1210483,http://en.wikipedia.org/wiki/Goma_(commune),Goma,goma,goma-commune,GPE
+Tutsi,67050,380,65,1811631;511846;56690;676659;1210483;420869;25645;76762;14687290;59537,http://en.wikipedia.org/wiki/Tutsi,Tutsi,tutsi,tutsi,UNK
+Kengo wa Dondo,420869,12,56,34421;25645;76762;67050,http://en.wikipedia.org/wiki/Léon_Kengo,Léon Kengo,leon-kengo,leon-kengo,PER
+Tutsis,67050,380,65,1811631;511846;56690;676659;1210483;420869;25645;76762;14687290;59537,http://en.wikipedia.org/wiki/Tutsi,Tutsi,tutsi,tutsi,UNK
+Kivu,1200745,59,18,1863662;25645;76762;1210483;14687290;511846,http://en.wikipedia.org/wiki/Kivu,Kivu,kivu,kivu,UNK
+Kivu,511846,147,63,676659;1863662;76762;1210483;511846;25645;12174423;67050;59537;56738;1200745,http://en.wikipedia.org/wiki/Lake_Kivu,Lake Kivu,lake-kivu,lake-kivu,UNK
+Kivu,14687290,105,215,676659;1863662;1210483;25645;1200745;34421;76762;14687290;18998750;67050,http://en.wikipedia.org/wiki/Kivu_conflict,Kivu conflict,kivu-conflict,kivu-conflict,UNK
+Gisenyi,1863662,80,20,676659;56690;25645;76762;1210483;14687290;31772796;1200745;511846,http://en.wikipedia.org/wiki/Gisenyi,Gisenyi,gisenyi,gisenyi,GPE
+Gisenyi,31772796,10,23,1863662;25645;76762;1210483;4239626,http://en.wikipedia.org/wiki/Gisenyi_Airport,Gisenyi Airport,gisenyi-airport,gisenyi-airport,UNK
+Gisenyi,24794446,3,4,25645,http://en.wikipedia.org/wiki/Gisenyi_Province,Gisenyi Province,gisenyi-province,gisenyi-province,UNK
