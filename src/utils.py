@@ -10,28 +10,28 @@ from googlesearch import search
 #  Candidate Generation Functions
 # ---------------------------------------
 
-API_KEY = open(os.path.join(os.path.dirname(__file__), '.api_key')).read()
+# API_KEY = open(os.path.join(os.path.dirname(__file__), '.api_key')).read()
 
-def GoogleKBSearch(query, num_res=10, as_df=False):
-	service_url = 'https://kgsearch.googleapis.com/v1/entities:search'
-	columns = ['name', 'description', 'type', 'detailedDescription', 'url']
-	params = {
-		'query': query,
-		'limit': num_res,
-		'indent': True,
-		'key': API_KEY,
-	}
-	url = service_url + '?' + urllib.parse.urlencode(params)
-	response = json.loads(urllib.request.urlopen(url).read())
-	parsed = []
-	for i in response['itemListElement']:
-		result = i['result']
-		if 'description' in result.keys():
-			parsed.append([
-				result['name'], result['description'], ','.join(result['@type']),
-				result['detailedDescription']['articleBody'], result['detailedDescription']['url'],
-			])
-	return pd.DataFrame(parsed, columns=columns) if as_df else parsed
+# def GoogleKBSearch(query, num_res=10, as_df=False):
+# 	service_url = 'https://kgsearch.googleapis.com/v1/entities:search'
+# 	columns = ['name', 'description', 'type', 'detailedDescription', 'url']
+# 	params = {
+# 		'query': query,
+# 		'limit': num_res,
+# 		'indent': True,
+# 		'key': API_KEY,
+# 	}
+# 	url = service_url + '?' + urllib.parse.urlencode(params)
+# 	response = json.loads(urllib.request.urlopen(url).read())
+# 	parsed = []
+# 	for i in response['itemListElement']:
+# 		result = i['result']
+# 		if 'description' in result.keys():
+# 			parsed.append([
+# 				result['name'], result['description'], ','.join(result['@type']),
+# 				result['detailedDescription']['articleBody'], result['detailedDescription']['url'],
+# 			])
+# 	return pd.DataFrame(parsed, columns=columns) if as_df else parsed
 
 
 def GoogleSearch(query, num_results=10, desc=False):
