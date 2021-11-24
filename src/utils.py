@@ -1,37 +1,7 @@
-import os
 import json
 import urllib
-import pandas as pd
 
 from googlesearch import search
-
-
-# ---------------------------------------
-#  Candidate Generation Functions
-# ---------------------------------------
-
-# API_KEY = open(os.path.join(os.path.dirname(__file__), '.api_key')).read()
-
-# def GoogleKBSearch(query, num_res=10, as_df=False):
-# 	service_url = 'https://kgsearch.googleapis.com/v1/entities:search'
-# 	columns = ['name', 'description', 'type', 'detailedDescription', 'url']
-# 	params = {
-# 		'query': query,
-# 		'limit': num_res,
-# 		'indent': True,
-# 		'key': API_KEY,
-# 	}
-# 	url = service_url + '?' + urllib.parse.urlencode(params)
-# 	response = json.loads(urllib.request.urlopen(url).read())
-# 	parsed = []
-# 	for i in response['itemListElement']:
-# 		result = i['result']
-# 		if 'description' in result.keys():
-# 			parsed.append([
-# 				result['name'], result['description'], ','.join(result['@type']),
-# 				result['detailedDescription']['articleBody'], result['detailedDescription']['url'],
-# 			])
-# 	return pd.DataFrame(parsed, columns=columns) if as_df else parsed
 
 
 def GoogleSearch(query, num_results=10, desc=False):
@@ -97,9 +67,40 @@ def WikiSearch(query, num_results=20):
 	}
 
 	results = make_request(service_url, search_params)[1]
-	results = [i.replace(' ', '_') for i in results if 'disambiguation' not in i.lower()]
+	results = [i.replace(' ', '_')
+			   for i in results if 'disambiguation' not in i.lower()]
 	return results
 
+
+def getLinks(entity):
+	def parse_response(data):
+		pages = data["query"]["pages"]
+		page_titles = []
+		for _, val in pages.items():
+			for link in val["links"]:
+				page_titles.append(link["title"])
+		return page_titles
+
+	url = "https://en.wikipedia.org/w/api.php"
+	params = {
+		"action": "query",
+		"format": "json",
+		"titles": entity,
+		"prop": "links",
+		"pllimit": "max",
+		"plnamespace": 0
+	}
+	# make the inital request
+	data = make_request(url, params)
+	page_titles = parse_response(data)	
+	# keep going until the last page
+	while "continue" in data:
+		plcontinue = data["continue"]["plcontinue"]
+		params["plcontinue"] = plcontinue
+		data = make_request(url, params)
+		page_titles += parse_response(data)
+
+	return page_titles
 
 # ---------------------------------------
 #  Other
