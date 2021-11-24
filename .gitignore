@@ -1,16 +1,14 @@
 **/__pycache__
-.api_key
 
-/test/raw/*
-/test/mentions/*.csv
-# /test/candidates/*.csv
 /results/*
 
 /embeddings/*
 !/embeddings/download.py
 
-/data/*.ttl
-/data/*.csv
-!/data/entity_desc.csv
+/data/*
+!/data/*.py
+!/data/raw/*
 
 temp.ipynb
+
+/misc

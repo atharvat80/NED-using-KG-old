@@ -111,7 +111,7 @@ def make_request(service_url, params):
 	return response
 
 
-def getEntityInfo(entity_title, inc_extract=False):
+def getEntityInfo(entity_title, inc_extract=True, num_sentences=1):
 	service_url = 'https://en.wikipedia.org/w/api.php'
 	params = {
 		'action': 'query',
@@ -124,7 +124,7 @@ def getEntityInfo(entity_title, inc_extract=False):
 	if inc_extract:
 		params['explaintext'] = 1
 		params['exsectionformat'] = "plain"
-		params['exsentences'] = 1
+		params['exsentences'] = num_sentences
 
 	res = make_request(service_url, params)['query']['pages']
 	res = res[list(res.keys())[0]]
