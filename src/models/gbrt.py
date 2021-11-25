@@ -42,7 +42,8 @@ class GBRT():
 		for candidate in candidates:
 			if candidates[candidate] is not None:
 				score = self.cosSim(context, candidates[candidate])
-				ranking.append([candidate, score])
+				if not(np.isnan(score)):
+					ranking.append([candidate, score])
 		return ranking
 
 	def link(self, mention, doc, candidates):
@@ -57,6 +58,6 @@ class GBRT():
 		ranking = self.rank(candidateEnc, contextEnc)
 		if ranking:
 			ranking.sort(key=lambda x: x[1], reverse=True)
-			return ranking[0]
+			return ranking
 		else:
-			return 'NIL', 0
+			return [['NIL', 0]]
